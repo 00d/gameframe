@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pathfinder 2e Rules Viewer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    // Theme initialization - runs before body renders to prevent flash
+    (function() {
+      const saved = localStorage.getItem('pf2e-theme');
+      if (saved === 'light') {
+        document.documentElement.classList.remove('dark');
+      } else {
+        document.documentElement.classList.add('dark');
+      }
+    })();
+
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            dark: {
+              bg: '#0d1117',
+              surface: '#161b22',
+              border: '#30363d',
+              text: '#c9d1d9',
+              muted: '#8b949e',
+              accent: '#58a6ff',
+              hover: '#21262d'
+            },
+            light: {
+              bg: '#ffffff',
+              surface: '#f6f8fa',
+              border: '#d0d7de',
+              text: '#24292f',
+              muted: '#57606a',
+              accent: '#0969da',
+              hover: '#eaeef0'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    /* ---- Scrollbar ---- */
+    ::-webkit-scrollbar { width: 8px; height: 8px; }
+    .dark ::-webkit-scrollbar-track { background: #161b22; }
+    .dark ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
+    .dark ::-webkit-scrollbar-thumb:hover { background: #484f58; }
+    :not(.dark) ::-webkit-scrollbar-track { background: #f0f2f5; }
+    :not(.dark) ::-webkit-scrollbar-thumb { background: #c9cdd4; border-radius: 4px; }
+    :not(.dark) ::-webkit-scrollbar-thumb:hover { background: #a8adb8; }
+
+    /* ---- Base content styles ---- */
+    .content-view { font-size: 0.9375rem; line-height: 1.7; }
+
+    /* ---- Headers ---- */
+    .content-view h1 {
+      font-size: 1.875rem; font-weight: 700;
+      margin-top: 0.5rem; margin-bottom: 0.75rem;
+      padding-bottom: 0.5rem;
+    }
+    .dark .content-view h1 { color: #e6edf3; border-bottom: 1px solid #30363d; }
+    :not(.dark) .content-view h1 { color: #24292f; border-bottom: 1px solid #d0d7de; }
+
+    .content-view h2 { font-size: 1.375rem; font-weight: 600; margin-top: 1.75rem; margin-bottom: 0.625rem; }
+    .dark .content-view h2.section-header { color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 0.25rem; }
+    :not(.dark) .content-view h2.section-header { color: #0969da; border-bottom: 1px solid #d0d7de; padding-bottom: 0.25rem; }
+
+    .content-view h3 { font-size: 1.125rem; font-weight: 600; margin-top: 1.25rem; margin-bottom: 0.5rem; }
+    .dark .content-view h3.subsection-header { color: #8b949e; }
+    :not(.dark) .content-view h3.subsection-header { color: #57606a; }
+
+    /* ---- Paragraphs & lists ---- */
+    .content-view p { margin-bottom: 0.625rem; }
+    .content-view ul, .content-view ol { margin: 0.5rem 0 0.625rem 1.75rem; }
+    .content-view li { margin-bottom: 0.25rem; }
+    .content-view ul { list-style-type: disc; }
+    .content-view ol { list-style-type: decimal; }
+
+    /* ---- Inline code ---- */
+    .dark .content-view code { background: #21262d; color: #f0883e; padding: 0.1rem 0.35rem; border-radius: 3px; font-size: 0.85rem; }
+    :not(.dark) .content-view code { background: #eaeef0; color: #cf3030; padding: 0.1rem 0.35rem; border-radius: 3px; font-size: 0.85rem; }
+
+    /* ---- Blockquote ---- */
+    .content-view blockquote { border-left: 3px solid; padding-left: 1rem; margin: 1rem 0; }
+    .dark .content-view blockquote { border-color: #58a6ff; color: #8b949e; }
+    :not(.dark) .content-view blockquote { border-color: #0969da; color: #57606a; }
+
+    /* ---- Tables ---- */
+    .content-view table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.875rem; }
+    .dark .content-view th, .dark .content-view td { border: 1px solid #30363d; padding: 0.45rem 0.7rem; }
+    .dark .content-view th { background: #21262d; font-weight: 600; color: #c9d1d9; }
+    .dark .content-view td { color: #c9d1d9; }
+    :not(.dark) .content-view th, :not(.dark) .content-view td { border: 1px solid #d0d7de; padding: 0.45rem 0.7rem; }
+    :not(.dark) .content-view th { background: #eaeef0; font-weight: 600; color: #24292f; }
+    :not(.dark) .content-view td { color: #24292f; }
+
+    /* ---- Links ---- */
+    .dark .content-view a { color: #58a6ff; text-decoration: none; }
+    .dark .content-view a:hover { text-decoration: underline; }
+    :not(.dark) .content-view a { color: #0969da; text-decoration: none; }
+    :not(.dark) .content-view a:hover { text-decoration: underline; }
+
+    /* ---- Pre/code blocks ---- */
+    .dark .content-view pre { background: #21262d; padding: 1rem; border-radius: 6px; overflow-x: auto; margin-bottom: 1rem; }
+    :not(.dark) .content-view pre { background: #eaeef0; padding: 1rem; border-radius: 6px; overflow-x: auto; margin-bottom: 1rem; }
+    .content-view pre code { background: transparent; padding: 0; color: inherit; }
+
+    /* ---- Page markers ---- */
+    .dark .content-view .page-marker { display: inline-block; background: #21262d; color: #8b949e; font-size: 0.7rem; padding: 0.1rem 0.45rem; border-radius: 3px; margin: 1rem 0 0.4rem; font-weight: 500; letter-spacing: 0.02em; }
+    :not(.dark) .content-view .page-marker { display: inline-block; background: #eaeef0; color: #57606a; font-size: 0.7rem; padding: 0.1rem 0.45rem; border-radius: 3px; margin: 1rem 0 0.4rem; font-weight: 500; letter-spacing: 0.02em; }
+
+    /* ---- Stat blocks ---- */
+    .dark .content-view .stat-block {
+      background: #161b22; border: 1px solid #30363d;
+      border-left: 3px solid #58a6ff; border-radius: 0 6px 6px 0;
+      padding: 0.75rem 1rem; margin: 1rem 0;
+    }
+    :not(.dark) .content-view .stat-block {
+      background: #f6f8fa; border: 1px solid #d0d7de;
+      border-left: 3px solid #0969da; border-radius: 0 6px 6px 0;
+      padding: 0.75rem 1rem; margin: 1rem 0;
+    }
+
+    .content-view .creature-name {
+      font-size: 1.2rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.05em; margin-bottom: 0.15rem;
+    }
+    .dark .content-view .creature-name { color: #58a6ff; }
+    :not(.dark) .content-view .creature-name { color: #0969da; }
+
+    .content-view .creature-level {
+      display: inline-block; font-size: 0.72rem; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.06em;
+      padding: 0.1rem 0.4rem; border-radius: 3px; margin-right: 0.3rem;
+    }
+    .dark .content-view .creature-level { background: #21262d; color: #58a6ff; border: 1px solid #30363d; }
+    :not(.dark) .content-view .creature-level { background: #dbeafe; color: #1d4ed8; border: 1px solid #bfdbfe; }
+
+    .content-view .creature-alignment,
+    .content-view .creature-size,
+    .content-view .creature-trait {
+      display: inline-block; font-size: 0.7rem; font-weight: 500;
+      text-transform: uppercase; letter-spacing: 0.04em;
+      padding: 0.08rem 0.35rem; border-radius: 3px; margin-right: 0.2rem; margin-bottom: 0.15rem;
+    }
+    .dark .content-view .creature-alignment { background: #21262d; color: #f0883e; border: 1px solid #30363d; }
+    .dark .content-view .creature-size { background: #21262d; color: #7ee787; border: 1px solid #30363d; }
+    .dark .content-view .creature-trait { background: #21262d; color: #8b949e; border: 1px solid #30363d; }
+    :not(.dark) .content-view .creature-alignment { background: #fff3e0; color: #e65100; border: 1px solid #ffe0b2; }
+    :not(.dark) .content-view .creature-size { background: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9; }
+    :not(.dark) .content-view .creature-trait { background: #f0f2f5; color: #57606a; border: 1px solid #d0d7de; }
+
+    .content-view .stat-field { margin: 0.2rem 0; font-size: 0.875rem; }
+    .dark .content-view .stat-field strong { color: #c9d1d9; }
+    :not(.dark) .content-view .stat-field strong { color: #24292f; }
+
+    .content-view .ability { margin: 0.4rem 0; font-size: 0.875rem; }
+    .content-view .ability-name { font-weight: 700; font-style: italic; }
+    .dark .content-view .ability-name { color: #58a6ff; }
+    :not(.dark) .content-view .ability-name { color: #0969da; }
+    .content-view .action-symbol { font-size: 0.9rem; }
+
+    .content-view .stat-description { margin: 0.25rem 0; font-size: 0.875rem; }
+    .dark .content-view .stat-description { color: #8b949e; }
+    :not(.dark) .content-view .stat-description { color: #57606a; }
+
+    /* ---- File tree transitions ---- */
+    .tree-item { transition: background-color 0.15s ease; }
+    .children-container { overflow: hidden; transition: max-height 0.25s ease-out; }
+
+    /* ---- Search results ---- */
+    .search-result-snippet { font-size: 0.78rem; }
+    .dark .search-result-snippet { color: #8b949e; }
+    :not(.dark) .search-result-snippet { color: #57606a; }
+    .dark .search-highlight { background: #264f3f; color: #7ee787; border-radius: 2px; padding: 0 2px; }
+    :not(.dark) .search-highlight { background: #fff176; color: #212121; border-radius: 2px; padding: 0 2px; }
+
+    /* ---- Search panel overlay ---- */
+    .search-panel { position: fixed; top: 0; left: 0; right: 0; bottom: 0; z-index: 100; display: flex; align-items: flex-start; justify-content: center; padding-top: 5vh; }
+    .dark .search-panel-bg { background: rgba(0,0,0,0.6); }
+    :not(.dark) .search-panel-bg { background: rgba(255,255,255,0.6); }
+    .search-panel-inner { width: 100%; max-width: 640px; max-height: 70vh; display: flex; flex-direction: column; border-radius: 10px; overflow: hidden; box-shadow: 0 16px 48px rgba(0,0,0,0.4); }
+    .dark .search-panel-inner { background: #1c2128; border: 1px solid #30363d; }
+    :not(.dark) .search-panel-inner { background: #fff; border: 1px solid #d0d7de; }
+    .search-panel-results { overflow-y: auto; }
+    .search-panel-result { padding: 0.7rem 1rem; cursor: pointer; border-bottom: 1px solid; }
+    .dark .search-panel-result { border-color: #21262d; }
+    .dark .search-panel-result:hover { background: #21262d; }
+    :not(.dark) .search-panel-result { border-color: #eaeef0; }
+    :not(.dark) .search-panel-result:hover { background: #eaeef0; }
+
+    /* ---- Mobile sidebar toggle ---- */
+    @media (max-width: 768px) {
+      #sidebar { transform: translateX(-100%); transition: transform 0.25s ease; }
+      #sidebar.open { transform: translateX(0); }
+      #resize-handle { display: none; }
+    }
+  </style>
+</head>
+<body class="min-h-screen transition-colors duration-200">
+  <!-- Theme-aware body background -->
+  <style>
+    .dark body { background: #0d1117; color: #c9d1d9; }
+    :not(.dark) body { background: #ffffff; color: #24292f; }
+  </style>
+
+  <!-- Header -->
+  <header class="sticky top-0 z-10 border-b">
+    <style>
+      .dark header { background: #161b22; border-color: #30363d; }
+      :not(.dark) header { background: #f6f8fa; border-color: #d0d7de; }
+    </style>
+    <div class="flex items-center justify-between px-4 py-2.5">
+      <div class="flex items-center gap-3">
+        <button id="mobile-sidebar-toggle" class="md:hidden p-1.5 rounded" title="Toggle sidebar">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 6h18M3 12h18M3 18h18"></path>
+          </svg>
+        </button>
+        <h1 class="text-lg font-bold">Pathfinder 2e Rules</h1>
+      </div>
+      <div class="flex items-center gap-2">
+        <!-- Search trigger -->
+        <button id="search-trigger" class="flex items-center gap-1.5 px-3 py-1.5 rounded text-sm border" title="Search (⌘K)">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+          <span class="hidden sm:inline">Search</span>
+          <kbd class="hidden sm:inline text-xs px-1.5 py-0.5 rounded font-mono">⌘K</kbd>
+        </button>
+        <style>
+          .dark #search-trigger { background: #0d1117; border-color: #30363d; color: #8b949e; }
+          .dark #search-trigger:hover { border-color: #58a6ff; color: #c9d1d9; }
+          :not(.dark) #search-trigger { background: #fff; border-color: #d0d7de; color: #57606a; }
+          :not(.dark) #search-trigger:hover { border-color: #0969da; color: #24292f; }
+        </style>
+        <!-- Theme toggle -->
+        <button id="theme-toggle" class="p-1.5 rounded transition-colors" title="Toggle theme">
+          <svg id="theme-icon-moon" class="w-5 h-5 dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="display:none;">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3a9 9 0 000 18 9 9 0 000-18z"></path>
+          </svg>
+          <svg id="theme-icon-sun" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="display:block;">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M12 8a4 4 0 100 8 4 4 0 000-8z"></path>
+          </svg>
+          <style>
+            .dark #theme-icon-moon { display: block !important; }
+            .dark #theme-icon-sun { display: none !important; }
+            :not(.dark) #theme-icon-moon { display: none !important; }
+            :not(.dark) #theme-icon-sun { display: block !important; }
+            .dark #theme-toggle:hover { background: #21262d; }
+            :not(.dark) #theme-toggle:hover { background: #eaeef0; }
+          </style>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="flex" style="height: calc(100vh - 49px);">
+    <!-- Sidebar -->
+    <aside id="sidebar" class="w-72 flex-shrink-0 overflow-y-auto border-r transition-colors">
+      <style>
+        .dark #sidebar { background: #161b22; border-color: #30363d; }
+        :not(.dark) #sidebar { background: #f6f8fa; border-color: #d0d7de; }
+      </style>
+      <div class="p-3">
+        <!-- File filter (sidebar) -->
+        <input
+          type="text"
+          id="file-filter"
+          placeholder="Filter files..."
+          class="w-full px-2.5 py-1.5 text-sm rounded border mb-3 focus:outline-none"
+        >
+        <style>
+          .dark #file-filter { background: #0d1117; border-color: #30363d; color: #c9d1d9; }
+          .dark #file-filter::placeholder { color: #484f58; }
+          .dark #file-filter:focus { border-color: #58a6ff; }
+          :not(.dark) #file-filter { background: #fff; border-color: #d0d7de; color: #24292f; }
+          :not(.dark) #file-filter::placeholder { color: #8494a4; }
+          :not(.dark) #file-filter:focus { border-color: #0969da; }
+        </style>
+        <div class="text-xs font-semibold uppercase tracking-wider mb-2">
+          <span class="dark:text-dark-muted" style="color: inherit;">Files</span>
+        </div>
+        <style>
+          .dark .sidebar-label { color: #8b949e; }
+          :not(.dark) .sidebar-label { color: #57606a; }
+        </style>
+        <div id="file-tree" class="space-y-0.5"></div>
+      </div>
+    </aside>
+
+    <!-- Resize handle -->
+    <div id="resize-handle" class="w-1 flex-shrink-0 cursor-col-resize transition-colors" style="background: transparent;">
+      <style>
+        .dark #resize-handle:hover { background: #58a6ff; }
+        :not(.dark) #resize-handle:hover { background: #0969da; }
+      </style>
+    </div>
+
+    <!-- Main content -->
+    <main class="flex-1 overflow-y-auto">
+      <div id="content-area" class="p-6 max-w-4xl mx-auto">
+        <!-- Welcome state -->
+        <div id="welcome-message" class="text-center py-24">
+          <svg class="w-16 h-16 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="color: #8b949e;">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
+          </svg>
+          <h2 class="text-xl font-semibold mb-2">Welcome to the Rules Viewer</h2>
+          <p style="color: #8b949e;">Select a file from the sidebar or press <kbd class="px-1.5 py-0.5 text-xs rounded font-mono border">⌘K</kbd> to search</p>
+        </div>
+
+        <!-- Content area -->
+        <div id="content-display" class="content-view hidden"></div>
+
+        <!-- Loading -->
+        <div id="loading-indicator" class="hidden text-center py-24">
+          <div class="inline-block animate-spin rounded-full h-8 w-8 border-2 border-t-transparent" style="border-color: #58a6ff; border-top-color: transparent;"></div>
+          <p class="mt-4" style="color: #8b949e;">Loading...</p>
+        </div>
+
+        <!-- Error -->
+        <div id="error-message" class="hidden text-center py-24">
+          <svg class="w-12 h-12 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="color: #f85149;">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path>
+          </svg>
+          <p id="error-text" style="color: #f85149;">Failed to load file</p>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- Search overlay panel -->
+  <div id="search-panel" class="search-panel search-panel-bg hidden" role="dialog" aria-modal="true">
+    <div class="search-panel-inner">
+      <div class="flex items-center px-4 py-2 border-b">
+        <svg class="w-4 h-4 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="color: #8b949e;">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        </svg>
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search across all content..."
+          class="flex-1 bg-transparent outline-none text-sm"
+          autocomplete="off"
+          spellcheck="false"
+        >
+        <style>
+          .dark #search-input { color: #c9d1d9; }
+          .dark #search-input::placeholder { color: #484f58; }
+          :not(.dark) #search-input { color: #24292f; }
+          :not(.dark) #search-input::placeholder { color: #8494a4; }
+          .dark .search-panel-inner .border-b { border-color: #30363d; }
+          :not(.dark) .search-panel-inner .border-b { border-color: #eaeef0; }
+        </style>
+        <button id="search-close" class="ml-2 p-0.5 rounded" title="Close">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="color: #8b949e;">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+      <div id="search-results" class="search-panel-results">
+        <div id="search-empty" class="px-4 py-8 text-center text-sm" style="color: #8b949e;">
+          Type to search across all rulebook content
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile sidebar backdrop -->
+  <div id="sidebar-backdrop" class="hidden fixed inset-0 z-20" style="background: rgba(0,0,0,0.4);"></div>
+
+  <script>
+  (function() {
+    'use strict';
+
+    // --- State ---
+    let allFiles = [];
+    let currentPath = null;
+    let searchDebounce = null;
+
+    // --- DOM refs ---
+    const fileTree = document.getElementById('file-tree');
+    const fileFilter = document.getElementById('file-filter');
+    const contentDisplay = document.getElementById('content-display');
+    const welcomeMessage = document.getElementById('welcome-message');
+    const loadingIndicator = document.getElementById('loading-indicator');
+    const errorMessage = document.getElementById('error-message');
+    const errorText = document.getElementById('error-text');
+    const searchPanel = document.getElementById('search-panel');
+    const searchInput = document.getElementById('search-input');
+    const searchResults = document.getElementById('search-results');
+    const searchEmpty = document.getElementById('search-empty');
+    const searchTrigger = document.getElementById('search-trigger');
+    const searchClose = document.getElementById('search-close');
+    const themeToggle = document.getElementById('theme-toggle');
+    const sidebar = document.getElementById('sidebar');
+    const resizeHandle = document.getElementById('resize-handle');
+    const mobileSidebarToggle = document.getElementById('mobile-sidebar-toggle');
+    const sidebarBackdrop = document.getElementById('sidebar-backdrop');
+    const mainContent = document.querySelector('main');
+
+    // --- Theme ---
+    function applyTheme(theme) {
+      if (theme === 'light') {
+        document.documentElement.classList.remove('dark');
+      } else {
+        document.documentElement.classList.add('dark');
+      }
+      localStorage.setItem('pf2e-theme', theme);
+    }
+
+    themeToggle.addEventListener('click', () => {
+      const isDark = document.documentElement.classList.contains('dark');
+      applyTheme(isDark ? 'light' : 'dark');
+    });
+
+    // --- File tree loading ---
+    async function loadFiles() {
+      try {
+        const response = await fetch('/api/files');
+        if (!response.ok) throw new Error('Failed to fetch file list');
+        const files = await response.json();
+        allFiles = flattenFiles(files);
+        renderTree(files, fileTree, 0);
+      } catch (err) {
+        fileTree.innerHTML = '<p class="text-red-400 text-sm px-2 py-2">Failed to load file list</p>';
+      }
+    }
+
+    function flattenFiles(items, result = []) {
+      for (const item of items) {
+        if (item.type === 'file') {
+          result.push(item);
+        } else if (item.children) {
+          flattenFiles(item.children, result);
+        }
+      }
+      return result;
+    }
+
+    function renderTree(items, container, level) {
+      container.innerHTML = '';
+      for (const item of items) {
+        const el = document.createElement('div');
+        if (item.type === 'directory') {
+          renderFolder(item, el, level);
+        } else {
+          renderFileItem(item, el, level);
+        }
+        container.appendChild(el);
+      }
+    }
+
+    function renderFolder(item, el, level) {
+      const header = document.createElement('div');
+      header.className = 'tree-item flex items-center gap-1.5 py-1.5 rounded cursor-pointer';
+      header.style.paddingLeft = (level * 14 + 8) + 'px';
+      header.style.color = '#8b949e';
+
+      // Chevron
+      const chevron = document.createElement('span');
+      chevron.innerHTML = '<svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg>';
+      chevron.style.transition = 'transform 0.2s ease';
+
+      // Folder icon
+      const icon = document.createElement('span');
+      icon.innerHTML = '<svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M2 6a2 2 0 012-2h5l2 2h5a2 2 0 012 2v6a2 2 0 01-2 2H4a2 2 0 01-2-2V6z"/></svg>';
+      icon.style.color = '#58a6ff';
+      document.documentElement.classList.contains('dark') || (icon.style.color = '#0969da');
+
+      const name = document.createElement('span');
+      name.className = 'text-sm truncate flex-1';
+      name.textContent = item.name.replace(/_/g, ' ');
+
+      // Item count badge
+      const count = item.children ? item.children.length : 0;
+      const badge = document.createElement('span');
+      badge.className = 'text-xs rounded-full px-1.5 py-0.5';
+      badge.style.color = '#8b949e';
+      badge.style.background = document.documentElement.classList.contains('dark') ? '#21262d' : '#eaeef0';
+      badge.textContent = count;
+
+      header.appendChild(chevron);
+      header.appendChild(icon);
+      header.appendChild(name);
+      header.appendChild(badge);
+
+      const childrenContainer = document.createElement('div');
+      childrenContainer.className = 'children-container';
+      childrenContainer.style.maxHeight = '0';
+
+      let isOpen = false;
+      header.addEventListener('click', () => {
+        isOpen = !isOpen;
+        chevron.style.transform = isOpen ? 'rotate(90deg)' : 'rotate(0deg)';
+        if (isOpen) {
+          if (childrenContainer.children.length === 0) {
+            renderTree(item.children, childrenContainer, level + 1);
+          }
+          childrenContainer.style.maxHeight = childrenContainer.scrollHeight + 'px';
+        } else {
+          childrenContainer.style.maxHeight = '0';
+        }
+      });
+
+      // Hover styles
+      header.addEventListener('mouseenter', () => {
+        header.style.background = document.documentElement.classList.contains('dark') ? '#21262d' : '#eaeef0';
+      });
+      header.addEventListener('mouseleave', () => { header.style.background = ''; });
+
+      el.appendChild(header);
+      el.appendChild(childrenContainer);
+    }
+
+    function renderFileItem(item, el, level) {
+      el.className = 'tree-item flex items-center gap-1.5 py-1.5 rounded cursor-pointer';
+      el.style.paddingLeft = (level * 14 + 24) + 'px';
+      el.style.color = '#8b949e';
+      el.dataset.path = item.path;
+
+      const icon = document.createElement('span');
+      icon.innerHTML = '<svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>';
+
+      const name = document.createElement('span');
+      name.className = 'text-sm truncate';
+      name.textContent = item.name.replace(/\.\w+$/, '').replace(/_/g, ' ').replace(/^\d+_/, '');
+
+      el.appendChild(icon);
+      el.appendChild(name);
+
+      el.addEventListener('click', () => loadContent(item.path, el));
+
+      // Hover
+      el.addEventListener('mouseenter', () => {
+        if (currentPath !== item.path) {
+          el.style.background = document.documentElement.classList.contains('dark') ? '#21262d' : '#eaeef0';
+        }
+      });
+      el.addEventListener('mouseleave', () => {
+        if (currentPath !== item.path) el.style.background = '';
+      });
+    }
+
+    // --- Content loading ---
+    function showState(state) {
+      welcomeMessage.classList.add('hidden');
+      contentDisplay.classList.add('hidden');
+      loadingIndicator.classList.add('hidden');
+      errorMessage.classList.add('hidden');
+
+      const target = document.getElementById(state);
+      if (target) target.classList.remove('hidden');
+    }
+
+    async function loadContent(filePath, treeElement) {
+      currentPath = filePath;
+
+      // Highlight active file
+      document.querySelectorAll('[data-path]').forEach(el => {
+        el.style.background = '';
+        el.style.color = '#8b949e';
+      });
+      if (treeElement) {
+        treeElement.style.background = document.documentElement.classList.contains('dark') ? '#21262d' : '#eaeef0';
+        treeElement.style.color = document.documentElement.classList.contains('dark') ? '#58a6ff' : '#0969da';
+      }
+
+      showState('loading-indicator');
+
+      try {
+        const res = await fetch('/api/content/' + encodeURIComponent(filePath));
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const html = await res.text();
+
+        contentDisplay.innerHTML = html;
+        showState('content-display');
+
+        // Scroll content to top
+        mainContent.scrollTop = 0;
+
+        // Close mobile sidebar
+        sidebar.classList.remove('open');
+        sidebarBackdrop.classList.add('hidden');
+      } catch (err) {
+        errorText.textContent = err.message || 'Failed to load file';
+        showState('error-message');
+      }
+    }
+
+    // --- Sidebar file filter ---
+    fileFilter.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      if (!q) {
+        loadFiles();
+        return;
+      }
+
+      const filtered = allFiles.filter(f =>
+        f.name.toLowerCase().includes(q) || f.path.toLowerCase().includes(q)
+      );
+
+      fileTree.innerHTML = '';
+      if (filtered.length === 0) {
+        fileTree.innerHTML = '<p class="text-sm px-2 py-3" style="color:#8b949e;">No files match</p>';
+        return;
+      }
+
+      for (const file of filtered) {
+        const el = document.createElement('div');
+        el.className = 'tree-item flex flex-col gap-0.5 px-2 py-1.5 rounded cursor-pointer';
+        el.style.color = '#8b949e';
+        el.dataset.path = file.path;
+
+        const topRow = document.createElement('div');
+        topRow.className = 'flex items-center gap-1.5';
+        topRow.innerHTML = '<svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>';
+        const nameSpan = document.createElement('span');
+        nameSpan.className = 'text-sm truncate';
+        nameSpan.textContent = file.name.replace(/\.\w+$/, '').replace(/_/g, ' ');
+        topRow.appendChild(nameSpan);
+
+        const pathSpan = document.createElement('span');
+        pathSpan.className = 'text-xs truncate pl-5.5';
+        pathSpan.style.color = '#484f58';
+        pathSpan.textContent = file.path;
+
+        el.appendChild(topRow);
+        el.appendChild(pathSpan);
+
+        el.addEventListener('click', () => loadContent(file.path, el));
+        el.addEventListener('mouseenter', () => { el.style.background = document.documentElement.classList.contains('dark') ? '#21262d' : '#eaeef0'; });
+        el.addEventListener('mouseleave', () => { if (currentPath !== file.path) el.style.background = ''; });
+
+        fileTree.appendChild(el);
+      }
+    });
+
+    // --- Full-text search panel ---
+    function openSearch() {
+      searchPanel.classList.remove('hidden');
+      searchInput.value = '';
+      searchEmpty.classList.remove('hidden');
+      // Clear previous results
+      const prev = searchResults.querySelectorAll('.search-panel-result');
+      prev.forEach(el => el.remove());
+      searchInput.focus();
+    }
+
+    function closeSearch() {
+      searchPanel.classList.add('hidden');
+      searchInput.value = '';
+      if (searchDebounce) clearTimeout(searchDebounce);
+    }
+
+    searchTrigger.addEventListener('click', openSearch);
+    searchClose.addEventListener('click', closeSearch);
+    searchPanel.addEventListener('click', (e) => { if (e.target === searchPanel) closeSearch(); });
+
+    searchInput.addEventListener('input', () => {
+      if (searchDebounce) clearTimeout(searchDebounce);
+      const q = searchInput.value.trim();
+      if (!q || q.length < 2) {
+        // Clear results
+        searchResults.querySelectorAll('.search-panel-result').forEach(el => el.remove());
+        searchEmpty.classList.remove('hidden');
+        searchEmpty.textContent = q.length < 2 ? 'Type to search across all rulebook content' : 'No results found';
+        return;
+      }
+      searchEmpty.classList.add('hidden');
+
+      searchDebounce = setTimeout(() => performSearch(q), 300);
+    });
+
+    async function performSearch(query) {
+      // Show loading state
+      searchResults.querySelectorAll('.search-panel-result').forEach(el => el.remove());
+      searchEmpty.classList.remove('hidden');
+      searchEmpty.textContent = 'Searching...';
+
+      try {
+        const res = await fetch('/api/search?q=' + encodeURIComponent(query));
+        const data = await res.json();
+
+        searchEmpty.classList.add('hidden');
+
+        if (data.results.length === 0) {
+          searchEmpty.classList.remove('hidden');
+          searchEmpty.textContent = 'No results found';
+          return;
+        }
+
+        // Show count
+        const countEl = document.createElement('div');
+        countEl.className = 'px-4 py-1.5 text-xs';
+        countEl.style.color = '#8b949e';
+        countEl.textContent = `${data.total} file${data.total !== 1 ? 's' : ''} match`;
+        searchResults.appendChild(countEl);
+
+        for (const result of data.results) {
+          const card = document.createElement('div');
+          card.className = 'search-panel-result';
+
+          const nameEl = document.createElement('div');
+          nameEl.className = 'text-sm font-medium';
+          nameEl.textContent = result.name.replace(/_/g, ' ');
+          card.appendChild(nameEl);
+
+          const pathEl = document.createElement('div');
+          pathEl.className = 'text-xs';
+          pathEl.style.color = '#8b949e';
+          pathEl.textContent = result.path;
+          card.appendChild(pathEl);
+
+          // Show first snippet with highlight
+          if (result.snippets.length > 0) {
+            const snippetEl = document.createElement('div');
+            snippetEl.className = 'search-result-snippet mt-1 line-clamp-2';
+            snippetEl.innerHTML = highlightQuery(escapeHtml(result.snippets[0]), query);
+            card.appendChild(snippetEl);
+          }
+
+          card.addEventListener('click', () => {
+            closeSearch();
+            // Find the file in the tree and load it
+            loadContent(result.path, null);
+          });
+
+          searchResults.appendChild(card);
+        }
+      } catch {
+        searchEmpty.classList.remove('hidden');
+        searchEmpty.textContent = 'Search failed. Try again.';
+      }
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function highlightQuery(html, query) {
+      const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      return html.replace(new RegExp(escaped, 'gi'), '<span class="search-highlight">$&</span>');
+    }
+
+    // --- Sidebar resize ---
+    let isResizing = false;
+    resizeHandle.addEventListener('mousedown', (e) => {
+      e.preventDefault();
+      isResizing = true;
+      document.body.style.cursor = 'col-resize';
+      document.body.style.userSelect = 'none';
+    });
+    document.addEventListener('mousemove', (e) => {
+      if (!isResizing) return;
+      const w = Math.max(180, Math.min(520, e.clientX));
+      sidebar.style.width = w + 'px';
+    });
+    document.addEventListener('mouseup', () => {
+      if (!isResizing) return;
+      isResizing = false;
+      document.body.style.cursor = '';
+      document.body.style.userSelect = '';
+      // Persist sidebar width
+      localStorage.setItem('pf2e-sidebar-width', sidebar.style.width);
+    });
+
+    // Restore sidebar width
+    const savedWidth = localStorage.getItem('pf2e-sidebar-width');
+    if (savedWidth) sidebar.style.width = savedWidth;
+
+    // --- Mobile sidebar ---
+    mobileSidebarToggle.addEventListener('click', () => {
+      const isOpen = sidebar.classList.contains('open');
+      sidebar.classList.toggle('open', !isOpen);
+      sidebarBackdrop.classList.toggle('hidden', isOpen);
+    });
+    sidebarBackdrop.addEventListener('click', () => {
+      sidebar.classList.remove('open');
+      sidebarBackdrop.classList.add('hidden');
+    });
+
+    // --- Keyboard shortcuts ---
+    document.addEventListener('keydown', (e) => {
+      // Cmd/Ctrl+K → open search
+      if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+        e.preventDefault();
+        if (searchPanel.classList.contains('hidden')) {
+          openSearch();
+        } else {
+          closeSearch();
+        }
+        return;
+      }
+      // Escape
+      if (e.key === 'Escape') {
+        if (!searchPanel.classList.contains('hidden')) {
+          closeSearch();
+          return;
+        }
+        if (fileFilter.value) {
+          fileFilter.value = '';
+          loadFiles();
+        }
+      }
+    });
+
+    // --- Init ---
+    loadFiles();
+  })();
+  </script>
+</body>
+</html>
