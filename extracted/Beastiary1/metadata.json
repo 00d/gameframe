@@ -1,0 +1,11 @@
+{
+  "source_pdf": "PF2e_Beastiary1-cropped.pdf",
+  "book_name": "Beastiary1",
+  "total_sections": 0,
+  "extraction_methods": [
+    "pymupdf"
+  ],
+  "total_pages": 362,
+  "pages_with_content": 362,
+  "sections": []
+}

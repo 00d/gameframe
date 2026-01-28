@@ -1,0 +1,22 @@
+{
+  "source_pdf": "Dark Archive.pdf",
+  "book_name": "Dark_Archive",
+  "total_sections": 1,
+  "extraction_methods": [
+    "pymupdf"
+  ],
+  "total_pages": 226,
+  "pages_with_content": 226,
+  "sections": [
+    {
+      "type": "appendix",
+      "number": 1,
+      "title": "Supporting Evidence. The interview terminated",
+      "start_line": 18287,
+      "end_line": 26983,
+      "start_page": 155,
+      "end_page": 226,
+      "filename": "appendix_1_supporting_evidence_the_interview_terminated.txt"
+    }
+  ]
+}

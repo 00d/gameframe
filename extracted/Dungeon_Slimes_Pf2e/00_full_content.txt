@@ -1,0 +1,153 @@
+
+================================================================================
+PAGE 1
+================================================================================
+
+Annomicon
+D U N G E O N S L I M E
+The common Dungeon slime is typically formed
+from the residue of magical creatures or abandoned
+magical alchemical ingredients.
+They do not possess any special abilities, but their
+oobleck-like form is quite bouncy. It is rare to see
+even the lowliest of adventurers fall to such a simple creature.
+C A V E S L I M E
+Cave slimes are typically more bottom-heavy and
+are created through the interaction of magical
+natural flora and liquids in isolated locations. Over
+time, influenced by the ambient magic of the area or
+the surrounding ecosystem, they gradually take on
+a distinct form. These slimes tend to become more
+magic-hungry as they develop and seek to consume
+magical grass or rocks. Due to their nature, they
+often form in caves, hence their name.
+C A V E S L I M E creature 2
+Hit Points 44
+Speed 30ft. 5 burrow.
+Perception +12, Tremorsense 30 feet, no vision.
+Skills Athletics +7, Stealth +4,
+Str +2, Dex +1, Con +4, Int -4, Wis -4, Cha -3
+AC 14; Fort +12, Ref +8, Will +6
+Immunities Critical hits, Mental, Precision, Unconscious,
+Visual, Blinded.
+Melee Smack [1 ACTION] +7, One target, Damage 1d8+4
+bludgeoning.
+Amorphous The slime can use the squeeze action as part
+of its move action and always gets one degree higher of
+successes.
+Coldbolt [2 ACTION] The Cave slimes can conjure a bolt
+of arcane energy at a target within 45ft by concentrating
+its innately magical form. A creature must succeed a DC
+10 Reflex saving throw or take 3d10 cold damage. (6/Day).
+D U N G E O N S L I M E creature 1
+Hit Points 24
+Speed 25ft.
+Perception +9, Tremorsense 30 feet, no vision.
+Skills Athletics +6, Stealth +5,
+Str +1, Dex +2, Con +3, Int -4, Wis -4, Cha -3
+AC 12; Fort +2, Ref +12, Will +4
+Immunities Critical hits, Mental, Precision, Unconscious,
+Visual, Blinded.
+Melee Slam [1 ACTION] +6, One target, Damage 1d8+4
+bludgeoning.
+Bouncey [REACTION] The Dungeon Slime enjoys
+bouncing around raipdly, allowing it to jump away when
+it senses danger, as reaction to an incoming melee attack
+roll the slime gains temporariy a +2 Status AC bonus for
+the attack, if the attack fails the slime bounces 10ft away
+from the striking creature. (3/Day).
+Amorphous The slime can use the squeeze action as part
+of its move action and always gets one degree higher of
+successes.
+
+T A C T I C S
+Cave Slimes do not understand what is a living
+creature and will not fear approaching interlopers.
+When it sees a creature from a distance it will
+start peppering it with Coldbolt off the bat, to
+“prepare” its meal.
+The Cave slimes detects softness, and will smack
+a creature wearing lighter armor due to its softer
+shell.
+
+T A C T I C S
+Dungeon Slimes are wary of other creatures and
+attempt to hide if they sense any near.
+It will preform Bouncey at all Melee attacks it can.
+It does not understand sturdyness and will Slam into
+the closest enemy.
+N SMALL OOZE MINDLESS
+UNCOMMON N SMALL OOZE MINDLESS
+
+================================================================================
+PAGE 2
+================================================================================
+
+Annomicon
+UNCOMMON N SMALL OOZE MINDLESS
+RARE N SMALL OOZE MINDLESS
+A C I D I C S L I M E
+Acidic slimes are relatively uncommon compared
+to other types. They are typically created by the
+magical properties of creatures and items that have
+melted in a pool of acid, with the remaining magic
+dispersing within the acid pool, giving rise to an
+acidic slime.
+Usually, only strong and chaotic magics can endure
+in acidic liquids, imparting a chaotic and aggressive
+nature to the slime formed by such magic.
+P O I S O N S L I M E
+Poison slimes are exceedingly rare, and their creation involves very specific methods. Often, they
+originate from other slime types that have perished
+and become filled with poison gas or natural fumes.
+Another common method is the deliberate creation
+by an alchemist who specializes in poisons or in
+toxic underground caves and dungeons.
+A C I D I C S L I M E creature 3
+Hit Points 44
+Speed 30ft. 5 burrow.
+Perception +12, Tremorsense 30 feet, no vision.
+Skills Athletics +12, Stealth +6,
+Str +2, Dex +1, Con +4, Int -4, Wis -4, Cha -3
+AC 14; Fort +16, Ref +9, Will +6
+Immunities Critical hits, Mental, Precision, Unconscious,
+Visual, Blinded.
+Melee Chomp! [1 ACTION] +7, One target, Damage 1d8+4
+Piercing, and 2d6 Acid Splash damage.
+Acid Slobber [2 ACTIONS] the Acidic slime targets three
+creatures, spitting acid at them dealing 2d6 Acid splash
+damage within 40ft.
+Amorphous The slime can use the squeeze action as part
+of its move action and always gets one degree higher of
+successes.
+Acidic Puddles The Slime leaves behind a 5ft by 5ft
+puddle of acid wherever it was that stays for 1 round, a
+creature stepping into it takes 2d6 acid damage.
+whenever the Acidic Slime moves through it,
+it regains 1 health point.
+P O I S O N S L I M E creature 4
+Hit Points 33
+Speed 30ft. 5 burrow.
+Perception +11, Tremorsense 30 feet, no vision.
+Skills Athletics +12, Stealth +20, Acrobatics +11,
+Str +1, Dex +5, Con +2, Int -4, Wis -4, Cha -3
+AC 16; Fort +4, Ref +19, Will +6
+Immunities Critical hits, Mental, Precision, Unconscious,
+Visual, Blinded.
+Ranged Fume +8, ,40ft,One target,
+Damage 2d8+4 Poison, and 1d6 Poison Splash damage.
+Amorphight The slime can use the squeeze action as part
+of its move action and always gets one degree higher of
+successes, it also slowfalls, 10ft a round.
+Lighter than Air [FREE ACTION] The Poison Slime can
+ jump into the air within 40ft, and can stick to walls
+T A C T I C S
+The Acidic slimes are aggressive, and use Multiattack every turn, and prefer attacking the biggest
+target in the area.
+It will run in circles before attacking to create
+Acidic puddles in the area.
+T A C T I C S
+The Poison Slime is shy and tends to hide in the dark,
+regardless of the presence of people.
+It will use Lighter than Air whenver something gets close to it.
+Fume is the best tool the Slime has to keep creatures at bay.

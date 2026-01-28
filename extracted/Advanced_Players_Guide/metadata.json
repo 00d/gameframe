@@ -1,0 +1,72 @@
+{
+  "source_pdf": "Pathfinder-2e-Advanced-Players-Guide.pdf",
+  "book_name": "Advanced_Players_Guide",
+  "total_sections": 6,
+  "extraction_methods": [
+    "pymupdf"
+  ],
+  "total_pages": 274,
+  "pages_with_content": 274,
+  "sections": [
+    {
+      "type": "chapter",
+      "number": 1,
+      "title": "ANCESTRIES & BACKGROUNDS",
+      "start_line": 370,
+      "end_line": 4811,
+      "start_page": 8,
+      "end_page": 53,
+      "filename": "01_chapter_1_ancestries_backgrounds.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 2,
+      "title": "CLASSES",
+      "start_line": 4812,
+      "end_line": 14638,
+      "start_page": 54,
+      "end_page": 149,
+      "filename": "02_chapter_2_classes.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 3,
+      "title": "ARCHETYPES",
+      "start_line": 14639,
+      "end_line": 19420,
+      "start_page": 150,
+      "end_page": 201,
+      "filename": "03_chapter_3_archetypes.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 4,
+      "title": "FEATS",
+      "start_line": 19421,
+      "end_line": 20626,
+      "start_page": 202,
+      "end_page": 211,
+      "filename": "04_chapter_4_feats.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 5,
+      "title": "SPELLS",
+      "start_line": 20627,
+      "end_line": 25090,
+      "start_page": 212,
+      "end_page": 247,
+      "filename": "05_chapter_5_spells.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 6,
+      "title": "ITEMS",
+      "start_line": 25091,
+      "end_line": 29142,
+      "start_page": 248,
+      "end_page": 274,
+      "filename": "06_chapter_6_items.txt"
+    }
+  ]
+}

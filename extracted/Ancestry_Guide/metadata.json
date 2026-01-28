@@ -1,0 +1,32 @@
+{
+  "source_pdf": "pathfinder-2e-ancestry-guide.pdf",
+  "book_name": "Ancestry_Guide",
+  "total_sections": 2,
+  "extraction_methods": [
+    "pymupdf"
+  ],
+  "total_pages": 146,
+  "pages_with_content": 144,
+  "sections": [
+    {
+      "type": "chapter",
+      "number": 1,
+      "title": "Expanded Ancestries and Heritages",
+      "start_line": 131,
+      "end_line": 4755,
+      "start_page": 6,
+      "end_page": 65,
+      "filename": "01_chapter_1_expanded_ancestries_and_heritages.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 2,
+      "title": "New Ancestries and Heritages",
+      "start_line": 4756,
+      "end_line": 12120,
+      "start_page": 66,
+      "end_page": 146,
+      "filename": "02_chapter_2_new_ancestries_and_heritages.txt"
+    }
+  ]
+}

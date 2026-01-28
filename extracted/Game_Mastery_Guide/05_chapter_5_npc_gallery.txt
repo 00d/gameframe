@@ -1,0 +1,4722 @@
+# Chapter 5: NPC GALLERY
+# Pages: 204-258
+
+CHAPTER 5: NPC GALLERY
+Monsters and PCs aren’t the only inhabitants of your world. Though they might not be
+heroes, NPCs can play various roles in your game, such as calling PCs to adventure, serving
+as obstacles in social encounters, or opposing PCs in battle. This chapter presents almost a
+hundred NPCs for your game, plus rules to modify them to fit any particular niche.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+
+================================================================================
+PAGE 205
+================================================================================
+
+NPC ANCESTRY ADJUSTMENTS
+To use one of the NPCs in this section to represent an NPC of a different ancestry, apply
+the adjustments below for the desired ancestry. These provide the basic features from
+that ancestry, like darkvision, altered Speed, and unique abilities like a halfling’s keen
+eyes. For other ancestries, you can create similar templates following the same format.
+In addition to these base changes, you can add the effects of a specific heritage: you
+might apply the snow goblin heritage if your NPC is a Frostfur goblin and you want
+them to have cold resistance. You can also give them an ancestry feat, or even adjust
+their ability scores and skills to reflect the new ancestry’s strengths and weaknesses.
+For a half-elf, half-orc, or any other heritage essential to the character, you
+should always apply the heritage effect.
+Dwarf
+ • Change the human trait to dwarf.
+ • Add Dwarven to the NPC’s languages.
+ • Add darkvision.
+ • Decrease the NPC’s Speed by 5 feet. If the NPC already has a reduced Speed due
+to their armor, consider applying the Unburdened Iron ancestry feat.
+Elf
+ • Change the human trait to elf.
+ • Add Elven to the NPC’s languages.
+ • Add low-light vision.
+ • Increase the NPC’s Speed by 5 feet.
+GnomE
+ • Change the human trait to gnome.
+ • Add Gnomish and Sylvan to the NPC’s languages.
+ • Add low-light vision.
+Goblin
+ • Change the human trait to goblin.
+ • Add Goblin to the NPC’s languages.
+ • Add darkvision.
+HalflinG
+ • Change the human trait to halfling.
+ • Add Halfling to the NPC’s languages.
+ • Add the keen eyes ability below.
+KEEN EYES
+Your eyes are sharp, allowing you to make out small details about concealed or even
+invisible creatures that others might miss. You gain a +2 circumstance bonus when using
+the Seek action to find hidden or undetected creatures within 30 feet of you. When you
+target an opponent that is concealed from you or hidden from you, reduce the DC of the
+flat check to 3 for a concealed target or 9 for a hidden one.
+MAKING A SPECIALIST
+These NPCs contain several specialists, such as barristers and navigators, who are a
+higher-level challenge at their specialty than in combat, and often have a special ability
+related to it. To make your own specialists, you can easily switch out skills, but you
+might want to use the following special abilities to make those NPCs more evocative!
+Butter Up (emotion, mental) When someone eats a dish or treat made by this NPC, the NPC
+can attempt a Baking Lore, Cooking Lore, or similar check against that creature’s Will DC,
+with the same results as the Make an Impression action of Diplomacy. If more than one
+creature partakes, the NPC uses the same check result against each creature’s Will DC.
+ORGANIZATION AND
+DEITY TEMPLATES
+In addition to the templates in this
+book, the Pathfinder Lost Omens
+Character Guide presents theme
+templates to quickly and easily make
+these NPCs members of various
+organizations (see Theme Templates
+on page 116). If you’re looking
+for adherents of a specific deity,
+Pathfinder Lost Omens Gods & Magic
+offers a theme template (see Theme
+Templates on page 9) that allows you
+to customize an NPC to fit any deity,
+or a deity of your own creation!
+Gamemastery Guide
+
+================================================================================
+PAGE 206
+================================================================================
+
+TABLE 5–1: NPCS
+NPC
+Level
+Page
+Acolyte of Nethys
+Acrobat
+Adept
+–1
+Advisor
+Antipaladin
+Apothecary
+–1 (3)*
+Apprentice
+–1
+Archer sentry
+Assassin
+Astronomer
+Bandit
+Barkeep
+Barrister
+–1 (4)*
+Beast tamer
+Beggar
+–1
+Bodyguard
+Bosun
+Bounty hunter
+Burglar
+Captain of the guard
+Charlatan
+Chronicler
+Commoner
+–1
+Cult leader
+Cultist
+Dancer
+Demonologist
+Despot
+Dockhand
+Drunkard
+Executioner
+False priest
+Farmer
+Fence
+Gang leader
+Grave robber
+Gravedigger
+Guard
+Guide
+Guildmaster
+8 (12)*
+Harbormaster
+Harrow reader
+–1 (3)*
+Hunter
+Innkeeper
+Jailer
+Judge
+–1 (6)*
+Librarian
+–1 (3)*
+Mage for hire
+Mastermind
+4 (7)*
+Merchant
+–1 (4)*
+Miner
+Monster hunter
+Navigator
+2 (4)*
+Necromancer
+Noble
+Palace guard
+Physician
+–1 (4)*
+Pirate
+Plague doctor
+Poacher
+Priest of Pharasma
+Prisoner
+Prophet
+Reckless scientist
+Ruffian
+Saboteur
+Sage
+Servant
+–1
+Server
+–1
+Ship captain
+Smith
+3 (6)*
+Spy
+Surgeon
+2 (6)*
+Tax collector
+–1 (3)*
+Teacher
+–1 (4)*
+Tomb raider
+Torchbearer
+Tracker
+Troubadour
+Urchin
+–1
+Warden
+Watch officer
+Zealot of Asmodeus
+* This NPC is a higher-level challenge in their area of
+expertise. The NPC’s level during such a challenge is listed
+in parentheses.
+Call Your Bluff When gambling, the NPC may use Games Lore to
+Sense Motive instead of Perception.
+Child Care When treating infants, the NPC can use their
+Midwifery Lore skill in place of Medicine, and can use
+Medicine’s trained actions on infants.
+Find Footing [one-action] (concentrate) The NPC attempts an
+Architecture Lore, Engineering Lore, or similar skill check
+to find a stable path across uneven ground. This grants
+them and anyone they share this information with a +2
+circumstance bonus on Acrobatics checks to Balance across
+that ground.
+Gone Fishing The NPC can use Fishing Lore to Track aquatic
+creatures or to Aid checks to Track them.
+Local Lore When they first meet a given person from their
+home settlement, the NPC can automatically attempt one
+check to Recall Knowledge about that person. This uses the
+Lore skill for that settlement.
+Quick Transcription The NPC can attempt to copy a
+document faster than normal, provided they don’t
+alter the content. They attempt a Scribing Lore check,
+completing the task in half the time on a success (onequarter on a critical success).
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+
+================================================================================
+PAGE 207
+================================================================================
+
+RANKS OF NOBILITY
+Some noble ranks, from highest to
+lowest: king/queen, grand duke/
+grand duchess, duke/duchess,
+marquess, count/countess,
+landgrave, viscount/viscountess,
+baron/baroness, baronet/
+baronetess, tribune, lord/
+lady, knight
+Gamemastery Guide
+COURTIERS
+Though adventurers travel through perilous dungeons and across treacherous
+wilderness, sometimes the most dangerous place they can end up is in a noble court.
+NOBLE
+Envied by many and detested by still others, nobles exude confidence and
+gentility. Gossip and gambling are often nobles’ favorite pastimes. Day-to-day
+life for a noble is often a mixture of business and leisure, and to an onlooker,
+such a lifestyle can appear to be nothing more than a string of meals, parties,
+and game halls. However, despite what some might believe, life as a noble is
+often quite dangerous and requires far more intellect than it
+would appear—along with a healthy dose of suspicion.
+NOBLE
+CREATURE 3
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +11
+Languages Common
+Skills Deception +10, Diplomacy +10, Gambling Lore +8, Intimidation +9
+Str +2, Dex +3, Con +1, Int +1, Wis +2, Cha +4
+Items fashionable fine clothes, loaded dice, rapier, silver flask, signet ring
+Lip Reader After years of sticking their nose where it doesn’t belong, the noble
+has learned to read lips from afar, with the effects of the Lip Reader feat (Core
+Rulebook 265).
+AC 18; Fort +6, Ref +10, Will +11
+HP 45
+Speed 25 feet
+Melee [one-action] rapier +12 (deadly 1d8, disarm, finesse), Damage 1d6+5 piercing
+Melee [one-action] fist +12 (agile, finesse, nonlethal), Damage 1d4+5 bludgeoning
+Noble’s Ruse [one-action] Frequency once per round; Effect The noble Feints. On a success, the
+noble Strikes the target.
+Sneak Attack The noble deals an extra 1d6 precision damage to flat-footed creatures.
+PALACE GUARD
+Every palace has its gatekeepers. Often the younger offspring of minor nobility or
+those from long lines of trusted staff, the palace guards are in charge of defending
+the royal family and their inner stronghold. Their days consist of guarding
+doorways, escorting nobles to various locations, and keeping those in their
+charge as safe as possible. The statistics below are for the lowest rank-and-file
+member of a small nation’s palace guards; they also work well for elite guards of
+a lesser noble.
+PALACE GUARD
+
+CREATURE 4
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +15
+Languages Common
+Skills Athletics +12, Diplomacy +10, Intimidation +8
+Str +4, Dex +2, Con +3, Int +0, Wis +4, Cha +2
+Items chain mail with palace insignia, halberd, simple manacles
+AC 22; Fort +13, Ref +8, Will +10
+HP 60
+Attack of Opportunity 
+Speed 25 feet
+Melee [one-action] halberd +14 (reach, versatile S), Damage 1d10+7 piercing
+Melee [one-action] fist +12 (agile, nonlethal), Damage 1d4+7 bludgeoning
+Royal Defender Ever loyal, the palace guard gains a +2 circumstance bonus to attack rolls
+when defending their liege.
+PALACE GUARD
+
+================================================================================
+PAGE 208
+================================================================================
+
+INTRIGUING PLOTS
+The royal court is filled with
+intrigue! Here are some examples
+of who might be scheming.
+• The monarch’s spouse or children
+• The royal pet (a druid in disguise)
+• The grand vizier
+• Visiting ambassadors or nobles
+• Palace champion
+• Palace doctor
+• Kitchen staff
+• Court jester
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+ADVISOR
+Trusted counselors of the court, advisors whisper words of guidance in the ears of
+those in power. Many nobles lean so heavily on their counsel that they make few
+decisions without them and insist on their attendance at all meetings and public events.
+Advisors are often master manipulators, and their guidance can shape a barony or even
+a kingdom—for good or ill.
+ADVISOR
+CREATURE 5
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Deception +15, Diplomacy +15, Legal Lore +11, Occultism +9, Performance +11, Society +11
+Str +0, Dex +2, Con +2, Int +0, Wis +4, Cha +4
+Items dagger (2), fine clothes, small harp, minor healing potion, whip
+Placate An advisor is well versed in soothing agitated nobles. Their calming voice gives
+them a +2 circumstance bonus to Deception and Diplomacy checks when dealing with
+members of the nobility.
+AC 21; Fort +9, Ref +11, Will +15
+HP 56
+Speed 25 feet
+Melee [one-action] whip +11 (disarm, finesse, nonlethal, reach, trip), Damage 1d4+2 slashing
+Ranged [one-action] dagger +11 (agile, thrown 10 feet, versatile S), Damage 1d4+2
+piercing
+Occult Spontaneous Spells DC 22, attack +13; 3rd (2 slots) mind reading,
+soothe, zone of truth; 2nd (3 slots) augury, restoration, soothe, touch of
+idiocy; 1st (3 slots) charm, mage armor, magic missile, soothe; Cantrips
+(3rd) chill touch, daze, light, prestidigitation, shield
+Bard Composition Spells 1 Focus Point, DC 22; 3rd counter performance, Cantrips
+(3rd) inspire competence, inspire courage, inspire defense (Core Rulebook 386)
+SPY
+No empire would be complete without its spies. The spy is a master of infiltrating
+the court and blending in: they might be one of a number of nobles, a beloved
+confidante of the queen, or even the court jester. Spies use their skills to subtly
+manipulate courtiers, turn enemies against one another, and collect valuable
+information either for blackmail or to auction to the highest bidder.
+SPY
+CREATURE 6
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +17
+Languages Common
+Skills Deception +15, Diplomacy +13, Intimidation +15, Local Court Lore +16, Society +12,
+Stealth +14, Thievery +12
+Str +0, Dex +4, Con +1, Int +2, Wis +4, Cha +4
+Items dagger (4), disguise kit, fine clothes, leather armor, +1 rapier, thieves’ tools
+Noble’s Ally The spy has positioned themself to seem a trusted ally, gaining a
++2 circumstance bonus to Gather Information or to Make an Impression among the
+nobles of that court.
+AC 23; Fort +11, Ref +17, Will +14
+HP 90
+Speed 25 feet
+Melee [one-action] rapier +16 (deadly 1d8, disarm, finesse, magical), Damage 1d6+7 piercing
+Melee [one-action] dagger +14 (agile, thrown 10 feet, versatile S), Damage 1d4+6 piercing
+Hidden Blade [one-action] Frequency once per round; Effect The spy draws a weapon and
+then Strikes with it. The target of the Strike is flat-footed against the attack.
+Sneak Attack The spy deals an extra 2d6 precision damage to flat-footed creatures.
+SPY
+
+================================================================================
+PAGE 209
+================================================================================
+
+Gamemastery Guide
+CRIMINALS
+Some criminals are the desperate who have no option but to break the law to
+survive, while others choose a life of crime for thrills, forming gangs or underworld
+guilds that specialize in certain illegal ventures.
+GRAVE ROBBER
+Many cultures have a tradition of burying their dead with a selection of the deceased’s
+most precious possessions, and some include gifts that are thought to provide a boon
+in the afterlife. Such valuables can be easy pickings for those with no respect for—or
+fear of—the dead.
+GRAVE ROBBER
+CREATURE 1
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +5
+Languages Common
+Skills Crafting +6, Deception +2, Intimidation +2, Society +6, Stealth +5, Underworld Lore +6
+Str +1, Dex +2, Con +2, Int +3, Wis +2, Cha −1
+Items alchemist’s tools, dagger, formula book, holy water, shovel, studded leather armor
+Infused Items A grave robber carries the following infused items: 2 lesser bottled
+lightnings, a lesser frost vial, and a lesser thunderstone. These items last for 24 hours,
+or until the next time the grave robber makes their daily preparations.
+AC 17; Fort +7, Ref +7, Will +5
+HP 18
+Speed 25 feet
+Melee [one-action] shovel +6, Damage 1d6+1 bludgeoning
+Ranged [one-action] alchemical bomb +7 (range increment 20 feet, splash), Damage
+varies by bomb
+BANDIT
+By setting ambushes and traps in concealing countryside, such as
+forests and mountains, bandits waylay travelers and plunder their
+valuables before disappearing back to their wilderness hideouts.
+Many bandits seek only to steal and release their victims alive,
+though a few prefer to leave no witnesses.
+BANDIT
+CREATURE 2
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Athletics +6, Deception +5, Forest Lore +4, Intimidation +6, Stealth +8,
+Survival +6, Thievery +8
+Str +3, Dex +3, Con +1, Int +0, Wis +2, Cha +1
+Items hatchet, sling (10 bullets), studded leather armor
+AC 19; Fort +7, Ref +9, Will +6
+HP 30
+Bandit’s Ambush When the bandit rolls initiative using Deception or Stealth,
+they can attempt to Demoralize one creature as a free action.
+Speed 25 feet
+Melee [one-action] hatchet +9 (agile, sweep), Damage 1d6+5 slashing
+Ranged [one-action] sling +9 (propulsive, range increment 50 feet, reload 1), Damage
+1d6+3 bludgeoning
+Ranged [one-action] hatchet +9 (agile, sweep, thrown 10 feet), Damage 1d6+5
+slashing
+Dread Striker Frightened creatures are flat-footed to the bandit.
+Favored Terrain The bandit ignores the effects of non-magical difficult
+terrain in forests.
+CRIMINAL SCAMS
+Common scams criminals run
+include sending fake collectors
+for nonexistent charities to seek
+donations for the diseased and
+downtrodden; rigged games of
+chance at local fairs offering
+worthless prizes, and flashy
+sideshows concealing the work of
+pickpockets in the audience; and
+plants who offer to help travelers
+find accommodations but lead them
+to inns with exorbitant prices.
+BANDIT
+
+================================================================================
+PAGE 210
+================================================================================
+
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+RUFFIAN
+Using their strength to bully others into submission, ruffians often work as
+bodyguards and enforcers for powerful criminals like charlatans and fences.
+RUFFIAN
+CREATURE 2
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +8
+Languages Common
+Skills Athletics +7, Intimidation +6, Stealth +6
+Str +3, Dex +2, Con +3, Int −1, Wis +2, Cha +0
+Items club, sling (10 bullets), studded leather armor
+AC 18; Fort +9, Ref +8, Will +6
+HP 32
+Attack of Opportunity 
+Speed 25 feet
+Melee [one-action] club +9, Damage 1d6+5 bludgeoning
+Ranged [one-action] sling +8 (propulsive, range increment 50 feet, reload 1), Damage 1d6+5 bludgeoning
+Ranged [one-action] club +8 (thrown 10 feet), Damage 1d6+5 bludgeoning
+Brutal Beating The ruffian’s brutality shakes foes’ confidence. When the ruffian
+deals damage on a critical hit, the target is frightened 1, and the ruffian can knock
+the target up to 10 feet away (this is forced movement).
+Snagging Strike [one-action] Trigger The ruffian has one hand free, and its target is within
+reach of that hand; Effect The ruffian makes a melee Strike while
+keeping one hand free. If this Strike hits, the target is flat-footed until
+the start of the ruffian’s next turn or until it leaves the ruffian’s reach,
+whichever comes first.
+Sneak Attack The ruffian deals an extra 1d6 precision damage to flat-footed
+creatures.
+CHARLATAN
+Charlatans use pretense and misdirection to swindle money and other valuables
+from the credulous and confused. Selling snake oil (literally or figuratively),
+distracting marks to pick their pockets, or faking mediumship are classic grifts.
+CHARLATAN
+CREATURE 3
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Acrobatics +8, Deception +11, Diplomacy +9, Occultism +7, Performance
++11, Society +7, Stealth +8, Thievery +8, Underworld Lore +9
+Str +0, Dex +3, Con +0, Int +2, Wis +1, Cha +4
+Items disguise kit, lute, sap, shortsword, thieves’ tools
+Versatile Performance The charlatan can use Performance instead of Diplomacy to Make
+an Impression and instead of Intimidation to Demoralize. They can also use an acting
+Performance instead of Deception to Impersonate.
+AC 18; Fort +5, Ref +8, Will +10
+HP 40
+Speed 25 feet
+Melee [one-action] shortsword +10 (agile, versatile S), Damage 1d6+2 piercing
+Melee [one-action] sap +7 (agile, nonlethal), Damage 1d6+2 bludgeoning
+Occult Spontaneous Spells DC 20, attack +10; 2nd (2 slots) charm, illusory disguise,
+invisibility; 1st (3 slots) illusory disguise, magic aura, unseen servant, ventriloquism;
+Cantrips (2nd) daze, ghost sound, mage hand, message, prestidigitation
+Bard Composition Spells 1 Focus Point, DC 19; 1st counter performance (Core Rulebook
+386); Cantrips (1st) inspire courage (Core Rulebook 386)
+Sneak Attack The charlatan deals an extra 1d6 precision damage to flat-footed creatures.
+MORE SCAMS
+• Fraudsters sell fake alchemical
+items, medicines, charms,
+talismans, or other minor magics.
+• Unscrupulous moneylenders
+take advantage of lax business
+regulations to employ predatory
+repayment terms.
+• Phony fortune-tellers and
+mediums use cold-reading
+techniques to lull gullible marks.
+CHARLATAN
+
+================================================================================
+PAGE 211
+================================================================================
+
+Gamemastery Guide
+BURGLAR
+Burglars specialize in breaking and entering to rob homes and businesses. These
+criminals focus on gaining access to secure buildings and bypassing traps and other
+security measures while remaining undetected all the while.
+BURGLAR
+CREATURE 4
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +10 (+11 to find traps)
+Languages Common
+Skills Acrobatics +10, Athletics +8, Deception +7, Society +7, Stealth +12, Thievery +12 (can
+Disable traps that require master proficiency), Underworld Lore +7
+Str +2, Dex +4, Con +1, Int +1, Wis +2, Cha +1
+Items climbing kit, composite shortbow (10 arrows), lesser darkvision elixir, leather armor,
+sap, thieves’ tools
+AC 21 (22 vs. traps); Fort +7, Ref +12, Will +10; +1 circumstance to all saves vs. traps
+HP 60
+Deny Advantage The burglar isn’t flat-footed to creatures of 4th level or lower that
+are hidden, undetected, flanking, or using surprise attack.
+Nimble Dodge  Trigger The burglar is targeted with a melee or ranged attack
+by an attacker it can see; Effect The burglar gains a +2 circumstance bonus to AC
+against the triggering attack.
+Speed 30 feet
+Melee [one-action] shortsword +14 (agile, finesse, versatile S), Damage
+1d6+6 piercing
+Melee [one-action] sap +12 (agile, nonlethal), Damage 1d6+4 bludgeoning
+Ranged [one-action] composite shortbow +14 (deadly 1d10, propulsive, range
+increment 60 feet, reload 0), Damage 1d6+4 piercing
+Mobility When the burglar Strides half their Speed or less, that
+movement does not trigger reactions.
+Sneak Attack The burglar deals an extra 1d6 precision damage to flatfooted creatures.
+Surprise Attack On the first round of combat, if the burglar rolls Deception
+or Stealth for initiative, creatures that haven’t acted are flat-footed to them.
+FENCE
+The longer criminals hold on to stolen loot, the greater the chance they will get
+caught. Fences make themselves indispensable in the underworld by paying
+for stolen goods in order to resell them later, whether through a seemingly
+legitimate business or to a closed group of elite buyers.
+FENCE
+CREATURE 5
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +11
+Languages Common
+Skills Accounting Lore +13, Acrobatics +10, Crafting +13, Deception +13,
+Diplomacy +11, Intimidation +11, Society +11, Stealth +10, Thievery +10, Underworld
+Lore +15
+Str +0, Dex +3, Con +0, Int +4, Wis +2, Cha +4
+Items dagger (10), lesser darkvision elixir, disguise kit, bird feather token, lesser
+smokestick (2), shortsword, thieves’ tools
+Fence’s Eye Fences live by their ability to recognize a viable trade. They can use
+Underworld Lore to identify an item’s value and Identify Magic on an item.
+They gain a +2 circumstance bonus to Underworld Lore checks when doing
+so, and to Underworld Lore checks to determine whether an item was stolen,
+whether a stolen item would be too recognizable to easily move, and who would be
+interested in purchasing such an item.
+FANTASY CRIMES
+While many crimes in Pathfinder
+are similar to crimes in the real
+world, certain crimes are possible
+only in a world of magic. These
+include using magic to win a wager,
+malicious uses of curses, violating
+autonomy with enchantment
+magic, falsifying divinations,
+violating privacy with divinations,
+or trespassing via teleportation.
+BURGLAR
+
+================================================================================
+PAGE 212
+================================================================================
+
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+AC 20; Fort +9, Ref +12, Will +15
+HP 70
+Speed 25 feet
+Melee [one-action] shortsword +12 (agile, finesse, versatile S), Damage 1d6+5 piercing
+Melee [one-action] dagger +12 (agile, finesse, versatile S), Damage 1d4+5 piercing
+Ranged [one-action] dagger +12 (agile, thrown 10 feet, versatile S), Damage 1d4+2 piercing
+Quick Rummage [one-action] The fence always has a few items close at hand. The fence Interacts
+to draw a weapon or item that takes a single action to activate, and then Strikes with
+the weapon or Activates the Item.
+Scoundrel’s Feint When the fence successfully Feints, their target is flat-footed against
+the fence’s attacks until the end of the fence’s next turn. On a critical success, the target
+is flat-footed against all attacks until the end of the fence’s next turn.
+Sneak Attack The fence deals an extra 2d6 precision damage to flat-footed creatures.
+ASSASSIN
+Assassins commit murder, either for pay or due to their belief in a cause, such as
+a religion or a political movement. Some assassins work alone and choose their
+own victims. Others are members of assassins’ guilds, organizations that accept
+contracts to kill in return for money, favors, or both.
+ASSASSIN
+CREATURE 8
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +16
+Languages Common
+Skills Acrobatics +17, Athletics +13, Deception +12, Diplomacy +10, Intimidation
++10, Medicine +14, Society +12, Stealth +19, Survival +12, Thievery +15,
+Underworld Lore +14
+Str +3, Dex +5, Con +2, Int +2, Wis +2, Cha +0
+Items +1 striking composite shortbow (20 arrows), lesser darkvision elixir, giant
+centipede venom (3), invisibility potion, leather armor, +1 rapier, simple injury
+poison (8 doses, 2d4 poison damage), sleep poison (2)
+Swift Sneak The assassin can move their full Speed when Sneaking.
+AC 26; Fort +12, Ref +19, Will +14
+HP 130
+Deny Advantage The assassin isn’t flat-footed to creatures of
+8th level or lower that are hidden, undetected, flanking, or
+using surprise attack.
+Nimble Dodge  Trigger The assassin is targeted with a
+melee or ranged attack by an attacker they can see;
+Effect The assassin gains a +2 circumstance bonus
+to AC against the triggering attack.
+Speed 25 feet
+Melee [one-action] rapier +18 (deadly 1d8, disarm, finesse,
+magical), Damage 1d6+8 piercing
+Ranged [one-action] composite shortbow +20 (deadly 2d10,
+magical, propulsive, range increment 60 feet,
+reload 0), Damage 2d6+4 piercing
+Poison Weapon [one-action] (manipulate) Requirements The assassin is wielding
+a piercing or slashing weapon and has a free hand; Effect The
+assassin applies a poison to the weapon.
+Quick Draw [one-action] The assassin Interacts to draw a weapon, then Strikes with
+that weapon.
+Sneak Attack The assassin deals an extra 2d6 precision damage to flat-footed
+creatures.
+Surprise Attack On the first round of combat, creatures that haven’t acted yet are flatfooted to the assassin.
+PROTECTION MONEY
+Criminal organizations often find it
+easier to demand protection money
+from locals than go to the trouble
+of stealing it. “Protection” includes
+an implicit assumption that those
+who pay up are safe from those
+criminals, and some also promise
+retribution against other criminals.
+FENCE
+
+================================================================================
+PAGE 213
+================================================================================
+
+DEVOTEES
+Religions inspire devout individuals to uphold their tenets. Many of these devotees
+seek to bring respite and hope, but others have darker motives.
+ACOLYTE
+Underling clerics are still learning the tenets of their faith and answer to a superior
+priest. Their days are spent in devotion and learning, sequestered in temples.
+ACOLYTE OF NETHYS
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +7
+Languages Common
+Skills Arcana +5, Crafting +5, Diplomacy +4, Occultism +5, Religion +7
+Str +1, Dex +2, Con –1, Int +2, Wis +4, Cha +1
+Items crossbow (10 bolts), religious symbol of Nethys, religious text of Nethys, staff
+AC 15; Fort +2, Ref +5, Will +9
+HP 16
+Speed 25 feet
+Melee [one-action] staff +4 (two-hand d8), Damage 1d4+1 bludgeoning
+Ranged [one-action] crossbow +5 (range increment 120 feet, reload 1), Damage 1d8 piercing
+Divine Prepared Spells DC 17, attack +9; 1st harm, heal (×2), magic missile; Cantrips (1st)
+chill touch, detect magic, light, prestidigitation, read aura, shield
+Cleric Domain Spells 1 Focus Point, DC 17; 1st cry of destruction (Core Rulebook 390)
+PROPHET
+The gods occasionally send messages in dreams to individuals who wander the
+lands, gaining followers with their oratorical abilities. Some prophets have
+not received true divine missives, but have misinterpreted normal dreams.
+PROPHET
+CREATURE 2
+CN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +10
+Languages Common
+Skills Diplomacy +8, Performance +8 (+10 to spout prophecy),
+Religion +7, Survival +7
+Str +2, Dex +1, Con +0, Int +1, Wis +3, Cha +4
+Items flail, manifesto (functions as religious text), pouch of
+rocks, robes
+AC 17; Fort +8, Ref +7, Will +11
+HP 24
+Speed 25 feet
+Melee [one-action] flail +8 (disarm, sweep, trip), Damage 1d6+2
+bludgeoning
+Melee [one-action] fist +8 (agile, nonlethal), Damage 1d4+2 bludgeoning
+Ranged [one-action] rock +7 (thrown 10 feet), Damage 1d4+2 bludgeoning
+Divine Spontaneous Spells DC 18, attack +10; 1st (4 slots) bless,
+heal, ray of enfeeblement, sanctuary; Cantrips (1st) daze, detect
+magic, guidance, know direction, light, prestidigitation, read aura
+Cleric Domain Spells 1 Focus Point, DC 18; 1st read fate
+(Core Rulebook 395)
+ZEALOT
+Zealots ferret out plots against their religion and seek justice for their church’s
+followers. This zealot serves Asmodeus, but others might serve Abadar, Calistria,
+Iomedae, Norgorber, Pharasma, Sarenrae, or Zon-Kuthon. They often ride a war horse
+(Bestiary 209) wearing light barding. This horse is an additional monster in the fight.
+SWAPPING DEITIES
+Customize an acolyte or priest by
+matching their deity’s alignment
+and favored weapon, adding the
+deity’s divine skill at +14 (or +7), and
+swapping spells. An example appears
+on the facing page. (An acolyte gains
+only the 1st-level spells, domain spell,
+and cantrips, and has two 1st-level
+heal spells instead of three 3rd-level
+heal spells.) If you swap harm spells
+for heal, replace Healing Hands with
+the Selective Energy cleric feat.
+Gamemastery Guide
+ACOLYTE
+
+================================================================================
+PAGE 214
+================================================================================
+
+ZEALOT OF ASMODEUS
+
+CREATURE 4
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +9
+Languages Common
+Skills Athletics +9, Deception +10, Intimidation +10, Religion +10, Society +7
+Str +4, Dex +1, Con +1, Int +0, Wis +3, Cha +2
+Items composite shortbow (20 arrows), half plate, mace, steel shield (Hardness 5, HP 20,
+BT 10)
+AC 22 (24 with shield raised); Fort +9, Ref +7, Will +11
+HP 58
+Shield Block 
+Swear Vengeance  Trigger A creature the zealot can see damages a follower of Asmodeus
+other than the zealot; Effect The zealot gains the effect of a 1st-level true strike spell. If
+the zealot makes an attack roll against anyone other than the triggering creature, the true
+strike ends with no effect.
+Speed 20 feet
+Melee [one-action] mace +12 (shove), Damage 1d8+4 bludgeoning
+Ranged [one-action] composite shortbow +9 (deadly 1d10, propulsive, range increment 60 feet,
+reload 0), Damage 1d6+2 piercing
+Divine Prepared Spells DC 19, attack +11; 2nd harm (×3), restoration, see invisibility, shield
+other; 1st detect alignment, magic weapon, spirit link; Cantrips (2nd) detect magic,
+divine lance, forbidding ward, read aura, sigil
+Channel Smite [two-actions] (divine, necromancy) The zealot expends a prepared harm spell
+and makes a melee Strike. Instead of the normal effect of the spell, its negative
+damage is added to the Strike’s damage.
+Deadly Simplicity The zealot’s mace deals 1d8 damage instead of 1d6.
+PRIEST
+Cloistered priests safeguard their temples and communities. They are the
+stalwart keepers of their god’s tenets, devoted to spreading the word.
+Their guidance or healing services come at the cost of a donation.
+PRIEST OF PHARASMA
+CREATURE 6
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Diplomacy +12, Medicine +14, Religion +14, Society +11, Survival +12
+Str +3, Dex +3, Con +1, Int +0, Wis +4, Cha +2
+Items +1 dagger, religious symbol of Pharasma
+AC 21; Fort +11, Ref +11, Will +14
+HP 80
+Speed 25 feet
+Melee [one-action] dagger +13 (agile, magical, versatile S), Damage
+1d6+5 piercing
+Ranged [one-action] dagger +13 (agile, magical, thrown 10 feet,
+versatile S), Damage 1d6+5 piercing
+Divine Prepared Spells DC 24, attack +16; 3rd circle of protection,
+heal (×3), searing light (×2); 2nd gentle repose, silence, spiritual weapon;
+1st disrupting weapons, mindlink, spirit link; Cantrips (3rd) detect magic,
+disrupt undead, light, read aura, shield
+Cleric Domain Spells 1 Focus Point, DC 24; 3rd death’s call (Core Rulebook 391)
+Divine Rituals DC 24; consecrate
+Healing Hands When the priest casts heal, they roll d10s instead of d8s.
+Steady Spellcasting If another creature’s reaction would disrupt the priest’s
+spellcasting action, the priest attempts a DC 15 flat check. If the priest
+succeeds, their action isn’t disrupted.
+SPELL SWAP EXAMPLE
+To make a NE acolyte or priest of
+Urgathoa, you can use these spells.
+3rd bind undead, circle of protection,
+harm (×3), vampiric touch; 2nd dispel
+magic, false life, ghoulish cravings;
+1st bane, fear, ray of enfeeblement;
+Cantrips chill touch, detect magic,
+divine lance, guidance, shield; Cleric
+Domain Spell undeath’s blessing
+(Core Rulebook 398)
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+PRIEST
+
+================================================================================
+PAGE 215
+================================================================================
+
+DOWNTRODDEN
+Unfortunately, every society has people living on its fringes. While good communities
+work to grant aid and respite to their downtrodden, sometimes—due to economic
+downturn, famine, or war—the ranks of the less fortunate exceed the community’s
+capacity to support them. In heartless neutral and evil societies, poverty is seen as
+an inevitability that can never be truly eradicated, or even worse, as a tool to be
+manipulated for political gain.
+BEGGAR
+Wherever there is poverty, there are beggars. Beggars are truly the downtrodden of
+society—folks who have been cast out into the streets due to a variety of setbacks
+or the weight of circumstance. Some beggars work for underworld organizations
+as lookouts, spies, or even hired muscle on the cheap—sometimes by choice, but
+often not.
+BEGGAR
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +3
+Languages Common
+Skills Athletics +3, Deception +3, Diplomacy +3, Stealth +5, Underworld Lore +2
+Str +1, Dex +3, Con +2, Int +0, Wis +1, Cha +1
+AC 15; Fort +4, Ref +7, Will +3
+HP 10
+Speed 25 feet
+Melee [one-action] fist +5 (agile, nonlethal), Damage 1d4+1 bludgeoning
+Ranged [one-action] rock +5 (thrown 10 feet), Damage 1d4+1 bludgeoning
+Beat a Retreat [two-actions] The beggar Strides three times and gains a +2 circumstance bonus
+to AC during those actions.
+COMMONER
+Though not every commoner is downtrodden, many live hard lives of toil as
+they work to keep their families fed and housed in
+relative comfort. While many commoners are just
+simple folks who keep to themselves, sometimes
+commoners rebel, either rising up to face their
+oppressors or persuaded or even duped into
+joining nefarious plans and criminal conspiracies.
+Commoners benefit from power in numbers, and a
+crowd of commoners can accomplish a great deal more than their rulers
+often expect.
+COMMONER
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +3
+Languages Common
+Skills Athletics +5, Lore (any one related to their trade) +6, Society +2
+Str +3, Dex +1, Con +2, Int +0, Wis +1, Cha +0
+Items sickle
+AC 13; Fort +6, Ref +3, Will +3
+HP 10
+Speed 25 feet
+Melee [one-action] sickle +5 (agile, trip), Damage 1d4+2 slashing
+Ranged [one-action] rock +3 (thrown 10 feet), Damage 1d4+2 bludgeoning
+Power of the Mob When three or more commoners are adjacent to each other,
+each commoner gets a +1 circumstance bonus to Athletic checks to Shove,
+attack rolls, and damage rolls.
+BRAVING THE MOB
+A mob is a violent crowd
+(Core Rulebook 514) that works
+as greater difficult terrain and
+hazardous terrain, dealing 1d4
+damage for each square entered. A
+creature can spend a single action to
+attempt a DC 16 Intimidation check,
+clearing the mob from all squares
+adjacent to them on a success
+(or all squares within 10 feet on
+a critical success). This action
+has the concentrate, emotion,
+manipulate, and mental traits.
+Gamemastery Guide
+BEGGAR
+
+================================================================================
+PAGE 216
+================================================================================
+
+URCHIN
+Although their escapades might be notorious, few urchins are thrill-seekers. For some
+urchins, when begging alone is not enough to fill their bellies, theft becomes a viable
+survival tactic. Many underworld powers also use urchins as spies and messengers,
+while training them to become future pickpockets, burglars, and foot soldiers.
+URCHIN
+CREATURE –1
+N
+SMALL
+HUMAN
+HUMANOID
+Perception +3
+Languages Common
+Skills Acrobatics +5, Deception +4, Society +3, Stealth +5, Survival +3, Thievery +7
+Str –1, Dex +3, Con +0, Int +1, Wis +1, Cha +2
+Items shiv
+AC 15; Fort +2, Ref +7, Will +3
+HP 8
+Speed 25 feet
+Melee [one-action] shiv +5 (agile), Damage 1d4–1 piercing
+Melee [one-action] fist +5 (agile, nonlethal), Damage 1d4–1 bludgeoning
+Ranged [one-action] rock +5 (thrown 10 feet), Damage 1d4–1 bludgeoning
+Collaborative Thievery The urchin gains a +1 circumstance bonus to Steal or Palm an
+Object while within 10 feet of an ally who has the pickpocket ability.
+Pickpocket The urchin can Steal or Palm an Object that’s closely guarded without taking
+the usual –5 penalty. They can Steal objects that would be extremely noticeable or
+time-consuming to remove (like worn shoes, armor, or actively wielded objects).
+PRISONER
+Most who end up in a jail, dungeon, or prison are just biding their time until their
+imprisonment ends, trying to find ways to make it through interminable days of
+boredom and deprivation. Some, however, may use their time on the inside to
+strengthen their criminal connections. Using force and intimidation to gain status
+among other prisoners, they create makeshift weapons to take down their enemies
+and give them an edge if escape becomes possible. Even for prisoners who don’t
+become involved in the world of prison politics, learning to stand up for themselves
+and projecting an air of toughness can become essential for survival in a place
+where people have little left to lose.
+PRISONER
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Acrobatics +7, Athletics +6, Intimidation +3, Stealth +7, Thievery +7
+Str +3, Dex +4, Con +1, Int +0, Wis +1, Cha +0
+Items shiv
+AC 17; Fort +4, Ref +9, Will +6
+HP 17
+Speed 25 feet
+Melee [one-action] shiv +7 (agile), Damage 1d4+3 piercing
+Melee [one-action] fist +7 (agile, nonlethal), Damage 1d4+3 piercing
+Sneak Attack The prisoner deals an extra 1d6 precision damage to flat-footed
+creatures.
+Surprise Attack On the first round of combat, creatures that haven’t acted
+yet are flat-footed to the prisoner.
+You’re Next  (emotion, fear, mental) Trigger The prisoner reduces a
+creature to 0 Hit Points; Effect The prisoner attempts an Intimidation
+check with a +2 circumstance bonus to Demoralize a single creature it
+can see and that can see them.
+WORD ON THE STREET
+Privy to all sorts of conversations
+from passersby, the downtrodden
+can provide eyes and ears on
+the street. Finding a reliable
+contact can give a character a
+circumstance bonus to checks to
+Gather Information if they return to
+that source. This bonus is usually
++1, but could be +2 or +3 if the
+contact lingers in a market where
+influential politicians shop, sweeps
+a noble estate, or the like.
+Befriending NPCs in advance
+can also help the heroes in action
+scenes. A friendly urchin might
+show a character a shortcut to
+catch an escaping enemy, a crowd
+of fans who frequent a bard’s
+performances might throw rocks to
+distract someone trying to fight the
+bard, and so on.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+URCHIN
+
+================================================================================
+PAGE 217
+================================================================================
+
+EXPLORERS
+The world is a wide, open place fraught with peril and adventure. Explorers use
+their knowledge of nature and survival skills to see every corner of the land.
+TORCHBEARER
+Torchbearers carry a light sources for seasoned explorers and serve as apprentices.
+TORCHBEARER
+CREATURE 0
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +5
+Languages Common
+Skills Acrobatics +5, Architecture Lore +2, Athletics +4, Stealth +5, Survival +3
+Str +2, Dex +3, Con +1, Int +0, Wis +1, Cha +1
+Items climbing kit, dagger, hand crossbow (20 bolts), tindertwig (5), torch (4)
+AC 15; Fort +5, Ref +7, Will +5
+HP 15
+Speed 25 feet
+Melee [one-action] torch +7, Damage 1d6+2 bludgeoning plus 1 fire
+Melee [one-action] dagger +5 (agile, versatile S), Damage 1d4+2 piercing
+Ranged [one-action] hand crossbow +5 (range increment 60 feet, reload 1), Damage 1d6 piercing
+Torch Combatant A torchbearer is adept at attacking with torches and deals 1 persistent fire
+damage when they critically hit with a torch.
+CHRONICLER
+Exploration means very little if no account of the details exist. Members of
+adventuring bands cherish chroniclers who record tales of their deeds.
+CHRONICLER
+CREATURE 3
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Map Lore +17, Nature +14, Scribing Lore +17, Society +12, Survival +14
+Str +2, Dex +2, Con +1, Int +4, Wis +4, Cha +0
+Items crossbow (20 bolts), dagger, journal, leather armor, maps, scroll of acid
+arrow, scroll of heal, staff
+AC 18; Fort +8, Ref +9, Will +9
+HP 45
+Live to Tell the Tale  Frequency once per day; Trigger The chronicler is dying;
+Effect The chronicler reduces their dying condition by 1. If the chronicler is no longer
+dying, they remain unconscious for at least 1 hour or until they regain 1 Hit Point.
+Speed 25 feet
+Melee [one-action] dagger +7 (agile, thrown 10 feet, versatile S), Damage 1d4+2
+piercing
+Melee [one-action] staff +7 (two-hand d8), Damage 1d4+2 bludgeoning
+Ranged [one-action] crossbow +7 (range increment 120 feet, reload 1), Damage
+1d8 piercing
+Primal Prepared Spells DC 20, attack +12; 2nd entangle, flaming
+sphere; 1st fleet step, longstrider, pass without trace; Cantrips
+(2nd) know direction, light, ray of frost, sigil, tanglefoot
+Scroll Mastery The chronicler can activate any scroll of a
+2nd-level spell or lower as if they had the spell on their spell list,
+regardless of its magical tradition.
+GUIDE
+Guides bring travelers, tourists, and adventurers into the wondrous
+natural world, using their expertise to avoid deadly monsters and gruesome hazards.
+TIPS FROM THE GUIDE
+You might allow PCs who Follow
+the Expert when led by a guide to
+continue to add their level to the
+skill check for some time afterward:
+1 hour if the guide is an expert,
+1 day for master, or 1 week for
+legendary. (The guide here has
+expert Athletics, Scouting Lore, and
+Survival.) A character can have this
+benefit for only one skill at a time.
+Gamemastery Guide
+CHRONICLER
+
+================================================================================
+PAGE 218
+================================================================================
+
+GUIDE
+CREATURE 4
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Athletics +14, Scouting Lore +12, Survival +12, Stealth +11
+Str +4, Dex +1, Con +2, Int +1, Wis +3, Cha +0
+Items composite shortbow (40 arrows), greataxe, scale mail
+AC 21; Fort +12, Ref +11, Will +14
+HP 60
+Guide’s Warning  Trigger The guide is about to roll a Perception or Survival check to
+determine their initiative; Effect The guide visually or audibly warns allies, granting them
+a +1 circumstance bonus to their initiative rolls. Depending on how the guide warns allies,
+this action has the auditory or visual trait.
+Speed 25 feet
+Melee [one-action] greataxe +12 (sweep), Damage 1d12+6 slashing
+Ranged [one-action] composite shortbow +9 (deadly 1d10, propulsive, range increment 60 feet,
+reload 0), Damage 1d6+2 piercing
+Guiding Words [one-action] The guide points out a weakness of a creature within 30 feet.
+The guide and all allies that can hear or see the guide gain a +1 status bonus to
+attack and damage rolls against that creature until the beginning of the guide’s
+next turn. The guide adds an extra 1d6 precision damage to their weapon and
+unarmed attacks that hit that creature
+during the duration.
+TOMB RAIDER
+Great treasure awaits those willing to explore the
+hazardous depths of the world’s ancient tombs and
+forgotten dungeons. Some tomb raiders seek riches of
+bygone eras; others recover pieces of history thought
+lost to the sands of time.
+TOMB RAIDER
+CREATURE 5
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +13
+Languages Common
+Skills Acrobatics +13, Architecture Lore +11, Athletics
++13, Deception +7, Engineering Lore +11, Society +9,
+Stealth +11, Thievery +13
+Str +4, Dex +4, Con +1, Int +2, Wis +2, Cha +0
+Items climbing kit, hand crossbow (20 bolts), +1 kukri
+Hazard Spotter The tomb raider automatically attempts a
+secret Perception check to notice a hazard when they are
+within 10 feet of the hazard.
+AC 21; Fort +10, Ref +15, Will +11
+HP 75
+Speed 25 feet, climb 15 feet
+Melee [one-action] kukri +15 (agile, magical, trip), Damage 1d6+7 slashing
+Ranged [one-action] hand crossbow +15 (range increment 60 feet,
+reload 1), Damage 1d6+3 piercing
+Trick Attack [one-action] The tomb raider musters their guile
+to attempt a clever attack that catches their foe
+unprepared. The tomb raider chooses one of their
+weapons. The next attack with that weapon deals an
+extra 2d6 precision damage. In addition, the tomb raider
+can Interact to draw the weapon (or to reload it if they choose
+the hand crossbow).
+PATHFINDER CHRONICLES
+The Pathfinder Society’s quarterly
+compilation includes outlandish
+tales like the following.
+• A mount gleams of silver, its
+inhabitants beings born of metal.
+• A hedge maze extends to faraway
+nations and distant worlds.
+• In faraway chasms, the
+haunted clockwork wails in a
+thousand voices.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+GUIDE
+
+================================================================================
+PAGE 219
+================================================================================
+
+Gamemastery Guide
+FORESTERS
+From the managed and cultivated forests that support villages to the tree-covered
+crown lands where only nobles and their servants are permitted to hunt, forests
+provide. To communities, forests provide fuel, food, medicine, and raw materials,
+while royally protected forests provide food for the nobles’ table and a source of
+entertainment in the form of organized hunts. Even the ancient woods untouched
+by mortal hand or blade provide bards with settings where legends happened and
+could happen again. Many find the forest depths unsettling, but others live their
+lives among the trees and alongside the creatures that make their homes there.
+POACHER
+Some forests are protected by kings, others only by wild things. Laws against
+hunting may protect the private reserves of nobles or guard the viability of animal
+populations of shared forests during specific seasons. Poachers violate those laws—
+sometimes out of greed, sometimes out of desperation, and sometimes for sport.
+Although penalties against poaching often include public shaming (see Penalties for
+Poaching), in lean times a successful poacher is a local hero.
+POACHER
+CREATURE 2
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +9
+Languages Common
+Skills Crafting +4, Deception +4, Nature +7, Stealth +8, Survival +7
+Str +2, Dex +4, Con +1, Int +0, Wis +3, Cha +0
+Items club, composite shortbow (20 arrows), padded armor, snare kit
+Forager While using Survival to Subsist, if the hunter rolls a failure
+or a critical failure, they get a success instead. If the hunter rolls
+a success, they can provide food for 4 additional creatures that
+eat about as much as a human, or 8 creatures on a critical
+success.
+Snare Crafting The poacher can use the Crafting skill to create
+the following snares: alarm snare, hampering snare, marking
+snare, and signaling snare. The poacher can create four snares
+each day without paying for the materials, using 3 Interact
+actions to set up each snare.
+AC 19; Fort +7, Ref +10, Will +7
+HP 30
+Speed 25 feet
+Melee  club +8, Damage 1d6+5 bludgeoning
+Ranged  composite shortbow +10 (deadly 1d10, propulsive,
+range increment 60 feet, reload 0), Damage 1d6+3 piercing
+Hunt Prey  (concentrate) The poacher designates a single
+creature they can see and hear, or one they’re Tracking, as their
+prey. The poacher gains a +2 circumstance bonus to Perception
+checks to Seek the prey and to Survival checks to Track the prey.
+The first time the poacher hits the designated prey in a round, they deal an
+additional 1d8 precision damage. The poacher also ignores the penalty for making
+ranged attacks within their second range increment. These effects last until the
+poacher uses Hunt Prey again.
+TRACKER
+The forest offers dangerous creatures—whether they walk on four legs or two—a
+place to hide. Dim light, low brush, and fallen leaves conspire to hide their
+trails. Given these poor conditions, an unskilled eye might spot a sign or two
+of a creature’s passing, but only a skilled tracker can identify several such
+signs and discern their relationship to each other, connecting one to the next
+PENALTIES FOR POACHING
+Punishment for poaching on noble
+land can be vicious. Maiming
+poachers by removing fingers
+is a common practice. Crueler
+punishments include snaring
+poachers in their own traps and
+leaving them helpless, or binding
+them in the bloody skins of their
+catch and setting dogs to chase them
+through the woods.
+POACHER
+
+================================================================================
+PAGE 220
+================================================================================
+
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+until they form a trail of prints, scat, fur, feathers, and blood that leads to the
+quarry’s lair.
+TRACKER
+CREATURE 3
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +13
+Languages Common
+Skills Forest Lore +5, Nature +11, Stealth +9, Survival +13
+Str +2, Dex +4, Con +2, Int +0, Wis +4, Cha +0
+Items composite longbow (60 arrows), leather armor, staff
+Forager As poacher, but the tracker feeds 16 additional creatures, or 32 on a critical
+success.
+Master Tracker The tracker can Track while moving at full speed.
+AC 20; Fort +9, Ref +11, Will +9
+HP 45
+Speed 25 feet
+Melee  staff +9 (two-hand d8), Damage 1d4+4 bludgeoning
+Ranged  composite longbow +11 (deadly 1d10, propulsive, range increment 100 feet,
+reload 0, volley 30 feet), Damage 1d8+3 piercing
+Hunt Prey  (concentrate) As poacher (page 218).
+HUNTER
+As is reflected in the many depictions of an elk-headed Erastil,
+god of the hunt, the hunter is very much a creature of the forest,
+known by the forest and familiar with every aspect of it. After all,
+the final determination of who is the hunter and who is prey often
+depends on who is able to make an ally of the terrain.
+HUNTER
+CREATURE 7
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +17
+Languages Common
+Skills Forest Lore +13, Medicine +15, Nature +17, Stealth +17,
+Survival +17
+Str +4, Dex +4, Con +2, Int +1, Wis +4, Cha +0
+Items +1 composite longbow, dagger, leather
+armor, shortsword
+Forager As poacher, but the hunter feeds 16 additional
+creatures, or 32 on a critical success.
+Forest Walker The hunter ignores the effects of difficult
+terrain from a forest environment. They can Sneak
+through underbrush without the need to attempt a Stealth
+check as long as the hunter moves no more than 5 feet at a
+time and is not within 10 feet of an enemy at any point during
+their movement.
+AC 25; Fort +15, Ref +17, Will +15
+HP 115
+Speed 25 feet
+Melee  dagger +18 (agile, finesse, versatile S), Damage 1d4+9 piercing
+Melee  shortsword +18 (agile, finesse, versatile S), Damage 1d6+9
+piercing
+Ranged  composite longbow +18 (deadly 1d10, magical,
+propulsive, range increment 100 feet, reload 0, volley
+30 feet), Damage 1d8+8 piercing
+Hunt Prey  (concentrate) As poacher, but for 1d8
+precision damage.
+FAMED FORESTS
+The Verduran Forest is the largest
+woodland on the continent of
+Avistan; the druids and rangers of
+the Wildwood Lodge earned the
+forest great autonomy through
+a thousand-year treaty. The
+Forest of Spirits stretches over
+a thousand miles of Tian Xia and
+is the primeval birthplace of the
+nature spirits known as kami.
+The Fangwood in Nirmathas
+and the Gravelands is home to a
+secret village of druids, named
+Crystalhurst, and to one of the
+most powerful green dragons in
+the world. The terrible Darkblight
+devastated the 7,000-year-old
+fey court that once guarded the
+wood. The Fierani Forest covers
+the majority of the elven nation of
+Kyonin and borders Tanglebriar,
+home to the Fierani rangers’ great
+nemesis, the demon Treerazer.
+HUNTER
+
+================================================================================
+PAGE 221
+================================================================================
+
+Gamemastery Guide
+HEALERS
+The world is a dangerous place. Thankfully, there are those who devote their lives
+to easing the pain and suffering of others.
+APOTHECARY
+Surrounded by bottles and bins of crushed herbs, curative minerals, and potent
+extracts, the apothecary skillfully combines materials into unguents and medicines.
+For encounters involving making medicine or alchemical contests, the apothecary
+is a 3rd-level challenge.
+APOTHECARY
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +5
+Languages Common
+Skills Crafting +5 (+8 for alchemy and medication), Medicine +10, Nature +8
+Str +0, Dex +1, Con +1, Int +3, Wis +3, Cha +1
+Items lesser acid flask (2), dagger, minor elixir of life (2), healer’s tools, leather
+apron (functions as padded armor), mortar and pestle
+Medical Wisdom The apothecary can identify the effect of any alchemical
+composition or medical ingredient using only their senses. This typically takes 1
+minute.
+AC 14; Fort +8, Ref +3, Will +5; +1 circumstance to all saves vs. poisons
+HP 9; Resistances poison 2
+Speed 25 feet
+Melee  stone pestle +4, Damage 1d6 bludgeoning
+Melee  fist +5 (agile, nonlethal), Damage 1d4 bludgeoning
+Ranged  acid flask +5 (range increment 20 feet, splash), Damage 1 acid plus
+1d6 persistent acid and 1 splash acid
+PHYSICIAN
+The art of medicine is a blend of the intellectual and the practical, concerned
+with how diseases work and how to prevent them. The physician can be found
+consulting well-thumbed tomes while meticulously examining patients to better
+understand their condition, before determining the most effective treatment. For
+medical matters, the physician is a 4th-level challenge.
+PHYSICIAN
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6 (+8 to notice ailments)
+Languages Common
+Skills Diplomacy +8, Medicine +12, Society +10
+Str –1, Dex +1, Con +1, Int +4, Wis +2, Cha +2
+Items minor elixirs of life (2), healer’s tools, medical textbook
+Bedside Manner A physician has a +2 circumstance bonus to Diplomacy checks to Make
+an Impression on or make a Request of a diseased, poisoned, or wounded creature.
+Doctor’s Hand When the physician rolls a critical failure on a check to Treat Disease, Treat
+Poison, or Treat Wounds, they get a failure instead.
+AC 13; Fort +9, Ref +3, Will +8
+HP 9
+Speed 25 feet
+Melee  fist +5 (agile, nonlethal), Damage 1d4–1 bludgeoning
+Ranged  medical textbook +5 (nonlethal, thrown 10 feet), Damage 1d4–1 bludgeoning
+SURGEON
+The surgeon specializes in the physical alteration of the body to prevent the spread
+of disease, removing necrotic and decaying flesh to help the whole to survive. Few
+MEDICAL SERVICE PRICES
+The physician and surgeon are
+masters of Medicine; the apothecary
+and plague doctor are experts.
+Plague doctors charge five times
+this rate, and surgeons 10 times.
+Identify Affliction: 1 sp.
+Treat Wounds: 2 sp.
+Treat Disease: 1 gp.
+First Aid or Treating a Poison: 1 sp.
+PHYSICIAN
+
+================================================================================
+PAGE 222
+================================================================================
+
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+healers know the science of anatomy and physiology better than the surgeon.
+While their expertise is of grave importance in the medical world, the downside
+is that when one is in need of their talents, it is likely the complaint is serious. In
+medical matters, a surgeon is a 6th-level challenge.
+SURGEON
+CREATURE 2
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Crafting+10, Diplomacy+8, Medicine +16
+Str +1, Dex +3, Con +1, Int +2, Wis +4, Cha +0
+Items healer’s tools, scalpel (3)
+Doctor’s Hand When the surgeon rolls a critical failure on a check to Treat Disease, Treat
+Poison, or Treat Wounds, they get a failure instead.
+AC 17; Fort +7, Ref +7, Will +10
+HP 30
+Speed 25 feet
+Melee  scalpel +11 (agile, versatile P), Damage 1d4+1 slashing
+Ranged  scalpel +11 (agile, thrown 10 feet, versatile P), Damage 1d4+1
+slashing
+Medical Malpractice  The surgeon attempts a Medicine check against the
+Fortitude DC of one living creature they can see within 60 feet. On a
+success, the surgeon’s melee Strikes deal an extra 1d6 precision damage
+against that creature (2d6 on a critical success) until 1 minute passes or
+the surgeon critically hits that creature, whichever comes first. Using
+this action again designates a new target and ends the effect for any
+previous target. A surgeon can target an individual creature no more
+than once per day with this ability.
+PLAGUE DOCTOR
+These healers, often seen wearing distinctive masks and burning powders to
+defend against airborne plagues, are as much feared as they are respected. To see
+a plague doctor signals that disease has infested the land—and that it might have
+already taken hold. Despite their devoted work in curing the untouchable, they are
+sometimes treated with suspicion, as if they are somehow the cause of the plague.
+PLAGUE DOCTOR
+CREATURE 5
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +13
+Languages Common
+Skills Intimidation +9, Medicine +13, Plague Lore +13, Religion +13
+Str +0, Dex +1, Con +4, Int +2, Wis +4, Cha +2
+Items crossbow (10 bolts), healer’s tools, minor potion of healing (4), staff, studded leather
+AC 20; Fort +13, Ref +8, Will +13
+HP 73
+Speed 25 feet
+Melee  staff +9 (two-hand d8), Damage 1d4 bludgeoning
+Ranged  crossbow +10 (range increment 120 feet, reload 1), Damage 1d8 piercing
+Divine Prepared Spells DC 23; 3rd heal (×3), neutralize poison, remove disease; 2nd
+death knell, remove fear, restoration; 1st detect poison, purify food and drink (×2);
+Cantrips (3rd) guidance, light, message, sigil, stabilize
+Cleric Domain Spells 1 Focus Point, DC 23; 3rd healer’s blessing (Core Rulebook 393)
+Healing Hands When the plague doctor casts heal, they roll d10s instead of d8s.
+Improved Communal Healing When the plague doctor casts heal targeting a
+single creature, the plague doctor also restores Hit Points equal to the spell’s
+level to themself or any other creature within range of the spell.
+AILMENTS
+Common diseases appear on page
+118. These can be treated by most
+healers, though they may have
+longer-term physiological impacts.
+For unusual conditions, like ghoul
+fever or mummy rot, you might
+impose penalties on a normal healer
+attempting to remedy them.
+SURGEON
+
+================================================================================
+PAGE 223
+================================================================================
+
+Gamemastery Guide
+LABORERS
+Every day, laborers perform backbreaking physical work.
+SERVANT
+Maids, butlers, and majordomos alike, servants are skilled at keeping a home in
+working order and protecting the interests of their employers.
+SERVANT
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +9
+Languages Common
+Skills Acrobatics +5, Diplomacy +4, Household Lore +4, Society +2
+Str +1, Dex +3, Con +1, Int +0, Wis +1, Cha +2
+Items cutlery (10), servant’s uniform, serving platter (Hardness 3, HP 6, BT 3)
+AC 15 (16 with platter raised); Fort +5, Ref +7, Will +3
+HP 9
+Raise a Shield  The serving platter has the same statistics as a buckler, but requires
+a hand to hold.
+Speed 25 feet
+Melee  cutlery +5 (agile, versatile S), Damage 1d4+1 piercing
+Ranged  cutlery +5 (agile, thrown 15 feet, versatile S), Damage 1d4+1 piercing
+DOCKHAND
+Working to load and unload cargo from ships, dockhands are considered
+unruly, but many stay focused and work hard until the job is done. Some
+do celebrate the end of their work day with rowdy drinking.
+DOCKHAND
+CREATURE 0
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +3
+Languages Common
+Skills Acrobatics +3, Athletics +5, Intimidation +3, Labor Lore +4
+Str +3, Dex +1, Con +3, Int +0, Wis +1, Cha +1
+Items empty bottle (3), leather armor, whiskey (1 bottle)
+AC 14; Fort +7, Ref +5, Will +3
+HP 20
+Speed 25 feet
+Melee  fist +7 (agile, nonlethal), Damage 1d4+3 bludgeoning
+Ranged  bottle +5 (agile, thrown 20 feet), Damage 1d6+3 bludgeoning
+Heft Crate  (manipulate) Requirements The dockhand is adjacent to a crate; Effect
+The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate
+breaks open in a 5-foot burst. Each creature within the area takes 2d6 bludgeoning
+damage (DC 13 basic Reflex save), and the area becomes difficult terrain until cleared.
+Swig  (manipulate) The dockhand Interacts to either draw a bottle of alcohol
+or pick up a nearby unattended bottle of alcohol and drink the whole thing. For
+1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving
+throws against fear, but they become clumsy 1.
+FARMER
+Workers of the fields, vineyards, and orchards of the world, farmers are
+known for their rugged endurance and their skill with both plants and animals.
+FARMER
+CREATURE 0
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+LABORER GAMES
+Laborers tend to play games when
+the work is slow or while on break.
+Common games include Gremlin
+Row, which involves rolling dice and
+trying to match them, as well as
+Fishing with Fire, in which players
+try to get all the cards of one type
+from a deck without losing all of their
+own cards and getting “burned.”
+SERVANT
+
+================================================================================
+PAGE 224
+================================================================================
+
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+Skills Athletics +5, Farming Lore +4, Nature +4, Survival +4
+Str +3, Dex +1, Con +3, Int +0, Wis +2, Cha +0
+Items apple (4), leather armor, pitchfork
+AC 14; Fort +7, Ref +5, Will +4
+HP 20
+Speed 25 feet
+Melee  pitchfork +6 (reach 10 feet), Damage 1d6+3 piercing
+Ranged  apple +5 (agile, nonlethal, thrown 20 feet), Damage 1d4+3 bludgeoning
+Pitch Bale  Requirements The farmer’s last action was a successful pitchfork Strike;
+Effect The farmer moves the creature they hit with their pitchfork up to 5 feet, and the
+target falls prone. The target can attempt a DC 13 Reflex save to avoid falling prone, and
+avoids being moved altogether on a critical success.
+MINER
+Miners explore deep underground in search of minerals and rare
+materials, taking numerous precautions to keep themselves safe.
+MINER
+CREATURE 0
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Acrobatics +3, Athletics +6, Mining Lore +4, Survival +4
+Str +2, Dex +1, Con +3, Int +0, Wis +2, Cha +0
+Items hammer, lantern, miner’s harness (functions as leather armor), pick, piton (5)
+AC 14; Fort +7, Ref +5, Will +4
+HP 20
+Speed 25 feet
+Melee  pick +6 (fatal 1d10), Damage 1d6+2 piercing
+Piton Pin  (attack) Requirements The miner has their hammer in hand; Effect The miner
+Interacts to draw a piton, then hammers it into a creature to pin them in place, attempting
+an Athletics check against the target’s Reflex DC. On a hit, the target is immobilized until
+it removes the piton with a successful DC 10 Athletics check made as an Interact action.
+GRAVEDIGGER
+An often-overlooked group of laborers, gravediggers have a reputation for being
+as quiet and grim as their workplace. They are commonly strong and tough
+from their long hours of backbreaking labor, and they tend to have a unique
+perspective on life and death.
+GRAVEDIGGER
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Athletics +7, Graveyard Lore +4, Religion +4, Stealth +4
+Str +4, Dex +1, Con +3, Int +0, Wis +2, Cha +0
+Items bull’s-eye lantern (2 oils), gravedigger’s garb (functions as leather armor), religious
+symbol of Pharasma, shovel
+AC 15; Fort +8, Ref +4, Will +7
+HP 22; Resistances negative 2
+Speed 25 feet
+Melee  shovel +9, Damage 1d4+4 bludgeoning
+Light in the Dark  (concentrate, divine, manipulate) Requirements The gravedigger
+holds a bull’s-eye lantern in one hand and their religious symbol in the other, and the
+lantern contains oil; Effect The gravedigger recites a brief chant to ignite their lantern
+with positive energy. Each undead creature in a 15-foot line takes 3d6 positive damage
+(DC 14 basic Fortitude save). This action uses all remaining oil in the bull’s-eye lantern.
+FORCED LABOR
+Many creatures and societies still
+practice forced labor, whether
+through full enslavement or
+indebted labor to pay a society for
+their crimes. The dockhand, farmer,
+miner, and servant could also be
+forced laborers. Forced laborers
+could become allies or at least
+informants to PCs who free them.
+DOCKHAND
+
+================================================================================
+PAGE 225
+================================================================================
+
+MAGISTRATES
+Magistrates are the cogs and gears that keep bureaucracy running, moving the
+machine along under the inertia of the status quo.
+JUDGE
+These magistrates have the final say on the intent and spirit of the law. Properly
+exercised, the duty of a judge is the strict adherence to the law regardless of station,
+with minimal sentimentality toward rationalization and justification of why the
+law was broken. Yet expectations and practice are not always the same thing. For
+every unbiased justice, there is one who is zealously confident in their own agenda.
+In a court case or other legal proceeding, the judge is a 6th-level challenge.
+JUDGE
+CREATURE –1
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +8 (+15 to Sense Motive)
+Languages Common
+Skills Deception +8, Diplomacy +12, Intimidation +12, Legal Lore +16, Society +14
+Str +0, Dex –1, Con +1, Int +4, Wis +4, Cha +2
+Items books (law and rhetoric; worth 3 gp), gavel, judge’s robes
+Group Impression When the judge Makes an Impression, they can compare their
+Diplomacy check result to the Will DCs of up to four targets instead of one.
+AC 13; Fort +5, Ref +1, Will +14
+HP 9
+Speed 25 feet
+Melee  gavel +4, Damage 1d4 bludgeoning
+Melee  fist +4 (agile, nonlethal), Damage 1d4 bludgeoning
+Ranged  gavel +3 (thrown 10 feet), Damage 1d4 bludgeoning
+TAX COLLECTOR
+Ledgers and marks, positive and negative flows, and levies and
+allotments are a tax collector’s daily bread. Where coin is gained, from
+whom it is collected, and to whom is it disbursed are their main concerns;
+the collector is unconcerned with whether the taxed can afford it or take a
+loan to make up for any shortfall. However, tax collectors aren’t immune to
+corruption: arrangements can be made, deals discussed, documents altered,
+or coin misappropriated. When dealing with matters of taxes and finance,
+the tax collector is a 3rd-level challenge.
+TAX COLLECTOR
+CREATURE –1
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6 (DC 19 against Stealing)
+Languages Common
+Skills Deception +8, Diplomacy +8, Intimidation +8, Legal Lore +11, Mercantile Lore +13,
+Society +11, Thievery +6
+Str +0, Dex +1, Con +0, Int +4, Wis +2, Cha +3
+Items crossbow (10 bolts), dagger, collection of expired documents with intact seals,
+merchant’s scale, padded armor, tax documents in scroll case
+AC 14; Fort +2, Ref +3, Will +9
+HP 8
+Speed 25 feet
+Melee  dagger +5 (agile, versatile S) Damage 1d4 piercing
+Ranged  crossbow +5 (range increment 120 feet, reload 1), Damage 1d8 piercing
+Glittering Distraction  (emotion, mental) The tax collector Strides. At any point
+during this movement, they can Interact to hurl coins. If there are commoners about,
+this typically causes a scene. Crowds are usually difficult terrain and have other effects
+(Core Rulebook 514).
+DELAYING TACTICS
+A magistrate can weaponize
+the bureaucracy. A judge might
+enforce an archaic law generally
+ignored yet still on the books. A
+tax collector could ask for the seal
+of a lord who is out of the region.
+The harbormaster could require all
+fees in local coin, fully aware money
+changers won’t be open for days.
+Gamemastery Guide
+TAX COLLECTOR
+
+================================================================================
+PAGE 226
+================================================================================
+
+HARBORMASTER
+There are three flows important to any port: the seaward and coastal flows,
+marked by the rise and fall of the tides, and the flow of trade. A harbormaster
+is expected to know the former two reflexively and encourage the latter while
+knowing jurisdictional rules of law. Often old hands of the sea, harbormasters find
+themselves anchored to a port by commitment, conflict, or reputation.
+HARBORMASTER
+CREATURE 3
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Acrobatics +9, Athletics +9, Diplomacy +5, Fishing Lore +8, Intimidation +5, Sailing
+Lore +10
+Str +4, Dex +2, Con +2, Int +2, Wis +1, Cha +0
+Items fishing tackle, hatchet (2), ledger, manacles, spyglass
+Steady Balance Whenever the harbormaster rolls a success on a check to Balance,
+they get a critical success instead. They’re not flat-footed while Balancing on narrow
+surfaces and uneven ground. They can attempt an Acrobatics check instead of a Reflex
+save to Grab an Edge.
+AC 17; Fort +8, Ref +9, Will +8
+HP 46
+Speed 25 feet
+Melee  hatchet +13 (agile, sweep), Damage 1d6+7 slashing
+Ranged  hatchet +11 (agile, sweep, thrown 10 feet), Damage
+1d6+7 slashing
+Experienced Hand The harbormaster has endured their share of adverse
+conditions at sea. Any creature that’s in adverse weather or aboard a vessel
+on rough water is flat-footed to the harbormaster.
+WARDEN
+Wardens are the chief guardians of borders and frontiers. Whether they stand watch
+over a single village or an entire region, wardens keep a vigilant eye out for outside
+threats to their charges. Wardens are stalwart folk, often called to duty by Erastil to
+protect those around them. Be it times of war or upon the frontier, wardens are often
+the balanced edge of a blade between a community and the wilds at its fringes.
+WARDEN
+CREATURE 6
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +12
+Languages Common
+Skills Athletics +14, Nature +10, Stealth +12, Survival +12
+Str +4, Dex +2, Con +3, Int +1, Wis +2, Cha +1
+Items bastard sword, backpack, bedroll, compass, +1 composite longbow (10 arrows), flint
+and steel, maps, pup tent, scale mail
+AC 25; Fort +12, Ref +12, Will +12
+HP 96
+Warding Strike  Trigger One of the warden’s enemies within 100 feet attacks one
+of the warden’s allies or a person the warden is sworn to protect; Effect The warden
+Strikes the triggering enemy. If the Strike hits, the enemy’s attack is deflected, reducing
+its damage by 8, or by 16 if the warden’s Strike was a critical hit.
+Speed 25 feet
+Melee  bastard sword +16 (two-hand d12), Damage 1d8+7 slashing
+Ranged  composite longbow +17 (deadly 1d10, magical, propulsive, range increment 100
+feet, reload 0, volley 30 feet), Damage 1d8+5 piercing
+Warden’s Protection A warden deals an extra 1d8 damage to any creature trespassing on
+the territory the warden protects.
+AT YOUR SERVICE
+Magistrates can conscript others into
+service in a variety of positions.
+Harbormaster: Bosun (page 243),
+dockhand (page 222), guard (page
+232), ship captain (page 243).
+Judge: Captain of the guard (page
+234), executioner (page 235), guard
+(page 232), jailer (page 233)
+Tax Collector: Captain of the guard
+(page 234), guard (page 232), jailer
+(page 233), watch officer (page 234)
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+HARBORMASTER
+
+================================================================================
+PAGE 227
+================================================================================
+
+MERCENARIES
+A broad category that includes those wielding arms, spells, or even guile and
+cunning, mercenaries hire themselves and their expertise to those with the gold
+to pay for it.
+BODYGUARD
+Hired to protect someone famous or powerful, bodyguards use intimidation,
+quick wits, and martial skill to keep their charges safe. Such mercenaries might
+be auxiliaries to a noble’s own guards, but with special directives to safeguard
+their patrons.
+BODYGUARD
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +8
+Languages Common
+Skills Athletics +7, Intimidation +6, Society +2
+Str +4, Dex +2, Con +3, Int –1, Wis +1, Cha +0
+Items greatclub, sap, studded leather
+AC 16; Fort +8, Ref +7, Will +4
+HP 25
+Speed 25 feet
+Melee  greatclub +7 (backswing, shove), Damage 1d10+4 bludgeoning
+Melee  sap +7 (agile, nonlethal), Damage 1d6+4 bludgeoning
+Bodyguard’s Defense  The bodyguard selects one creature they can see
+and hear within 30 feet. That creature gains a +2 circumstance bonus to AC
+as long as the bodyguard is adjacent to the chosen creature and can act; this
+bonus lasts until the start of the bodyguard’s next turn.
+MAGE FOR HIRE
+Not all mercenaries sell brawn and intimidating glares. Some sell their
+magical talents to earn a living. While there are many types of mages for
+hire, some of the sneakiest are specialized in divination, using their skills
+for infiltration and sabotage.
+MAGE FOR HIRE
+CREATURE 3
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +7
+Languages Common
+Skills Arcana +11, Society +9, Stealth +7, Thievery +9
+Str +0, Dex +2, Con +1, Int +4, Wis +1, Cha +1
+Items invisibility potion, spellbook, staff, thieves’ tools
+AC 17; Fort +8, Ref +9, Will +10
+HP 31
+Speed 25 feet
+Melee  staff +7 (two-hand d8), Damage 1d4 bludgeoning
+Arcane Prepared Spells DC 20, attack +12; 2nd flaming sphere, knock, see
+invisibility; 1st grease, mage armor, magic missile, true strike; Cantrips (2nd)
+dancing lights, daze, detect magic, electric arc, mage hand, message, shield
+Wizard School Spell 1 Focus Point, DC 20; 2nd diviner’s sight (Core Rulebook 406)
+BOUNTY HUNTER
+Bounty hunters are constantly on the move, whether within city walls or
+the wilderness, trailing their fugitive quarries for capture… or disposal. Often
+relying on stealth or deception as much as martial skill, bounty hunters employ
+a vast array of talents to accomplish their goals, not to mention to collect
+the hefty payout that follows.
+BRIBING MERCENARIES
+Unless a mercenary prides themself
+on their name or reputation, the
+PCs might be able to bribe them to
+switch sides, or at least stand aside.
+You can estimate a bribe by taking
+roughly 5% of the Party Currency
+value from the row corresponding
+to the NPC’s level on Table 10–9 on
+page 509 of the Core Rulebook.
+Gamemastery Guide
+MAGE FOR HIRE
+
+================================================================================
+PAGE 228
+================================================================================
+
+BOUNTY HUNTER
+CREATURE 4
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Athletics +9, Deception +10, Diplomacy +8, Intimidation +8, Stealth +12, Survival +10
+Str +3 Dex, +4, Con +1, Int +0, Wis +4, Cha +1
+Items crossbow (10 bolts), falchion, simple manacles, studded leather
+AC 21; Fort +9, Ref +12, Will +12
+HP 60
+Speed 25 feet
+Melee  falchion +13 (forceful, sweep), Damage 1d10+6 slashing
+Ranged  crossbow +14 (range increment 120 feet, reload 1), Damage 1d10+5 piercing
+Hunt Prey  (concentrate) The bounty hunter designates a single creature they can
+see and hear, or one they’re Tracking, as their prey. The bounty hunter gains a +2
+circumstance bonus to Perception checks to Seek the prey and to Survival checks to
+Track the prey. This effect lasts until the bounty hunter uses Hunt Prey again.
+Running Reload  The bounty hunter Stride, Steps, or Sneaks, and then Interacts to
+reload.
+Precision Edge The first time the bounty hunter hits their hunted prey in a round, they
+deal an additional 1d8 precision damage.
+MONSTER HUNTER
+Some mercenaries eschew the complications of politics, oaths of service, and
+fealty and just get paid to hunt monsters. It’s a straightforward form of mercenary
+service, often dangerous in the extreme, but one that can yield glory and fame.
+MONSTER HUNTER
+CREATURE 6
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +13
+Languages Common
+Skills Athletics +15, Monster Lore +13, Stealth +13, Survival +11
+Str +4, Dex +3, Con +3, Int +1, Wis +1, Cha +1
+Items composite longbow (20 arrows), +1 greataxe, hide armor
+AC 23; Fort +15, Ref +11, Will +13
+HP 108
+Attack of Opportunity 
+Speed 20 feet
+Melee  greataxe +15 (magical, sweep), Damage
+1d12+8 slashing
+Ranged  composite longbow +14 (deadly d10, propulsive,
+range increment 100 feet, reload 0, volley 30 feet), Damage
+1d8+6 piercing
+Rage  (concentrate, emotion, mental) Requirements The
+monster hunter isn’t fatigued or raging; Effect The monster
+hunter gains 9 temporary Hit Points that last until the rage
+ends. While raging, they deal 8 additional damage with
+melee attacks, gain a +10-foot status bonus to their
+Speed, and take a –1 penalty to AC. The monster hunter
+can’t use concentrate actions except Seek and rage
+actions. The rage lasts for 1 minute, until there are
+no enemies the monster hunter can perceive, or
+until the monster hunter falls unconscious. Once
+the rage ends, the monster hunter can’t Rage
+again for 1 minute.
+Sudden Charge  The monster hunter
+Strides twice and makes a melee Strike.
+MERCENARY BANTER
+Here’s some parlance commonly
+used by mercenaries.
+Crackster: Someone adept at
+breaking locks or safes.
+Diving: Theft or smuggling below
+ground, often through tunnels.
+Foxing: To play at being asleep,
+usually for an ambush.
+Medic: A healer.
+Ram: A hard-hitting warrior.
+Slinger: A spellcaster.
+Sway of Coin: Swearing allegiance to
+whoever pays the most.
+Waterline: A mercenary troupe’s
+money: “Take time in town while
+the waterline’s high, everyone.”
+Whisperstep: Anyone who can
+move stealthily.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+BOUNTY HUNTER
+
+================================================================================
+PAGE 229
+================================================================================
+
+MYSTICS
+Those initiated into the hidden truths and forbidden secrets of the world are forever
+transformed—or so they claim. To the cynical, a mystic is nothing more than a
+charlatan or zealot. Others profess to sense an aura around such luminaries and
+treat them with reverence, lest they offend some harbinger of unspeakable doom.
+ADEPT
+Adepts have unlocked only the most minor occult mysteries of the universe. A few
+are chosen by accomplished practitioners for further training. Others volunteer to
+join a cabal by passing an initiation ritual.
+ADEPT
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +4
+Languages Common
+Skills Arcana +5, Diplomacy +3, Occultism +7, Scribing Lore +5, Society +5
+Str +0, Dex +2, Con +0, Int +3, Wis +2, Cha +1
+Items journal, robes, scroll case, writing set
+Focused Thinker  (concentrate) The adept focuses inward to muster knowledge and
+wisdom. While in this state of concentration, they gain a +2 status bonus to checks to
+Recall Knowledge, but take a –2 penalty to Perception. They can end their focused state
+with a single action, which has the concentrate trait.
+AC 14; Fort +2, Ref +4, Will +6
+HP 8
+Speed 25 feet
+Melee  fist +6 (agile, nonlethal); Damage 1d4 bludgeoning
+Ranged  journal +6 (nonlethal, thrown 10 feet); Damage 1d6 bludgeoning
+Occult Spells Known DC 14; Cantrips (1st) daze, detect magic, mage hand
+HARROW READER
+A harrow deck is a set of 54 cards with symbolic illustrations that serves as a
+sacred divining tool. Feared by the superstitious and avoided by those who know
+better than to tempt fate, harrow readers live and work in traveling communities,
+often moving from town to town as opportunities arise. For encounters involving
+social interaction, the harrow reader is a 3rd-level challenge.
+HARROW READER
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +7
+Languages Common
+Skills Diplomacy +8, Fortune-Telling Lore +11, Occultism +7, Performance +10 (+11 when
+fortune-telling), Society +7
+Str +1, Dex +2, Con +1, Int +2, Wis +3, Cha +3
+Items harrow deck, sickle
+AC 13; Fort +3, Ref +6, Will +10
+HP 9
+Speed 25 feet
+Melee  sickle +7 (agile, finesse, trip), Damage 1d4+1 slashing
+Fated Doom While harrow readers try to avoid combat, no throw of the cards can
+avoid fate, so a harrow reader learns how to best survive. In the harrow reader’s
+first encounter each day, they gain a +1 status bonus to their initiative roll, their
+attack rolls, and their AC.
+CULTIST
+Excessively zealous, a cultist finds exalted purpose in their sect. Never questioning
+their leader, they devote themselves to achieving their most perfect spiritual form.
+Gamemastery Guide
+MYSTIC CADRES
+Golarion has several mystic groups.
+The Church of Razmir offers a plan
+of 31 steps to divinity. The Esoteric
+Order of the Palatine Eye seeks
+celestial truths said to be granted
+by an ancient angel. Knights of the
+Aeon Star search for secret lore.
+Followers of Rivethun, dwarven
+animism, reach out to spirits to gain
+knowledge and earn favors.
+ADEPT
+
+================================================================================
+PAGE 230
+================================================================================
+
+CULTIST
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +4
+Languages Common
+Skills Deception +3, Intimidation +3, Cult Lore (applies to the cultist’s own cult) +8,
+Occultism +3, Society +4, Stealth +6
+Str +4, Dex +3, Con +2, Int +1, Wis –1, Cha +0
+Items dagger, cultist garb (functions as leather armor)
+AC 17; Fort +7, Ref +8, Will +4 (or +2 vs. higher-ranking members of the cult)
+HP 20
+Speed 25 feet
+Melee  dagger +7 (agile, versatile S), Damage 1d4+4 piercing
+Ranged  dagger +6 (agile, thrown 10 feet, versatile S), Damage 1d4+4 piercing
+Fanatical Frenzy  Requirements The cultist has taken damage and is neither fatigued nor
+already in a frenzy; Effect The cultist flies into a frenzy that lasts 1 minute. While frenzied,
+the cultist gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls,
+and they take a –2 status penalty to AC. The cultist can’t voluntarily stop their frenzy.
+After their frenzy, the cultist is fatigued.
+FALSE PRIEST
+Belief is perhaps the strongest force in the universe, driving many to
+great heights. Instilling a sense of belief and then using that belief against
+someone, however, is the discipline of a false priest. Combining their gifts
+of deception, a silver tongue, and an impeccable sense of timing, the false
+priest can gain influence among the powerful, entice a mark to dispose of
+all their possessions, and make a believer out of a cynic.
+FALSE PRIEST
+CREATURE 4
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +10
+Languages Common
+Skills Acrobatics +10, Athletics +8, Deception +12, Performance +12, Religion +8,
+Society +6
+Str +0, Dex +4, Con +3, Int +0, Wis +2, Cha +4
+Items alchemical tools (used as “blessed items” to fool marks), backpack, cloak, hand
+crossbow (20 bolts), collection of fake relics, wooden religious symbol, studded
+leather armor, rapier
+AC 21; Fort +11, Ref +12, Will +10
+HP 51
+Speed 25 feet
+Melee  rapier +12 (deadly 1d8, disarm, finesse), Damage 1d6+8 piercing
+Ranged  hand crossbow +12 (range increment 60 feet, reload 1), Damage 1d6+4
+piercing
+Deceiver’s Surprise On the first round of combat, if the false priest rolls Deception
+or Performance for initiative, creatures that haven’t acted yet are flat-footed to
+the false priest.
+Fickle Prophecy  (emotion, mental) The false priest convinces someone of their
+omnipotence by attempting a Deception check compared to the creature’s Will
+DC. If successful, the target gains 1d8+4 temporary Hit Points that last for 1
+hour or until the false priest removes them by rebuking the target, whichever
+occurs first.
+Sneak Attack The false priest deals an extra 1d6 precision damage to flat-footed
+creatures. This increases to 2d6 against creatures flat-footed due to the
+false priest’s Feint or deceiver’s surprise.
+The Jig Is Up  Frequency once per hour; Trigger The false priest critically fails a
+Deception or Performance check; Effect The false priest Strides.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+MYSTIC RITUALS
+The following are rituals sometimes
+cast by mystic groups. Those from
+the Bestiary are available only to
+appropriate celestials and fiends
+within the organizations.
+• Abyssal pact (Bestiary 347)
+• angelic messenger (Bestiary 348)
+• call spirit (Core Rulebook 410)
+• commune (Core Rulebook 410)
+• Infernal pact (Bestiary 348)
+• legend lore (Core Rulebook 413)
+• planar ally (Core Rulebook 413)
+• planar binding (Core Rulebook 414)
+CULTIST
+
+================================================================================
+PAGE 231
+================================================================================
+
+NECROMANCER
+Defiling the natural order and spitting in the face of convention, the necromancer
+remains dutifully committed to understanding what forces await beyond the
+mortal boundaries of life and death.
+NECROMANCER
+CREATURE 5
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +10
+Languages Common
+Skills Arcana +13, Crafting +11, Intimidation +8, Religion +10
+Str +2, Dex +3, Con +2, Int +4, Wis +3, Cha –1
+Items light mace, hooded robe, scroll of spectral hand, spellbook (Abominable Missives
+of the Atrophied)
+Stench of Decay (arcane, aura, conjuration, poison) The necromancer emits a scent of
+putrid rot in a 5-foot emanation. A creature that enters or begins its turn in the aura is
+sickened 1.
+AC 20; Fort +9, Ref +12, Will +12
+HP 58
+Speed 25 feet
+Melee  light mace +12 (agile, finesse, shove), Damage 1d4+4
+bludgeoning
+Wizard Prepared Spells DC 21, attack +13; 3rd bind undead, lightning
+bolt, vampiric touch; 2nd false life, grim tendrils, mirror image, web;
+1st fear, feather fall, ray of enfeeblement, spider sting; Cantrips (3rd)
+chill touch, detect magic, electric arc, ray of frost, read aura, shield
+Wizard School Spells 1 Focus Point, DC 21; 3rd call of the grave (Core
+Rulebook 406)
+Drain Bonded Item  (arcane) Frequency once per day; Requirements The
+necromancer hasn’t acted yet on this turn; Effect The necromancer expends
+the power stored in their mace. This gives them the ability to cast one prepared
+spell they prepared today and already cast, without spending a spell slot.
+CULT LEADER
+A career of mystical accomplishments combined with a lifetime of subterfuge
+and intimidation has elevated this occultist to a powerful position.
+CULT LEADER
+CREATURE 7
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Arcana +13, Deception +16, Diplomacy +14, Intimidation +16, Cult Lore
+(applies to the leader’s own cult) +19, Occultism +17, Society +13
+Str +0, Dex +4, Con +1, Int +4, Wis +3, Cha +5
+Items indecipherable book of sigils, ceremonial robes, +1 staff
+AC 23; Fort +12, Ref +15, Will +18
+HP 95
+Protect the Master!  (auditory, concentrate, emotion, linguistic, mental,
+move) Trigger The cult leader is targeted with an attack, and a lower-ranking
+cultist is adjacent to them; Effect The cult leader orders their cultist to leap
+in front of the attack. The cultist and cult leader swap places, and the cultist
+becomes the target of the attack. If the cultist has Fanatical Frenzy or a
+similar ability, they can activate it as a reaction if they take damage from
+the triggering attack.
+Speed 25 feet
+Melee  staff +13 (magical, two-hand d8), Damage 1d4+6 bludgeoning
+Occult Spontaneous Spells DC 26, attack +18; 4th (3 slots) dimension
+FORMS OF FORTUNE-TELLING
+Anthomancy: Flowers.
+Astrology: The cosmic caravan.
+Demonomancy: Asking demons.
+Harrowing: Harrow card readings.
+Haruspicy: Entrails.
+Ichthyomancy: The next fish caught.
+Mazomancy: A nursing babe.
+Oneiromancy: Dreams.
+Tyromancy: Coagulation of cheese.
+Gamemastery Guide
+CULT LEADER
+
+================================================================================
+PAGE 232
+================================================================================
+
+door, glibness, outcast’s curse, suggestion; 3rd (4 slots) enthrall, grim tendrils, haste, mind
+reading; 2nd (4 slots) augury, calm emotions, hideous laughter, touch of idiocy; 1st (4 slots)
+bless, illusory disguise, lock, unseen servant; Cantrips (4th) chill touch, daze, detect magic,
+guidance, shield
+Gather Converts [three-actions] (auditory, concentrate, emotion, linguistic, mental) With a short
+emotional phrase, the cult leader tries to sway the public to do their bidding. The cult leader
+tries to convince up to four bystanders in a crowd to either cause a commotion, turn against
+a person or group, leave the area, protect the cult leader, or calm down. The cult leader
+attempts a single Deception check against the highest Perception DC among the targets.
+Critical Success The targets believe the lie and act as directed for 1 minute. Additionally,
+one bystander remains by the cult leader’s side, influenced enough to join their sect.
+All other targets become wise to the cult leader after 1 minute, at which point their
+attitude toward the leader worsens by one step.
+Success As a critical success, but no bystander joins the sect permanently.
+Critical Failure The crowd is unmoved and unamused, and their attitude toward the cult
+leader worsens by one step.
+DEMONOLOGIST
+Demonologists can pull a creature from the Abyss and bend it to their will… for a time.
+DEMONOLOGIST
+CREATURE 7
+CE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +15
+Languages Abyssal, Common
+Skills Academia Lore +14, Arcana +16, Demon Lore +18, Diplomacy +11
+(+13 with demons), Religion +15
+Str +3, Dex +1, Con +2, Int +4, Wis +4, Cha +0
+Items +1 longspear, scholarly robes, spell component pouch, spellbook
+(Fiendish Hypotheses and Protections from Same)
+Abyssal Temptation (divine, enchantment, mental) Demonic study has garnered
+the attention of at least one demon that is actively trying to possess the
+demonologist. When the demonologist publicly espouses the benefits of demonic
+power (whether they believe it a good thing or not), they gain a +1 status bonus to
+skill checks, AC, and saves for 1 day. These bonuses don’t apply against demons.
+At the end of the day, the demonologist must attempt a DC 20 Will save,
+becoming possessed for 1 day on a failure (permanently on a critical failure).
+AC 22; Fort +13, Ref +12, Will +15
+HP 100
+Speed 25 feet
+Melee  longspear +17 (magical, reach), Damage 1d8+9 piercing
+Arcane Prepared Spells DC 26, attack +18; 4th clairvoyance, lightning
+bolt, resilient sphere; 3rd fireball, glyph of warding, slow, stinking
+cloud; 2nd acid arrow, blur, hideous laughter, see invisibility; 1st fear
+(×2), fleet step, mending; Cantrips (4th) acid splash, daze, detect
+magic, light, read aura
+Breach the Abyss  Requirements The demonologist’s last action
+was to cast a non-cantrip spell; Effect The demonologist siphons
+energy drawn from the Abyss into their weapon. Until the end of the turn,
+the weapon deals an extra 2d6 damage. Roll 1d20 to determine the type:
+1–7 acid, 8–9 cold, 10–11 electricity, 12–18 fire, 19–20 negative.
+Demon Summoning The demonologist can cast a 5th-level summon fiend
+arcane spell to summon a demon. To do so, they must sacrifice two
+4th-level prepared spells and voluntarily take 4d12 mental damage that
+can’t be reduced or prevented. If the demonologist is unable to Sustain the Spell,
+including if they’re knocked out or killed, the spell continues, but the GM rolls
+a DC 10 flat check each round, ending the spell on a failure.
+DARK RITUALS
+Most rituals have a simple gp cost
+and skills. But what if a desperate
+NPC is willing to offer something
+darker, such as lives, souls, or
+worse? Such a nefarious ritual uses
+a normal ritual as a baseline,
+but the DCs and proficiency
+requirements might be
+reduced or waived entirely, as
+might any gp cost.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+DEMONOLOGIST
+
+================================================================================
+PAGE 233
+================================================================================
+
+Gamemastery Guide
+OFFICERS
+Larger societies rely on those with the authority and the ability to interpret and enforce
+laws. In good-aligned societies, these officials carry out their duties fairly. In neutral
+and evil ones, these officials can be harsh and cruel (with an altered alignment to reflect
+this), imposing severe punishments on those who can’t pay for mercy.
+BARRISTER
+Barristers may serve as criminal prosecutors or as legal advocates, defending the rights
+of those accused of crimes or named as defendants in civil cases. In a court case or other
+legal proceeding, the barrister is a 4th-level challenge.
+BARRISTER
+CREATURE –1
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Deception +10, Diplomacy +12, Legal Lore +13, Performance +10,
+Society +9
+Str +0, Dex +1, Con +1, Int +3, Wis +2, Cha + 4
+Items court garb (functions as fine clothing), law book (functions as
+scholarly journal), writing set
+Sway the Judge and Jury A barrister gains a +2 circumstance bonus
+to Diplomacy checks to Make an Impression or Request something of
+the deciding members within a courtroom. If the barrister successfully Performs
+against a DC of 20 during the 20 minutes prior to the check, they increase the
+circumstance bonus to +4.
+AC 13; Fort +3, Ref +3, Will +12
+HP 8
+Speed 25 feet
+Melee  fist +4 (agile, nonlethal), Damage 1d4 bludgeoning
+Cite Precedent  (auditory, linguistic) The barrister uses existing case law to
+undermine their opposition. If they succeed at a DC 20 Legal Lore check, they impose a
+–2 circumstance penalty on the next Diplomacy check an opponent attempts in a legal
+argument. Any further attempts to Cite Precedent fail until a new topic with different
+precedents is being argued.
+GUARD
+Guards are rank-and-file members of a town watch or city guard, trained to look
+for trouble, take down criminals, and follow orders. They are a match for only the
+most fledgling of adventurers and criminals, but, given time, the settlement can usually
+muster them in numbers sufficient to neutralize most threats.
+GUARD
+CREATURE 1
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +7 (+8 to find concealed objects)
+Languages Common
+Skills Athletics +7, Intimidation +5, Legal Lore +3
+Str +4, Dex +2, Con +2, Int +0, Wis +2, Cha –1
+Items crossbow (10 bolts), club, dagger, sap, scale mail, signal whistle
+AC 18; Fort +7, Ref +5, Will +5
+HP 20
+Attack of Opportunity 
+Speed 25 feet
+Melee  club +9, Damage 1d6+4 bludgeoning
+Melee  sap +9 (agile, nonlethal), Damage 1d6+4 bludgeoning
+Ranged  crossbow +7 (range increment 120 feet, reload 1), Damage 1d8 piercing
+Ranged  club +7 (thrown 10 feet), Damage 1d6+4 bludgeoning
+DEPLOYING THE WATCH
+If no guard is present, it takes at
+least 1–2 rounds for a civilian to
+find a guard to sound an alarm
+whistle. If a guard was on the scene,
+they sound the alarm immediately.
+Reinforcements typically arrive 2–3
+rounds later.
+BARRISTER
+
+================================================================================
+PAGE 234
+================================================================================
+
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+ARCHER SENTRY
+Archer sentries slightly outrank the rank-and-file guards, taking positions on walls,
+garrisons, and other important locations where they can stay out of the fray and pick
+off criminals or assailants.
+ARCHER SENTRY
+CREATURE 2
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +11
+Languages Common
+Skills Acrobatics +8, Athletics +6, Intimidation +4, Legal Lore +4
+Str +2, Dex +4, Con +1, Int +0, Wis +3, Cha +0
+Items composite longbow (100 arrows), shortsword, leather armor, signal whistle
+AC 19; Fort +7, Ref +10, Will +7
+HP 30
+Speed 25 feet
+Melee  shortsword +10 (agile, finesse, versatile P), Damage 1d6+3 slashing
+Ranged  composite longbow +10 (deadly 1d10, range increment 100 feet, reload 0,
+volley 30 feet), Damage 1d8+2 piercing
+Sentry’s Aim  (concentrate) The archer sentry aims carefully and fires. They
+make a ranged weapon Strike with a +1 circumstance bonus. The Strike ignores
+the concealed condition, lesser cover, and standard cover, and reduces greater
+cover to standard cover.
+JAILER
+A jailer’s primary responsibility is to keep prisoners from
+escaping. Jailers must often use force, or the threat of
+force, to keep their charges in line, as even the most
+carefully crafted cells, manacles, or chains can fail
+with time and persistence when the prisoners have
+the will to attempt an escape.
+JAILER
+CREATURE 3
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +9 (+10 to find concealed objects)
+Languages Common
+Skills Athletics +11, Diplomacy +5, Intimidation +7
+Str +4, Dex +3, Con +1, Int +0, Wis +2, Cha +0
+Items club, crossbow (20 bolts), keyring, simple manacles, signal
+whistle, studded leather armor
+AC 20; Fort +8, Ref +10, Will +7
+HP 45
+Attack of Opportunity 
+Speed 25 feet
+Melee  club +11, Damage 1d6+8 bludgeoning
+Ranged  crossbow +10 (range increment 120 feet, reload 1), Damage 1d8+4
+piercing
+Melee  club +10 (thrown 10 feet), Damage 1d6+6 bludgeoning
+Efficient Capture  (attack, manipulate) Requirements The jailer has manacles in
+hand and is adjacent to a creature; Effect The jailer attempts to bind the creature’s
+wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +9
+modifier against the target’s AC, they apply the manacles.
+Intimidating Strike  (emotion, fear, fighter, mental) The jailer makes a melee
+Strike. If it hits and deals damage, the target is frightened 1, or frightened 2
+on a critical hit.
+Subdue Prisoners The jailer doesn’t take the normal penalty for making a
+nonlethal attack when attacking with their club.
+RAISE THE ALARM!
+In a settlement with an alarm, brawls
+or other major disruptions trigger
+an alarm 1 round after the watch is
+alerted. Guards start to arrive after
+about 5 rounds, usually in patrols of
+2 or 3 members, with larger groups
+of 8–12 near important locations.
+JAILER
+
+================================================================================
+PAGE 235
+================================================================================
+
+Gamemastery Guide
+WATCH OFFICER
+Watch officers are assigned to a certain area within a city or community. Often
+leading a small team of lower-ranking guards, they patrol those areas to maintain
+order and enforce laws. Watch officers get the job done, though their methods
+are not always gentle or kind. Because the watch officer is responsible to their
+superiors for their area, they sometimes need to make tough decisions between
+justice and effectiveness.
+WATCH OFFICER
+CREATURE 3
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +8 (+9 to Sense Motive)
+Languages Common
+Skills Athletics +11, Diplomacy +6, Intimidation +9, Legal Lore +7, Society +5
+Str +4, Dex +1, Con +3, Int +0, Wis +1, Cha +1
+Items breastplate, crossbow (20 bolts), dagger, signal whistle, steel shield (Hardness 5,
+20 HP, BT 10), warhammer
+AC 20 (22 with shield raised); Fort +10, Ref +6, Will +8
+HP 45
+Air of Authority (aura, emotion, mental) 10 feet. Creatures in the aura who are the same or
+lower level than the watch officer take a –2 status penalty to their Will DC against the
+watch officer’s attempts to Coerce or Demoralize them.
+Bravery When the captain of the guard rolls a success on a Will save against
+a fear effect, they get a critical success instead. In addition, any time they
+gain the frightened condition, reduce its value by 1.
+Attack of Opportunity 
+Shield Block 
+Speed 25 feet
+Melee  warhammer +13 (shove), Damage 1d8+7 bludgeoning
+Ranged  crossbow +10 (range increment 120 feet, reload 1), Damage
+1d8+3 piercing
+Sudden Charge  Frequency once per round; Effect The watch officer
+Strides twice. If they end their movement within melee reach of at least
+one enemy, they can make a melee Strike against that enemy.
+CAPTAIN OF THE GUARD
+The captain of the guard leads a troop
+of soldiers who serve as security forces
+for a powerful individual, most often
+a high-ranking noble or very rich
+merchant, though this stat block could
+also represent a lower-ranking captain
+of the guard for the leader of a nation.
+A formidable opponent in their own
+right, the captain of the guard skillfully
+employs their troops to protect the life and
+health of their ward.
+CAPTAIN OF THE GUARD
+CREATURE 6
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +15
+Languages Common
+Skills Athletics+15, Diplomacy +11, Intimidation +13, Legal Lore +12,
+Society +10, Warfare Lore +8
+Str +5, Dex +0, Con +2, Int +0, Wis +3, Cha +3
+Items crossbow (20 bolts), dagger, full plate, +1 longsword, steel
+shield (Hardness 5, 20 HP, BT 10)
+JAILBREAK!
+If a PC or ally gets imprisoned, the
+group might plot a jailbreak. For
+a complex jail or penitentiary, this
+might require use of the infiltration
+subsystem (described on page 160).
+With a smaller town or city jail with
+a simple structure and small staff, it
+could require just a bit of force. The
+jailbreak might just be the beginning,
+leading to additional adventure!
+WATCH OFFICER
+
+================================================================================
+PAGE 236
+================================================================================
+
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+AC 24 (26 with shield raised); Fort +14, Ref +12, Will +15
+HP 95
+Aura of Command (aura, emotion, mental) 30 feet. The captain of the guard bolsters
+lower‑level guards under their command, granting them a +1 status bonus to their
+attack rolls and a +2 status bonus to their Will saves.
+Bravery As watch officer.
+Shield Warden When the captain has their shield raised, they can Shield Block when an
+attack is made against an adjacent ally. If they do, the shield prevents that ally from
+taking damage instead of the captain.
+Attack of Opportunity 
+Shield Block 
+Speed 20 feet
+Melee  longsword +18 (magical, versatile P), Damage 1d8+11 slashing
+Ranged  crossbow +12 (range increment 120 feet, reload 1), Damage 1d8+6 piercing
+Shielded Advance  Requirements The captain of the guard has their shield raised;
+Effect The captain of the guard presses forward, using their shield to push back foes.
+The captain Strides and Shoves, in either order. The multiple attack penalty doesn’t
+apply to this Shove, though the Shove does count toward the captain’s multiple
+attack penalty.
+EXECUTIONER
+Executioners carry out sentences from cruel tyrants and legitimate rulers
+alike. Most remain numb to the necessity of their duty, but some evil
+executioners grow to love the power of having someone else’s life in
+their hands.
+EXECUTIONER
+CREATURE 6
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +12
+Languages Common
+Skills Athletics +15, Intimidation +13, Medicine +10
+Str +5, Dex +2, Con +3, Int –1, Wis +2, Cha +2
+Items +1 greataxe, hood, leather armor
+AC 23; Fort +15, Ref +12, Will +14
+HP 105
+Speed 25 feet
+Melee  greataxe +16 (magical, sweep), Damage 1d12+9 slashing
+Behead  Requirements The executioner is adjacent to a dying
+creature or a creature specifically prepared for a killing blow; Effect
+The executioner Strikes the creature with their greataxe. On a hit, in
+addition to taking damage, the target must attempt a Fortitude save or
+be reduced to 0 HP and become dying 1. If the creature was already
+dying (including if it was reduced to 0 HP by the Strike’s damage),
+the creature’s dying value increases by 1, in addition to any increase
+from the Strike. On a critical failure, the creature dies instantly. If the
+executioner’s Strike was a critical hit, the target uses the outcome for
+one degree of success worse than the result of their saving throw.
+Intimidating Strike  (emotion, fear, fighter, mental) The
+executioner makes a melee Strike. If it hits and deals damage, the
+target is frightened 1, or frightened 2 on a critical hit.
+Mark for Death  (concentrate) The executioner marks a single creature
+they can see for death. The first time each round the executioner
+Strikes that creature, the Strike deals 1d12 additional precision
+damage. The creature remains marked for death until the
+executioner is knocked out, marks a different creature for
+death, or the encounter ends.
+UNUSUAL MISDEMEANORS
+• Altering the weather without a
+permit
+• Consuming (or refusing
+to consume) intoxicating
+substances on celebration days
+• Failing to clean up after animal
+companions
+• Flying within city limits
+• Selling potions without a license
+CAPTAIN OF THE GUARD
+
+================================================================================
+PAGE 237
+================================================================================
+
+Gamemastery Guide
+PERFORMERS
+Performances can serve as entertainment, expressions of beauty, or part of a
+shared culture.
+DANCER
+Dance can be used to tell stories, share emotions, provide entertainment, and
+display a performer’s athletic ability. The dancer is a 5th-level challenge for
+dance contests.
+DANCER
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +3
+Languages Common
+Skills Acrobatics +8, Athletics +8, Diplomacy +7, Performance +13 (+15 when
+dancing), Stealth +6, Theater Lore +5
+Str +1, Dex +3, Con +1, Int +0, Wis +0, Cha +4
+Items dagger (3), jewelry and clothes (worth 10 gp)
+AC 16; Fort +6, Ref +8, Will +3
+HP 20
+Speed 25 feet
+Melee  dagger +8 (agile, finesse, versatile S), Damage 1d4+3 piercing
+Melee  foot +8 (agile, finesse, nonlethal), Damage 1d4+3 bludgeoning
+Melee  dagger +8 (agile, thrown 10 feet, versatile S), Damage 1d4+3 piercing
+Fascinating Dance  Frequency once per round; Effect The dancer Strides up to their
+Speed. Once during this movement, when the dancer is adjacent to a creature, the
+dancer can make that creature attempt a DC 17 Will save. On a failure, that
+creature is fascinated with the dancer until the end of its next turn.
+ACROBAT
+Acrobats perform feats of agility, balance, and
+strength. The acrobat is a 5th-level challenge
+for contests of acrobatics and the like.
+ACROBAT
+CREATURE 2
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Acrobatics +15, Athletics +8, Circus Lore +5, Deception +5, Performance +9, Stealth +8
+Str +2, Dex +4, Con +2, Int +1, Wis +0, Cha +1
+Items climbing kit, dagger (5), rope (50 feet)
+Steady Balance When the acrobat rolls a success on an Acrobatics check, they get a
+critical success instead. They aren’t flat‑footed when attempting to Balance and can
+attempt an Acrobatics check instead of a Reflex save to Grab an Edge.
+AC 18; Fort +8, Ref +12, Will +4
+HP 28
+Cat Fall The acrobat treats all falls as 50 feet shorter.
+Nimble Dodge  Trigger The acrobat is targeted with a melee or ranged attack by an
+attacker they can see; Effect The acrobat gains a +2 circumstance bonus to AC against
+the triggering attack.
+Speed 30 feet
+Melee  dagger +10 (agile, finesse, versatile S), Damage 1d4+4 piercing
+Melee  foot +10 (agile, finesse, nonlethal), Damage 1d4+4 bludgeoning
+Ranged  dagger +11 (agile, thrown 10 feet, versatile S), Damage 1d4+4 piercing
+Sneak Attack The acrobat deals an extra 1d6 precision damage to flat‑footed creatures.
+Swinging Strike  The acrobat swings on a rope or trapeze, moving up to double their
+Speed. At any point during the swing, they can make a melee Strike.
+ACROBAT
+
+================================================================================
+PAGE 238
+================================================================================
+
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+TROUBADOUR
+Troubadours keep alive the traditional songs of their cultural and write original
+works to commemorate major events.
+TROUBADOUR
+CREATURE 3
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +8
+Languages Common
+Skills Acrobatics +8, Deception +9, Diplomacy +9, Performance +13 (+14 when playing
+the lute), Occultism +7, Society +7, Stealth +8, Theater Lore +9
+Str +0, Dex +3, Con +0, Int +2, Wis +1, Cha +4
+Items crossbow (10 bolts), leather armor, lute, poetry book, rapier
+Bardic Lore The troubadour can Recall Knowledge on any subject with a +7 modifier.
+AC 19; Fort +5, Ref +10, Will +8
+HP 38
+Speed 25 feet
+Melee  rapier +12 (deadly 1d8, disarm, finesse), Damage 1d6+3 piercing
+Ranged  crossbow +12 (range increment 120 feet, reload 1), Damage 1d8+3 piercing
+Occult Spontaneous Spells DC 21; 2nd (2 slots) calm emotions, charm, magic mouth; 1st
+(3 slots) charm, illusory disguise, soothe, ventriloquism; Cantrips (2nd) detect magic,
+ghost sound, message, prestidigitation, read aura
+Bard Composition Spells 2 Focus Points, DC 21; 2nd counter performance (Core Rulebook
+386), lingering composition (Core Rulebook 387); Cantrips (2nd) inspire courage (Core
+Rulebook 386)
+BEAST TAMER
+Beast tamers bring the wild to civilization, rearing and
+training creatures to follow their commands and perform
+flashy tricks that entertain audiences.
+BEAST TAMER
+CREATURE 4
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +12
+Languages Common, Druidic
+Skills Athletics +8, Circus Lore +6, Diplomacy +8, Intimidation +8, Nature +12,
+Performance +8, Survival +10
+Str +2, Dex +1, Con +2, Int +0, Wis +4, Cha +2
+Items holly and mistletoe, leather armor, rope (50 feet), whip
+Wild Empathy The beast tamer can use Diplomacy to Make an Impression on animals
+and to make very simple Requests of them.
+AC 20; Fort +10, Ref +7, Will +12
+HP 54
+Speed 25 feet
+Melee  whip +11 (disarm, nonlethal, reach, trip), Damage 1d4+5 slashing
+Primal Prepared Spells DC 22, attack +14; 2nd animal form, animal messenger,
+speak with animals; 1st grease, jump, magic fang; Cantrips (2nd) dancing lights,
+guidance, produce flame, stabilize, tanglefoot
+Druid Order Spells 1 Focus Point, DC 22; 1st heal animal (Core Rulebook 399)
+Trained Animal The beast tamer fights alongside a trained animal ally of its
+level or lower, most likely a tiger (Bestiary 53). The animal has the standard
+number of actions, uses its normal stat block, and counts toward the
+encounter’s XP budget normally.
+The beast tamer can spend 1 action to gain the support benefit
+appropriate to its trained animal (Core Rulebook 215). Unlike for an
+animal companion, this doesn’t require the animal to use any of
+its actions.
+LET’S SEE A SHOW
+Prices for a night’s entertainment
+are per head and can be far higher
+for world‑class performers. Circus
+1 sp; Dance 2 cp social, 6 cp stage
+performance, 1 gp high‑society ball;
+Stage Play 6 cp small theater, 1 sp
+major theater; Opera 5 gp general
+admission, 20 gp box seats; Music
+5 cp troubadours, 2 sp orchestra;
+Street Performance tips of 1–2 cp.
+TROUBADOUR
+
+================================================================================
+PAGE 239
+================================================================================
+
+PUBLICANS
+Countless adventures begin in a tavern or a pub. Maybe it’s because such places
+attract the risk-prone, or maybe it’s because everyone needs a little liquid courage
+before they decide to take on a group of rampaging ogres.
+SERVER
+Always on the move from patron to patron, servers are the backbone of any tavern or
+eatery. Their work hones both their agility and their diplomacy.
+SERVER
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +3
+Languages Common
+Skills Acrobatics +6, Diplomacy +4, Thievery +5
+Str +1, Dex +4, Con +0, Int +0, Wis +1, Cha +2
+Items pewter mug, serving tray
+AC 16; Fort +2, Ref +7, Will +5
+HP 7
+Quick Catch  Trigger An object that the server could hold in one hand is dropped
+within the server’s reach; Requirements The server has at least one hand free;
+Effect The server catches the dropped object before it hits the floor or leaves
+their reach.
+Speed 25 feet
+Melee  fist +6 (agile, nonlethal), Damage 1d4+1 bludgeoning
+Ranged  pewter mug +6 (thrown 10 feet), Damage 1d4+1 bludgeoning
+BARKEEP
+Barkeeps are often friends and mentors within a community, lending an ear
+while supplying libations. The best barkeeps have some talent for storytelling
+and passing on valuable advice.
+BARKEEP
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Alcohol Lore +9, Athletics +6, Deception +6, Diplomacy +8, Performance +6,
+Society +5, Thievery +3
+Str +3, Dex +0, Con +2, Int +0, Wis +1, Cha +3
+Items barkeep’s apron (functions as padded armor), flask of whiskey, pewter mug, sap
+AC 14; Fort +7, Ref +3, Will +6
+HP 25
+Speed 25 feet
+Melee  sap +6 (agile, nonlethal), Damage 1d6+3 bludgeoning
+Melee  fist +6 (agile, nonlethal), Damage 1d4+3 bludgeoning
+Ranged  pewter mug +3 (thrown 10 feet), Damage 1d4+3 bludgeoning
+Bar Brawler The barkeep has been in enough bar fights to know how to throw
+a few punches. When fighting in their bar and making a nonlethal attack, the
+barkeep gains a +1 circumstance bonus to attack rolls and deals an additional
+1d4 damage.
+Barkeep’s Advice  (auditory, fortune, linguistic, mental) Frequency
+once per day; Effect The barkeep gives some pertinent advice to a single
+creature other than themself. For 24 hours, when that creature fails a skill
+check or saving throw, they can recall this advice and reroll the check, using
+the second result instead. Once that creature uses this ability, its effect ends.
+A creature that receives the Barkeep’s Advice is temporarily immune to the
+ability for 1 month.
+Gamemastery Guide
+TAP LIST
+Ale: Andoren beer, Boulderhead
+bock, Cheerful Delver stout, Liquid
+Ghosts, Luglurch ale, Thileu lager.
+Cider and Mead: Hardroot cider,
+Qadiran cider, Two Knight Brewery
+mead, Wineberry mead.
+Wine: Irrisen icewine, sarain,
+syrinelle, Whiterose Abbey wine
+Spirits: Daggermark drip, dragon
+punch whiskey, Old Erebus, vjarik.
+BARKEEP
+
+================================================================================
+PAGE 240
+================================================================================
+
+INNKEEPER
+The sight of an inn is a welcome one to any weary traveler. Innkeepers can often
+be found cleaning the common room, overseeing the evening meal, or settling
+in new lodgers. Innkeepers keep an eye on their neighbors’ doings and are often
+excellent sources of information.
+INNKEEPER
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +7
+Languages Common
+Skills Accounting Lore +5, Cooking Lore +5, Deception +6, Diplomacy +8, Society +7
+Str +2, Dex +0, Con +1, Int +2, Wis +2, Cha +3
+Items broom (functions as staff), innkeeper’s apron (functions as leather armor), ledger
+Font of Gossip The inkeeper’s business gives them insight into the neighborhood’s
+happenings. When Gathering Information, a person can gain as much information
+chatting with the innkeeper for 30 minutes to an hour as they would gain from
+2 hours spent canvassing the neighborhood. Each person can learn gossip from
+an innkeeper only once per day, and only if the innkeeper is friendly or helpful
+to that individual. Whatever information the innkeeper knows about a given topic
+doesn’t change if someone else asks the innkeeper about that topic, unless the
+innkeeper has since learned more.
+AC 14; Fort +6, Ref +3, Will +9
+HP 20
+Speed 25 feet
+Melee  broom +7 (two‑hand d8), Damage 1d4+2 bludgeoning
+Melee  fist +7 (agile, nonlethal), Damage 1d4+2 bludgeoning
+Ranged  ledger +5 (nonlethal, thrown 10 feet), Damage 1d4+2 bludgeoning
+Home Turf An innkeeper gains a +2 circumstance bonus to attack rolls,
+damage rolls, and AC within their inn.
+DRUNKARD
+Every tavern has one—that person who drinks a little too much and
+starts a fight. While many drunkards are relatively harmless, a few have
+a hair trigger, and when they’re set off come, no one—even the drunkard
+themself—can tell you what started the row.
+DRUNKARD
+CREATURE 2
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Alcohol Lore +3, Athletics +7, Intimidation +8
+Str +3, Dex +2, Con +4, Int –1, Wis +0, Cha +2
+Items drunkard’s outfit (functions as padded armor), pewter mug
+AC 17; Fort +10, Ref +8, Will +6
+HP 40
+Speed 25 feet
+Melee  fist +9 (agile, nonlethal); Damage 1d6+3 bludgeoning
+Ranged  pewter mug +8 (thrown 10 feet); Damage 1d4+3 bludgeoning
+Drunken Rage  (concentrate, emotion, mental) Requirements The drunkard is drunk,
+and isn’t fatigued or raging; Effect Something sets the drunkard off, causing them to
+fly into a drunken rage. They gain 6 temporary Hit Points that last until the drunken
+rage ends. While raging, they deal 4 additional damage with melee attacks and take
+a –1 penalty to AC. The drunkard can’t use concentrate actions except Seek
+and rage actions. The rage lasts for 1 minute or until the drunkard falls
+unconscious or sobers up. The drunkard can’t voluntarily stop the Drunken
+Rage. Once the rage ends, the drunkard can’t Rage again for 1 minute.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+BAR FIGHT!
+Bar fights work better without a
+grid. Use the stat blocks here or in
+the Downtrodden section for notable
+participants, everyone else attacking
+nonlethally with fists or improvised
+weapons. Roll one or two attacks at
+the end of each round against each
+PC in the fight (+4 attack modifier,
+1d4+2 bludgeoning damage). Alcohol
+rules can be found on page 120.
+DRUNKARD
+
+================================================================================
+PAGE 241
+================================================================================
+
+SCHOLARS
+True power comes from knowledge: the power to shape the growth of kingdoms
+by mere whispers, staying three steps ahead of adversaries, or even knowing which
+flora is best for creating untraceable poisons.
+LIBRARIAN
+Keepers of knowledge, librarians document discoveries, events, and laws. The
+best librarians record events twice; once for public record, and again to record
+how events truly unfolded. A librarian typically knows four to six additional
+languages, often including Elven and Draconic. A librarian is a 3rd-level challenge
+for encounters involving research.
+LIBRARIAN
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +7
+Languages Common
+Skills Academia Lore +11, Arcana +9, Library Lore +13, Nature +8, Religion +8
+Str +0, Dex +1, Con +0, Int +4, Wis +3, Cha +1
+Items dagger, writing set
+Methodical Research (concentrate) When
+Searching
+through stacks of books, a librarian can find the answer to
+almost any question. This allows the librarian to use Library Lore
+in place of other lore skills, given enough time. The GM determines
+the DC of the check and the amount of time it takes (typically, a
+librarian can attempt three or four checks during 1 day of downtime).
+AC 13; Fort +2, Ref +3, Will +7
+HP 6
+Speed 25 feet
+Melee  book +4 (nonlethal), Damage 1d4 bludgeoning
+Melee  fist +3 (agile, nonlethal), Damage 1d4 bludgeoning
+Ranged  book +5 (nonlethal, thrown 10 feet), Damage 1d4 bludgeoning
+TEACHER
+The passing of knowledge and traditions from generation to generation is a
+time-honored occupation. Teachers exist to strengthen their populations with
+literacy, history, and advanced sciences, but most of all with inspiration. Most
+teachers provide general knowledge so their students are well rounded, but
+some are experts or even masters of a single discipline. A teacher typically
+knows three languages in addition to Common. For academic encounters, a
+teacher is a 4th-level challenge.
+TEACHER
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +4
+Languages Common
+Skills Academia Lore +14, Diplomacy +7, Intimidation +5, one additional Lore +14
+Str +0, Dex +0, Con –1, Int +4, Wis +2, Cha +3
+Items cane (functions as staff), textbook, writing set
+Font of Knowledge The teacher can attempt to Recall Knowledge on any general subject
+with a +10 modifier.
+Inspirational Presence (aura, emotion, mental) 50 feet. Any of the teacher’s students in
+the aura gains a +1 circumstance bonus to Recall Knowledge.
+AC 12; Fort +1, Ref +2, Will +6
+HP 5
+Speed 25 feet
+Melee  cane +4 (two‑hand d8), Damage 1d4 bludgeoning
+Beside the life and natural sciences
+such as arcana, biology, botany,
+geology, oceanography, and zoology,
+demand is increasing in cities
+for more modern disciplines, like
+anthropology, economics, sociology,
+urban planning, and even art
+curation and forensic investigation.
+UNCOMMON SCHOLASTIC
+DISCIPLINES
+Gamemastery Guide
+TEACHER
+
+================================================================================
+PAGE 242
+================================================================================
+
+ASTRONOMER
+Different cultures have created stories of the hows and whys of the universe, if
+things exist beyond the stars, and if the gods manipulate the heavenly bodies. But
+astronomers aren’t interested in folktales—they desire truth.
+ASTRONOMER
+CREATURE 2
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +10
+Languages Common
+Skills Arcana +8, Astronomy Lore +12, Occultism +8
+Str +0, Dex +1, Con +2, Int +4, Wis +3, Cha +0
+Items astrolabe, spellbook, spell component pouch, staff
+Living Sextant If the astronomer is able to see the night sky, they can Sense Direction
+using a +10 modifier.
+AC 15; Fort +6, Ref +5, Will +9
+HP 23
+Counterspell  Trigger A creature Casts a Spell the astronomer has prepared; Effect The
+astronomer expends a prepared spell to counter the triggering creature’s casting of that
+same spell. The astronomer loses its spell slot as if it had cast the triggering spell. The
+astronomer then attempts to counteract the triggering spell.
+Speed 25 feet
+Melee  staff +6 (two‑hand d8), Damage 1d4 bludgeoning
+Arcane Prepared Spells DC 17, attack +9; 1st (4 slots) feather fall, floating disk,
+sleep, unseen servant, Cantrips (1st) detect magic, mage hand, read aura, sigil,
+telekinetic projectile
+SAGE
+The greatest knowledge comes from experience. Village elders, ancient seers,
+and advisors to royalty are examples of individuals who are valued for their
+experiences. Sages serve their people as much as their sovereigns. They educate
+and try to prevent their people from straying from their cultures’ acceptable
+norms and traditions. Sages rarely take power for themselves, as they take their
+responsibility seriously to guide wisely and empower those they serve.
+SAGE
+CREATURE 6
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Arcana +12, Diplomacy +13, Medicine +12, Nature +14, Occultism +12,
+Religion +12, Society +14
+Str +2, Dex +2, Con +1, Int +4, Wis +3, Cha +0
+Items religious symbol, +1 staff
+AC 22; Fort +10, Ref +12, Will +16
+HP 86
+Timely Advice  (auditory, concentrate, linguistic, mental) Trigger An ally
+is about to attempt an attack roll or skill check and has not yet rolled;
+Effect The sage gives the ally a savvy piece of advice, providing valuable
+insight. The ally gains a +2 circumstance bonus to the triggering roll.
+Speed 25 feet
+Melee  staff +12 (magical, two‑hand d8), Damage 1d4+5 bludgeoning
+Sage’s Analysis  (concentrate) The sage studies a creature, attempting an
+Arcana, Nature, Occultism, Religion, or Society check against the creature’s
+Recall Knowledge DC. On a success, the sage gains a +2 circumstance bonus
+to attack rolls and AC against that creature and deals an additional 2d6
+damage to the creature with weapon attacks. These benefits last for 1 minute
+or until the sage uses this ability again.
+CENTERS OF LEARNING
+Kitharodian Academy (Taldor):
+Famed bardic college teaching
+students of all social classes.
+Magaambya (Nantambu): Ancient
+school with some of the world’s
+greatest stores of arcane knowledge.
+University of Lepidstadt (Ustalav):
+School primarily focusing on alchemy,
+medicine, and scientific study.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+ASTRONOMER
+
+================================================================================
+PAGE 243
+================================================================================
+
+SEAFARERS
+Adventurers may need passage on a swift vessel, or they might face danger from
+raiders at sea or in coastal settlements.
+NAVIGATOR
+A navigator uses celestial bodies and shipping lanes to determine routes. For
+noncombat tasks involving navigation or sailing, the navigator is a 4th-level challenge.
+NAVIGATOR
+CREATURE 2
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +9
+Languages Common
+Skills Acrobatics +6, Nature +11, Sailing Lore +14, Society +8, Survival +9
+Str +0, Dex +2, Con +1, Int +4, Wis +3, Cha +0
+Items dagger, scroll case with ship’s charts, writing set
+Chart a Course (concentrate) By spending 10 minutes of work and succeeding at a DC 22
+Sailing Lore check, the navigator plots an optimal course. The severity of environmental
+conditions other than temperature are reduced by one step for 24 hours (two steps
+on a critical success). This changes moderate damage to minor damage, winds
+that create greater difficult terrain cause only difficult terrain, and so on.
+AC 18; Fort +7, Ref +8, Will +9
+HP 28
+Speed 25 feet
+Melee  dagger +8 (agile, finesse, versatile S), Damage 1d4+4
+piercing plus navigator’s edge
+Ranged  dagger +8 (agile, thrown 10 feet, versatile S), Damage 1d4+4
+piercing plus navigator’s edge
+Navigator’s Edge The navigator deals an additional 1d6 weapon damage
+when on a ship.
+PIRATE
+These scourges of the seas are a threat to anyone who spends time away from land.
+PIRATE
+CREATURE 2
+CN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Acrobatics +7, Athletics +8, Deception +6, Intimidation +6, Sailing
+Lore +8
+Str +2, Dex +3, Con +1, Int +0, Wis +2, Cha + 2
+Items cutlass (functions as a scimitar), dagger, padded armor
+AC 18; Fort +7, Ref +8, Will +6
+HP 32
+Attack of Opportunity 
+Bravery When the pirate rolls a success on a Will save against a fear
+effect, they get a critical success instead. In addition, anytime they
+gain the frightened condition, reduce its value by 1.
+Speed 25 feet
+Melee  cutlass +10 (forceful, sweep), Damage 1d6+5 slashing
+Melee  dagger +11 (agile, versatile S), Damage 1d4+5 piercing
+Ranged  dagger +11 (agile, thrown 10 feet, versatile S), Damage
+1d4+5 piercing
+Boarding Action  The pirate swings on a rope or Strides, moving
+up to double their Speed. If the pirate boarded or disembarked a boat
+during this movement, they can make a melee Strike at the end of their
+movement that deals one extra damage die on a hit.
+SHIPBOARD SPELLS
+The captain can gain all these spells
+in place of Dual Disarm. The bosun
+can exchange Pike and Strike to gain
+the cantrips and 1st‑level spells.
+Primal Prepared Spells DC 24 (DC 18
+bosun), attack +16 (+10 bosun); 2nd
+summon elemental, water breathing,
+water walk; 1st feather fall, gust
+of wind (×2); Cantrips (2nd, 1st for
+bosun) electric arc, guidance, know
+direction, light, tanglefoot
+Gamemastery Guide
+NAVIGATOR
+
+================================================================================
+PAGE 244
+================================================================================
+
+BOSUN
+A ship’s boatswain, or bosun, leads the deckhands who maintain the ship.
+BOSUN
+CREATURE 3
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +8
+Languages Common
+Skills Acrobatics +9, Athletics +9, Intimidation +9, Sailing Lore +11
+Str +2, Dex +4, Con +1, Int +0, Wis +1, Cha +2
+Items dagger, naval pike (functions as spear)
+AC 19; Fort +6, Ref +11, Will +8
+HP 45
+Speed 25 feet
+Melee  fist +13 (agile, nonlethal), Damage 1d6+5 bludgeoning
+Melee  naval pike +11, Damage 1d6+5 piercing
+Melee  dagger +13 (agile, versatile S), Damage 1d4+5 piercing
+Ranged  naval pike +13 (thrown 20 feet), Damage 1d6+5 piercing
+Bosun’s Command  (auditory, concentrate, emotion, linguistic, mental) Frequency once
+per round; Effect The bosun orders an ally to attack or to get in position. Until the end of
+the ally’s next turn, they gain the bosun’s choice of a +2 status bonus to attack rolls or a
++10‑foot status bonus to their Speeds.
+Pike and Strike  The bosun Strikes with their naval pike.
+If this Strike hits, the bosun can either move
+the target 5 feet within the pike’s reach or
+make a fist Strike against the target without
+increasing their multiple attack penalty until
+after the fist Strike.
+SHIP CAPTAIN
+The captain is the ultimate authority on a vessel, responsible for the livelihood and
+well-being of everyone on the ship.
+SHIP CAPTAIN
+CREATURE 6
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +12
+Languages Common
+Skills Acrobatics +10, Athletics +12, Diplomacy +11, Intimidation +13, Sailing Lore +17,
+Survival +10
+Str +4, Dex +2, Con +0, Int +1, Wis +2, Cha +3
+Items dagger, hand crossbow (10 bolts), leather armor, +1 rapier
+AC 23; Fort +12, Ref +12, Will +14
+HP 90
+Bravery As pirate.
+Speed 25 feet
+Melee  rapier +17 (deadly 1d8, disarm, magical), Damage 1d6+10 piercing
+Melee  main‑gauche +16 (agile, disarm, parry, versatile S), Damage 1d4+10 piercing
+Ranged  hand crossbow +14 (range increment 60 feet, reload 1), Damage 1d6+6
+piercing
+Dual Disarm  The captain makes two Strikes, one with their rapier and one with
+their main‑gauche (in either order). If both Strikes hit, the ship captain can attempt
+to Disarm the target. Their multiple attack penalty increases only after all the
+attacks are made.
+No Quarter!  (auditory, concentrate, emotion, linguistic, mental) The captain
+orders their shipmates to fight without mercy. All allied creatures of equal
+or lower level within 20 feet of the ship captain gain a +1 status bonus to
+attack rolls and damage rolls until the end of the ship captain’s next turn.
+NAUTICAL SUPERSTITIONS
+• Never use phrases like “good luck,”
+“drowned,” or “goodbye.”
+• No whistling onboard.
+• Never kill certain creatures, such
+as albatrosses or dolphins.
+• Never change the name of a vessel
+without protective rites.
+• Never set sail on certain days of
+the week.
+• Tengus absorb bad luck into
+themselves to create good luck.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+BOSUN
+
+================================================================================
+PAGE 245
+================================================================================
+
+TRADESPEOPLE
+Every settlement needs tradespeople to create new products, facilitate commerce,
+and keep the infrastructure from crumbling. Larger cities often have entire guilds
+dedicated to the creation of specific goods, managing worker conditions, and
+working with local governments.
+APPRENTICE
+Ambitious apprentices can be found in all cities. These individuals are generally
+younger and seek the approval of their masters as they learn their craft. Many yearn
+to exemplify the artistry behind their craft, one day becoming masters themselves.
+Depicted below is an apprentice cartographer.
+APPRENTICE
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +2
+Languages Common
+Skills Athletics +3, Crafting +5, Geography Lore +5
+Str +1, Dex +2, Con +1, Int +3, Wis +0, Cha +0
+Items artisan’s tools, assorted maps, rugged clothes with tool belt (functions as
+padded armor)
+AC 15; Fort +5, Ref +6, Will +2
+HP 8
+Speed 25 feet
+Melee  dagger +3 (agile, versatile S), Damage 1d4+1 piercing
+Ranged  dagger +4 (agile, thrown 10 feet, versatile S), Damage 1d4+1 piercing
+Apprentice’s Ambition [free-action] Frequency once per day; Requirements A direct superior
+is supervising the apprentice; Effect The apprentice gains a +2 circumstance bonus
+to attack rolls, damage rolls, saving throws, and skill checks until the end of their
+next turn.
+MERCHANT
+Small settlements can typically support one or two generalist merchants,
+and larger cities house multiple specialists—experts in one type of product.
+Merchants can be found anywhere: vendors hustling in the public square,
+shopkeepers running small storefronts, traveling salespeople in carriages or
+caravans, or wealthy tycoons running entire organizations devoted to commerce.
+For encounters involving negotiation or mercantile skill, a merchant is a 4thlevel challenge. A merchant might have an additional Lore skill about a specific
+category of item (such as jewelry or magic weapons), with a total skill bonus 2
+higher than Mercantile Lore.
+MERCHANT
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Deception +10, Diplomacy +12, Mercantile Lore +10, Performance +8, Society +8
+Str +2, Dex +0, Con –1, Int +2, Wis +2, Cha +4
+Items crossbow (10 bolts), padded armor
+Appraising Eye The merchant can use Mercantile Lore to Recall Knowledge about items,
+including determining their value. They can also attempt to Identify Magic using
+Mercantile Lore and can do so without first knowing whether the item is magical.
+AC 13; Fort +1, Ref +2, Will +10
+HP 7
+Speed 25 feet
+Melee  fist +4 (agile, nonlethal, unarmed), Damage 1d4+2 bludgeoning
+Ranged  crossbow +4 (range increment 120 feet, reload 1), Damage 1d8 piercing
+COMMON ARTISAN GUILDS
+Cartographers
+Cobblers
+Cooks and bakers
+Glassblowers
+Herbalists
+Jewelers and gem cutters
+Leatherworkers
+Locksmiths
+Magecrafters
+Masons and stonecutters
+Painters and sign makers
+Gamemastery Guide
+APPRENTICE
+
+================================================================================
+PAGE 246
+================================================================================
+
+SMITH
+Most smaller communities have at least one smithy where locals and travelers can
+have horses shod or equipment repaired. Larger settlements and cities often have
+a variety of smiths, many specializing in blacksmithing, weapon smithing, armor
+smithing, or even smelting coins in a mint. The smith is a 6th-level challenge when
+competing with smithing or other crafting tasks.
+SMITH
+CREATURE 3
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +5
+Languages Common
+Skills Athletics +8, Crafting +15, Diplomacy +5, Smithy Lore +15, Society +8
+Str +3, Dex +1, Con +2, Int +3, Wis +0, Cha +0
+Items artisan’s tools, leather apron (functions as padded armor), light hammer
+AC 17; Fort +9, Ref +8, Will +5
+HP 50
+Speed 25 feet
+Melee  light hammer +10 (agile), Damage 1d6+3 bludgeoning plus smith’s fury
+Ranged  light hammer +8 (agile, thrown 20 feet), Damage 1d6+3 bludgeoning plus
+smith’s fury
+Smith’s Fury The smith deals an additional 1d6 damage when they hit with a weapon
+they created.
+GUILDMASTER
+In cities, artisans working in a common trade often form
+guilds to set standards of quality, establish common
+prices, engage in collective bargaining with business
+owners, and lobby local governments for favorable
+laws. The guildmaster—often a master artisan in
+their own right—also acts as an administrator and
+politician, advocating for artisans in their trade. The
+guildmaster is a 12th-level challenge when competing in
+crafting or their area of expertise (architecture in the
+example below).
+GUILDMASTER
+CREATURE 8
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +16
+Languages Common
+Skills Architecture Lore +25, Athletics +13, Bureaucracy Lore +19, Crafting +25,
+Diplomacy +24, Intimidation +22, Society +21
+Str +3, Dex +1, Con +1, Int +4, Wis +2, Cha +3
+Items artisan’s tools, construction schematics, guildmaster’s uniform (functions as
+hide armor), +1 striking light hammer, tax ledgers
+AC 26; Fort +14, Ref +14, Will +17
+HP 135
+Speed 25 feet
+Melee  light hammer +16 (agile), Damage 2d6+5 bludgeoning
+Ranged  light hammer +14 (agile, magical, thrown 20 feet), Damage 2d6+5 bludgeoning
+Call to Action  (auditory, concentrate, emotion, mental) The guildmaster gives a
+speech to inspire themself and all guild‑member allies within 60 feet, granting them
+a +1 status bonus to attack and damage rolls until the start of the guildmaster’s
+next turn.
+Sworn Duty While within the guild or presiding over guild business, the guildmaster
+gains a +2 circumstance bonus to weapon attack rolls and deals an additional
+2d6 damage on a successful weapon attack.
+MORE ARTISAN GUILDS
+Physicians and apothecaries
+Potion brewers
+Potters
+Scroll keepers
+Shipwrights and sailmakers
+Skinners and tanners
+Wagonmakers and wheelwrights
+Weaponsmiths
+Wandcrafters
+Weavers
+Woodcarvers and coopers
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+GUILDMASTER
+
+================================================================================
+PAGE 247
+================================================================================
+
+VILLAINS
+Villains pursue selfish and cruel goals, trampling over anyone foolish or purehearted
+enough to stand in their way.
+SABOTEUR
+Saboteurs excel at infiltration, using it to perform destructive acts, whether
+they are the physical destruction of a valuable object or obstructing important
+political proceedings. Unlike those of spies, the motivations of saboteurs is not to
+steal information, but rather to sow chaos among their enemies.
+SABOTEUR
+CREATURE 2
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +8 (+10 to find traps)
+Languages Common
+Skills Acrobatics +7, Athletics +5, Crafting +6 (+8 to Craft snares), Deception +7, Diplomacy
++5, Engineering Lore +8, Intimidation +5, Society +6, Stealth +9, Survival +6, Thievery
++9, Underworld Lore +6
+Str +1, Dex +3, Con +1, Int +2, Wis +2, Cha +1
+Items crowbar, disguise kit, hand crossbow (10 bolts), padded armor, sap, snare kit,
+thieves’ tools
+Snare Crafting The saboteur can Craft snares and has the supplies to make up to two
+caltrop snares and up to two hampering snares.
+AC 18 (20 vs. traps); Fort +5, Ref +9 (+11 vs. traps), Will +8
+HP 27
+Speed 25 feet
+Melee  sap +7 (agile, nonlethal), Damage 1d6+3 bludgeoning
+Ranged  hand crossbow +9 (range increment 60 feet, reload 1), Damage
+1d6+2 piercing
+Sneak Attack The saboteur deals an extra 1d6 precision damage to flat‑footed
+creatures.
+MASTERMIND
+Masterminds weave long-ranged plots to see their nefarious goals come to
+fruition, deftly manipulating those around them, and turning enemies into
+friends and then pitting them against one another. When competing in a social
+or intellectual arena, the mastermind is a 7th-level challenge.
+MASTERMIND
+CREATURE 4
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +10
+Languages Common
+Skills Arcana +13, Deception +15, Diplomacy +15, Intimidation +15, Occultism
++15, Performance +17, Religion +11, Society +17, Stealth +9, Thievery +9, Underworld
+Lore +17
+Str +0, Dex +3, Con +0, Int +4, Wis +2, Cha +4
+Items chain shirt, disguise kit, hand crossbow (10 bolts), shortsword
+Versatile Performance The mastermind can use Performance instead of Diplomacy to
+Make an Impression and instead of Intimidation to Demoralize. The mastermind can
+also use an acting Performance instead of Deception to Impersonate.
+AC 21; Fort +6, Ref +11, Will +16
+HP 54
+Speed 25 feet
+Melee  shortsword +13 (agile, finesse, versatile S), Damage 1d6+6 slashing
+Ranged  hand crossbow +13 (range increment 60 feet, reload 1), Damage 1d6+3
+piercing
+Occult Spontaneous Spells DC 22, attack +14; 2nd (3 slots) blur, charm, invisibility,
+SABOTAGE!
+Though the saboteur included here
+is intended to be a villain, PCs
+might encounter saboteurs on the
+side of good. These are typically
+rebels against tyrannical forces.
+Those who take great care to avoid
+harming civilians are chaotic good;
+others are chaotic neutral.
+Gamemastery Guide
+MASTERMIND
+
+================================================================================
+PAGE 248
+================================================================================
+
+paranoia; 1st (3 slots) charm, illusory disguise, illusory object; Cantrips (2nd) daze,
+detect magic, message, prestidigitation, sigil
+Bard Composition Spells DC 22; Cantrips (2nd) inspire competence (Core Rulebook 386),
+inspire courage (Core Rulebook 386)
+Scoundrel’s Feint When the mastermind successfully Feints, the target is flat‑footed
+against the mastermind’s melee attacks until the end of the mastermind’s next turn. On
+a critical success, the target is flat‑footed against all melee attacks for that time, not
+just the mastermind’s.
+Sneak Attack The mastermind deals an extra 1d6 precision damage to flat‑footed creatures.
+ANTIPALADIN
+There is perhaps nothing more anathematic to peace than an antipaladin.
+Dedicated holy warriors to the darkest and foulest of deities, antipaladins
+work to fulfill the vile wishes of their evil masters. The zeal with which they
+implement the plans of dark gods makes them truly fearsome foes for
+anyone allied with the forces of good.
+ANTIPALADIN
+CREATURE 5
+CE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +10
+Languages Common
+Skills Athletics +13, Deception +10, Intimidation +12, Religion +8, Survival +8
+Str +4, Dex +1, Con +3, Int +0, Wis +1, Cha + 3
+Items lesser cheetah’s elixir, greataxe, half plate, javelin (10)
+AC 25; Fort +14, Ref +10, Will +12
+HP 75
+Destructive Vengeance  (divine, necromancy) Trigger An enemy within 15
+feet damages the antipaladin; Effect The antipaladin increases
+the amount of damage they take by 2d6 and deals 2d6
+damage to the triggering enemy, choosing evil or
+negative damage. In addition, the antipaladin
+deals 2 extra damage of the chosen type with
+their Strikes against the triggering creature until
+the end of the antipaladin’s next turn.
+Speed 20 feet
+Melee  greataxe +15 (sweep), Damage 1d12+10
+slashing
+Ranged  javelin +12 (thrown 30 feet), Damage
+1d6+10 piercing
+Champion Devotion Spells 1 Focus Point, DC 20; 3rd
+touch of corruption (see below)
+Intimidating Strike  The antipaladin makes a
+melee Strike. If they hit and deal damage, the
+target is frightened 1, or frightened 2 on a
+critical hit.
+TOUCH OF CORRUPTION
+FOCUS 3
+UNCOMMON
+NECROMANCY
+NEGATIVE
+Cast  somatic
+Range touch; Targets 1 willing undead creature or 1 living creature
+The antipaladin infuses the target with negative energy. If the target is living, this
+deals 3d6 negative damage (basic Fortitude save); on a failed saving throw,
+the target also takes a –2 status penalty to AC for 1 round. If the target is
+a willing undead creature, the target regains 18 Hit Points, and if it is one
+of the antipaladin’s allies, it also gains a +2 status bonus to damage rolls
+for 1 round.
+SERVANTS OF DESTRUCTION
+Antipaladins are the polar opposite
+of paladins: chaotic evil warriors
+devoted to destruction. Much like
+champions of good, they must follow
+a code. Their code exhorts evil and
+prohibits selfless acts. Antipaladins
+usually serve Lamashtu, Rovagug, or
+demon lords. Many antipaladins used
+to be champions of good and seek to
+destroy their former faiths.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+ANTIPALADIN
+
+================================================================================
+PAGE 249
+================================================================================
+
+DESPOT
+Despots live to amass and exploit power over others.
+DESPOT
+CREATURE 5
+LE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +11
+Languages Common, Infernal
+Skills Athletics +10, Deception +13, Diplomacy +12, Intimidation +13, Performance +13,
+Society +12, Warfare Lore +10
+Str +2, Dex +2, Con +0, Int +4, Wis +2, Cha +4
+Items lesser darkvision elixir, minor healing potion (2), spiked gauntlet
+Persistent Lies Any creature deceived by the despot’s Deception skill
+believes the deception more readily on the next day. Any attempts to
+later attempt a Perception check against the despot’s Deception DC take
+a –2 circumstance penalty, as do other creatures’ attempts to convince the
+creature otherwise, such as through Diplomacy or further Deception.
+AC 19; Fort +9, Ref +9, Will +13
+HP 56
+Speed 25 feet
+Melee  spiked gauntlet +11 (agile), Damage 1d4+4 piercing
+Divine Spontaneous Spells DC 23, attack +13; 3rd (4 slots) chilling darkness,
+enthrall, harm; 2nd calm emotions, flaming sphere, see invisibility, undetectable
+alignment; 1st (4 slots) charm, command, fear, sanctuary; Cantrips (3rd) chill
+touch, daze, message, produce flame, shield
+Sorcerer Bloodline Spells 1 Focus Point, DC 22; 3rd diabolic edict (Core Rulebook 403)
+Bloodline Magic When the despot casts a bloodline spell, enthrall, flaming sphere, or
+charm, either a target takes 1 fire damage per spell level, or the despot gains a +1 status
+bonus to Deception checks for 1 round.
+Dangerous Sorcery When the despot Casts a Spell from a spell slot, if the spell deals
+damage and doesn’t have a duration, the despot gains a status bonus equal to the spell’s
+level to that spell’s damage.
+RECKLESS SCIENTIST
+It’s the reckless scientist’s job to break the rules of reality, no matter the cost.
+RECKLESS SCIENTIST
+CREATURE 6
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +10
+Languages Common
+Skills Acrobatics +12, Crafting +17, Deception +9, Engineering Lore +15, Medicine +10,
+Stealth +12, Underworld Lore +13
+Str +1, Dex +4, Con +5, Int +5, Wis +2, Cha –1
+Items alchemist’s tools, moderate antidote, moderate antiplague, bandolier, +1 sickle,
+work coat (functions as padded armor)
+Infused Items A reckless scientist carries the following infused items: 2 moderate
+acid flasks, 2 moderate alchemist’s fires, 1 lesser bomber’s eye elixir, 2 moderate frost
+vials, and 3 lesser elixirs of life. These items last for 24 hours, or until the next time
+the scientist makes their daily preparations.
+AC 23; Fort +17, Ref +14, Will +10; +1 status to all saves vs. poison
+HP 92; Resistances poison 5
+Unstable Compounds When an attacker scores a critical hit against the reckless scientist,
+one of the scientist’s poorly stowed alchemical items bursts. The GM determines the item
+randomly. If it was a bomb, the alchemist takes damage from the bomb, and any creature
+adjacent to the alchemist takes the splash damage. Any other item is simply wasted.
+Speed 25 feet
+Melee  sickle +17 (agile, finesse, magical, trip), Damage 1d4+7 slashing
+ALTER EGO MUTAGEN
+A reckless scientist may have a
+special mutagen with a 1‑round
+onset that transforms them into
+another specific NPC or monster of
+their level, with the same duration
+as other mutagens. All statistics
+change, though HP changes only if
+the new maximum HP is lower than
+the scientist’s current HP.
+Gamemastery Guide
+RECKLESS SCIENTIST
+
+================================================================================
+PAGE 250
+================================================================================
+
+Ranged  alchemical bomb +16 (range increment 20 feet, splash), Damage varies by bomb
+Quick Bomber  The reckless scientist Interacts to draw a bomb, then Strikes with it.
+Reckless Alchemy  (concentrate, manipulate) Requirements The reckless scientist is
+holding a bomb or elixir; Effect The reckless scientist combines the bomb with another
+bomb or the elixir with another elixir. They can Interact to draw a second bomb or elixir
+if necessary as part of this action. They attempt a DC 28 Crafting check, destroying
+both component items to create one new item. If a viable resulting item isn’t used by
+the end of the scientist’s next turn, it explodes as described under critical failure.
+Critical Success The new item has the full effect of both component items when used.
+Success The new item combines both items, but halves the effect of each. (This halves
+damage for bombs, the amount of healing of elixirs of life, or the duration for effects
+that can’t have their value halved. Details are determined by the GM.)
+Failure The new item is inert.
+Critical Failure The new item immediately explodes, dealing 3d6 piercing damage to
+the reckless scientist.
+GANG LEADER
+Cutthroats, killers, thieves, and toughs prey upon the vulnerable of society.
+Directing their activities and keeping them in line are the duties of the gang leader.
+GANG LEADER
+CREATURE 7
+CE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Acrobatics +13, Athletics +13, Deception +15, Intimidation +17, Society +11, Stealth
++13, Thievery +15, Underworld Lore +15
+Str +4, Dex +4, Con +2, Int +2, Wis –1, Cha +4
+Items minor potion of healing, +1 shortsword, sling (10 bullets), studded leather,
+tanglefoot bag
+AC 26; Fort +13, Ref +17, Will +10
+HP 104
+Deny Advantage The gang leader isn’t flat‑footed to creatures of 7th level or lower
+that are hidden, undetected, flanking, or using surprise attack.
+Evasion When the gang leader rolls a success on a Reflex save, they get a
+critical success instead.
+Surprise Attack On the first round of combat, if the gang leader rolls
+Deception or Stealth for initiative, creatures who haven’t acted are
+flat‑footed to the gang leader.
+Nimble Dodge  Trigger The gang leader is targeted with
+an attack by an attacker they can see; Effect The gang
+leader gains a +2 circumstance bonus to AC against the
+triggering attack.
+Speed 30 feet
+Melee  shortsword +18 (agile, magical, versatile S),
+Damage 1d6+10 piercing
+Ranged  sling +18 (propulsive, range increment 50 feet, reload 1), Damage 1d6+8
+bludgeoning
+Brutal Rally  (auditory, emotion, linguistic, mental) Trigger The gang leader rolls a critical
+hit against a creature; Effect All allies that can see the gang leader gain a +1 circumstance
+bonus to attack rolls until the start of the gang leader’s next turn.
+Gang Up Any enemy is flat‑footed against the gang leader’s melee attacks due to
+flanking as long as the enemy is within melee reach of both the gang leader
+and one of the gang leader’s allies.
+Quick Draw  The gang leader Interacts to draw a weapon, then Strikes with
+that weapon.
+Sneak Attack The gang leader deals an extra 2d6 precision damage to flat‑footed creatures.
+GANG STRUCTURE
+A gang leader might run a gang,
+but several other NPCs in this
+chapter make for good gang
+members. A gang of significant size
+typically has a pyramid structure
+so that only a few members report
+directly to the boss and it’s harder
+to link crimes directly to those in
+charge if someone gets arrested.
+NPC Gallery
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+GANG LEADER
+
+================================================================================
+PAGE 251
+================================================================================
+
+GLOSSARY AND INDEX
+This appendix contains page references for key terms
+appearing in this book, partial definitions for many rules
+and concepts, and full definitions for the traits introduced
+in this book. Definitions of other traits used in this book
+can be found in the Glossary and Index beginning on
+page 628 of the Core Rulebook.
+Abaddon (plane) The neutral evil Outer Plane, a wasteland
+home to soul-devouring daemons and the Four Horsemen
+of the Apocalypse. 142
+Ability Points Points used to purchase ability scores in a
+point-buy ability score variant rule. 182
+ability scores (variant rule) These variant rules include an
+alternate ability score system that works entirely through
+Ability Points, plus ways to distribute what each ability
+score impacts more evenly. 182
+Abyss (plane) The chaotic evil Outer Plane where demons and
+qlippoth fight for dominion. 142
+access Certain uncommon abilities, feats, and other options
+have an Access entry. Characters who meet the criteria in
+the entry gain access to that option. 35
+acolyte of Nethys (NPC) 212
+acrobat (NPC) 236
+addiction (affliction) 120
+adept (NPC) 228
+adjudicating rules 12, 28
+adventures
+ designing 40
+ styles 41
+ threats 43
+advisor (NPC) 207
+aerial combat 15
+affliction 116
+air (trait) Planes with this trait consist mostly of open spaces
+and air with various degrees of turbulence, though they also
+contain rare islands of floating stone and other elements
+and energies. 137
+alignment (variant rule) These variant rules contain options for
+removing alignment and an incremental alignment system. 184
+ancestry adjustment Simple changes added to an NPC stat
+block to represent a specific ancestry. 204
+animate dream Independent creatures formed when a powerful
+mortal dreamer wakes from a particularly vivid dream. 145
+antipaladin (NPC) 247
+apothecary (NPC) 220
+apprentice (NPC) 244
+aquatic combat 15
+archer sentry (NPC) 233
+artifact (trait) Items with this trait are artifacts. These magic
+items can’t be crafted by normal means, and they can’t be
+damaged by normal means. Artifacts are always rare or
+unique. 106
+aspect The overarching concepts a specific relic embodies,
+dictating the types of gifts that relic can gain. 95
+assassin (NPC) 211
+Astral Plane A Transitive Plane that separates the Inner
+Sphere from the planes of the Outer Sphere. 140
+astronomer (NPC) 241
+Awareness Points A measure of the opposition’s awareness of
+the PCs’ efforts during an infiltration. As Awareness Points
+increase, the infiltration becomes more challenging. 161
+Axis (plane) The lawful neutral Outer Plane is a perfectly
+structured, near-infinite city populated by aeons. 142
+azer Short, sturdy, and industrious humanoids native to the
+Elemental Plane of Fire. 140
+background (variant rule) Replace simply selecting a
+background with a series of steps that flesh out more of the
+character’s backstory. 186
+bandit (NPC) 208
+barkeep (NPC) 238
+barrister (NPC) 232
+beast tamer (NPC) 237
+beggar (NPC) 214
+Board  (action) Board a vehicle. 175
+bodyguard (NPC) 226
+Boneyard (plane) The neutral Outer Plane, a great spire rising
+into the Astral Plane where souls of the dead are judged
+and sent on to their respective afterlives. 142
+bosun (NPC) 243
+bounty hunter (NPC) 227
+Bullying Press [reaction] (action) A dueling reaction to make your
+opponent frightened on a successful Strike. 167
+burglar (NPC) 210
+campaign
+ rewards 38
+ starting and ending 39
+ structure 36
+captain of the guard (NPC) 234
+Change Tradition Focus  (action) Change your tradition
+focus in a spellcasting duel. 167
+charlatan (NPC) 209
+Chase Points These points represent the ability of an entire
+party to bypass an obstacle in the chase subsystem. 156
+chase subsystem A short-term subsystem wherein the PCs
+progress through various situations and obstacles. 156
+chronicler (NPC) 216
+city (trait) Settlements with this trait tend to be relatively
+large, with levels typically ranging from 5 to 7. 134
+class features (variant rule) Build characters who gain feats in
+different ways. 192
+commoner (NPC) 214
+courtiers 206
+creature
+ building 56
+ converting from First Edition 60
+ designing abilities 67
+ designing NPCs 72
+ improvising 61
+ trait abilities 70
+criminals 208
+cult leader (NPC) 230
+Gamemastery Guide
+
+================================================================================
+PAGE 252
+================================================================================
+
+cultist (NPC) 229
+curse (trait) Afflictions with this trait are manifestations of
+potent ill will. A curse either lasts a specified amount of
+time or can be removed only by certain actions a character
+must perform or conditions they must meet. A curse with
+stages follows the rules for afflictions. 116
+curse (affliction) 116
+cursed (trait) An item with this trait is cursed to cause trouble for
+its owner. A curse isn’t detected when the item is identified,
+though a critical success reveals both the presence and exact
+nature of the curse. Cursed items can’t be discarded once
+they’ve been triggered or invested the first time. The item
+can be removed only if the curse is removed. 90
+dancer (NPC) 236
+Deceptive Sidestep [reaction] (action) A dueling reaction forcing your
+opponent to roll again and use the second result. 167
+deities 127
+demiplane A smaller, limited plane either created for specific
+purposes or arising from planar phenomena. 145
+demonologist (NPC) 231
+Denizen of Leng Humanoid residents of the area of the
+Dreamlands known as the Plateau of Leng. 145
+despot (NPC) 248
+devotees 212
+Dimension of Time (dimension) A hidden dimension that
+simultaneously contains all time across all planes. 145
+dimension Similar to planes, dimensions have an infinite scale
+and overlay every other plane simultaneously, including
+one another. 144
+Discover (action) Watch or study an NPC to learn more
+about that NPC’s preferences; used in the influence
+subsystem. 151
+disease (trait) An effect with this trait inflicts one or more
+diseases. A disease is typically an affliction. 118
+dockhand (NPC) 222
+downtime
+ events 25
+ long-term goals 22
+downtrodden 214
+Dreamlands (dimension) A dimension created and sustained
+by the collective dreams of sleeping mortals. 145
+Drive  to [three-actions] (action) Pilot a vehicle to move. 175
+drug (trait) An item with this trait is a drug, a poison that
+conveys short-term benefits in addition to harmful side
+effects and long-term consequences. Each time a creature
+uses a given drug it must also attempt a saving throw
+against addiction to that drug. 120
+drug (affliction) 120
+drunkard (NPC) 239
+dual-class character (variant rule) A character who has the
+full benefits of two different classes. 192
+duel subsystem A subsystem for a one-on-one combat or
+spellcasting competition wherein the participants abide
+by specific rules agreed upon before the duel begins. 166
+Dueling Counter [reaction] (action) Expend a prepared spell or spell
+slot to attempt to counteract a spell. 167
+d’ziriak Reclusive, sapient insect-like creatures native to the
+Shadow Plane. 141
+earth (trait) Planes with this trait are mostly solid, with
+caverns and other hollow pockets. 137
+Edge Points These points represent special advantages a
+party can gain before or during an infiltration, which they
+can spend to more easily overcome an obstacle. 162
+Elysium (plane) The chaotic good Outer Plane, a realm of wild,
+idealized natural beauty populated primarily by azatas. 143
+encounter
+ designing 46
+ dynamic 48
+ locations 46
+ pitfalls 50
+ running 10
+ social 16, 51
+ treasure by encounter 51
+Encouraging Words  (feat) Bolster an ally to regain
+Stamina Points during combat; used in the stamina variant
+rules. 201
+environment
+
+describing 17
+
+in hexploration 172
+
+in worldbuilding 123
+erratic (trait) Planes with this trait have a flow of time that
+slows down or speeds up relative to other planes. 137
+Ethereal Plane A misty Transitive Plane overlapping each of
+the planes of the Inner Sphere, formed by the interacting
+tidal forces of creation and destruction from the Positive
+and Negative Energy Planes. 141
+executioner (NPC) 235
+exploration
+ activities 17
+ running 17
+explorers 216
+false priest (NPC) 229
+farmer (NPC) 222
+feats (variant rule) Build characters who gain feats in different
+ways. 192
+fence (NPC) 210
+fetchling (kayal) Members of this ancestry are descended
+from humans who long ago became trapped on the Shadow
+Plane. 141
+finite (trait) Planes with this trait consist of a limited amount
+of space. 136
+fire (trait) Planes with this trait are composed of flames
+that continually burn with no fuel source. Fire planes are
+extremely hostile to non-fire creatures. 137
+First World (plane) The First World was a first draft of
+the Material Plane, crafted by the gods to test their
+metaphysical crafting materials and palettes before setting
+it aside to create the Material Plane as a second, final
+version of their work. 141
+flowing (trait) Planes with this trait have a flow of time that is
+consistently faster or slower than that of other planes. 137
+foresters 218
+Glossary and index
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+
+================================================================================
+PAGE 253
+================================================================================
+
+Fortify Camp (action) Spend time fortifying your camp for
+defense; used in the hexploration subsystem. 173
+gang leader (NPC) 249
+getting lost 21
+gift A magical benefit granted by a relic. Gifts are categorized
+into three tiers representing their power: minor, major, and
+grand. 96
+grave robber (NPC) 208
+gravedigger (NPC) 223
+Great Old One A powerful alien entity akin to a demigod in
+power. 108, 139
+group activity In the hexploration subsystem, group activities
+require the entire party to work together in order to be
+effective. They count as one of the day’s hexploration
+activities for the whole group. 172
+group size 33
+guard (NPC) 232
+guide (NPC) 217
+guildmaster (NPC) 245
+harbormaster (NPC) 225
+harrow reader (NPC) 228
+hazard
+ building 74
+ complex 80
+ in exploration 20
+ simple 77
+healers 220
+Heaven (plane) The lawful good Outer Plane, a great
+seven-tiered mountain devoted to defending the innocent
+and destroying the wicked. 143
+Hell (plane) The lawful evil Outer Plane is a realm of tyranny
+and perfectly ordered, malignant law, inhabited primarily
+by devils. 144
+Hero Points 9
+hexploration subsystem A subsystem for exploration using
+an overland map divided into hexagonal sections of
+territory. 170
+high gravity (trait) Planes with this trait have gravitational
+forces much stronger than those on the Material Plane. 136
+house rules The collection of rulings on, changes to, and
+additions to the written rules the GM and players
+collectively agree to use during their games. 29
+hunter (NPC) 219
+immeasurable (trait) Planes with this trait are immeasurably
+large, perhaps infinite. 136
+Infiltration Points A measure of the heroes’ progress toward
+overcoming obstacles during an infiltration. 160
+infiltration subsystem A subsystem providing a framework
+for a party to achieve objectives through subtlety rather
+than direct confrontation. 160
+Influence (action) Attempt to make a favorable impression on
+an NPC to convince the NPC to support your cause; used in
+the influence subsystem. 151
+Influence Points These points, used in the influence subsystem,
+measure a character’s growing sway over a particular NPC. 151
+influence subsystem A short-term subsystem wherein the PCs
+accumulate Influence Points during a social encounter with
+an NPC to represent their increasing influence. 151
+initiative 11
+Inner Sphere The planes of the Inner Sphere form the heart
+of the cosmos. The most prominent are the Material Plane,
+the Elemental Planes, and the Positive and Negative Energy
+Planes. 138
+innkeeper (NPC) 239
+intelligent (trait) An item with this trait is intelligent and has
+its own will and personality, as well as several statistics that
+most items don’t have. Intelligent items can’t be crafted by
+normal means, and they are always rare or unique. 88
+investigation A type of exploration scene wherein the PCs
+learn more about a situation, solve a puzzle, or uncover
+mysteries. 21
+item
+ artifacts 106
+ building 82
+
+buying and selling 24
+ cursed 90
+ gems and art objects 114
+ intelligent 88
+
+magic item variant rules 196
+ quirks 86
+ relics 94
+jailer (NPC) 233
+judge (NPC) 224
+jyoti Xenophobic winged, birdlike creatures native to the
+Positive Energy Plane. 139
+laborers 222
+leadership subsystem A long-term subsystem wherein one or
+more PCs establish a fledgling organization and accumulate
+followers over time. 168
+Leng spider A species of immense, intelligent spiders native to
+the Plateau of Leng in the Dreamlands. 145
+level 0 character (variant rule) Play through your characters’
+adventures before they take on character classes. 195
+librarian (NPC) 240
+library The setting in which the characters perform research
+when using the research subsystem. A library can be a
+vault of books or any other repository of information. 154
+low gravity (trait) Planes with this trait have gravitational
+forces much weaker than those on the Material Plane. 136
+Maelstrom (plane) The chaotic neutral Outer Plane is an
+ancient ocean of raw chaos, eternally wearing away
+portions of other planes and inhabited primarily by
+proteans. 144
+mage for hire (NPC) 226
+magistrates 224
+Map the Area (action) Create an accurate map of a hex; used in
+the hexploration subsystem. 173
+maps and mapping
+ drawing maps 52
+ for settlements 126
+ for worlds 123
+
+in encounter mode 13, 46
+Gamemastery Guide
+
+================================================================================
+PAGE 254
+================================================================================
+
+mastermind (NPC) 246
+Material Plane The plane containing the prosaic universe, and
+the home of mortal life. 138
+mercenaries 226
+merchant (NPC) 244
+metagaming A player using knowledge they have but their
+character lacks to inform their character’s decisions and
+actions in the game. 9
+metamorphic (trait) On planes with this trait, the plane’s
+physical nature can be changed by things other than
+physical force or magic. 137
+metropolis (trait) Settlements with this trait are the largest of
+cities, often with a level of 8 or higher. 134
+microgravity (trait) Planes with this trait have little to no
+gravity. 136
+miner (NPC) 223
+monster hunter (NPC) 227
+mounted combat 14
+movement 14
+mystics 228
+nation 125, 130
+navigator (NPC) 242
+necromancer (NPC) 230
+negative (trait) Planes with this trait are vast, empty reaches
+that suck the life from the living. 137
+Negative Energy Plane A plane in the Inner Sphere suffused
+with negative energy, home to sceaduinars, wraiths, and
+undead. 139
+Nirvana (plane) The neutral good Outer Plane is the realm of
+purest good, a plane that promises sanctuary to the weary
+and enlightenment and transcendence to those who seek
+it out. 144
+noble (NPC) 206
+nonplayer character (NPC)
+ ancestry adjustments 204
+ class road maps and abilities 73
+ customizing 203
+ designing 72
+ portraying 9
+ specialists 204
+officers 232
+Outer Sphere The planes of the Outer Sphere are the realms
+of alignment: chaos, evil, good, law, neutrality, and their
+admixtures, populated by celestials, fiends, monitors,
+and others who embody and promote these moral
+concepts. 141
+palace guard (NPC) 206
+Pathfinder Society Organized Play A worldwide organization
+of players and GMs playing in a shared, ongoing Pathfinder
+campaign. 33, 165
+performers 236
+petitioner The soul of a dead mortal who has been judged and
+sent on to whichever plane best reflects the life they led. 138
+physician (NPC) 220
+piloting check A skill check required to perform certain
+actions when piloting a vehicle. 175
+pirate (NPC) 242
+plague doctor (NPC) 221
+Plane of Air The innermost of the Elemental Planes, a vast
+realm of wind, storms, and skies. 139
+Plane of Earth An Elemental Plane situated between the Plane
+of Fire and Plane of Water, consisting of a thick, rocky shell
+riddled with vast caverns and open pockets. 139
+Plane of Fire This Elemental Plane is a perpetual ocean of fire
+with skies of smoke, storms of raining cinders, and lakes
+and rivers of magma flowing along its border with the
+Elemental Plane of Earth. 140
+Plane of Water An Elemental Plane located between the Plane
+of Air and the Plane of Earth, consisting of a nearly limitless
+expanse of saline, fresh, and brackish seas teeming with
+oceanic life. 140
+planes Vast or infinite realms that each embody some
+foundational aspect of reality, existing beyond and in
+addition to the physical universe. 136
+player
+ goals 36
+ motivations 40, 44
+ needs 34
+ problematic 31
+poacher (NPC) 218
+poison (trait) An effect with this trait delivers a poison or deals
+poison damage. An item with this trait is poisonous and
+might cause an affliction. 120
+positive (trait) Planes with this trait are awash with life energy
+of such intensity that it can harm living creatures. 137
+Positive Energy Plane A plane in the Inner Sphere that contains
+the source of all positive energy in the multiverse. 139
+potency bonus A special bonus used only in the automatic
+bonus progression variant rule for magic items, representing
+a character’s innate ability and replacing the item bonus to
+rolls and DCs (except armor’s item bonus). 196
+priest of Pharasma (NPC) 213
+primeval inevitable The first of the inevitables produced by
+the axiomites for their war against the proteans have since
+ascended to become demigods. 142
+prisoner (NPC) 215
+proficiency (variant rule) A proficiency without level system
+changes the fundamental math of the proficiency system
+to tell stories where being outnumbered by weaker foes
+remains a challenge and high-level characters are less
+superhuman. 198
+prophet (NPC) 212
+propulsion The means by which a vehicle moves, often
+imposing additional rules on the vehicle. 174
+publicans 238
+qlippoth The original inhabitants of the Abyss, inhuman
+monstrosities of pure chaos and malice. 142
+quintessence A philosophically aligned material with infinite
+potential for shape and state that conforms to powerful and
+prevailing beliefs. 137
+Rally (action) Quickly encourage an ally to regain Stamina
+Points; used in the stamina variant rules. 201
+Glossary and index
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+
+================================================================================
+PAGE 255
+================================================================================
+
+rarity How often something is encountered in the game
+world. The rarities are common, uncommon, rare, and
+unique. Any rules element that doesn’t list a rarity is
+common. 35
+reckless (trait) Actions with the reckless trait run the risk of
+the pilot losing control of a vehicle. When performing a
+reckless action, the pilot must first attempt an appropriate
+piloting check to keep control of the vehicle. 176
+reckless scientist (NPC) 248
+Reconnoiter (action) Survey and explore a specific area to find
+unusual features and specific sites; used in the hexploration
+subsystem. 173
+Reputation Points In the reputation subsystem, these points
+measure a character’s social standing with a given group of
+people. 164
+reputation subsystem A mid- to long-term subsystem wherein
+the PCs accumulate or lose Reputation Points with a
+particular group of people. 164
+Research (action) Comb through information to learn more
+about the topic at hand and gain Research Points; used in
+the research subsystem. 154
+Research Points (RP) Points representing the progress a party
+makes toward discovering information in the research
+subsystem. 154
+research subsystem A short-term subsystem used when the
+party needs to discover information within a time limit or
+other restrictions. 154
+Resolve Points A pool of points in the stamina variant rules
+representing a character’s intrinsic grit and luck. 200
+retraining 26
+reward
+ in campaigns 38
+ in subsystems 150
+ruffian (NPC) 209
+Run Over [three-actions] (action) Run over or ram creatures with a
+vehicle you’re piloting. 176
+saboteur (NPC) 246
+sage (NPC) 241
+sandbox A game where the GM presents an open world and
+the players explore as they like, rather than a GM-directed
+narrative. 44
+sceaduinar The most common inhabitants of the Negative
+Energy Plane, crystalline humanoids formed from pure
+negative energy. 139
+scholars 240
+seafarers 242
+secret check 8
+Sense Weakness [reaction] (action) A dueling reaction to make your
+opponent flat-footed against your Strike. 167
+sentient (trait) Planes with this trait can change their physical
+nature according to the plane’s own whim. 137
+servant (NPC) 222
+server (NPC) 238
+session zero A session for building characters as a group
+before the campaign officially begins. 7
+settlement 126, 132
+shadow (trait) Planes with this trait are umbral with murky
+light and suppress all light sources. 138
+Shadow Plane A murky, distorted, and imperfect mirror of the
+Material Plane that overlaps the Material Plane and serves
+as a buffer or conduit between it and the Negative Energy
+Plane. 141
+ship captain (NPC) 243
+Skill Points (variant rule) In a more granular system, characters
+spend Skill Points to choose and hone their skills. 199
+smith (NPC) 245
+spy (NPC) 207
+Stamina Points (variant rule) Stamina Points represent a
+character’s energy and readiness. They’re reduced by
+damage just like Hit Points, but a character always loses
+their Stamina Points first, and loses Hit Points only if
+they’re out of Stamina Points. 200
+static (trait) The physical nature of a plane with this trait can’t
+be changed in any way. 137
+Steel Your Resolve  (feat) Regain Stamina Points quickly
+during a fight; used in the stamina variant rules. 201
+Stop  (action) Bring a vehicle to a stop. 176
+strange gravity (trait) On planes with this trait, all bodies of
+mass, regardless of size, are centers of gravity with roughly
+the same amount of force. 136
+subjective gravity (trait) On planes with this trait, all bodies
+of mass can be centers of gravity with the same amount of
+force, but only if a non-mindless creature wills it. 136
+surgeon (NPC) 221
+surprise attack 21
+Take a Breather (action) Rest for 10 minutes to regain Stamina
+Points; used in the stamina variant rules. 200
+Take Control  (action) Become the pilot of an uncontrolled
+vehicle. 176
+tax collector (NPC) 224
+teacher (NPC) 240
+threat level Encounters in a published adventure give an
+indication of the expected party level and how difficult that
+encounter is for that level of party. 16
+timeless (trait) On planes with this trait, time still passes but
+its effects are diminished. 137
+tomb raider (NPC) 217
+torchbearer (NPC) 216
+total party kill (TPK) A situation in which every character in the
+party dies, sometimes ending the campaign prematurely. 30
+touch of corruption (focus spell) 247
+town (trait) Settlements with this trait are modest in size, with
+a level usually ranging from 2–4. 134
+tracker (NPC) 219
+tradespeople 244
+Transitive Plane A collection of planes that each coexist with
+one or more other planes, often used to facilitate interplanar
+travel. The most prominent are the Astral Plane, the Ethereal
+Plane, the First World, and the Shadow Plane. 140
+Travel (action) Progress toward moving into an adjacent hex;
+used in the hexploration subsystem. 172
+troubadour (NPC) 237
+Gamemastery Guide
+
+================================================================================
+PAGE 256
+================================================================================
+
+This product is compliant with the Open Game License (OGL) and is suitable for use with the Pathfinder
+Roleplaying Game (Second Edition).
+Product Identity: The following items are hereby identified as Product Identity, as defined in the Open
+Game License version 1.0a, Section 1(e), and are not Open Game Content: All trademarks, registered
+trademarks, proper nouns (characters, deities, locations, etc., as well as all adjectives, names, titles, and
+descriptive terms derived from proper nouns), artworks, characters, dialogue, locations, organizations, plots,
+storylines, and trade dress. (Elements that have previously been designated as Open Game Content, or are
+exclusively derived from previous Open Game Content, or that are in the public domain are not included in
+this declaration.)
+Open Game Content: Except for material designated as Product Identity, the game mechanics of this Paizo
+game product are Open Game Content, as defined in the Open Game License version 1.0a, Section 1(d). No
+portion of this work other than the material designated as Open Game Content may be reproduced in any form
+without written permission.
+Pathfinder Gamemastery Guide © 2020, Paizo Inc. Paizo, the Paizo golem logo, Pathfinder, the Pathfinder logo,
+Pathfinder Society, Starfinder, and the Starfinder logo are registered trademarks of Paizo Inc.; the Pathfinder
+P logo, Pathfinder Accessories, Pathfinder Adventure Card Game, Pathfinder Adventure Card Society,
+Pathfinder Adventure Path, Pathfinder Adventures, Pathfinder Battles, Pathfinder Cards, Pathfinder Combat
+Pad, Pathfinder Flip-Mat, Pathfinder Flip-Tiles, Pathfinder Legends, Pathfinder Lost Omens, Pathfinder Pawns,
+Pathfinder Roleplaying Game, Pathfinder Tales, Starfinder Adventure Path, Starfinder Combat Pad, Starfinder
+Flip-Mat, Starfinder Pawns, Starfinder Roleplaying Game, and Starfinder Society are trademarks of Paizo Inc.
+Printed in China.
+OPEN GAME LICENSE Version 1.0a
+The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc.
+(“Wizards”). All Rights Reserved.
+1. Definitions: (a) “Contributors” means the copyright and/or trademark owners who have contributed Open Game
+Content; (b) “Derivative Material” means copyrighted material including derivative works and translations (including
+into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement,
+compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c)
+“Distribute” means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute;
+(d) “Open Game Content” means the game mechanic and includes the methods, procedures, processes and routines
+to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any
+additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this
+License, including translations and derivative works under copyright law, but specifically excludes Product Identity.
+(e) “Product Identity” means product and product line names, logos and identifying marks including trade dress;
+artifacts, creatures, characters, stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork,
+symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual
+or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas,
+likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities
+or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as
+Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f)
+“Trademark” means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or
+its products or the associated products contributed to the Open Game License by the Contributor (g) “Use”, “Used”
+or “Using” means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of
+Open Game Content. (h) “You” or “Your” means the licensee in terms of this agreement.
+2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open
+Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game
+Content that you Use. No terms may be added to or subtracted from this License except as described by the License
+itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
+3. Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of
+this License.
+4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a
+perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open
+Game Content.
+5. Representation of Authority to Contribute: If You are contributing original material as Open Game Content,
+You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights
+conveyed by this License.
+6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the
+exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You
+must add the title, the copyright date, and the copyright holder’s name to the COPYRIGHT NOTICE of any original
+Open Game Content you Distribute.
+7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to
+compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of
+that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered
+Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another,
+independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity
+in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any
+Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
+8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that
+you are distributing are Open Game Content.
+9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You
+may use any authorized version of this License to copy, modify and distribute any Open Game Content originally
+distributed under any version of this License.
+10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content
+You distribute.
+11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any
+Contributor unless You have written permission from the Contributor to do so.
+12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to
+some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use
+any Open Game Material so affected.
+13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to
+cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of
+this License.
+14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only
+to the extent necessary to make it enforceable.
+15. COPYRIGHT NOTICE
+Open Game License v 1.0a © 2000, Wizards of the Coast, Inc.
+System Reference Document © 2000, Wizards of the Coast, Inc; Authors: Jonathan Tweet, Monte Cook, Skip
+Williams, based on material by E. Gary Gygax and Dave Arneson.
+The Book of Fiends © 2003, Green Ronin Publishing; Authors: Aaron Loeb, Erik Mona, Chris Pramas, and Robert
+J. Schwalb.
+Armies of the Abyss © 2002, Green Ronin Publishing; Authors: Erik Mona and Chris Pramas.
+The Avatar’s Handbook © 2003, Green Ronin Publishing; Authors: Jesse Decker and Chris Thomasson.
+Book of the Righteous © 2002, Aaron Loeb.
+Legions of Hell © 2001, Green Ronin Publishing; Author: Chris Pramas.
+The Unholy Warrior’s Handbook © 2003, Green Ronin Publishing; Author: Robert J. Schwalb.
+Pathfinder Core Rulebook (Second Edition) © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen
+Radney-MacFarland, and Mark Seifter.
+Genie, Marid from the Tome of Horrors Complete © 2011, Necromancer Games, Inc., published and distributed by
+Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
+Pathfinder Gamemastery Guide © 2020, Paizo Inc.; Authors: Alexander Augunas, Jesse Benner, John Bennett,
+Logan Bonner, Clinton J. Boomer, Jason Bulmahn, James Case, Paris Crenshaw, Jesse Decker, Robert N. Emerson, Eleanor
+Ferron, Jaym Gates, Matthew Goetz, T.H. Gulliver, Kev Hamilton, Sasha Laranoa Harving, BJ Hensley, Vanessa Hoskins,
+Brian R. James, Jason LeMaitre, Lyz Liddell, Luis Loza, Colm Lundberg, Ron Lundeen, Stephen Radney-MacFarland,
+Jessica Redekop, Alistair Rigg, Mark Seifter, Owen K.C. Stephens, Amber Stewart, Christina Stiles, Landon Winkler,
+and Linda Zayas-Palmer.
+PAIZO INC.
+Creative Directors • James Jacobs, Robert G. McCreary, and Sarah E. Robinson
+Director of Game Design • Jason Bulmahn
+Managing Developers • Adam Daigle and Amanda Hamon
+Organized Play Lead Developer • Linda Zayas-Palmer
+Developers • Eleanor Ferron, Jason Keeley, Luis Loza, Ron Lundeen, Patrick Renie,
+Michael Sayre, and Jason Tondro
+Starfinder Lead Designer • Joe Pasini
+Starfinder Senior Developer • John Compton
+Starfinder Society Developer • Thurston Hillman
+Designers • Logan Bonner, Lyz Liddell, and Mark Seifter
+Managing Editor • Judy Bauer
+Editors • James Case, Leo Glass, Avi Kool, Adrian Ng, and Lu Pellazar
+Art Directors • Kent Hamilton and Sonja Morris
+Senior Graphic Designers • Emily Crowell and Adam Vick
+Production Artist • Tony Barnett
+Franchise Manager • Mark Moreland
+Paizo CEO • Lisa Stevens
+Chief Creative Officer • Erik Mona
+Chief Financial Officer • John Parrish
+Chief Operations Officer • Jeffrey Alvarez
+Chief Technical Officer • Vic Wertz
+Program Manager • Glenn Elliott
+Director of Sales • Pierce Watters
+Sales Associate • Cosmo Eisele
+Vice President of Marketing & Licensing • Jim Butler
+Public Relations Manager • Aaron Shanks
+Social Media Producer • Payton Smith
+Customer Service & Community Manager • Sara Marie
+Operations Manager • Will Chase
+Organized Play Manager • Tonya Woldridge
+Human Resources Generalist • Angi Hodgson
+Accountant • William Jorenby
+Data Entry Clerk • B. Scott Keim
+Director of Technology • Raimi Kong
+Senior Software Developer • Gary Teter
+Webstore Coordinator • Katina Davis
+Customer Service Team • Joan Hong, Virginia Jordan, Samantha Phelan, and
+Diego Valdez
+Warehouse Team • Laura Wilkes Carey, Mika Hawkins, Heather Payne, Jeff Strand, and
+Kevin Underwood
+Website Team • Brian Bauman, Robert Brandenburg, Whitney Chatterjee, Erik Keith,
+Josh Thornton, and Andrew White
+unbounded (trait) Planes with this trait loop back on
+themselves when a creature reaches the plane’s edge. 136
+unexpected difficulty 16
+urchin (NPC) 215
+vehicle Vehicles are various means of transportation,
+often with specific purposes, that come into play during
+encounters and exploration. 174
+velstrac Horrific fiends residing on the Shadow Plane who seek
+ultimate sensation and perfection through self-mutilation. 141
+Victory Points (VP) A flexible point-based subsystem for
+tracking progress toward a goal. 148
+village (trait) Settlements with this trait tend to be small and
+usually have a level no higher than 1. 134
+villains
+ in NPC gallery 246
+ motivations 47
+ recurring 37
+virulent (trait) Afflictions with the virulent trait are harder
+to remove. You must succeed at two consecutive saves to
+reduce a virulent affliction’s stage by 1. A critical success
+reduces a virulent affliction’s stage by only 1 instead of
+by 2.
+warden (NPC) 225
+watch officer (NPC) 234
+water (trait) Planes with this trait are mostly liquid, perhaps
+with pockets of breathable air. 137
+worldbuilding Creating a campaign setting of your own
+design. 122
+zealot of Asmodeus (NPC) 213
+Glossary and index
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+
+================================================================================
+PAGE 257
+================================================================================
+
+HARDCOVER $36.99
+THIS COMPREHENSIVE HARDCOVER OVERVIEW OF THE WORLD OF PATHFINDER PROVIDES EVERYTHING YOU NEED TO KNOW
+FOR A LIFETIME OF ADVENTURE IN THE AGE OF LOST OMENS. THE GOD OF HUMANITY IS DEAD AND PROPHECY IS BROKEN,
+LEAVING HEROES JUST LIKE YOU TO CARVE THEIR OWN DESTINIES OUT OF AN UNCERTAIN FUTURE!
+Lost Omens
+World Guide
+Second Edition
+© 2020, Paizo Inc. Paizo, the Paizo golem logo, Pathﬁ nder, and the Pathﬁ nder logo are registered trademarks of Paizo Inc.;
+the Pathﬁ nder P logo, Pathﬁ nder Adventure Path, Pathﬁ nder Roleplaying Game, and Pathﬁ nder Lost Omens are trademarks of Paizo Inc.
+paizo.com/pathﬁ nder
+
+================================================================================
+PAGE 258
+================================================================================
+
+Rulebook
+Make Your Game Your Own!
+As the Game Master of a Pathfinder campaign, you’re the architect of your
+players’ adventures—a rewarding but sometimes challenging responsibility.
+With this book, your job just got a whole lot easier! Whether you’re building
+your own monsters and adventures, looking for new subsystems to play out
+cinematic chases or tense infiltrations, or simply want to speed up your game
+with scores of NPCs ready for action, the Gamemastery Guide has you covered!
+paizo.com/pathfinder
+Printed in China.

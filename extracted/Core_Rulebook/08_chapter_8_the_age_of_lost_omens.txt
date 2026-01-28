@@ -1,0 +1,2539 @@
+# Chapter 8: the age of lost omens
+# Pages: 17-16
+
+Chapter 8: the age of lost omens
+The setting of Golarion is described in this chapter,
+including a brief overview of the world and its people,
+followed by a timeline of events. Most importantly,
+characters who venerate a deity should look to this
+chapter to find the rules associated with their faith.
+Chapter 9: Playing the Game
+This important chapter contains the universal rules
+needed to play Pathfinder, including rules for the various
+modes of play, the basic actions that every character can
+perform, the rules for combat, and the rules for death and
+dying. Every player should be familiar with this chapter,
+especially the GM.
+Chapter 10: Game Mastering
+Packed full of guidelines and advice, this chapter helps
+Game Masters tell an interesting and compelling story.
+It also includes advice on creating a fun and encouraging
+game space and guides for empowering players to create
+characters they want to play. This chapter also includes
+rules that are particularly important for the GM to know,
+such as rules dealing with traps, environmental dangers,
+and afflictions (such as curses, diseases, and poisons), as
+well as guidance on setting DCs and handing out rewards
+to player characters.
+Chapter 11: Crafting & Treasure
+The treasures characters find during their adventures
+take many forms, from gold and gemstones to powerful
+magical weapons. This chapter details guidelines for
+distributing treasure to characters, as well as descriptions
+of hundreds of magic items. This chapter also contains
+the rules for alchemical items.
+Appendices
+The back of this book has an appendix with the rules
+for all of the conditions that you will find in the game.
+This section also includes a blank character sheet, and an
+index with a comprehensive glossary of common terms
+and traits that you’ll encounter in the game.
+Core Rulebook
+
+================================================================================
+PAGE 18
+================================================================================
+
+Format of Rules Elements
+Throughout this rulebook, you will see formatting standards that might look a
+bit unusual at first. Specifically, the game’s rules are set apart in this text using
+specialized capitalization and italicization. These standards are in place to make
+this book rules elements easier to recognize.
+The names of specific statistics, skills, feats, actions, and some other mechanical
+elements in Pathfinder are capitalized. This way, when you see the statement “a Strike
+targets Armor Class,” you know that both Strike and Armor Class are referring
+to rules.
+If a word or a phrase is italicized, it is describing a spell or a magic item. This way,
+when you see the statement “the door is sealed by lock,” you know that in this case
+the word denotes the lock spell, rather than a physical item.
+Pathfinder also uses many terms that are typically expressed as abbreviations, like
+AC for Armor Class, DC for Difficulty Class, and HP for Hit Points. If you’re ever
+confused about a game term or an abbreviation, you can always turn to the Glossary
+and Index, beginning on page 628, and look it up.
+Understanding Actions
+Characters and their adversaries affect the world of Pathfinder by using actions
+and producing effects. This is especially the case during encounters, when every
+action counts. When you use an action, you generate an effect. This effect might
+be automatic, but sometimes actions necessitate that you roll a die, and the effect is
+based on what you rolled.
+Throughout this book, you will see special icons to denote actions.
+[one-action] Single Actions
+Single actions use this symbol: [one-action]. They’re the simplest, most common type of action.
+You can use three single actions on your turn in an encounter, in any order you see fit.
+[[reaction] ]Reactions
+Reactions use this symbol: [reaction]. These actions can be used even when it’s not your
+turn. You get only one reaction per encounter round, and you can use it only when
+its specific trigger is fulfilled. Often, the trigger is another creature’s action.
+[free-action] ]Free Actions
+Free actions use this symbol: [free-action]. Free actions don’t require you to spend any of
+your three single actions or your reaction. A free action might have a trigger like
+a reaction does. If so, you can use it just like a reaction—even if it’s not your turn.
+However, you can use only one free action per trigger, so if you have multiple free
+actions with the same trigger, you have to decide which to use. If a free action
+doesn’t have a trigger, you use it like a single action, just without spending any of
+your actions for the turn.
+Activities
+Activities are special tasks that you complete by spending one or more of your actions
+together. Usually, an activity uses two or more actions and lets you do more than a
+single action would allow. You have to spend all the actions an activity requires for
+its effects to happen. Spellcasting is one of the most common activities, as most spells
+take more than a single action to cast.
+Activities that use two actions use this symbol: [two-actions]. Activities that use three
+actions use this symbol: [three-actions]. A few special activities, such as spells you can cast in
+an instant, can be performed by spending a free action or a reaction.
+All tasks that take longer than a turn are activities. If an activity is meant to
+be done during exploration, it has the exploration trait. An activity that takes a
+day or more of commitment and that can be done only during downtime has the
+downtime trait.
+[one-action]
+Single Action
+[two-actions]
+Two-Action
+Activity
+[three-actions]
+Three-Action
+Activity
+[[reaction]
+Reaction
+[free-action]
+Free Action
+Introduction
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
+
+================================================================================
+PAGE 19
+================================================================================
+
+Reading Rules
+This book contains hundreds of rules elements that
+give characters new and interesting ways to respond to
+situations in the game. All characters can use the basic
+actions found in Chapter 9, but an individual character
+often has special rules that allow them to do things most
+other characters can’t. Most of these options are feats,
+which are gained by making certain choices at character
+creation or when a character advances in level.
+Regardless of the game mechanic they convey, rules
+elements are always presented in the form of a stat block,
+a summary of the rules necessary to bring the monster,
+character, item, or other rules element to life during play.
+Where appropriate, stat blocks are introduced with an
+explanation of their format. For example, the Ancestry
+section of Chapter 2 contains rules for each of the game’s
+six core ancestries, and an explanation of these rules
+appears at the beginning of that chapter.
+The general format for stat blocks is shown below. Entries
+are omitted from a stat block when they don’t apply, so not
+all rule elements have all of the entries given below. Actions,
+reactions, and free actions each have the corresponding icon
+next to their name to indicate their type. An activity that
+can be completed in a single turn has a symbol indicating
+how many actions are needed to complete it; activities that
+take longer to perform omit these icons. If a character must
+attain a certain level before accessing an ability, that level
+is indicated to the right of the stat block’s name. Rules also
+often have traits associated with them (traits appear in the
+Glossary and Index).
+Spells, alchemical items, and magic items use a similar
+format, but their stat blocks contain a number of unique
+elements (see Chapter 7 for more on reading spells, and
+Chapter 11 for more on alchemical and magic items).
+ACTION OR FEAT NAME [one-action]
+LEVEL
+TRAITS
+Prerequisites Any minimum ability scores, feats, proficiency
+ranks, or other prerequisites you must have before you can
+access this rule element are listed here. Feats also have a level
+prerequisite, which appears above.
+Frequency This is the limit on how many times you can use
+the ability within a given time.
+Trigger Reactions and some free actions have triggers that
+must be met before they can be used.
+Requirements Sometimes you must have a certain item or be
+in a certain circumstance to use an ability. If so, it’s listed
+in this section.
+This section describes the effects or benefits of a rule element.
+If the rule is an action, it explains what the effect is or what
+you must roll to determine the effect. If it’s a feat that modifies
+an existing action or grants a constant effect, the benefit is
+explained here.
+Special Any special qualities of the rule are explained in
+this section. Usually this section appears in feats you can select
+more than once, explaining what happens when you do.
+Core Rulebook
+
+================================================================================
+PAGE 20
+================================================================================
+
+Character Creation
+Unless you’re the GM, the first thing you need to do when
+playing Pathfinder is create your character. It’s up to you to
+imagine your character’s past experiences, personality, and
+worldview, and this will set the stage for your roleplaying
+during the game. You’ll use the game’s mechanics to
+determine your character’s ability to perform various tasks
+and use special abilities during the game.
+This section provides a step-by-step guide for creating a
+character using the Pathfinder rules, preceded by a guide to
+help you understand ability scores. These scores are a critical
+part of your character, and you will be asked to make choices
+about them during many of the following steps. The steps of
+character creation are presented in a suggested order, but
+you can complete them in whatever order you prefer.
+Many of the steps on pages 21–28 instruct you to fill out
+fields on your character sheet. The character sheet is shown
+on pages 24–25; you can find a copy in the back of this book
+or online as a free pdf. The character sheet is designed to
+be easy to use when you’re actually playing the game—but
+creating a character happens in a different order, so you’ll
+move back and forth through the character sheet as you
+go through the character creation process. Additionally, the
+character sheet includes every field you might need, even
+though not all characters will have something to put in each
+field. If a field on your character sheet is not applicable to
+your character, just leave that field blank.
+All the steps of character creation are detailed on the
+following pages; each is marked with a number that
+corresponds to the sample character sheet on pages 24–25,
+showing you where the information goes. If the field
+you need to fill out is on the third or fourth page of the
+character sheet, which aren’t shown, the text will tell you.
+If you’re creating a higher-level character, it’s a good
+idea to begin with the instructions here, then turn to
+page 29 for instructions on leveling up characters.
+The Six Ability Scores
+One of the most important aspects of your character is
+their ability scores. These scores represent your character’s
+raw potential and influence nearly every other statistic on
+your character sheet. Determining your ability scores is
+not done all at once, but instead happens over several
+steps during character creation.
+Ability scores are split into two main groups: physical
+and mental. Strength, Dexterity, and Constitution are
+physical ability scores, measuring your character’s physical
+power, agility, and stamina. In contrast, Intelligence,
+Wisdom, and Charisma are mental ability scores and
+measure your character’s learned prowess, awareness, and
+force of personality.
+Excellence in an ability score improves the checks and
+statistics related to that ability, as described below. When
+imagining your character, you should also decide what
+ability scores you want to focus on to give you the best
+chance at success.
+Strength
+Strength measures your character’s physical power.
+Strength is important if your character plans to engage in
+hand-to-hand combat. Your Strength modifier gets added
+to melee damage rolls and determines how much your
+character can carry.
+Dexterity
+Dexterity measures your character’s agility, balance, and
+reflexes. Dexterity is important if your character plans
+to make attacks with ranged weapons or use stealth to
+surprise foes. Your Dexterity modifier is also added to
+your character’s AC and Reflex saving throws.
+Constitution
+Constitution measures your character’s overall health
+and stamina. Constitution is an important statistic for
+all characters, especially those who fight in close combat.
+Your Constitution modifier is added to your Hit Points
+and Fortitude saving throws.
+Intelligence
+Intelligence measures how well your character can learn
+and reason. A high Intelligence allows your character to
+analyze situations and understand patterns, and it means
+they can become trained in additional skills and might be
+able to master additional languages.
+Wisdom
+Wisdom measures your character’s common sense,
+awareness, and intuition. Your Wisdom modifier is added
+to your Perception and Will saving throws.
+Charisma
+Charisma measures your character’s personal magnetism
+and strength of personality. A high Charisma score helps
+you influence the thoughts and moods of others.
+Introduction
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
+SPECIAL 1st
+FEATURE 1st
+FEAT 6th
+FEATURE 13th
+BACKGROUND
+FEAT 1st
+FEAT 1st
+FEAT 8th
+FEATURE 15th
+4th
+FEAT 9th
+FEATURE 3rd
+FEAT 10th
+FEATURE 17th
+8th
+16th
+11th
+HERITAGE 1st
+FEATURE 1st
+FEATURE 7th
+FEAT 14th
+2nd
+FEAT 2nd
+FEATURE 9th
+FEAT 16th
+6th
+14th
+7th
+FEAT 13th
+FEAT 4th
+FEATURE 11th
+FEAT 18th
+10th
+18th
+15th
+FEAT 17th
+FEATURE 5th
+FEAT 5th
+FEAT 12th
+FEATURE 19th
+FEAT 20th
+12th
+3rd
+20th
+19th
+READIED ITEMS
+OTHER ITEMS
+BULK
+BULK
+Ancestry Feats and Abilities
+Class Feats and Abilities
+Skill Feats
+General Feats
+Bonus Feats
+Inventory
+WORN ITEMS
+ENCUMBERED
+= 5
+MAXIMUM
+STR
+STR
+=
+BASE
+BASE
+BULK
+INVEST
+(MAX 10)
+Permission granted to photocopy for personal use only.
+CP
+SP
+GP
+PP
+BULK
+CharacterSheet.indd 581
+Hit Points
+Perception
+Skills
+Armor Class
+Saving Throws
+DECEPTION
+PERFORMANCE
+ATHLETICS
+NATURE
+INTIMIDATION
+SOCIETY
+SURVIVAL
+ARCANA
+ACROBATICS
+MEDICINE
+DIPLOMACY
+RELIGION
+CRAFTING
+OCCULTISM
+LORE
+STEALTH
+THIEVERY
+LORE
+RESISTANCES AND IMMUNITIES
+CONDITIONS
+PROF
+ITEM
+E
+L
+T
+M
+MAX HP
+BT
+ CURRENT HP
+REFLEX
+ITEM
+DEX
+PROF
+WILL
+ITEM
+WIS
+PROF
+E
+L
+T
+M
+E
+L
+T
+M
+E
+L
+T
+M
+E
+L
+T
+M
+FORTITUDE
+ITEM
+CON
+PROF
+ITEM
+WIS
+PROF
+DYING
+WOUNDED
+CURRENT
+TEMPORARY
+Languages
+Class DC
+DEX
+CAP
+OR
+DC BASE
+=
+E
+L
+T
+M
+ITEM
+KEY
+PROF
+Weapon Proficiencies
+E
+L
+T
+M
+SIMPLE
+E
+L
+T
+M
+OTHER
+E
+L
+T
+M
+OTHER
+E
+L
+T
+M
+MARTIAL
+DC BASE
+=
+STR
+MODIFIER
+STRENGTH
+SCORE
+DEX
+MODIFIER
+DEXTERITY
+SCORE
+CON
+MODIFIER
+CONSTITUTION
+SCORE
+INT
+MODIFIER
+INTELLIGENCE
+SCORE
+WIS
+MODIFIER
+WISDOM
+SCORE
+CHA
+MODIFIER
+CHARISMA
+SCORE
+Melee Strikes
+Weapon
+P
+S
+B
+PROF
+STR
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+STR
+W SPEC
+OTHER
+TRAITS
+Weapon
+P
+S
+B
+PROF
+STR
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+STR
+W SPEC
+OTHER
+TRAITS
+Weapon
+P
+S
+B
+PROF
+STR
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+STR
+W SPEC
+OTHER
+TRAITS
+Weapon
+P
+S
+B
+PROF
+DEX
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+SPECIAL
+W SPEC
+OTHER
+TRAITS
+Weapon
+P
+S
+B
+PROF
+DEX
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+SPECIAL
+W SPEC
+OTHER
+TRAITS
+Weapon
+P
+S
+B
+PROF
+DEX
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+SPECIAL
+W SPEC
+OTHER
+TRAITS
+Ranged Strikes
+SENSES
+NOTES
+speed
+feet
+MOVEMENT TYPES & NOTES
+UNARMORED
+E
+L
+T
+M
+MEDIUM
+E
+L
+T
+M
+LIGHT
+E
+L
+T
+M
+HEAVY
+E
+L
+T
+M
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+STR
+PROF
+ITEM
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+CHA
+PROF
+ITEM
+=
+E
+L
+T
+M
+CHA
+PROF
+ITEM
+=
+E
+L
+T
+M
+CHA
+PROF
+ITEM
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+WIS
+PROF
+ITEM
+=
+E
+L
+T
+M
+WIS
+PROF
+ITEM
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+CHA
+PROF
+ITEM
+=
+E
+L
+T
+M
+WIS
+PROF
+ITEM
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+WIS
+PROF
+ITEM
+=
+E
+L
+T
+M
+DEX
+PROF
+ITEM
+=
+E
+L
+T
+M
+DEX
+PROF
+ITEM
+=
+E
+L
+T
+M
+DEX
+PROF
+ITEM
+Ability Scores
+HARDNESS
+Permission granted to photocopy for personal use only.
+Character
+Sheet
+PROFICIENCY
+Untrained +0
+Trained 2+Level
+Expert 4+Level
+Master 6+Level
+Legendary 8+Level
+[one-action]
+ Single Action
+[two-actions]
+ Two-Action Activity
+[three-actions]
+ Three-Action Activity
+[free-action]
+ Free Action
+[reaction]
+ Reaction
+Player
+Name
+Experience
+Points (XP)
+Character
+Name
+Shield
+Ancestry and Heritage
+Background
+Class
+Size
+Alignment
+Traits
+Deity
+Level
+Hero Points
++
+=
+MAX
+AC
+ARMOR
+-
+ARMOR
+-
+ARMOR
+-
+ARMOR
+-
+
+================================================================================
+PAGE 21
+================================================================================
+
+Ability Score Overview
+Each ability score starts at 10, representing human
+average, but as you make character choices, you’ll adjust
+these scores by applying ability boosts, which increase a
+score, and ability flaws, which decrease a score. As you
+build your character, remember to apply ability score
+adjustments when making the following decisions.
+Ancestry: Each ancestry provides ability boosts, and
+sometimes an ability flaw. If you are taking any voluntary
+flaws, apply them in this step (see the sidebar on page 24).
+Background: Your character’s background provides two
+ability boosts.
+Class: Your character’s class provides an ability boost to
+the ability score most important to your class, called your
+key ability score.
+Determine Scores: After the other steps, you apply four
+more ability boosts of your choice. Then, determine your
+ability modifiers based on those scores.
+Ability Boosts
+An ability boost normally increases an ability score’s
+value by 2. However, if the ability score to which you’re
+applying an ability boost is already 18 or higher, its value
+increases by only 1. At 1st level, a character can never
+have any ability score that’s higher than 18.
+When your character receives an ability boost, the rules
+indicate whether it must be applied to a specific ability
+score or to one of two specific ability scores, or whether it
+is a “free” ability boost that can be applied to any ability
+score of your choice. However, when you gain multiple
+ability boosts at the same time, you must apply each one to
+a different score. Dwarves, for example, receive an ability
+boost to their Constitution score and their Wisdom score,
+as well as one free ability boost, which can be applied to
+any score other than Constitution or Wisdom.
+Ability Flaws
+Ability flaws are not nearly as common in Pathfinder as
+ability boosts. If your character has an ability flaw—likely
+from their ancestry—you decrease that ability score by 2.
+Ability Modifiers
+Once you’ve finalized your ability scores, you can use them
+to determine your ability modifiers, which are used in most
+other statistics in the game. Find the score in Table 1–1:
+Ability Modifiers to determine its ability modifier.
+TABLE 1–1: ABILITY MODIFIERS
+ Ability Score
+Modifier
+Ability Score Modifier
+
+–5
+14–15
++2
+
+2–3
+–4
+16–17
++3
+
+4–5
+–3
+18–19
++4
+
+6–7
+–2
+20–21
++5
+
+8–9
+–1
+22–23
++6
+
+10–11
++0
+24–25
++7
+
+12–13
++1
+etc...
+The standard method of generating ability scores that’s
+described above works great if you want to create a perfectly
+customized, balanced character. But your GM may decide to
+add a little randomness to character creation and let the dice
+decide what kind of character the players are going to play. In
+that case, you can use this alternative method to generate your
+ability scores. Be warned—the same randomness that makes
+this system fun also allows it to sometimes create characters
+that are significantly more (or less) powerful than the standard
+ability score system and other Pathfinder rules assume.
+If your GM opts for rolling ability scores, follow these
+alternative steps, ignoring all other instructions and guidelines
+about applying ability boosts and ability flaws throughout the
+character generation process.
+STEP 1: ROLL AND ASSIGN SCORES
+Roll four 6-sided dice (4d6) and discard the lowest die result.
+Add the three remaining results together and record the sum.
+(For example, if you rolled a 2, 4, 5, and 6, you would discard
+the 2 and your total would be 15.) Repeat this process until
+you’ve generated six such values. Decide which value you want
+for each of your ability scores.
+STEP 2: ASSIGN ABILITY BOOSTS AND
+ABILITY FLAWS
+Apply the ability boosts your character gains from their
+ancestry, but your character gets one fewer free ability
+boost than normal. If your character’s ancestry has any
+ability flaws, apply those next. Finally, apply one ability
+boost to one of the ability scores specified in the character’s
+background (you do not get the other free ability boost).
+These ability boosts cannot raise a score above 18. If this
+would happen, you can put the ability boost into another
+ability score instead, as if it were a free ability boost, or you
+can put it into an ability score of 17 to reach 18 and lose the
+excess increase.
+STEP 3: RECORD SCORES AND MODIFIERS
+Record the final scores and assign the ability modifiers
+according to Table 1–1. When your character receives
+additional ability boosts at higher levels, you assign them
+as any character would.
+ALTERNATIVE METHOD: ROLLING ABILITY SCORES
+Core Rulebook
+
+================================================================================
+PAGE 22
+================================================================================
+
+Step 1
+Create a Concept
+What sort of hero do you want to play? The answer to
+this question might be as simple as “a brave warrior,” or as
+complicated as “the child of elven wanderers, but raised in a
+city dominated by humans and devoted to Sarenrae, goddess
+of the sun.” Consider your character’s personality, sketch out
+a few details about their past, and think about how and why
+they adventure. You’ll want to peruse Pathfinder’s available
+ancestries, backgrounds, and classes. The summaries on
+pages 22–23 might help you match your concept with some
+of these basic rule elements. Before a game begins, it’s also
+a good idea for the players to discuss how their characters
+might know each other and how they’ll work together
+throughout the course of their adventures.
+There are many ways to approach your character concept.
+Once you have a good idea of the character you’d like to
+play, move on to Step 2 to start building your character.
+Ancestry, Background, Class, or Details
+If one of Pathfinder’s character ancestries, backgrounds,
+or classes particularly intrigues you, it’s easy to build a
+character concept around these options. The summaries of
+ancestries and classes on pages 22–23 give a brief overview
+of these options (full details appear in Chapters 2 and 3,
+respectively). Each ancestry also has several heritages that
+might refine your concept further, such as a human with an
+elf or orc parent, or an arctic or woodland elf. Additionally,
+the game has many backgrounds to choose from,
+representing your character’s upbringing, their family’s
+livelihood, or their earliest profession. Backgrounds are
+detailed later in Chapter 2, beginning on page 60.
+Building a character around a specific ancestry,
+background, or class can be a fun way to interact with the
+world’s lore. Would you like to build a typical member
+of your character’s ancestry or class, as described in the
+relevant entry, or would you prefer to play a character
+who defies commonly held notions about their people?
+For example, you could play a dwarf with a wide-eyed
+sense of wonder and a zest for change, or a performing
+rogue capable of amazing acrobatic feats but with little
+interest in sneaking about.
+You can draw your concept from any aspect of a
+character’s details. You can use roleplaying to challenge
+not only the norms of Pathfinder’s fictional world, but
+even real-life societal norms. Your character might
+challenge gender notions, explore cultural identity, have a
+disability, or any combination of these suggestions. Your
+character can live any life you see fit.
+Faith
+Perhaps you’d like to play a character who is a devout
+follower of a specific deity. Pathfinder is a rich world with
+myriad faiths and philosophies spanning a wide range,
+from Cayden Cailean, the Drunken Hero of good-hearted
+adventuring; to Desna, the Song of Spheres and goddess of
+dreaming and the stars; to Iomedae, the Inheritor, goddess
+of honor, justice, and rulership. Pathfinder’s major deities
+appear on pages 437–440. Your character might be so
+drawn to a particular faith that you decide they should be a
+champion or cleric of that deity; they might instead be a lay
+worshipper who applies their faith’s teachings to daily life,
+or simply the child of devout parents.
+Your Allies
+You might want to coordinate with other players when
+forming your character concept. Your characters could
+have something in common already; perhaps they are
+relatives, or travelers from the same village. You might
+discuss mechanical aspects with the other players, creating
+characters whose combat abilities complement each
+other. In the latter case, it can be helpful for a party to
+include characters who deal damage, characters who can
+absorb damage, and characters who can provide healing.
+However, Pathfinder’s classes include a lot of choices, and
+there are many options for building each type of character,
+so don’t let these broad categories restrict your decisions.
+CHARACTER SHEET
+Once you’ve developed your character’s concept, jot down
+a few sentences summarizing your ideas under the Notes
+section on the third page of your character sheet. Record
+any of the details you’ve already decided, such as your
+character’s name, on the appropriate lines on the first page.
+ANCESTRIES AND CLASSES
+Each player takes a different approach to creating a
+character. Some want a character who will fit well into the
+story, while others look for a combination of abilities that
+complement each other mechanically. You might combine
+these two approaches. There is no wrong way!
+When you turn the page, you’ll see a graphical
+representation of ancestries and classes that provide at-aglance information for players looking to make the most of
+their starting ability scores. In the ancestries overview on
+page 22, each entry lists which ability scores it boosts, and
+also indicates any ability flaws the ancestry might have.
+You can find more about ability boosts and ability flaws in
+Ability Scores on page 20.
+The summaries of the classes on pages 22–23 list each
+class’s key ability score—the ability score used to calculate
+the potency of many of their class abilities. Characters
+receive an ability boost in that ability score when you choose
+their class. This summary also lists one or more secondary
+ability scores important to members of that class.
+Keep in mind a character’s background also affects their
+ability scores, though there’s more flexibility in the ability
+boosts from backgrounds than in those from classes. For
+descriptions of the available backgrounds, see pages 60–64.
+Introduction
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
+
+================================================================================
+PAGE 23
+================================================================================
+
+Ancestries
+DWARF
+ELF
+GNOME
+GOBLIN
+HALFLING
+HUMAN
+Dwarves are a
+short, stocky
+people who are
+often stubborn,
+fierce, and devoted.
+Elves are a tall,
+slender, long-lived
+people with a
+strong tradition of
+art and magic.
+Gnomes are
+short and hardy
+folk, with an
+unquenchable
+curiosity and
+eccentric habits.
+Goblins are a
+short, scrappy,
+energetic people
+who have spent
+millennia maligned
+and feared.
+Halflings are a
+short, adaptable
+people who
+exhibit remarkable
+curiosity and
+humor.
+Humans are
+incredibly diverse.
+Some, such as
+half-elves and
+half-orcs, even
+have non-human
+ancestors.
+Ability Boosts
+Constitution,
+Wisdom, free
+Dexterity,
+Intelligence, free
+Constitution,
+Charisma, free
+Dexterity,
+Charisma, free
+Dexterity,
+Wisdom, free
+Two free ability
+boosts
+Ability flaw
+Charisma
+Constitution
+Strength
+Wisdom
+Strength
+—
+Classes
+ALCHEMIST
+BARBARIAN
+BARD
+CHAMPION
+The alchemist throws
+alchemical bombs and
+drinks concoctions of their
+own making.
+The barbarian flies into
+a rage on the battlefield,
+smashing foes with abandon.
+Skilled performances and
+secrets of the occult enable
+the bard to distract foes and
+inspire allies.
+A warrior dedicated to a
+deity, the champion uses
+divine power to enhance their
+abilities and protect allies.
+Key Ability Score*
+Intelligence
+Strength
+Charisma
+Strength
+Secondary Ability Scores
+Constitution, Dexterity
+Constitution, Dexterity
+Constitution, Dexterity
+Charisma, Constitution
+Core Rulebook
+
+================================================================================
+PAGE 24
+================================================================================
+
+Classes
+CLERIC
+DRUID
+FIGHTER
+MONK
+The cleric calls on the power
+of a deity to cast spells that
+can heal allies or harm foes.
+The druid uses the magic of
+the natural world to bolster
+allies and strike down enemies.
+The fighter is a master
+of weapons, martial
+techniques, and powerful
+attack combinations.
+The monk wields the
+secrets of martial arts
+in dazzling displays of
+battlefield prowess.
+Key Ability Score*
+Wisdom
+Wisdom
+Dexterity or Strength
+Dexterity or Strength
+Secondary Ability Scores
+Charisma, Constitution
+Constitution, Dexterity
+Constitution
+Constitution, Wisdom
+Classes
+RANGER
+ROGUE
+SORCERER
+WIZARD
+The ranger is a master of
+using their surroundings,
+traps, and animal allies to
+harry enemies.
+The rogue is a multitalented
+master of skulduggery who
+strikes when enemies least
+expect it.
+The sorcerer’s magical might
+flows from their blood and
+manifests as fantastic spells
+and abilities.
+The wizard is a scholar
+whose reservoirs of arcane
+knowledge powers their
+wondrous spells and abilities.
+Key Ability Score*
+Dexterity or Strength
+Dexterity or other
+Charisma
+Intelligence
+Secondary Ability Scores
+Constitution, Wisdom
+Charisma, Constitution
+Dexterity, Constitution
+Dexterity, Constitution
+* A character receives an ability boost to their class’s key ability score.
+Introduction
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
+
+================================================================================
+PAGE 25
+================================================================================
+
+Speed, and languages, and contributes to their Hit Points.
+Each also grants ability boosts and ability flaws to represent
+the ancestry’s basic capabilities.
+You’ll make four decisions when you select your
+character’s ancestry:
+• Pick the ancestry itself.
+• Assign any free ability boosts and decide if you are
+taking any voluntary flaws.
+• Select a heritage from those available within that
+ancestry, further defining the traits your character
+was born with.
+• Choose an ancestry feat, representing an ability your
+hero learned at an early age.
+CHARACTER SHEET
+Write your character’s ancestry and heritage in the
+appropriate space at the top of your character sheet’s first
+page. Adjust your ability scores, adding 2 to an ability
+score if you gained an ability boost from your ancestry, and
+subtracting 2 from an ability score if you gained an ability
+flaw from your ancestry. Note the number of Hit Points your
+character gains from their ancestry—you’ll add more to this
+number later. Finally, in the appropriate spaces, record your
+character’s size, Speed, and languages. If your character’s
+ancestry provides them with special abilities, write them
+in the appropriate spaces, such as darkvision in the Senses
+Step 2
+Start Building
+Ability Scores
+At this point, you need to start building your character’s
+ability scores. See the overview of ability scores on pages
+19–20 for more information about these important
+aspects of your character and an overview of the process.
+Your character’s ability scores each start at 10, and as
+you select your ancestry, background, and class, you’ll apply
+ability boosts, which increase a score by 2, and ability flaws,
+which decrease a score by 2. At this point, just note a 10 in
+each ability score and familiarize yourself with the rules for
+ability boosts and flaws on page 20. This is also a good time
+to identify which ability scores will be most important to
+your character. See The Six Ability Scores on page 19 and
+the class summaries on pages 22–23 for more information.
+Step 3
+Select an Ancestry
+Select an ancestry for your character. The ancestry
+summaries on page 22 provide an overview of Pathfinder’s
+core ancestry options, and each is fully detailed in
+Chapter 2. Ancestry determines your character’s size,
+Hit Points
+Perception
+Skills
+Armor Class
+Saving Throws
+DECEPTION
+PERFORMANCE
+ATHLETICS
+NATURE
+INTIMIDATION
+SOCIETY
+SURVIVAL
+ARCANA
+ACROBATICS
+MEDICINE
+DIPLOMACY
+RELIGION
+CRAFTING
+OCCULTISM
+LORE
+STEALTH
+THIEVERY
+LORE
+RESISTANCES AND IMMUNITIES
+CONDITIONS
+PROF
+ITEM
+E
+L
+T
+M
+MAX HP
+BT
+ CURRENT HP
+REFLEX
+ITEM
+DEX
+PROF
+WILL
+ITEM
+WIS
+PROF
+E
+L
+T
+M
+E
+L
+T
+M
+E
+L
+T
+M
+E
+L
+T
+M
+FORTITUDE
+ITEM
+CON
+PROF
+ITEM
+WIS
+PROF
+DYING
+WOUNDED
+CURRENT
+TEMPORARY
+Languages
+Class DC
+DEX
+CAP
+OR
+DC BASE
+=
+E
+L
+T
+M
+ITEM
+KEY
+PROF
+Weapon Proficiencies
+E
+L
+T
+M
+SIMPLE
+E
+L
+T
+M
+OTHER
+E
+L
+T
+M
+OTHER
+E
+L
+T
+M
+MARTIAL
+DC BASE
+=
+STR
+MODIFIER
+STRENGTH
+SCORE
+DEX
+MODIFIER
+DEXTERITY
+SCORE
+CON
+MODIFIER
+CONSTITUTION
+SCORE
+INT
+MODIFIER
+INTELLIGENCE
+SCORE
+WIS
+MODIFIER
+WISDOM
+SCORE
+CHA
+MODIFIER
+CHARISMA
+SCORE
+Melee Strikes
+Weapon
+P
+S
+B
+PROF
+STR
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+STR
+W SPEC
+OTHER
+TRAITS
+Weapon
+P
+S
+B
+PROF
+STR
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+STR
+W SPEC
+OTHER
+TRAITS
+Weapon
+P
+S
+B
+PROF
+STR
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+STR
+W SPEC
+OTHER
+TRAITS
+Weapon
+P
+S
+B
+PROF
+DEX
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+SPECIAL
+W SPEC
+OTHER
+TRAITS
+Weapon
+P
+S
+B
+PROF
+DEX
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+SPECIAL
+W SPEC
+OTHER
+TRAITS
+Weapon
+P
+S
+B
+PROF
+DEX
+=
+E
+L
+T
+M
+ITEM
+Damage
+DICE
+SPECIAL
+W SPEC
+OTHER
+TRAITS
+Ranged Strikes
+SENSES
+NOTES
+speed
+feet
+MOVEMENT TYPES & NOTES
+UNARMORED
+E
+L
+T
+M
+MEDIUM
+E
+L
+T
+M
+LIGHT
+E
+L
+T
+M
+HEAVY
+E
+L
+T
+M
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+STR
+PROF
+ITEM
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+CHA
+PROF
+ITEM
+=
+E
+L
+T
+M
+CHA
+PROF
+ITEM
+=
+E
+L
+T
+M
+CHA
+PROF
+ITEM
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+WIS
+PROF
+ITEM
+=
+E
+L
+T
+M
+WIS
+PROF
+ITEM
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+CHA
+PROF
+ITEM
+=
+E
+L
+T
+M
+WIS
+PROF
+ITEM
+=
+E
+L
+T
+M
+INT
+PROF
+ITEM
+=
+E
+L
+T
+M
+WIS
+PROF
+ITEM
+=
+E
+L
+T
+M
+DEX
+PROF
+ITEM
+=
+E
+L
+T
+M
+DEX
+PROF
+ITEM
+=
+E
+L
+T
+M
+DEX
+PROF
+ITEM
+Ability Scores
+HARDNESS
+Permission granted to photocopy for personal use only
+Character
+Sheet
+PROFICIENCY
+Untrained +0
+Trained 2+Level
+Expert 4+Level
+Master 6+Level
+Legendary 8+Level
+[one-action]
+ Single Action
+[two-actions]
+ Two-Action Activity
+[three-actions]
+ Three-Action Activity
+[free-action]
+ Free Action
+[reaction]
+ Reaction
+Player
+Name
+Experience
+Points (XP)
+Character
+Name
+Shield
+Ancestry and Heritage
+Background
+Class
+Size
+Alignment
+Traits
+Deity
+Level
+Hero Points
++
+=
+MAX
+AC
+ARMOR
+-
+ARMOR
+-
+ARMOR
+-
+ARMOR
+-
+Core Rulebook
+
+================================================================================
+PAGE 26
+================================================================================
+
+SPECIAL 1st
+FEATURE 1st
+FEAT 6th
+FEATURE 13th
+BACKGROUND
+FEAT 1st
+FEAT 1st
+FEAT 8th
+FEATURE 15th
+4th
+FEAT 9th
+FEATURE 3rd
+FEAT 10th
+FEATURE 17th
+8th
+16th
+11th
+HERITAGE 1st
+FEATURE 1st
+FEATURE 7th
+FEAT 14th
+2nd
+FEAT 2nd
+FEATURE 9th
+FEAT 16th
+6th
+14th
+7th
+FEAT 13th
+FEAT 4th
+FEATURE 11th
+FEAT 18th
+10th
+18th
+15th
+FEAT 17th
+FEATURE 5th
+FEAT 5th
+FEAT 12th
+FEATURE 19th
+FEAT 20th
+12th
+3rd
+20th
+19th
+READIED ITEMS
+OTHER ITEMS
+BULK
+BULK
+Ancestry Feats and Abilities
+Class Feats and Abilities
+Skill Feats
+General Feats
+Bonus Feats
+Inventory
+WORN ITEMS
+ENCUMBERED
+= 5
+MAXIMUM
+STR
+STR
+=
+BASE
+BASE
+BULK
+INVEST
+(MAX 10)
+Permission granted to photocopy for personal use only
+CP
+SP
+GP
+PP
+BULK
+section on the first page and innate spells on the fourth
+page. Write the ancestry feat you selected in the Ancestry
+Feat section on your character sheet’s second page.
+Step 4
+Pick a Background
+Your character’s background might represent their
+upbringing, an aptitude they’ve been honing since their
+youth, or another aspect of their life before they became an
+adventurer. Character backgrounds appear in Chapter 2,
+starting on page 60. They typically provide two ability
+boosts (one that can be applied to either of two specific
+ability scores, and one that is free), training in a specific
+skill, training in a Lore skill, and a specific skill feat.
+CHARACTER SHEET
+Record your character’s background in the space at the
+top of the first page of your character sheet. Adjust
+your ability scores, adding 2 to an ability score if you
+gained an ability boost from your background. Record
+the skill feat the background provides in the Skill Feat
+section of your character sheet’s second page. On the
+first page, check the “T” box next to the name of the
+specific skill and for one Lore skill to indicate your
+character is trained, then write the name of the Lore
+skill granted by your background.
+Step 5
+Choose a Class
+At this point, you need to decide your character’s class.
+A class gives your character access to a suite of heroic
+abilities, determines how effectively they fight, and
+governs how easily they can shake off or avoid certain
+harmful effects. Each class is fully detailed in Chapter 3,
+but the summaries on pages 22–23 provide an overview
+of each and tells you which ability scores are important
+when playing that class.
+You don’t need to write down all of your character’s
+class features yet. You simply need to know which class
+you want to play, which determines the ability scores that
+will be most important for your character.
+CHARACTER SHEET
+Write your character’s class in the space at the top of the
+first page of your character sheet, then write “1” in the
+Level box to indicate that your character is 1st level. Next
+to the ability scores, note the class’s key ability score,
+and add 2 to that ability score from the ability boost the
+Introduction
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
+
+================================================================================
+PAGE 27
+================================================================================
+
+OPTIONAL:
+VOLUNTARY FLAWS
+Sometimes, it’s fun to play a
+character with a major flaw even
+if you’re not playing an ancestry
+that imposes one. You can elect
+to take two additional ability
+flaws when applying the ability
+boosts and ability flaws from
+your ancestry. If you do, you can
+also apply one additional free
+ability boost. These ability flaws
+can be assigned to any ability
+score you like, but you can’t apply
+more than one ability flaw to the
+same ability score during this
+step unless you apply both of the
+additional ability flaws to a score
+that is already receiving an ability
+boost during this step. In this
+case, the first ability flaw cancels
+the ability boost, and the second
+ability flaw decreases the score
+by 2. Likewise, as an exception
+to the normal rules for ability
+boosts, you can apply two free
+ability boosts to an ability score
+receiving an ability flaw during
+this step; the first ability boost
+cancels the ability flaw, and the
+second ability boost increases the
+score by 2. For example, a dwarf
+normally gets an ability boost to
+Constitution and Wisdom, along
+with an ability flaw to Charisma.
+You could apply one ability flaw
+each to Intelligence and Strength,
+or you could apply both ability
+flaws to Wisdom. You could not
+apply either additional ability flaw
+to Charisma, though, because it is
+already receiving dwarves’ ability
+flaw during this step.
+class provides. Don’t worry about recording the rest of your character’s class features
+and abilities yet—you’ll handle that in Step 7.
+Step 6
+Determine Ability Scores
+Now that you’ve made the main mechanical choices about your character, it’s time
+to finalize their ability scores. Do these three things:
+• First, make sure you’ve applied all the ability boosts and ability flaws you’ve
+noted in previous steps (from your ancestry, background, and class).
+• Then, apply four more ability boosts to your character’s ability scores,
+choosing a different ability score for each and increasing that ability score
+by 2.
+• Finally, record your starting ability scores and ability modifiers, as determined
+using Table 1–1: Ability Modifiers.
+Remember that each ability boost adds 2 to the base score of 10, and each ability
+flaw subtracts 2. You should have no ability score lower than 8 or higher than 18.
+CHARACTER SHEET
+Write your character’s starting ability scores in the box provided for each. Record
+the ability modifier for each ability score in the box to the left of the ability’s name.
+Step 7
+Record Class Details
+Now, record all the benefits and class features that your character receives from the
+class you’ve chosen. While you’ve already noted your key ability score, you’ll want to
+be sure to record the following class features.
+• To determine your character’s total starting Hit Points, add together the
+number of Hit Points your character gains from their ancestry (chosen in
+Step 2) and the number of Hit Points they gain from their class.
+• The Initial Proficiencies section of your class entry indicates your character’s
+starting proficiency ranks in a number of areas. Choose which skills your
+character is trained in and record those, along with the ones set by your class. If
+your class would make you trained in a skill you’re already trained in (typically
+due to your background), you can select another skill to become trained in.
+• See the class advancement table in your class entry to learn the class features
+your character gains at 1st level—but remember, you already chose an
+ancestry and background. Some class features require you to make additional
+choices, such as selecting spells.
+CHARACTER SHEET
+Write your character’s total Hit Points on the first page of your character sheet. Use
+the proficiency fields (the boxes marked “T,” “E,” “M,” and “L”) on your character sheet to
+record your character’s initial proficiencies in Perception, saving throws, and the skills
+granted by their class; mark “T” if your character is trained, or “E” if your character is
+expert. Indicate which additional skills you chose for your character to be trained in
+by marking the “T” proficiency box for each skill you selected. Likewise, record your
+character’s their armor proficiencies in the Armor Class section at the top of the first
+page and their weapon proficiencies at the bottom of the first page. Record all other
+class feats and abilities on the second page. Don’t worry yet about finalizing any values
+for your character’s statistics—you’ll handle that in Step 9.
+Core Rulebook
+
+================================================================================
+PAGE 28
+================================================================================
+
+SPELLS AND
+SPELLCASTING
+Most classes can learn to cast a
+few focus spells, but the bard,
+cleric, druid, sorcerer, and wizard
+all gain spellcasting—the ability
+to cast a wide variety of spells.
+If your character’s class grants
+spells, you should take time
+during Step 7 to learn about the
+spells they know and how to
+cast them. The fourth page of the
+character sheet provides space
+to note your character’s magic
+tradition and their proficiency
+rank for spell attack rolls and
+spell DCs. It also gives ample
+space to record the spells in
+your character’s repertoire or
+spellbook, or that you prepare
+frequently. Each class determines
+which spells a character can
+cast, how they are cast, and how
+many they can cast in a day,
+but the spells themselves and
+detailed rules for spellcasting are
+located in Chapter 7.
+Step 8
+Buy Equipment
+At 1st level, your character has 15 gold pieces (150 silver pieces) to spend on
+armor, weapons, and other basic equipment. Your character’s class lists the types
+of weapons and armor with which they are trained (or better!). Their weapons
+determine how much damage they deal in combat, and their armor influences their
+Armor Class; these calculations are covered in more detail in Step 10. Don’t forget
+essentials such as food and traveling gear! For more on the available equipment and
+how much it costs, see Chapter 6.
+CHARACTER SHEET
+Once you’ve spent your character’s starting wealth, calculate any remaining gp, sp,
+and cp they might still have and write those amounts in Inventory on the second
+page. Record your character’s weapons in the Melee Strikes and Ranged Strikes
+sections of the first page, depending on the weapon, and the rest of their equipment
+in the Inventory section on your character sheet’s second page. You’ll calculate
+specific numbers for melee Strikes and ranged Strikes with the weapons in Step 9
+and for AC when wearing that armor in Step 10.
+Step 9
+Calculate Modifiers
+With most of the big decisions for your character made, it’s time to calculate the
+modifiers for each of the following statistics. If your proficiency rank for a statistic is
+trained, expert, master, and legendary, your bonus equals your character’s level plus
+another number based on the rank (2, 4, 6, and 8, respectively). If your character is
+untrained, your proficiency bonus is +0.
+Perception
+Your character’s Perception modifier measures how alert they are. This modifier is
+equal to their proficiency bonus in Perception plus their Wisdom modifier. For more
+about Perception, see page 448.
+Saving Throws
+For each kind of saving throw, add your character’s Fortitude, Reflex, or Will
+proficiency bonus (as appropriate) plus the ability modifier associated with that
+kind of saving throw. For Fortitude saving throws, use your character’s Constitution
+modifier. For Reflex saving throws, use your character’s Dexterity modifier. For Will
+saving throws, use your character’s Wisdom modifier. Then add in any bonuses or
+penalties from abilities, feats, or items that always apply (but not modifiers, bonuses,
+or penalties that apply only in certain situations). Record this number on the line for
+that saving throw.
+Melee Strikes and Ranged Strikes
+Next to where you’ve written your character’s melee and ranged weapons, calculate
+the modifier to Strike with each weapon and how much damage that Strike deals. The
+modifier for a Strike is equal to your character’s proficiency bonus with the weapon plus
+an ability modifier (usually Strength for melee Strikes and Dexterity for ranged Strikes).
+You also add any item bonus from the weapon and any other permanent bonuses or
+penalties. You also need to calculate how much damage each weapon’s Strike deals.
+Melee weapons usually add your character’s Strength modifier to damage rolls, while
+ranged weapons might add some or all of your character’s Strength modifier, depending
+on the weapon’s traits. See the weapon entries in Chapter 6 for more information.
+Introduction
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
+
+================================================================================
+PAGE 29
+================================================================================
+
+Skills
+In the second box to the right of each skill name on your
+character sheet, there’s an abbreviation that reminds you
+of the ability score tied to that skill. For each skill in which
+your character is trained, add your proficiency bonus for
+that skill (typically +3 for a 1st-level character) to the
+indicated ability’s modifier, as well as any other applicable
+bonuses and penalties, to determine the total modifier for
+that skill. For skills your character is untrained in, use the
+same method, but your proficiency bonus is +0.
+CHARACTER SHEET
+For Perception and saving throws, write your proficiency
+bonus and the appropriate ability modifier in the boxes
+provided, then record the total modifier in the large space.
+Record the proficiency bonuses, ability modifiers, and total
+modifiers for your melee Strikes and ranged Strikes in the
+box after the name of each weapon, and put the damage
+for each in the space below, along with the traits for that
+attack. For skills, record the relevant ability modifier and
+proficiency bonus in the appropriate box for each skill, and
+then write the total skill modifiers in the spaces to the left.
+If your character has any modifiers, bonuses, or
+penalties from feats or abilities that always apply, add
+them into the total modifiers. For ones that apply only in
+certain situations, note them next to the total modifiers.
+10 Step 10
+Finishing Details
+Now add the following details to your character sheet in
+the appropriate spaces.
+Alignment
+Your character’s alignment is an indicator of their
+morality and personality. There are nine possible
+alignments in Pathfinder, as shown on Table 1–2: The
+Nine Alignments. If your alignment has any components
+other than neutral, your character gains the traits of those
+alignment components. This might affect the way various
+spells, items, and creatures interact with your character.
+Your character’s alignment is measured by two pairs of
+opposed values: the axis of good and evil and the axis of
+law and chaos. A character who isn’t committed strongly
+to either side is neutral on that axis. Keep in mind that
+alignment is a complicated subject, and even acts that might
+be considered good can be used for nefarious purposes, and
+vice versa. The GM is the arbiter of questions about how
+specific actions might affect your character’s alignment.
+If you play a champion, your character’s alignment
+must be one allowed for their deity and cause
+(pages 437–440 and 106–107), and if you play a cleric,
+your character’s alignment must be one allowed for their
+deity (pages 437–440).
+Core Rulebook
+
+================================================================================
+PAGE 30
+================================================================================
+
+Good and Evil
+Your character has a good alignment if they consider the
+happiness of others above their own and work selflessly to
+assist others, even those who aren’t friends and family. They
+are also good if they value protecting others from harm,
+even if doing so puts the character in danger. Your character
+has an evil alignment if they’re willing to victimize others
+for their own selfish gain, and even more so if they enjoy
+inflicting harm. If your character falls somewhere in the
+middle, they’re likely neutral on this axis.
+Law and Chaos
+Your character has a lawful alignment if they value
+consistency, stability, and predictability over flexibility.
+Lawful characters have a set system in life, whether it’s
+meticulously planning day-to-day activities, carefully
+following a set of official or unofficial laws, or strictly
+adhering to a code of honor. On the other hand, if your
+character values flexibility, creativity, and spontaneity over
+consistency, they have a chaotic alignment—though this
+doesn’t mean they make decisions by choosing randomly.
+Chaotic characters believe that lawful characters are too
+inflexible to judge each situation by its own merits or take
+advantage of opportunities, while lawful characters believe
+that chaotic characters are irresponsible and flighty.
+Many characters are in the middle, obeying the law
+or following a code of conduct in many situations, but
+bending the rules when the situation requires it. If your
+character is in the middle, they are neutral on this axis.
+Changing Alignment
+Alignment can change during play as a character’s beliefs
+change, or as you realize that your character’s actions
+reflect a different alignment than the one on your character
+sheet. In most cases, you can just change their alignment
+and continue playing. However, if you play a cleric or
+champion and your character’s alignment changes to one
+not allowed for their deity (or cause, for champions), your
+character loses some of their class abilities until they atone
+(as described in the class).
+Deity
+Write down the deity your character worships, if any.
+Champions and clerics must worship a deity. See pages
+437–440 for more about Pathfinder’s deities.
+Age
+Decide your character’s age and note it on the third page
+of the character sheet. The description for your character’s
+ancestry in Chapter 2 gives some guidance on the age
+ranges of members of that ancestry. Beyond that, you can
+play a character of whatever age you like. There aren’t
+any mechanical adjustments to your character for being
+particularly old, but you might want to take it into account
+when considering your starting ability scores and future
+advancement. Particularly young characters can change
+the tone of some of the game’s threats, so it’s recommended
+that characters are at least young adults.
+Gender and Pronouns
+Characters of all genders are equally likely to become
+adventurers. Record your character’s gender, if applicable,
+and their pronouns on the third page of the character sheet.
+Class DC
+A class DC sets the difficulty for certain abilities granted
+by your character’s class. This DC equals 10 plus their
+proficiency bonus for their class DC (+3 for most 1st-level
+characters) plus the modifier for the class’s key ability score.
+Hero Points
+Your character usually begins each game session with
+1 Hero Point, and you can gain additional Hero Points
+during sessions by performing heroic deeds or devising
+clever strategies. Your character can use Hero Points to
+gain certain benefits, such as staving off death or rerolling
+a d20. See page 467 for more about Hero Points.
+Armor Class (AC)
+Your character’s Armor Class represents how difficult they
+are to hit in combat. To calculate your AC, add 10 plus
+your character’s Dexterity modifier (up to their armor’s
+Dexterity modifier cap; page 274), plus their proficiency
+bonus with their armor, plus their armor’s item bonus to
+AC and any other permanent bonuses and penalties.
+Bulk
+Your character’s maximum Bulk determines how much
+weight they can comfortably carry. If they’re carrying a total
+amount of Bulk that exceeds 5 plus their Strength modifier,
+they are encumbered. A character can’t carry a total amount
+of Bulk that exceeds 10 plus their Strength modifier. The
+Bulk your character is carrying equals the sum of all of their
+items; keep in mind that 10 light items make up 1 Bulk. You
+can find out more about Bulk in Chapter 6: Equipment.
+TABLE 1–2: THE NINE ALIGNMENTS
+Good
+Neutral
+Evil
+Lawful
+Lawful
+Good
+(LG)
+Lawful
+Neutral
+(LN)
+Lawful
+Evil
+(LE)
+Neutral
+Neutral
+Good
+(NG)
+True
+Neutral
+(N)
+Neutral
+Evil
+(NE)
+Chaotic
+Chaotic
+Good
+(CG)
+Chaotic
+Neutral
+(CN)
+Chaotic
+Evil
+(CE)
+Introduction
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
+
+================================================================================
+PAGE 31
+================================================================================
+
+Sample Character
+This step-by-step example illustrates the process of
+creating a Pathfinder character.
+Steps 1 and 2
+Adam is making his first Pathfinder character. After
+talking about it with the rest of the group, he’s decided to
+make a dwarven druid. After jotting down a few ideas, he
+begins by writing down a 10 for each ability score.
+Step 3
+Adam looks up the dwarf entry in Chapter 2. He records
+the ability boosts to his Constitution and Wisdom scores
+(bringing both up to 12). He also applies the ability flaw
+to his Charisma, dropping it to 8. For his free ability
+boost, he chooses Dexterity to boost his defenses, raising
+it to 12 as well. He also records the 10 Hit Points the
+ancestry gives him. Next, he returns to his character
+sheet to record the size, Speed, language, and darkvision
+ability he gets from being a dwarf. Finally, he decides on
+a heritage, writing “rock dwarf” next to dwarf, and he
+picks an ancestry feat, deciding on Rock Runner, to show
+his character’s strong connection to stone.
+Step 4
+Looking through the backgrounds, Adam likes the idea
+of a solitary dwarven druid, and the nomad background
+makes for a good choice. For the first ability boost
+granted by the background, Adam chooses Wisdom, and
+for the free ability boost, he choses Constitution, taking
+both up to 14. On the second page, he writes “Assurance
+(Survival)” in the Skill Feats area, on the Background line.
+Finally, returning to the first page, he writes “cave” next
+to the first Lore skill entry and checks the box under the
+“T” for that skill and Survival.
+Step 5
+Adam writes “druid” on the class line of his character sheet
+and fills in the number 1 in the level box. The druid class
+grants an ability boost to its key ability score, which is
+Wisdom, so Adam’s character has his Wisdom raised to 16.
+Step 6
+Adam applies four more ability boosts to his ability
+scores to determine his starting scores. After giving it
+some thought, he applies them to Wisdom (raising it
+to 18), since that’s the most important ability score for
+his class, and to Strength, Dexterity, and Constitution
+(raising them to 12, 14, and 16, respectively) to make him
+better in combat. He then looks at Table 1–1 to determine
+the ability modifiers for each score and writes all of his
+ability scores and modifiers down on his character sheet.
+Step 7
+As Adam applies his class, he has a number of things to
+figure out. First, he starts by recording all of his initial
+proficiencies, marking the appropriate boxes in the
+Armor Class, Saving Throws, Weapon Proficiencies, Spell
+Attack Roll, and Spell DCs areas of his sheet. Turning to
+skills, he marks Nature as trained and notes that once he
+picks his druid order, he’ll become trained in another skill
+determined by that order. He then gets to choose three
+more skills (if he had a higher Intelligence, he would have
+gotten more). He decides on Athletics, Diplomacy, and
+Medicine, marking all of them as trained. Next, he adds
+the 8 Hit Points from the druid class and his Constitution
+modifier of +3 to the 10 Hit Points from his dwarf
+ancestry for an impressive 21 total Hit Points.
+Moving on to class features, Adam marks down wild
+empathy in the class feats and abilities area, as well as the
+Shield Block feat in the bonus feats area. He makes note of
+the anathema for being a druid and records Druidic in his
+language section. Next, he looks through the druid orders
+and decides upon the wild order, which gives him his final
+trained skill (Intimidation), the ability to cast wild morph,
+as well as the Wild Shape feat, which lets him cast a spell
+to turn into an animal. He writes these spells in the focus
+spell area of his character sheet and also notes that he has
+1 Focus Point to use to cast these spells.
+Finally, a druid can cast a limited number of primal
+spells. Although he can change them every morning, Adam
+is curious, and he turns to Chapter 7: Spells to decide
+what spells he might cast. He jots down five cantrips and
+two 1st-level spells and marks them as prepared.
+Step 8
+Next up, Adam turns to Chapter 6: Equipment. He’s
+trained in medium armor, but since wearing metal armor is
+anathema to druids, he chooses hide armor. For weapons,
+he decides on a spear, but he buys two just in case he wants
+to throw the first one. He writes all of these on the front of
+his character sheet. Adam lists the spear under both melee
+Strikes and ranged Strikes, and he also writes the claws he
+gains from wild morph under his melee Strikes, because
+he’s sure that he’ll be casting that spell a lot. He records the
+rest of his gear in the Inventory section on the second page,
+along with coin left over after buying his starting gear.
+Step 9
+Adam records all of the ability modifiers for Perception,
+saving throws, Strikes, and skills. He then puts a “+3” in
+the box marked Prof to indicate his proficiency bonus
+for each statistic he’s trained in (1 for his level, plus 2 for
+being trained) and "+5" in any that he is an expert. Then,
+he adds up his modifiers for each statistic.
+Step 10
+Finally, Adam fills out the final details of his character,
+noting his neutral alignment and calculating his AC and
+Bulk limits. Last but not least, he fills in some last-minute
+information about his character and decides on a name.
+Gar the dwarf druid is ready for his first adventure!
+Core Rulebook
+
+================================================================================
+PAGE 32
+================================================================================
+
+Leveling Up
+The world of Pathfinder is a dangerous place, and your
+character will face terrifying beasts and deadly traps on
+their journey into legend. With each challenge resolved,
+a character earns Experience Points (XP) that allow
+them to increase in level. Each level grants greater skill,
+increased resiliency, and new capabilities, allowing your
+character to face even greater challenges and go on to
+earn even more impressive rewards.
+Each time your character reaches 1,000 Experience
+Points, their level increases by 1. On your character
+sheet, indicate your character’s new level beside the
+name of their class, and deduct 1,000 XP from their XP
+total. If you have any Experience Points left after this,
+record them—they count toward your next level, so your
+character is already on their way to advancing yet again!
+Next, return to your character’s class entry. Increase
+your character’s total Hit Points by the number indicated
+for your class. Then, take a look at the class advancement
+table and find the row for your character’s new level.
+Your character gains all the abilities listed for that
+level, including new abilities specific to your class and
+additional benefits all characters gain as they level up.
+For example, all characters gain four ability boosts at 5th
+level and every 5 levels thereafter.
+You can find all the new abilities specific to your class,
+including class feats, right in your class entry, though you
+can also use class feats to take an archetype (page 219).
+Your character’s class entry also explains how to apply
+any ability boosts and skill increases your character gains.
+If they gain an ancestry feat, head back to the entry for
+your character’s ancestry in Chapter 2 and select another
+ancestry feat from the list of options. If they gain a skill
+increase, refer to Chapter 4 when deciding which skill
+to apply it to. If they gain a general feat or a skill feat,
+you can choose from the feats listed in Chapter 5. If they
+can cast spells, see the class entry for details on adding
+spell slots and spells. It’s also a good idea to review
+your character’s spells in Chapter 7 and see if there are
+heightened versions they can now cast.
+Once you’ve made all your choices for your
+character’s new level, be sure to go over your character
+sheet and adjust any values that have changed. At a bare
+minimum, your proficiency bonuses all increase by 1
+because you’ve gained a level, so your AC, attack rolls,
+Perception, saving throws, skill modifiers, spell attack
+rolls, and class DC all increase by at least 1. You might
+need to change other values because of skill increases,
+ability boosts, or class features that either increase your
+proficiency rank or increase other statistics at certain
+levels. If an ability boost increases your character’s
+Constitution modifier, recalculate their maximum Hit
+Points using their new Constitution modifier (typically
+this adds 1 Hit Point per level). If an ability boost
+increases your character’s Intelligence modifier, they
+become trained in an additional skill and language.
+Some feats grant a benefit based on your level, such
+as Toughness, and these benefits are adjusted whenever
+you gain a level as well.
+You can perform the steps in the leveling-up process in
+whichever order you want. For example, if you wanted
+to take the skill feat Intimidating Prowess as your skill
+feat at 10th level, but your character’s Strength score
+was only 14, you could first increase their Strength score
+to 16 using the ability boosts gained at 10th level, and
+then take Intimidating Prowess as a skill feat at the
+same level.
+Leveling-Up Checklist
+Every time you gain a level, make sure you do each of
+the following:
+• Increase your level by 1 and subtract 1,000 XP
+from your XP total.
+• Increase your maximum Hit Points by the amount
+listed in your class entry in Chapter 3.
+• Add class features from your class advancement
+table, including ability boosts and skill increases.
+• Select feats as indicated on your class advancement
+table. For ancestry feats, see Chapter 2. For class
+feats, see your class entry in Chapter 3. For general
+feats and skill feats, see Chapter 5.
+• Add spells and spell slots if your class grants
+spellcasting. See Chapter 7 for spells.
+• Increase all of your proficiency bonuses by 1
+from your new level, and make other increases to
+your proficiency bonuses as necessary from skill
+increases or other class features. Increase any
+other statistics that changed as a result of ability
+boosts or other abilities.
+• Adjust bonuses from feats and other abilities that
+are based on your level.
+Introduction
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
+
+================================================================================
+PAGE 33
+================================================================================
+
+Core Rulebook
+
+================================================================================
+PAGE 34
+================================================================================
