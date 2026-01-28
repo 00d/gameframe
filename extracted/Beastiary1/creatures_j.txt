@@ -1,0 +1,282 @@
+# Bestiary - Creatures: J
+# Count: 3 creatures
+
+
+================================================================================
+# JUNGLE DRAKE
+================================================================================
+
+times per day.
+Jungle Drake
+Believed to be related to green dragons, jungle drakes are dangerous hunters
+equipped with a debilitating venom delivered by a large barbed stinger or
+their noxious phlegm. Their wings are equipped with vestigial claws that
+allow them to deftly maneuver through thick jungle foliage both in ﬂight
+and on foot. Jungle drakes prefer to ambush their prey using hit-and-run
+tactics, picking off the weakest members of a group and dragging their
+victims off to ﬁnish their meals as they please.
+JUNGLE DRAKE
+CREATURE 6
+NE
+LARGE
+DRAGON
+EARTH
+Perception +13; darkvision, scent (imprecise) 30 feet
+Languages Draconic
+Skills Acrobatics +15, Athletics +13, Stealth +13, Survival +11
+Str +5, Dex +3, Con +4, Int –1, Wis +1, Cha +1
+AC 23; Fort +17, Ref +13, Will +11
+HP 90; Immunities disease, paralyzed, poison, unconscious
+Twisting Tail Ǻȓ Trigger A creature within reach of the jungle drake’s
+stinger uses a move action or leaves a square during a move action
+it’s using. Eﬀect The jungle drake Strikes the target with its stinger. If
+it hits, the jungle drake disrupts the creature’s action.
+Speed 20 feet, ﬂy 50 feet; woodland stride
+Melee Ȱɵ fangs +17, Damage 2d10+7 piercing plus predatory grab
+Melee Ȱɵ stinger +17 (reach 10 feet), Damage 2d6+7 piercing plus jungle
+drake venom
+Draconic Frenzy ʚʖ The jungle drake makes one fangs
+Strike and two stinger Strikes in any order.
+Jungle Drake Venom (poison); Saving Throw Fortitude
+DC 24; Maximum Duration 6 rounds; Stage 1 1d6 poison
+and enfeebled 1 (1 round); Stage 2 1d6 poison and
+enfeebled 2 (1 round)
+Predatory Grab As Grab, but the jungle drake’s Grab does not
+end if it moves away. Instead, it carries the grabbed creature with it. A
+jungle drake can’t Fly while grabbing a creature unless that creature can also Fly.
+Speed Surge Ȱɵ (move) The jungle drake moves up to twice its Speed. It can do
+this three times per day.
+Spit Venom ʚʖ (poison) A jungle drake can spit a sticky glob of its venom to a range
+of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC
+24 Reﬂex save or be exposed to jungle drake venom. The jungle drake can’t use Spit
+Venom again for 1d6 rounds.
+Woodland Stride The jungle drake ignores diﬃcult terrain and greater diﬃcult terrain
+from non-magical foliage.
+DRAKE HUNTERS
+The allure of hunting a dragon
+is diﬃcult to resist for many
+adventurers, but accomplishing
+such a task is fraught with peril.
+Unscrupulous adventurers have
+been known to instead hunt drakes
+and use trophies harvested from
+these creatures to deceive locals.
+
+================================================================================
+PAGE 134
+================================================================================
+
+Wyvern
+A wyvern is a venomous drake with a well-earned reputation for impatience and
+aggression. As much as 15 feet long and weighing up to 1,000 pounds, a wyvern’s
+resilient body allows it to crash talons-ﬁrst into large prey without serious risk
+to itself. A wyvern uses its momentum to stun its target before injecting it with
+searing venom or carrying it over the side of a nearby cliff. Because a wyvern lacks
+the strength to haul its prey all the way to its nest intact, it is far more likely to
+lift and drop its victim over a gully or canyon and let gravity do its work before
+it descends to pick apart the carcass.
+Conversation is of little interest to a wyvern, as the creature
+typically speaks only to taunt its prey, issue territorial claims, or
+demand tribute. Even so, many wyverns enjoy grim humor and
+tales of violent acts, particularly if those acts were committed by
+the storyteller. A wyvern properly appeased with meat, entertainment,
+and treasure sometimes agrees to provide assistance ranging
+from giving directions to serving as a mount for a powerful
+humanoid. However, these arrangements rarely last more than a
+few weeks before the wyvern’s pride, malice, or insolence inspires
+it to ﬂee or even betray its allies. Only the truly cruel can cow a
+wyvern into servitude for an extended period, as most wyverns
+are so self-interested that they go out of their way to avoid
+helping others.
+
+================================================================================
+# JANNI
+================================================================================
+
+
+Bestiary
+Genie
+A unique type of genie exists for each Elemental Plane, and the bodies of genies
+are formed out of elemental matter corresponding to their native plane: djinn
+are formed from wind, clouds, and storms; efreet are ﬁre made ﬂesh; marids are
+beings of water; and shaitans are composed of metal, gems, and stone. Lastly, the
+jann are formed out of all four elements, and are the weakest of geniekind.
+Genie Nobles
+Genie nobles with titles unique to their kind (as detailed in each sidebar) rule genie
+society. Genie nobles are generally at least 5 levels higher than a typical example
+of their kind. In addition to the increased statistics afforded by their higher levels,
+genie nobles gain additional spells. But the most wondrous (and
+notorious) of a genie noble’s powers is their ability to grant
+wishes. Any genie noble (save for jann, who lack this power)
+can grant a mortal or undead creature up to three wishes within
+a year’s time. Many unscrupulous creatures compel genie nobles
+to serve them, tricking them or entrapping them with magic. However,
+once a genie noble grants a third wish to a single creature, they are
+freed from service to that creature forever.
+Janni
+Jann are genies composed of all four elements, meaning they are not
+quite home on any of the Elemental Planes. Instead, jann reside on the
+Material Plane, making only brief forays to the other parts
+of the Inner Sphere. Although they are human in size and
+appearance, jann are not at all related to humans and
+bristle at any claims to this effect. They are a proud people
+and take great care to maintain their honor—restoring that
+honor with the edge of a sword, if necessary.
+JANNI
+CREATURE 4
+N
+MEDIUM
+ELEMENTAL
+GENIE
+Perception +11; darkvision
+Languages Common, one elemental language (Aquan,
+Auran, Ignan, or Terran), one planar language (Abyssal,
+Celestial, or Infernal); telepathy 100 feet
+Skills Acrobatics +8, Arcana +10, Crafting +8,
+Deception +7, Survival +11
+Str +4, Dex +2, Con +2, Int +2, Wis +3, Cha +1
+Items composite shortbow (20 arrows), scimitar
+AC 20; Fort +12, Ref +10, Will +11
+HP 60; Resistances ﬁre 5
+Elemental Endurance A janni can survive on any Elemental
+Plane for up to 48 hours, after which it takes 1 damage per hour
+until it leaves or dies.
+Speed 20 feet, ﬂy 15 feet
+Melee Ȱɵ scimitar +14 (forceful +1, sweep), Damage 1d6+10 slashing
+Melee Ȱɵ ﬁst +14 (agile, magical, nonlethal), Damage 1d4+10 bludgeoning
+Ranged
+Ȱɵ
+composite
+shortbow
++12
+(deadly
+1d10,
+propulsive,
+range increment 60 feet, reload 0), Damage 1d6+5 piercing
+Arcane Innate Spells DC 21; 7th plane shift (to Astral Plane,
+Elemental Planes, or Material Plane only); 2nd create food,
+invisibility (×3), speak with animals; 1st create water
+Change Size ʚʖ (arcane, concentrate, polymorph, transmutation);
+Frequency Once per day. Eﬀect The janni changes a creature’s
+size. This works as a 4th-level enlarge or shrink spell but can target
+an unwilling creature (DC 21 Fortitude save negates).
+DJINNI VIZIERS
+Djinni viziers prefer to manifest
+wishes in physical, often gaudy
+displays, but cut corners in
+quality. Wished-for gold, for
+example, might only be gold
+plated (and still valuable), not
+solid gold. Djinni viziers add the
+following to their innate spells:
+5th summon giants, tongues.
+
+================================================================================
+PAGE 164
+================================================================================
+
+EFREETI MALIKS
+Efreeti maliks take pleasure in
+fulﬁlling wishes in pedantic ways
+that cause suﬀering, regret, or
+pain. A wisher for a thousand
+pounds of gemstones might have
+the gems delivered as a bonecrushing avalanche. Efreeti maliks
+add the following to their innate
+spells: 5th ﬁreball (at will); 7th
+volcanic eruption.
+Djinni
+Benevolent genies from the Plane of Air, djinn value art, culture, knowledge, and
+trade. They also love new experiences, succulent dishes, and heady wines. Of all
+geniekind, they are most likely to approach humans and other mortals, interacting
+with them on friendly terms. Still, djinn are proud of their genie heritage and have
+a tendency to be patronizing toward mortals, a habit that has earned them a
+reputation for arrogance.
+Djinn get along with jann and marids, but they ﬁnd shaitans too stiff and
+harbor undying hatred for efreet. Although djinn are formidable combatants,
+they despise war and prefer to eschew violence in favor of dealing with their
+opponents using magic or subterfuge (making an exception, of course, when
+they encounter efreet).
+
+================================================================================
+# JINKIN
+================================================================================
+
+(1st) prestidigitation
+Jinkin
+Jinkins are sadistic tinkers who steal and sabotage items and take great
+pride in their power to curse precious objects. They hold grudges and
+create convoluted plans for revenge whenever they feel slighted, such as
+when a creature dares to remove one of their curses. Rarely content to
+wreak simple mayhem, jinkins also take immense pleasure in torture and
+murder, though they prefer to lead
+victims into traps designed to capture
+or incapacitate rather than kill outright.
+Deep pits are favorites, since victims
+who survive the fall face a slow death from
+starvation and thirst. Jinkins enjoy gathering
+at the edge of pits to mock, tease, and torment.
+JINKIN
+CREATURE 1
+CE
+TINY
+FEY
+GREMLIN
+Perception +7; darkvision
+Languages Undercommon
+Skills Acrobatics +7, Crafting +5 (+7 traps), Deception +5,
+Nature +5, Stealth +7, Thievery +7
+Str –2, Dex +4, Con +0, Int +2, Wis +2, Cha +2
+Items shortsword
+AC 17; Fort +6, Ref +10, Will +7
+HP 19; Weaknesses cold iron 2
+Speed 30 feet
+Melee Ȱɵ shortsword +9 (agile, ﬁnesse, magical, versatile S), Damage 1d6–2 piercing
+Primal Innate Spells DC 17; Cantrips (1st) prestidigitation
+Sneak Attack The jinkin deals 1d6 extra precision damage to ﬂat-footed creatures.
+Tinker (curse, primal, transmutation) A group of six jinkins can work together
+for an hour to imbue an item with a curse at a range of 60 feet. While this
+process is lengthy, it’s also unobtrusive and can be performed while Hiding. Jinkins
+prefer to use this ability on magic items. The curse makes the item unreliable (DC
+5 flat check or waste any action to Interact with or Activate the item), adds
+a bizarre requirement to use the item, or imparts some other curse of a
+similar caliber.
+
+================================================================================
+PAGE 195
+================================================================================
+
+Bestiary
+Griffon
+Griffons are regal beasts revered as symbols of freedom and strength in many
+cultures. They are physically striking, with the hindquarters of a lion and the
+head, wings, and forelimbs of a great bird of prey—typically an eagle, but some
+instead bear the features of a hawk, falcon, or even osprey or vulture. In rare
+cases, the griffon’s hindquarters may resemble those of a different great cat,
+such as a leopard or tiger. The variations seem to conform to the environment
+in which the griffon lives—for instance, the especially rare griffons of northern
+Avistan have the hindquarters of a Grungir lynx and the upper body of a snowy
+owl—though this is not always the case. Some griffons lack wings altogether.
+These wingless griffons, known as alces, result from a rare mutation. Among a
+clutch of other griffons, the alce is typically considered the runt, so few of these
+offshoots survive their ﬂedgling stage. Those alces that do make it to adulthood
+tend to be tougher, more violent, and more aloof than most griffons.
+Wild griffons rely on their powerful wings to hold them aloft and their keen
+eyesight to spy out prey. The speed with which they plunge toward the ground
+and grab up their victims is shocking. They may tear open victim’s ﬂesh with
+their razor-sharp beaks, but usually just take their prey to a high, secluded
+location where they can enjoy their feast without interruptions. On the ground,
+they take cover and leap out to ambush prey, then ﬂy off with their prize. The
+exception to this is when a griffon is hunting to feed its offspring, in which case
+it will almost never purposefully bring a living creature back to its nest for fear
+of endangering its chicks.
+Skilled animal trainers long ago learned how to raise griffons as mounts
+for military forces or powerful individuals. Such mounts are known for their
+strength, bravery, and unfailing loyalty. They are among the smartest of animals
+and possess a wisdom not normally afforded most animals; it is
+thought that a griffon chooses its rider as much as a rider chooses
+the griffon. The process of training a griffon to accept and carry
+a rider in ﬂight is a long and expensive ordeal. Griffon trainers
+charge rich sums for their services, and a ruler who can
+boast of owning a stable of griffons is the subject of great
+respect and envy.

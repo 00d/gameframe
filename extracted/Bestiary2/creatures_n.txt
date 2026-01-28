@@ -1,0 +1,1061 @@
+# Bestiary - Creatures: N
+# Count: 10 creatures
+
+
+================================================================================
+# NABASU
+================================================================================
+
+
+Bestiary 2
+NABASU GROWTH
+A nabasu stores their stolen deaths
+until they ﬁnally become satiated.
+For most, this occurs after consuming
+death from at least 100 mortals, but
+the exact timing is left to the GM. The
+demon then travels to the Abyss and
+transforms into a vrolikai.
+NABASU
+CREATURE 8
+CE
+MEDIUM
+DEMON
+FIEND
+Perception +17; darkvision
+Languages Abyssal, Celestial, Draconic; telepathy 100 feet
+Skills Acrobatics +18, Arcana +16, Religion +16, Stealth +18, Survival +17
+Str +6, Dex +4, Con +6, Int +2 Wis +3, Cha +4
+AC 27; Fort +19, Ref +16, Will +16; +1 to all saves vs. magic
+HP 165; Weaknesses cold iron 5, good 5
+Death-Stealing Gaze (aura, divine, necromancy, visual) 30 feet. When a non-demon ends its
+turn in the aura, it must attempt a DC 23 Fortitude save. If it fails, it becomes drained 1.
+Starvation Vulnerability A nabasu denied food suﬀers painful backlash as their demonic
+nature feeds on their own corrupted spirituality. If a nabasu’s Consume Death is disrupted
+(such as by a ﬁghter using Disruptive Stance) or a creature resists the eﬀect with a
+critical success, the nabasu takes 4d6 mental damage.
+Speed 25 feet, ﬂy 50 feet
+Melee Ȱɵ jaws +20 (evil, magical), Damage 2d12+9 piercing plus
+1d6 evil
+Melee Ȱɵ claw +20 (agile, evil, magical), Damage 2d8+9
+slashing plus 1d6 evil
+Divine Innate Spells DC 26; 5th dimension door; 4th
+dimension door (at will), grim tendrils, paralyze,
+vampiric touch
+Rituals DC 26; Abyssal pact
+Consume Death Ȱɵ (concentrate, divine, necromancy,
+visual) The nabasu focuses their death-stealing
+gaze upon a single target they can see within
+30 feet. The target must immediately attempt a
+Fortitude save against death-stealing gaze.
+Critical Success The creature is unaﬀected and
+the nabasu suﬀers starvation vulnerability.
+Success The creature is unaﬀected.
+Failure The creature is aﬀected by deathstealing gaze and becomes drained 1. If
+the creature was already drained 1 by the
+death-stealing gaze before attempting
+the save, a failed save increases the
+value of the drained condition by 1, to a
+maximum of drained 4. The nabasu gains
+10 temporary Hit Points, and the drained
+creature is temporarily immune until the
+start of the nabasu’s next turn.
+Critical Failure As failure, but the creature
+increases the amount of drain by 2.
+Stolen Death A creature that dies while suﬀering
+drain from a nabasu’s death-stealing gaze rises as
+a ghoul (Pathﬁnder Bestiary 168) the next midnight.
+HEZROU (TOAD DEMON)
+Hezrous dwell in the vast and endless Abyssal swamps,
+mires, and waterways and are equally at home on land
+and in the water. A hezrou’s presence has an obvious effect
+on nearby ﬂora and water, causing plant life to twist and knot
+and infusing water with a foul odor and brackish taste—signs much
+easier to spot on the Material Plane than in the Abyss. Long
+exposure to this corruption can cause vile transformations
+and hideous mutations, and entire miserable communities
+of corrupted creatures sometimes rise in swamplands where
+
+================================================================================
+PAGE 68
+================================================================================
+
+HALF-DEMONS
+The Abyss can corrupt living
+creatures through direct congress
+or supernatural infusion of Abyssal
+energies, resulting in monstrous
+hybrids. A half-demon should be a
+custom creature, but you can quickly
+generate one by giving an existing
+creature a few of a demon’s abilities
+along with the demon’s sin-related
+vulnerability. For example, a halfhezrou hill giant would gain purity
+vulnerability, but perhaps also a bite,
+swim Speed, and poisonous pustules.
+When swapping over abilities between
+creatures of diﬀerent levels, be sure to
+adjust the numbers for the new level.
+a hezrou dwells. Hezrous themselves prefer simple pleasures, and they often
+waste their considerable intellect in the pursuit of comfortable places to slumber,
+squealing meals to eat, or objects of beauty to deface. They do not seek out cults to
+fawn over them but will not turn away those who seek to worship on their own.
+Hezrous form from the souls of those who abused and polluted their environs or
+neighbors, either through the introduction of toxins to the region or the insidious
+spread of drugs and poisons through a society.
+
+================================================================================
+# NALFESHNEE
+================================================================================
+
+
+Bestiary 2
+SECRET MONGERS
+Nalfeshnees covet knowledge as
+well as material goods, especially if
+such information can help satisfy the
+needs and desires of the Abyss. Each
+nalfeshnee has areas of interest in
+which they’re highly knowledgeable,
+but before a nalfeshnee reveals a
+secret, they typically demand a secret
+of at least equal value in return.
+NALFESHNEE
+CREATURE 14
+CE
+HUGE
+DEMON
+FIEND
+Perception +25; darkvision, true seeing
+Languages Abyssal, Celestial, Draconic; telepathy 100 feet
+Skills Abyss Lore +25, Arcana +25, Athletics +28, Deception +26, Diplomacy +24,
+Intimidation +28, Religion +25
+Str +8, Dex +2, Con +8, Int +5, Wis +5, Cha +4
+AC 34; Fort +28, Ref +22, Will +23; +1 status to all saves vs. magic
+HP 365; Weaknesses cold iron 15, good 15
+Forfeiture Aversion A nalfeshnee’s greed is such that losing possessions causes them
+harm. If an item is stolen from a nalfeshnee, the demon takes 3d6+10 mental damage.
+Greedy Grab Ǻȓ Trigger A creature critically fails a weapon Strike against the nalfeshnee;
+Eﬀect The nalfeshnee attempts to Disarm the weapon used in the triggering Strike at a
+–2 circumstance penalty. On a success, the nalfeshnee steals the weapon.
+Speed 30 feet, ﬂy 40 feet
+Melee Ȱɵ jaws +29 (magical, reach 15 feet), Damage 3d12+14 piercing
+Melee Ȱɵ claw +29 (agile, magical, reach 15 feet), Damage 3d8+14 slashing
+Divine Innate Spells DC 34; 6th dispel magic (at will), divine wrath (at will); 5th dimension
+door, illusory object (at will); 4th dimension door (at will); Constant (6th)
+true seeing
+Rituals DC 34; Abyssal pact
+Claim Wealth Ȱɵ (conjuration, divine, extradimensional) The
+nalfeshnee steals all unattended items glowing with its Light
+of Avarice into an extradimensional space. The demon can
+Interact to regurgitate any number of these items into their
+hand or onto the ground. If the demon dies, is aﬀected by a
+teleportation eﬀect, or consumes an extradimensional space
+(such as a bag of holding), they vomit up all the items.
+Light of Avarice ʚʖ (divine, enchantment, light, mental);
+Frequency once per hour; Eﬀect Beams of unholy light
+shoot from the nalfeshnee toward four items within 60
+feet. If someone is holding or wearing a targeted item,
+they can keep it from being aﬀected with a successful
+DC 34 Reﬂex save. For 1 minute, the aﬀected items glow
+in nauseating colors. Any non-demon is sickened 2
+and slowed 1 as long as it holds, wears, or touches a
+glowing item. Recovering from the sickness requires
+a successful DC 29 Will save instead of a Fortitude
+save. Ending the sickness this way ends the slowed
+condition and makes the creature temporarily
+immune to Light of Avarice for 24 hours. If the
+creature removes or drops the item, both conditions
+end immediately but the creature doesn’t become
+immune to Light of Avarice.
+VROLIKAI (DEATH DEMON)
+Unlike other demons, the dread vrolikai doesn’t
+form from a sinful soul—they instead manifest from
+a nabasu once the nabasu ﬁnally satisﬁes their hunger
+and returns to the Abyss, and as such vrolikais
+suffer from no vulnerability associated with
+a speciﬁc sin. A vrolikai who survives this
+process and the period of vulnerability
+that follows gains great power and in time can
+claim large regions of the Abyss as their own domain.
+Also known as death demons, these murderous monsters
+often serve demon lords as executioners or assassins.
+
+================================================================================
+PAGE 70
+================================================================================
+
+VROLIKAI NEWCOMERS
+When vrolikais ﬁrst manifest on the
+Abyss, they have no base of power and
+are, despite their abilities, relatively
+defenseless from denizens even more
+powerful than themselves. As a result,
+most rely upon stealth and patience
+for their ﬁrst few centuries while
+they build up a network of minions
+and establish their own Abyssal
+fortiﬁcations before they turn their
+attentions back to the Material Plane.
+
+================================================================================
+# NUGLUB
+================================================================================
+
+NUGLUB
+CREATURE 2
+CE
+SMALL
+FEY
+GREMLIN
+Perception +5; darkvision
+Languages Undercommon
+Skills Acrobatics +8, Crafting +5 (+7 traps), Intimidation +7, Stealth +8
+Str +1, Dex +4, Con +3, Int –1, Wis –1, Cha +1
+AC 18; Fort +9, Ref +10, Will +5
+HP 34; Weaknesses cold iron 2
+Kneecapper Ǻȓ Trigger A Medium
+creature within the nuglub’s
+reach leaves a square during its
+move action; Eﬀect The nuglub lashes
+out at the triggering creature’s knees and
+tries to knock them prone. The nuglub makes
+an Acrobatics check against the creature’s Reﬂex
+DC. On a success, the target falls and lands prone.
+Speed 30 feet, climb 20 feet
+Melee Ȱɵ bite +11 (ﬁnesse), Damage 1d8+1 piercing
+plus Grab
+Melee Ȱɵ claw +11 (agile, ﬁnesse), Damage
+1d6+1 slashing
+Primal Innate Spells DC 18, attack
++8; 2nd shatter; 1st grease,
+shocking grasp; Cantrips (1st)
+prestidigitation
+Sneak Attack A nuglub’s Strikes deal
+an additional 1d6 precision damage to
+ﬂat-footed targets, or 1d10 if the target is prone.
+
+================================================================================
+PAGE 137
+================================================================================
+
+Bestiary 2
+GRENDEL’S MOTHER
+At the bottom of a remote mountain
+lake ﬁlled with sea serpents is a
+magical house—the lair of Grendel’s
+mother. Among her many treasures is
+a sword so big and heavy that only a
+supernaturally strong individual can
+wield it. When Grendel is injured, he
+retreats here to heal.
+Grendel
+This reaver of the cold marsh is not just a monster; he is a force of nature. Where there
+is peace and prosperity in the world, Grendel strikes, eager to prove that tranquility
+is transitory and death is the only constant. He stalks the edge of his fens, seeking
+settlements where joy holds sway. He strikes under cover of night, primarily targeting
+celebrations or festivals. The more happiness or joy he can extinguish, the better.
+Although Grendel is a unique creature, killing him won’t save the world from his
+ravages for long. Once Grendel’s mother instinctively feels the pain of her violent
+son’s death, she soon births a replacement. The new Grendel seems to avoid the
+sites his elder brothers terrorized, as if he instinctively knows that such a place hosts
+heroes powerful enough to defeat him.
+
+================================================================================
+# NECROPHIDIUS
+================================================================================
+
+
+Bestiary 2
+OTHER NECROPHIDIUSES
+Ultimately, a necrophidius’s abilities
+are the result of its creators’
+designs. Some have diﬀerent
+immunities or have bites that deal
+poison, cold, or negative damage
+instead of inﬂicting paralysis. There
+are even rumors of soulbound
+necrophidiuses whose creators
+arranged for the soul of the skull’s
+donor to empower the construct.
+These necrophidiuses are not only
+sentient but also have the facility to
+reason and even cast spells.
+Necrophidius
+Although the necrophidius is a mindless construct with no particular ability to
+comprehend the complexities of good or evil, these sinister-looking constructs are
+often crafted by evil or macabre creators seeking to imbue their guardians with a
+frightening aesthetic.
+Constructed from bones harvested from serpents and humans, a necrophidius
+is animated by occult magic, not unlife. Each necrophidius is built from the
+skeleton of a large snake, but its skull has been replaced by that of a humanoid
+creature. Some death cults or particularly cruel crafters seek out the skulls of
+speciﬁc individuals against whom they bear grudges to provide the head for their
+necrophidius. The ﬁnal step of the construction is the alteration of the teeth and
+jaws to give the creature a more serpentine visage, complete with fangs.
+If a necrophidius’s creator dies, the construct follows the last series of commands
+it was given. If it cannot do so, the necrophidius aimlessly wanders the area near
+where it last served its creator and attacks any creatures it encounters. Some believe
+that those who know the secrets of a necrophidius’s origins can command it,
+provided its original creator no longer exists and no one else currently commands
+it. There are also a number of reports concerning strangely aware and intelligent
+necrophidiuses that roam with a purpose and track down or hunt speciﬁc living
+creatures they interpret as the targets of former assassination missions.
+NECROPHIDIUS
+CREATURE 3
+N
+MEDIUM
+CONSTRUCT
+MINDLESS
+Perception +9, darkvision
+Skills Acrobatics +9, Athletics +10, Stealth +9
+Str +3, Dex +4, Con +0, Int –5, Wis +2, Cha –5
+AC 19; Fort +7, Ref +11, Will +9
+HP 50; Immunities bleed, death eﬀects, disease, doomed, drained,
+fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed,
+poison, sickened, unconscious; Weaknesses bludgeoning 5
+Speed 25 feet
+Melee Ȱɵ jaws +8 (agile, ﬁnesse), Damage 1d10+3 piercing plus
+necrophidic paralysis
+Dance of Death ̂ˬ (enchantment, mental, occult, visual) The
+necrophidius sways, its serpentine form undulating and
+clattering in a hypnotic rhythm. Each creature that witnesses
+the dance must attempt a DC 18 Will save.
+Critical Success The creature is unaﬀected and is
+temporarily immune for 24 hours.
+Success The creature is unnerved by the swaying
+and becomes ﬂat-footed until the end of the
+necrophidius’s next turn.
+Failure The creature is distracted by the
+swaying, becoming stunned 1. After
+it recovers, it is ﬂat-footed until the
+end of the necrophidius’s next turn.
+Critical Failure As failure, but
+stunned 3.
+Necrophidic Paralysis (incapacitation,
+occult, necromancy) A living creature
+bitten by a necrophidius must
+succeed at a DC 20 Fortitude save or
+become paralyzed. It can attempt a new
+save at the end of each of its turns, and the
+DC cumulatively decreases by 1 for each save
+attempted. A creature that succeeds at this save is
+temporarily immune to necrophidic paralysis for 24 hours.
+
+================================================================================
+PAGE 182
+================================================================================
+
+DENEBRUM
+Most neothelids on Golarion reside in
+the Vault of Derebrum, deep within
+the Darklands. Here, in a vast cavern
+of fetid pools of stinking swamps
+and surreal forests of poisonous
+fungi, neothelid hives nestle among
+twisted spires of hardened resin that
+look as horriﬁc as the monstrous
+worms themselves. Tended by armies
+of worm-like minions who worship
+them as gods, they endlessly plot,
+scheme, and wage war.
+Neothelid
+This gigantic, mauve worm has a hooked mouth with multiple circular bands of
+teeth and four barbed tongues. A wielder of terrible occult powers and a vast alien
+intellect, the neothelid serves the ageless horrors that dwell in strange dimensions
+beyond known reality—the Outer Gods and Great Old Ones of the Elder Mythos.
+Neothelids pass down these mysteries to the eerie wormlike creatures they spawn
+and create in preparation for a future where the worms below shall rule—a time
+when all other life is nothing more than food.
+
+================================================================================
+# NEOTHELID
+================================================================================
+
+
+DENEBRUM
+Most neothelids on Golarion reside in
+the Vault of Derebrum, deep within
+the Darklands. Here, in a vast cavern
+of fetid pools of stinking swamps
+and surreal forests of poisonous
+fungi, neothelid hives nestle among
+twisted spires of hardened resin that
+look as horriﬁc as the monstrous
+worms themselves. Tended by armies
+of worm-like minions who worship
+them as gods, they endlessly plot,
+scheme, and wage war.
+Neothelid
+This gigantic, mauve worm has a hooked mouth with multiple circular bands of
+teeth and four barbed tongues. A wielder of terrible occult powers and a vast alien
+intellect, the neothelid serves the ageless horrors that dwell in strange dimensions
+beyond known reality—the Outer Gods and Great Old Ones of the Elder Mythos.
+Neothelids pass down these mysteries to the eerie wormlike creatures they spawn
+and create in preparation for a future where the worms below shall rule—a time
+when all other life is nothing more than food.
+NEOTHELID
+CREATURE 15
+UNCOMMON
+CE
+GARGANTUAN
+ABERRATION
+Perception +29; greater darkvision, thoughtsense 100 feet
+Languages Aklo, Alghollthu, Undercommon; telepathy 100 feet
+Skills Acrobatics +25, Athletics +28, Deception +29, Diplomacy +27, Intimidation +29,
+Occultism +29
+Str +9, Dex +4, Con +6, Int +8, Wis +6, Cha +8
+Thoughtsense (divination, mental, occult) The neothelid uses its mind as a precise sense
+at the listed range to notice all non-mindless creatures.
+AC 37; Fort +27, Ref +23, Will +29; +1 status to all saves vs. magic
+HP 345; Immunities acid; Weaknesses cold iron 15; Resistances mental 15
+Dimensional Wormhole Ǻȓ (conjuration, occult, teleportation) Trigger
+A creature the neothelid is aware of uses a teleportation eﬀect;
+Eﬀect The neothelid creates an extradimensional wormhole at the
+triggering creature’s initial location that persists for up to 1 minute.
+If the neothelid moves into the wormhole’s space, the neothelid
+teleports to the same destination as the triggering creature.
+Speed 30 feet, ﬂy 50 feet
+Melee Ȱɵ jaws +28 (reach 15 feet), Damage 3d12+13 piercing plus
+Improved Grab
+Melee Ȱɵ rasping tongue +28 (agile, fatal d10, reach 25 feet),
+Damage 3d8+13 slashing
+Occult Innate Spells DC 38, attack +30; 8th charm,
+suggestion, summon entity; 7th phantasmal
+calamity,
+teleport;
+6th
+scrying
+(×3),
+suggestion (at will); 5th mind probe (at
+will), telekinetic haul (at will); Cantrips
+(8th) daze, detect magic, mage
+hand, telekinetic projectile
+Rituals DC 38; geas, inveigle
+Breath Weapon ʚʖ (acid, evocation,
+occult) The neothelid breathes a
+spray of acid that deals 16d6
+acid damage in a 60-foot cone
+(DC 38 basic Reﬂex save). The
+neothelid can’t use Breath
+Weapon again for 1d4 rounds.
+Instant Suggestion Ǻȓ Trigger A creature fails a Will save
+against a spell or eﬀect created by the neothelid; Eﬀect
+The neothelid casts a suggestion spell it has available
+on the creature that failed its Will save.
+Lashing Tongues ʚʖ The neothelid’s four tongues
+lash out in a frenzy at several targets. It makes up to
+four rasping tongue Strikes, each against a diﬀerent
+target. These attacks count toward the neothelid’s
+multiple attack penalty, but the multiple attack penalty
+doesn’t increase until after the neothelid makes all of its attacks.
+Swallow Whole Ȱɵ Large, 2d12 bludgeoning plus 2d12 acid, Rupture 27
+
+================================================================================
+PAGE 183
+================================================================================
+
+Bestiary 2
+NEREID SHAWLS
+A nereid’s shawl has Hardness 1
+and 4 Hit Points (BT 2). If the shawl
+is broken, it no longer grants the
+amphibious trait. If it’s destroyed, it
+melts away into water, and the nereid
+who created it becomes doomed 1
+and drained 1. These conditions
+values increase by 1 every 2d6 hours
+thereafter until it creates a new shawl.
+Nereid
+Nereids are aquatic fey with deep ties to water. They share some similarities with
+naiads, but they are not guardians and do not bind themselves to a speciﬁc body
+of water. Although they are primarily aquatic creatures, their unique ability to
+imbue their vitality into a supernatural shawl allows them to travel on land as
+well. A nereid must be careful when manifesting a shawl, however, as their life
+essence is bound to it, so it can be stolen or destroyed to threaten the nereid.
+Nereids prefer to exist in isolation. Left to their own devices, they avoid combat,
+but when forced to ﬁght, their ability to transform the natural waters in their ﬂesh
+into poison serves them as well as any weapon.
+Often, ignorant sailors lump all water-dwelling fey into a single category of
+“aquatic tempters,” regardless of the fey’s type or gender, using these creatures’
+names interchangeably to represent the concept of a beautiful ﬁgure who exists to
+lure mortals to a drowning death. Whereas naiads have more patience and
+often seek to educate the ignorant regarding the harm that stereotypes can
+cause, nereids and rusalkas have little patience for such methods. Rusalkas
+are the primary source for the legends of fey preying upon sailors, and nereids
+loathe them for that, as they prefer to live apart from humanity and enjoy the
+beauty of the natural world in peace.
+When a nereid learns of a rusalka’s increased activity, it often seeks
+out the rusalka to route them—not so much out of an urge to protect
+humanoids (in whom nereids traditionally have little interest), but to
+prevent the rusalka from inadvertently riling up violent responses from
+humanoids who can’t be bothered to note the difference between a
+murderous fey and one who just wants to be left alone.
+
+================================================================================
+# NEREID
+================================================================================
+
+
+Bestiary 2
+NEREID SHAWLS
+A nereid’s shawl has Hardness 1
+and 4 Hit Points (BT 2). If the shawl
+is broken, it no longer grants the
+amphibious trait. If it’s destroyed, it
+melts away into water, and the nereid
+who created it becomes doomed 1
+and drained 1. These conditions
+values increase by 1 every 2d6 hours
+thereafter until it creates a new shawl.
+Nereid
+Nereids are aquatic fey with deep ties to water. They share some similarities with
+naiads, but they are not guardians and do not bind themselves to a speciﬁc body
+of water. Although they are primarily aquatic creatures, their unique ability to
+imbue their vitality into a supernatural shawl allows them to travel on land as
+well. A nereid must be careful when manifesting a shawl, however, as their life
+essence is bound to it, so it can be stolen or destroyed to threaten the nereid.
+Nereids prefer to exist in isolation. Left to their own devices, they avoid combat,
+but when forced to ﬁght, their ability to transform the natural waters in their ﬂesh
+into poison serves them as well as any weapon.
+Often, ignorant sailors lump all water-dwelling fey into a single category of
+“aquatic tempters,” regardless of the fey’s type or gender, using these creatures’
+names interchangeably to represent the concept of a beautiful ﬁgure who exists to
+lure mortals to a drowning death. Whereas naiads have more patience and
+often seek to educate the ignorant regarding the harm that stereotypes can
+cause, nereids and rusalkas have little patience for such methods. Rusalkas
+are the primary source for the legends of fey preying upon sailors, and nereids
+loathe them for that, as they prefer to live apart from humanity and enjoy the
+beauty of the natural world in peace.
+When a nereid learns of a rusalka’s increased activity, it often seeks
+out the rusalka to route them—not so much out of an urge to protect
+humanoids (in whom nereids traditionally have little interest), but to
+prevent the rusalka from inadvertently riling up violent responses from
+humanoids who can’t be bothered to note the difference between a
+murderous fey and one who just wants to be left alone.
+NEREID
+CREATURE 10
+CN
+MEDIUM
+AQUATIC
+FEY
+WATER
+Perception +20; low-light vision
+Languages Aquan, Common, Sylvan
+Skills Athletics +12 (+18 to Swim), Deception +20, Diplomacy +22, Stealth +22
+Str +0, Dex +7, Con +5, Int +3, Wis +5, Cha +7
+AC 30; Fort +16, Ref +22, Will +18
+HP 175; Immunities poison; Weaknesses cold iron 10
+Watery Transparency
+(primal,
+transmutation,
+water)
+When
+underwater, the nereid’s body is invisible. The nereid can dismiss or
+resume this transparency as an action that has the concentrate trait.
+Speed 25 feet, swim 50 feet
+Melee Ȱɵ poisonous touch +23 (agile, ﬁnesse, magical), Damage 6d6 poison
+Primal Innate Spells DC 29; 6th summon elemental (water elementals only); 5th
+control water, elemental form (×3, water only) 4th suggestion
+Drowning Touch ʚʖ (conjuration, incapacitation, primal, water) The nereid touches
+a creature and causes water from its own body to ﬂow into the creature’s lungs. If
+the creature cannot breathe water, it must attempt a DC 29 Fortitude save.
+Success The creature is unaﬀected and is temporarily immune to Drowning Touch for
+24 hours.
+Failure The creature becomes sickened 3 as it chokes on the water.
+Critical Failure The creature chokes on the water and runs out of air. It falls unconscious
+and starts drowning (Pathﬁnder Core Rulebook 478). If the creature is above water, it
+recovers from drowning as soon as it succeeds at a saving throw against suﬀocation.
+Manifest Shawl ̂ˬ (conjuration, primal) The nereid divests themself of part of their
+connection to the First World and imbues this essence into a ﬂowing shawl that enables
+them to function on land. The nereid can Dismiss this eﬀect as long as they are touching
+the shawl. As long as the shawl exists, the nereid gains the amphibious trait. A nonnereid who carries the shawl also gains the amphibious trait. If a
+nereid’s shawl is destroyed rather than Dismissed, the nereid can’t
+Manifest a Shawl for 24 hours.
+
+================================================================================
+PAGE 184
+================================================================================
+
+BOG NIXIES
+Nixies who dwell in swampy regions
+tend to have fouler attitudes and
+are more eager to turn to violence.
+Known as bog nixies, these evil fey
+prefer dwelling in festering swamps
+or blighted fens and delight in using
+their ability to grant desires to tempt
+visitors into acts of unplanned evil.
+Nixie
+These aquatic fey often guard ponds, rivers, lakes, and springs, protecting their
+bucolic homes from the advances of predators and careless humanoids alike.
+Nixies tend to be reclusive and try to keep their presence hidden from humanoids,
+hoping trespassers won’t give them cause to act. Stories of minor miracles granted
+by nixies to those they befriend encourage humanoids to seek out these reclusive
+fey, and ironically make it even more unlikely for a nixie to grant such a boon.
+On the other hand, if someone approaches a nixie with respect, or even better,
+a positive attitude that displays just the right amount of humility and easygoing
+openness, a nixie is far more likely to respond positively to any requests for aid.
+Often a nixie will ask those who seek their assistance to perform a task for them
+ﬁrst; such requests can be minor acts of entertainment (such as telling a rousing
+story or performing a requested song), but in other cases the nixie might need more
+signiﬁcant aid, such as driving off an unwanted local predator or investigating the
+source of pollution near their home.
+Nixies resort to violence only if no other tactic works. They much prefer
+solutions that rely upon primal magic to defuse conﬂicts before they can escalate
+to bloodshed. In pursuit of such resolutions, nixies rely on their ability to charm
+individuals and, when they can establish magical inﬂuence, encourage intruders to
+leave peacefully. While some nixies try to confuse intruders and subtly guide them
+from the area, others use local animals and beasts to scare off trespassers.
+Occasionally, nixies recruit charmed humanoids to act as protectors or
+help with a task that is simply too big for them to deal with. If this task is
+underwater, nixies use their magic to temporarily grant the ability to breathe
+water to the charmed creature. Only those who manage to befriend a nixie are
+given invitations to return to swim or dine with the fey, and only the most
+trusted of allies are granted a minor wish.
+Nixies appear as aquatic humanoids the size of a child, with large eyes,
+catﬁsh-like whiskers, and webbed ﬁngers and toes. They have scaly skin,
+pointed ears, and long hair the color of seaweed. Nixies often form small
+communities, even building underwater societies if their numbers are great
+enough. In many cultures’ folklore, there are stories of nixie nations hidden
+at the bottom of particularly large lakes.
+
+================================================================================
+# NIXIE
+================================================================================
+
+
+BOG NIXIES
+Nixies who dwell in swampy regions
+tend to have fouler attitudes and
+are more eager to turn to violence.
+Known as bog nixies, these evil fey
+prefer dwelling in festering swamps
+or blighted fens and delight in using
+their ability to grant desires to tempt
+visitors into acts of unplanned evil.
+Nixie
+These aquatic fey often guard ponds, rivers, lakes, and springs, protecting their
+bucolic homes from the advances of predators and careless humanoids alike.
+Nixies tend to be reclusive and try to keep their presence hidden from humanoids,
+hoping trespassers won’t give them cause to act. Stories of minor miracles granted
+by nixies to those they befriend encourage humanoids to seek out these reclusive
+fey, and ironically make it even more unlikely for a nixie to grant such a boon.
+On the other hand, if someone approaches a nixie with respect, or even better,
+a positive attitude that displays just the right amount of humility and easygoing
+openness, a nixie is far more likely to respond positively to any requests for aid.
+Often a nixie will ask those who seek their assistance to perform a task for them
+ﬁrst; such requests can be minor acts of entertainment (such as telling a rousing
+story or performing a requested song), but in other cases the nixie might need more
+signiﬁcant aid, such as driving off an unwanted local predator or investigating the
+source of pollution near their home.
+Nixies resort to violence only if no other tactic works. They much prefer
+solutions that rely upon primal magic to defuse conﬂicts before they can escalate
+to bloodshed. In pursuit of such resolutions, nixies rely on their ability to charm
+individuals and, when they can establish magical inﬂuence, encourage intruders to
+leave peacefully. While some nixies try to confuse intruders and subtly guide them
+from the area, others use local animals and beasts to scare off trespassers.
+Occasionally, nixies recruit charmed humanoids to act as protectors or
+help with a task that is simply too big for them to deal with. If this task is
+underwater, nixies use their magic to temporarily grant the ability to breathe
+water to the charmed creature. Only those who manage to befriend a nixie are
+given invitations to return to swim or dine with the fey, and only the most
+trusted of allies are granted a minor wish.
+Nixies appear as aquatic humanoids the size of a child, with large eyes,
+catﬁsh-like whiskers, and webbed ﬁngers and toes. They have scaly skin,
+pointed ears, and long hair the color of seaweed. Nixies often form small
+communities, even building underwater societies if their numbers are great
+enough. In many cultures’ folklore, there are stories of nixie nations hidden
+at the bottom of particularly large lakes.
+NIXIE
+CREATURE 1
+N
+SMALL
+AQUATIC
+FEY
+Perception +6; low-light vision
+Languages Aquan, Sylvan
+Skills Athletics +6, Nature +5, Stealth +8
+Str +0, Dex +3, Con +1, Int +0, Wis +1, Cha +4
+Wild Empathy The nixie can use Diplomacy to Make an Impression
+on and make very simple Requests of aquatic or amphibious
+animals.
+AC 16; Fort +6, Ref +10, Will +6; +1 status to all saves vs. magic
+HP 25; Weaknesses cold iron 3
+Speed 20 feet, swim 30 feet
+Melee Ȱɵ claw +7 (agile, ﬁnesse), Damage 1d6 slashing
+Primal Innate Spells DC 17, attack +9; 2nd water breathing; 1st
+charm (×3), hydraulic push
+Grant Desire ̂ˬ (divination, primal) Frequency once
+per day; Eﬀect The nixie can duplicate any 1st-level
+spell or produce any eﬀect with a power level in
+line with a 1st-level spell, but only in response to
+the request or desire of a non-fey creature. The
+creature whose desire is granted can never
+again beneﬁt from that particular nixie’s Grant
+Desire ability.
+
+================================================================================
+PAGE 185
+================================================================================
+
+Bestiary 2
+NORN TRIUMVIRATES
+Norns who visit the Material Plane
+often do so in groups of three
+known as triumvirates. The norns
+of a triumvirate can communicate
+with each other telepathically over
+a planetary distance. Regardless of
+their appearance on the First World,
+when a norn becomes part of a
+triumvirate on the Material Plane,
+her apparent age shifts so that in
+each group, there always appears to
+be one young adult norn, one middleaged norn, and one elderly norn—a
+Maiden, a Mother, and a Matriarch.
+Norn
+Ancient beyond imagining, norns are powerful fey women who hold in their
+hands the physical manifestation of fate and destiny in the form of golden thread.
+They watch over all life, intervening with reluctance when called upon—or with a
+vengeance when the strands of fate are twisted and abused by lesser beings.
+Norns’ relationship with the Eldest of the First World is complex. Many among
+norns serve Magdh the Three, the triune Eldest who some norns believe to be the
+ﬁrst norn triumvirate bound together into one entity, as Magdh has three bodies:
+a Maiden, a Mother, and a Matriarch. Magdh claims to be watching the threads
+of fate for some ominous prophesied cataclysm, and in addition to assisting in
+her divinations, Magdh expects the norns who serve her to follow her cryptic
+commands to help nudge the future away from the brink. However, norns are
+powerful beings in their own right, themselves capable of granting divine power,
+and many balk at serving the enigmatic demigod. These norns ﬁnd the other Eldest
+even more alien and challenging to interact with, for they believe that while the
+Eldest wield great power, even these powerful beings should not be granted leave
+to meddle with fate as much as they desire.
+While even the weakest of the Eldest could destroy an unafﬁliated norn with
+ease, they tend to obey the proclamations and judgments of norns when they are
+spoken. These norns, for their part, use their perceived neutrality judiciously. They
+know better than to issue too many demands to the Eldest, lest the capricious
+demigods grow frustrated and tired of norns’ interference. And so the balance of
+power remains tenuous between unafﬁliated norns and the Eldest, as it has for
+eons. However, norns know that it’s merely a matter of time before the Eldest
+lose their respect for this tradition and start acting entirely as they please, despite
+norns’ best efforts to rein in their most disruptive actions.
+A norn stands 14 feet tall and weighs 800 pounds.
+WORSHIPPING NORNS
+On the Material Plane, some mortals worship norns as deities, while others,
+especially witches and bards, admire them as patrons or muses. Those who
+uphold norns as deities are known as Followers of Fate. Norns do little to
+discourage this veneration, but neither do they go out of their way to support
+such worship. Clerics who venerate norns might worship a speciﬁc norn or norn
+triumvirate, or all norns as a whole, but they gain the same beneﬁts regardless
+of their choice. The religious symbol of Followers of Fate is a pair of shears
+cutting a golden thread, and their areas of concern are destiny, fate, and the
+aging process.
+FOLLOWERS OF FATE (LN)
+Edicts make predictions of the future, oﬀer advice and guidance to those in positions of
+power, provide comfort to the elderly
+Anathema apologize for making an incorrect prediction, disrespect mothers, accept
+payment for fortune-telling
+Follower Alignments LG, LN, LE
+Divine Font harm or heal
+Divine Skill Occultism
+Favored Weapon shears (These uncommon simple weapons cost 5 sp, deal 1d4 slashing
+damage, have light Bulk, and require one hand to use. Shears are in the knife weapon
+group. They have the deadly d8, ﬁnesse, and versatile P traits.)
+Domains family, fate, knowledge, truth
+Cleric Spells 1st: mindlink, 2nd: web, 5th: prying eye
+
+================================================================================
+# NORN
+================================================================================
+
+NORN
+CREATURE 20
+RARE
+LN
+LARGE
+FEY
+Perception +41; detect magic, greater darkvision, lifesense 120 feet, true seeing
+Languages Common, Jotun, Sylvan; tongues
+
+================================================================================
+PAGE 186
+================================================================================
+
+LOST NORNS
+When separated from a triumvirate
+for too long, a norn on the Material
+Plane can grow confused and weak.
+Her powers remain strong, but her
+ability to interpret fate becomes
+skewed and warped. Lost norns
+begin to use their abilities for their
+own goals rather than serving fate.
+A lost norn’s alignment slowly
+shifts from lawful neutral to
+either lawful evil or lawful good,
+depending on how she interprets
+her visions.
+Skills Crafting +36, Deception +35, Intimidation +37, Lore (all) +28, Medicine +38,
+Occultism +34, Performance +31, Religion +34
+Str +7, Dex +6, Con +6, Int +6, Wis +10, Cha +7
+Sense Fate (fortune) A norn automatically rolls a 20 when she rolls initiative.
+Triumvirate This functions as the coven ability (page 304), except only norns can join
+a triumvirate, and it functions only as long as exactly three norns are part of the
+triumvirate. A triumvirate grants the following spells: alter reality (once per day),
+cataclysm, discern location, foresight, and revival.
+AC 46; Fort +34, Ref +30, Will +38; +1 status to all saves vs. magic
+HP 375, regeneration 20 (deactivated by cold iron); Immunities ﬂat-footed, negative;
+Weaknesses cold iron 20
+Speed 35 feet, ﬂy 35 feet
+Melee Ȱɵ norn shears +38 (deadly 2d12, magical, reach 10 feet, versatile P), Damage
+4d6+15 slashing plus 5d6 negative and sever fate
+Melee Ȱɵ hand of fate +38 (agile, magical, reach 10 feet), Damage 4d10+15 negative plus
+sever fate
+Occult Innate Spells DC 42; 10th time stop; 9th power word kill, retrocognition, weird; 8th
+maze, wind walk; 7th dispel magic (at will), read omens (at will), spellwrack (at will);
+Constant (10th) detect magic, mind blank, tongues, true seeing
+Rituals DC 42; geas, legend lore
+Fated When a creature is subject to a fortune eﬀect from a norn and a
+misfortune eﬀect from any source other than a norn (or vice versa), the
+norn’s eﬀect automatically counteracts the other eﬀect and then takes
+place normally, rather than the two eﬀects canceling
+each other out. If both the fortune and misfortune
+eﬀect are from a norn, then the two cancel each
+other out as normal. At the GM’s discretion,
+powerful entities related to fate or luck, like
+Desna, Magdh, or Pharasma, count as a norn for
+the purpose of this ability.
+Sever Fate (necromancy, occult) When a norn deals
+negative damage with a Strike, she regains 10 Hit
+Points. The target must succeed at a DC 39 Fortitude
+save or become drained 1 (drained 2 on a critical failure).
+Further negative damage dealt by the norn increases
+the drained condition value by 1 on a failed save (or by 2
+on a critical failure), to a maximum of drained 4.
+Shift Fate Ǻȓ (divination, occult) Trigger A creature within 120
+feet attempts a saving throw; Eﬀect The creature rolls the
+saving throw twice, and then the norn decides which
+result applies. If the norn chooses the lower roll, this is
+a misfortune eﬀect; if she chooses the higher roll, it’s
+a fortune eﬀect; if they’re the same, she decides
+which trait to apply.
+Snip Thread ʚʖ (death, manipulate, necromancy,
+occult) Frequency three times per day; Eﬀect The
+norn produces a golden thread linked to the fate
+of a creature within 100 feet of her, then snips
+it short with her shears. The target takes 100
+negative damage (DC 42 basic Fortitude save). If
+the target is reduced to 0 Hit Points from this
+damage, the thread is completely severed and the
+creature dies immediately. A creature slain by Snip
+Thread can’t be restored to life except by miracle, wish,
+or similarly powerful magic; or by divine intervention. Regardless of the outcome
+of their saving throw, a creature targeted by Snip Thread then becomes temporarily
+immune for 24 hours. The norn can’t use Snip Thread again for 1d4 rounds.
+
+================================================================================
+PAGE 187
+================================================================================
+
+Bestiary 2
+UNFORTUNATE VICTIMS
+Nuckelavees are equally delighted to
+murder and feed upon both hapless
+peasants and altruistic naturalists
+engaged in the process of cleaning
+up pollution. Indeed, those who
+would seek to purify such sites
+are often regarded as the greater
+threat by a nuckelavee, as without a
+befouled land to dwell in, the foul fey
+would wither away.
+Nuckelavee
+When pollution despoils a natural waterway, it draws the dreaded nuckelavee to
+it from the First World. This spirit of wrath is a grisly sight to behold: a horselike
+monstrosity with the gnarled upper body of a humanoid growing directly from its
+back. Further enhancing the awfulness, not a patch of skin exists on the misshapen
+hybrid form, as though it survived its own ﬂaying.
+When a nuckelavee rides forth from its domain, it wreaks a trail of destruction
+across the lands surrounding its path. Nuckelavees are considered among the
+cruelest and most monstrous fey, seen by some as just desserts visited upon those
+who would befoul the waters of their homes. A nuckelavee, though, doesn’t
+discriminate between those who pollute and those who merely have the misfortune
+to be in the wrong place at the wrong time.
+
+================================================================================
+# NUCKELAVEE
+================================================================================
+
+
+Bestiary 2
+UNFORTUNATE VICTIMS
+Nuckelavees are equally delighted to
+murder and feed upon both hapless
+peasants and altruistic naturalists
+engaged in the process of cleaning
+up pollution. Indeed, those who
+would seek to purify such sites
+are often regarded as the greater
+threat by a nuckelavee, as without a
+befouled land to dwell in, the foul fey
+would wither away.
+Nuckelavee
+When pollution despoils a natural waterway, it draws the dreaded nuckelavee to
+it from the First World. This spirit of wrath is a grisly sight to behold: a horselike
+monstrosity with the gnarled upper body of a humanoid growing directly from its
+back. Further enhancing the awfulness, not a patch of skin exists on the misshapen
+hybrid form, as though it survived its own ﬂaying.
+When a nuckelavee rides forth from its domain, it wreaks a trail of destruction
+across the lands surrounding its path. Nuckelavees are considered among the
+cruelest and most monstrous fey, seen by some as just desserts visited upon those
+who would befoul the waters of their homes. A nuckelavee, though, doesn’t
+discriminate between those who pollute and those who merely have the misfortune
+to be in the wrong place at the wrong time.
+NUCKELAVEE
+CREATURE 9
+NE
+LARGE
+AMPHIBIOUS
+FEY
+Perception +16; low-light vision
+Languages Aklo, Common, Sylvan
+Skills Athletics +19, Intimidation +19, Nature +16, Stealth +18,
+Survival +16
+Str +6, Dex +3, Con +4, Int +1, Wis +3, Cha +4
+Items +1 striking bastard sword
+AC 28; Fort +19, Ref +16, Will +20
+HP 190; Immunities disease, poison; Weaknesses cold iron 10
+Frightful Presence (aura, emotion, fear, mental) 30 feet, DC 25
+Purity Vulnerability Unpolluted fresh water burns a
+nuckelavee like acid, dealing 1d6 damage to it and
+causing it to be sickened 2. A nuckelavee can’t heal
+from damage when it’s in an area that isn’t polluted
+(subject to GM discretion).
+Attack of Opportunity Ǻȓ
+Speed 40 feet, swim 40 feet
+Melee Ȱɵ bastard sword +21 (magical, reach 10 feet,
+two-hand d12), Damage 2d8+12 slashing plus
+1d6 poison and mortasheen
+Melee Ȱɵ jaws +20 (agile), Damage 2d8+12
+piercing plus 1d6 poison and mortasheen
+Melee Ȱɵ hoof +20, Damage 2d6+12
+bludgeoning plus mortasheen
+Primal Innate Spells DC 28; 5th control water; 3rd
+stinking cloud
+Rituals DC 28; blight
+Breath Weapon ʚʖ (disease, necromancy,
+poison, primal) The nuckelavee breathes a
+30-foot cone of foulness, dealing 8d6
+negative damage (DC 28 basic Fortitude
+save) to living creatures in the area.
+A creature that fails also takes
+2d6 persistent bleed damage.
+The nuckelavee can’t use Breath
+Weapon again for 1d4 rounds.
+Mortasheen (disease) The target can’t recover
+from the fatigued condition caused by
+mortasheen until the disease is cured. Mortasheen
+gains the virulent trait against animals and plants;
+Saving Throw DC 28 Fortitude; Stage 1 Carrier with no ill eﬀect (1 day); Stage 2
+drained 1 and fatigued (1 day); Stage 3 drained 2 and fatigued (1 day); Stage 4 dead
+Trample ̂ˬ Medium or smaller, hoof, DC 28
+
+================================================================================
+PAGE 188
+================================================================================
+
+OCTOPUS SPECIES
+The octopuses presented here
+are smaller versions of the much
+larger giant octopus, but other
+species exist as well. The brightly
+colored seaﬁre octopus occupies
+a predatory niche somewhere
+between the reef octopus and giant
+octopus—its bite injects a venom
+that causes a painful rash and
+nausea. The immense grisly octopus
+is among the largest of its kind. It
+can swallow humans whole and can
+squirt particularly sticky crimson
+ink to incapacitate prey.
+Octopus
+These cunning marine animals live in a variety of ocean habitats.
+BLUE-RINGED OCTOPUS
+While relatively small, the blue-ringed octopus is particularly venomous for its size.
+
+================================================================================
+# NYOGOTH
+================================================================================
+
+
+Bestiary 2
+QLIPPOTH REALMS
+Although it is widely accepted
+that qlippoth have lost incalculable
+territory in the Abyss to demonkind,
+these ﬁends still control vast regions
+in the deepest reaches of that plane.
+Some sages suggest the troubling
+possibility that perhaps qlippoth still
+hold more territory of the Abyss than
+demons do, but because demons are
+more concerned with mortal life, we
+simply interact with the layers they
+control more often. For all we know,
+these dour sages postulate, the
+Abyss teems with endless swarms of
+qlippoth that have yet to make their
+move against mortal life.
+NYOGOTH
+CREATURE 10
+UNCOMMON
+CE
+MEDIUM
+FIEND
+QLIPPOTH
+Perception +19; darkvision
+Languages Abyssal; telepathy 100 ft.
+Skills Acrobatics +21, Athletics +21, Intimidation +19, Occultism +16, Stealth +21
+Str +7, Dex +5, Con +6, Int +0, Wis +5, Cha +3
+AC 29; Fort +20, Ref +19, Will +16
+HP 175; Immunities acid, controlled, fear; Weaknesses lawful 10; Resistances mental 10,
+physical 10 (except cold iron)
+Caustic Blood Ǻȓ Trigger The nyogoth takes piercing or slashing damage; Eﬀect The
+nyogoth sprays its acidic blood on adjacent creatures, dealing 6d6 acid damage (DC
+29 basic Reﬂex save).
+Speed 5 feet, ﬂy 25 feet
+Melee Ȱɵ jaws +23 (chaotic, magical), Damage 2d6+13 piercing plus 2d6 acid, 1d6
+chaotic, and Grab
+Melee Ȱɵ tentacle mouth +23 (agile, chaotic, magical, reach 10 feet), Damage 2d6+13
+piercing plus 1d6 acid, 1d6 chaotic, and Grab
+Occult Innate Spells DC 26, attack +20; 5th cloudkill; 4th acid arrow (at will), dimension
+door; 3rd fear (at will)
+Feeding Frenzy Ȱɵ Requirement The nyogoth has grabbed a creature; Eﬀect The nyogoth
+slavers and chews at the grabbed creature, dealing 2d6+7 slashing and 1d6 acid
+damage (DC 29 basic Fortitude save).
+Nauseating Display ʚʖ (concentrate, emotion, enchantment, fear, incapacitation,
+mental, occult, visual) The nyogoth untangles its tentacles and prolapses its
+many mouths, turning itself inside out in a truly nauseating display.
+Creatures in a 30-foot emanation must attempt a DC 29
+Will save, after which they are temporarily immune to
+further Nauseating Displays for 1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature is sickened 1.
+Failure The creature is stunned 3 and
+sickened 1.
+Critical Failure The creature is
+stunned 5 and sickened 2.
+CHERNOBUE
+The chernobue infects all creatures it encounters
+with itself, spreading pain and calamity wherever it
+ﬂops and writhes. It sheds ruin and sups on anguish,
+but a chernobue can sometimes be persuaded to pause
+for a few moments of conversation if its partner in
+discourse can keep its attention by providing
+enough atrocious details. Resembling a
+tumor-like growth of oily blackness, this
+vile monstrosity has numerous muscular
+tentacles, a single glaring baleful eye, and a drooling, toothy maw
+in the middle of its body.

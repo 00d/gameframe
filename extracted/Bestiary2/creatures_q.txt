@@ -1,0 +1,340 @@
+# Bestiary - Creatures: Q
+# Count: 3 creatures
+
+
+================================================================================
+# QUETZ COUATL
+================================================================================
+
+
+Bestiary 2
+OTHER COUATLS
+The quetz couatl presented here is
+the most common of its kind, and
+while most adventurers and scholars
+refer to them simply as “couatls,”
+other kinds exist as well, such as
+the ﬁerce xiuh couatl, the nomadic
+auwaz couatl, the wise mix couatl,
+the nurturing chicome couatl, and
+the furious tletli couatl.
+Couatl, Quetz
+These sacred feathered serpents tirelessly serve the powers of law and good. Some
+operate directly as messengers and intermediaries of the deities, while others
+operate independently in aiding the cause of righteousness. Either way, they watch
+over mortals and try to inﬂuence and aid them from the shadows, shifting from
+plane to plane to spread wisdom and healing where they are needed. Some quetz
+couatls are worshipped as divinities in remote or isolated societies, and while they
+do not encourage such veneration, they use the trust placed in them to foster peace
+and cooperation with others.
+Quetz couatls are typically 10 to 20 feet long, with iridescent blue and green
+scales. Their glorious wings of rainbow-hued feathers span 15 feet and weigh
+nearly a ton. They are carnivorous, feeding on birds, mammals, and even the
+occasional evil humanoid.
+QUETZ COUATL
+CREATURE 10
+UNCOMMON
+LG
+LARGE
+BEAST
+COUATL
+Perception +21; darkvision, detect alignment
+Languages
+Celestial,
+Common,
+Draconic;
+telepathy 100 feet
+Skills Acrobatics +16, Arcana +19, Diplomacy
++22, Nature +22, Occultism +19, Religion
++22, Survival +16
+Str +7, Dex +3, Con +5, Int +6, Wis +5, Cha +5
+AC 30; Fort +19, Ref +19, Will +21
+HP 175
+Speed 15 feet, ﬂy 50 feet
+Melee Ȱɵ jaws +23 (magical), Damage 2d10+13
+piercing plus quetz couatl venom and Grab
+Divine Innate Spells DC 29; 7th ethereal jaunt (at
+will), plane shift (self only); 5th breath of life, divine
+wrath; 4th charm, gaseous form; 3rd mind reading
+(at will); 2nd invisibility (self only, at will); Cantrips
+(5th) disrupt undead, light, mage hand; Constant (5th)
+detect alignment (all alignments simultaneously)
+Greater Constrict Ȱɵ 2d10+7 bludgeoning, DC 29
+Quetz Couatl Venom (poison) A quetz couatl’s venom deals good
+damage rather than poison damage to ﬁends; Saving Throw DC 29
+Fortitude; Maximum Duration 6 rounds; Stage 1 2d6 poison damage and
+enfeebled 1 (1 round); Stage 2 2d8 poison damage, enfeebled 1, and
+ﬂat-footed (1 round); Stage 3 2d10 poison damage, enfeebled 2, and
+ﬂat-footed (1 round)
+Radiant Wings ʚʖ (divine, enchantment, incapacitation,
+mental, visual) The quetz couatl spreads its multicolored
+wings and radiant plumage. Each enemy within 30 feet
+must attempt a DC 29 Will save.
+Critical Success The creature is unaﬀected and is temporarily
+immune to Radiant Wings for 24 hours.
+Success The creature is dazzled for 1 round.
+Failure The creature is dazzled for 1 minute.
+Critical Failure As failure, but if the creature is evil, it is also
+stunned 3.
+Wrap in Coils Ȱɵ Requirements The quetz couatl has a
+Medium or smaller creature grabbed or restrained in
+its jaws; Effect The quetz couatl moves the creature
+into its coils, freeing its fangs to make attacks, then uses
+Greater Constrict against the creature. The quetz couatl
+can hold as many creatures in its coils as will fit in its space.
+
+================================================================================
+PAGE 56
+================================================================================
+
+CRAB SPECIES
+Crabs can be found along all of the
+world’s coastlines, from relatively
+small creatures like the king crab or
+the coconut crab, to truly oversized
+monsters like the great reef crab,
+shark-eating crab, or the lumbering
+shipwrecker crab.
+Crab
+Crabs are scavenging crustaceans known for their hard shells and iconic sideways
+gait. They use their claws to defend themselves, hunt, and ﬁght other crabs for
+territory. When confronted with threats from outside their species, most crabs
+prefer to ﬂee, but when retreat isn’t possible, they clamp on to their foes as tightly
+as they can.
+The statistics presented here represent giant crabs that live close to the water’s
+surface. Crabs that live deeper underwater often exhibit more extreme adaptations
+to their environment. Crabs who live in the depths where little light reaches gain
+darkvision and cold resistance, and those adapted to the most hostile reaches of
+the deep sea can detect nearby creatures through subtle shifts in ocean currents.
+These skittering creatures are prized for their delicious meat, but their size
+makes them dangerous targets for harvesting.
+
+================================================================================
+# QUICKLING
+================================================================================
+
+
+Bestiary 2
+QUICKLING PRANKS
+Quicklings consider cruelty to
+be the pinnacle of pranking. As
+a relatively minor example, a
+quickling may spend an entire day
+constantly moving food out of reach
+of a starving man. More commonly,
+however, a quickling prefers to cause
+pain and injury directly, such as by
+suddenly replacing a dinner fork with
+a red-hot knife as it’s picked up, or
+slashing the legs of a traveler moving
+through tall grass.
+Quickling
+Few creatures can match a quickling’s speed. These malicious fey creatures delight in
+striking with blinding speed and accuracy, racing in to stab and slash at foes before
+scampering away for cover with maddening­—even frightening—swiftness. Stories
+of people simply doubling over, bleeding from what appear to be spontaneously
+opening wounds, are often eyewitness accounts of quickling attacks.
+Quicklings actively hate the “slow-paced dullards” they encounter every day,
+delighting in inﬂicting suffering and pain on creatures they deem too sluggish to
+matter. While they are related to kinder fey such as brownies and pixies, quicklings
+care only for their own merriment. They see their own cruel pranks as the height of
+humor and have full conﬁdence that their speed and invisibility will keep them safe
+from harm. They occasionally form gangs of up to a dozen individuals, although
+the group usually devolves very quickly into mayhem, as they inevitably perform
+increasingly deadly pranks against each other.
+QUICKLING
+CREATURE 3
+UNCOMMON
+CE
+SMALL
+FEY
+Perception +9; low-light vision
+Languages Aklo, Common, Sylvan
+Skills Acrobatics +13, Crafting +8, Deception +8, Nature +8, Stealth +11, Survival +6,
+Thievery +11
+Str +0, Dex +4, Con +1, Int +3, Wis +1, Cha +3
+Items lethargy poison (3 doses), shortsword
+AC 22; Fort +6, Ref +13, Will +8
+HP 25; Weaknesses cold iron 5
+Slow Susceptibility The quickling takes a –2 status penalty to saving throws against
+eﬀects that cause the slowed condition. If the quickling ever
+becomes slowed, they lose their supernatural speed, can’t Fade
+from View, and become sickened 1 for the duration of
+the slow. They also can’t reduce this sickened
+condition for the duration of the slowed eﬀect.
+Can’t Catch Me Ǻȓ Trigger The quickling is
+targeted by a Strike; Eﬀect The quickling
+darts aside, gaining a +2 circumstance bonus
+to AC, then Strides up to half their Speed after
+the Strike resolves.
+Speed 100 feet
+Melee Ȱɵ shortsword +11
+(agile, ﬁnesse, versatile S),
+Damage 1d6+2 piercing plus
+lethargy poison
+Primal Innate Spells DC 20; 2nd shatter; 1st
+ventriloquism; Cantrips (2nd) dancing lights, prestidigitation
+Fade from View Ȳ˓ Requirements The quickling used no attack, manipulate, or move actions
+in the previous round; Eﬀect The quickling becomes invisible until it uses an attack,
+manipulate, or move action. The quickling can’t use Fade from View again for 1d4 rounds.
+Sneak Attack The quickling’s Strikes deal an extra 1d6 precision damage to
+ﬂat-footed creatures.
+Supernatural Speed The quickling’s speed, combined with nearly instantaneous
+acceleration and deceleration, enables them to move in astonishing ways. As
+long as they have a ﬁrm surface to travel across, they can Stride their full
+movement vertically or horizontally. They can even run across unstable
+surfaces, such as water, in the same way,
+although dangerous surfaces (acid, lava,
+etc.) harm them as normal. They must
+end their movement on a horizontal surface
+capable of bearing their weight or else they fall.
+
+================================================================================
+PAGE 220
+================================================================================
+
+COASTAL HUNTERS
+Quoppopaks prefer to hunt at dawn
+and dusk, prowling seashores and
+estuaries for fresh meat. While they
+could easily live oﬀ of the minerals
+and tiny organisms they ﬁlter from
+the water sucked through their
+ventral tubes, they delight in killing
+living creatures. Despite their cruel
+natures, quoppopaks don’t mind
+hunting alongside others of their
+kind if it means they’ll be able to
+create even more carnage.
+Quoppopak
+Quoppopaks combine the most terrifying aspects of water striders, octopuses,
+and vampire bats into one evil, water-dwelling monster. Their bodies consist of
+an oval abdomen, eight hollow tentacles, and a thick, tail-like limb ending in
+a ventral tube, which resembles a lamprey’s mouth and is capable of intaking
+ﬂuids at an astounding rate. While quoppopaks can clumsily maneuver on land,
+they prefer to move on water; quoppopaks glide along the surface of lakes or the
+ocean by thrusting their ventral tubes into the water, cycling liquid up through
+their bodies, then spraying the water back out in a high-pressure stream through
+their hollow, spear-like tentacles. Though the ventral tube can’t expel ﬂuids, it
+still poses a substantial threat to other creatures. Quoppopaks have gills, but
+they are located inside the creatures’ abdomens, allowing them to draw their
+air from the water they siphon through their ventral tubes. Quoppopaks can
+hold some water in their abdomens for quick forays on land, but this is akin to
+humans holding their breath to go underwater, and the monsters’ water reserves
+quickly deplete.
+
+================================================================================
+# QUOPPOPAK
+================================================================================
+
+
+COASTAL HUNTERS
+Quoppopaks prefer to hunt at dawn
+and dusk, prowling seashores and
+estuaries for fresh meat. While they
+could easily live oﬀ of the minerals
+and tiny organisms they ﬁlter from
+the water sucked through their
+ventral tubes, they delight in killing
+living creatures. Despite their cruel
+natures, quoppopaks don’t mind
+hunting alongside others of their
+kind if it means they’ll be able to
+create even more carnage.
+Quoppopak
+Quoppopaks combine the most terrifying aspects of water striders, octopuses,
+and vampire bats into one evil, water-dwelling monster. Their bodies consist of
+an oval abdomen, eight hollow tentacles, and a thick, tail-like limb ending in
+a ventral tube, which resembles a lamprey’s mouth and is capable of intaking
+ﬂuids at an astounding rate. While quoppopaks can clumsily maneuver on land,
+they prefer to move on water; quoppopaks glide along the surface of lakes or the
+ocean by thrusting their ventral tubes into the water, cycling liquid up through
+their bodies, then spraying the water back out in a high-pressure stream through
+their hollow, spear-like tentacles. Though the ventral tube can’t expel ﬂuids, it
+still poses a substantial threat to other creatures. Quoppopaks have gills, but
+they are located inside the creatures’ abdomens, allowing them to draw their
+air from the water they siphon through their ventral tubes. Quoppopaks can
+hold some water in their abdomens for quick forays on land, but this is akin to
+humans holding their breath to go underwater, and the monsters’ water reserves
+quickly deplete.
+QUOPPOPAK
+CREATURE 11
+NE
+LARGE
+ABERRATION
+AQUATIC
+Perception +22; low-light vision
+Languages Aquan
+Skills Acrobatics +23, Athletics +22, Stealth +23
+Str +7, Dex +6, Con +5, Int –2, Wis +5, Cha +0
+AC 31; Fort +22, Ref +23, Will +18
+HP 195
+Attack of Opportunity Ǻȓ Tentacle only.
+Speed 15 feet, swim 40 feet, water glide 30 feet
+Melee Ȱɵ beak +24 (reach 10 feet), Damage 3d8+13 piercing
+Melee Ȱɵ tentacle +24 (agile, reach 15 feet), Damage 2d8+13 bludgeoning plus Grab
+Melee Ȱɵ ventral tube +24 (reach 10 feet), Damage 2d6+13 slashing plus 1d6
+persistent bleed
+Ranged Ȱɵ water jet +23 (range 100 feet, water), Damage 2d6+13 bludgeoning plus
+Push 5 feet
+Flooding Thrust ʚʖ Requirements The quoppopak’s ventral tube
+is in water; Eﬀect The quoppopak uses Tentacle Stab against
+a creature within reach; if either of these Strikes hits, the
+creature must attempt a DC 30 Reﬂex save. On a failed
+save, the quoppopak shoots water through its tentacles
+into the creature, dealing 2d6+5 bludgeoning damage
+and making the creature sickened 1 as its internal
+organs ﬁll with water (double damage and
+sickened 2 on a critical failure).
+Tentacle Stab Ȱɵ Frequency once per
+round; Eﬀect The quoppopak makes
+two tentacle Strikes against the same
+creature. These Strikes deal piercing
+damage instead of bludgeoning,
+and the quoppopak can’t Grab
+with them. Its multiple attack
+penalty doesn’t increase until
+after both attacks.
+Water Glide
+The
+quoppopak
+can stand and move on the
+surface of water or other liquids
+without falling through. It can
+go underwater if it wishes, but it
+must Swim to do so.
+
+================================================================================
+PAGE 221
+================================================================================
+
+Bestiary 2
+ANCIENT INTELLECTS
+Each radiant warden’s animating
+force consists of raw positive
+energy fused to the soul of a
+willing sacriﬁce—usually an
+astronomer or scholar near the
+end of their natural life. Focused
+now on protecting a site from any
+intrusion­—including by curious
+archaeologists or adventurers—a
+radiant warden might pause before
+an attack if approached peacefully.
+Unfortunately, these constructs are
+prone to speaking in vague riddles
+or complex mathematical diatribes
+that can be as confusing as they are
+intriguing; often, discussions break
+down as frustration mounts on
+either side (or both).
+Radiant Warden
+The enigmatic and strange radiant wardens were constructed thousands of
+years ago to protect observatories and scholars against the incursion of alien
+aggressors from the Dominion of the Black. Over time, their roles as guardians
+expanded to include watching over any region where the laws of time and space
+have worn thin, particularly near portals and permanent gates between planets,
+planes, or dimensions.
+Named for both the radial nature of the concentric rings that make up their
+bodies as well as the glowing radiance of their attacks, radiant wardens carry on
+their orders, defending sites from invasion with single-minded purpose.

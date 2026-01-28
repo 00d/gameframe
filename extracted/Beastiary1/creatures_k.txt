@@ -1,0 +1,568 @@
+# Bestiary - Creatures: K
+# Count: 6 creatures
+
+
+================================================================================
+# KOLYARUT
+================================================================================
+
+
+Bestiary
+Kolyarut
+Kolyarut inevitables are enforcers of bargains and punishers of those who fail
+to uphold them. Their humanoid shape, ability to disguise themselves among a
+humanoid population, and diplomatic leanings make them the most approachable
+inevitables, and thus more likely to ally themselves with others. They are among
+the most talkative of all inevitables, naturally possessing a courtly grace and an
+encyclopedic knowledge of social customs, which they use to assist their efforts
+in gathering information on their targets or issuing challenges in a legal manner.
+KOLYARUT
+CREATURE 12
+LN
+MEDIUM
+AEON
+INEVITABLE
+MONITOR
+Perception +23 (+27 to detect lies); darkvision
+Languages Celestial, Infernal, Utopian; truespeech
+Skills Acrobatics +22, Athletics +27, Axis Lore +22, Diplomacy +20, Deception +20,
+Survival +22
+Str +7, Dex +4, Con +5, Int +1, Wis +4, Cha +2
+Truespeech A kolyarut can speak with and understand any creature that has a language.
+Items +1 striking bastard sword
+AC 34; Fort +23, Ref +24, Will +22; +1 status to all saves vs. magic
+HP 215, regeneration 15 (deactivated by chaotic); Immunities death eﬀects, disease,
+emotion, poison, unconscious; Weaknesses chaotic 15
+Speed 25 feet
+Melee Ȱɵ bastard sword +26 (lawful, magical, two-hand d12), Damage 2d8+13 slashing
+plus 1d6 lawful
+Melee Ȱɵ ﬁst +23 (agile, lawful, magical), Damage 1d10+11 bludgeoning plus 1d6 lawful
+Divine Innate Spells DC 32; 8th discern location; 5th command; 4th illusory disguise
+(at will), suggestion (×2); 3rd paralyze (×2); 2nd invisibility (self only); 1st command
+(at will)
+Divine Rituals DC 32; geas
+Pleroma
+Among the most powerful of all the true aeons, pleromas are a manifestation
+of the duality of creation and destruction. Their physical manifestation is
+a constant state of ﬂux between these two poles, their forms a shifting
+cloak of black where galaxies and other celestial objects ﬂit in and out of
+existence, as if depicting the constant life, death, and rebirth of a miniature,
+self-contained universe.
+Pleromas see the multiverse as both eternal and cyclical, doomed and
+malleable, ending only if these cycles ever become unbalanced. They
+believe the current Convergence is necessary to obtain this
+essential balance, and act to ensure that the grand design of
+the Monad is carried out to the smallest detail.
+
+================================================================================
+# KOBOLD SCOUT
+================================================================================
+
+
+DIABOLIC KOBOLDS
+Certain kobold tribes eschew any
+concept of draconic lineage entirely
+and instead place their faith in the
+archdevils of Hell. These diabolist
+kobolds view those of their kind
+who simper at the feet of dragons
+as pathetic wretches. That they
+perform the same fearful worship
+to their chosen devil does not strike
+these infernally minded kobolds as
+an irony at all.
+Kobold Scout
+Most kobolds encountered outside of a well-defended warren or lair are kobold
+scouts, creatures trained for stalking and the hunt.
+KOBOLD SCOUT
+CREATURE 1
+LE
+SMALL
+HUMANOID
+KOBOLD
+Perception +8; darkvision
+Languages Common, Draconic
+Skills Acrobatics +7, Crafting +3 (+5 traps), Nature +6, Stealth +7, Survival +6
+Str +0, Dex +4, Con +1, Int +0, Wis +3, Cha +1
+Items crossbow (20 bolts), leather armor, shortsword, snare kit
+AC 18; Fort +5, Ref +9, Will +6
+HP 16
+Speed 25 feet
+Melee Ȱɵ shortsword +9 (agile, ﬁnesse, versatile S), Damage 1d6 piercing
+Ranged Ȱɵ crossbow +9 (range increment 120 feet, reload 1), Damage 1d8 piercing
+Hurried Retreat Ȱɵ As kobold warrior.
+Sneak Attack The kobold scout deals an extra 1d6 precision damage to ﬂat-footed
+creatures.
+Kobold Dragon Mage
+Kobold dragon mages use magic to carry out their secret schemes. The
+presence of a dragon mage in a kobold warren is one of the greatest
+testaments to the kobolds’ claim to draconic heritage.
+
+================================================================================
+# KOBOLD DRAGON MAGE
+================================================================================
+
+Hurried Retreat Ȱɵ As kobold warrior.
+Sneak Attack The kobold scout deals an extra 1d6 precision damage to ﬂat-footed
+creatures.
+Kobold Dragon Mage
+Kobold dragon mages use magic to carry out their secret schemes. The
+presence of a dragon mage in a kobold warren is one of the greatest
+testaments to the kobolds’ claim to draconic heritage.
+KOBOLD DRAGON MAGE
+CREATURE 2
+LE
+SMALL
+HUMANOID
+KOBOLD
+Perception +5; darkvision
+Languages Common, Draconic
+Skills Arcana +6, Dragon Lore +10, Deception +8, Diplomacy
++8, Intimidation +8, Stealth +7
+Str –1, Dex +3, Con +0, Int +2, Wis +1, Cha +4
+Items staﬀ
+AC 17; Fort +4, Ref +7, Will +7
+HP 25; Resistances poison 5 (see dragonscaled)
+Dragonscaled A kobold dragon mage’s resistance depends on the color of
+its scales: Black acid 5, Blue electricity 5, Green poison 5, Red ﬁre 5,
+White cold 5.
+Speed 25 feet
+Melee Ȱɵ claw +7 (agile, ﬁnesse), Damage 1d6–1 slashing
+Melee Ȱɵ staﬀ +3 (two-hand d8), Damage 1d4–1 bludgeoning
+Arcane Spontaneous Spells DC 20; 1st (4 slots) fear, illusory
+object, magic missile; Cantrips (1st) detect magic, electric arc,
+ghost sound, mage hand, tanglefoot
+Illusory Retreat ̂ˬ (arcane, illusion, manipulate, move);
+Frequency once per hour; Requirements The kobold
+dragon mage is adjacent to at least one enemy. Eﬀect
+The dragon mage creates an illusion of itself in its
+square and then becomes invisible (with
+the eﬀects of a 2nd-level invisibility
+spell) for 1d4 rounds. The dragon mage
+can move up to half its Speed, but it
+must end its movement in a space that’s not
+adjacent to any enemies. This is a 1st-level spell that requires a
+somatic component.
+Sneak Attack The dragon mage deals an extra 1d6 precision damage to ﬂat-footed
+creatures.
+
+================================================================================
+PAGE 215
+================================================================================
+
+Bestiary
+KRAKEN TREASURE
+A kraken’s hoard includes the
+plunder of ships lost at sea and
+the wealth of sunken cities.
+Virtually anything could be
+found in a kraken lair, but they
+especially covet scrolls, spell
+books, and other tomes of ancient
+lore, as well as gemstones and
+rareﬁed raw materials found only
+in the ocean depths.
+Kraken
+A kraken is an enormous, squid-like leviathan with a cruel intelligence. It hunts
+ships, whales, and heroes alike. The hatred and envy krakens hold for their rivals,
+the alghollthus, has led many krakens to make their lairs in sunken cities, where
+they can sift through ancient lore for long-lost arcane secrets.
+
+================================================================================
+# KRAKEN
+================================================================================
+
+
+Bestiary
+KRAKEN TREASURE
+A kraken’s hoard includes the
+plunder of ships lost at sea and
+the wealth of sunken cities.
+Virtually anything could be
+found in a kraken lair, but they
+especially covet scrolls, spell
+books, and other tomes of ancient
+lore, as well as gemstones and
+rareﬁed raw materials found only
+in the ocean depths.
+Kraken
+A kraken is an enormous, squid-like leviathan with a cruel intelligence. It hunts
+ships, whales, and heroes alike. The hatred and envy krakens hold for their rivals,
+the alghollthus, has led many krakens to make their lairs in sunken cities, where
+they can sift through ancient lore for long-lost arcane secrets.
+KRAKEN
+CREATURE 18
+UNCOMMON
+NE
+GARGANTUAN
+AQUATIC
+BEAST
+Perception +34; darkvision
+Languages Aquan, Common
+Skills Athletics +38, Intimidation +32, Nature +35, Stealth +33
+Str +9, Dex +4, Con +9, Int +5, Wis +6, Cha +5
+AC 42; Fort +35, Ref +28, Will +32
+HP 360; Immunities controlled, emotion; Resistances cold 10, poison 20
+Altered Weather (aura, evocation, primal) A kraken reshapes the weather within 2
+miles of it, with the eﬀect of the control weather ritual centered on the kraken and
+based on its emotional state, at the GM’s discretion. If the kraken dies, the weather
+returns to normal immediately.
+Speed 10 feet, swim 40 feet
+Melee Ȱɵ arm +37 (reach 40 feet, magical), Damage 4d10+17 bludgeoning plus Grab
+Melee Ȱɵ tentacle +37 (reach 60 feet, agile, magical), Damage 3d10+17 bludgeoning
+plus Grab
+Melee Ȱɵ beak +37 (reach 20 feet, magical), Damage 3d10+17 piercing
+Primal Innate Spells DC 40; 10th dominate (animals only); 8th punishing winds;
+7th resist energy
+Constrict Ȱɵ 2d10+17 bludgeoning, DC 40. On a failed save, a creature that is holding
+its breath loses 1d4 rounds worth of air.
+Double Attack Ȱɵ The kraken makes two Strikes with two diﬀerent arms or tentacles, each
+limb targeting a diﬀerent creature. Double Attack counts
+as two attacks toward the kraken’s multiple attack
+penalty for further actions, but the penalty doesn’t
+increase until after both attacks are made. If the
+kraken subsequently uses the Grab action, it Grabs
+any number of creatures it hit with Double Attack.
+Ink Cloud Ȱɵ The kraken emits a cloud of black,
+venomous ink in an 80-foot emanation.
+This cloud has no eﬀect outside
+water. Creatures inside the ink
+cloud are exposed to kraken
+ink poison and are undetected
+while inside the cloud. The
+kraken can’t use Ink
+Cloud again for 2d6
+rounds, and the cloud
+dissipates after 1 minute.
+Jet Ȱɵ (move) The kraken
+moves through the water
+up to 280 feet in a straight
+line
+without
+triggering
+reactions.
+Kraken
+Ink
+(poison);
+Krakens are immune to this
+poison. Saving Throw DC 39
+Fortitude; Maximum Duration 10
+rounds; Stage 1 3d6 poison damage
+and sickened 1 (1 round); Stage 2 4d6
+poison damage and sickened 2 (1 round).
+KRAKEN LOCATIONS
+A kraken dwells in deep ocean
+trenches, sunken cities, or caves
+and reefs near hydrothermal vents.
+It seeks food near the surface,
+however, where it can prey on
+seagoing vessels.
+
+================================================================================
+PAGE 216
+================================================================================
+
+KROOTH GUTS
+While krooth lairs can contain
+valuables in the form of gear
+and magic items found on dead
+adventurers, the strange enzymes
+and other chemicals found in the
+internal organs of male krooths,
+particularly the liver, pancreas,
+and kidneys, are of great value
+to alchemists who seek to
+concoct elixirs and potions with
+transmutation eﬀects. A single
+male krooth’s organs, properly
+harvested and preserved, can be
+sold to an interested alchemist.
+Krooth
+Krooths, sometimes called crocodile eaters, are fast and vicious hunters of bogs and
+wetlands. While they are known to hunt and eat crocodiles, alligators, and virtually
+any creature with ﬂesh, their favorite prey are lizardfolk, boggards, and dinosaurs.
+Krooths are found alone or in packs. Male krooths are solitary and territorial
+creatures—ﬁerce, bold, and bloodthirsty. Female krooths, on the other hand, are
+likely to shy away from potential predators but swiftly turn violent when their
+brood is threatened. Because their offspring are so vulnerable, female krooths
+gather in packs to raise their young, sending smaller groups to hunt for food
+while the rest of the pack watches the brood. Krooths mate only once every 4
+or 5 years, and the mating process is a curiously gruesome spectacle. An entire
+pack of females will hunt as a group for a lone male krooth, claiming their prize
+in an orgiastic frenzy that can last for an entire day and night. After the mating
+has ﬁnished, the females slay their mate and devour his nutrient-rich ﬂesh, and
+his organs in particular. These organs contain a unique chemical compound vital
+to gestation. Many naturalists will pay handsomely for the fresh remains of a
+male krooth so they can study the strange properties of the creature’s blood and
+organs. In addition, krooths have poisonous, hollow teeth. When these creatures
+bite their prey, a tooth breaks off and causes the victim to bleed profusely as their
+blood pours through the hollow tooth.
+Whether male or female, krooths seem to be repelled by goblinoid ﬂesh,
+especially that of bugbears. This doesn’t mean krooths won’t kill goblinoids,
+especially those threatening their young, but they typically do so using only
+their claws and tails, and they take great care to clean themselves thoroughly
+after such a killing.
+
+================================================================================
+# KROOTH
+================================================================================
+
+
+KROOTH GUTS
+While krooth lairs can contain
+valuables in the form of gear
+and magic items found on dead
+adventurers, the strange enzymes
+and other chemicals found in the
+internal organs of male krooths,
+particularly the liver, pancreas,
+and kidneys, are of great value
+to alchemists who seek to
+concoct elixirs and potions with
+transmutation eﬀects. A single
+male krooth’s organs, properly
+harvested and preserved, can be
+sold to an interested alchemist.
+Krooth
+Krooths, sometimes called crocodile eaters, are fast and vicious hunters of bogs and
+wetlands. While they are known to hunt and eat crocodiles, alligators, and virtually
+any creature with ﬂesh, their favorite prey are lizardfolk, boggards, and dinosaurs.
+Krooths are found alone or in packs. Male krooths are solitary and territorial
+creatures—ﬁerce, bold, and bloodthirsty. Female krooths, on the other hand, are
+likely to shy away from potential predators but swiftly turn violent when their
+brood is threatened. Because their offspring are so vulnerable, female krooths
+gather in packs to raise their young, sending smaller groups to hunt for food
+while the rest of the pack watches the brood. Krooths mate only once every 4
+or 5 years, and the mating process is a curiously gruesome spectacle. An entire
+pack of females will hunt as a group for a lone male krooth, claiming their prize
+in an orgiastic frenzy that can last for an entire day and night. After the mating
+has ﬁnished, the females slay their mate and devour his nutrient-rich ﬂesh, and
+his organs in particular. These organs contain a unique chemical compound vital
+to gestation. Many naturalists will pay handsomely for the fresh remains of a
+male krooth so they can study the strange properties of the creature’s blood and
+organs. In addition, krooths have poisonous, hollow teeth. When these creatures
+bite their prey, a tooth breaks off and causes the victim to bleed profusely as their
+blood pours through the hollow tooth.
+Whether male or female, krooths seem to be repelled by goblinoid ﬂesh,
+especially that of bugbears. This doesn’t mean krooths won’t kill goblinoids,
+especially those threatening their young, but they typically do so using only
+their claws and tails, and they take great care to clean themselves thoroughly
+after such a killing.
+KROOTH
+CREATURE 8
+N
+LARGE
+AMPHIBIOUS
+ANIMAL
+Perception +16; low-light vision, scent (imprecise) 60 feet
+Skills Athletics +18, Stealth +18 (+20 in water), Survival +17 (+20 to Track a bleeding
+creature)
+Str +6, Dex +3, Con +6, Int –4, Wis +2, Cha +0
+AC 26; Fort +20, Ref +17, Will +14, +4 status to all saves vs. fear
+HP 150
+Attack of Opportunity Ǻȓ Tail only.
+Pain Frenzy Whenever the krooth is damaged by a critical hit, it gains a +2 status bonus
+to attack and damage rolls until the end of its next turn. It can’t use reactions while
+this frenzy lasts.
+Speed 40 feet, swim 30 feet
+Melee Ȱɵ jaws +20 (deadly 1d10, poison, reach 10 feet), Damage 2d12+9 piercing plus
+Poison Tooth
+Melee Ȱɵ claw +20 (agile), Damage 2d8+9 slashing
+Melee Ȱɵ tail +20 (reach 15 feet), Damage 2d8+9 piercing
+Aquatic Ambush Ȱɵ
+Poison Tooth Ȱɵ (poison); Requirements The krooth
+damaged a creature with its jaws on its most recent
+action this turn. Effect The krooth snaps off one of
+its teeth in the creature it hit. The creature takes
+1d6 persistent bleed damage and is drained 1.
+Neither can be healed while the tooth remains.
+Removing the tooth safely requires a successful
+DC 26 check to Administer First Aid. Instead of
+ending bleeding or stabilizing,
+this removes the drained
+condition, but it doesn’t
+automatically end the
+bleed damage.
+
+================================================================================
+PAGE 217
+================================================================================
+
+Bestiary
+LAMIA TREASURE
+Lamias salvage gold, jewels, and
+magic items from the abandoned
+temples and ruined cities where
+they make their lairs. They
+sometimes arm themselves with
+enchanted daggers.
+LAMIA LOCATIONS
+Lamias dwell on the edge of
+civilization in crumbling keeps,
+abandoned cities, and the fallen
+temples of forgotten gods.
+Lamia
+Lamias are bloodthirsty victims of an ancient curse for which they blame the
+gods. Most lamias are humanoid from the waist up but have the lower bodies of
+beasts and monsters. Sinister magic comes naturally to a lamia, and they prefer
+the use of illusions and enchantments to deceive prey for later consumption, or
+simply to torture.
+Lamia
+Just as they were cursed long ago, lamias can curse those they touch, clouding the
+mind and regressing conscious thought to purely animalistic instincts. Creatures
+affected by this curse grow reckless, becoming unaware of the consequences of
+their own actions and unable to think clearly. This makes the hapless victim all
+the more susceptible to the lamia’s cunning illusions and insidious charms. The
+lamia’s animalistic nature and the effect of their cursed touch has led some scholars
+to theorize that the original lamias must have, millennia ago, turned away from
+their own reason and intellect and embraced the life of simple beasts. Whether
+this change was rewarded as a monstrous gift from Lamashtu or inﬂicted as a
+curse for abandoning their responsibilities by Pharasma remains the subject of
+debate to this day.
+Whatever the source of this ancient transformation, lamias themselves have
+grown to enjoy the strengths it has granted them. Regardless, they continue
+to cling to a hatred of the gods, seeing them as the cause of their monstrous
+forms and, thus, their eternal exile from the societies they watch with
+jealous eyes from their lairs amid the ruins of lost civilizations. Because
+lamias blame divine powers for their curse, they take special delight
+in the downfall of temples, the suffering and death of champions and
+clerics, and the spread of dissension within organized religions.
+While they can brieﬂy assume humanoid form with magic, lamias
+are usually forced to hide from civilization, making their homes in
+the barren wilderness. There, they attract cults of their own, gathering
+up chaotic and evil humanoids. With the help of these cultists,
+lamias strive to bring down popular faiths, introduce schisms
+into ﬂourishing churches, and humiliate or defame highproﬁle religious leaders. Most lamias themselves have no
+true religious faith in anything, hearing instead a mystical
+calling that manifests as sighs on the desert wind or
+murmurs from the dark places between the stars.
+Lamias are traditionally matriarchal, revering
+the eldest female among them as leader, mother,
+and shaman.
+
+================================================================================
+# KEKETAR
+================================================================================
+
+
+DEFENDING CHAOS
+Where proteans go, chaos follows.
+To proteans, there is no purer form
+of existence than entropy, and
+they constantly seek to oppose
+the establishment of order in the
+Great Beyond. However, proteans
+don’t see life as being incompatible
+with chaos; rather, they simply
+believe beings—immortal or
+not—deserve complete
+freedom on their
+own terms.
+KEKETAR
+CREATURE 17
+CN
+LARGE
+MONITOR
+PROTEAN
+Perception +30; entropy sense (imprecise) 60 feet, darkvision
+Languages Abyssal, Celestial, Protean; telepathy 100 feet, tongues
+Skills Acrobatics +26, Athletics +30, Deception +33, Diplomacy +35, Intimidation +35,
+Religion +30, Stealth +28
+Str +9, Dex +5, Con +7, Int +5, Wis +7, Cha +7
+Entropy Sense (divination, divine, prediction) As voidworm.
+AC 40; Fort +30, Ref +28, Will +34; +1 status to all saves vs. magic
+HP 290, fast healing 10; Weaknesses lawful 15; Resistances precision 10, protean
+anatomy 25
+Protean Anatomy (divine, transmutation) As voidworm.
+Spatial Riptide (aura, divine, transmutation) 30 feet. A creature using a
+teleportation ability within the aura or arriving in it via teleportation
+must succeed at a DC 38 Fortitude save or wink out of existence
+for 1d4 rounds before completing the teleport. The creature
+can’t act, sense anything, or be targeted. On a successful save,
+the creature completes the teleport normally but is stunned 1.
+Keketars are immune to this eﬀect.
+Attack of Opportunity Ǻȓ
+Speed 40 feet, ﬂy 50 feet, swim 40 feet; freedom of movement
+Melee Ȱɵ jaws +33 (chaotic, magical, reach 10 feet), Damage
+3d10+15 piercing plus 1d6 chaotic and warpwave strike
+Melee Ȱɵ claw +33 (agile, chaotic, magical, reach 10 feet),
+Damage 2d10+15 slashing plus 1d6 chaotic and warpwave strike
+Melee Ȱɵ tail +33 (reach 15 feet), Damage 2d10+15 bludgeoning plus Grab
+Divine Innate Spells DC 42, attack +32; 9th divine wrath (chaotic only), prismatic sphere;
+8th baleful polymorph, confusion; 7th disintegrate, dispel magic (at will), shatter
+(at will), warp mind (×3); 6th teleport (at will; self only); 5th creation
+(at will), dimension door, hallucinatory terrain
+(×2; see reshape reality); 4th confusion
+(at will), dimension door (at will); 2nd
+detect alignment (at will; lawful only);
+Constant (5th) tongues; (4th) freedom
+of movement
+Change Shape Ȱɵ (concentrate, divine,
+polymorph,
+transmutation)
+The
+keketar can take the appearance
+of any Huge or smaller creature.
+This doesn’t change its Speed or its
+attack and damage bonuses with
+its Strikes, but might change the
+damage type its Strikes deal.
+Constrict Ȱɵ 1d10+15 bludgeoning, DC 42
+Reshape Reality (concentrate, divine, polymorph,
+transmutation)
+When
+the
+keketar
+casts
+hallucinatory terrain, it infuses the illusion
+with quasi-real substance. Creatures that do
+not disbelieve the illusion treat structures and
+terrain created through the spell as though
+they were real, ascending illusory stairs,
+becoming trapped by illusory quicksand, and
+so on.
+Warpwave Strike (divine, polymorph, transmutation)
+A creature struck by a keketar’s jaws or claw Strike must
+succeed at a DC 36 Fortitude save or be subject to a warpwave
+(page 266).
+
+================================================================================
+PAGE 271
+================================================================================
+
+Bestiary
+PSYCHOPOMP DIVINITIES
+The most powerful of the
+psychopomps are unique demigods
+known collectively as “ushers,”
+each of whom has its own cult.
+These psychopomp divinities
+include Atropos, the Last Sister;
+Barzahk, the Passage; Ceyanan,
+the Shepherd; Dammar, the
+Denied; Imot, the Symbol of Doom;
+Mother Vulture, the Flesheater;
+Mrtyu, Death’s Consort; Narakas,
+the Cleansing Sentence; the
+Pale Horse; Phlegyas, Consoler
+of Atheists; Saloc, Minder
+of Immortals; Teshallas, the
+Primordial Poison; and
+Vale, the Court of the Ancestors.
+Psychopomp
+Psychopomps are guardians and shepherds of the dead native to the Boneyard,
+the vast plane of graves where mortal souls are judged and sent on to their eternal
+rewards or damnations. Psychopomps ensure that the dead come to terms with
+their transition from mortality and are properly sorted into the appropriate
+afterlife. They also protect souls from being preyed upon by supernatural
+predators. Nearly all psychopomps wear masks, especially when they’re likely to
+be interacting with mortals, although the types of masks they wear are as varied
+as the psychopomps themselves. The courts of the Boneyard preside in Requian, a
+somber yet melodic language spoken slowly with various tonal shifts.
+Nosoi
+A nosoi resembles a whippoorwill, sparrow, or other small bird wearing a heavy
+leather plague doctor’s mask. They are the clerks, messengers, and scribes of the
+Boneyard, witnessing judgments, directing souls, and generally performing the
+administrative grunt work that keeps the Boneyard functioning. Most nosois
+are particularly chatty and eager to discuss how important they consider their
+individual assignments to be.

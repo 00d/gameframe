@@ -1,0 +1,642 @@
+# Bestiary - Creatures: V
+# Count: 8 creatures
+
+
+================================================================================
+# VEILED MASTER
+================================================================================
+
+
+VEILED MASTER
+CREATURE 14
+RARE
+LE
+LARGE
+ABERRATION
+AQUATIC
+Perception +25; darkvision
+Languages Aklo, Alghollthu, Aquan, Common, Undercommon; tongues
+Skills Arcana +27, Athletics +24, Deception +28, Intimidation +26, Lore (any one
+subcategory) +29, Occultism +29, Society +27, Stealth +24
+Str +6, Dex +6, Con +8, Int +7, Wis +5, Cha +6
+Mucus Cloud (aura, disease) As aboleth, but DC 36, 30-foot radius, and 24 hours.
+AC 34; Fort +26, Ref +22, Will +24; +2 status to all saves vs. magic
+HP 270; Immunities controlled, electricity, mental; Resistances cold 20
+Speed 10 feet, swim 80 feet
+Melee Ȱɵ claw +30 (agile, magical, reach 20 feet), Damage 3d10+12 slashing plus slime
+Melee Ȱɵ fangs +28 (agile, magical, reach 10 feet, versatile S), Damage 3d8+12 piercing
+plus slime and consume memories
+Melee Ȱɵ tentacle +28 (agile, electricity, magical, reach 20 feet), Damage 7d6 electricity
+plus thoughtlance
+Occult Innate Spells DC 37; 9th project image (at will); 8th illusory scene (at will), suggestion
+(×3); 7th veil (at will); 6th dominate (×3); 5th dimension door (×3), hallucinatory terrain
+(at will), illusory object (at will); 3rd hypnotic pattern (at will), levitate (at will), mind
+reading (at will), secret page (at will); Constant (5th) tongues
+Occult Rituals DC 37; geas (5th)
+Change Shape Ȳ˓ (concentrate, occult, polymorph, transmutation) Once per round, a veiled
+master can take on the appearance of a humanoid of Large, Medium, or Small size or
+resume its true form. While in humanoid form, the veiled master’s Speed is 30 feet, and it
+loses its mucus cloud aura and swim Speed.
+If the humanoid form assumed lacks
+the aquatic trait, the veiled master
+loses its own aquatic trait as well. In
+humanoid form, the veiled master can
+use weapons, or it can make Strikes
+that work like its tentacle attack but
+use the reach of its current form. If
+the assumed form has fangs or claws,
+the veiled master can also make such
+Strikes, but these attacks lack the veiled master’s slime.
+Consume Memories (mental, occult) When a veiled
+master makes a fangs Strike against a creature,
+it can consume some of that creature’s memories. The target must succeed at a
+DC 37 Fortitude saving throw or become stupeﬁed 1. A veiled master regains 5
+Hit Points each time it successfully consumes memories. When
+a veiled master consumes memories, it learns some of the
+creature’s memories (subject to the GM’s discretion).
+Delayed Suggestion (enchantment, occult) When a veiled master
+successfully casts dominate on a creature, a suggestion
+spell triggers when the dominate spell ends. This suggestion
+usually causes the target to return to the veiled master, so
+the creature can cast dominate again, but a veiled master can
+set the suggestion to diﬀerent orders if it wishes.
+Slime (curse, occult, virulent) As alghollthu master, but DC 36.
+Tentacle Flurry ʚʖ The veiled master thrashes about with its tentacles. Make
+a tentacle Strike against each creature within its reach. Roll only one attack
+roll, and roll the damage only once for all targets.
+Thoughtlance (curse, enchantment, occult) A creature touched by the
+veiled master’s tentacles, whether those tentacles deal damage or not,
+must attempt a DC 34 Will save, becoming slowed 1 on a failure or
+slowed 2 on a critical failure. Each time the aﬀected creature ends its
+turn, its slowed value decreases by 1.
+OTHER ALGHOLLTHUS
+While the veiled masters are the
+rulers of alghollthu society, they are
+not the most powerful of their kind.
+Greater, more mysterious creatures
+that function as organic thought
+networks, immense aquatic engines
+of war, or specialized extractors
+of forgotten secrets dwell among
+their sunken cities. Meanwhile,
+the world above remains infested
+with creatures that were originally
+created by the alghollthus but have
+long since drifted away from their
+aquatic progenitors to become their
+own sinister monstrosities.
+
+================================================================================
+PAGE 17
+================================================================================
+
+Bestiary
+Angel
+The celestial hosts of angels are messengers and warriors, divided into choirs
+based on their abilities and purviews. The majority of angels are neutral good and
+live in Nirvana, the plane of virtue and enlightenment. However, some angels,
+including several angelic deities, have different alignments, and some even dwell
+on other planes. Regardless of alignment, angels remain benevolent messengers
+possessed with magical auras to aid their allies.
+Cassisian (Archive Angel)
+The weakest of angels, cassisians usually serve as lackey messengers for more
+powerful angels or as spiritual guides for mortals. Despite their limited intellect,
+cassisians have a knack for precise recollection, particularly with scripture. Most
+cassisians are formed from the souls of trustworthy mortals, but some arise from
+fragments of greater angels destroyed in service to the celestial realms.
+
+================================================================================
+# VAMPIRE BAT SWARM
+================================================================================
+
+
+Bat
+A wide range of bats dwell throughout the world. Most of these nocturnal animals
+are harmless insectivores, but deadly breeds of vampire bats and oversized bats
+the size of horses pose much more signiﬁcant threats to adventurers.
+Vampire Bat Swarm
+Although the typical vampire bat has a wingspan of 7 inches and doesn’t pose
+a signiﬁcant threat to larger prey alone (and indeed, these blood-drinkers can
+feed without their sleeping victims ever noticing), some unusually aggressive
+species of these bats hunt in deadly swarms. A churning cloud of vampire bats
+is much more dangerous than the sum of its individual parts and is capable of
+inﬂicting an overwhelming number of bleeding wounds in a frighteningly short
+span of time.
+VAMPIRE BAT SWARM
+CREATURE 1
+N
+LARGE
+ANIMAL
+SWARM
+Perception +10; echolocation (precise) 20 feet, low-light vision
+Skills Acrobatics +7, Athletics +4 (+7 to Climb), Stealth +7
+Str +1, Dex +4, Con +1, Int –4, Wis +3, Cha –3
+Echolocation A bat swarm can use its hearing as a precise sense at the listed range.
+AC 15; Fort +6, Ref +9, Will +6
+HP 11; Immunities precision, swarm mind; Weaknesses area damage 3, splash damage 3;
+Resistances bludgeoning 6, piercing 6, slashing 3
+Speed 5 feet, ﬂy 30 feet
+Blood Feast Ȱɵ Each enemy in the bat swarm’s space takes 1d4 piercing damage (DC 16
+basic Reﬂex save). Creatures that fail this save also take 1 persistent bleed damage.
+Giant Bat
+While big bats are certainly not uncommon in dark caves and abandoned ruins
+and may instill fear in squeamish spelunkers, the so-called giant bat is a true
+monster, weighing well over 100 pounds and having a wingspan of nearly 15
+feet. It primarily eats fruit and bugs, but can be incited to violence through fear
+or hunger. Giant bat attacks can quickly give rise to rumors
+of more dangerous monsters—many mistake these massive
+animals for some sort of demon or vampiric monster. But like
+other bats, giant bats are simply social and intelligent mammals.
+They are sometimes used as mounts by smaller humanoids,
+commonly those who hail from or dwell in mountainous or
+underground regions.
+
+================================================================================
+# VROCK
+================================================================================
+
+
+Bestiary
+WHAT MAKES A SIN?
+Some classify sin into seven
+categories—envy, gluttony, greed,
+lust, pride, sloth, and wrath. While
+these sins embody some of the most
+powerful and numerous demons, far
+more than seven demons exist. Any
+act of cruelty or destruction a mortal
+takes to gratify the self at others’
+expense is, in eﬀect, a sin, and any
+such act can spawn a
+demon from a soul in
+the afterlife.
+The target must succeed at a DC 26 Will save or be aﬀected by a suggestion to submit
+to more actions of passion rather than trying to Escape.
+Profane Gift ̂ˬ (divine, enchantment, mental); Frequency once per day. Eﬀect The
+succubus on can give a willing humanoid a profane gift. That creature gains a +1 status
+bonus to attack rolls, skill checks, and saving throws. As long as the gift persists, the
+succubus can communicate telepathically with the target at any distance, see through
+the creature’s senses, and target the creature with suggestion through the telepathic
+link. In addition, the creature uses an outcome one degree of success worse than it rolls
+on saving throws against the lust demon’s suggestions.
+A humanoid can’t have more than one profane gift at a time, and a succubus can’t
+grant more than one profane gift at a time. Removing the gift requires an atone ritual. The
+succubus can remove the gift as a free action to give the recipient a permanent stupeﬁed
+3 condition. A 4th-level restoration spell is required to reduce this stupeﬁed condition by 1.
+A summoned succubus can’t grant a profane gift.
+Vrock (Wrath Demon)
+When the gates to the Abyss swing wide, the ﬁrst demons through are often
+vrocks, vulture-headed scions of rage who wheel through the air on black wings
+or dance with the exultation of their ﬁendish power. Their hatred for mortals is
+matched only by their desire to inﬂict suffering through
+their horrible screech or their devastating dance.
+Vrocks form from the souls of hateful mortals
+who are thus given another chance to inﬂict their
+rage on the world.
+Vrocks often travel in small groups so as to make the
+best use of their dance of ruin ability, but they rarely
+appear in groups larger than four. Against small groups
+and individuals, they swoop down without fear, hoping
+to play with their prey before going for the kill. Against
+formidable foes, they are just as happy to ﬂy above, using
+their dance of ruin to cast a storm of lightning down on them.
+VROCK
+CREATURE 9
+CE
+LARGE
+DEMON
+FIEND
+Perception +18; darkvision
+Languages Abyssal, Celestial, Draconic; telepathy 100 feet
+Skills Acrobatics +18, Intimidation +18, Performance +18,
+Religion +18, Stealth +18, Survival +16
+Str +6, Dex +3, Con +5, Int +2, Wis +3, Cha +3
+AC 28; Fort +20, Ref +18, Will +15; +1 status to all saves vs. magic
+HP 185; Weaknesses cold iron 10, good 10; Resistances electricity 10
+Attack of Opportunity Ǻȓ If the vrock is ﬂying and a creature triggers an
+attack of opportunity, the vrock can make 2 Strikes with its talons against
+that creature instead of 1 Strike.
+Peace Vulnerability A vrock’s wrath is the heart of their essence, and forcing
+peace upon them wrenches at their soul. If they fail a save against calm emotions
+or a similar eﬀect forcing them to be peaceful, a vrock takes 4d6 mental damage.
+Speed 25 feet, ﬂy 35 feet
+Melee Ȱɵ beak +21 (evil, magical, reach 10 feet), Damage 3d8+9 piercing plus 1d6 evil
+Melee Ȱɵ claw +21 (agile, evil, magical, reach 10 feet), Damage 3d6+9 slashing plus 1d6 evil
+Melee Ȱɵ talon +19 (agile, evil, magical, reach 10 feet), Damage 2d6+8 slashing plus 1d6 evil
+Divine Innate Spells DC 26; 5th dimension door; 4th dimension door (at will); 2nd
+mirror image
+Divine Rituals DC 26; Abyssal pact
+Dance of Ruin ̂ˬ (divine, electricity, evocation, manipulate, move) The vrock dances
+in ﬂight and chants to create a ruinous explosion of electricity. If more vrocks within
+30 feet want to join the dance, the vrock can delay the dance to wait for more vrocks;
+FPO
+
+================================================================================
+PAGE 80
+================================================================================
+
+DEMONIC POSSESSION
+Some demons specialize in the art
+of possessing creatures or objects
+to spread fear and chaos. In such
+cases a demon gains a powerful
+disguise with which to work its
+evils upon the world, a subterfuge
+that delights the demon.
+in that case, the eﬀect occurs after the last vrock uses Dance of Ruin or one of the
+vrocks chooses to complete that round of the dance. Each non-demon creature in a
+20-foot emanation from any of the dancing vrocks takes 2d12 electricity damage
+(DC 28 basic Reﬂex save). For each additional vrock that joins the dance, the damage
+increases by 1d12 and the save DC increases by 1 (to a maximum of four vrocks dealing
+5d12 damage with a DC 31 save). The vrocks can continue dancing by using Dance of
+Ruin each round, for up to 3 rounds in total. The emanation’s size increases by 20 feet
+each round, and the damage increases by 1d12 per vrock each round.
+Spore Cloud Ȱɵ (disease, poison) The vrock emits a cloud of spores from their body,
+dealing 2d8 poison damage to all adjacent creatures. Each creature damaged this way
+must succeed at a DC 28 Fortitude save or take 2d8 persistent piercing damage as the
+spores penetrate its skin and grow into thick, green vines. The vines cease growing
+after 10 rounds, and they wither away in 1d4 days if not shaved oﬀ before then. The
+vines can be destroyed if the creature is aﬀected by a good spell or if holy water is
+applied to the vines (with an Interact action). Once the vrock uses Spore Cloud, the
+ability can’t be used for 1d6 rounds.
+Stunning Screech Ȱɵ (auditory, divine, incapacitation, sonic) Frequency once per minute.
+Eﬀect The vrock emits a shrill screech. Each non-demon creature within a 30-foot
+burst must attempt a DC 28 Fortitude save. On a failure, the creature is stunned 2,
+and on a critical failure, it’s stunned 3.
+Glabrezu (Treachery Demon)
+Glabrezus are looming behemoths who revel in the act of twisting
+mortal desires into their ultimate ruin, betraying and manipulating as
+easily as they breathe. Desires granted by a glabrezu always come to
+fruition in the most destructive way possible, turning a wish or hope
+into a potent and devastating act of betrayal—although the long-term
+repercussions are not always immediately apparent. For example, a
+struggling weapon smith might wish for fame and skill at their craft, only
+to ﬁnd that their best patron is a cruel and sadistic murderer who uses the
+weapons in bloody sprees. Or a lonely widower might have his desire granted
+in the form of a lost love returned to “life” as a vampire. Glabrezus
+are nothing if not creative in addressing a mortal’s needs.
+These massive demons have enormous pincers and
+a pair of smaller humanoid arms sprouting from their
+chests, but their size belies their skill at magic, and they possess
+formidable innate spells. Treachery demons arise from the
+souls of mortals engaged in treason and deception.
+
+================================================================================
+# VELOCIRAPTOR
+================================================================================
+
+VELOCIRAPTOR
+CREATURE 1
+N
+SMALL
+ANIMAL
+DINOSAUR
+Perception +6; low-light vision, scent
+(imprecise) 30 feet
+Skills Acrobatics +8, Athletics +5 (+8
+jumping), Stealth +6
+Str +0, Dex +3, Con +2, Int –4, Wis +1, Cha +1
+AC 16; Fort +5, Ref +7, Will +4
+HP 20
+Speed 40 feet
+Melee Ȱɵ jaws +8 (ﬁnesse), Damage 1d6+3 piercing
+Melee Ȱɵ talon +8 (agile, ﬁnesse), Damage 1d4+3 slashing
+Leaping Charge Ȱɵ The velociraptor Strides up to 10 feet,
+ignoring diﬃcult terrain as it leaps over obstacles. It then
+makes a Strike with its talons, gaining a +1 circumstance
+bonus to its attack roll.
+Pack Attack The velociraptor deals 1d4 extra damage
+to any creature that’s within reach of at least two of the
+velociraptor’s allies.
+Deinonychus
+Deinonychuses are wily hunters that attack in groups of up to a dozen
+individuals, ripping apart their prey with sharp talons and powerful jaws. They
+are lean and muscular, and have two powerful legs and a long tail that helps
+them maintain balance. Although deinonychuses don’t use their dexterous
+clawed forelimbs to attack, the dinosaurs can use them to pull aside
+small barriers. Although some of these dinosaurs have scaly skin, most
+have thatches of vibrantly colored feathers as well. A deinonychus is
+about 6 feet tall and weighs about 150 pounds.
+However, larger deinonychuses exist. These creatures—which stand
+taller than a human—are called megaraptors.
+
+================================================================================
+PAGE 98
+================================================================================
+
+DINOSAUR RESOURCES
+As animals, dinosaurs have little
+interest in treasure (although
+velociraptors and deinonychuses,
+like their bird cousins, enjoy
+keeping sparkling baubles in
+their nests), but the remains of
+adventurers strewn about their
+lairs often still have valuable gear.
+Dinosaurs can also be harvested
+for rare and valuable trophies such
+as teeth, talons, armor plates, and
+the like.
+
+================================================================================
+# VOIDWORM
+================================================================================
+
+VOIDWORM
+CREATURE 1
+CN
+TINY
+MONITOR
+PROTEAN
+Perception +4; entropy sense (imprecise) 30 feet, darkvision
+PROTEAN NAMES
+Individual proteans have two
+names: a traditional name in
+their hissing, confusing language;
+and an honorary title. The latter
+is easily translated to other
+languages, but a protean’s
+traditional name can only rarely be
+uttered in any tongue other than
+Protean. As such, most proteans
+tend to go by their titles when
+dealing with outsiders, referring to
+themselves as, for example, “Song
+of Gentle Poison” or “Sibilant Cry
+of the Storm.”
+OTHER PROTEANS
+Many other proteans beyond
+those presented here dwell in the
+Maelstrom, including the spectral
+pelagastrs, the nearly humanoid
+shapechanging ourdivars, and the
+incredibly powerful izﬁitars.
+
+================================================================================
+PAGE 268
+================================================================================
+
+BORN FROM CHAOS
+The Maelstrom, home of all
+proteans, is the whirling mass
+of turbulent primal energy,
+planar waves, and soul-stuﬀ
+that surrounds the Outer Planes.
+Planar scholars theorize that all of
+reality was originally formed from
+the Maelstrom in the early days
+of the cosmos—a theory proteans
+don’t necessarily dispute.
+Languages Abyssal, Protean
+Skills Acrobatics +7, Deception +6, Religion +4, Stealth +7
+Str –1, Dex +4, Con +0, Int –1, Wis –1, Cha +1
+Entropy Sense (divination, divine, prediction) A voidworm can anticipate the most likely
+presence of a creature through a supernatural insight into chaotic probabilities and
+chance. This grants it the ability to sense creatures within the listed range. A creature
+under the eﬀects of nondetection or that is otherwise shielded from divinations and
+predictions cannot be noticed via entropy sense.
+AC 17; Fort +5, Ref +9, Will +6
+HP 16, fast healing 1; Resistances precision 3, protean anatomy 5
+Protean Anatomy (divine, transmutation) A voidworm’s vital organs shift and change
+shape and position constantly. Immediately after the voidworm takes acid, electricity,
+or sonic damage, it gains the listed amount of resistance to that damage type. This lasts
+for 1 hour or until the next time the protean takes damage of one of the other types (in
+which case its resistance changes to match that type), whichever comes ﬁrst.
+The voidworm is immune to polymorph eﬀects unless it is a willing target. If blinded
+or deafened, the voidworm automatically recovers at the end of its next turn as new
+sensory organs grow to replace the compromised ones.
+Speed 20 feet, ﬂy 40 feet; freedom of movement
+Melee Ȱɵ jaws +9 (chaotic, ﬁnesse, magical), Damage
+1d8–1 piercing plus 1d4 chaotic
+Melee Ȱɵ tail +9 (chaotic, ﬁnesse, magical), Damage 1d4–1
+slashing plus 1d4 chaotic and confounding lash
+Divine Innate Spells DC 16; 4th read omens; 2nd blur (self only),
+obscuring mist; 1st detect alignment (at will; lawful only); Cantrips (4th)
+dancing lights, ghost sound, prestidigitation; Constant (4th) freedom of movement
+Change Shape Ȱɵ (concentration, divine, polymorph, transmutation) The voidworm takes
+on the appearance of a Tiny animal. This doesn’t change its Speed or its attack and
+damage bonuses with its Strikes, but might change the damage type its
+Strikes deal.
+Confounding Lash (divine, emotion, enchantment, mental) A
+creature hit by the voidworm’s tail Strike is stupeﬁed 1 for 1
+round (stupeﬁed 2 on a critical hit). A successful DC 16 Will
+save negates this eﬀect and grants temporary immunity
+to confounding lash for 1 minute.
+Naunet
+Pugnacious and powerfully muscled, naunets serve
+as scouts and rank-and-ﬁle troops of protean armies.
+Resembling a thick salamander with a wide head, a powerful tail, and
+tentacles tipped with snapping jaws in place of rear legs, naunets are the
+most bestial of the proteans and occupy one of their lowest castes. Naunets
+are 12 feet long and weigh 900 pounds.
+All proteans are prone to unpredictable ﬁts and unexpected action, but
+compared to most others, naunets are much more bestial. Always ready
+for a ﬁght, naunets pride themselves in acting swiftly and striking
+before unpleasant distractions like diplomacy can blunt a
+combat’s beginning.
+
+================================================================================
+# VAMPIRE SPAWN ROGUE
+================================================================================
+
+
+Bestiary
+SPAWN LOCATIONS
+Vampire spawn live wherever their
+masters demand. When free of any
+master, they tend to roam in packs
+through slums or other urban
+areas that wouldn’t notice a few
+people going missing.
+the target’s eyes, giving the spell the visual trait. The save DC uses the DC of the
+vampire’s level (Core Rulebook 503), and a creature that succeeds is temporarily
+immune to that vampire’s Dominate for 24 hours. Fully destroying the vampire ends
+the domination, but merely reducing the vampire to 0 HP is insuﬃcient to break
+the spell.
+Drink Blood As a typical vampire, but the victim is drained 2 instead of 1.
+Turn to Mist Ȱɵ (concentrate, divine, transmutation) The vampire turns into a cloud of
+vapor, as the gaseous form spell, or back to its normal form. The vampire loses fast
+healing while in gaseous form. The vampire can remain in this form indeﬁnitely.
+Vampire Spawn
+Vampires use their spawn for inﬁltration and reconnaissance.
+VAMPIRE SPAWN ROGUE
+CREATURE 4
+CE
+MEDIUM
+UNDEAD
+VAMPIRE
+Perception +12; darkvision
+Languages Common, plus one regional language
+Skills Acrobatics +11, Athletics +9, Intimidation +8, Society +5, Stealth +12
+Str +3, Dex +5, Con +1, Int –1, Wis +3, Cha +2
+AC 22; Fort +9, Ref +13, Will +11
+HP 40, coﬃn restoration, fast healing 5, negative healing; Immunities death eﬀects,
+disease, paralyze, poison, sleep; Weaknesses vampire weaknesses; Resistances
+physical 5 (except silver)
+Speed 25 feet, climb 25 feet
+Melee Ȱɵ claw +14 (agile), Damage 1d8+6 slashing plus Grab
+Drink Blood Ȱɵ (divine, necromancy) When Drinking Blood, the spawn regains 5 HP.
+Sneak Attack The vampire spawn deals 1d6 extra precision damage to
+ﬂat-footed creatures.
+Vampire Count
+Vampire counts rule their demesnes through a mix of fear and cruelty.
+
+================================================================================
+# VAMPIRE COUNT
+================================================================================
+
+Drink Blood Ȱɵ (divine, necromancy) When Drinking Blood, the spawn regains 5 HP.
+Sneak Attack The vampire spawn deals 1d6 extra precision damage to
+ﬂat-footed creatures.
+Vampire Count
+Vampire counts rule their demesnes through a mix of fear and cruelty.
+VAMPIRE COUNT
+CREATURE 6
+CE
+MEDIUM
+UNDEAD
+VAMPIRE
+Perception +17; darkvision
+Languages Common, Necril, plus one regional language
+Skills Acrobatics +13, Athletics +15, Deception +14, Diplomacy +14, Intimidation +16,
+Society +14, Stealth +13
+Str +5, Dex +3, Con +2, Int +2, Wis +4, Cha +4
+Items leather armor, +1 rapier
+Children of the Night (divine, enchantment, mental)
+AC 24; Fort +11, Ref +14, Will +17
+HP 65, coﬃn restoration, fast healing 7, negative healing; Immunities
+death eﬀects, disease, paralyze, poison, sleep; Weaknesses vampire
+weaknesses; Resistances physical 7 (except magical silver)
+Mist Escape Ȳ˓
+Speed 25 feet, climb 25 feet
+Melee Ȱɵ rapier +17 (deadly 1d8, disarm +1), Damage 1d6+11 piercing
+Melee Ȱɵ claw +17 (agile), Damage 1d8+8 slashing plus Grab
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation)
+Giant bat with fangs +15 for 1d8+9 piercing.
+Create Spawn (divine, downtime, necromancy)
+Dominate ʚʖ (divine, enchantment, incapacitation,
+mental, visual) DC 22
+Drink Blood Ȱɵ (divine, necromancy) When Drinking
+Blood, the vampire regains 10 HP.
+Turn to Mist Ȱɵ (concentrate, divine, transmutation)
+
+================================================================================
+PAGE 322
+================================================================================
+
+NON-EVIL VAMPIRES
+Non-evil vampires are rare and
+at odds with their basic nature.
+Such vampires typically give up a
+fraction of their power in exchange
+for some of their lost humanity.
+Vampire Mastermind
+Vampire masterminds are evil wizards who control entire cabals of the undead
+and instill fear in the hearts of mortals far and wide.
+
+================================================================================
+# VAMPIRE MASTERMIND
+================================================================================
+
+
+NON-EVIL VAMPIRES
+Non-evil vampires are rare and
+at odds with their basic nature.
+Such vampires typically give up a
+fraction of their power in exchange
+for some of their lost humanity.
+Vampire Mastermind
+Vampire masterminds are evil wizards who control entire cabals of the undead
+and instill fear in the hearts of mortals far and wide.
+VAMPIRE MASTERMIND
+CREATURE 9
+UNCOMMON
+CE
+MEDIUM
+UNDEAD
+VAMPIRE
+Perception +20; darkvision
+Languages Common, Necril, plus one regional language
+Skills Acrobatics +17, Arcana +21, Athletics +16, Deception +20,
+Diplomacy +20, Intimidation +22, Society +19,
+Stealth +19
+Str +3, Dex +4, Con +1, Int +6, Wis +4, Cha +5
+Items signet ring
+Children of the Night (divine, enchantment, mental)
+AC 27; Fort +15, Ref +18, Will +20
+HP 115, coﬃn restoration, fast healing 10, negative
+healing; Immunities death eﬀects, disease,
+paralyze, poison, sleep; Weaknesses vampire
+weaknesses; Resistances physical 10 (except
+magical silver)
+Mist Escape Ȳ˓
+Speed 25 feet, climb 25 feet
+Melee Ȱɵ claw +18 (agile), Damage 2d8+9
+slashing plus Grab
+Arcane Prepared Spells DC 29, attack +19;
+4th ﬁre shield, phantasmal killer, veil, wall
+of ﬁre; 3rd dispel magic, ﬁreball, haste,
+lightning bolt; 2nd ﬂaming sphere, invisibility,
+mirror image, touch of idiocy; 1st color spray
+(×2), ﬂeet step, ray of enfeeblement; Cantrips
+(4th) detect magic, mage hand, message, ray of
+frost, sigil
+Change Shape Ȱɵ (concentrate, divine, polymorph,
+transmutation) Giant bat with fangs +19 for
+2d8+9 piercing.
+Create Spawn (divine, downtime, necromancy)
+Dominate ʚʖ
+(divine,
+enchantment,
+incapacitation, mental, visual) DC 26
+Drain Bonded Item [one-actionȲ˓ (arcane, wizard);
+Frequency Once per day. Requirements
+The vampire hasn’t acted yet on this
+turn. Eﬀect The vampire expends the
+power stored in its signet ring. This gives
+the vampire the ability to cast one prepared
+spell it had already previously cast today,
+without spending a spell slot. The vampire
+must still Cast the Spell and meet the spell’s
+other requirements.
+Drink Blood Ȱɵ (divine, necromancy) When
+Drinking Blood, the vampire regains 10 HP.
+Steady Spellcasting If another creature’s reaction
+would disrupt the vampire mastermind’s
+spellcasting action, the vampire attempts a
+DC 15 ﬂat check. If the vampire succeeds, its
+action isn’t disrupted.
+Turn
+to
+Mist
+Ȱɵ
+(concentrate,
+divine,
+transmutation)
+
+================================================================================
+PAGE 323
+================================================================================
+
+Bestiary
+WARG LEGENDS
+Wargs are the subject of many
+grim tales and campﬁre stories.
+Frightening accounts of wargs
+gobbling up children whole have a
+disturbing basis in fact, for these
+ravenous creatures have jaws that
+can unhinge like those of a serpent
+to gulp down small prey while the
+victim yet lives.
+Warg
+The warg is an intelligent and malevolent wolf that dwells among goblins,
+hobgoblins, orcs, and other violent humanoids.
+Warg
+Wargs hunt in packs and surround their prey like common wolves, but their
+cunning and penchant for taunting victims makes them easy to distinguish from
+their less-intelligent cousins. But despite their intelligence, wargs have simple
+desires for food and shelter, making them easy for evil humanoids such as orcs
+and hobgoblins to recruit to protect their camps or join them in battle. Most
+wargs are amenable to this arrangement, but if food should run out, wargs are
+more than willing to integrate goblinoid ﬂesh into their diet.

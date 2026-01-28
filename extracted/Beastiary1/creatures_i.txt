@@ -1,0 +1,362 @@
+# Bestiary - Creatures: I
+# Count: 4 creatures
+
+
+================================================================================
+# IMP
+================================================================================
+
+
+ARCHDEVILS
+At any one time, eight archdevils
+rule the eight upper layers of Hell,
+while the deepest layer is ruled
+by Asmodeus. Each archdevil is a
+unique demigod with a dedicated
+role in guiding the infernal machine
+forward. Barbatos is the doorwarden
+of Hellʼs uppermost layer, while
+Dispater rules Hellʼs largest city.
+Mammon guards Hellʼs treasuries,
+and Belial designs new weapons
+for Hellʼs legions. Geryon is the
+oldest archdevil and keeper of many
+secrets, while Moloch leads Hellʼs
+armies. Baalzebul is a brooding
+archdevil who has fallen from
+Asmodeusʼs favor, while mighty
+Mephistopheles was formed from
+the plane of Hell itself.
+Imp
+Imps are inﬁltrators and corruptors who, despite their diminutive stature, are
+more than capable of subtly inﬂuencing a weak-willed individual into performing
+increasingly evil acts over time. An imp will often agree to serve a mortal and
+act docile and loyal in a long-term plot to eventually damn its master’s soul to
+Hell. Imps are born directly from Hell itself, rather than from mortal souls, and
+thus they serve outside the usual diabolic hierarchy, granting them leeway to
+pursue their specialties. Despite standing a mere 2-feet tall, imps can be vicious
+combatants, ﬂying out of reach and turning invisible to escape should the odds
+turn against them.
+IMP
+CREATURE 1
+LE
+TINY
+DEVIL
+FIEND
+Perception +7; greater darkvision
+Languages Common, Infernal; telepathy (touch)
+Skills Acrobatics +7, Arcana +6, Deception +7, Religion +5
+Str –1, Dex +4, Con +0, Int +1, Wis +2, Cha +2
+AC 17; Fort +5, Ref +9, Will +7
+HP 15; Immunities ﬁre; Weaknesses good 3; Resistances physical 3 (except silver),
+poison 5
+Speed 20 feet, ﬂy 30 feet
+Melee Ȱɵ stinger +9 (agile, evil, ﬁnesse, magical), Damage 1d4–1 piercing plus 1d4 evil
+and imp venom
+Divine Innate Spells DC 17; 4th read omens; 2nd invisibility (at will, self only); 1st charm,
+detect alignment (at will, good only); Cantrips (1st) detect magic
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation)
+• Boar size Medium; scent (imprecise) 30 feet; Speed 40 feet; Melee tusk +9 (ﬁnesse),
+Damage 1d10–1 piercing
+• Giant Spider size Medium; Speed
+25 feet, climb 25 feet; Melee
+fangs +9 (ﬁnesse, poison),
+Damage 1d6–1 piercing plus
+1d4 poison
+• Rat scent; Speed 20 feet;
+Melee jaws +9 (agile, ﬁnesse),
+Damage 1 piercing
+• Raven scent; Speed 10 feet, ﬂy
+40 feet; Melee beak +9 (ﬁnesse),
+Damage 1 piercing
+Diabolic Healing Ȱɵ (concentrate,
+divine,
+healing,
+necromancy);
+Frequency once per round. Eﬀect
+The imp regains 1d6 Hit Points.
+Imp Venom (poison); Saving Throw
+DC 16 Fortitude; Maximum Duration 6
+rounds; Stage 1 1d6 poison and clumsy
+1 (1 round); Stage 2 1d6 poison damage,
+clumsy 1, and slowed 1 (1 round)
+Infernal Temptation Ȱɵ (divine, concentrate,
+enchantment, evil, fortune); Frequency
+once per day. Eﬀect The imp oﬀers a non‑ﬁend
+within 15 feet a bargain, granting a boon of good
+luck if the creature accepts. The boon lasts for 1 hour once
+accepted. If the creature dies while the boon is in place, its soul
+travels to Hell, where it is bound for eternity and unable to be raised
+or resurrected except by wish or similar magic. Once during the hour, the
+creature can roll an attack roll or saving throw twice and use the higher result.
+
+================================================================================
+PAGE 89
+================================================================================
+
+Bestiary
+FIENDISH RELATIONS
+Devils view daemonsʼ constant
+hunt for souls as a short-sighted
+waste of potential, and demonsʼ
+chaotic destruction of society
+and ﬂesh as uncivilized and
+obnoxious, but they do not loathe
+their ﬁendish counterparts.
+Indeed, most devils are more
+than willing to take advantage
+of daemons and demons as they
+can to further their
+own machinations.
+Barbazu (Bearded Devil)
+Barbazus, known also as bearded devils or infantry devils, are murderous ﬁends
+who satiate their lust for annihilation by serving as the foot soldiers of Hell’s
+armies, often leading hordes of lesser devils such as imps and lemures into
+battle. Bearded devils wield serrated glaives to inﬂict jagged gashes that resist
+healing magic, resulting in tremendous blood loss. When enemies come too
+close, bearded devils strike with the spines of their wriggling beards to deliver
+a wretched contagion called Avernal fever, savoring the sight of their victim’s
+strength being slowly devoured from within.
+Barbazus can be found savagely indulging the whims of evil infernal lords
+from all layers of Hell, rejoicing as they
+disseminate murder, misery, and anguish
+as they see ﬁt.
+
+================================================================================
+# INVISIBLE STALKER
+================================================================================
+
+5 feet
+Swiftness The living whirlwind’s movement doesn’t trigger reactions.
+Invisible Stalker
+Invisible stalkers have a poor opinion of mortals due to the
+unsavory nature of the violent tasks summoners usually call
+them to the Material Plane to perform.
+INVISIBLE STALKER
+CREATURE 7
+N
+MEDIUM
+AIR
+ELEMENTAL
+Perception +16; darkvision
+Languages Auran
+Skills Acrobatics +16, Stealth +18, Survival +15
+(+19 to Track)
+Str +3, Dex +6, Con +3, Int –2, Wis +2, Cha +0
+AC 26; Fort +14, Ref +18, Will +11
+HP 70; Immunities bleed, paralyzed, poison, sleep
+ELEMENTAL BEINGS
+The Elemental Planes—primordial
+realms deﬁned by aspects of air,
+earth, ﬁre, or water—are home to
+a diverse group of beings known
+as elementals. Spellcasters on
+the Material Plane call upon
+elementals for aid, though these
+enigmatic creatures can also
+travel to the world of mortals via
+interplanar gateways and rifts.
+The elementals on these pages
+exemplify the creatures of the
+Elemental Planes, but this list is by
+no means exhaustive.
+
+================================================================================
+PAGE 146
+================================================================================
+
+PRIMAL ELEMENTALS
+The most well known of all
+elementals are the primal
+elementals, creatures composed
+entirely of air, earth, ﬁre, or water
+with roughly humanoid shapes.
+Many primal elementals are
+named after natural disasters,
+ranging from those relatively
+small in scale (and roughly the
+size of Medium humanoids) to
+much larger ones (often the
+size of small buildings). Primal
+elementals can often be found
+in areas where their namesake
+disasters have recently struck.
+Naturally Invisible The invisible stalker is invisible at all times, though when it takes
+a hostile action of any kind, it is hidden instead of undetected until the start of its
+next turn, as the vague outline of its humanoid form is faintly visible for a short
+period of time.
+Speed 25 feet, ﬂy 25 feet
+Melee Ȱɵ ﬁst +18 (agile, ﬁnesse), Damage 1d10+5 bludgeoning
+Sneak Attack The invisible stalker deals 2d6 extra precision damage to ﬂat-footed
+creatures.
+Swift Tracker The invisible stalker moves at full Speed while Tracking.
+Storm Lord
+Storm lords wage battles to claim important territory within the Plane of Air.
+
+================================================================================
+# IRON GOLEM
+================================================================================
+
+
+Bestiary
+IRON GOLEMS
+An iron golem can be melted down
+for scrap or traded to ﬁre giants
+for repurposing into armor for a
+Large creature.
+its movement. A creature can attempt to bar the way by succeeding at a DC 34
+Fortitude save. On a critical success, the resisting creature takes no damage;
+otherwise it is damaged as if hit by the golem’s ﬁst.
+Slowing Pulse Ȱɵ (arcane, concentrate, transmutation) Each creature in a 10-foot
+emanation must succeed at a DC 30 Fortitude save or be slowed 1 for 1 minute. The
+golem can’t use Slowing Pulse again for 1d4 rounds.
+Iron Golem
+Traditionally crafted into the forms of giant suits of armor or powerful animals,
+iron golems are products of exquisite artistry and skill. Their articulated joints
+and sturdy armored bodies require great care and mathematical precision to craft,
+and regular cleaning and oiling ensure they don’t rust over the ages. With proper
+care, iron golems can remain in good shape for thousands of years, being
+passed down for generations, as long as they aren’t destroyed by meddlesome
+adventurers. In addition to their incredible strength, iron golems possess a
+potent toxic breath weapon that is often more than enough to dispatch entire
+groups of opponents.
+IRON GOLEM
+CREATURE 13
+UNCOMMON
+N
+LARGE
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +21; darkvision
+Skills Athletics +30
+Str +8, Dex –1, Con +4, Int –5, Wis +0, Cha –5
+AC 34; Fort +26, Ref +21, Will +22
+HP 190; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued, ﬁre,
+healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed,
+poison, sickened, unconscious; Resistances physical 15 (except adamantine)
+Golem Antimagic harmed by acid (6d10, 2d8 from areas and persistent
+damage); healed by ﬁre (area 2d8 HP); slowed by electricity
+Vulnerable to Neutralize Poison Casting neutralize poison on the golem
+deactivates its Breath Weapon for 1 minute.
+Vulnerable to Rust Magical rusting eﬀects, like a rust monster’s
+antennae, aﬀect the iron golem normally.
+Speed 20 feet
+Melee Ȱɵ ﬁst +28 (magical, reach 10 feet), Damage 3d10+12 bludgeoning
+Breath Weapon ʚʖ (arcane, necromancy, poison) The iron golem
+exhales poisonous gas in a 10-foot radius centered on the corner of one
+of the iron golem’s squares. The gas persists for 1 round. Any creature in
+the area (or that later enters the area) is exposed to the iron golem’s poison.
+The golem can’t use its Breath Weapon again for 1d4 rounds.
+Inexorable March Ȱɵ The iron golem Strides up to its Speed, pushing back each
+creature whose space it moves into and damaging them if they try to stop its
+movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude
+save. On a critical success, the resisting creature takes no damage; otherwise, it is
+damaged as if hit by the golem’s ﬁst.
+Iron Golem Poison (poison); Any drained value from this poison is reduced by
+1 every hour. Saving Throw DC 33 Fortitude; Maximum Duration 4 rounds;
+Stage 1 2d6 poison and drained 1 (1 round); Stage 2 4d6 poison and drained 2
+(1 round); Stage 3 8d6 poison and drained 3 (1 round).
+Adamantine Golem
+Crafted from a nigh-indestructible metal of great rarity,
+adamantine golems can’t be destroyed except by the most
+powerful foes. Crafting an adamantine golem requires a quantity
+of adamantine so massive that collecting it usually requires
+mounting a mining expedition to a distant planet, the Plane
+of Earth, or an Outer Plane.
+
+================================================================================
+PAGE 190
+================================================================================
+
+ADAMANTINE GOLEMS
+The incredible amount of
+adamantine necessary to create
+a single adamantine golem is
+worth more than many nations’
+treasuries. The powerful heart
+of an adamantine golem can be
+turned into a legendary forge for
+blacksmithing.
+
+================================================================================
+# ICE LINNORM
+================================================================================
+
+
+DEATH CURSES
+The death curses of the linnorms
+are often the subjects of tragic
+sagas, and those who would think
+themselves vanquishing heroes
+for slaying a linnorm often meet
+their dooms soon thereafter,
+succumbing to these curses well
+after the death of the linnorm
+responsible for bestowing it.
+Ice Linnorm
+The ice linnorm dwells amid glacial crevasses, atop wind-blasted mountain peaks,
+or within glittering caverns carved from the hearts of the mightiest of icebergs.
+ICE LINNORM
+CREATURE 17
+UNCOMMON
+CE
+GARGANTUAN
+COLD
+DRAGON
+Perception +29; darkvision, scent (imprecise) 60 feet, true seeing
+Languages Aklo, Draconic, Sylvan
+Skills Acrobatics +28, Athletics +32
+Str +9, Dex +5, Con +7, Int –3, Wis +6, Cha +7
+AC 41; Fort +32, Ref +28, Will +27; +1 status to all saves vs. magic
+HP 330, regeneration 10 (deactivated by cold iron); Immunities cold, curse, paralyzed,
+sleep; Weaknesses cold iron 15, ﬁre 10
+Curse of Frost (cold, curse, primal) When a creature slays an ice linnorm, it must
+succeed at a DC 40 Will save or permanently gain weakness to cold 15.
+Attack of Opportunity Ǻȓ Tail only.
+Speed 35 feet, ﬂy 100 feet, swim 40 feet; freedom of movement
+Melee Ȱɵ jaws +34 (reach 25 feet, magical), Damage 3d12+17 piercing plus ice linnorm venom
+Melee Ȱɵ claw +34 (reach 20 feet, agile, magical), Damage 3d8+17 slashing
+Melee Ȱɵ tail +34 (reach 25 feet, agile, magical), Damage 3d6+17
+bludgeoning plus Improved Grab
+Primal Innate Spells DC 38; Constant (8th) freedom of
+movement; (7th) true seeing
+Breath Weapon ʚʖ (cold, evocation, primal) The ice linnorm
+spews out a blast of freezing, viscous ooze in a 60-foot
+cone that deals 15d6 cold damage to creatures within the
+area (DC 38 basic Reﬂex save). The freezing ooze clings
+to those struck and hardens into thick sheets of ice. A
+creature that fails the saving throw is immobilized by
+the ice until it succeeds at a check to Escape or it or
+an ally Forces Open the ice (DC 34 for either case). At
+the start of its turn, a creature still immobilized by the
+ice takes 4d6 cold damage. Another creature can free a
+frozen target by dealing a total of 20 ﬁre damage to the
+frozen target. Left unattended, the ice crumbles away in
+1 minute on its own. Creatures with the ﬁre trait can't be
+frozen in place by this breath weapon. Flying creatures fall if
+frozen, and swimming creatures that are frozen rise toward
+the surface of the water at a speed of 60 feet per round. An
+ice linnorm can’t use Breath Weapon again for 1d4 rounds.
+Constrict Ȱɵ 2d6+18 bludgeoning, DC 38
+Ice Linnorm Venom (cold, injury, poison) Saving Throw DC 38
+Fortitude; Maximum Duration 10 rounds; Stage 1 5d6 cold
+damage and drained 1; Stage 2 7d6 cold damage and
+drained 2.
+
+================================================================================
+PAGE 227
+================================================================================
+
+Bestiary
+OTHER LINNORMS
+Linnorms exist in a variety of
+forms beyond the four detailed
+here. The gaunt cairn linnorm,
+the spiny taiga linnorm, and
+the aquatic fjord linnorm each
+terrorize their own specific
+regions of the Material Plane.
+Tarn Linnorm
+Although more powerful linnorms exist, the multi-headed tarn linnorm can wreak
+an awe-inspiring amount of devastation.

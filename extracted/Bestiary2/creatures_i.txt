@@ -1,0 +1,1377 @@
+# Bestiary - Creatures: I
+# Count: 14 creatures
+
+
+================================================================================
+# INVIDIAK
+================================================================================
+
+
+CONJURING DEMONS
+Conjuring demons is ill-advised, yet
+the desperate or wicked still do.
+Rituals like planar ally or planar
+binding are typical for long-term
+ends, and summon ﬁend for combat
+applications. For planar ally, demons
+sometimes accept oﬀerings that aren’t
+valuable if gifting them to a demon
+pushes the ritualist further into sin.
+INVIDIAK (SHADOW DEMON)
+For most demons, possessing a creature requires a ritual, magic item, or condition,
+but for invidiaks, who lack a body, possession is akin to donning a suit of clothing.
+Known also as shadow demons, invidiaks are formed from envious mortal souls.
+INVIDIAK
+CREATURE 7
+CE
+MEDIUM
+DEMON
+FIEND
+INCORPOREAL
+Perception +15; darkvision
+Languages Abyssal, Common; telepathy 100 feet
+Skills Acrobatics +15, Deception +18, Religion +13, Society +15, Stealth +17
+Str –5, Dex +4, Con +3, Int +2, Wis +2, Cha +5
+AC 22; Fort +15, Ref +16, Will +13; +1 to all saves vs. magic
+HP 90; Immunities disease, poison, precision; Weaknesses cold iron 5, good 5; Resistances
+all 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
+Exorcism Vulnerability If an invidiak attempts to possess a creature and the creature rolls
+a critical success on its saving throw to resist possession, or if an invidiak’s possession
+of a creature is ended prematurely, such as via a successful dispel magic, the invidiak
+takes 6d6 mental damage and cannot use possession
+for 24 hours.
+Speed ﬂy 30 feet
+Melee Ȱɵ claw +13 (agile, evil, ﬁnesse, magical), Damage
+2d8 cold plus 2d6 evil
+Divine Innate Spells DC 26; 7th possession (range touch); 5th
+dimension door, shadow blast; 4th darkness, dimension
+door (at will); 3rd fear; Cantrip (4th) telekinetic projectile
+Rituals DC 26; Abyssal pact
+Favored Host Each invidiak has a particular type of
+creature they prefer possessing, chosen from the
+following list: aberration, animal, beast, or any
+humanoid (such as dwarf)—in most cases, the favored
+type of target is human. When an invidiak uses
+possession against a favored host, the duration of
+possession increases to unlimited, and the eﬀect lasts
+until dispelled or until the invidiak dismisses it.
+Shadow Blend ʚʖ (divine, illusion) The invidiak Strides
+up to twice their speed. If the invidiak ends their
+movement in an area of dim light, they become
+hidden as long as they don’t move and the lighting
+in the area they’re in doesn’t grow brighter than
+dim light.
+Unbodied Possession An invidiak leaves no body
+behind when using possession.
+NABASU (GLUTTONY DEMON)
+Nabasus are birthed directly into the Material
+Plane from the Abyss, an invasive infestation that
+releases the newly formed and ravenously hungry demons
+directly into the midst of their favored prey: mortal life.
+Nabasus feed on sapient creatures, but they never quite manage
+to sate their eternal hunger, even as they grow more and more
+powerful. Once they have sufﬁciently feasted, the demons become
+worthy to make the return trip to the Abyss, where they undergo
+a vile transformation, ﬁnally digesting their accumulated meals
+and deforming further into powerful vrolikais (page 69).
+Nabasus form from the souls of evil gluttons, particularly
+from cannibals, blood-drinkers, and those
+who prefer the tang of undead ﬂesh.
+
+================================================================================
+PAGE 67
+================================================================================
+
+Bestiary 2
+NABASU GROWTH
+A nabasu stores their stolen deaths
+until they ﬁnally become satiated.
+For most, this occurs after consuming
+death from at least 100 mortals, but
+the exact timing is left to the GM. The
+demon then travels to the Abyss and
+transforms into a vrolikai.
+
+================================================================================
+# IGUANODON
+================================================================================
+
+Sprint ʚʖ Frequency once per minute; Eﬀect The hadrosaurid Strides twice. It has a
++20-foot circumstance bonus to its Speed during these Strides.
+Trample ̂ˬ Large or smaller, foot, DC 21
+IGUANODON
+Iguanodons are large, herbivorous dinosaurs that inhabit swamps and forests
+where they browse on the abundant vegetation. The iguanodon is capable of
+moving on two feet or on four, quickly switching from one stance to the other
+depending on whether it needs to move through dense foliage or to reach
+delectable morsels hanging up in the canopy.
+Although iguanodons are herbivores, they are notoriously quick to anger.
+Their thumb spikes make their claws particularly devastating weapons. A
+well‑placed blow from one of these claws can turn a hungry predator into a
+cowering beast with one swift strike. Iguanodons are 30 feet long and weigh
+6,000 pounds.
+IGUANODON
+CREATURE 6
+N
+HUGE
+ANIMAL
+DINOSAUR
+Perception +14; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +15
+Str +7, Dex +4, Con +4, Int –4,
+Wis +4, Cha +0
+AC 24; Fort +16, Ref +12,
+Will +14
+HP 95
+Speed 25 feet
+Melee Ȱɵ thumb spike +17
+(deadly d10, reach 10 feet),
+Damage 2d8+9 piercing
+Melee Ȱɵ tail +15 (reach 15 feet), Damage 2d10+9
+bludgeoning
+Gouging Lunge ʚʖ The iguanodon makes a thumb spike
+Strike at an adjacent foe and then Strides up to 15 feet,
+dragging its thumb spike across the foe to gouge out a brutal
+wound. If this Strike hits, it deals an extra 1d8 points of slashing
+damage and the following Stride does not trigger reactions from the
+creature struck. This thumb spike Strike counts as two attacks when
+calculating the iguanodon’s multiple attack penalty.
+SPINOSAURUS
+The spinosaurus is more than just one of the largest carnivorous
+dinosaurs—it’s also one of the most unusual in appearance,
+with a large, sail-like ﬁn running along its spine. Often
+quite colorful, this sail allows the spinosaurus to
+attract mates, aids in swimming, and makes it
+appear to be even larger than it actually is.
+A swimming spinosaurus can also use the
+
+================================================================================
+PAGE 84
+================================================================================
+
+MAGICAL DINOSAURS
+In a fantasy setting, magical eﬀects
+or supernatural inﬂuences can
+enhance dinosaurs by giving them
+unexpected attacks, modes of
+movement, or other abilities. You can
+quickly create a memorable magical
+beast simply by giving a dinosaur the
+magical attack of another creature of
+an equal level, such as a spinosaurus
+gaining an acidic breath weapon akin
+to that of an adult black dragon.
+sail as part of a unique means of staggering prey by slapping the water with it to
+make a crushing wave.
+The spinosaurus is equally at home in water as it is on land, and its long, toothy
+maw is well-adapted to catching swimming prey. Attempts by giants to capture
+spinosauruses to serve as guardians typically go poorly, for these headstrong
+dinosaurs do not domesticate well. Their surly attitudes and striking appearances
+make them better suited for bloodsports, and they are popular prizes for those
+who run arenas specializing in battles that pit gladiators against hungry animals
+or beasts. Of course, an angry dinosaur forced to ﬁght for the amusement of
+others won’t discriminate between potential meals on the battleground and ones
+seated in the surrounding stands.
+The spinosaurus’s appearance and strength make it attractive to more than just
+giants and bloodsport organizers. Spellcasters who mutate and transform animals
+into magical guardians have long been intrigued by the spinosaurus’s potential. More
+so than any other dinosaurs, spinosauruses have been subjected to ﬂeshwarping
+procedures, crossbreeding with monsters, and other magical techniques to enhance
+the creatures’ viability
+as effective guardians.
+A spinosaurus can
+measure up to 60 feet
+in length and weighs
+25,000 pounds.
+
+================================================================================
+# ICE MEPHIT
+================================================================================
+
+Breath Weapon ʚʖ (air, arcane, earth) The dust mephit breathes a cloud of dust in a
+15-foot cone that deals 2d6 slashing damage to each creature within the area (DC 17
+basic Reﬂex save). The dust mephit can’t use Breath Weapon again for 1d4 rounds.
+ICE MEPHIT
+Though capable of the same depths of cruelty as their ﬁre mephit kin, ice
+mephits carry theirs out in a more calculating way. Unlike most
+mephits, these pale blue mephits prefer solitude to company.
+Lacking in empathy, they are known for their callousness,
+and have a reputation for brutal honesty. They also have
+few moral qualms about acting selﬁshly
+and exploiting weakness for their own gain,
+should the chance arise.
+ICE MEPHIT
+CREATURE 1
+UNCOMMON
+N
+SMALL
+AIR
+ELEMENTAL
+WATER
+Perception +3; darkvision
+Languages Aquan, Auran
+Skills Acrobatics +7, Intimidation +5
+Str +0, Dex +4, Con +0, Int –2, Wis +0, Cha +2
+AC 17; Fort +5, Ref +9, Will +3
+HP 18, fast healing 2 (while touching ice or
+snow); Immunities bleed, cold, paralyzed,
+poison, sleep; Weaknesses ﬁre 3
+Speed 20 feet, ﬂy 25 feet
+Melee Ȱɵ claw +9 (agile, ﬁnesse), Damage 1d4
+slashing and 1d4 cold
+Arcane Innate Spells DC 17, attack +9; Cantrips (1st)
+chill touch, ray of frost
+Breath Weapon ʚʖ (arcane, cold) The ice mephit
+breathes shards of ice in a 15-foot cone that deals 1d6 cold
+damage and 1d6 piercing damage to each creature within the
+area (DC 17 basic Reflex save). The ice mephit can’t use Breath Weapon
+again for 1d4 rounds.
+
+================================================================================
+PAGE 114
+================================================================================
+
+OOZE MEPHIT
+Slick in every sense of the word, ooze mephits are unapologetic sycophants,
+shamelessly ﬂattering anyone they may be able to con a favor out of, although
+their lack of intelligence and subtlety means that only the most vain or trusting
+targets fail to see through their honeyed words. Lacking proper bones, these ochercolored mephits have bodies consisting primarily of ooze and muck. They smell
+disgusting, and their touch leaves stains that are almost impossible to get out.
+
+================================================================================
+# ICICLE SNAKE
+================================================================================
+
+
+Bestiary 2
+FLAME AND FATHOM MEET
+Though ﬁre and water classically
+oppose one another, in the right
+mixture they can become a dangerous
+combination. Water elementals heated
+to a scalding temperature through
+natural factors such as underwater
+volcanoes might deal 1d6 persistent
+ﬁre damage with their Strikes, while
+ﬁre elementals infused with moisture
+might exude clouds of obscuring or
+even blinding steam.
+Elemental, Water
+Water elementals that become infused with cold or mist have increased mobility
+in regions outside of bodies of water.
+ICICLE SNAKE
+Translucent and capable of hanging suspended and near motionless, icicle snakes
+sense the heat of living creatures as a threat and attempt to use their camouﬂage
+and chilling bite against foes.
+ICICLE SNAKE
+CREATURE 2
+N
+SMALL
+COLD
+ELEMENTAL
+WATER
+Perception +7; darkvision
+Skills Athletics +7, Stealth +7
+Str +1, Dex +3, Con +2, Int –4, Wis +1, Cha +0
+AC 18; Fort +8, Ref +9, Will +5
+HP 35; Immunities bleed, cold, paralyzed, poison, sleep; Weaknesses ﬁre 5
+Speed 25 feet, climb 20 feet
+Melee Ȱɵ jaws +9 (ﬁnesse), Damage 1d6+1 piercing plus 1d6 persistent cold
+Icicle Ȱɵ (concentrate) Until the next time it acts, the icicle snake appears
+to be an unassuming icicle. It has an automatic result of 27 on Deception
+checks and DCs to pass as an icicle.
+MIST STALKER
+The tentacled mist stalker shrouds itself in a cloak of mist through
+which its single, never-blinking eye can see with clarity, allowing it an
+advantage when stalking its prey.
+
+================================================================================
+# ICEWYRM 
+================================================================================
+
+no tunnels or signs of its passing.
+ICEWYRM
+Resembling wingless, serpentine dragons formed of jagged
+ice and shot through with veins of nearly frozen water, these
+elementals dwell within icebergs and enjoy striking out at
+passing ships or creatures. They’re especially common in frigid
+stretches of ocean in the Plane of Water, where icebergs cluster
+together into enormous islands of ice.
+ICEWYRM 
+CREATURE 10
+N
+HUGE
+AMPHIBIOUS
+COLD
+ELEMENTAL
+WATER
+Perception +19; darkvision
+Languages Aquan
+Skills Athletics +21
+Str +7, Dex +7, Con +5, Int –1, Wis +5, Cha +3
+AC 30; Fort +20, Ref +21, Will +17
+HP 185; Immunities bleed, cold, paralyzed, poison, sleep;
+Weaknesses ﬁre 10
+Explosion (cold) When the icewyrm dies, it explodes, dealing
+8d6 cold damage to each creature in a 10-foot emanation
+(DC 27 basic Reﬂex save).
+Speed 25 feet, ice burrow 20 feet, swim 60 feet
+Melee Ȱɵ jaws +23 (reach 15 feet), Damage 2d12+13 piercing
+Melee Ȱɵ tail +23 (agile, reach 15 feet), Damage 2d6+13 slashing
+plus 1d6 persistent cold
+Ranged Ȱɵ ice shard +23 (range increment 60 feet), Damage
+1d6+13 piercing plus 1d6 persistent cold
+Breath Weapon ʚʖ (cold, evocation, primal) The icewyrm breathes
+a 60-foot line of freezing shards of razor-sharp ice, dealing 3d12 cold
+damage and 3d12 piercing damage to every creature in the line (DC 29 basic
+Reﬂex save). The icewyrm can’t use Breath Weapon again for 1d4 rounds.
+Ice Burrow As blizzardborn.
+
+================================================================================
+PAGE 117
+================================================================================
+
+Bestiary 2
+ROGUE ELEPHANTS
+Elephants of all species are, by
+nature, social creatures who form
+strong bonds with one another, but
+when an elephant separates from
+its herd—either due to tragedy or an
+individual streak of viciousness—they
+become known as rogue elephants.
+These dangerous solitary creatures
+are ill-tempered and quick to attack
+anything that approaches them, and
+often have the elite adjustments to
+their statistics.
+Elephant
+Primeval variants of the elephant dwell in remote regions of the world.
+ANANCUS
+The anancus is an ancient species of elephant with unusually long tusks and a
+trunk shorter than its more modern cousins.
+
+================================================================================
+# IRNAKURSE
+================================================================================
+
+
+Bestiary 2
+IRNAKURSE MOCKERIES
+When drow capture a particularly
+hated surface elf, or one with a large
+following, they inﬂict even greater pain
+upon them during the ﬂeshwarping
+process than most other victims. The
+resulting irnakurse are known as
+“mockeries,” and always have elite
+adjustments. Rather than using them,
+drow keep them close at hand as living
+“art” akin to a pet or trophy.
+Fleshwarp
+Horrid abominations reshaped by vile alchemical magic, the two ﬂeshwarps
+presented here were created by drow, who transform captured elves or xulgaths
+into twisted monstrosities that can then be loosed to cause havoc and terror.
+IRNAKURSE
+Irnakurse are surface elves who drow have subjected to particularly cruel and
+humiliating ﬂeshwarping practices, as drow take special delight in the torment
+of their surface-dwelling kin. The process of crafting an irnakurse involves
+twisting an unfortunate elf into a deformed mass of misplaced limbs, loose ﬂesh,
+and bony protrusions—parts that should be internal are often left on full display
+to the world. Irnakurse are subject to mental conditioning that causes them to
+hate their prior forms, and these creatures prefer to attack surface elves over all
+other targets.
+IRNAKURSE
+CREATURE 9
+CE
+LARGE
+ABERRATION
+Perception +18; darkvision
+Languages Abyssal, Elven, Undercommon (can’t speak
+any language)
+Skills Athletics +20, Acrobatics +20, Stealth +20
+Str +5, Dex +5, Con +3, Int –2, Wis +3, Cha +4
+AC 28; Fort +20, Ref +18, Will +16
+HP 152
+Attack of Opportunity Ǻȓ
+Speed 15 feet
+Melee Ȱɵ jaws +20 (reach 10 feet), Damage
+2d12+11 piercing
+Melee Ȱɵ tentacle +20 (agile, reach 20
+feet), Damage 2d8+11 slashing plus
+mind lash
+Mind Lash (emotion, enchantment,
+mental, occult) A non-evil creature
+hit by an irnakurse’s tentacle is
+overwhelmed with corrupted images
+of a ruined life and must succeed at a
+DC 28 Will save or be stunned
+2 (or stunned 4 on a critical
+failure). After attempting
+this save, a creature is
+temporarily immune to Mind
+Lash for 24 hours.
+Rend Ȱɵ tentacle
+Soul Scream
+ʚʖ
+(auditory,
+concentrate, emotion, enchantment,
+mental, occult) Frequency once per day;
+Eﬀect The irnakurse unleashes an alien
+shriek of nightmarish horror and
+pain. All non-evil creatures within a
+10-foot emanation must attempt a
+DC 28 Will save. The irnakurse can
+Sustain Soul Scream for up to 6
+rounds; each time it does, it repeats
+the eﬀect.
+Critical Success The creature is unaﬀected,
+and is temporarily immune to Soul Scream for 24 hours.
+Success The creature is stupeﬁed 1 for 1 round.
+
+================================================================================
+PAGE 120
+================================================================================
+
+ZEVGAVIZEB’S FAVORED
+The demonic patron of many
+xulgaths, Zevgavizeb, spends most
+of his time slumbering in the Abyssal
+realm of Gluttondark. However, his
+vile priests actively pursue what
+they insist are their dormant god’s
+goals. Some xulgath high priests
+practice ﬂeshwarping upon their own
+acolytes, creating ghonhatine zealots
+to serve in their legions and guard
+their evil temples.
+Failure The creature is stupeﬁed 1. Further failed saves against Soul Scream increase
+the condition value by 1, to a maximum of stupeﬁed 4. Each time the character gets
+a full night’s rest, the stupeﬁed condition gained from Soul Scream decreases by 1.
+Critical Failure As failure, except the stupeﬁed value increases by 2 instead of by 1.
+Storm of Tentacles ʚʖ The irnakurse makes up to four tentacle Strikes, each against a
+diﬀerent target. These attacks count toward the irnakurse’s multiple attack penalty, but
+the multiple attack penalty doesn’t increase until after it makes all of its attacks.
+GHONHATINE
+In transforming xulgaths, drow ﬂeshwarpers sought not to create a new type of
+creature but to recapture a form of xulgath predecessor believed entirely vanished
+from Golarion. Ghonhatines are the result—hulking reptilian beasts who prefer to
+crawl on all fours and tear at their foes with bestial fury.
+
+================================================================================
+# ICE GOLEM
+================================================================================
+
+Filth Fever (disease) The sickened and unconscious conditions from ﬁlth fever can’t
+end or be reduced until the disease is cured; Saving Throw DC 19 Fortitude; Stage 1
+carrier with no ill eﬀect (1d4 hours); Stage 2 sickened 1 (1 day); Stage 3 sickened 1
+and slowed 1 as long as it remains sickened (1 day); Stage 4 unconscious (1 day);
+Stage 5 dead
+ICE GOLEM
+Ice golems are either carved from massive blocks of ice, or pieced together from
+individual components that are then fused together through heat and refreezing.
+In most cases, the resulting shape is little more than a crude approximation of a
+humanoid form, but given the right talent, an ice golem could be an exquisitely
+carved statue of a mythical creature, famous persona, or even a deity.
+While ice golems most frequently serve as guardians in freezing climates,
+the magic that holds an ice golem together keeps it from melting in warmer
+temperatures. This, combined with the fact that ice golems lie on the lower
+end of the scale as far as cost and difﬁculty to create, gives these constructs
+unusual features that puts them in great demand. The rich and powerful
+in hot, arid regions often commission ice golems not only as guardians
+for their estates and vaults, but for comfort—the presence of an ice golem
+standing quietly sentinel in the corner of a room can help to keep the
+chamber at a comfortable temperature. The truly decadent use ice
+golems as servants to keep drinks cold.
+ICE GOLEM
+CREATURE 5
+UNCOMMON
+N
+MEDIUM
+COLD
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +9; darkvision
+Skills Athletics +15
+Str +5, Dex +0, Con +4, Int –5, Wis +0, Cha –5
+AC 21; Fort +15, Ref +11, Will +9
+HP 80; Immunities bleed, cold, death eﬀects, disease, doomed,
+drained, electricity, fatigued, healing, magic (see Golem
+Antimagic below), mental, necromancy, nonlethal attacks,
+paralyzed, poison, sickened, unconscious; Resistances physical
+5 (except adamantine and bludgeoning)
+Golem Antimagic harmed by ﬁre (4d6, 1d10 from areas or persistent
+damage); healed by cold (area 1d6 HP); slowed by water
+Icy Demise (arcane, cold, evocation) When an ice golem
+is destroyed, its body explodes in a blast of frigid air
+and razor-sharp ice, dealing 2d6 slashing damage
+and 2d6 cold damage to creatures in a 20-foot
+emanation, with a DC 19 basic Reﬂex save.
+
+================================================================================
+PAGE 131
+================================================================================
+
+Bestiary 2
+WOOD GOLEM COMPONENTS
+Unless they are badly damaged by
+magical ﬁre, the rare woods and
+exquisitely carved blocks used to
+craft a wood golem retain much
+of their value after the golem’s
+destruction. Carpenters, sculptors,
+and even some merchants will pay
+a fair price for the remains of a
+defeated wood golem. However, if
+the golem belonged to a rich and
+powerful person and its fragments
+are thus recognizable, it may be more
+diﬃcult to ﬁnd willing buyers.
+Vulnerable to Endure Elements An ice golem can be targeted with endure elements
+even if it’s not willing. If it is targeted, for 1 round it can’t use Breath Weapon or
+beneﬁt from creeping cold, and its ﬁst attack doesn’t deal cold damage.
+Speed 25 feet
+Melee Ȱɵ ﬁst +15 (magical, versatile P), Damage 2d6+7 bludgeoning plus 1d6 cold
+Breath Weapon ʚʖ (arcane, cold, evocation) The ice golem exhales a blast of freezing
+mist that deals 6d6 cold damage in a 30-foot cone (DC 22 basic Reﬂex save). It can’t
+use Breath Weapon again for 1d4 rounds.
+Creeping Cold (arcane, cold, evocation) When the ice golem gets a critical hit with a ﬁst
+Strike, the target also takes 2d6 persistent cold damage and is slowed 1 for 1 round.
+WOOD GOLEM
+Wood golems are often given vaguely humanoid shapes, almost as if cobbled
+together from scraps of ﬁrewood and discarded burls. It’s less common for
+wood golems to have artistic embellishments such as engraved patterns, or to
+be carved in the shapes of different types of creatures to meet the tastes of their
+owners. While wealthy patrons have been known to commission wood golems
+to be painstakingly carved to resemble themselves or their ancestors, to serve
+dual purposes of protection and ego bolstering, most wood golem crafters don’t
+bother. Druids and creatures who protect woodlands, such as arboreals, typically
+see wood golems as an affront or an abomination, akin to the horror humanoids
+often feel when facing a carrion or ﬂesh golem. As a result, it is rare to see such
+creatures serving as guardians for fey or druidic holy sites, despite the thematic
+match between the wood golem’s appearance and such locations.
+
+================================================================================
+# INTELLECT DEVOURER
+================================================================================
+
+
+SENSATION SEEKERS
+Intellect devourers steal bodies to
+experience the physical sensations
+denied their nearly invulnerable
+natural forms. Each new body
+brings the opportunity to explore
+new vistas of taste, touch, and pain.
+Intellect devourers occupying a
+body fear little but discovery, and
+even that simply puts a temporary
+end to their games. Harm to the
+host is just another sensation to
+experience, and replacement bodies
+are easy to ﬁnd.
+Intellect Devourer
+Intellect devourers serve as advance scouts and inﬁltrators for the powerful
+force of alien beings called the Dominion of the Black. These monsters roam the
+Darklands, from which they mount secret invasions of the world above. When
+an intellect devourer inﬁltrates a society, its ﬁrst priority is to acquire a body. It
+might ﬁrst seek out a graveyard for a fresh corpse, as this is easier than ﬁghting
+and killing someone. When the aberration compresses itself into the host’s brain
+cavity, its real body goes dull to sensation as it connects to the nervous system of
+its host. If found out, an intellect devourer might quickly inhabit a new body to
+make its escape, preferably something inconspicuous such as a domestic animal.
+INTELLECT DEVOURER
+CREATURE 8
+UNCOMMON
+CE
+SMALL
+ABERRATION
+Perception +16, darkvision, lifesense 60 feet
+Languages Aklo, Common, Undercommon (can’t speak any languages); telepathy 100 feet
+Skills Athletics +14, Deception +20, Diplomacy +16, Occultism +17, Society +17, Stealth +18
+Str +2, Dex +4, Con +4, Int +5, Wis +4, Cha +6
+AC 26, Fort +14, Ref +16, Will +18
+HP 130; Immunities blinded, controlled, emotion, possession
+Speed 35 feet
+Melee Ȱɵ talon +18 (agile, ﬁnesse), Damage 2d10+5 slashing
+Occult Innate Spells DC 27; 4th confusion, globe of invulnerability; 3rd soothe (×3); 2nd
+gentle repose, invisibility (at will, self only), paranoia (at will); Cantrips (4th) daze,
+detect magic, read aura
+Body Thief ̂ˬ (manipulate, necromancy, occult, possession) The intellect devourer
+reduces in size and burrows into the brain of a creature dead for no longer than 1 day.
+At the start of the intellect devourer’s next turn, the body revives at its maximum Hit
+Points, controlled by the devourer. The intellect devourer is conscious and can sense
+everything the possessed body could. Any eﬀect that ends the possession kills the host
+body with the same eﬀects as Exit Body. The intellect devourer can’t use any of the host
+creature’s spells with Body Thief but can use its own spells. The host body slowly decays
+while inhabited by the intellect devourer, becoming uninhabitable after
+7 days unless preserved with gentle repose or a similar eﬀect.
+Exit Body Ȱɵ (move) Requirements The intellect devourer is
+controlling a body with Body Thief; Eﬀect The intellect
+devourer leaves its host body, which dies instantly
+and is no longer a suitable host for any Body
+Thief ability. The intellect devourer appears
+at full size in an adjacent space.
+Ravage ̂ˬ The intellect devourer makes
+two talon Strikes against a paralyzed,
+restrained, or unconscious creature,
+using the same attack modiﬁer as its
+highest attack modiﬁer. These Strikes
+gain the death trait. If Ravage kills the
+target, the intellect devourer may use Body
+Thief against it as a free action.
+Stolen Identity While an intellect devourer
+uses Body Thief, it gains the ability to
+understand and speak all languages
+known by the host, as well as knowledge
+of the host body’s abilities, identity, role
+in society, and personality. However,
+it does not gain the
+speciﬁc memories
+or knowledge of
+the host body.
+
+================================================================================
+PAGE 149
+================================================================================
+
+Bestiary 2
+IRLGAUNT RELIGION
+A small number of irlgaunts actively
+worship Rovagug, whom they believe
+to be the progenitor of their species.
+Instead of living solitary lives,
+these chaotic evil irlgaunts form
+cabals that inhabit deep ﬁssures,
+transforming them into grisly
+temples by decorating them with
+the corpses of their sacriﬁces. They
+also decorate their own bodies by
+carving prayers into their chitin and
+painting themselves with crude and
+disturbing images. Some claim these
+runes grant them divine powers of
+protection and the ability to summon
+Rovagug’s otherworldly kin.
+Irlgaunt
+Irlgaunts resemble titanic spiders or crabs, but with cephalopod-like tendrils
+erupting from the tips of their chitin-armored legs. Their jagged gray shells allow
+them to blend into the rocky walls of the high mountain passes and deep ravines
+that serve as their hunting grounds. Despite their size, they move with incredible
+alacrity, bounding across chasms and skittering up sheer mountain cliffs without
+pause. Though they are formidable in melee, irlgaunts have an even more powerful
+ranged attack. These creatures can pelt their opponents by forcefully regurgitating
+gastroliths—melon-sized clusters of rocks enveloped in coagulated digestive
+enzymes strong enough to break down ﬂesh and bone. Gastroliths are fragile and
+explode on contact, spraying the area with shards of rock and caustic acid.
+While one might easily mistake an irlgaunt for a simple brutish beast, they have
+a keen intelligence and use devious hunting strategies. They set traps for travelers
+and are fond of using gems and magical items taken from previous victims as bait.
+They have been known to start rockslides or otherwise block passages to reroute
+explorers into their clutches. They also use their gastroliths to direct the movements
+of their prey, forcing victims into dead ends at the edge of chasms or cliffs.
+For the most part, irlgaunts live solitary lives, likely because ﬁnding enough food
+to sustain a community tends to be difﬁcult. However, they still maintain a sense
+of extended, regional community, actively gathering when organizing for war or to
+discuss other issues that affect their species or shared territories. They have been
+known to occasionally ally with giants, but these truces are usually nebulous.
+
+================================================================================
+# IRLGAUNT
+================================================================================
+
+
+Bestiary 2
+IRLGAUNT RELIGION
+A small number of irlgaunts actively
+worship Rovagug, whom they believe
+to be the progenitor of their species.
+Instead of living solitary lives,
+these chaotic evil irlgaunts form
+cabals that inhabit deep ﬁssures,
+transforming them into grisly
+temples by decorating them with
+the corpses of their sacriﬁces. They
+also decorate their own bodies by
+carving prayers into their chitin and
+painting themselves with crude and
+disturbing images. Some claim these
+runes grant them divine powers of
+protection and the ability to summon
+Rovagug’s otherworldly kin.
+Irlgaunt
+Irlgaunts resemble titanic spiders or crabs, but with cephalopod-like tendrils
+erupting from the tips of their chitin-armored legs. Their jagged gray shells allow
+them to blend into the rocky walls of the high mountain passes and deep ravines
+that serve as their hunting grounds. Despite their size, they move with incredible
+alacrity, bounding across chasms and skittering up sheer mountain cliffs without
+pause. Though they are formidable in melee, irlgaunts have an even more powerful
+ranged attack. These creatures can pelt their opponents by forcefully regurgitating
+gastroliths—melon-sized clusters of rocks enveloped in coagulated digestive
+enzymes strong enough to break down ﬂesh and bone. Gastroliths are fragile and
+explode on contact, spraying the area with shards of rock and caustic acid.
+While one might easily mistake an irlgaunt for a simple brutish beast, they have
+a keen intelligence and use devious hunting strategies. They set traps for travelers
+and are fond of using gems and magical items taken from previous victims as bait.
+They have been known to start rockslides or otherwise block passages to reroute
+explorers into their clutches. They also use their gastroliths to direct the movements
+of their prey, forcing victims into dead ends at the edge of chasms or cliffs.
+For the most part, irlgaunts live solitary lives, likely because ﬁnding enough food
+to sustain a community tends to be difﬁcult. However, they still maintain a sense
+of extended, regional community, actively gathering when organizing for war or to
+discuss other issues that affect their species or shared territories. They have been
+known to occasionally ally with giants, but these truces are usually nebulous.
+IRLGAUNT
+CREATURE 13
+NE
+LARGE
+ABERRATION
+EARTH
+Perception +24, darkvision
+Languages Aklo, Common, Jotun, Terran
+Skills Acrobatics +25, Athletics +26, Deception +23, Stealth +27, Survival +22
+Str +7, Dex +8, Con +5, Int +4, Wis +5,
+Cha +4
+AC 34; Fort +22, Ref +25, Will +24
+HP 265, Immunities acid; Weaknesses
+bludgeoning 10
+Speed 30 feet, climb 30 feet;
+stone step
+Melee Ȱɵ jaws +26, Damage
+3d8+13 piercing plus 2d6 acid
+Melee Ȱɵ legs +26 (agile), Damage
+3d10+13 bludgeoning
+Primal Innate Spells DC 31; 6th stone tell;
+4th meld into stone (at will), shape stone
+(at will)
+Regurgitate Gastrolith ʚʖ (acid,
+evocation, primal) The irlgaunt
+violently regurgitates a melonsized clot of brittle stone
+supernaturally infused with
+digestive
+enzymes.
+The
+stone and acid explode on
+impact within a range of
+30 feet, dealing 7d6
+piercing
+damage
+and
+7d6
+acid
+damage to creatures
+in a 20-foot burst (DC 33 basic Reﬂex
+save). The irlgaunt can’t Regurgitate Gastroliths for 1d4 rounds.
+Stone Step The irlgaunt ignores diﬃcult terrain composed of rocks and stone.
+
+================================================================================
+PAGE 150
+================================================================================
+
+EXILES FROM BEYOND
+These disgusting parasites originally
+manifested in the First World, but
+the fey denizens of that realm found
+them too awful to endure and exiled
+them to the Material Plane. Over
+time, the isqulugs sloughed oﬀ their
+fey features for new, more powerful
+bodies of their own. Reports of
+stranger variants ﬂourishing in areas
+such as demon-deﬁled Tanglebriar
+and remote fungi-ridden vaults in Orv,
+however, suggest their foothold on
+Golarion has become more established
+than previously thought.
+Isqulug
+The isqulug’s appearance, though unsettling, might be its least awful aspect.
+The creature resembles a bipedal amphibian with tentacles instead of arms and
+a head composed of an undulant mass of what appear to be shifting, slimy
+transparent eggs ﬁlled with writhing larvae. In truth, these larvae constitute
+the mind and consciousness of the isqulug—its “body” is little more than an
+organic suit manufactured from the ﬂesh of those it has consumed, analogous to
+the complex web of a spider or the hive of a colony of bees, but fully capable of
+movement and violence.
+
+================================================================================
+# ISQULUG
+================================================================================
+
+
+EXILES FROM BEYOND
+These disgusting parasites originally
+manifested in the First World, but
+the fey denizens of that realm found
+them too awful to endure and exiled
+them to the Material Plane. Over
+time, the isqulugs sloughed oﬀ their
+fey features for new, more powerful
+bodies of their own. Reports of
+stranger variants ﬂourishing in areas
+such as demon-deﬁled Tanglebriar
+and remote fungi-ridden vaults in Orv,
+however, suggest their foothold on
+Golarion has become more established
+than previously thought.
+Isqulug
+The isqulug’s appearance, though unsettling, might be its least awful aspect.
+The creature resembles a bipedal amphibian with tentacles instead of arms and
+a head composed of an undulant mass of what appear to be shifting, slimy
+transparent eggs ﬁlled with writhing larvae. In truth, these larvae constitute
+the mind and consciousness of the isqulug—its “body” is little more than an
+organic suit manufactured from the ﬂesh of those it has consumed, analogous to
+the complex web of a spider or the hive of a colony of bees, but fully capable of
+movement and violence.
+ISQULUG
+CREATURE 11
+UNCOMMON
+NE
+MEDIUM
+ABERRATION
+AMPHIBIOUS
+Perception +24, greater darkvision, host scent 30 feet
+Languages Aklo
+Skills Acrobatics +22, Athletics +24, Nature +22, Survival +22
+Str +7, Dex +5, Con +7, Int +3, Wis +7, Cha +5
+Host Scent An isqulug can precisely sense any creature infected with isqulugia within
+30 feet, and knows the current stage of the disease.
+AC 31, all-around vision; Fort +24, Ref +20, Will +18
+HP 230, regeneration 10 (deactivated by cold); Immunities swarm mind;
+Weaknesses cold 10; Resistances ﬁre 10
+Speed 25 feet, swim 25 feet; swamp stride
+Melee Ȱɵ tentacle +22 (agile, reach 10 feet), Damage 2d12+11 bludgeoning
+plus isqulugia
+Primal Innate Spells DC 30, attack +22; 6th tangling creepers; 5th
+control water, entangle (at will), hallucinatory terrain, obscuring
+mist (at will); 4th ﬂy; Cantrips (5th) dancing lights; Constant
+(1st) pass without trace
+Expel Infestation ʚʖ The isqulug expels larvae
+from the hivemind in its head in a 30-foot
+cone. Creatures in this area take 6d10
+piercing damage as the swarm feeds on their
+ﬂesh (DC 30 basic Reﬂex save). Any creature
+that takes damage is exposed to isqulugia.
+The isqulug becomes stupeﬁed 1 for 1d4 rounds,
+during which it can’t Expel Infestation.
+Isqulugia (disease, incapacitation, primal, transmutation,
+virulent) Isqulugia’s sickened, slowed, and paralyzed
+conditions can’t be removed until this aﬄiction is removed;
+Saving Throw DC 30 Fortitude; Stage 1 sickened 1 (1 hour);
+Stage 2 fatigued and sickened 2 (1 day); Stage 3 fatigued
+and slowed 1 (1 day); Stage 4 paralyzed (1 day); Stage 5
+the creature dies, and its body violently transforms into a
+new isqulug. Wish, similar magic, or a 9th-level resurrect
+ritual can return the victim to life. The new isqulug
+remains even if the victim is brought back to life.
+Malleability The isqulug can Squeeze through
+tight spaces as if it were a Small creature. While
+Squeezing, it can move at its full Speed. The isqulug
+can even Squeeze through spaces that typically ﬁt
+only a Tiny creature, but does so at the standard speed
+for Squeezing.
+Swamp Stride An isqulug
+ignores
+diﬃcult
+terrain that’s caused
+by typical features
+of swamps.
+
+================================================================================
+PAGE 151
+================================================================================
+
+Bestiary 2
+JABBERWOCK TREASURE
+Jabberwocks have no interest
+in treasure for its own sake, but
+they gather objects of great value
+or power speciﬁcally to entice
+mortals into seeking it out. As a
+result, jabberwocks quickly amass
+impressive hoards of treasures taken
+from nearby areas.
+Jabberwock
+Few beasts have inspired as many legends, poems, songs, and myths in as many
+cultures, as this bizarre draconic creature. The jabberwock hails from the fey
+realm of the First World and is part of a group of powerful First World creatures
+known collectively as the Tane.
+Like all members of the Tane, jabberwocks are living creatures that age, eat,
+drink, and sleep, but do not reproduce normally. Instead, they are created directly
+by the godlike Eldest who rule the First World, and they serve at the pleasure (or
+frustration) of these capricious and mysterious entities. Believed to be the most
+powerful of all the Tane, jabberwocks are typically only ever created with one
+purpose: to wreak destruction and havoc upon the Material Plane. One of the
+Eldest might send a jabberwock to devastate a country, continent, or even
+entire world in order to get revenge for some slight made against them by a
+single mortal. Sometimes, no speciﬁc insult or injury is required, as some of
+the Eldest resent the very existence of the Material Plane and periodically
+create jabberwocks simply to express the wrath of the First World against its
+younger and less chaotic sibling.
+Once a jabberwock arrives on the Material Plane, its ﬁrst order of business
+is to seek out a lair. It prefers dwelling in remote forest locations about a day’s
+ﬂight from civilization—the more dangerous the woodland is to those who might
+eventually come hunting it, the better!
+The relationship between jabberwocks
+and vorpal weapons is the subject
+of much debate and speculation
+among scholars, and the various
+poems, songs, and legends about the
+jabberwock do little to clarify the issue,
+conﬂicting and diverging on this point.
+Some believe that vorpal weapons
+were ﬁrst created speciﬁcally
+to combat jabberwocks, but
+others take the story one step
+further. They cite evidence
+in certain ancient myths that
+there may once have been only
+a single, unique jabberwock,
+so powerful that nothing
+could so much as scratch
+it—nothing, that is, except
+for the ﬁrst vorpal sword,
+crafted for that very purpose.
+So epic was the resulting battle
+that it created strange echoes
+throughout reality, and as a result,
+these echoes, in the form of vorpal
+weapons, can now be found on
+many worlds. Those who subscribe to this
+belief claim that the jabberwocks seen today
+are but pale imitations of this proto-jabberwock,
+and they speculate that only the combined efforts of
+several Eldest would be sufﬁcient to create such a
+creature again.
+VARIANT JABBERWOCKS
+The Eldest have sometimes altered certain aspects of the
+jabberwocks they create. Some of the more notorious or
+legendary variant jabberwocks include the following.
+
+================================================================================
+PAGE 152
+================================================================================
+
+JABBERWOCKS AND DRAGONS
+Although jabberwocks may fear
+vorpal weapons and are ﬁlled with
+rage against all mortal creatures,
+few things invite a jabberwock’s
+wrath more than a Material Plane
+dragon. Some scholars believe that
+in the same way the First World is
+believed to have been a template or
+“ﬁrst draft” of the Material Plane,
+dragons were created in the likeness
+of jabberwocks. A jabberwock
+that learns of a nearby dragon will
+attempt to kill it to the exclusion of
+all other priorities.
+Frumious Jabberwock: Frumious jabberwocks have two heads. They are level
+24 and gain an extra action on each of their turns they can use only to make a
+jaws Strike.
+Mimsy Jabberwock: Typically hailing from wintry regions of the First World,
+mimsy jabberwocks have glowing blue-white scales, resist cold instead of ﬁre, and
+have eyes that burn with blue ﬂames that deal cold damage instead of ﬁre damage.
+Slithy Jabberwock: Wreaking destruction beneath the waves, these sinuous and
+slimy jabberwocks are amphibious, have a swim Speed of 80 feet instead of the
+normal ﬂy Speed, and do not have a wing Strike. A slithy jabberwock’s whifﬂing
+aura is activated whenever it swims, makes a tail Strike, or Burbles.
+
+================================================================================
+# ICE YAI
+================================================================================
+
+2nd darkness, invisibility (at will, self only)
+Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) The onidoshi takes on
+the appearance of an ogre. This doesn’t change their Speed or Strike attack and damage.
+ICE YAI
+Ice yai combine the brutality of frost giants with the grace of martial artists. More
+than any other oni, ice yai delight not in the pleasures of the ﬂesh, but in ﬂesh
+itself—rather than indulging in oft-destructive mortal vices like drink or lust, ice
+yai pursue physical perfection, reveling in the process of turning their bodies into
+powerful ﬁghting machines.
+ICE YAI
+CREATURE 13
+CE
+LARGE
+COLD
+FIEND
+GIANT
+HUMANOID
+ONI
+Perception +26; greater darkvision
+Languages Common, Jotun
+Skills Acrobatics +24, Arcana +23, Athletics +25, Deception +27,
+Intimidation +27, Nature +24, Stealth +26
+Str +8, Dex +5, Con +5, Int +4, Wis +5, Cha +8
+AC 34; Fort +21, Ref +25, Will +23; +1 status on all saves vs. magic
+HP 230, regeneration 15 (deactivated by acid or ﬁre); Immunities
+cold; Weaknesses ﬁre 15
+Attack of Opportunity Ǻȓ
+Icy Deﬂection Ǻȓ Trigger The ice yai is targeted by a ranged Strike
+or spell attack roll that doesn’t have the ﬁre trait; Eﬀect The ice
+yai creates a reﬂective blockade of ice, gaining a +4 circumstance
+bonus to AC against the triggering attack roll. If the attack misses,
+the ice yai redirects the attack to another creature within 20 feet
+of the yai. The attacker rerolls the attack roll against the new target.
+Speed 40 feet, ﬂy 40 feet
+Melee Ȱɵ ﬁst +27 (agile, evil, magical, reach 10 feet), Damage 2d8+16
+bludgeoning plus 2d6 cold and frozen strike
+Ranged Ȱɵ ice missile +25 (cold, evil, magical, range increment 60 feet),
+Damage 2d10+12 cold and frozen strike
+Primal Innate Spells DC 33; 7th cone of cold, wall of ice; 6th cone of
+cold (×3); 4th charm (×3), darkness, gaseous form, solid fog; 2nd
+invisibility (at will, self only)
+Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation)
+As onidoshi, but into a frost giant.
+Double Punch Ȱɵ Frequency once per round; Eﬀect The ice
+yai makes two ﬁst Strikes.
+Frozen Strike On a critical hit with a ﬁst Strike or a hit
+with an ice missile Strike, the target creature must
+attempt a DC 33 Fortitude save.
+Critical Success The creature is unaﬀected.
+Success The creature is slowed 1 for 1 round.
+Failure The creature is slowed 2 for 1 round.
+Critical Failure The creature is slowed 3 for 1 round.
+
+================================================================================
+PAGE 191
+================================================================================
+
+Bestiary 2
+OTHER ONI
+Diﬀerent oni exist for nearly every
+humanoid ancestry. Kuwa oni mask
+their golden skin and four-ﬁngered
+claws in human form, while ja oni
+hide as hobgoblins. Other yai include
+wind yai (who take their form from
+cloud giants) and the immensely
+powerful void yai (who form from
+other yai and ascend to rule over
+rune giants).
+FIRE YAI
+Fire yai take the form of ﬁre giants. Like ﬁre giants, ﬁre yai are shrewd and
+militaristic and have an incredible appetite for the thrill of war. While they engage
+in battle to conquer and control others, ﬁre yai also love the thrill of war, ﬁghting
+for the sheer joy of it. Presenting a ﬁre yai with a true challenge in combat can
+potentially earn their mercy and an offer to join and serve at their side. Fire yai’s
+third eyes shoot forth burning missiles of ﬁre.
+
+================================================================================
+# IFRIT PYROCHEMIST
+================================================================================
+
+
+Bestiary 2
+GENIEKIN PARENTAGE
+Planar scions from the elemental
+planes are known as geniekin because
+they are overwhelmingly born from
+couplings between mortals and
+genies: ifrits are born of efreet, oreads
+of shaitans, sulis of jann, sylphs of
+djinn, and undines of marids. Despite
+this distinguished ancestry, geniekin
+do not display most of their parents’
+exceptional talents, such as their
+ability to grant wishes.
+Planar Scion, Geniekin
+Geniekin are mortals whose ancestry has become entangled with that of genies,
+causing them to exhibit elemental powers drawn from the Elemental Planes. Though
+the geniekin found here are all of human descent and have example alignments,
+geniekin and other planar scions can descend from other ancestries and have any
+alignment. More information on genies can be found on page 162 of the Bestiary.
+IFRIT
+Ifrits’ blood blazes with elemental ﬁre. Most ifrits are second-class citizens who
+serve under the iron heel of the efreeti and their Dominion of Flame, but those
+born outside the efreet hierarchy or who choose to ﬂee it live
+lives of passion in search of fame, glory, and power.
+Ifrits are fond of ﬁre, but this doesn’t mean they all
+embrace ﬁre’s destructive nature. Those who seek
+more productive roles in a society ﬁnd inspiration in
+the way ﬂames ﬂit and dance, and they pride themselves
+in their skills as acrobats or dancers. The church of
+Sarenrae particularly welcomes ifrit ﬁre dancers, both in
+appreciation of their skill and to help ensure these ifrits
+have a safe place apart from their more violent kin.
+But by and large, ifrits are drawn to professions and
+callings that allow them to wallow in the glories of ﬁre.
+Ifrit pyrochemists apply this calling to alchemical
+teachings, seeing purity in every single bomb thrown
+or conﬂagration lit.
+IFRIT PYROCHEMIST
+CREATURE 1
+LE
+MEDIUM
+HUMAN
+HUMANOID
+IFRIT
+Perception +3
+Languages Common, Ignan
+Skills Acrobatics +6, Crafting +6, Intimidation +4,
+Nature +3, Survival +3, Thievery +6
+Str +0, Dex +3, Con +2, Int +3, Wis +0, Cha +1
+Items alchemist’s tools, dagger, ﬂint and steel, formula book,
+studded leather
+Infused Items An ifrit pyrochemist carries the following
+infused items, which last for 24 hours or until the next time
+the pyrochemist makes their daily preparations: lesser
+alchemist’s ﬁre (5), lesser elixir of life (2), lesser smokestick.
+AC 18; Fort +5, Ref +6, Will +3
+HP 18; Resistances ﬁre 1
+Speed 25 feet
+Melee Ȱɵ dagger +8 (agile, ﬁnesse, thrown 10 feet, versatile S),
+Damage 1d4 piercing
+Ranged Ȱɵ lesser alchemist’s ﬁre +8 (range increment 30 feet), Damage 1d8
+ﬁre plus 1 persistent ﬁre damage and 1 ﬁre splash damage
+Primal Innate Spells DC 16, attack +8; Cantrips (1st) produce ﬂame
+Quick Bomber Ȱɵ The ifrit pyrochemist draws an alchemical bomb with an Interact
+action and throws it as a ranged Strike.
+OREAD
+Elemental earth laces through the bones of oreads, who appear similar to stone
+statues of their mortal ancestry, with delicate crystals in place of hair, fur, or
+scales. Oreads are stoic and slow to plan but are of steadfast resolve and
+unwavering in their convictions.
+The typical oread cherishes quiet seclusion. Yet as they age, many
+oreads ﬁnd themselves inexplicably drawn to some far-ﬂung location
+
+================================================================================
+PAGE 202
+================================================================================
+
+EXTRAPLANAR HUMANOIDS
+An important distinction exists
+between planar scions and extraplanar
+humanoids, such as fetchlings.
+Fetchlings and other extraplanar
+humanoids represent true ancestral
+groups with their own physical and
+cultural identities and traditions.
+Planar scions are members of diverse
+ancestries who share a similar
+inheritance from extraplanar beings
+and, with exception of marids, typically
+integrate into other humanoid societies
+instead of building their own.
+with a pull like that exerted on the needle of a compass—intangible, constant, and
+ultimately irresistible. The destination of this mysterious pilgrimage is unique to
+each oread, though it usually ends in some place of great mystical power, natural
+splendor, or esoteric learning. Most oreads are drawn to a place with which they
+are somewhat familiar, but a rare few feel drawn to travel in a seemingly random
+direction, departing with only their hope that they’ll discover whatever mystery
+lies at the end of their invisible path.
+Many oreads ﬁnd that the role of a guard suits their personality well, for in
+such a role they can feel as if they are helping to promote order but also ﬁnd time
+to stand vigil as lone sentinels over a speciﬁc portion of a fortiﬁcation or a remote
+location on a wilderness trail.
+
+================================================================================
+# IMENTESH
+================================================================================
+
+
+MOUTHPIECES OF CHAOS
+While rarely found on the Material
+Plane, imenteshes frequent interplanar
+hubs of culture and commerce.
+Imenteshes act as diplomats on
+behalf of any chorus they claim
+allegiance to. They can oﬀer safe
+travel through the Maelstrom or even
+act as guides through the Maelstrom’s
+ever‑shifting Borderlands.
+to cast the mock spell before it is lost, and the creature touched can cast the
+spell normally.
+Failure As critical success, but the azuretzi must cast the mock spell before the end
+of its next turn or it is lost, and the creature touched can cast the spell normally.
+Critical Failure Mocking Touch has no eﬀect.
+IMENTESH
+The loquacious proteans known as imenteshes serve as missionaries, spies, and
+heralds of chaos to further the protean goal of reality’s dissolution. Imenteshes
+are cunning, curiously diplomatic, and profoundly whimsical. They travel
+beyond the Maelstrom for their work, frequently adopting extravagant
+personal attire and decorations that often border upon the garish, all to curry
+favor with less chaotic beings.
+IMENTESH
+CREATURE 10
+CN
+LARGE
+MONITOR
+PROTEAN
+Perception +19; darkvision, entropy sense (imprecise) 60 feet
+Languages Abyssal, Celestial, Protean; tongues
+Skills Acrobatics +17, Athletics +19, Deception +21,
+Diplomacy +19, Performance +21, Stealth +21,
+Thievery +17
+Str +7, Dex +5, Con +5, Int +7, Wis +3, Cha +5
+Entropy Sense (divination, divine, prediction) As akizendri.
+AC 30; Fort +21, Ref +19, Will +17; +1 status to all saves vs. magic
+HP 175, fast healing 5; Weaknesses lawful 10; Resistances precision 10, protean
+anatomy 15
+Protean Anatomy (divine, transmutation) As akizendri.
+Speed 25 feet, ﬂy 25 feet, swim 25 feet; freedom of movement
+Melee Ȱɵ jaws +23 (chaotic, magical, reach 10 feet), Damage 2d10+11 piercing
+plus 1d6 chaotic and warpwave strike
+Melee Ȱɵ claw +23 (agile, chaotic, magical, reach 10 feet), Damage 2d6+11
+slashing plus 1d6 chaotic
+Melee Ȱɵ tail +23 (chaotic, magical, reach 15 feet), Damage 2d10+11
+bludgeoning plus 1d6 chaotic and Grab
+Divine Innate Spells DC 29; 5th dimension door, dispel magic, divine
+wrath (chaotic), sending; 4th creation, dimension door (at
+will), shatter; 3rd haste, mending, shrink item, slow;
+1st detect alignment (at will; lawful only); Constant
+(5th) tongues; (4th) freedom of movement
+Change Shape
+Ȱɵ
+(concentrate,
+divine,
+polymorph, transmutation) The imentesh
+takes the appearance of any Large or
+smaller creature. This doesn’t change
+its Speed or its attack and
+damage
+bonuses
+with
+its
+Strikes, but might change the
+damage type its Strikes deal.
+Constrict Ȱɵ 1d10+11 bludgeoning,
+DC 29
+Inﬂict Warpwave Ȱɵ (divine, transmutation)
+An imentesh inﬂicts a warpwave on a creature within 100 feet (page 204; (DC 29
+Fortitude save to resist).
+Sneak Attack An imentesh’s Strikes deal an additional 2d6 precision damage to
+ﬂat‑footed targets.
+Warpwave Strike (divine, transmutation) Any creature struck and
+damaged by an imentesh’s jaws Strike must succeed at a DC 29
+Fortitude save or be subject to a warpwave (page 204).
+
+================================================================================
+PAGE 209
+================================================================================
+
+Bestiary 2
+PSYCHOPOMP TRAITORS
+Some psychopomps view their task
+of sorting souls as ultimately hollow
+and meaningless, since the multiverse
+itself must one day end. Eons ago,
+these rebels shirked their duties
+and ﬂed to the empty corners of
+the planes, becoming a new type of
+evil creature called a sahkil. Sahkils
+feed on mortal fears, particularly
+fears of death, and enjoy tormenting
+those who must die. Psychopomps
+generally leave these malcontents
+alone, except when sahkils interfere
+with the proper ﬂow of souls.
+Psychopomp
+Many psychopomps are intimately involved with the Boneyard’s massive
+bureaucracy. Few pursue mercy, justice, or personal gain; their duties to Pharasma
+and her Boneyard are supreme. Nevertheless, individual psychopomps interpret
+their duties in different ways, which might put them in conﬂict with mortals or even
+with each other.
+ESOBOK
+Esoboks are brute hunters and pugnacious sentinels that serve as the guard dogs of
+the Boneyard. These squat, powerful quadrupeds have a frill of dark feathers around
+their distinctive heads which resemble a crocodile skull. Esoboks rarely bother with
+those who are truly dead, allowing the dead of the Boneyard to go about their
+business while remaining watchful for danger. Though cunning when snifﬁng out
+threats to the Boneyard or to their psychopomp handlers, they’re among the least
+intelligent of the psychopomps and rarely speak except to utter growling threats.
+The wise listen when an esobok makes a threat, as it won’t do so twice.
+
+================================================================================
+# INTERLOCUTOR
+================================================================================
+
+
+Bestiary 2
+VELSTRACS ON GOLARION
+Velstracs are most often
+encountered in the shadowy realm
+of Nidal, where the state worship
+of Zon-Kuthon is rigidly enforced.
+Indeed, many velstracs are created
+from the souls of Joyful Things,
+devotees of Zon-Kuthon who have
+had their limbs amputated to focus
+their minds on the veneration of
+pain, sacriﬁce, and torment.
+INTERLOCUTOR
+CREATURE 12
+LE
+LARGE
+FIEND
+VELSTRAC
+Perception +24; greater darkvision, painsight
+Languages Common, Infernal, Shadowtongue
+Skills Athletics +25, Crafting +22 (+24 sculpting ﬂesh), Intimidation +25, Medicine +26,
+Religion +22, Stealth +19, Torture Lore +20
+Str +7, Dex +3, Con +5, Int +2, Wis +6, Cha +5
+Painsight (divination, divine) As augur.
+AC 33; Fort +23, Ref +21, Will +26; +1 status to all saves vs. magic
+HP 215, regeneration 20 (deactivated by good or silver); Immunities cold; Weaknesses
+good 15, silver 15
+Glimpse of Stolen Flesh (aura, divine, enchantment, fear, mental, visual) 30 feet. When a
+creature ends its turn in the aura, it sees pieces of its own body amid the interlocutor’s
+form. The creature must succeed at a DC 29 Will save or become stunned 1.
+Attack of Opportunity Ǻȓ
+Speed 40 feet
+Melee Ȱɵ claw +25 (deadly 2d10, evil, magical, reach 10 feet), Damage 3d10+13 slashing
+plus 2d6 persistent bleed
+Divine Innate Spells DC 33; 7th plane shift (self only, to the Material Plane or Shadow
+Plane only); 5th breath of life; 4th heal (×2), restoration (×2); Cantrips (6th) stabilize
+Focus Gaze Ȱɵ (concentrate, divine,
+enchantment, fear, mental, visual)
+The
+interlocutor
+stares at a creature
+they can see within
+30 feet. The creature must
+immediately attempt a Will save
+against
+glimpse
+of stolen ﬂesh. In
+addition, if the creature
+was already stunned, on a failed
+save, it feels its internal organs twist
+and writhe, and is clumsy 2 for 1
+minute. After attempting this
+save, the creature is then
+temporarily
+immune
+until the start of the
+interlocutor’s next turn.
+Surgical Rend Ȱɵ This functions as the Rend
+ability, dealing claw damage. In addition, if
+the target is a living creature with organs and
+muscle, the interlocutor opens a precise wound.
+Until the creature is restored to its maximum Hit
+Points, thus closing the wound, Strikes against the
+creature deal 1d6 extra precision damage.
+EREMITE
+Eremites roam the planes to seek out ideal portions of
+other creatures, such as a hero’s sword-arm or an angel’s
+pinions. Eremites capture these specimens to clinically
+test their true limits, then harvest specimens
+and add them to their own bodies. An
+eremite might attach tongues to their
+hand as extra ﬁngers or a ﬁst to
+the back of their neck in a horrid
+“improvement.” Eremites average
+7 feet tall and weigh approximately 200 pounds.
+
+================================================================================
+PAGE 286
+================================================================================
+
+OTHER VELSTRACS
+There are as many diﬀerent velstracs
+as there are ways to inﬂict pain.
+Other velstracs range in power from
+the relatively weak lampadariuses to
+the powerful phylacators.

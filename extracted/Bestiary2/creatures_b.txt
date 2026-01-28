@@ -1,0 +1,2184 @@
+# Bestiary - Creatures: B
+# Count: 24 creatures
+
+
+================================================================================
+# BYTHOS
+================================================================================
+
+
+BYTHOS
+CREATURE 16
+UNCOMMON
+LN
+LARGE
+AEON
+MONITOR
+Perception +30; darkvision
+Languages envisioning
+Skills Athletics +32, Arcana +29, Deception +25, Intimidation+25, Nature +30, Occultism
++29, Religion +30, Stealth +26
+Str +8, Dex +4, Con +5, Int +7, Wis +8, Cha +5
+Envisioning As theletos.
+AC 39; Fort +25, Ref +26, Will +30; +1 status to all saves vs. magic
+HP 245, regeneration 15 (deactivated by chaotic); Weaknesses chaotic 15
+Confusing Gaze (aura, divine, enchantment, emotion, incapacitation, mental, visual) 30
+feet. A creature that ends its turn in the aura must attempt a DC 34 Will save. If it fails,
+it’s confused for 1 round (or 1d4 rounds on a critical failure).
+Temporal Reversion Ȳ˓ (fortune) Trigger The bythos fails or critically fails a check; Frequency
+once per day; Eﬀect The bythos rerolls the triggering check and takes the better result.
+Speed ﬂy 35 feet
+Melee Ȱɵ ﬁst +32 (lawful, magical, reach 10
+feet), Damage 2d8+16 bludgeoning plus
+2d8 cold and 2d8 lawful
+Divine Innate Spells DC 37; 8th augury (at
+will), teleport; 7th dimensional anchor,
+dimensional lock, haste, plane shift; 6th
+slow; 4th dimensional anchor (at will)
+Rituals DC 37; imprisonment (temporal stasis only)
+Aging Strikes ʚʖ (divine, necromancy) The bythos
+make two ﬁst Strikes against a single target. If both
+Strikes hit, the target attempts a DC 37 Fortitude
+save. Creatures that don’t get weaker with age or
+don’t age are immune (GM’s discretion). If a creature becomes clumsy 4,
+drained 4, and enfeebled 4 due to Aging Strikes, it dies of old age.
+Success The creature is unaﬀected.
+Failure The creature becomes clumsy 1, drained 1, and enfeebled 1,
+or increases each of these conditions by 1. This eﬀect is
+cumulative with other aging strikes from bythoses, to a
+maximum of clumsy 4, drained 4, and enfeebled 4.
+Critical Failure As failure, but the creature becomes
+clumsy 2, drained 2, and enfeebled 2, or increases
+these conditions by 2.
+Focused Gaze Ȱɵ (concentrate) The bythos focuses its
+gaze on a creature it can see within 30 feet. The
+target must attempt a save against the bythos’s
+confusing gaze. A bythos can’t use this ability
+against the same creature more than once per turn.
+Temporal Flurry ʚʖ The bythos makes four ﬁst
+Strikes. Its multiple attack penalty increases normally
+with each attack.
+Temporal Strike ʚʖ (divine, conjuration, incapacitation, teleportation) The
+bythos touches a creature or object to displace it from time. The target
+attempts a DC 37 Fortitude save.
+Critical Success The target is unaﬀected.
+Success Time ﬂows around the target; the target is slowed 1 for 1 round.
+Failure The target disappears from the present moment and reappears
+in the same location 1d4 rounds later as if no time had passed for it.
+If a creature or object occupies that space when the target returns, the
+target appears in the closest available space to its original location.
+Critical Failure As failure, but the target is slowed 1 for an extra 1d4 rounds after
+it returns.
+GUARDIANS OF TIME
+Bythos aeons have no innate ability
+to directly enter the mysterious
+Dimension of Time, but many know
+of the hidden routes in the Great
+Beyond one can use to travel to this
+strange realm. A bythos prefers to
+destroy those who seek entrance to
+the Dimension of Time rather than
+risk the knowledge of how to reach it
+spreading too far.
+
+================================================================================
+PAGE 13
+================================================================================
+
+Bestiary 2
+Ahuizotl
+The ahuizotl is a vicious, semi-aquatic predator that resembles a hideous
+cross between a badger and an otter, with disturbingly web-ﬁngered paws
+supplemented by a ﬁfth hand at the end of a long, serpentine tail. A clever and
+stealthy hunter, the ahuizotl lures unwary prey to their doom by mimicking the
+cries of people in distress. The ahuizotl’s macabre habit of feeding on a victim’s
+eyes, ﬁngernails, and teeth leaves the corpses of its kills uniquely mutilated.
+Some say the creatures consider these body parts delicacies, while others insist
+ahuizotls collect them as tribute to a powerful but unknown entity. The fact
+that an ahuizotl does not eat the actual ﬂesh of its victims, instead depositing
+their savaged and waterlogged corpses in locations where the remains are sure
+to be found by friends or family, points to a third and perhaps more likely
+possibility—the ahuizotl simply enjoys using its violent dietary quirks to spread
+fear and despair.
+An ahuizotl walks on all fours, but its hands are capable of manipulating
+simple tools and other objects. Ahuizotls have roughly mustelid features and an
+extra membrane covering their eyes, giving their eyes a dull color suggestive of
+cataracts and somewhat blunting the creature’s vision. Yet despite their bestial
+appearance, ahuizotls are nearly as intelligent as the average human, and wiser
+than most. Although they don’t form societies of their own, they have been
+known to ally with violent cults or conclaves of monsters, and even to found
+small shrines and temples to sinister deities. The cult of Charon, the horseman
+of Death, is particularly popular among certain ahuizotls, who look forward to
+an afterlife spent wallowing in the waters of the River Styx.
+
+================================================================================
+# BASTION ARCHON
+================================================================================
+
+
+ARMORED ARCHONS
+Always ready to defend others, most
+archons are never encountered out of
+their suits of armor. Even those who
+eschew armor, such as the bastion
+archon, tend to still appear as if they
+are wearing heavy protection against
+the scourge of battle.
+Bastion archons are massive beings made of the very stone of Heaven’s Holy
+Mountain, with their visages obscured by a blinding light surrounding the gestalt
+that originally formed the bastion. Tireless in their embodiment of the virtue of
+sacriﬁce, a bastion archon almost always protects the area where they manifested,
+and even when they are destroyed they leave an indelible mark of righteousness
+upon the surrounding region.
+BASTION ARCHON
+CREATURE 20
+RARE
+LG
+HUGE
+ARCHON
+CELESTIAL
+Perception +37; darkvision, true seeing
+Languages Celestial, Draconic, Infernal; tongues
+Skills Athletics +38, Diplomacy +34, Intimidation +34, Religion +32
+Str +10, Dex +7, Con +10, Int +6, Wis +8, Cha +6
+AC 47; Fort +38, Ref +31, Will +34; +1 status to all saves vs. magic
+HP 280, fast healing 30; Weaknesses evil 15
+Bastion Aura (aura, divine, good, healing, necromancy) 50 feet. All
+good‑aligned creatures in the aura have fast healing 30 for as long as
+they remain in range, and they gain a +2 status bonus to attack
+rolls and damage rolls.
+Ultimate Sacriﬁce (divine, good, healing, necromancy) If the
+bastion archon is slain by an evil creature, it explodes in a
+geyser of holy light, restoring 140 HP to all good-aligned
+creatures in a 40-foot emanation. The ground in the aﬀected
+area is also subjected to a level 10 consecrate ritual, and the
+ground is consecrated for 10 years (or only 24 hours if the
+ultimate sacriﬁce took place in Hell, Abaddon, or the Abyss).
+Retributive Strike Ǻȓ
+Speed 70 feet; air walk
+Melee Ȱɵ ﬁst +40 (good, lawful, magical, reach 15
+feet), Damage 4d8+20 bludgeoning plus 2d6
+good
+Divine Innate Spells DC 42, attack +34; 10th meteor
+swarm, polar ray, sunburst; 7th prismatic spray,
+true target (×3), vibrant pattern; 4th dimension door
+(at will); Constant (10th) air walk, true seeing, tongues
+Archon’s Door As hound archon.
+Blinding Beams Ȳ˓ Trigger The bastion archon hits a
+creature with two ﬁst Strikes this turn and can use its Holy
+Beam; Eﬀect The bastion archon ﬁres its Holy Beam at only the
+creature it hit twice. The creature’s save result is one degree of
+success worse than the result it rolled.
+Entrench Ȱɵ The bastion archon locks itself in place, becoming
+voluntarily immobilized. While Entrenched, the archon can’t be
+forcibly moved or tripped, and it gains a +2 circumstance bonus
+to AC and Reﬂex saves. Entrench ends automatically as soon as
+the bastion archon uses another move action.
+Holy Beam ʚʖ (divine, good, incapacitation, light) The bastion
+archon releases a blinding beam of holy light in a 500-foot line
+that deals 20d6 good damage to non-archons in the area, with a
+DC 38 Reﬂex save. The bastion archon can’t use Holy Beam again
+for 1d4 rounds.
+Critical Success The creature is unaﬀected.
+Success The creature takes half damage.
+Failure The creature takes full damage and is blinded for
+1d4 rounds.
+Critical Failure The creature takes double damage and is
+blinded permanently.
+
+================================================================================
+PAGE 27
+================================================================================
+
+Bestiary 2
+ASSASSIN WINE
+The berries of an assassin vine are
+something of an acquired taste to
+most, but the process of aging the
+berries into wine can remove the
+unpleasant aftertaste—provided the
+berries are harvested from a living
+vine. After the vine’s death, toxins in
+the plant quickly seep into its berries,
+making them unsuitable for harvest,
+and as a result, assassin vine wine is a
+dangerous delicacy to prepare. Those
+who master the art, though, ﬁnd that
+the proceeds can more than cover
+the cost of having to periodically hire
+adventures to help curtail an unruly—
+and—hungry vineyard.
+Assassin Vine
+The assassin vine is a carnivorous plant with a voracious appetite. Rather than
+consuming creatures directly, it creates its own fertilizer by entangling prey
+and squeezing the life from it. Once the plant has killed a creature, it pulls the
+carcass over to its roots to feed from the decaying ﬂesh. Although an assassin
+vine lacks eyes, it can detect and track prey through a combination of using its
+root systems to detect vibrations through topsoil and its leaves to detect heat
+changes in the vicinity. Although the assassin vine has no real intelligence, its
+learned behaviors mimic those of cunning ambush hunters.
+As it is slow moving, the assassin vine typically remains rooted in a single area
+for as long as it has sufﬁcient prey. Though most often found along woodland
+trails or swamps, these plants can also be encountered in more rural settlements,
+poorly tended ﬁelds, and vineyards. While assassin vines can’t be trained in the
+classical sense, they can be used as defenses, and woodland-dwelling creatures
+like goblins and fey have been known to cultivate assassin vines as guardians
+for less-used routes into their lairs. In such cases, the tenders often seek to
+make the path more obvious than its disuse would otherwise suggest, while
+simultaneously working to ensure the bones of the vines’ victims are removed to
+keep their presence a secret, resulting in what appears to be an easy
+approach to the den but is actually an organic ambush.
+Mature assassin vines grow to 20 feet long and have smaller
+vines extending off the main trunk that reach from to 5 to 10
+feet in length. The smallest of these vines sprout every 6 inches
+or so; they tend to grow clusters of full leaves and occasionally bear
+small berries. A recently fed assassin vine can have bunches of plump,
+blood‑red berries that are juicy and tart but leave a slightly unpleasant
+iron aftertaste, as if from the faint taste of blood from a bitten lip.
+
+================================================================================
+# BRALANI
+================================================================================
+
+
+Bestiary 2
+BRALANI CONTESTS
+Bralanis enjoy inventing games and
+contests and adding new twists to
+popular sports rather than following
+familiar rules. Speed often features
+somewhere in bralani games, whether
+it be physical speed or quickness of
+wit. It is not uncommon for bralanis
+to seek the input of young children,
+encouraging adults to draw inspiration
+from a child’s creativity rather than
+allowing themselves to settle into
+comfortable and repetitive patterns.
+Azata
+Azatas embrace the love of life and the ﬁght to retain individuality and choice.
+BRALANI (WIND AZATA)
+Bralanis embody the freedom of fair competition, embracing opportunities to
+test their skills against worthy foes and bring mortals together with the thrill of
+good‑natured sports and contests. Their interest in constructive conﬂict also extends
+to higher stakes, such as diplomatic negotiations. In these cases, bralanis ensure
+that neither side’s desires are crushed by the other’s and work as mediators when
+needed. They believe in friendly contests to diffuse tension. When discussions are
+going well, bralanis step back, allowing the participants to shape their own futures.
+They delight in sailing through violent storms as wind, basking in the raw energy.
+BRALANI
+CREATURE 6
+CG
+MEDIUM
+AZATA
+CELESTIAL
+Perception +14; darkvision
+Languages Celestial, Draconic, Infernal; tongues
+Skills Acrobatics +13, Deception +15, Diplomacy +15,
+Games Lore +14, Stealth +15
+Str +5, Dex +5, Con +3, Int +2, Wis +4, Cha +5
+Items +1 composite longbow,scimitar
+AC 24; Fort +13, Ref +17, Will +12
+HP 120; Weaknesses cold iron 5, evil 5;
+Resistances electricity 10
+Speed 30 feet, ﬂy 80 feet
+Melee Ȱɵ scimitar +16 (forceful, sweep), Damage
+1d6+8 slashing plus 2d6 electricity and 1d6 good
+Ranged Ȱɵ composite longbow +18 (deadly 1d10,
+reload 0, volley 30 feet), Damage 1d8+6
+plus 1d6 electricity and 1d6 good
+Divine Innate Spells DC 24; 4th gaseous
+form (at will); 3rd heal, lightning bolt,
+wall of wind; 2nd calm emotions; 1st gust
+of wind (at will); Constant (5th) tongues
+Fair Competition (divine, enchantment,
+mental) Once per day, a bralani can
+spend 1 minute to bless willing creatures within
+100 feet who are about to participate in a
+contest. This blessing lasts 24 hours.
+If a blessed creature cheats or uses
+the contest to harm another,
+the creature grows visibly ill,
+becoming sickened 1 and unable to remove this condition for
+the duration or until they withdraw from the competition. At
+the end of the contest, participants
+who competed fairly ﬁnd it easier
+to negotiate and understand their
+opponent’s perspective. For 1 hour,
+they gain a +2 status bonus to
+Diplomacy checks and Recall Knowledge checks
+that directly pertain to their opponents.
+Whirlwind Blast ʚʖ (air, divine, evocation) The bralani
+generates a 20-foot line of scouring wind that deals
+7d6 bludgeoning damage (DC 24 basic Reﬂex save).
+It can’t use this ability again for 1d4 rounds.
+Wind Form A bralani ﬂies at full Speed in gaseous
+form.
+
+================================================================================
+PAGE 32
+================================================================================
+
+PRIMORDIAL VERANALLIA
+In the deepest reaches of Elysium,
+the eldest of veranallias roam. These
+beings concern themselves with
+transformations that take place over
+the course of millennia, as well as
+changes in the climates of entire
+worlds. Primordial veranallias have
+an array of unique powers that
+can aﬀect the area for many miles
+around them, from turning deserts
+into glass to triggering earthquakes.
+VERANALLIA (REBIRTH AZATA)
+Veranallias represent the freedom of life to grow, change, and adapt. They rarely
+interact directly with non-azatas, as most other beings ﬁnd their nature hard to
+comprehend, but those who secure their aid ﬁnd them powerful allies. The lower
+half of a veranallia’s body is made of vegetation that constantly repeats a dizzying
+cycle of sprouting, blooming, thriving, and wilting. The upper half of their body
+appears as that of a humanoid of any gender—it is rare for a veranallia to remain
+consistent in their gender for more than a few seasons at a time.
+Veranallias transform the landscape in their wake, bringing creation and
+destruction alike. The world around them overﬂows with an abundance of
+vegetation, with plenty of food for nearby animals, and when they bring destruction,
+they do so without cruelty, as it is sometimes necessary to make room for new life.
+They trigger forest ﬁres in woodlands before dry brush piles up to dangerous levels,
+and bring bitter winters to areas plagued with parasites that thrive in hot weather.
+
+================================================================================
+# BADGER
+================================================================================
+
+
+Bestiary 2
+TRAINED DIGGERS
+Kobolds and others who dwell in
+underground warrens know the
+value of having a few trained giant
+badgers in their lair, since when
+their digging habits are supervised
+and directed, they can excavate new
+tunnels and chambers with ease. Of
+course, the fact that giant badgers
+ﬁnd kobolds and others who dwell
+in underground warrens delicious
+means that relying on such trained
+diggers can be a risky endeavor. A
+giant badger trained for use as a
+digger or a guardian tends to only
+obey the commands of one master,
+and even then they can be prone
+to unpredictable outbursts for no
+reason other than pique.
+Badger
+The burrowing badger is plentiful in most temperate forests. All badgers are naturally
+ﬁerce and tenacious, and their squat stature belies their strength and speed.
+BADGER
+The typical badger has dark, brownish-gray fur highlighted with white markings,
+particularly on the head, giving it a striped mask of fur around its eyes. A
+threatened badger can swiftly become a ferocious combatant that typically ﬁghts
+until slain.
+BADGER
+CREATURE 0
+N
+SMALL
+ANIMAL
+Perception +6; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +4, Stealth +6
+Str +0, Dex +1, Con +2, Int –5, Wis +2, Cha –2
+AC 16; Fort +8, Ref +5, Will +6
+HP 15
+Ferocity Ǻȓ
+Speed 25 feet, burrow 10 feet
+Melee Ȱɵ jaws +8, Damage 1d8 piercing
+Melee Ȱɵ claw +8 (agile), Damage 1d6 slashing
+GIANT BADGER
+The violent, territorial giant badger is a relentless predator. An obligate carnivore,
+its prey ranges from rabbits to deer, livestock, and even the occasional traveler or
+adventurer. A giant badger’s claws are sharp and strong enough to carve tunnels from
+solid rock. They typically stand 4 feet tall at the shoulder and weigh 500 pounds.
+
+================================================================================
+# BAOBHAN SITH
+================================================================================
+
+
+HAUNTING LAIRS
+A baobhan sith adores the aesthetics
+of abandoned homes, desolate burial
+grounds, and crumbling ruins. They
+strive to give their lairs a gothic
+beauty rather than allowing them to
+get run down and ﬁlthy.
+Baobhan Sith
+Undeath is rare in the fey realm of the First World, for that plane’s infusion with the
+raw power of life makes undead uncomfortable at best. Yet a few fey have adopted
+the vile practices and habits of notorious undead while still being living themselves,
+as seen in the blood-drinking habits of the murderous baobhan sith.
+A baobhan sith avoids confrontations when outnumbered, and although
+territorial, they won’t reveal their true nature to larger groups. They prefer to drink
+blood from victims they ﬁnd attractive, and they avoid drinking blood from animals
+and beasts entirely, as they consider such activities to be uncultured.
+BAOBHAN SITH
+CREATURE 6
+UNCOMMON
+CE
+MEDIUM
+FEY
+Perception +12; low-light vision
+Languages Aklo, Common, Sylvan
+Skills Acrobatics +15, Deception +15, Nature +12, Performance +15 (+17 when
+dancing), Stealth +15
+Str +3, Dex +5, Con +2, Int +2, Wis +2, Cha +5
+AC 24; Fort +12, Ref +17, Will +14
+HP 105; Weaknesses cold iron 5
+Speed 25 feet
+Melee Ȱɵ claw +17 (agile, ﬁnesse), Damage 2d6+6 slashing and 1d6 persistent
+bleed
+Primal Innate Spells DC 24; 3rd mind reading (at will)
+Captivating Dance ʚʖ (enchantment, incapacitation, mental, primal, visual)
+The baobhan sith sways rhythmically and Strides up to their Speed.
+Each creature within 30 feet of the baobhan sith at the end of their
+movement must attempt a DC 25 Will save.
+Critical Success The creature is unaﬀected and is temporarily
+immune to Captivating Dance for 24 hours.
+Success The creature is slowed 1 for 1 round and
+is temporarily immune to Captivating Dance for
+24 hours.
+Failure The creature is fascinated, and it must spend at
+least 1 of its actions on each of its turns to move closer
+to the baobhan sith as expediently as possible, while
+avoiding obvious dangers. If the creature ends its
+movement or turn adjacent to the fey, it is slowed
+1 until the end of its next turn.
+Critical Failure As failure, but the creature must
+spend each of its actions moving closer to the baobhan
+sith, and if it ends its movement or turn adjacent to
+the fey, it is paralyzed until the end of its next turn.
+Change Shape Ȱɵ (concentrate, polymorph, primal,
+transmutation) The baobhan sith can transform into a
+large raven, with the eﬀects from the bird option in the
+aerial form spell (Core Rulebook 316).
+Drink Blood Ȱɵ Requirements A bleeding creature is within
+the baobhan sith’s reach; Eﬀect The baobhan sith tries to
+Drink the Blood from the bleeding creature’s wounds. The
+baobhan sith attempts an Athletics check against the victim’s
+Fortitude DC. On a success, the victim becomes drained 1 and the
+baobhan sith regains 10 HP, gaining any Hit Points in excess of their maximum Hit
+Points as temporary Hit Points. Drinking Blood from a victim that’s already drained
+doesn’t restore any Hit Points to the baobhan sith but increases the victim’s
+drained value by 1. A victim’s drained condition decreases by 1 per week. A blood
+transfusion, which requires 10 minutes, a successful DC 20 Medicine check,
+and suﬃcient blood or a blood donor, reduces the drained value by 1.
+
+================================================================================
+PAGE 35
+================================================================================
+
+Bestiary 2
+HARVESTING SPORES
+The psychotropic spores of the
+basidirond can be harvested with
+a successful DC 20 Herbalism Lore
+or Nature check, yielding 1 dose
+of spores (1d4 doses on a critical
+success); on a critical failure, the
+basidirond creates a 10-foot-radius
+hallucinogenic cloud. Each dose
+is worth 10 gp for use in Crafting
+poisons, or 20 gp if the poison causes
+the confused or stupeﬁed condition.
+Basidirond
+The basidirond, also called a mindfrond, is a fungal creature that crawls about on
+woody tendrils. The large, bowl-shaped pod atop its body collects mineral‑rich
+moisture—whether runoff from cave walls or fresh blood—for sustenance. It uses
+hallucinogenic spores to incapacitate prey long enough for it to beat its prey to
+a bloody pulp, then deposits the deliciously tenderized remains into this pod for
+consumption. A basidirond is over 6 feet tall and 3 to 4 feet wide, and weighs
+nearly 300 pounds when saturated.
+
+================================================================================
+# BASIDIROND
+================================================================================
+
+
+Bestiary 2
+HARVESTING SPORES
+The psychotropic spores of the
+basidirond can be harvested with
+a successful DC 20 Herbalism Lore
+or Nature check, yielding 1 dose
+of spores (1d4 doses on a critical
+success); on a critical failure, the
+basidirond creates a 10-foot-radius
+hallucinogenic cloud. Each dose
+is worth 10 gp for use in Crafting
+poisons, or 20 gp if the poison causes
+the confused or stupeﬁed condition.
+Basidirond
+The basidirond, also called a mindfrond, is a fungal creature that crawls about on
+woody tendrils. The large, bowl-shaped pod atop its body collects mineral‑rich
+moisture—whether runoff from cave walls or fresh blood—for sustenance. It uses
+hallucinogenic spores to incapacitate prey long enough for it to beat its prey to
+a bloody pulp, then deposits the deliciously tenderized remains into this pod for
+consumption. A basidirond is over 6 feet tall and 3 to 4 feet wide, and weighs
+nearly 300 pounds when saturated.
+BASIDIROND
+CREATURE 5
+N
+MEDIUM
+MINDLESS
+FUNGUS
+Perception +8; low-light vision, tremorsense (imprecise) 30 feet
+Skills Athletics +13, Stealth +13
+Str +4, Dex +4, Con +4, Int –5, Wis +1, Cha –3
+AC 22; Fort +13, Ref +11, Will +12
+HP 80; Immunities cold, mental; Weaknesses slashing 5
+Cold Lethargy Although a basidirond is immune to cold damage, any eﬀect that deals
+cold damage causes it to become slowed 1 for 1d4 rounds. During this time, it cannot
+use its Hallucinogenic Cloud or basidirond spores.
+Speed 20 feet
+Melee Ȱɵ frond +15, Damage 2d8+6 bludgeoning plus basidirond spores
+Basidirond Spores (disease) Saving Throw DC 22 Fortitude; Maximum
+Duration 6 rounds; Stage 1 1d8 poison damage and enfeebled 1 (1 round);
+Stage 2 1d10 poison damage and enfeebled 1 (1 round);
+Stage 3 1d12 poison damage and enfeebled 2 (1 round)
+Hallucinogenic Cloud ʚʖ The basidirond releases a
+cloud of invisible spores in a 20-foot emanation.
+Each creature in the area must succeed
+at a DC 22 Fortitude save or experience
+powerful hallucinations as long
+as it remains in the cloud, plus
+an additional 1d4 rounds after
+leaving the area. A creature
+must attempt a new save each
+round it remains within the
+area. The cloud persists for 5
+rounds unless dispersed before
+then by a strong wind. Each
+hallucinating creature rolls 1d6
+each round to determine what it
+hallucinates that round.
+1 The target is sinking in quicksand. It falls
+prone and spends 1 action on its next turn
+ﬂailing its limbs as if attempting to swim.
+2 The target is attacked by a swarm of spiders. It spends 2
+actions on its next turn attacking the ﬂoor with a melee weapon
+(drawing a weapon if needed). It is ﬂat-footed against all attacks.
+3 An item the target is holding turns into a viper. The
+target Releases the item and spends its next turn ﬂeeing
+from it.
+4 The target is suﬀocating. It holds its breath and is
+stunned 3.
+5 The target shrinks to 1/10 its normal size. For 1 round it is
+slowed 2 and enfeebled 4, and takes a –10‑foot status penalty
+to its Speed.
+6 The target is melting. It drops everything it’s holding and becomes slowed 2
+and clumsy 4 for 1 round.
+
+================================================================================
+PAGE 36
+================================================================================
+
+DRACONIC HERITAGE
+A dracolisk’s favored dwelling place
+most closely resembles that of its
+dragon parent: black dracolisks
+prefer marshlands, blue dracolisks
+favor deserts and warm hills, green
+dracolisks temperate or warm forests,
+red dracolisks warm mountains and
+deep caverns, and white dracolisks
+glaciers and frozen landscapes.
+Basilisk, Dracolisk
+Dracolisks are rare magical crossbreeds of chromatic dragons and basilisks. None
+now know how they ﬁrst came to be, but they have proven viable and can breed
+with one another as well as with basilisks. While a dracolisk appears much like
+a young true dragon of its parent type, its eight legs are an immediate indication
+that it is something more. Its coloration varies, depending on the nature of its
+draconic ancestry, though it’s lighter on its underside and darker near its wing
+tips. A typical dracolisk is 15 feet long and weighs 3,000 pounds.
+
+================================================================================
+# BLACK BEAR
+================================================================================
+
+
+Bestiary 2
+VENGEFUL BEASTS
+Polar bears have been known to take
+special interest in those who have
+vexed or wounded them, sometimes
+following individual hunters back
+to their villages and stalking them
+exclusively for several days. This
+could happen because the hunter
+killed the bear’s mate or one of its
+cubs, or took prey that the polar
+bear had been stalking. Polar bears
+engaged in such behavior have even
+ignored easier prey to focus intently
+on the chosen target.
+Bear
+Determined foragers and persistent predators, bears spend much of each year
+either preparing for hibernation, recovering from hibernation, or taking care of
+young following a successful opportunity to mate.
+BLACK BEAR
+Contrary to the name, black bears can be cinnamon or even blond in coloration,
+depending on which hue is most beneﬁcial for surviving in their local environment.
+Regardless of their coloration, they are opportunistic eaters who gain sustenance
+from berries and nuts just as often as from ﬁsh and smaller mammals. They
+steal food when they ﬁnd it, including from humanoid camps. Although they are
+predators, black bears are more timid than other bears. Unless defending themselves
+or their young, black bears often avoid conﬂict or ﬁght only until they can retreat.
+BLACK BEAR
+CREATURE 2
+N
+LARGE
+ANIMAL
+Perception +8; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +9, Survival +7
+Str +3, Dex +2, Con +3, Int –4, Wis +1, Cha –2
+AC 18; Fort +11, Ref +8, Will +5
+HP 32
+Speed 35 feet
+Melee Ȱɵ jaws +9, Damage 1d8+5 piercing
+Melee Ȱɵ claw +9 (agile), Damage 1d6+5 slashing plus Grab
+Mauler The black bear gains +1 circumstance bonus to damage rolls against creatures it
+has grabbed.
+POLAR BEAR
+Polar bears are known for their pale fur, with black eyes, lips,
+and toe pads. They are aggressively predatory creatures,
+stalking prey for miles on land or across the icy
+waters of frozen oceans. They are also amazing
+ambush predators, leaping from the water to
+ambush seals resting on ice ﬂoes. If they are
+desperate, polar bears hunt not only other
+animals but also humanoids.
+
+================================================================================
+# BEBILITH
+================================================================================
+
+
+ADAPTIVE HUNTERS
+Though it doesn’t happen often due
+to their ability to shift planes, some
+bebiliths ﬁnd themselves trapped on
+other planes either through magical
+binding or subjugation to beings of
+great power. While trapped away
+from their favored prey, a bebilith’s
+hungers can shift. In such cases, the
+creature’s penetrating strikes can
+adapt—a bebilith trapped in Elysium,
+for example, might become a hunter
+of azatas, and its Penetrating Strike
+would count as cold iron and evil
+instead so that it could target
+traditional azata weaknesses.
+Bebilith
+While demons control much of the Abyss, even they are hunted in the wilder
+regions of this horriﬁc plane. The most notorious of these predators—though not
+the deadliest—is the bebilith. These ﬁends resemble elephant-sized spiders with
+glowing eyes, barbed chitin, and a fanged maw dripping caustic ﬂuid.
+Many demons and planar travelers have underestimated bebiliths’ devious
+intellects, believing them to be little more than oversized vermin. Bebiliths take
+advantage of this, ambushing foes with unexpected tactics. While they lash out
+at any creatures they encounter, they take great pleasure in chewing on demonic
+ﬂesh. Qlippoth are the only creatures bebiliths never consume.
+BEBILITH
+CREATURE 10
+CE
+HUGE
+BEAST
+FIEND
+Perception +21; darkvision, scent demons 60 feet, scent (imprecise) 30 feet
+Languages Abyssal (can’t speak any language); telepathy 100 feet
+Skills Acrobatics +19, Athletics +23, Intimidation +21, Stealth +19
+Str +7, Dex +3, Con +6, Int +3, Wis +5, Cha +5
+Scent Demons A bebilith can smell demons as a precise sense.
+AC 30; Fort +22, Ref +19, Will +19
+HP 200; Weaknesses good 10
+Attack of Opportunity Ǻȓ
+Speed 35 feet, climb 15 feet
+Melee Ȱɵ jaws +23 (magical, reach 10 feet), Damage 2d10+13 piercing plus
+Abyssal rot
+Melee Ȱɵ claw +23 (agile, magical, reach 15 feet), Damage 2d8+13
+slashing
+Ranged Ȱɵ web +23 (range increment 60 feet), Eﬀect dimensional
+tether
+Divine Innate Spells DC 29; 7th plane shift (self only)
+Abyssal Rot (disease, necromancy) The drained
+condition from Abyssal rot is cumulative, to
+a maximum of drained 4; Saving Throw DC
+29 Fortitude; Maximum Duration 6 rounds;
+Stage 1 3d6 negative damage (1 round);
+Stage 2 3d6 negative damage and
+drained 1 (1 round); Stage 3 3d6
+negative damage and drained 2
+(1 round)
+Dimensional Tether A creature
+hit by the bebilith’s web Strike
+is restrained and tethered to
+the bebilith, preventing it from
+moving further away from the
+bebilith. The restrained creature
+is also under the eﬀects of a
+dimensional anchor spell (DC 29)
+with a duration that lasts as long as
+the creature remains tethered. The
+bebilith can have only one creature
+tethered at a time. The DC to Escape
+or Force Open the tether is 29. The
+tether can be severed with a Strike
+(AC 20, Hardness 2, HP 20); this ends
+the dimensional anchor eﬀect but does
+not free the restrained creature.
+Penetrating Strike Against demons, a bebilith’s
+Strikes count as cold iron and good.
+
+================================================================================
+PAGE 39
+================================================================================
+
+Bestiary 2
+HATRED OF DRAGONS
+Some scholars have speculated
+that behirs are somehow related to
+blue dragons, citing their reptilian
+features, lightning breath, and ability
+to speak the Draconic language,
+but such scholars would do well
+to keep such opinions from behirs
+they encounter in the ﬁeld. Nothing
+infuriates a behir faster than likening
+it to a dragon!
+Behir
+The behir is a massive, serpentine beast with never fewer than a dozen short
+legs, each ending in three hooked talons. A behir can live to 80 years, but most
+perish far younger to violence. Fully grown, a behir is 40 feet long and weighs
+4,000 pounds.
+
+================================================================================
+# BEHIR
+================================================================================
+
+
+Bestiary 2
+HATRED OF DRAGONS
+Some scholars have speculated
+that behirs are somehow related to
+blue dragons, citing their reptilian
+features, lightning breath, and ability
+to speak the Draconic language,
+but such scholars would do well
+to keep such opinions from behirs
+they encounter in the ﬁeld. Nothing
+infuriates a behir faster than likening
+it to a dragon!
+Behir
+The behir is a massive, serpentine beast with never fewer than a dozen short
+legs, each ending in three hooked talons. A behir can live to 80 years, but most
+perish far younger to violence. Fully grown, a behir is 40 feet long and weighs
+4,000 pounds.
+BEHIR
+CREATURE 8
+N
+HUGE
+BEAST
+ELECTRICITY
+Perception +17; darkvision
+Languages Draconic
+Skills Acrobatics +16, Athletics +19, Intimidation +18, Stealth +18, Survival +15
+Str +7, Dex +4, Con +5, Int −2, Wis +3, Cha +4
+AC 27; Fort +19, Ref +16, Will +15
+HP 140; Immunities electricity
+Speed 30 feet, climb 15 feet
+Melee Ȱɵ jaws +18 (reach 15 feet), Damage 2d12+10 piercing plus Grab
+Melee Ȱɵ claw +18 (agile), Damage 2d6+10 slashing
+Breath Weapon ʚʖ (electricity, evocation, primal) The behir breathes lightning that
+deals 9d6 electricity damage in an 60‑foot line (DC 27 basic Reﬂex save). It can’t use
+Breath Weapon again for 1d4 rounds.
+Claw Storm ̂ˬ The behir Strides up to its Speed, during which it can
+walk on air as if it were solid ground, ascending or descending at
+up to a 45-degree angle. It can make up to four claw
+Strikes at any point during this movement,
+each against a diﬀerent target
+within reach, and it deals an
+extra 1d6 electricity damage
+with each Strike. These attacks
+count toward the behir’s multiple
+attack penalty, but the multiple
+attack penalty doesn’t increase until
+after the behir makes all of its attacks.
+If the behir moves half its Speed or less
+during a Claw Storm, that movement doesn’t
+trigger reactions. The behir can’t use Claw
+Storm if it has a creature wrapped in its coils.
+At the end of Claw Storm, it drifts downward up
+to 60 feet to the ground, landing softly and taking
+no damage from the fall. If it descends further
+than 60 feet, it takes damage normally
+from the remaining fall.
+Constrict Ȱɵ 2d6+7 bludgeoning,
+DC 27
+Swallow Whole
+Ȱɵ
+(attack)
+Large, 2d12+7 bludgeoning,
+Rupture 21
+Wrap
+in
+Coils
+Ȱɵ
+Requirements The behir
+has a creature either
+restrained or grabbed in
+its jaws; Eﬀect The behir
+moves the creature into its
+coils, freeing its jaws. The
+creature remains grabbed
+and takes 1d6+6 slashing
+damage. The behir’s coils can hold as many
+creatures as will ﬁt in its space.
+
+================================================================================
+PAGE 40
+================================================================================
+
+SIGNAL LIGHTS
+To communicate at a distance,
+blindheims ﬂash their eye lights in
+speciﬁc patterns. This is instinctual,
+not truly a language, and blindheims
+are incapable of inventing new
+signals. Some underground explorers
+use lanterns to ape these signals.
+Two Quick Flashes: Danger!
+Long Pulse: All is safe.
+Two Long Pulses: Captured food.
+Very Long Pulse: Come here.
+Rapid Strobing: Let’s mate!
+Intermittent Quick Flashes: Excited!
+One Long Flash, then Darkness: Sad.
+Blindheim
+Inhabitants of damp, subterranean caves, blindheims resemble stubby humanoids
+with oversized, frog-like heads and bulbous eyes. Their eyes emit a soft glow at all
+times, but a blindheim can draw back the heavy membrane that normally covers
+them to emit an intense light as bright as day. These simple creatures use their
+lights to draw in or disorient prey, mostly small animals like lizards, rodents, or
+ﬁsh. However, they might go after larger prey if trying to feed their young. When
+they encounter creatures their own size or larger they retreat, ﬂashing their eyes to
+facilitate their escape if necessary. They often hunt in pairs or small packs. Using
+their lights to coordinate from a distance, they slowly close in on the creatures
+they hunt. One common hunting pattern involves one blindheim diving deep and
+using its light to chase ﬁsh to the surface, while another up above snatches them
+up and tosses them onto the land to eat later.
+Blindheims make their nests in damp caverns, especially grottoes next to
+underground lakes or bogs. An ideal nest rests in a cozy cavern with plenty of
+fungus to eat, a few ﬁsh swimming in a lake, and the comforting drip of water
+from the ceiling. Blindheims prefer to lead quiet and serene lives, and even when
+ﬁrst born they emit only the meekest of vocalizations. A blindheim is born shining,
+and its parents cuddle over it to dim the light so as to avoid attracting predators.
+It’s not just animals that endanger blindheims. Underground peoples ﬁnd the
+creatures useful and attempt to capture them for specialized purposes. Duergars
+use them as “raid frogs,” placing heavy hoods over blindheims’ heads
+and revealing them suddenly during raids to blind their foes. They
+sometimes send the creatures along with their slaves that lack
+darkvision into the mines as a source of light. Drow use them for
+some of these same purposes, and some nobles have been known
+to treat the creatures as mere lanterns, having them hoisted to the
+ceilings of their halls. Neither duergars nor drow take good care
+of the captive creatures, so blindheims rarely last long in captivity.
+
+================================================================================
+# BLINDHEIM
+================================================================================
+
+
+SIGNAL LIGHTS
+To communicate at a distance,
+blindheims ﬂash their eye lights in
+speciﬁc patterns. This is instinctual,
+not truly a language, and blindheims
+are incapable of inventing new
+signals. Some underground explorers
+use lanterns to ape these signals.
+Two Quick Flashes: Danger!
+Long Pulse: All is safe.
+Two Long Pulses: Captured food.
+Very Long Pulse: Come here.
+Rapid Strobing: Let’s mate!
+Intermittent Quick Flashes: Excited!
+One Long Flash, then Darkness: Sad.
+Blindheim
+Inhabitants of damp, subterranean caves, blindheims resemble stubby humanoids
+with oversized, frog-like heads and bulbous eyes. Their eyes emit a soft glow at all
+times, but a blindheim can draw back the heavy membrane that normally covers
+them to emit an intense light as bright as day. These simple creatures use their
+lights to draw in or disorient prey, mostly small animals like lizards, rodents, or
+ﬁsh. However, they might go after larger prey if trying to feed their young. When
+they encounter creatures their own size or larger they retreat, ﬂashing their eyes to
+facilitate their escape if necessary. They often hunt in pairs or small packs. Using
+their lights to coordinate from a distance, they slowly close in on the creatures
+they hunt. One common hunting pattern involves one blindheim diving deep and
+using its light to chase ﬁsh to the surface, while another up above snatches them
+up and tosses them onto the land to eat later.
+Blindheims make their nests in damp caverns, especially grottoes next to
+underground lakes or bogs. An ideal nest rests in a cozy cavern with plenty of
+fungus to eat, a few ﬁsh swimming in a lake, and the comforting drip of water
+from the ceiling. Blindheims prefer to lead quiet and serene lives, and even when
+ﬁrst born they emit only the meekest of vocalizations. A blindheim is born shining,
+and its parents cuddle over it to dim the light so as to avoid attracting predators.
+It’s not just animals that endanger blindheims. Underground peoples ﬁnd the
+creatures useful and attempt to capture them for specialized purposes. Duergars
+use them as “raid frogs,” placing heavy hoods over blindheims’ heads
+and revealing them suddenly during raids to blind their foes. They
+sometimes send the creatures along with their slaves that lack
+darkvision into the mines as a source of light. Drow use them for
+some of these same purposes, and some nobles have been known
+to treat the creatures as mere lanterns, having them hoisted to the
+ceilings of their halls. Neither duergars nor drow take good care
+of the captive creatures, so blindheims rarely last long in captivity.
+BLINDHEIM
+CREATURE 2
+N
+SMALL
+ANIMAL
+Perception +9; darkvision
+Skills Acrobatics +7, Athletics +6 (+9 to Leap or Swim), Stealth +7
+Str +2, Dex +3, Con +3, Int –4, Wis +1, Cha –2
+AC 18; Fort +9, Ref +9, Will +5
+HP 27; Immunities blinded, light
+Speed 25 feet, climb 15 feet, swim 15 feet
+Melee Ȱɵ jaws +10, Damage 1d12+2 piercing
+Melee Ȱɵ claw +11 (agile, ﬁnesse), Damage 1d8+2 slashing
+Spotlight Ȱɵ (concentrate, light) Bright light shines from
+the blindheim’s eyes in a 30‑foot emanation (also
+creating dim light to 60 feet). Each creature
+in the bright light when the blindheim
+uses this action, or who enters it
+while the light continues, must attempt
+a DC 18 Fortitude save. It is then temporarily
+immune for 1 hour. This light remains until
+the blindheim dims its eyes by using this
+action again.
+Critical Success The creature is unaﬀected.
+Success The creature is dazzled for
+1 round.
+Failure The creature is blinded
+for 1d4 rounds.
+Critical Failure The creature
+is blinded for 1 hour.
+
+================================================================================
+PAGE 41
+================================================================================
+
+Bestiary 2
+BLINK DOG SAGES
+In every blink dog pack, the wisest
+and most intelligent member of
+the pack is chosen by the alpha to
+act as the pack’s sage. The sage is
+charged with maintaining the longrunning oral histories and tales of
+the pack, to bind all packs together
+in one story that spans centuries.
+The sage often has a closer bond to
+the mysteries and hidden paths of
+magic than the average blink dog, a
+result of their advanced years. They
+counsel the alpha on all matters
+pertaining to the stars, omens,
+tactics, and even diplomacy.
+Blink Dog
+At ﬁrst glance, blink dogs seem to be little more than long-eared, bearded canines
+with tawny coats. Yet their intelligent eyes and the blue nimbus of energy that
+dances across their fur hint at not only the blink dog’s inherent intelligence, but
+also of their connection to the occult energies and mysteries that hide beyond the
+sight of the untrained eye. These honorable creatures are as intelligent as most
+humanoids. They live and hunt in large packs, roaming forests, plains, and the
+hidden places of the world in hunt for evil creatures—particularly those that dwell
+in the depths of the Ethereal Plane.
+Unless acting in concert with speciﬁc allies who have proven that their goals
+are shared, blink dogs tend to avoid other creatures if at all possible. Their packs
+are constantly on the move and hidden from those that would seek them out.
+But in times of need, they have been known to come to the rescue of villages and
+lost travelers. While they have no innate ability to travel to the Ethereal Plane for
+extended periods of time, all blink dogs constantly shimmer and ripple between
+the Material Plane and the Ethereal. They do their best to use their ability to blink
+to snatch glimpses into the Ethereal Plane and keep track of potential threats that
+might be building there, but in practice this tactic yields more of a constant stream
+of hunches and estimations of Ethereal-based threats. Of course, to a blink dog,
+this constant state of ﬂux is as natural as breathing.
+Pack leadership always falls to a pair—an elder blink dog (called
+an alpha) who relies upon the valued guidance of a trusted
+pack mate (the sage). Honor and tradition are keystones of
+blink dog society. They are ﬁercely loyal, defending
+the pack or creatures they befriend to the
+death and maintaining oaths handed
+down from litter to litter. Though
+different packs hold different traditions
+and oaths, their connection through
+the tales and stories told among their
+kind and the shared experience of the
+movement of stars above weave all blink
+dogs into an extended family, a great pack. Through
+their myths and folklore, blink dogs have names for
+celestial phenomena, note births under auspicious stars,
+and read omens from unusual
+stellar
+conjunctions.
+These
+celestial signs are woven into
+blink dogs’ lifeways; their names
+contain a reference to the speciﬁc
+constellation under which they were born, and a pack’s sage
+watches the heavens for signs to help them decide when a pup is
+old enough for their ﬁrst hunt.
+
+================================================================================
+# BLINK DOG
+================================================================================
+
+BLINK DOG
+CREATURE 2
+UNCOMMON
+LG
+MEDIUM
+BEAST
+Perception +8; darkvision, scent (imprecise) 30 feet
+Languages Sylvan
+Skills Acrobatics +8, Stealth +8, Survival +8
+Str +1, Dex +3, Con +2, Int +1, Wis +4, Cha +2
+AC 18, Fort +8, Ref +10, Will +11
+HP 30
+Speed 35 feet
+Melee Ȱɵ jaws (agile, ﬁnesse) +11, Damage 1d6+3 piercing
+Occult Innate Spells DC 18, 4th dimension door; Constant (4th) blink
+Pack Attack The blink dog’s Strikes deal an additional 1d4 damage to creatures within
+the reach of at least two of the blink dog’s allies.
+
+================================================================================
+PAGE 42
+================================================================================
+
+BLODEUWEDDS AND NYMPHS
+Nymphs often think of blodeuwedds
+as uncouth or too wild, while the
+reverse holds true for blodeuwedds,
+who consider nymphs to be spoiled
+and pampered “princesses” who
+take the beautiful parts of the world
+in which they dwell for granted. It
+speaks volumes to blodeuwedds’
+strength of personality that they
+don’t let these bitter emotions
+control them. Very few of their kind
+drift into actual evil—yet likewise,
+very few of them display the
+kindness that nymphs do.
+Blodeuwedd
+The mysterious blodeuwedds dwell in those parts of the world where the
+boundaries between the Material Plane and the First World have worn thin, or
+around portals between the two planes. Their link with such regions of the natural
+world is so strong that it rivals the bond shared between nymphs and places of
+great natural beauty, yet none would look upon a blodeuwedd and mistake them
+for something as elegant as a nymph.
+Although blodeuwedds share certain traits with nymphs, their role as guardians
+of the pathways between this world and the First World prevents them from
+forming as powerful a magical bond with the natural world. Never truly a part
+of either reality yet forced to keep watch over both, blodeuwedds tend to grow
+cynical and sharp-tongued toward any who would seek travel from one realm to
+the other, regardless of their actual goals.
+
+================================================================================
+# BLODEUWEDD
+================================================================================
+
+
+BLODEUWEDDS AND NYMPHS
+Nymphs often think of blodeuwedds
+as uncouth or too wild, while the
+reverse holds true for blodeuwedds,
+who consider nymphs to be spoiled
+and pampered “princesses” who
+take the beautiful parts of the world
+in which they dwell for granted. It
+speaks volumes to blodeuwedds’
+strength of personality that they
+don’t let these bitter emotions
+control them. Very few of their kind
+drift into actual evil—yet likewise,
+very few of them display the
+kindness that nymphs do.
+Blodeuwedd
+The mysterious blodeuwedds dwell in those parts of the world where the
+boundaries between the Material Plane and the First World have worn thin, or
+around portals between the two planes. Their link with such regions of the natural
+world is so strong that it rivals the bond shared between nymphs and places of
+great natural beauty, yet none would look upon a blodeuwedd and mistake them
+for something as elegant as a nymph.
+Although blodeuwedds share certain traits with nymphs, their role as guardians
+of the pathways between this world and the First World prevents them from
+forming as powerful a magical bond with the natural world. Never truly a part
+of either reality yet forced to keep watch over both, blodeuwedds tend to grow
+cynical and sharp-tongued toward any who would seek travel from one realm to
+the other, regardless of their actual goals.
+BLODEUWEDD
+CREATURE 6
+UNCOMMON
+CN
+MEDIUM
+FEY
+PLANT
+Perception +14; low-light vision
+Languages Aklo, Common, Sylvan; speak with plants
+Skills Acrobatics +15, Diplomacy +15, Nature +13, Performance +15,
+Stealth +13 (+17 in grasslands), Survival +11
+Str +4, Dex +5, Con +2, Int +3, Wis +2, Cha +5
+Items +1 sling
+Allergen Aura (aura, primal) A blodeuwedd exudes a 30-foot
+aura of pollen and irritating allergens. A non-plant living
+creature that begins its turn in the aura must succeed at
+a DC 22 Fortitude save or become sickened 2. A creature
+that succeeds at its save is then temporarily
+immune to the allergen aura for 24 hours. A
+blodeuwedd can suppress this aura or activate
+it again as a free action.
+Wild Empathy The blodeuwedd can use Diplomacy
+to Make an Impression on and make very simple
+Requests of animals.
+AC 24; Fort +12, Ref +17, Will +14
+HP 105; Weaknesses cold iron 5
+Speed 25 feet
+Melee Ȱɵ claw +14 (agile), Damage 2d8+7
+slashing
+Ranged Ȱɵ sling +17 (propulsive, range increment 50 feet),
+Damage 2d6+4 bludgeoning
+Primal Innate Spells DC 25; 4th hallucinatory terrain, modify
+memory, sleep; 3rd wall of thorns; 2nd entangle (×3); Cantrips (4th)
+dancing lights, tanglefoot; Constant (4th) speak with plants
+Change Shape ʚʖ (concentrate, polymorph, primal, transmutation) A
+blodeuwedd can take on the appearance of a single unique humanoid or the
+form of a prairie owl. When in humanoid form, the blodeuwedd loses its claw
+attack. In owl form, its statistics change as follows: Size Small; Speed ﬂy 60
+feet; Melee Ȱɵ talons +15, Damage 1d3+1.
+A blodeuwedd can return to their normal form as a free action.
+Living Footsteps Every Stride action taken by a blodeuwedd causes small plants,
+grasses, and wildﬂowers to sprout from the ground, though they can suppress this
+eﬀect if they desire. In a region or terrain that wouldn’t normally support
+plant life, these plants thrive for 1 minute before withering away.
+Nature’s Infusion ʚʖ Frequency once per day; Eﬀect While surrounded
+by any ﬁeld or fertile plain, a blodeuwedd can infuse themself with
+borrowed life energy from nearby plants and nutrients in the ground. The blodeuwedd
+gains 15 temporary Hit Points that last for 1 hour.
+
+================================================================================
+PAGE 43
+================================================================================
+
+Bestiary 2
+Bodak
+When a living, sentient humanoid is exposed to an extreme expression of
+supernatural evil, the experience can irrevocably damn the victim, crushing their
+mind and ripping out their soul in an appalling, unholy transformation that results
+in a creature that’s anathema to life—the bodak.
+The shreds of physicality that survive this absolute corruption serve only to
+enhance the humanoid’s profoundly disturbing appearance. The bodak’s body
+is horriﬁcally twisted, as though it’s locked in a convulsion of agony and terror.
+Its desiccated and hairless ﬂesh bears an otherworldly, pearlescent sheen, strung
+taut across a malformed skeleton that reduces its gait to a slow shamble. But
+most disturbing of all are its eyes, set in a
+drooping, melted visage with scant remains of
+its former facial structure. These eyes, sunken
+deep into their sockets, nevertheless glow with an
+unholy light, stare with unremitting malevolence,
+and constantly weep noxious vapor.
+Fragmented memories of a prior existence ﬁltered
+through a vengeful hatred of the living lead the bodak to
+try to return to those places it once knew. If successful,
+it assaults former friends, acquaintances, and loved
+ones with its murderous gaze and an incomprehensible
+torrent of gibberish laced with vile curses, accusations, and
+threats—an assault that often leads to the victims rising as
+newly formed bodaks themselves.
+
+================================================================================
+# BODAK
+================================================================================
+
+
+Bestiary 2
+Bodak
+When a living, sentient humanoid is exposed to an extreme expression of
+supernatural evil, the experience can irrevocably damn the victim, crushing their
+mind and ripping out their soul in an appalling, unholy transformation that results
+in a creature that’s anathema to life—the bodak.
+The shreds of physicality that survive this absolute corruption serve only to
+enhance the humanoid’s profoundly disturbing appearance. The bodak’s body
+is horriﬁcally twisted, as though it’s locked in a convulsion of agony and terror.
+Its desiccated and hairless ﬂesh bears an otherworldly, pearlescent sheen, strung
+taut across a malformed skeleton that reduces its gait to a slow shamble. But
+most disturbing of all are its eyes, set in a
+drooping, melted visage with scant remains of
+its former facial structure. These eyes, sunken
+deep into their sockets, nevertheless glow with an
+unholy light, stare with unremitting malevolence,
+and constantly weep noxious vapor.
+Fragmented memories of a prior existence ﬁltered
+through a vengeful hatred of the living lead the bodak to
+try to return to those places it once knew. If successful,
+it assaults former friends, acquaintances, and loved
+ones with its murderous gaze and an incomprehensible
+torrent of gibberish laced with vile curses, accusations, and
+threats—an assault that often leads to the victims rising as
+newly formed bodaks themselves.
+BODAK
+CREATURE 8
+UNCOMMON
+CE
+MEDIUM
+UNDEAD
+Perception +17; darkvision, lifesense 60 feet
+Languages Abyssal, Common
+Skills Acrobatics +18, Athletics +15, Intimidation +19, Stealth +18
+Str +3, Dex +4, Con +1, Int −2, Wis +5, Cha +5
+AC 27; Fort +13, Ref +16, Will +19
+HP 160, negative healing; Immunities death eﬀects, disease, paralyzed,
+poison, unconscious; Weaknesses good 10
+Sunlight Vulnerability If exposed to direct sunlight, the bodak can’t use
+actions with the death trait and it becomes slowed 1. The slowed value
+increases by 1 each time the bodak ends its turn in sunlight. If the bodak
+loses all its actions this way, it is destroyed.
+Draining Glance Ǻȓ (aura, death, necromancy, occult, visual) Trigger A living
+creature within 30 feet that the bodak can perceive with its lifesense
+starts its turn; Eﬀect The target must attempt a DC 23 Fortitude save. If
+it fails, the bodak regains 5 Hit Points and the target becomes drained 1.
+Speed 20 feet
+Melee Ȱɵ ﬁst +18 (agile, ﬁnesse), Damage 2d6+6 bludgeoning plus 1d6 negative
+Bodak Spawn (necromancy, occult) Any humanoid who dies while drained or doomed by
+a bodak rises as an autonomous bodak 24 hours after its death.
+Death Gaze ʚʖ (death, necromancy, occult, visual) The bodak stares at a living creature
+within 30 feet that it can sense with its lifesense. That creature must attempt a
+DC 26 Fortitude save. If the target becomes drained, the bodak gains a number of
+temporary Hit Points equal to 5 times the value of the drained condition the target
+gained. Multiple exposures to this ability can increase a creature’s drained condition
+to a maximum of 4. If the bodak is destroyed, any doomed condition a creature has
+gained from Death Gaze are removed.
+Critical Success The creature is unaﬀected.
+Success The creature is drained 1.
+Failure The creature is doomed 1 and drained 2.
+Critical Failure The creature is doomed 1 and drained 4.
+BODAK CREATION
+The rarity of the events that create
+bodaks ensure that most of these
+abominations were humanoids slain
+by another bodak’s gaze. Yet bodaks
+can also be brought into being by
+a rare version of the create undead
+ritual. This horriﬁc ritual emulates an
+encounter of absolute, supernatural
+evil, and so the spell must begin
+when the subject is alive and located
+on one of the evil Outer Planes.
+
+================================================================================
+PAGE 44
+================================================================================
+
+Bog Strider
+The insectile bog striders call themselves seshes, but they take no offense at those
+who use the more common vernacular to refer to them. They resemble upright
+water striders with four legs, two arms, and powerful mandibles. Bog striders
+can move about on water like solid ground, chasing down prey or ﬂeeing from
+predators across the water. They rarely leave the swampy rivers and lakes they
+call home. Bog striders stand 5 feet tall and weigh approximately 150 pounds.
+A bog strider’s diet consists almost entirely of meat, but they prefer to feed
+only on animals, as they consider the consumption of the ﬂesh of any sapient
+creature a taboo.
+In sesh society, each individual is expected to serve equally in all efforts to
+ensure the society’s survival against the more aggressive creatures often found
+in or near their swampland homes. In addition, each member of the community
+is expected to develop a skill that contributes to the community’s prosperity,
+and by extension, the continued survival of the species. Traditionally, female
+bog striders are builders and artisans while males are hunters and gatherers, but
+often such roles aren’t limited to a single gender, as every member of a small
+community pitches in to help as they can.
+
+================================================================================
+# BOG STRIDER
+================================================================================
+
+
+Bog Strider
+The insectile bog striders call themselves seshes, but they take no offense at those
+who use the more common vernacular to refer to them. They resemble upright
+water striders with four legs, two arms, and powerful mandibles. Bog striders
+can move about on water like solid ground, chasing down prey or ﬂeeing from
+predators across the water. They rarely leave the swampy rivers and lakes they
+call home. Bog striders stand 5 feet tall and weigh approximately 150 pounds.
+A bog strider’s diet consists almost entirely of meat, but they prefer to feed
+only on animals, as they consider the consumption of the ﬂesh of any sapient
+creature a taboo.
+In sesh society, each individual is expected to serve equally in all efforts to
+ensure the society’s survival against the more aggressive creatures often found
+in or near their swampland homes. In addition, each member of the community
+is expected to develop a skill that contributes to the community’s prosperity,
+and by extension, the continued survival of the species. Traditionally, female
+bog striders are builders and artisans while males are hunters and gatherers, but
+often such roles aren’t limited to a single gender, as every member of a small
+community pitches in to help as they can.
+BOG STRIDER
+CREATURE 2
+UNCOMMON
+N
+MEDIUM
+ABERRATION
+Perception +8; darkvision, wavesense 120 feet
+Languages Aquan
+Skills Athletics +8 (+10 to Leap while Water Striding or Swimming), Stealth +8,
+Survival +8
+Str +2, Dex +4, Con +2, Int +0, Wis +2, Cha +0
+Items net, spear
+Deep Breath A bog strider can hold their breath for
+2 hours.
+AC 18; Fort +8, Ref +10, Will +8
+HP 30
+Speed 25 feet, swim 20 feet
+Melee Ȱɵ spear +8, Damage 1d6+4 piercing
+Melee Ȱɵ mandibles +8 (agile), Damage 1d6+4 piercing
+Ranged Ȱɵ spear +10 (thrown 20 feet), Damage 1d6+3 piercing
+Hurl Net Ȱɵ Requirements The bog strider is holding a net in
+two hands; Eﬀect The bog strider hurls their net to hamper a
+foe. They make a ranged Strike (with a +10 modiﬁer) against
+a Medium or smaller creature within 20 feet. On
+a hit, the target is ﬂat-footed and takes a
+–10‑foot circumstance penalty to its Speeds.
+On a critical hit, the creature is instead
+restrained. The DC to Escape the net is 16. A
+creature adjacent to the target can Interact
+with the net to remove it from the target.
+Water Sprint ̂ˬ The bog strider Strides
+up to three times in a straight line across
+smooth water. They can make a single
+Strike against a creature at the end of
+this movement.
+Water Stride The bog strider can stand
+and move on the surface of water
+or other liquids without
+falling through. The bog
+strider can go underwater if
+they wish, but they must
+Swim to do so.
+TREMOR TAPPING
+Seshes can communicate with other
+bog striders via wavesense by
+tapping at a water surface they’re
+standing upon. Other creatures with
+wavesense can detect these tappings,
+but understanding them is typically
+beyond non-seshes. A GM might
+allow a character who has wavesense,
+can speak Aquan, and spends a
+signiﬁcant amount of time living
+among bog striders to understand
+tremor tapping or to communicate via
+this unusual method.
+
+================================================================================
+PAGE 45
+================================================================================
+
+Bestiary 2
+BROWNIE BARGAINS
+As they are not a monolithic group
+of fey and often have their own
+proclivities, it’s sometimes hard to
+predict what might attract a brownie
+or ensure their aid. One of the more
+commonly thought gifts is a saucer
+of milk or cream, though brownies
+seem to enjoy other edible treats.
+Some farmers have reported success
+in leaving shiny but inconsequential
+knickknacks like buttons, polished
+and painted stones, smoothed glass,
+thimbles, or silver ﬂatware. The
+whims of some brownies shift, so
+someone who wants to retain the
+services of a brownie should vary
+the gifts they leave for these elusive
+fey creatures.
+Brownie
+Brownies make their homes in the trunks of hollow trees, small earthy burrows,
+and even under porches or within the crawl spaces of farmhouses. Often attired in
+clothes that appear to be made of plants or leaves, brownies wear belts lined with
+pouches and tools. Whatever language they choose to speak is often is riddled
+with odd pronunciations and colloquialisms. Their manner of speaking might
+call upon turns of phrase that are decades or even centuries out of vogue, for
+example, or they might mix up their metaphors in strange ways. It almost seems
+as if brownies adopt these quirky ways of speaking intentionally—certainly they
+do not react favorably to corrections to their chatter. There’s often no swifter way
+to annoy a brownie than to try to correct its grammar. Brownies stand barely 2
+feet tall and weigh about 20 pounds.
+When facing danger, brownies rarely engage in combat, preferring instead to
+confound and confuse their attackers in order to buy enough time for escape.
+Content with honest toil and the love of their kin, brownies maintain a paciﬁst
+nature, harassing creatures only to run them off or punish them for an insult.
+Despite this nature, all brownies carry a blade. They refer to their swords with a
+hint of disgust, and jokingly call their blades their “ﬁnal trick,” reserving their use
+for the direst of circumstances.
+Honest to a fault, brownies take freely but always repay their debt through
+work or leave something behind as an offering. They may eat an apple from
+a farmer’s orchard but harvest the entire tree as repayment. A brownie might
+eat an entire pie left on a windowsill, only to straighten up the kitchen or wash
+the dishes. A brownie can share a home with a family for years and years while
+avoiding detection. A family that is aware of a brownie in their midst usually ﬁnds
+this a beneﬁcial relationship and leaves dishes of milk, pieces of fruit, trinkets, and
+sometimes even wine as gifts. In exchange, the resident brownie keeps the home
+clean, mends clothes, repairs tools, and shoos away vermin and small predators.
+Bragging about having a brownie in the house is the best way to lose one.
+Brownies distrust foxes and fear wolves, and they avoid farms with dogs.
+
+================================================================================
+# BROWNIE
+================================================================================
+
+BROWNIE
+CREATURE 1
+N
+TINY
+FEY
+Perception +7; low-light vision
+Languages Common, Elven, Gnomish, Sylvan
+Skills Acrobatics +7, Crafting +5, Deception +6, Stealth +9
+Str –2, Dex +4, Con +1, Int +2, Wis +4, Cha +3
+Items shortsword
+AC 16; Fort +4, Ref +9, Will +9
+HP 25; Weaknesses cold iron 3
+Speed 20 feet
+Melee Ȱɵ shortsword +7 (agile, ﬁnesse), Damage 1d6
+Primal Innate Spells DC 17; 4th dimension door (self only); 3rd mending; 1st
+ventriloquism; Cantrips (4th) dancing lights, prestidigitation
+Baﬄing Bluﬀ ʚʖ (emotion, enchantment, mental, primal) The brownie’s
+antics can confuse and disorient a creature. When the brownie uses
+Baﬄing Bluﬀ, it targets a single creature within 30 feet; that creature must
+attempt a DC 17 Will save. The target is temporarily immune to Baﬄing Bluﬀ
+for 1 minute.
+Critical Success The target is unaﬀected.
+Success The target is fooled momentarily and is ﬂat-footed against the
+next melee Strike the brownie makes against it before the end of
+the brownie’s next turn.
+Failure The target is confused for 1 round.
+Critical Failure The target is confused for 1 minute. It can
+attempt a new save at the end of each of its turns to end the
+confused condition.
+
+================================================================================
+PAGE 46
+================================================================================
+
+VENGEFUL FLOWERS
+Calathgar cuttings are greatly desired
+in warmer lands, yet horticulturalists
+often fail to realize that calathgars
+are sapient, mobile, and vengeful
+against those who prune their leaves
+or take cuttings. These feral ﬂowers
+understand the speech of forest
+denizens and often shift and move
+their groves when they sense danger
+approaching. They protect their
+immature and immobile oﬀspring,
+and if they discover a garden of their
+young has been despoiled, they track
+down the perpetrators to unleash a
+ﬂurry of vengeance upon them.
+Calathgar
+Calathgars are mysterious predatory plants that grow in the depths of the densest
+frozen forests, realms where icicles rarely melt from snow-cloaked trees. A
+calathgar’s blue ﬂowers grow from 3 to 5 feet across (with specimens as wide
+as 10 feet reported), while the plant itself stands just under 4 feet in height and
+weighs up to 50 pounds when heavy with seeds.
+Calathgars’ psyches are alien to most sapient creatures. They have little interest
+in emotion, culture, or ambition, yet they have nearly ﬂawless memories and can
+share experiences with other calathgars by scent (perceptible to other creatures as
+a vinegary odor that may reveal their presence) as easily as humanoids can pass on
+information by speech. While calathgars themselves can’t speak, they can typically
+be reasoned with­—though like most protective parents, an incensed calathgar
+defending its young is rarely in a mood to listen.
+
+================================================================================
+# BABAU
+================================================================================
+
+
+Bestiary 2
+SIGNS OF MURDER
+Babaus revel in their art and often
+leave behind a grim token or marker
+as a signature. They may leave a
+distinctive mutilation upon the
+bodies of their victims, rather than
+harvesting keepsakes and trophies
+for a personal collection. Babaus
+want their legacy to grow among
+those they hunt and kill.
+Demon
+The living embodiment of mortal souls obsessed with sin and empowered by the
+Abyss, demons are armed and armored by their prior lives’ obsessions.
+BABAU (BLOOD DEMON)
+The babau is an assassin, a murderer, and a sadist—certainly not unusual traits,
+yet their penchant for stealth and surprise sets them apart from their kin. Babaus
+form from mortal souls of lone killers—those who took pleasure in more personal
+murders, and particularly those with grisly patterns to their killings.
+BABAU
+CREATURE 6
+CE
+MEDIUM
+DEMON
+FIEND
+Perception +13; darkvision, see invisibility
+Languages Abyssal, Celestial, Draconic; telepathy 100 feet
+Skills Acrobatics +12, Athletics +13, Intimidation +14, Religion +10, Stealth +16, Thievery +14
+Str +4, Dex +4, Con +4, Int +2, Wis +3, Cha +2
+Items +1 longspear
+AC 24; Fort +14, Ref +16, Will +11; +1 to all saves vs. magic
+HP 130; Weaknesses cold iron 5, good 5; Resistances
+acid 10
+Mercy Vulnerability Babaus revel in gore, and
+when wounds are healed, they recoil in
+pain. When a creature heals from damage
+that the babau dealt on their last turn
+with Grievous Strike, sneak attack, or a
+critical hit, the demon takes 4d6 mental
+damage. The babau can take this mental
+damage only once per round.
+Reactive Slime Ǻȓ Trigger A creature
+within the babau’s reach successfully
+hits the babau with a Strike; Eﬀect The
+babau excretes a gout of acidic, bloodlike
+slime against the attacker and its weapon. The
+attacker must attempt a DC 24 Reﬂex save.
+Critical Success The attacker is unaﬀected.
+Success The attacker takes 1d6 acid damage.
+Failure The attacker takes 2d6 acid damage.
+Critical Failure As failure, except the weapon used to Strike
+the babau becomes broken, unless the weapon is made of
+a material that is immune to acid.
+Speed 25 feet
+Melee Ȱɵ longspear +17 (evil, magical, reach 10 feet),
+Damage 1d8+7 piercing plus 1d6 evil
+Melee Ȱɵ jaws +16 (evil, magical), Damage 1d10+7
+piercing plus 1d6 evil
+Melee Ȱɵ claw +16 (agile, evil, magical), Damage
+1d4+7 slashing plus 1d6 evil
+Divine Innate Spells DC 24; 5th dimension
+door; 4th dimension door (at will); 2nd
+darkness; Constant (5th) see invisibility
+Rituals DC 24; Abyssal pact
+Grievous Strike ʚʖ The babau attacks with the intent of creating a particularly
+horriﬁc and gory wound. The babau makes a melee Strike. This counts
+as two attacks when calculating the daemon’s multiple attack penalty. If
+this Strike hits, the babau deals an additional 2d6 damage of the same
+damage type, and the creature struck is frightened 2.
+Sneak Attack The babau’s Strikes deal an extra 2d6 precision damage to ﬂat-footed creatures.
+
+================================================================================
+PAGE 66
+================================================================================
+
+CONJURING DEMONS
+Conjuring demons is ill-advised, yet
+the desperate or wicked still do.
+Rituals like planar ally or planar
+binding are typical for long-term
+ends, and summon ﬁend for combat
+applications. For planar ally, demons
+sometimes accept oﬀerings that aren’t
+valuable if gifting them to a demon
+pushes the ritualist further into sin.
+INVIDIAK (SHADOW DEMON)
+For most demons, possessing a creature requires a ritual, magic item, or condition,
+but for invidiaks, who lack a body, possession is akin to donning a suit of clothing.
+Known also as shadow demons, invidiaks are formed from envious mortal souls.
+
+================================================================================
+# BOTTLENOSE DOLPHIN
+================================================================================
+
+
+Bestiary 2
+DOLPHINS TO THE RESCUE
+Dolphins have a somewhat unusual
+trait—they often come to the aid of
+other creatures in distress, such as to
+save a drowning person or to protect
+someone from the attack of a shark.
+Not every monster in this book
+wants to hurt player characters—
+consider having a dolphin come to
+an endangered PC’s rescue if the
+situation merits!
+Dolphin
+Dolphins encompass a wide range of aquatic mammals, all of which are quite
+social, intelligent, and widespread through the world’s oceans.
+BOTTLENOSE DOLPHIN
+The bottlenose dolphin is the most common and widespread species of dolphin.
+They are social predators who hunt shallow seas and rivers in large family groups
+called pods. Sailors are fond of bottlenose dolphins and frequently tell tales of how
+they save drowning ﬁshers or kill sharks with blows from their powerful snouts.
+BOTTLENOSE DOLPHIN
+CREATURE 0
+N
+MEDIUM
+ANIMAL
+Perception +7; aquatic echolocation 120 feet, low-light vision
+Skills Athletics +6
+Str +2, Dex +3, Con +2, Int –4, Wis +3, Cha +0
+Aquatic Echolocation A bottlenose dolphin can use its hearing as a precise sense at the
+listed range, but only underwater.
+Deep Breath A bottlenose dolphin can hold its breath for 2 hours.
+AC 15; Fort +6, Ref +7, Will +5
+HP 16
+Speed swim 60 feet
+Melee Ȱɵ snout +6, Damage 1d6+2 bludgeoning
+Melee Ȱɵ jaws +6, Damage 1d6+2 piercing
+Ramming Speed ʚʖ The bottlenose dolphin Swims twice and
+then makes a snout Strike. As long as it moved at least 20
+feet, it gains a +1 circumstance bonus to its attack roll. A
+Large or smaller creature hit by this attack must succeed at
+a DC 16 Fortitude save or be slowed 1 for 1 round.
+ORCA
+While many know orcas as “killer whales,” they are actually
+the largest species of dolphin. These powerful animals hunt
+together in pods to take down seals, sharks, and even true
+whales. Adult orcas are typically 15–25 feet long and weigh
+8,000–12,000 pounds.
+
+================================================================================
+# BELKER
+================================================================================
+
+electricity
+Swiftness The living thunderclap doesn’t trigger reactions when it moves.
+Thunderbolt ʚʖ (electricity, evocation, primal, sonic) The living thunderclap emits a
+bolt of lightning that crashes with deafening thunder. The living thunderclap makes
+a lightning bolt Strike that deals 1d12 electricity damage. If it hits, the target and any
+creatures within a 15-foot emanation around the target take 2d6 sonic damage and
+must attempt a DC 18 basic Fortitude save. Any creature that fails its save is also
+deafened for 1d4 rounds.
+BELKER
+These reclusive elementals have glowing red eyes, leathery wings,
+and long, sharp claws. While they always retain their shape,
+belkers can control the solidity of their forms at will,
+transforming into clouds of smoke, ash, and dust.
+BELKER
+CREATURE 6
+NE
+LARGE
+AIR
+ELEMENTAL
+Perception +14; darkvision, smoke vision
+Skills Acrobatics +15, Stealth +15 (+17 in smoke)
+Languages Auran
+Str +2, Dex +5, Con +3, Int –2, Wis +4, Cha +0
+
+================================================================================
+PAGE 108
+================================================================================
+
+BELKER LORE
+Fiercely territorial, belkers attack
+trespassers into their lands without
+mercy, slithering inside their lungs
+and raking their bodies from the
+inside. Many belkers are loyal to
+the Elemental Lord of Air, Hshura,
+but some hold secret allegiances to
+Ymeri, who holds domain over ﬁre
+and smoke.
+Smoke Vision The belker ignores the concealed condition from smoke.
+AC 25; Fort +13, Ref +17, Will +12
+HP 78; Immunities bleed, paralyzed, poison, precision, sleep
+Smoke Form The belker can occupy the same space as other creatures.
+Speed 25 feet, ﬂy 40 feet
+Melee Ȱɵ claw +17 (agile, ﬁnesse), Damage 2d10+5 slashing
+Melee Ȱɵ wing +17 (agile, ﬁnesse, reach 10 feet), Damage 2d8+5 bludgeoning
+Noxious Fumes ʚʖ Requirement The belker occupies the same space as a Medium
+or smaller creature; Eﬀect The belker attempts to ﬂow into the creature’s lungs; the
+creature must attempt a DC 23 Fortitude save. On a failure, the creature partially
+inhales the belker and is immobilized by the pain of the smoke rasping in its throat and
+lungs. The creature can attempt to exhale the belker by spending an action coughing
+and succeeding at a DC 23 Fortitude save. Most of the belker remains outside the
+creature, so the belker can still act normally. If the belker moves out of the creature’s
+space or uses Noxious Fumes again, the creature automatically exhales it.
+Smoke Slash Ȱɵ Requirement The belker is partially inhaled by a creature; Eﬀect The
+belker automatically deals its claw damage to the inhaling creature by forming a claw
+to slash and scrape the creature from within.
+MELODY ON THE WIND
+This cloud of song and sound has been caught
+by the wind and carried across the air. While
+the melody on the wind (known by some as a song
+elemental, despite the fact that no such place as a plane of song
+exists in the known multiverse) might enjoy the beauty of music, it is
+by nature a destructive elemental force.
+
+================================================================================
+# BLIZZARDBORN 
+================================================================================
+
+
+ELEMENTAL WYRMS
+The icewyrm is the most widely
+encountered elemental wyrm, but
+others exist as well, including the
+blazing ﬁrewyrm, the sleek but
+somewhat smaller sparkwyrm, and
+the largest of them all, the immense
+and acidic sludgewyrm.
+move with crunching strides, their bodies constantly sloshing and sloughing off
+shards of ice. Because of their ability to refreeze, blizzardborn can travel into warmer
+environments safely, though they tend to look more like slush in these areas.
+BLIZZARDBORN 
+CREATURE 6
+N
+MEDIUM
+COLD
+ELEMENTAL
+WATER
+Perception +14; darkvision, snow vision
+Languages Aquan
+Skills Athletics +15, Stealth +14 (+16 in ice or snow)
+Str +5, Dex +2, Con +4, Int +0, Wis +4, Cha +0
+Snow Vision The blizzardborn ignores the concealed condition from falling snow.
+AC 24; Fort +16, Ref +12, Will +14
+HP 105; Immunities bleed, cold, paralyzed, poison, sleep; Weaknesses ﬁre 5
+Shattering Ice Ǻȓ Trigger An enemy hits the blizzardborn with an attack that
+deals physical damage; Eﬀect A portion of the blizzardborn’s body
+shatters into an explosion of razor sharp ice crystals and blinding
+snow that deals 2d6 piercing damage to opponents in a 5-foot
+emanation (DC 24 basic Reﬂex save). Anyone who fails is also
+blinded for 1 round (or 3 rounds on a critical failure).
+Speed 25 feet, ice burrow 20 feet
+Melee Ȱɵ ice claw +17 (versatile bludgeoning), Damage
+2d6+8 slashing plus 1d6 persistent cold
+Ice Burrow The blizzardborn can Burrow through ice or snow with a
+Speed of 20 feet. It moves at its full burrow Speed, leaving
+no tunnels or signs of its passing.
+ICEWYRM
+Resembling wingless, serpentine dragons formed of jagged
+ice and shot through with veins of nearly frozen water, these
+elementals dwell within icebergs and enjoy striking out at
+passing ships or creatures. They’re especially common in frigid
+stretches of ocean in the Plane of Water, where icebergs cluster
+together into enormous islands of ice.
+
+================================================================================
+# BROOD LEECH SWARM
+================================================================================
+
+Blood Drain Ȱɵ Requirements The giant leech has a creature grabbed or restrained;
+Eﬀect The giant leech drains blood from the creature it has grabbed. This
+deals 2d4 damage. A creature that has its blood drained by a giant leech
+is drained 1 until it receives any kind or amount of healing.
+BROOD LEECH SWARM
+Most smaller species of leeches do not tend to swarm, but
+brood leeches are prone to gathering in seething, undulant
+mats of squirming gluttony. When they gather in sufﬁcient
+numbers to swarm, they eschew the stealth of a lone leech’s
+feeding methods in favor of swift and merciless feeding.
+In these situations, their mild venom can affect much
+larger creatures than their usual prey.
+BROOD LEECH SWARM
+CREATURE 4
+N
+LARGE
+AMPHIBIOUS
+ANIMAL
+SWARM
+Perception +9; tremorsense 30 feet
+Skills Athletics +8, Stealth +11
+Str +0, Dex +3, Con +4, Int –5, Wis +1, Cha –5
+AC 19; Fort +12, Ref +11, Will +9
+HP 40; Immunities precision, swarm mind;
+Weaknesses area damage 5, salt 5, splash
+damage 5; Resistances bludgeoning 2,
+piercing 5, slashing 5
+Speed 5 feet, swim 20 feet
+Blood Draining Bites Ȱɵ Each enemy in
+the swarm’s space takes 2d6 bleed
+damage and is exposed to brood leech
+swarm venom.
+Brood Leech Swarm Venom (poison) Saving
+Throw DC 21 Fortitude; Maximum Duration
+6 rounds; Stage 1 clumsy 1, sickened 1,
+and –5-foot status penalty to Speed (1
+round); Stage 2 clumsy 1, sickened
+1, and –10-foot status penalty
+to Speed (1 round)
+
+================================================================================
+PAGE 158
+================================================================================
+
+WEB TEMPLES
+Leng spiders build complex lairs out
+of their webs, many of which serve a
+dual purpose as temples to the eldritch
+gods they venerate. Most Leng spiders
+worship deities of the Elder Mythos,
+such as Hastur, Nyarlathotep, or
+Yog-Sothoth, among others.
+Leng Spider
+The monstrous, bloated spiders from the windswept realm of Leng build eerie,
+dangerous lairs with the aid of magically compelled slaves. Leng spiders have
+anywhere from ﬁve to 13 legs, but never an even number.
+
+================================================================================
+# BOG MUMMY
+================================================================================
+
+
+NATURAL WARNINGS
+Regions haunted by bog mummies
+lack small animals, insects, and
+other wildlife. A character who is
+Investigating, Searching, or Scouting
+during exploration mode can attempt
+a secret Nature check against the
+bog mummy’s Stealth DC to notice
+something sinister. A critical success
+is enough to speciﬁcally suggest the
+presence of undead in the area.
+Mummy, Bog
+The cultural practice of mummifying the dead is not the only way a body can
+become preserved, nor is it the only route that gives rise to these disease-spreading
+undead monstrosities.
+Bog mummies (also called peat mummies or mire mummies) rarely, if ever,
+leave their marshy realms. Less powerful than their more notorious artiﬁcially
+preserved kin, bog mummies are preserved not by agents introduced during rituals
+but by the natural elements present in the airless, acidic morass of a peat bog or
+muddy swamp. While corpses preserved in this manner can certainly rise from
+the mire as bog mummies as the result of a curse by fell powers or the directed
+inﬂuence of a necromancer, the vast majority of them animate from a seething
+need for vengeance or to pursue some dire agenda left unﬁnished at the time of
+death—often because the creature was slain or otherwise betrayed. The nature of
+this emotional tie to life and the emotional power of the deceased compel unlife
+beyond death, while the preservative qualities of the bog within which the body
+was disposed of does the rest.
+Although most bog mummies are motivated by vengeance, many fulﬁll their
+dark yearnings with general violence. Filled with wrath and hatred for the
+living, they mercilessly attack any living creatures that dare to venture into
+their dismal domains. Their agonized moans echo over their putrid homes,
+driving away most natural life dwelling therein and often alerting travelers to
+the potential danger that lies beneath the surface.
+BOG MUMMY
+CREATURE 5
+LE
+MEDIUM
+MUMMY
+UNDEAD
+Perception +12; darkvision, tremorsense (imprecise) 30 feet
+Languages Common, Necril
+Skills Athletics +12, Stealth +11 (+13 while buried in a bog)
+Str +5, Dex +2, Con +0, Int +0, Wis +1, Cha +0
+AC 21; Fort +13, Ref +9, Will +14
+HP 85, negative healing; Immunities death eﬀects, disease,
+paralyzed, poison, unconscious; Weaknesses cold 5; Resistances
+ﬁre 5
+Breath of the Bog (aura, divine, enchantment, mental) 30 feet.
+A creature that begins its turn within the area feels as if its
+lungs were ﬁlling with water and must succeed at a DC 19 Fortitude save or
+be unable to speak or breathe. The creature can still hold its breath and
+can attempt a new saving throw at the end of its turn. A creature that
+succeeds is temporarily immune to breath of the bog for 24 hours.
+Rise Up Ǻȓ Trigger A creature walks on top of a bog mummy that lies
+buried in the mud or peat below; Requirements Initiative has not
+yet been rolled; Eﬀect The bog mummy automatically notices
+the creature and Burrows before rolling initiative.
+Speed 20 feet; burrow 15 feet
+Melee Ȱɵ ﬁst +14, Damage 2d6+5 plus bog rot
+Bog Rot (curse, disease, divine, necromancy, negative)
+This aﬄiction can’t be reduced below stage 1, nor can
+the damage from it be healed, until it’s successfully
+treated with remove curse or a similar eﬀect;
+the aﬄiction can then be removed as normal
+for a disease. A creature killed by bog rot
+melts into a noxious sludge and can’t be
+resurrected except by a 7th‑level resurrect
+ritual or similar magic; Saving Throw DC
+21 Fortitude; Stage 1 carrier with no ill
+eﬀect (1 minute); Stage 2 3d6 negative
+damage and clumsy 1 (1 day)
+
+================================================================================
+PAGE 179
+================================================================================
+
+Bestiary 2
+LUNAR NAGA ADDICTION
+Some people enjoy the eﬀects
+of lunar naga venom and have
+developed ways to enhance the
+euphoric qualities through alchemical
+reﬁnement. While some merchants
+pay nagas for their venom, most hire
+hunters to capture and enslave the
+creatures. As a result, nagas despise
+any humanoid who sells or buys their
+venom for any reason. Reﬁned lunar
+naga venom is identical in price and
+eﬀect to dreamtime tea (Pathﬁnder
+Gamemastery Guide 121).
+Naga
+Nagas are identiﬁable by their serpentine bodies and strange, humanlike heads.
+All nagas have magical abilities and great intelligence, which they combine to
+advance their own agendas.
+LUNAR NAGA
+Lunar nagas are skilled diviners and astrologers whose dark scales and white hair
+sparkle with motes of light that mimic the night skies to which they are forever
+drawn. While they are less physically imposing than other nagas, they possess a
+graceful beauty that many ﬁnd entrancing, even without the help of the naga’s
+inherent magical abilities. Earning a lunar naga’s trust is difﬁcult, but not impossible,
+especially for someone who shares the creature’s interest in the celestial sphere.
+As they have no hands, lunar nagas use mage hand to manipulate delicate
+instruments and ﬁne telescopes to observe the night sky. They track the positions
+of celestial bodies, recording their discoveries in esoteric journals. At their best,
+lunar nagas are wise and mysterious beings who seek to expand their knowledge of
+the cosmos. At their worst, after too much exposure to the unfathomable entities
+that dwell in the darkness between the stars, they become dark prophets who drive
+others to commit terrible deeds in the name of abominable masters.
+On Golarion, the lunar nagas of the nation of Nagajor use their abilities to
+serve many communities as soothsayers. A few have founded observatories in
+which they and their followers explore the night sky. Some nagas even use their
+knowledge of the stars as navigators on ships or overland caravans. In the broader
+world, where people do not give nagas deference as nearly divine rulers, lunar
+nagas try to avoid contact with outsiders or use their magical powers of disguise
+to hide their true forms from all but their most worthy allies.
+
+================================================================================
+# BLUE-RINGED OCTOPUS
+================================================================================
+
+
+OCTOPUS SPECIES
+The octopuses presented here
+are smaller versions of the much
+larger giant octopus, but other
+species exist as well. The brightly
+colored seaﬁre octopus occupies
+a predatory niche somewhere
+between the reef octopus and giant
+octopus—its bite injects a venom
+that causes a painful rash and
+nausea. The immense grisly octopus
+is among the largest of its kind. It
+can swallow humans whole and can
+squirt particularly sticky crimson
+ink to incapacitate prey.
+Octopus
+These cunning marine animals live in a variety of ocean habitats.
+BLUE-RINGED OCTOPUS
+While relatively small, the blue-ringed octopus is particularly venomous for its size.
+BLUE-RINGED OCTOPUS
+CREATURE 0
+N
+TINY
+ANIMAL
+AQUATIC
+Perception +6; low-light vision
+Skills Athletics +6, Stealth +7
+Str +0, Dex +3, Con +1, Int –4, Wis +3, Cha +0
+AC 16; Fort +3, Ref +9, Will +6
+HP 15; Resistances cold 2
+Speed swim 25 feet
+Melee Ȱɵ beak +7 (ﬁnesse), Damage 1d6 piercing plus blue-ringed octopus venom
+Melee Ȱɵ arms +6, Eﬀect Grab
+Blue-Ringed Octopus Venom (poison); Saving Throw DC 17 Fortitude; Maximum Duration
+6 rounds; Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage (1 round);
+Stage 3 1d6 poison damage and paralyzed (1 round)
+Camouﬂage The blue-ringed octopus can change the color of its skin to Hide even if it
+doesn’t have cover.
+Jet ʚʖ The blue-ringed octopus moves up to 60 feet in a straight line through the water
+without triggering reactions.
+Toxic Bite Ȱɵ Requirements The blue-ringed octopus has a creature grabbed; Eﬀect The
+blue-ringed octopus makes a beak Strike against the grabbed creature. If it hits, it
+injects additional poison, causing its venom to gain the virulent trait.
+REEF OCTOPUS
+The common reef octopus is a risky but valuable catch for coastal ﬁshers.
+
+================================================================================
+# BLACK SCORPION
+================================================================================
+
+Cave Scorpion Venom (poison); Saving Throw DC 17 Fortitude; Maximum Duration 6
+rounds; Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and
+enfeebled 1 (1 round); Stage 3 1d8 poison damage and enfeebled 2 (1 round)
+BLACK SCORPION
+With a carapace the color of polished obsidian and a penchant for
+attacking villages, this humongous scorpion is one of the desert’s most
+frightening predators. A black scorpion measures 60 feet from tip to
+the base of its stinger.
+BLACK SCORPION
+CREATURE 15
+N
+GARGANTUAN
+ANIMAL
+Perception +27, darkvision, tremorsense (imprecise) 90 feet
+Skills Athletics +30
+Str +9, Dex +4, Con +6, Int –5, Wis +6, Cha –4
+AC 38; Fort +29, Ref +25, Will +25
+HP 275
+Speed 50 feet
+Melee Ȱɵ pincer +30 (agile, reach 30 feet), Damage 3d12+15
+slashing plus Grab
+Melee Ȱɵ stinger +30 (reach 30 feet), Damage 3d8+15 piercing plus
+black scorpion venom
+Black Scorpion Venom (poison); Saving Throw DC 36 Fortitude;
+Maximum Duration 6 rounds; Stage 1 2d12
+poison damage and clumsy 2 (1 round);
+Stage 2 3d12 poison damage, clumsy 2,
+and slowed 1 (1 round); Stage 3 4d12 poison
+damage, clumsy 4, and slowed 2 (1 round)
+Greater Constrict Ȱɵ 2d12+12 bludgeoning,
+DC 36
+Rapid Stinging ʚʖ The black scorpion makes
+three stinger Strikes, each against a diﬀerent
+target. Its multiple attack penalty applies to each
+attack, but the penalty increases only after all the
+attacks have been made.
+
+================================================================================
+PAGE 236
+================================================================================
+
+SCYTHEWOOD
+Wood harvested from a dead scythe
+tree is knotted and twisted, and
+often contains pockets of teeth and
+bones from long-digested meals
+embedded in the growth rings. While
+diﬃcult to obtain and challenging
+to work with, this wood is sought
+out by necromancers, as it is a vital
+component in creating particularly
+potent necromantic wands and
+staves. A single scythe tree typically
+yields about 150 gp worth of viable
+scythewood for such endeavors.
+Scythe Tree
+Malevolent, vicious, and cruel, scythe trees pose as normal trees near deep forest
+paths, where they wait to slaughter passersby. Instead of drawing sustenance
+from light and soil, scythe trees gorge themselves on the ﬂesh, blood, and bone of
+sapient creatures. Nothing is more delectable to scythe trees than a kind-hearted
+gnome or an altruistic dryad who believes that a scythe tree can be redeemed. The
+screams and whimpers of these victims are music to these cruel plants and add an
+extra dimension of ﬂavor to the meal.
+Scythe trees are solitary creatures by nature, and their size and power mean
+that they don’t need to compete for food with other carnivorous plants. Once
+food sources dwindle in an area, scythe trees move on to another location. When
+a scythe tree dwells in a location for many months or years, it leaves traces of its
+bark and roots in the soil. Over time, these blood-nourished fragments might grow
+into a new scythe tree, but the progenitor will most likely have already moved on
+to new hunting grounds long before the new scythe tree reaches maturity.
+Scythe trees appear as dead or dying deciduous trees with long, twisted
+branches that end in scythe-like blades. These carnivorous plants have darkbrown bark that is nearly black near the bottom of the trunk and rusty brown
+leaves that remain attached year-round. Scythe trees’ disturbing mouths
+remain closed when not eating, appearing as a jagged gash on
+the trunk. When scythe trees deign to speak, their voices
+are rough, deep, and mocking, particularly when
+discussing arboreals, whom scythe trees universally
+ﬁnd to be insufferable and worthy of little more than
+being hacked to pieces.
+
+================================================================================
+# BONE PROPHET
+================================================================================
+
+image (at will); 1st ventriloquism (at will)
+Deceptive Reposition Ȱɵ The Coil spy Strides up to half their Speed and attempts a Feint,
+in either order.
+Maintain Disguise A Coil spy can maintain an ongoing illusory disguise as long as they
+are conscious without having to re-cast the spell; they need only Cast the Spell again
+to reassume their illusory disguise if they wish to change their appearance or if the
+active spell is dispelled. Coil spies typically seek privacy when they need to sleep, as
+an ongoing illusory disguise ends an hour after they fall unconscious.
+Serpentfolk Venom (poison) As zyss serpentfolk, but DC 19.
+Sneak Attack The Coil spy’s Strikes deal an extra 2d6 precision damage to ﬂat-footed
+creatures.
+BONE PROPHET
+The speakers for the dead known as bone prophets hold an esteemed place
+as voices for their decapitated god. Burial rites, necromantic rituals,
+and the delivery of cryptic utterances supposedly whispered to them by
+Ydersius all fall under the dominion of these priests. Bone prophets often
+raise fallen aapophs as skeletons.
+BONE PROPHET
+CREATURE 8
+UNCOMMON
+NE
+MEDIUM
+HUMANOID
+SERPENTFOLK
+Perception +15; darkvision, scent (imprecise) 30 feet
+Languages Aklo, Common, Necril, Undercommon; telepathy 100 feet
+Skills Arcana +15, Deception +18, Intimidation +16, Occultism +17, Religion +19,
+Society +15, Stealth +13
+Str +3, Dex +3, Con +2, Int +5, Wis +5, Cha +6
+Items invisibility potion, religious symbol of Ydersius, +1 striking staﬀ
+AC 27; Fort +14, Ref +15, Will +19 (+4 status vs. mental); +1 status to all saves
+vs. magic
+HP 115; Resistances poison 10
+Speed 25 feet
+Melee Ȱɵ staﬀ +18 (magical, two-hand d8), Damage 2d4+9 bludgeoning
+Melee Ȱɵ fangs +17 (ﬁnesse), Damage 2d6+9 piercing plus serpentfolk venom
+Divine Spontaneous Spells DC 28, attack +20; 4th (3 slots) air walk, harm,
+read omens, talking corpse; 3rd (4 slots) bind undead, blindness, chilling
+darkness, vampiric touch; 2nd (4 slots) darkness, death knell, resist energy,
+see invisibility; 1st (4 slots) bane, command, fear, ventriloquism; Cantrips
+(4th) chill touch, detect magic, guidance, light, read aura
+Occult Innate Spells DC 28; 6th dominate; 5th illusory scene, suggestion; 3rd
+illusory disguise (at will); 2nd mirror image (at will); 1st ventriloquism (at will)
+Rituals DC 28; create undead
+Raise Serpent ̂ˬ (divine, necromancy) Frequency once per day; Eﬀect The
+bone prophet animates corpses of snakes, serpentfolk, or similar serpentine
+creatures within a 30-foot emanation. Any ﬂesh on the bodies sloughs oﬀ,
+and they rise as skeletons. The bone prophet can raise one Large creature
+as a skeletal giant or up to three Medium creatures as skeletal champions;
+the equipment and attacks might be diﬀerent depending on the corpses’
+possessions (Bestiary 298). These skeletons have the minion trait and
+are under the bone prophet’s control; the bone prophet can give all
+these minions the same command with a single action that has
+the concentrate trait. Any skeletal minions that still
+remain after 10 minutes crumble to dust.
+Serpentfolk Venom (poison) As zyss serpentfolk, but
+DC 26.
+
+================================================================================
+PAGE 241
+================================================================================
+
+Bestiary 2
+SHOCKER LIZARD TRAPS
+Kobolds are particularly fond of using
+shocker lizards in their trap designs,
+although such traps rarely keep the
+shocker lizards’ safety and comfort in
+mind, forcing these cruel but creative
+kobolds to constantly replace the
+permanently restrained lizards they’ve
+set up to defend their lairs.
+Shocker Lizard
+These brightly colored reptiles share the rough size and pack mentality of guard
+dogs, roaming in small groups. Shocker lizards have specialized glands under their
+scales that accumulate static electricity, and they can unleash blasts of lightning
+strong enough to harm signiﬁcantly larger foes. Though they’re meek and docile
+when encountered alone, shocker lizards are signiﬁcantly more aggressive in
+packs, when they can amplify each other’s electrical attacks.
+Shocker lizards are notoriously difﬁcult to domesticate because they’re
+dangerously hostile as part of a pack, but will also swiftly wither and die if kept
+alone in captivity without constant attention. A shocker lizard is 3 feet long and
+weighs 25 pounds.

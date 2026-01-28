@@ -1,0 +1,3815 @@
+# Bestiary - Creatures: S
+# Count: 38 creatures
+
+
+================================================================================
+# SOLAR
+================================================================================
+
+wrath, earthquake, heal, power word stun, sunburst; 7th
+charm, plane shift, power word blind, remove fear (at will);
+6th blade barrier, dispel magic (at will); 5th breath of life,
+death ward, freedom of movement, restoration (×3);
+2nd invisibility (at will, self only), remove paralysis;
+Constant (5th) detect alignment (evil only), tongues,
+true seeing
+Rituals DC 37; angelic messenger, call spirit, resurrect
+Blade of Justice ʚʖ The planetar makes a greatsword
+Strike against a target it detects as evil. If the target is
+evil, the Strike deals three extra weapon damage dice
+and deals 1d6 persistent good damage to the target.
+The planetar can convert all the physical damage from
+the attack into good damage.
+Change Shape Ȱɵ (concentrate, divine, polymorph,
+transmutation) The planetar can take on the
+appearance of any Small or Medium humanoid. This
+doesn’t change their Speed or Strikes.
+Holy Armaments (divine, evocation) Any weapon gains
+the eﬀect of a holy property rune while a planetar
+wields it.
+SOLAR (ARCHANGEL)
+Solars are among the greatest of all angels, ranking just
+below empyreal lords. Many solars serve at the right
+hand of a deity or champion a cause that beneﬁts an
+entire world. Most archangels resemble humanoids, but
+not all—they can adopt more unusual forms as needed.
+A typical solar is about 9 feet tall and weighs about 500
+pounds, with a commanding voice that is impossible to
+ignore. Most have silvery or golden skin.
+Solars are legendary trackers; the most masterful of them
+are said to be able to follow the centuries-old passage of a pit
+ﬁend ﬂying through the Astral Plane.
+SOLAR
+CREATURE 23
+RARE
+NG
+LARGE
+ANGEL
+CELESTIAL
+Perception +40; darkvision, true seeing
+Skills Arcana +38, Athletics +43, Diplomacy +43, Religion +43,
+Stealth +36, Survival +46
+
+================================================================================
+PAGE 18
+================================================================================
+
+SOLAR GENESIS
+Unlike most angels, solars are
+created from divine energy,
+sometimes blended with good souls.
+They are joined in this distinction by
+the ancient empyrean angels.
+Languages Celestial, Draconic, Infernal; tongues
+Str +10, Dex +6, Con +8, Int +5, Wis +9, Cha +10
+Items +3 major striking greatsword, +3 major striking longbow
+AC 49; Fort +40, Ref +34, Will +37; +1 status to all saves vs. magic
+HP 500, regeneration 20 (deactivated by evil); Weaknesses evil 25
+Aura of Protection (abjuration, aura, divine) 20 feet. Allies in the solar’s aura gain
+a +2 status bonus to AC against evil creatures and a +2 status bonus to saves
+against eﬀects from evil creatures. The bonus increases to +4 against control by
+evil creatures and attacks by evil summoned creatures. When the solar or an ally
+is hit by an attack from a creature in the aura, that foe must succeed at a DC 43
+Will save or be blinded for 1 minute (this is an
+incapacitation eﬀect). It’s then temporarily
+immune for 1 minute.
+Speed 35 feet, ﬂy 100 feet
+Melee Ȱɵ holy greatsword +44 (good, magical,
+versatile P), Damage 4d12+22 slashing
+plus 2d6 good
+Ranged Ȱɵ holy longbow +40 (deadly d10, good,
+magical, propulsive, range increment 100 feet,
+volley 30 feet), Damage 4d8+17 piercing
+plus 2d6 good and arrow of mortality
+Divine Innate Spells DC 46, spell attack +38;
+10th charm, power word stun, remove
+curse, remove disease, revival; 9th dispel
+magic (at will), heal, overwhelming presence,
+power word blind, power word kill, sunburst;
+7th plane shift, remove fear (at will); 6th
+restoration (at will); 5th breath of life, death ward;
+4th dimensional anchor (at will); 2nd invisibility (at
+will, self only); Constant (10th) detect alignment
+(evil only), tongues, true seeing
+Rituals DC 46; angelic messenger, animate
+objects, call spirit, freedom, imprisonment,
+resurrect
+Animate Weapon Ǻȓ Trigger The solar hits with a melee weapon
+Strike while Animate Weapon is not already in eﬀect; Eﬀect The
+solar’s weapon leaps into the air and moves with the solar as
+if held with both hands. The weapon gains the eﬀects of the
+dancing weapon rune for 1 minute.
+Arrow of Mortality The solar doesn’t need to provide
+ammunition for their bow. When they draw their
+bow, they create a magical arrow of light that sheds
+bright light in a 20-foot radius until the end of the
+solar’s next turn. On a critical hit with the arrow, if
+the target has 75 or fewer Hit Points after taking
+the damage, it drops to 0 Hit Points and becomes
+dying 1 (or, if it was already dying, increases its
+dying value by 3).
+Change Shape Ȱɵ (concentrate, divine,
+polymorph, transmutation) The solar can
+take on the appearance of any Small
+or Medium humanoid. This doesn’t
+change their Speed or Strikes.
+Holy Armaments (divine, evocation)
+Any weapon gains the eﬀect of a
+holy property rune while a solar
+wields it.
+
+================================================================================
+PAGE 19
+================================================================================
+
+Bestiary 2
+Animate Dream
+An animate dream coalesces from centuries of stray fragments of reverie and
+dream left behind as slumbering minds drift through the Dimension of Dreams.
+In most cases, these fragments simply disperse on their own, but when dreamers
+ﬂee from nightmares back to the waking world, these fragments can take on a
+supernatural life of their own. They have little reasoning and intent except to seek
+similar fragments, absorb them, and grow. When enough of them gather together,
+they merge into a horriﬁc form as an animate dream.
+Individually, animate dreams can hold a wide range of appearances, but most
+take on rudimentary shapes akin to the living forms of the minds that spawned
+them. Animate dreams that rise from slumbering humanoids, the most commonly
+encountered, thus appear humanoid, but with distorted, nightmarish shapes
+that incorporate additional twisted limbs and frightening features. In these
+forms, animate dreams ﬁnd their way out of the Dreamlands and into the
+waking world, only to discover they have no way of returning and suffer a
+relentless hunger that only new nightmares can sate.
+An animate dream thrives on the terror fueled by nightmares and
+fear and uses its supernatural abilities to invoke such feelings in the
+minds of its victims, cursing its prey by creating a permanent link
+to that individual’s dreams. Thereafter, the victim is subjected to all
+manner of reoccurring nightmares. As the nightmares continue, the
+victim ﬁnds it more and more difﬁcult to remain awake. In the end,
+the victim plunges into an accursed slumber from which it cannot
+return. These victims provide the animate dream with the purest form
+of fear and are its preferred sustenance.
+An animate dream can subsist on the ambient fear generated by regular
+nightmares, but these lesser fears aren’t as satisfying, often driving the
+animate dream to seek out new victims. Left without a source of fear, an
+animate dream won’t starve to death, but it will grow increasingly violent
+and desperate. Famished animate dreams are the ones most often
+encountered, as they have been forced to abandon subtlety to pursue
+more blatant methods of harvesting fear. Yet such animate dreams also
+tend to be the least powerful of their kind. Those who have grown
+metaphysically fat on fear have generally done so by adopting a speciﬁc
+nightmare theme, such as being buried alive, being swept away by ocean
+waves, or being consumed by wild beasts. Such animate dreams often have
+similarly themed innate spells to augment their powers.
+
+================================================================================
+# STAR ARCHON
+================================================================================
+
+
+Bestiary 2
+HEAVENLY MOUNTAIN
+Archons reside in Heaven, a plane that
+appears as a single massive mountain.
+Heaven is broken into seven tiers, with
+most archons occupying the second
+level and base of army operations,
+Proelera, or the sixth level, Iudica, the
+administrative heart of Heaven.
+the fray. Those who witness the self-sacriﬁce of a star archon and live to tell the
+tale describe the experience in terms that might beﬁt the sight of a supernova at
+the instant the star collapses in on itself.
+STAR ARCHON
+CREATURE 19
+LG
+MEDIUM
+ARCHON
+CELESTIAL
+Perception +35; darkvision, true seeing
+Languages Celestial, Draconic, Infernal; tongues
+Skills Arcana +33, Athletics +37, Acrobatics +31, Diplomacy +33, Intimidation +33,
+Occultism +33, Religion +37, Society +33, Warfare Lore +39
+Str +8, Dex +9, Con +6, Int +9, Wis +9, Cha +6
+Items +2 greater resilient full plate, +2 greater striking returning starknife
+AC 43; Fort +31, Ref +34, Will +34; +1 status to all saves vs. magic
+HP 400; Resistances ﬁre 15; Weaknesses evil 15
+Blinding Soul (divine, evocation, light, visual) Whenever the star archon takes slashing
+damage, bright light pours from their wounds. Non-archons within 10 feet must
+attempt a DC 38 Fortitude save. On a failure, a creature is dazzled for 1 round. On
+a critical failure, the creature is blinded for 1d4 rounds instead. The creature is then
+temporarily immune for 1 round.
+Explosive Rebirth (death, divine, evocation, ﬁre, good) When killed, the star archon
+explodes in a blinding ﬂash of holy energy that deals 12d6 ﬁre damage and 12d6
+good damage to anything in a 100-foot emanation, with a DC 40 basic Reﬂex
+save. A non-archon creature that sees the explosion and critically fails its save is
+permanently blinded as well. The slain star archon reincarnates 1d4 rounds later
+as a shield archon (Bestiary 29).
+Retributive Strike Ǻȓ A star archon can also make a Retributive Strike by throwing
+its starknife, and the enemy and ally can be within 60 feet instead of 15 feet.
+Speed 35 feet, ﬂy 75 feet
+Melee Ȱɵ returning starknife +38 (agile, deadly 1d8, ﬁnesse, good, magical, reach
+10 feet, versatile S), Damage 3d4+16 piercing plus 2d6 good and
+3d6 ﬁre
+Ranged Ȱɵ starknife +38 (agile, deadly 1d8, good, magical, thrown 60
+feet, versatile S), Damage 3d4+16 piercing plus 2d6 good and 3d6 ﬁre
+Divine Innate Spells DC 43; 9th blindness, implosion, sunburst; 7th heal,
+prismatic spray; 5th sending; 4th dimension door (at will); Constant
+(6th) true seeing; (5th) tongues
+Archon’s Door As hound archon.
+Prudent Asterism ʚʖ The star archon calculates a celestial
+constellation and sends their starknife ﬂying along that
+path from one foe to the next. It makes a starknife Strike
+against a target within 60 feet. If the Strike hits, it can
+make another Strike at a diﬀerent target within 60 feet of the ﬁrst target, and so on,
+until it misses with a Strike or runs out of targets it hasn’t attacked within range of
+the most recent target. The star archon can attack a given target only once per use
+of this ability. These attacks don’t apply any range increment penalty, and the star
+archon resolves all the attacks before increasing the multiple attack penalty.
+BASTION ARCHON
+The mightiest of archon-kind form in the heat of battle from incredibly
+uncommon circumstances. When a gathering of lantern archons
+converges into a gestalt in order to defend allies in a ﬁght that seems all
+but lost, a fellow archon of signiﬁcant strength—such as a star archon—
+can commit a brave act of self-sacriﬁce by dimensionally transposing
+itself with the gestalt. If the circumstances are just right and luck is
+with the archons, the result is not a glorious sacriﬁce, but instead the
+earth-rocking emergence of a bastion archon. In this way, the lowliest of
+archons—the lanterns—can, in an instant, become their kind’s greatest hope.
+
+================================================================================
+PAGE 26
+================================================================================
+
+ARMORED ARCHONS
+Always ready to defend others, most
+archons are never encountered out of
+their suits of armor. Even those who
+eschew armor, such as the bastion
+archon, tend to still appear as if they
+are wearing heavy protection against
+the scourge of battle.
+Bastion archons are massive beings made of the very stone of Heaven’s Holy
+Mountain, with their visages obscured by a blinding light surrounding the gestalt
+that originally formed the bastion. Tireless in their embodiment of the virtue of
+sacriﬁce, a bastion archon almost always protects the area where they manifested,
+and even when they are destroyed they leave an indelible mark of righteousness
+upon the surrounding region.
+
+================================================================================
+# SARGLAGON
+================================================================================
+
+
+HELLFIRE
+Stinking, sulfurous hellﬁre is infused
+with evil. Hellﬁre always deals a
+combination of ﬁre damage and evil
+damage, though the speciﬁc ratio
+depends on the hellﬁre’s origin. Certain
+types of hellﬁre can impose other
+eﬀects on creatures as well, such as
+sapping their strength or memories.
+SARGLAGON
+CREATURE 8
+LE
+LARGE
+AMPHIBIOUS
+DEVIL
+FIEND
+Perception +18; greater darkvision, see invisibility
+Languages Celestial, Infernal; telepathy 100 feet
+Skills Arcana +14, Athletics +18, Deception +15, Diplomacy +15, Intimidation +17, Stealth +15
+Str +6, Dex +3, Con +4, Int +2, Wis +4, Cha +3
+AC 27; Fort +18, Ref +13, Will +16; +1 status to all saves vs. magic
+HP 120; Immunities ﬁre; Weaknesses good 5; Resistances physical 5 (except silver), poison 10
+Heavy Aura (aura, divine, incapacitation, transmutation) 10 feet. A creature that enters the
+heavy aura must attempt a DC 23 Will save. It is then temporarily immune for 10 minutes.
+Success The creature is unaﬀected.
+Failure The creature is encumbered while it remains in the area. If the creature is
+already encumbered, it is immobilized while it remains within the aura.
+Critical Failure As failure, but the eﬀect persists for 3 rounds after leaving the aura.
+Stygian Guardian Ǻȓ Trigger A creature or object within the sarglagon’s reach is targeted
+by an attack; Eﬀect The sarglagon interposes themself, giving the creature or object
+standard cover against the attack (+2 circumstance bonus to AC), or greater cover
+(+4 circumstance bonus to AC) if the sarglagon was already granting it lesser cover.
+Speed 25 feet, ﬂy 25 feet, swim 30 feet
+Melee Ȱɵ fangs +20 (evil, magical), Damage 2d12+9 piercing plus 1d6 evil
+Melee Ȱɵ tentacle arm +20 (agile, evil, magical); Damage 2d8+9 bludgeoning plus 1d6
+evil and sarglagon venom
+Divine Innate Spells DC 23, attack +18; 5th control water, dimension door; 4th dimension
+door (at will), freedom of movement, hydraulic torrent; Constant (2nd) see invisibility
+Rituals DC 23; infernal pact
+Drown ʚʖ (conjuration, divine, incapacitation) The sarglagon conjures murky water
+to ﬁll the lungs of a creature that can’t breathe water within 30 feet. The target must
+attempt a DC 26 Fortitude save.
+Critical Success The target is unaﬀected.
+Success The target coughs up water and is sickened 1.
+Failure The target is holding its breath (Core Rulebook
+478). The only action it can take is to attempt a
+Fortitude save against Drown to expel the
+water, which is a single action.
+Critical Failure The target falls unconscious
+and begins suﬀocating. If the target
+succeeds at its Fortitude save
+while suﬀocating, it coughs up the
+water and can breathe again.
+Sarglagon Venom (poison) Saving Throw DC 26
+Fortitude; Maximum Duration 6 rounds; Stage
+1 2d6 poison damage and clumsy 1 (1 round);
+Stage 2 3d6 poison damage and clumsy 2 (1 round)
+OSYLUTH (BONE DEVIL)
+An osyluth is an unparalleled inquisitor that revels
+in the sadism and torture for which Hell is so well
+known. These devils’ charge is to seek out heresies,
+both among mortals and among other ﬁends—a
+commandment they uphold with unwavering
+fervor. They spawn within the Styx-fed swamps
+of Hell’s ﬁfth layer, Stygia; where heresies and
+the souls of heretics stagnate, osyluths eventually
+rise. In the remote corners of that same layer of Hell,
+they build massive, calciﬁed hives where they perform their vile
+interrogations and perfect their torturous arts upon lesser devils
+and petitioners alike.
+
+================================================================================
+PAGE 75
+================================================================================
+
+Bestiary 2
+HELLMOUTHS
+While travel to and from Hell is
+possible with plane shift, another
+way to reach and traverse the
+infernal realms is via hellmouths,
+strange living portals connecting
+diﬀerent layers or even diﬀerent
+planes. A hellmouth takes the form
+of a grimacing face, distended
+maw, or other distressingly organic
+aperture, and no two share the
+same appearance. Most are carefully
+guarded, but some new or well-hidden
+hellmouths have yet to be discovered.
+
+================================================================================
+# SPINOSAURUS
+================================================================================
+
+
+MAGICAL DINOSAURS
+In a fantasy setting, magical eﬀects
+or supernatural inﬂuences can
+enhance dinosaurs by giving them
+unexpected attacks, modes of
+movement, or other abilities. You can
+quickly create a memorable magical
+beast simply by giving a dinosaur the
+magical attack of another creature of
+an equal level, such as a spinosaurus
+gaining an acidic breath weapon akin
+to that of an adult black dragon.
+sail as part of a unique means of staggering prey by slapping the water with it to
+make a crushing wave.
+The spinosaurus is equally at home in water as it is on land, and its long, toothy
+maw is well-adapted to catching swimming prey. Attempts by giants to capture
+spinosauruses to serve as guardians typically go poorly, for these headstrong
+dinosaurs do not domesticate well. Their surly attitudes and striking appearances
+make them better suited for bloodsports, and they are popular prizes for those
+who run arenas specializing in battles that pit gladiators against hungry animals
+or beasts. Of course, an angry dinosaur forced to ﬁght for the amusement of
+others won’t discriminate between potential meals on the battleground and ones
+seated in the surrounding stands.
+The spinosaurus’s appearance and strength make it attractive to more than just
+giants and bloodsport organizers. Spellcasters who mutate and transform animals
+into magical guardians have long been intrigued by the spinosaurus’s potential. More
+so than any other dinosaurs, spinosauruses have been subjected to ﬂeshwarping
+procedures, crossbreeding with monsters, and other magical techniques to enhance
+the creatures’ viability
+as effective guardians.
+A spinosaurus can
+measure up to 60 feet
+in length and weighs
+25,000 pounds.
+SPINOSAURUS
+CREATURE 11
+N
+GARGANTUAN
+ANIMAL
+DINOSAUR
+Perception +21; low-light vision, scent (imprecise)
+30 feet
+Skills Acrobatics +19, Athletics +23 (+25 to Swim)
+Str +8, Dex +4,
+Con +6, Int –4,
+Wis +2, Cha +1
+Deep Breath A
+spinosaurus can
+hold its breath for
+2 hours.
+AC 30; Fort +23, Ref +21, Will +19
+HP 200
+Speed 40 feet, swim 30 feet
+Melee Ȱɵ bite +23 (deadly d12, reach 20 feet), Damage 2d12+14 piercing plus Grab
+Melee Ȱɵ claw +23 (agile, reach 15 feet), Damage 2d8+14 slashing
+Rip and Tear Ȱɵ Requirements The spinosaurus has a creature grabbed in its
+jaws; Eﬀect The spinosaurus reaches up and slashes with its claws at the
+creature it has grabbed, dealing 4d8 slashing damage (DC 30 basic Reﬂex
+save) and 1d6 persistent bleed damage.
+Staggering Sail ʚʖ (incapacitation) Requirements The spinosaurus is
+swimming on the surface of water; Eﬀect With a powerful lunge to the
+side, the spinosaurus uses its sail to slap the surface of the water, creating
+a crushing wave of water that deals 6d6 bludgeoning damage in a 30‑foot
+cone. Each creature in the water in the area must attempt a DC 30 Reﬂex save.
+Critical Success The creature is unaﬀected.
+Success The creature takes half damage.
+Failure The creature takes full damage and is slowed 1 until the
+end of its next turn.
+Critical Failure The creature takes double damage and
+is stunned 3.
+Swallow Whole Ȱɵ (attack) Medium, 2d12+12
+bludgeoning, Rupture 19
+
+================================================================================
+PAGE 85
+================================================================================
+
+Bestiary 2
+DOLPHINS TO THE RESCUE
+Dolphins have a somewhat unusual
+trait—they often come to the aid of
+other creatures in distress, such as to
+save a drowning person or to protect
+someone from the attack of a shark.
+Not every monster in this book
+wants to hurt player characters—
+consider having a dolphin come to
+an endangered PC’s rescue if the
+situation merits!
+Dolphin
+Dolphins encompass a wide range of aquatic mammals, all of which are quite
+social, intelligent, and widespread through the world’s oceans.
+BOTTLENOSE DOLPHIN
+The bottlenose dolphin is the most common and widespread species of dolphin.
+They are social predators who hunt shallow seas and rivers in large family groups
+called pods. Sailors are fond of bottlenose dolphins and frequently tell tales of how
+they save drowning ﬁshers or kill sharks with blows from their powerful snouts.
+
+================================================================================
+# SHADOW DRAKE
+================================================================================
+
+
+Bestiary 2
+DRAKES AND DRAGONS
+Although drakes and dragons are
+related to one another, little love is
+lost between them, and even the
+most territorial drakes know better
+than to remain in a dragon’s territory
+longer than they have to. In rare
+cases, large rampages of drakes band
+together to attack an encroaching
+dragon, especially if the dragon is
+young and inexperienced.
+Drake
+Distant cousins to dragons, drakes menace and terrorize settlements.
+SHADOW DRAKE
+Shadow drakes are typically among the smallest and least powerful of their
+species. Most stand as tall and long as house cats and have charcoal-colored scales
+and membranous wings just translucent enough to pass for shadows. Attracted
+to shiny materials, they employ deception, teamwork, and even rudimentary traps
+to create opportunities to make off with ill-gotten gains. Shadow drakes have a
+particular fascination and admiration for umbral dragons—a notable exception
+to the norm for drakes and dragons.
+SHADOW DRAKE
+CREATURE 2
+CE
+TINY
+DRAGON
+SHADOW
+Perception +6; darkvision, scent (imprecise) 30 feet
+Languages Draconic
+Skills Acrobatics +8, Stealth +8, Thievery +8
+Str +1, Dex +4, Con +1, Int –1, Wis +0, Cha +2
+Light Blindness
+Shadow Blend The shadow drake’s form shifts and blends reﬂexively with surrounding
+shadows. A shadow drake gains an additional reaction each round, but it can use this
+reaction only for Shadow Evade.
+Shadow Evade Ǻȓ Trigger A creature attacks the shadow drake while it is in an area of
+dim light; Eﬀect The shadow drake further obscures its position. The attacker must
+succeed at a DC 11 ﬂat check in order to aﬀect the shadow drake, as if the drake were
+Hidden for the triggering attack.
+AC 17; Fort +7, Ref +10, Will +6
+HP 28; Immunities paralyzed, sleep;
+Weaknesses ﬁre 5
+Speed 15 feet, ﬂy 60 feet
+Melee Ȱɵ jaws +11 (ﬁnesse),
+Damage 1d10+3 piercing
+Melee Ȱɵ tail +11 (agile,
+ﬁnesse), Damage 1d8+3
+bludgeoning
+Draconic Frenzy ʚʖ The
+shadow drake makes one
+bite Strike and two tail
+Strikes in any order.
+Shadow Breath ʚʖ (arcane,
+cold, evocation, shadow) A
+shadow drake spits a ball of black
+liquid that explodes into a cloud of
+frigid black shadow. This attack has a range
+of 40 feet and explodes in a
+5-foot-radius burst.
+
+================================================================================
+PAGE 102
+================================================================================
+
+DRAKE LOCATIONS
+While the diﬀerent species of drakes
+are adapted to diﬀerent climates and
+environments, many drakes share
+similar preferences regarding nest
+location, searching out high places
+that oﬀer cover from above, such
+as cliﬀside or mountaintop caverns,
+jungle canopies, and so on.
+Creatures within the burst take 3d6 cold damage (DC 18 basic Reﬂex save). The explosion
+of shadow also snuﬀs out mundane light sources the size of a torch, lantern, or smaller,
+and attempts to counteract magical light with a +10 counteract modiﬁer. The shadow
+drake can’t use Shadow Breath again for 1d6 rounds.
+Speed Surge Ȱɵ Frequency three times per day; Eﬀect The shadow drake Strides or
+Flies twice.
+SEA DRAKE
+Long and slender, sea drakes have ﬁns
+down the length of their backs and
+webbing between their talons, making
+them just as adapted for gliding through
+ocean waves as the skies above. More
+solitary than most drakes, they hunt and
+live alone. Although most sea drakes make
+their roosts high on ocean-facing cliffs, it isn’t
+unheard of for them to dwell in underwater
+caves, living entirely aquatic lives.
+
+================================================================================
+# SEA DRAKE
+================================================================================
+
+Flies twice.
+SEA DRAKE
+Long and slender, sea drakes have ﬁns
+down the length of their backs and
+webbing between their talons, making
+them just as adapted for gliding through
+ocean waves as the skies above. More
+solitary than most drakes, they hunt and
+live alone. Although most sea drakes make
+their roosts high on ocean-facing cliffs, it isn’t
+unheard of for them to dwell in underwater
+caves, living entirely aquatic lives.
+SEA DRAKE
+CREATURE 6
+NE
+LARGE
+AMPHIBIOUS
+DRAGON
+WATER
+Perception +14; darkvision, scent (imprecise) 30 feet
+Languages Draconic
+Skills Acrobatics +14, Athletics +16, Stealth +12
+Str +6, Dex +2, Con +4, Int –1, Wis +2, Cha +0
+AC 24; Fort +16, Ref +14, Will +12
+HP 95; Immunities electricity, paralyzed, sleep
+Electriﬁed Blood Ǻȓ (electricity) Trigger An adjacent creature deals
+piercing or slashing damage to the sea drake; Eﬀect An arc of electricity
+courses through the sea drake’s blood. The triggering creature takes 1d6
+electricity damage.
+Speed 15 feet, ﬂy 40 feet, swim 50 feet
+Melee Ȱɵ jaws +17, Damage 2d8+9 piercing plus briny wound
+Melee Ȱɵ tail +17 (agile, reach 10 feet), Damage 2d6+9 bludgeoning
+Ball Lightning Breath ʚʖ (arcane, electricity, evocation) The sea drake spews a
+ball of electricity that strikes a primary target within 100 feet, dealing 7d6
+electricity damage (DC 24 basic Reﬂex save). The lightning then arcs to up
+to three secondary targets within 30 feet of the primary target, striking
+the closest available targets ﬁrst. The secondary bolts each strike one
+secondary target and deal the same rolled damage value as the
+primary bolt (DC 22 basic Reﬂex save). The sea drake
+can’t use Ball Lightning Breath again for 1d6 rounds.
+Briny Wound A sea drake’s saliva carries a large quantity of
+salt, making its bite wounds even more painful. When a
+creature takes damage from a sea drake’s jaws Strike, the
+creature must attempt a DC 24 Fortitude save; the creature is
+then temporarily immune to briny wound for 1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature is sickened 1.
+Failure The creature is sickened 2.
+Critical Failure The creature is sickened 2 and slowed 1 as long as it’s sickened.
+Capsize Ȱɵ (attack) The drake tries to capsize an adjacent aquatic vessel of its size or
+smaller. The drake must succeed at an Athletics check with a DC of 25 (reduced by 5 for each
+size smaller the vessel is than the drake) or the pilot’s Sailing Lore DC, whichever is higher.
+Draconic Frenzy ʚʖ The sea drake makes one jaws Strike and two tail Strikes in any order.
+Speed Surge Ȱɵ Frequency three times per day; Eﬀect The sea drake Strides, Flies, or
+Swims twice.
+
+================================================================================
+PAGE 103
+================================================================================
+
+Bestiary 2
+DRAUGR SHIPS
+When an entire ship’s crew dies
+in one calamity, they might rise
+simultaneously, bound together in
+death. Tirelessly plaguing the seas,
+these draugr crews slowly corrupt
+their vessels. The cursed ships often
+exhibit unsettling phenomena, such
+as being able to sail against the wind
+or leaving schools of dead ﬁsh in
+their wake. Sea shanties tell of draugr
+raiders approaching during the night,
+wreathed in fog pierced only by the
+green glow emanating from their eyes.
+Draugr
+Risen corpses of sailors who died at sea, draugr reek of the rot and decay of
+the briny deep. Their eyes glow with ghastly green light, and rotting seaweed,
+barnacles, and dead sea creatures cling to their bodies. Draugr can’t speak, but
+expresses their malicious emotions with gurgles, as though they were eternally
+drowning with lungs full of water. They desire little more than to attack living
+creatures, especially those who sail the sea. Even when they go upon land, draugrs
+often drag the corpses of those they strike down back to the water, populating the
+depths with even more dead.
+Draugr rise in the haunted places of the sea, where restless spirits, swells of negative
+energy, or supernatural storms deliver death. A corpse might rest at the bottom of the
+sea for some time before awakening as a draugr. Collecting detritus and organisms, a
+corpse becomes increasingly disgusting before it ﬁnally rises. Proximity to intelligent
+life can expedite this process, and an underwater explorer who happens upon a
+shipwreck might cause a body to snap to unlife as a draugr suddenly. The creatures
+don’t take intrusions lightly, especially upon their place of death.
+Though steeped in evil, draugr are susceptible to reminders of their lives as
+mariners. In particular, a well-performed sea shanty or call-and-response work
+song might cause a draugr to become lost in reverie for a moment. The creatures
+have even been witnessed moaning along, unable to sing the words but
+providing haunting accompaniment. The lull rarely lasts long, though, as the
+beauty of the song quickly becomes a reminder of the tragedy that befell the
+draugr, reafﬁrming their desire for blood and death.
+More powerful draugr with burning red eyes are called draugr
+captains. They’re 3rd-level creatures with elite adjustments
+(page 6) that can cast obscuring mist as an innate divine spell
+three times per day.
+
+================================================================================
+# SPARK BAT
+================================================================================
+
+
+Bestiary 2
+DIVERSE ELEMENTALS
+The Elemental Planes are more
+than expanses of sky, rock, ﬁre,
+and ocean. Clouds of fog, dust, and
+storms ﬂoat through the Plane of Air.
+The Plane of Earth includes verdant
+groves, shining metal and crystal,
+and irradiated wastelands. The Plane
+of Fire features magma, suﬀocating
+smoke, and radiant ﬁrelight. Amid the
+endless sea of the Plane of Water are
+pockets of ooze and brine, plus the
+otherworldly environs of the deep.
+Elemental, Air
+Some elementals embody aspects of air such as smoke, lightning, and fog.
+SPARK BAT
+Spark bats congregate around volatile weather in the Plane of Air.
+SPARK BAT
+CREATURE 2
+N
+TINY
+AIR
+ELEMENTAL
+Perception +7; darkvision
+Skills Acrobatics +9, Stealth +9
+Str +0, Dex +3, Con +1, Int –4, Wis +1, Cha +0
+AC 19; Fort +5, Ref +11, Will +7
+HP 18; Immunities bleed, electricity, paralyzed, poison, sleep
+Speed 5 feet, ﬂy 50 feet
+Melee Ȱɵ jaws +11 (agile, ﬁnesse), Damage 1d4+5 electricity
+Arc Lightning [(move, electricity, primal, transmutation) The spark bat transforms into
+lightning that arcs to a large piece of metal within 100 feet, such as a suit of metal
+armor or a metal weapon. The bat then returns to its normal form in a space adjacent
+to the metal. This movement doesn’t trigger reactions.
+LIVING THUNDERCLAP
+A living thunderclap is a humanoid-shaped storm cloud
+that cracks and booms with thunder.
+
+================================================================================
+# SAND SENTRY
+================================================================================
+
+
+SAND MIMICS
+Sand sentries have no true culture
+or society of their own, but they
+are endlessly fascinated with the
+society and culture of humanoids
+they encounter. They can shape their
+appearance to mimic any similarly
+sized humanoids, and although
+they always remain obviously
+composed of sand, they do their best
+to mimic the day-to-day activities
+they observe other humanoids
+performing. Of course, structures
+and objects sand sentries build from
+sand never last, but this never seems
+to stiﬂe their obsession.
+SAND SENTRY
+CREATURE 6
+N
+MEDIUM
+EARTH
+ELEMENTAL
+Perception +14; darkvision, tremorsense (imprecise) 60 feet
+Skills Acrobatics +14, Stealth +14 (+17 in sand)
+Languages Terran
+Str +5, Dex +2, Con +4, Int +0, Wis +2, Cha +1
+AC 24; Fort +16, Ref +12, Will +14
+HP 94; Immunities bleed, paralyzed, poison, sleep
+Glass Armor When the sand sentry takes ﬁre or lightning damage, its outer layer of sand
+fuses into sheets of hardened glass for 1 minute. This increases the sand sentry’s AC to
+26 and grants it resistance 5 to acid, cold, electricity, ﬁre, force, piercing, and slashing
+damage. A sand sentry can’t use earth glide while glass armor is active.
+Speed 25 feet, burrow 50 feet; earth glide
+Melee Ȱɵ ﬁst +17, Damage 2d8+8 bludgeoning plus blinding sand
+Earth Glide As living boulder.
+Blinding Sand When the sand sentry critically hits with a ﬁst Strike, the target is blinded
+for 1 round.
+GRANITE GLYPTODONT
+This squat and stony creature looks like an armadillo with a large raised back
+and a ﬂail-like tail. The granite glyptodont has no true need to feed, as with
+all elementals, yet it does seem to linger after transforming the ﬂesh of those it
+calciﬁes, as if the mere proximity of ﬂesh fossilizing into stone pleases it somehow.
+
+================================================================================
+# STRIDING FIRE
+================================================================================
+
+
+ELEMENTAL ALIGNMENTS
+More than other elementals, ﬁre
+elementals tend to deviate from
+neutrality, and are often good, evil,
+or chaotic in nature. Lawful ﬁre
+elementals are rare. Fire’s inherently
+capricious nature seems to prevent
+these creatures from succumbing to
+the inﬂuence of order.
+ﬁre belches a 15-foot cone of toxic smoke that deals 2d6 poison damage (DC 21 basic
+Fortitude save). A creature that fails is also sickened 1 (or sickened 2 on a critical failure).
+STRIDING FIRE
+An embodiment of the speed and chaos of a spreading blaze, a striding ﬁre
+appears as a lithe and long-limbed humanoid composed of shifting-hued ﬂames
+churning within a skeleton-like framework.
+STRIDING FIRE
+CREATURE 6
+CN
+MEDIUM
+ELEMENTAL
+FIRE
+Perception +14; darkvision, smoke vision
+Languages Ignan
+Skills Acrobatics +15, Athletics +12
+Str +2, Dex +5, Con +3, Int +0, Wis +4, Cha +1
+Smoke Vision The striding ﬁre ignores the concealed condition from smoke.
+AC 24; Fort +11, Ref +17, Will +14
+HP 115; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 10
+Speed 50 feet
+Melee Ȱɵ ﬁst +17 (agile, ﬁnesse), Damage 2d8+5 bludgeoning plus 1d6
+persistent ﬁre
+Burning Rush ʚʖ (evocation, ﬁre, primal) The striding ﬁre Strides up
+to double its Speed in a straight line. Its movement during this
+Stride doesn’t trigger reactions. Any creature the striding
+ﬁre was adjacent to at any point during this Stride must
+attempt a DC 24 basic Reﬂex save. If it critically
+fails, it is knocked prone by a wave of heated
+air. The striding ﬁre can’t use Burning Rush for
+1d4 rounds.
+MAGMA SCORPION
+Whether skittering through Abyssal wastelands
+or basking in the searing sand of the deepest
+deserts, magma scorpions have charred carapaces
+constantly emitting vision-warping waves of heat.
+
+================================================================================
+# STEAM MEPHIT
+================================================================================
+
+Breath Weapon ʚʖ (arcane, poison) The ooze mephit spits toxic slime in a 15-foot cone
+that deals 2d6 poison damage to each creature within the area (DC 17 basic Reﬂex
+save). The ooze mephit can’t use Breath Weapon again for 1d4 rounds.
+STEAM MEPHIT
+These brash and arrogant creatures are among the more energetic mephits. They
+are quick to nominate themselves the leaders of any group, barking out orders in
+shrill, high-pitched voices and insisting on having everything done their way. Even
+when they aren’t bossing others around, the constant hiss of steam escaping from
+their pores ensures that there is never a quiet moment.
+STEAM MEPHIT
+CREATURE 1
+UNCOMMON
+N
+SMALL
+ELEMENTAL
+FIRE
+WATER
+Perception +3; darkvision, steam vision
+Languages Aquan, Ignan
+Skills Acrobatics +7, Intimidation +6
+Str +1, Dex +2, Con +4, Int –2, Wis +0, Cha +0
+Steam Vision The steam mephit ignores the concealed
+condition from mist and steam.
+AC 16; Fort +9, Ref +7, Will +5
+HP 19, fast healing 2 (in boiling
+water or steam); Immunities
+bleed, ﬁre, paralyzed, poison, sleep;
+Weaknesses cold 3
+Speed 20 feet, ﬂy 25 feet, swim 25 feet
+Melee Ȱɵ claw +7 (agile, ﬁnesse), Damage 1d6+1
+slashing
+Arcane Innate Spells DC 17; 2nd obscuring mist
+Boiling Rain ʚʖ (arcane, conjuration, ﬁre, water) Frequency
+once per day; Eﬀect The steam mephit calls down a rain
+boiling water that surrounds them in a 10-foot emanation.
+Creatures in the area take 2d8 ﬁre damage (DC 17 basic Reﬂex save),
+and small unattended ﬂames (such as torches) are extinguished.
+Breath Weapon ʚʖ (arcane, ﬁre) The steam mephit spits a cloud of
+steam in a 15-foot cone that deals 2d6 ﬁre damage to each creature
+within the area (DC 17 basic Reﬂex save). The steam mephit can’t use
+Breath Weapon again for 1d4 rounds.
+MEPHIT NAMES
+Perhaps because they’re so often
+compelled into service by mortal
+conjurers and more powerful
+elementals, mephits tend to adopt long
+names peppered with self-proclaimed
+titles and imagined or exaggerated
+accomplishments to alleviate their
+feelings of inadequacy. Some examples
+of mephit names follow.
+• Anothoraxia, Lurker in Dark Places,
+the Tragic Hero, One Against All
+• Silothiscil the Embittered, Rimelord
+of the Eternal Chill, Lord of Icicles
+• Oglophax, Prince of Pungency, the
+Viscous One, the Forever Stain
+• Zarnozath the Magniﬁcent, First
+of His Name, Boiler of Kettles, the
+Teapot Terror
+
+================================================================================
+PAGE 115
+================================================================================
+
+Bestiary 2
+FLAME AND FATHOM MEET
+Though ﬁre and water classically
+oppose one another, in the right
+mixture they can become a dangerous
+combination. Water elementals heated
+to a scalding temperature through
+natural factors such as underwater
+volcanoes might deal 1d6 persistent
+ﬁre damage with their Strikes, while
+ﬁre elementals infused with moisture
+might exude clouds of obscuring or
+even blinding steam.
+Elemental, Water
+Water elementals that become infused with cold or mist have increased mobility
+in regions outside of bodies of water.
+ICICLE SNAKE
+Translucent and capable of hanging suspended and near motionless, icicle snakes
+sense the heat of living creatures as a threat and attempt to use their camouﬂage
+and chilling bite against foes.
+
+================================================================================
+# SPEAR FROG
+================================================================================
+
+
+FROG SPECIES
+While all frogs are amphibious, some
+frogs spend more of their time out of
+the water. Even those usually found
+near lakes and streams are adapted
+for climbing. You can add variety
+to frog encounters by replacing a
+frog’s swim Speed with a climb Speed
+(or even allowing it to have both).
+Likewise, for frogs that are poisonous
+or venomous, the speciﬁc eﬀects
+of their toxin can vary by species,
+with exposure to some frog poison
+causing a creature to become clumsy
+or stupeﬁed instead of enfeebled.
+Frog
+Frogs that are poisonous or grow to monstrous size can be a menace to adventurers.
+SPEAR FROG
+The spear frog is named for its toxin, which is traditionally used to envenom
+thrown projectiles like spears and daggers.
+SPEAR FROG
+CREATURE 0
+N
+TINY
+ANIMAL
+Perception +6; low-light vision
+Skills Acrobatics +5, Athletics +0 (+6 to Climb, High Jump, Long Jump, and Swim)
+Str –2, Dex +3, Con +1, Int –4, Wis +2, Cha +0
+AC 14; Fort +5, Ref +7, Will +6
+HP 12
+Toxic Skin Anytime a creature touches the spear frog or an adjacent creature Strikes the
+spear frog with a melee attack, that creature is exposed to spear frog venom.
+Speed 20 feet, climb 20 feet, swim 20 feet
+Melee Ȱɵ jaws +7 (agile, ﬁnesse), Damage 1d6 piercing plus spear frog venom
+Spear Frog Venom (poison) Saving Throw DC 15 Fortitude; Maximum Duration 6 rounds;
+Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and enfeebled 1 (1 round)
+Sticky Feet Spear frogs are not ﬂat-footed when Balancing on a narrow surface, and they
+gain a +4 bonus to Reﬂex saves to avoid falling.
+SPEAR FROG POISON
+A single spear frog yields enough toxin to Craft 1 dose of spear frog poison.
+SPEAR FROG POISON
+ITEM 1
+ALCHEMICAL
+CONSUMABLE
+INJURY
+POISON
+Price 3 gp
+Usage held, 2 hands; Bulk L
+Activation ʚʖ Interact
+Saving Throw DC 15 Fortitude; Maximum Duration 6 rounds; Stage 1 1d4 poison damage
+(1 round); Stage 2 1d6 poison damage and enfeebled 1 (1 round)
+GIANT FROG
+Giant frogs can grow up to 6 feet long and weigh over 200 pounds, with rows of
+razor-sharp teeth lining their gaping mouths.
+
+================================================================================
+# SHADOW GIANT
+================================================================================
+
+
+SHADOW GIANT LOCATIONS
+Some shadow giants travel to the
+Material Plane to serve as agents
+in Nidal’s Umbral Court. Rumors of
+these massive shock troops deployed
+by the court’s mysterious members
+are common, and such rumors often
+place them in the mountains near
+Cheliax and Molthune.
+Protected by the Ancestors by performing a 10-minute prayer as an activity that has
+the concentrate trait.
+Throw Rock Ȱɵ
+SHADOW GIANT
+Shadow giants are ﬁerce natives of the Shadow Plane, where they have dwelled in
+perpetual twilight for millennia. Their cultures vary greatly depending on whether
+the giants reside in their land of origin or have relocated to the Material Plane. On
+the Shadow Plane, they live in familiar groups and uphold a nomadic way of life
+as they roam across ancestral lands between shadowy forests and misty chasms.
+These hunter-gatherers pass down lore through oral histories, conduct pilgrimages
+to unholy ziggurats of black stone, and bathe in the blood of their long-standing
+foes, including rival shadow giant clans and velstracs intent on enslaving their
+kind. On the Material Plane, conversely, they are secretive and isolationist,
+keeping apart from other peoples in forbidding structures of black stone in
+high, isolated mountain valleys.
+Standing 15 feet tall, with gray skin and hair only a shade lighter,
+shadow giants are fearsome foes with a well-earned reputation as zealous
+warmongers and ruthless combatants. They rarely interact with
+outsiders, though they may treat with proven warriors
+who show the giants the respect and deference they feel
+they deserve. Only a small subset of shadow giants
+worship Zon-Kuthon, and most of these Kuthites are
+so ﬁrmly entrenched in the culture of Nidal that their
+Shadow Plane-dwelling kin would hardly recognize
+them. Most shadow giants instead practice an ancient
+religion, unique to their people, with its own bloody themes
+of sacriﬁce and self-mutilation.
+SHADOW GIANT
+CREATURE 13
+LE
+LARGE
+GIANT
+HUMANOID
+SHADOW
+Perception +20; darkvision
+Languages Common, Jotun, Shadowtongue
+Skills Athletics +27, Intimidation +22, Stealth +21
+(+23 to Hide in dim light)
+Str +8, Dex +2, Con +5, Int +0, Wis +1, Cha +3
+Items +1 resilient breastplate, sack with 5 rocks, +1
+striking spiked chain
+AC 33; Fort +25, Ref +20, Will +23
+HP 275
+Attack of Opportunity Ǻȓ
+Catch Rock Ǻȓ
+Speed 35 feet
+Melee Ȱɵ spiked chain +27 (disarm, reach 10 feet, trip), Damage 3d8+18 slashing plus
+pall of shadow
+Melee Ȱɵ ﬁst +26 (agile, reach 10 feet), Damage 3d8+18 bludgeoning plus pall of shadow
+Ranged Ȱɵ rock +26 (brutal, range increment 120 feet), Damage 2d8+18 bludgeoning
+Pall of Shadow (divine, necromancy, shadow) When a shadow giant hits with a melee
+Strike, the target must succeed at a DC 30 Fortitude save or become
+drained 1 and take a –1 status penalty to Perception checks involving
+sight as long as they remain drained. On a critical failure, this condition
+doesn’t heal naturally and can be removed only with magic.
+Shadowcloak Ȱɵ (divine, illusion, shadow) The shadow giant becomes shrouded in
+shadows and becomes concealed. As the nature of this eﬀect leaves the giant’s
+location obvious, it can’t use this concealment to Hide or Sneak. This eﬀect lasts for 1
+minute or until it is exposed to direct sunlight, whichever comes ﬁrst.
+Throw Rock Ȱɵ
+
+================================================================================
+PAGE 129
+================================================================================
+
+Bestiary 2
+CARRION GOLEM COMPONENTS
+The decaying body parts that make
+up a carrion golem are of little
+value in most cultures. However,
+the magic used to preserve them
+and infuse them with disease can
+still be harnessed by unscrupulous
+necromancers and other practitioners
+of foul arts. Such creatures may
+be willing to purchase a destroyed
+carrion golem, but the processes
+used to extract the power within the
+pieces are diﬃcult and ineﬃcient, so
+they won’t pay much.
+Golems
+The shape and structure of a golem are limited only by the power and creativity
+of its crafter. Over the ages, skilled minds and hands have reﬁned the formulas
+for creating speciﬁc types of golems, resulting in the development of common
+forms. The secrets of creating the types of golems presented here may be
+guarded within the halls of famous golemworks or the forgotten libraries of
+many worlds.
+GOLEM ANTIMAGIC
+A golem is immune to spells and magical abilities other than its own, but each
+type of golem is affected by a few types of magic in special ways. These exceptions
+are listed in shortened form in the golem’s stat block, with the full rules appearing
+here. If an entry lists multiple types (such as “cold and water”), either type of spell
+can affect the golem.
+• Harmed By Any magic of this type that targets the golem causes it to take the
+listed amount of damage (this damage has no type) instead of the usual eﬀect. If the
+golem starts its turn in an area of magic of this type or is aﬀected by a persistent
+eﬀect of the appropriate type, it takes the damage listed in the parenthetical.
+• Healed By Any magic of this type that targets the golem makes the golem lose the
+slowed condition and gain Hit Points equal to half the damage the spell would have
+dealt. If the golem starts its turn in an area of this type of magic, it gains the Hit
+Points listed in the parenthetical.
+• Slowed By Any magic of this type that targets the golem causes it to be slowed 1
+for 2d6 rounds instead of the usual eﬀect. If the golem starts its turn in an area of
+this type of magic, it’s slowed 1 for that round.
+• Vulnerable To Each golem is vulnerable to one or more speciﬁc spells, with the
+eﬀects described in its stat block.
+CARRION GOLEM
+Carrion golems are foul-smelling and ﬂyswarmed amalgams of putreﬁed parts
+stitched together from many different
+creatures. Unlike most golems, carrion
+golems only rarely are given a humanoid
+form, instead appearing more twisted and
+bestial in frame. As a result, some students of
+golem crafting claim that the carrion golem isn’t
+a “true golem,” but regardless of those claims these
+foul constructs certainly share other golem-like traits,
+including their signiﬁcant immunities. What is true is
+that most who craft carrion golems don’t do so out
+of true interest in the technique of golem crafting, but
+for the golem’s ability to spread disease. The crafters
+of carrion golems send their mindless minions to cause
+immediate destruction and leave wakes of illness and
+death behind them.
+
+================================================================================
+# SUNFLOWER LESHY
+================================================================================
+
+
+Bestiary 2
+LESHY COMMUNITIES
+Leshys are fairly egalitarian when
+interacting with their own kind.
+Most communities are meritocracies,
+rewarding leshys who defend their
+communities and help each other
+succeed, and they see working together
+as the best path to a successful future.
+Leshy
+These intelligent plant creatures maintain complex societies in remote wildernesses
+and places of primal power. By working together, leshys help to defend powerful
+fey and druidic sites from interloping humanoids. They often have good relations
+with local fey and druidic orders but distrust most other humanoids.
+A primal spell caster, often a druid, can create a leshy by binding a nature spirit
+to a carefully crafted body grown from speciﬁc vegetation. The details of these
+rites vary based on the type of leshy, but all are carefully guarded secrets and tend
+to take place in sacred areas associated with nature or primal magic, such as a
+druid circle or dryad grove.
+SUNFLOWER LESHY
+Sunﬂower leshys are the ambassadors and social leaders of their kind.
+Their petals radiate from their heads in various hues with a
+serrated, leafy, beard-like ruff. When particularly excited, their
+eyes and petals glow with collected sunlight, and when they
+become depressed or saddened, their usually vibrant
+coloration grows correspondingly muted. These shifts
+in coloration are echoed in sunﬂower leshy art, which
+can lead to unexpected color palettes for artworks. For
+example, a human artist might illustrate Hell as a place
+of glowing lava and ﬂickering ﬂames, drawing upon
+many vibrant colors, but to a sunﬂower leshy, the only
+proper way to depict a place like Hell is in morose grays,
+blacks, and whites.
+The more adventurous sunﬂower leshys leave their
+communities to grow bonds with nearby settlements of
+humanoids. When interacting with humanoids,
+sunﬂower leshys are some of the most likely
+to act friendly and give strangers a chance to
+prove their good intentions, though they remain
+cautious. They’re often accompanied by other,
+more powerful leshys.
+SUNFLOWER LESHY
+CREATURE 1
+N
+SMALL
+LESHY
+PLANT
+Perception +7; darkvision
+Languages Common, Druidic, Sylvan; speak with plants (sunﬂowers only)
+Skills Acrobatics +6, Diplomacy +8, Nature +5, Stealth +7 (+9 in plains)
+Str +0, Dex +3, Con +1, Int +0, Wis +2, Cha +3
+AC 16; Fort +4, Ref +10, Will +7
+HP 20
+Heliotrope Ȳ˓ (aura, evocation, light, primal) 20 feet; Requirements The sunﬂower
+leshy begins its turn in an area of bright light; Eﬀect The sunﬂower leshy
+reﬂects the sun or another source of bright light from their face. Each
+creature that ends its turn in the emanation must attempt a DC 16 Will save.
+Success The creature is unaffected and is temporarily immune to heliotrope for
+24 hours.
+Failure The creature is distracted by the light, becoming ﬂat-footed for 1 round.
+Critical Failure As failure, but the creature is also dazzled for 1 round.
+Verdant Burst (healing) When a sunﬂower leshy dies, a burst of primal energy explodes
+from its body, restoring 1d8 Hit Points to each plant creature in a 30-foot emanation.
+This area immediately ﬁlls with sunﬂowers, becoming diﬃcult terrain. If the terrain is
+not a viable environment for these sunﬂowers, they wither after 24 hours.
+Speed 25 feet
+Melee Ȱɵ tendril +6 (agile, ﬁnesse), Damage 1d8 bludgeoning
+Ranged Ȱɵ seed +6 (range increment 20 feet), Damage 1d6 bludgeoning
+
+================================================================================
+PAGE 162
+================================================================================
+
+LESHY HEROES
+Occasionally, a leshy proves so
+valuable to their community that
+they’re uplifted as a hero. These
+admired leshys are not all warriors;
+outstanding artisans, caretakers,
+or diplomats might also be lauded
+as heroes.
+Primal Innate Spells DC 17; 4th speak with plants
+Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) The sunﬂower leshy
+transforms into a Small ﬂower. This ability otherwise uses the eﬀects of tree shape.
+Seed Spray ʚʖ (conjuration, primal) The sunﬂower leshy launches a deluge of seeds
+from their head in a 15-foot cone, dealing 2d6 bludgeoning damage to creatures within
+the area (DC 16 basic Reﬂex save). It gains a +2 status bonus to this damage against
+dazzled creatures. The sunﬂower leshy can’t use Seed Spray again for 1d4 rounds.
+FLYTRAP LESHY
+While often seen as unfriendly by non-leshys, ﬂytrap leshys get along well with other
+leshys. Nonetheless, they’re among the most aggressive leshys, often guarding the
+most vulnerable places in the natural world with their ﬂytrap mouths and hands.
+When a large threat emerges, pairs of ﬂytrap leshys band together to create
+amalgams capable of driving back powerful foes. This unusual form of communal
+defense suffuses ﬂytrap leshy society, and they often form relationships between
+multiple individuals that would confuse or even scandalize more uptight
+humanoids—to a ﬂytrap leshy, though, there’s nothing strange about sharing your
+innermost secrets with people you literally merged together with to defend your
+home from an enemy.
+
+================================================================================
+# SHOAL LINNORM
+================================================================================
+
+
+Bestiary 2
+LINNORM LEGENDS
+Creatures as powerful as linnorms
+tend to spawn stories of their own,
+accurate or not. Critical failure on
+a check to Recall Knowledge on
+linnorms might suggest that you
+can avoid a linnorm’s death curse by
+closing your eyes as you deliver the
+fatal blow, or that rubbing poison
+oak on yourself can ward oﬀ a
+linnorm’s attention.
+Linnorm
+The powerful, serpentine beings known as linnorms may be distantly related
+to the more well-known chromatic and metallic dragons, but their draconic
+physiologies are where any such similarities end. Whereas true dragons boast
+incredible intellectual capabilities and far-reaching plans, linnorms are driven
+only by their insatiable hunger and desire to inﬂict cruelty on others. Linnorms
+are exceptionally difﬁcult to outwit due to their strong wills, and it’s not wise
+to try bargaining with them—when faced with one of these legendary beasts,
+one’s best option is ﬂight, pure and simple. Failing that, a noble death is a viable
+back-up plan.
+Extremely powerful linnorms dwell in remote parts of the world. One such
+creature is the legendary Fafnheir, the Father of All Linnorms, said to be the oldest
+and mightiest linnorm of them all. Fafnheir’s death curse causes anyone who
+would slay him to slowly erode away physically and mentally until they die, at
+which point the cursed victim’s body fuels Fafnheir’s resurrection.
+SHOAL LINNORM
+Shoal linnorms occupy rocky shoreline shallows and slither
+along lonely coastlines. While they do not intentionally seek
+out large settlements, these linnorms nonetheless beleaguer
+ﬁshers headed out from small coastal towns, and they may
+even follow skiffs back to their home port to appraise the
+town’s defenses and plan a raid. Shoal linnorms tend to hunt
+large prey, both underwater and on land. Their preferred
+quarries includes giant squid and grizzly bears—meals rich
+in fat, which the linnorms metabolize into the ﬁery steam that
+courses through their veins.
+SHOAL LINNORM
+CREATURE 15
+UNCOMMON
+CE
+GARGANTUAN
+AMPHIBIOUS
+DRAGON
+Perception +27; darkvision, scent (imprecise) 60 feet, true
+seeing
+Languages Aklo, Draconic, Sylvan
+Skills Acrobatics +28, Athletics +31, Stealth +28
+Str +8, Dex +5, Con +7, Int –3, Wis +6, Cha +7
+AC 38; Fort +29, Ref +25, Will +22; +1 status
+to all saves vs. magic
+HP 295, regeneration 10 (deactivated
+by cold iron); Immunities curse, ﬁre,
+paralyzed, sleep; Weaknesses cold iron 10
+Curse of Drowning (curse, primal, water)
+When a creature slays a shoal linnorm, it
+must succeed at a DC 38 Will save or become
+cursed. As long as the curse of drowning
+persists, the character must spend 3
+actions when drinking any liquid.
+Attempting to drink liquid
+faster causes the victim
+to
+begin
+drowning,
+immediately running out
+of air and falling unconscious.
+Attack of Opportunity Ǻȓ Tail only.
+Speed 35 feet, ﬂy 100 feet, swim 100
+feet; freedom of movement
+Melee Ȱɵ jaws +31 (magical, reach 20
+feet), Damage 3d12+16 piercing plus
+shoal linnorm venom
+
+================================================================================
+PAGE 166
+================================================================================
+
+NEWBORN LINNORMS
+Almost all linnorms lead solitary
+lives; they are too reprehensible for
+even their own kind to tolerate for
+any length of time. Most species do
+not even meet to reproduce; rather,
+female linnorms usually deposit a
+solitary egg in a remote location,
+which a wandering male linnorm
+then fertilizes and places in a nook
+suitable for incubation. Newborn
+linnorms range in size from that of
+adult crocodiles to full-grown bulls,
+and their growth is rapid. Even a
+juvenile linnorm is strong enough to
+wreak havoc on a small settlement—
+though most don’t dare to commit
+such audacious pillaging, for fear of
+evoking the anger of another, larger
+linnorm in the area.
+Melee Ȱɵ claw +31 (agile, magical, reach 15 feet), Damage 3d8+16 slashing
+Melee Ȱɵ tail +31 (magical, reach 25 feet), Damage 4d6+16 bludgeoning plus Improved Grab
+Primal Innate Spells DC 36; Constant (7th) freedom of movement; (6th) true seeing
+Breath Weapon ʚʖ (evocation, ﬁre, primal, water) The shoal linnorm exhales scalding
+steam that deals 12d8 ﬁre damage in a 60-foot cone (DC 36 basic Reﬂex save). The
+steam lingers until the end of the linnorm’s next turn; anyone who enters the area
+or begins their turn in the area takes 6d8 ﬁre damage (DC 36 Reﬂex save negates).
+During this time, the steam is so thick that it impedes movement as well as sight,
+turning the area into diﬃcult terrain. All creatures in the steam become concealed,
+and all creatures outside the steam become concealed to creatures within it. The shoal
+linnorm can’t use Breath Weapon again for 1d4 rounds.
+Shoal Linnorm Venom (ﬁre, poison) Saving Throw DC 36 Fortitude; Maximum Duration
+10 rounds; Stage 1 4d6 ﬁre damage and enfeebled 1 (1 round); Stage 2 6d6 ﬁre damage
+and enfeebled 2 (1 round)
+FJORD LINNORM
+Fjord linnorms make their homes in damp caves behind ice-cold waterfalls in
+the river-veined coastal reaches of the north. While they may appear graceful as
+they swim up the fjords for which they’re named, they are as vile as any other of
+their species and take pleasures in capsizing river boats before gobbling up their
+terriﬁed crews.
+
+================================================================================
+# SPIRIT NAGA
+================================================================================
+
+
+SPIRIT NAGA COVENS
+Like hags, spirit nagas occasionally
+form small groups of their own kind.
+They normally do this for mutual
+protection against a greater threat
+or to accomplish a goal that a single
+spirit naga cannot complete on their
+own. Sometimes, spirit nagas form
+a coven to bring groups of cultists
+together or take over a city or other
+large community, and in rare cases a
+spirit naga might even join a hag or
+witch coven.
+Lunar Naga Venom (poison, sleep) Saving Throw DC 24; Maximum Duration 6 rounds;
+Stage 1 stupeﬁed 1 (1 round); Stage 2 as stage 1 (1 round); Stage 3 stupeﬁed 2 (1 round);
+Stage 4 unconscious (1 round). Once a creature falls unconscious from lunar naga
+venom, they remain asleep for 1d8 hours unless woken.
+SPIRIT NAGA
+In naga culture, the foul-tempered, unkempt spirit naga holds a contemptible place
+similar to that of hags in humanoid cultures. These decrepit creatures live out lives
+of solitude, sought out only by those who are foolish or brave enough to think they
+can beneﬁt from the spirit naga’s powers without paying a heavy price—for most
+who dare to show such hubris, the price is their own lives.
+Spirit nagas seek out desolate ruins and places long associated with death and
+corruption. These sinister, serpentine beings can be found in abandoned graveyards,
+crumbled fortresses, rotting swamps, and blighted woodlands. Though they may
+know little of the actual history of such places, the nagas are nonetheless attracted to
+the psychic remnants of evil deeds and tormented spirits that remain within the earth
+and stones there.
+Despite their hideous appearance and treatment as pariahs by other nagas, spirit
+nagas feel a profound pride in their abilities and even in their hermetic existences.
+They see themselves as connected to a greater force whose mysteries are
+revealed only to those who can cast off the trappings and morals of
+“civilized” society. Even so, spirit nagas gleefully accept the worship
+of other creatures willing to bow to their capricious whims. They
+often form cults around themselves, using their charm spells and
+rituals to ensnare the minds of a few key individuals who spread
+the nagas’ foul inﬂuence throughout a community.
+SPIRIT NAGA
+CREATURE 9
+UNCOMMON
+NE
+LARGE
+ABERRATION
+Perception +18; darkvision
+Languages Aklo, Common
+Skills Acrobatics +18, Athletics +16, Deception +17,
+Intimidation +19, Occultism +20, Stealth +20
+Str +3, Dex +4, Con +3, Int +1, Wis +3, Cha +5
+Coven A spirit naga adds hallucination, mind probe, and
+suggestion to their coven’s spells.
+AC 28; Fort +15, Ref +20, Will +18
+HP 160
+Speed 25 feet, swim 15 feet
+Melee Ȱɵ fangs +19 (agile, ﬁnesse), Damage 2d8+9 piercing
+plus spirit naga venom
+Occult Spontaneous Spells DC 28, attack +20;
+5th (3 slots) black tentacles, sending,
+subconscious suggestion; 4th (4 slots)
+clairvoyance, confusion, ﬂy, modify
+memory; 3rd (4 slots) dream
+message, mind reading, paralyze,
+vampiric touch; 2nd (4 slots) blur,
+humanoid form, mirror image,
+telekinetic maneuver; 1st (4 slots)
+charm, command, grim tendrils,
+unseen servant; Cantrips (5th) daze,
+detect magic, mage hand, read aura, sigil
+Rituals DC 28; inveigle
+Spirit Naga Venom (poison) Saving Throw DC 28; Maximum Duration 6
+rounds; Stage 1 2d6 poison damage and stupeﬁed 1 (1 round); Stage 2 2d6
+poison damage and stupeﬁed 2 (1 round)
+
+================================================================================
+PAGE 181
+================================================================================
+
+Bestiary 2
+OTHER NECROPHIDIUSES
+Ultimately, a necrophidius’s abilities
+are the result of its creators’
+designs. Some have diﬀerent
+immunities or have bites that deal
+poison, cold, or negative damage
+instead of inﬂicting paralysis. There
+are even rumors of soulbound
+necrophidiuses whose creators
+arranged for the soul of the skull’s
+donor to empower the construct.
+These necrophidiuses are not only
+sentient but also have the facility to
+reason and even cast spells.
+Necrophidius
+Although the necrophidius is a mindless construct with no particular ability to
+comprehend the complexities of good or evil, these sinister-looking constructs are
+often crafted by evil or macabre creators seeking to imbue their guardians with a
+frightening aesthetic.
+Constructed from bones harvested from serpents and humans, a necrophidius
+is animated by occult magic, not unlife. Each necrophidius is built from the
+skeleton of a large snake, but its skull has been replaced by that of a humanoid
+creature. Some death cults or particularly cruel crafters seek out the skulls of
+speciﬁc individuals against whom they bear grudges to provide the head for their
+necrophidius. The ﬁnal step of the construction is the alteration of the teeth and
+jaws to give the creature a more serpentine visage, complete with fangs.
+If a necrophidius’s creator dies, the construct follows the last series of commands
+it was given. If it cannot do so, the necrophidius aimlessly wanders the area near
+where it last served its creator and attacks any creatures it encounters. Some believe
+that those who know the secrets of a necrophidius’s origins can command it,
+provided its original creator no longer exists and no one else currently commands
+it. There are also a number of reports concerning strangely aware and intelligent
+necrophidiuses that roam with a purpose and track down or hunt speciﬁc living
+creatures they interpret as the targets of former assassination missions.
+
+================================================================================
+# SLIME MOLD
+================================================================================
+
+
+SLIME MOLD FUNGI
+The particularly foul environments
+in which slime molds dwell are
+conducive to the growth of extremely
+potent and dangerous mushrooms
+and other fungi. A dead slime mold
+can be a source of enough materials
+to produce a few doses of deathcap
+powder or other types of poison.
+Some creatures, such as deros or
+those with inherent immunity to
+disease, cultivate slime molds in order
+to harvest these materials.
+the amoeba’s body. This thereafter has the same eﬀect as if the amoeba had Engulfed
+the creature (DC 17, 1d6 acid, Escape DC 17, Rupture 3).
+Weak Acid As amoeba swarm.
+SLIME MOLD
+A slime mold appears as a mound of earth and detritus covered in a thick
+layer of fungus that exudes a faint stink of decay. The fungus actually shares
+a symbiotic relationship with the slime mold, serving as an external digestive
+system while gaining access to the nutrients it needs. The ooze remains
+perfectly still until living prey passes within reach, then it lashes out with
+disgusting pseudopods. With a touch, a slime mold can infect its prey with
+a foul contagion known as slime rot, a horriﬁc disease that painfully breaks
+down a victim’s ﬂesh. At ﬁrst, the disease manifests as painful rashes and
+agonized joints. In the later stages, though, the ﬂesh of the affected creature
+actually begins to liquefy and run in rivulets as the creature’s spores continue
+to work. Death, when it occurs, swiftly causes the resulting body to split open
+and release a brand new slime mold.
+SLIME MOLD
+CREATURE 2
+N
+LARGE
+FUNGUS
+MINDLESS
+OOZE
+Perception +6; motion sense 60 feet, no vision
+Skills Athletics +7, Stealth +6 (+8 amid decaying plant matter or fungus)
+Str +3, Dex +0, Con +5, Int –5, Wis +0, Cha –5
+Motion Sense As amoeba swarm.
+AC 12; Fort +11, Ref +3, Will +4
+HP 60; Immunities critical hits, mental, precision, unconscious, visual
+Speed 10 feet, climb 10 feet
+Melee Ȱɵ pseudopod +8, Damage 1d8+3 bludgeoning plus slime rot
+Slime Rot (disease) Saving Throw DC 18 Fortitude; Onset 1d4 days; Stage 1 enfeebled 1
+and sickened 1 (1 day); Stage 2 as stage 1 (1 day); Stage 3 drained 1, enfeebled 2, and
+sickened 2 (1 day); Stage 4 as stage 3 (1 day); Stage 5 drained 2 plus unconscious (no
+Perception check to wake up) (1 day); Stage 6 dead, and the body erupts to release a
+new slime mold
+GRAY OOZE
+These dangerous oozes are the bane of any who travel through swamps, marshes,
+or damp caves. Easily masquerading as pools of clear water or
+patches of wet stone, gray oozes lie in wait for unwary victims
+to reach down for a drink or step into what
+appears to be a puddle, then lash out
+with whiplike pseudopods to ensnare
+and consume their hapless prey.
+
+================================================================================
+PAGE 195
+================================================================================
+
+Bestiary 2
+GRAY OOZE ADAPTABILITY
+Gray oozes have shown the astounding
+ability to overcome environmental
+challenges by changing their qualities.
+For example, some gray oozes have
+adapted to fully aquatic environments,
+replacing their movement with a swim
+speed and gaining a paralytic poison
+similar to that of gelatinous cubes.
+Other gray oozes have become charged
+with psychic energy, gaining the ability
+to cause nearby creatures to become
+confused, fascinated, or frightened for
+a short time.
+
+================================================================================
+# SULI DUNE DANCER
+================================================================================
+
+
+Bestiary 2
+GENIEKIN ON GOLARION
+While most geniekin planar scions
+live on their genie parent’s ancestral
+plane, rare fonts of elemental power
+or genie activity sometimes give
+rise to geniekin on Golarion. By far,
+geniekin are most commonly found
+in Katapesh, as genies are more
+prevalent there than other regions
+due to the inﬂuence of genie binders.
+claims help to bolster those they travel with. Suli from regions other than deserts
+adjust their names to match their terrains, but regardless of whether they prefer
+forests, hills, or arctic plains, their boasts remain as compelling.
+SULI DUNE DANCER
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+SULI
+Perception +5
+Languages Aquan, Auran, Common, Ignan, Terran
+Skills Acrobatics +5, Deception +6, Diplomacy +7, Occultism +4, Performance +7,
+Society +4
+Str +2, Dex +2, Con +0, Int +1, Wis +0, Cha +4
+Items scimitar, tambourine
+AC 15; Fort +3, Ref +5, Will +5
+HP 16
+Elemental Bulwark Ǻȓ Trigger An enemy is about to damage the dune dancer with cold,
+electricity, or ﬁre, or with a spell that has the air, earth, ﬁre, or water trait; Eﬀect The
+dune dancer gain resistance 2 against the triggering damage.
+Speed 25 feet
+Melee Ȱɵ scimitar +7 (forceful, sweep), Damage 1d6+2 slashing
+Occult Spontaneous Spells DC 17, attack +9; 1st (2 slots) color spray, soothe, true strike;
+Cantrips (1st) detect magic, guidance, inspire courage (Core Rulebook 386), mage
+hand, shield, telekinetic projectile
+Elemental Assault ʚʖ Elemental magic ﬁlls the dune dancer’s body or
+weapon. The dune dancer chooses one element and makes a melee Strike.
+The Strike deals an additional 1d4 damage of the indicated type and has the
+trait corresponding to the element: Air electricity, Earth bludgeoning, Fire ﬁre, or
+Water cold.
+SYLPH
+Born with elemental gales coursing through their breath, sylphs are wispy planar
+scions whose bodies seem caught in a perpetual, gentle breeze. Born of unions
+between mortals and djinn, sylphs are quick-witted and creative, but
+they are prone to ﬂights of fancy and tend to be easily distracted.
+Sylphs are notorious for their practice of “listening to the wind,” which
+most others dismiss as a fancy name for eavesdropping. Yet this custom means
+much more to sylphs, who spend hours listening to the stories brought to
+them on the proverbial breeze. While some less scrupulous sylphs
+may use the information they learn to blackmail or abuse others,
+most of them see listening to the wind as their way of staying
+connected to the world around them while still keeping it
+comfortably at arm’s length. Certainly the typical sylph
+sneak doesn’t seek to use what they learn for ill, but
+instead tries to warn others of dangers yet unrealized
+or to prepare themself for a dangerous task.
+
+================================================================================
+# SYLPH SNEAK
+================================================================================
+
+Occult Spontaneous Spells DC 17, attack +9; 1st (2 slots) color spray, soothe, true strike;
+Cantrips (1st) detect magic, guidance, inspire courage (Core Rulebook 386), mage
+hand, shield, telekinetic projectile
+Elemental Assault ʚʖ Elemental magic ﬁlls the dune dancer’s body or
+weapon. The dune dancer chooses one element and makes a melee Strike.
+The Strike deals an additional 1d4 damage of the indicated type and has the
+trait corresponding to the element: Air electricity, Earth bludgeoning, Fire ﬁre, or
+Water cold.
+SYLPH
+Born with elemental gales coursing through their breath, sylphs are wispy planar
+scions whose bodies seem caught in a perpetual, gentle breeze. Born of unions
+between mortals and djinn, sylphs are quick-witted and creative, but
+they are prone to ﬂights of fancy and tend to be easily distracted.
+Sylphs are notorious for their practice of “listening to the wind,” which
+most others dismiss as a fancy name for eavesdropping. Yet this custom means
+much more to sylphs, who spend hours listening to the stories brought to
+them on the proverbial breeze. While some less scrupulous sylphs
+may use the information they learn to blackmail or abuse others,
+most of them see listening to the wind as their way of staying
+connected to the world around them while still keeping it
+comfortably at arm’s length. Certainly the typical sylph
+sneak doesn’t seek to use what they learn for ill, but
+instead tries to warn others of dangers yet unrealized
+or to prepare themself for a dangerous task.
+SYLPH SNEAK
+CREATURE 1
+CG
+MEDIUM
+HUMAN
+HUMANOID
+SYLPH
+Perception +5
+Languages Auran, Common
+Skills Acrobatics +7, Deception +6, Diplomacy +6, Society +4, Stealth +7,
+Thievery +7
+Str +0, Dex +4, Con +1, Int +1, Wis +0, Cha +3
+Items leather armor, starknife
+AC 18; Fort +4, Ref +9, Will +8
+HP 17
+Deﬂecting Gale Ǻȓ (air, evocation, primal) Trigger The sylph sneak is the target of a
+physical ranged attack; Requirements The sylph sneak is aware of the attack;
+
+================================================================================
+PAGE 204
+================================================================================
+
+OTHER PLANAR SCIONS
+Two other planar scions are the
+entropy-infused ganzi and their polar
+opposites, the orderly aphorites,
+scions of chaos and law respectively.
+Eﬀect A swift gale whips up between the sylph sneak and the source of the ranged
+attack, giving the sneak a +3 status bonus to AC against the triggering attack. If the
+attack misses, the wind deﬂected it. The wind can’t deﬂect unusually large or heavy
+ranged projectiles (such as boulders or ballista bolts).
+Speed 25 feet
+Melee Ȱɵ starknife +9 (agile, deadly d6, ﬁnesse, versatile S), Damage 1d4+4
+Ranged Ȱɵ starknife +9 (agile, deadly d6, thrown 30 feet, versatile S), Damage 1d4+1
+Sneak Attack The sylph sneak’s Strikes deal 1d6 extra precision damage to
+ﬂat-footed creatures.
+Surprise Attacker On the ﬁrst round of combat, creatures that haven’t acted yet
+are ﬂat-footed to the sylph sneak.
+Wind’s Guidance When the sylph sneak attacks with a thrown weapon, the range
+increment increases by 10 feet.
+UNDINE
+Undines are infused with elemental water—the churning power of the
+briny deep ﬂows through them. These planar scions are often athletic and
+lithe, but they are easily distracted by auditory sensations because of how
+much louder and clearer sound rings above the waves.
+Undines are perhaps the most settled of all geniekin, often forming
+communities along the coast or even on the water itself. In the latter
+case, they prefer to settle in ship-towns that sometimes number
+dozens of vessels in all shapes and sizes.
+The undines who ﬁll these communities
+are similarly diverse, bringing aspects
+of multiple cultures together to
+form one whole. Ship-towns are
+permanent, but ﬂuid—they grow,
+recede, and migrate constantly as undine families add
+their ships to or remove them from the ﬂotilla. An
+undine town like this may remain at sea for years, its
+residents coming ashore only on rare occasions
+to collect wood for cookﬁres or to repair their
+homes. The paradoxically ever-shifting permanence
+of these communities reﬂects the undine virtues of adaptability and
+freedom, while also maintaining the prime importance of the community.
+Undine hydromancers are quite valued on these ﬂoating settlements, if only
+for their ability to create fresh drinking water while adrift on the sea.
+
+================================================================================
+# SHOGGTI
+================================================================================
+
+
+QLIPPOTH AND MORTALS
+As qlippoth lost territory to their
+demonic rivals, they realized that the
+only way to stem the tide of demonic
+forces was to starve them of the
+sinful souls that the Abyss uses to
+spawn new demons. While qlippoth
+have no concept of how they
+might go about preventing sin by
+changing the way mortals act, they
+do understand that exterminating
+mortal life would solve the problem
+as well.
+SHOGGTI
+Shoggti travel to other planes in roving bands to capture and charm victims,
+bringing them back to the Abyss where they are enslaved for unknown—but no
+doubt insidiously evil—purposes. These squid-like qlippoth have slick, blue skin
+and four suckered tentacles that end in dexterous pincers. In addition to a lampreylike mouth at the base of its body, each has a secondary maw in the middle of its
+forehead that stretches from between its two bulging eyes to the back of its head.
+SHOGGTI
+CREATURE 7
+UNCOMMON
+CE
+LARGE
+AMPHIBIOUS
+FIEND
+QLIPPOTH
+Perception +13; darkvision
+Languages Abyssal; telepathy 100 feet
+Skills Acrobatics +17, Intimidation +17, Occultism +15, Stealth +15
+Str +6, Dex +4, Con +2, Int +4, Wis +2, Cha +6
+AC 25; Fort +16, Ref +12, Will +14
+HP 105; Immunities controlled, fear; Weaknesses lawful 5; Resistances mental 5,
+physical 5 (except cold iron)
+Speed 25 feet, swim 25 feet
+Melee Ȱɵ bite +18 (chaotic, magical, reach 10 feet), Damage 2d12+8 piercing plus 1d6 chaotic
+Melee Ȱɵ pincer +18 (agile, chaotic, magical, reach 10 feet, versatile B), Damage 2d8+8
+slashing plus 1d6 chaotic and Grab
+Occult Innate Spells DC 23; 4th charm, dimension door; 2nd paranoia; 1st charm (×3);
+Cantrips (4th) daze, detect magic
+Braincloud Ȱɵ (attack, enchantment, mental, occult, open) The shoggti caresses a
+creature with a tentacle and supernaturally erodes the creature’s capability for
+thought as it does so. The target must succeed at a DC 25 Will save or become
+stupeﬁed 2, with an unlimited duration. The target can attempt the save to remove
+the stupeﬁed condition again once per day when it makes its daily preparations.
+Constrict Ȱɵ 1d10+8 bludgeoning, DC 25
+Fascinating Display ʚʖ (concentrate, emotion, enchantment, fear, mental, occult,
+visual) The shoggti writhes its tentacles and
+shifts its coloration to put on an unnaturally
+fascinating hypnotic display. Creatures in a
+30-foot emanation must attempt a DC 25
+Will save, after which they are temporarily
+immune to further Fascinating Displays for
+1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature is sickened 1.
+Failure The creature is fascinated for 1
+minute. Once the fascination eﬀect
+ends, the creature is sickened 1.
+Critical Failure
+The
+creature
+is
+fascinated for 1 minute, can’t use
+reactions while fascinated, and is
+sickened 2 once the fascination ends.
+NYOGOTH
+Little more than a coiled mass of intestines
+encircling a massive gaping maw, this
+qlippoth is an Abyssal scavenger, subsisting on
+the ﬁlth and leftovers of demons and qlippoth
+alike, although it relishes any opportunity to
+consume living prey. Despite this seeming lowly role
+in the Abyssal ecosystem, a nyogoth is far from a stupid
+beast and can orchestrate cunning ambushes to secure
+its next meal.
+
+================================================================================
+PAGE 215
+================================================================================
+
+Bestiary 2
+QLIPPOTH REALMS
+Although it is widely accepted
+that qlippoth have lost incalculable
+territory in the Abyss to demonkind,
+these ﬁends still control vast regions
+in the deepest reaches of that plane.
+Some sages suggest the troubling
+possibility that perhaps qlippoth still
+hold more territory of the Abyss than
+demons do, but because demons are
+more concerned with mortal life, we
+simply interact with the layers they
+control more often. For all we know,
+these dour sages postulate, the
+Abyss teems with endless swarms of
+qlippoth that have yet to make their
+move against mortal life.
+
+================================================================================
+# STINGRAY
+================================================================================
+
+
+Bestiary 2
+OTHER RAYS
+Stingrays and manta rays are among
+the most common species of these
+ﬁsh, but others dwell in more remote
+areas. The dangerous blood ray is
+an ambush predator that dwells in
+murky swamp waters and drains
+creature’s blood after paralyzing them
+with its sting, while the immense
+leviathan ray is a deep-ocean predator
+that has a deadly mouth capable of
+swallowing small ships whole.
+Ray
+Rays are an unusual type of ﬁsh with wide, sail-like ﬁns and long tails, giving them
+an almost kite-like shape as they swim gracefully through the water. All rays have
+a rudimentary form of electrolocation, allowing them to detect the faint electrical
+charges that emanate naturally from nearby living creatures, a sense akin to scent
+in its accuracy.
+STINGRAY
+Found in salt or fresh water, stingrays are normally passive creatures, but when
+threatened or cornered, they lash out with their tails to lance foes with their
+toxic stingers. Stingrays often bury themselves in mud, sand, or sea grass, and
+unfortunately for those wading in shallow waters, stepping on an unseen stingray
+is a sureﬁre way to receive a painful sting.
+STINGRAY
+CREATURE 0
+N
+MEDIUM
+ANIMAL
+AQUATIC
+Perception +6; electrolocation (imprecise) 30 feet, low-light vision
+Skills Athletics +5, Stealth +7
+Str +1, Dex +3, Con +1, Int –4, Wis +1, Cha –4
+Electrolocation A stingray in water can use its electrolocation as an imprecise sense at
+the listed range to detect living creatures that are in the same body of water as itself.
+AC 16; Fort +5, Ref +7, Will +5
+HP 15
+Speed swim 30 feet
+Melee Ȱɵ sting +7 (agile, ﬁnesse), Damage 1d6+1 piercing plus stingray venom
+Stingray Venom (poison) Saving Throw DC 16 Fortitude; Maximum Duration 4 rounds;
+Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and clumsy 1 (1 round)
+MANTA RAY
+While manta rays might
+appear daunting, they are
+generally docile. Manta rays are
+found in temperate or tropical oceans,
+and they generally stay in the upper reaches
+or at the surface of deeper waters. These rays are
+ﬁlter feeders that subsist on plankton. They can also
+eat larger ﬁsh or aquatic creatures as the need arises, but
+rarely attack anything Small or larger. Many underwater
+cultures, particularly aquatic elves, raise and farm manta
+rays to serve as messengers, beasts of burden, or even pets.
+Manta rays don’t make particularly good mounts, but some
+aquatic civilizations use them to draw underwater carriages.
+
+================================================================================
+# SANDPOINT DEVIL
+================================================================================
+
+
+Bestiary 2
+OTHER DEVILS
+For over a decade, the legend of
+the Sandpoint Devil has persisted
+in western Varisia. Most hold that
+it’s the fantasy of simple folk and
+booze-ﬁlled bellies, but locals insist
+it exists. Other creatures akin to
+the Sandpoint Devil might exist
+elsewhere in the world, with slight
+variations on their innate spells and
+the nature of their Accursed Breath.
+Sandpoint Devil
+While some creatures have been fused to create a new entity that’s graceful and
+beautiful, the Sandpoint Devil is the opposite. It has the hooves and body of a
+powerful horse, but it walks on its hind legs in a perverse parody of a humanoid
+gait. Its equine face has been distorted and elongated with skeletal, yellowed fangs
+and milky eyes. The pox-spotted hide along the creature’s back bears a draconic
+tail with dark, spiny plates and two torn, bat-like wings.
+The legendary Sandpoint Devil appears only on moonless nights when mists
+gather around the coast. Most encounters end with missing livestock or children,
+with little left behind other than oddly placed hoofprints that reek of brimstone.
+SANDPOINT DEVIL
+CREATURE 8
+UNIQUE
+NE
+LARGE
+BEAST
+FIEND
+Perception +16; greater darkvision, scent (imprecise) 30 feet
+Languages Abyssal, Varisian
+Skills Acrobatics +16, Athletics +18, Intimidation +18, Stealth +18, Survival +16
+Str +6, Dex +4, Con +5, Int +0, Wis +4, Cha +3
+AC 27; Fort +19, Ref +14, Will +16; +1 status to all saves vs. magic
+HP 165; Immunities ﬁre, fear; Weaknesses cold iron 5
+Attack of Opportunity Ǻȓ Hoof only.
+Speed 35 feet, ﬂy 50 feet
+Melee Ȱɵ jaws +20, Damage 2d10+12 piercing
+Melee Ȱɵ hoof +20 (agile, versatile S), Damage
+2d6+12 bludgeoning
+Occult Innate Spells DC 23, attack +15; 4th
+dimension door, phantasmal killer; 3rd
+stinking cloud; 2nd obscuring mist; 1st
+gust of wind (at will); Cantrips (4th)
+produce ﬂame
+Accursed Breath ʚʖ (curse, evocation, ﬁre,
+occult) The Sandpoint Devil breathes a
+30-foot cone of ﬂame that deals 6d10
+ﬁre damage. Each creature in the area
+must attempt a DC 26 Reﬂex save. The
+Sandpoint Devil can’t use Accursed
+Breath for 1d4 rounds.
+Critical Success The creature is unaﬀected.
+Success The creature takes half damage.
+Failure The creature takes full damage and
+is sickened 2 by the agonizing pain of its
+burns.
+Critical Failure The creature takes full damage
+and is cursed. The victim’s ﬂesh appears
+charred and burned, and the pain of being
+burned alive never fully vanishes. The cursed
+creature takes a –2 status penalty to all checks
+from the constant pain. Healing doesn’t alter the
+appearance of the burns or lessen the penalty, but
+removing the curse does.
+Devil’s Howl ʚʖ (auditory, emotion, enchantment, fear, mental,
+occult) The Sandpoint Devil unleashes a bloodcurdling howl that
+can be heard for miles. Each creature within a 100-foot emanation
+must succeed at a DC 26 Will save or become frightened 2
+(frightened 3 and ﬂeeing as long as it remains frightened on a
+critical failure). Creatures that attempt this Will save are
+then immune to Devil’s Howl for 24 hours.
+Trample ̂ˬ Medium or smaller, hoof, DC 23
+
+================================================================================
+PAGE 232
+================================================================================
+
+THE WITCH-TREE
+The ﬁrst sard was created when
+the Eldest known as the Green
+Mother beckoned the sky’s rage to
+strike the eldest oak in her domain,
+transforming the tree into a living
+siege engine. This original sard still
+stands sentinel in the Hanging Bower
+of the First World.
+Sard
+An immense, gnarled, tree awoken with raw, primal power by one of the fey Eldest of
+the First World, this monster—one of the legendary Tane—skitters on huge, spidery
+roots and thrashes its branches as ﬁery lightning courses within its blackened bark,
+a living manifestation of the violent clash between ancient forest and stormy sky.
+
+================================================================================
+# SARD
+================================================================================
+
+
+THE WITCH-TREE
+The ﬁrst sard was created when
+the Eldest known as the Green
+Mother beckoned the sky’s rage to
+strike the eldest oak in her domain,
+transforming the tree into a living
+siege engine. This original sard still
+stands sentinel in the Hanging Bower
+of the First World.
+Sard
+An immense, gnarled, tree awoken with raw, primal power by one of the fey Eldest of
+the First World, this monster—one of the legendary Tane—skitters on huge, spidery
+roots and thrashes its branches as ﬁery lightning courses within its blackened bark,
+a living manifestation of the violent clash between ancient forest and stormy sky.
+SARD
+CREATURE 19
+RARE
+CE
+GARGANTUAN
+ELECTRICITY
+PLANT
+TANE
+Perception +35, low-light vision, tremorsense 120 feet
+Languages Aklo, Arboreal, Common, Sylvan
+Skills Acrobatics +33, Athletics +37, Nature +31
+Str +10, Dex +6, Con +6, Int +2, Wis
++6, Cha +6
+Planar Acclimation The sard treats the
+plane it is located on as its home plane.
+AC 43; Fort +35, Ref +31, Will +33; +1 status to
+all saves vs. magic
+HP 400, fast healing 15; Immunities
+electricity; Weaknesses cold iron 15;
+Resistances ﬁre 15, physical 15
+(except slashing)
+Splintering Death (electricity, evocation,
+primal) When the sard dies, its body
+explodes in a 30-foot emanation.
+All creatures in the area take 10d6
+electricity damage and 10d6 piercing
+damage (DC 43 basic Reﬂex save). Any creature
+that takes piercing damage is also exposed to sard
+venom.
+Speed 40 feet, climb 25 feet
+Melee Ȱɵ trunk +37 (fatal d12, reach 20 feet),
+Damage 4d6+18 bludgeoning plus 3d6
+persistent electricity
+Melee Ȱɵ branch +37 (agile, reach 20 feet),
+Damage 4d8+18 piercing plus sard venom
+Melee Ȱɵ root +37 (reach 10 feet), Damage
+4d6+18 bludgeoning plus 1d6 electricity
+Ranged Ȱɵ thorn +35 (deadly d10, primal,
+propulsive, range 180 feet), Damage 4d4+16 piercing plus sard venom
+Primal Innate Spells DC 41; 9th storm of vengeance; 8th punishing
+winds, tree stride; 7th chain lightning (×3)
+Rituals DC 39; control weather (doesn’t require secondary casters)
+Lightning-Struck Curse Ǻȓ (curse, necromancy, primal) Trigger The sard is
+about to damage a creature that has electricity resistance; Eﬀect An instant before the
+target takes the electricity damage from the triggering event, the sard’s electrical sparks
+glow red. The target must succeed at a DC 41 Will save or lose any electricity
+resistance it has until this curse is lifted.
+Sard Venom (poison, primal, virulent) Saving Throw DC 41 Fortitude;
+Maximum Duration 10 rounds; Stage 1 2d6 electricity damage,
+2d6 poison damage, and clumsy 2 (1 round); Stage 2 3d6
+electricity damage, 3d6 poison damage, clumsy 2, and slowed 1
+(1 round); Stage 3 4d6 electricity damage, 4d6 poison damage,
+clumsy 2, and slowed 2 (1 round)
+Thorn Volley ʚʖ The sard makes up to four thorn Strikes, each
+against a diﬀerent target. The sard’s multiple attack penalty
+doesn’t increase until after all the attacks have been made.
+Trample ̂ˬ Huge or smaller, root, DC 39
+
+================================================================================
+PAGE 233
+================================================================================
+
+Bestiary 2
+ODDS AND ENDS
+Scarecrows hold a certain liminal space
+that is inhabitable by spirit creatures.
+Ghosts in particular can use their
+malevolent possession on a scarecrow
+as if it were a living creature, using
+them as vehicles to escape their sitebound nature and so further spread
+their murder and mayhem.
+Scarecrow
+A ramshackle collection of materials in a human shape, the scarecrow construct
+is indistinguishable from a normal scarecrow until it slowly creaks to life. As it
+animates, its carved pumpkin or sackcloth face bursts into eldritch ﬂame, sending
+fear creeping into the air around it. Each scarecrow is handcrafted and unique in
+its appearance, though most are 5 to 6 feet tall and constructed of a combination
+of wood, cloth, rope, straw, sawdust, discarded husks and cobs, and similar
+materials, all dressed in ragged pastoral garments. This rudimentary construction
+makes a scarecrow somewhat fragile, prone to snapping limbs in the crush of
+battle. Yet its structure is adaptable, allowing it to reshape another piece of itself
+into a clawed limb or grip a severed portion of itself to swat at its foes.
+When a scarecrow is created, it must be anointed with a drop of its creator’s
+blood into each of its eyes. This blood soaks into the material and siphons a tiny
+sliver of the creator’s soul away—not enough to harm the creator, but more than
+enough to imbue the scarecrow with an instinctive intellect that allows it to
+follow commands as eagerly as a well-trained (if ill-tempered) guard dog. When
+a scarecrow is destroyed, the blood leaks back out from its eyes, but the portion
+of the creator’s soul never returns.
+
+================================================================================
+# SCARECROW
+================================================================================
+
+
+Bestiary 2
+ODDS AND ENDS
+Scarecrows hold a certain liminal space
+that is inhabitable by spirit creatures.
+Ghosts in particular can use their
+malevolent possession on a scarecrow
+as if it were a living creature, using
+them as vehicles to escape their sitebound nature and so further spread
+their murder and mayhem.
+Scarecrow
+A ramshackle collection of materials in a human shape, the scarecrow construct
+is indistinguishable from a normal scarecrow until it slowly creaks to life. As it
+animates, its carved pumpkin or sackcloth face bursts into eldritch ﬂame, sending
+fear creeping into the air around it. Each scarecrow is handcrafted and unique in
+its appearance, though most are 5 to 6 feet tall and constructed of a combination
+of wood, cloth, rope, straw, sawdust, discarded husks and cobs, and similar
+materials, all dressed in ragged pastoral garments. This rudimentary construction
+makes a scarecrow somewhat fragile, prone to snapping limbs in the crush of
+battle. Yet its structure is adaptable, allowing it to reshape another piece of itself
+into a clawed limb or grip a severed portion of itself to swat at its foes.
+When a scarecrow is created, it must be anointed with a drop of its creator’s
+blood into each of its eyes. This blood soaks into the material and siphons a tiny
+sliver of the creator’s soul away—not enough to harm the creator, but more than
+enough to imbue the scarecrow with an instinctive intellect that allows it to
+follow commands as eagerly as a well-trained (if ill-tempered) guard dog. When
+a scarecrow is destroyed, the blood leaks back out from its eyes, but the portion
+of the creator’s soul never returns.
+SCARECROW
+CREATURE 4
+N
+MEDIUM
+CONSTRUCT
+Perception +11; darkvision
+Skills Athletics +12
+Str +5, Dex +2, Con +3, Int –4, Wis +3, Cha –2
+AC 19; Fort +13, Ref +8, Will +11
+HP 60; Immunities bleed, death eﬀects, disease,
+doomed, drained, fatigued, healing, mental,
+necromancy, nonlethal attacks, paralyzed, poison,
+sickened, unconscious; Weaknesses ﬁre 5; Resistances
+physical 5 (except slashing)
+Scarecrow’s Leer (aura, emotion, fear, mental, occult,
+visual) 40 feet. The scarecrow’s eyes ﬂicker with an
+unnerving glow. A creature can’t reduce its frightened
+condition below 1 as long as it is in the aura’s emanation.
+When a creature enters or starts its turn in the aura, it
+must attempt a DC 18 Will save. Birds and other avian creatures
+take a –2 circumstance penalty to this save.
+Critical Success The creature is unaﬀected and is then temporarily
+immune for 24 hours.
+Success The creature is frightened 1.
+Failure The creature is frightened 2 and is fascinated by the
+scarecrow until the end of its next turn.
+Critical Failure As failure, but frightened 3.
+Speed 20 feet
+Melee Ȱɵ claw +13 (versatile S), Damage 2d6+7 bludgeoning plus
+clawing fear
+Baleful Glow Ȳ˓ (concentrate, mental, occult) The scarecrow’s head
+bursts into ghostly, heatless ﬂame that sheds bright light in a 20-foot
+emanation (and dim light to the next 20 feet). If the scarecrow uses this
+ability on the ﬁrst round of combat, any creature that has not acted yet is
+startled and becomes ﬂat-footed against the scarecrow for 1 round. It can
+suppress the light by using this action again.
+Clawing Fear The scarecrow’s strikes deal an additional 1d6 mental damage to frightened
+creatures.
+Mundane Appearance Ȱɵ (concentrate) Until it acts, the scarecrow resembles an ordinary
+scarecrow. It has an automatic result of 32 on Deception checks and DCs to pass as
+an ordinary scarecrow.
+
+================================================================================
+PAGE 234
+================================================================================
+
+SCEADUINAR CRYSTALS
+Sceaduinar congregate on the great
+crystalline knots of negative energy
+that accrete in the Negative Energy
+Plane. Sceaduinar prod treelike crystal
+growths to produce dangerous items
+akin to spheres of annihilation or
+great structures that echo with eerie
+chimes. Sceaduinar also stimulate
+these aggregations of crystals to yield
+other sceaduinar and similar hateful
+creatures of unlife.
+Sceaduinar
+Strange creatures born from jagged crystals in the heart of the Negative Energy
+Plane, sceaduinar are fueled by its negative energy and driven to extinguish all
+life. Resembling crystalline gargoyles with serrated limbs and sharp, bat-like faces,
+sceaduinar stand about 7 feet tall and weigh around 100 pounds.
+These malevolent beings sometimes gather in great packs of their own kind.
+Despite their intelligence, they act like cunning, feral beasts for the most part,
+though they occasionally build tools to aid them in extinguishing life. Sceaduinar
+sail through the great voids of their home plane, seeking to destroy any sparks of
+life that ﬁnd their way into that deadly realm—even the twisted sparks found in
+undead creatures.
+When they discover portals to other planes, sceaduinar swarm through in
+great numbers, slaughtering all they come across. While dwelling outside the
+Negative Energy plane is uncomfortable for sceaduinar, they can exist for
+extended periods of time apart from their home. Of course, the feeling of a
+plane where negative energy isn’t the rule doesn’t improve these creatures’
+attitude, and as a result, they tend to be particularly cruel and violent
+when encountered in such realms.
+
+================================================================================
+# SCEADUINAR
+================================================================================
+
+
+SCEADUINAR CRYSTALS
+Sceaduinar congregate on the great
+crystalline knots of negative energy
+that accrete in the Negative Energy
+Plane. Sceaduinar prod treelike crystal
+growths to produce dangerous items
+akin to spheres of annihilation or
+great structures that echo with eerie
+chimes. Sceaduinar also stimulate
+these aggregations of crystals to yield
+other sceaduinar and similar hateful
+creatures of unlife.
+Sceaduinar
+Strange creatures born from jagged crystals in the heart of the Negative Energy
+Plane, sceaduinar are fueled by its negative energy and driven to extinguish all
+life. Resembling crystalline gargoyles with serrated limbs and sharp, bat-like faces,
+sceaduinar stand about 7 feet tall and weigh around 100 pounds.
+These malevolent beings sometimes gather in great packs of their own kind.
+Despite their intelligence, they act like cunning, feral beasts for the most part,
+though they occasionally build tools to aid them in extinguishing life. Sceaduinar
+sail through the great voids of their home plane, seeking to destroy any sparks of
+life that ﬁnd their way into that deadly realm—even the twisted sparks found in
+undead creatures.
+When they discover portals to other planes, sceaduinar swarm through in
+great numbers, slaughtering all they come across. While dwelling outside the
+Negative Energy plane is uncomfortable for sceaduinar, they can exist for
+extended periods of time apart from their home. Of course, the feeling of a
+plane where negative energy isn’t the rule doesn’t improve these creatures’
+attitude, and as a result, they tend to be particularly cruel and violent
+when encountered in such realms.
+SCEADUINAR
+CREATURE 7
+RARE
+NE
+MEDIUM
+ABERRATION
+NEGATIVE
+Perception +15; greater darkvision, lifesense 120 feet
+Languages Aklo
+Skills Acrobatics +17, Athletics +13, Intimidation +13,
+Occultism +15, Stealth +17
+Str +2, Dex +6, Con +4, Int +2, Wis +4, Cha +0
+AC 25; Fort +16, Ref +18, Will +14; +1 status to all saves
+vs. magic
+HP 100, negative healing; Immunities death eﬀects,
+drained; Weaknesses good 10, Resistances physical
+5 (except adamantine)
+Void Child Sceaduinars have neither souls nor the
+ability to create. A sceaduinar is immune to eﬀects
+that target a soul (such as bind soul or resurrect) or
+that require knowledge of a creature’s identity (such
+as scrying), and critically fails Crafting checks.
+Wing Flash Ǻȓ Trigger A creature attempts a melee attack against a sceaduinar or an
+Acrobatics check to Tumble Through the sceaduinar’s space; Eﬀect The sceaduinar
+ﬂexes its wings to emit a brief pulse of negative energy that deals 4d6 negative
+damage to the triggering creature (DC 22 basic Reﬂex save).
+Speed 30 feet, ﬂy 60 feet
+Melee Ȱɵ jaws +18 (agile, ﬁnesse, magical), Damage 2d6+4 piercing plus 2d6
+negative and drain life
+Melee Ȱɵ wing +18 (agile, ﬁnesse, magical, reach 10 feet), Damage
+2d6+4 slashing plus 2d6 negative
+Occult Innate Spells DC 25; 4th darkness, dimension
+door, dispel magic, harm; 3rd grim tendrils, harm
+(×3); 2nd silence; Cantrips (4th) chill touch
+Drain Life (necromancy, occult) When the sceaduinar damages a living
+creature with its jaws Strike, the sceaduinar gains 5 temporary Hit Points and the
+creature must succeed at a DC 25 Fortitude save or become drained 1. Further damage
+dealt to the creature by the sceaduinar increases the drained value by 1 on a
+failed save, to a maximum of drained 4.
+Entropic Touch Negative damage dealt by a sceaduinar damages undead
+and creatures with negative healing as if it were positive damage.
+The sceaduinar’s melee Strikes have the beneﬁts of the ghost
+touch property rune on attacks against incorporeal undead.
+
+================================================================================
+PAGE 235
+================================================================================
+
+Bestiary 2
+THE DESERT RIDER
+Those rescued from death in the
+burning sands often recount the
+same dying vision: a strange,
+silver‑eyed woman whose scarlet
+silk tents stand on the back of a
+colossal black scorpion, riding out
+of a shattered city and leading an
+army of the dead across a sea of
+glass toward the world of the living.
+Millennium‑old paintings on the
+walls of rediscovered tombs depict
+a similar desert rider. The identity of
+this red‑robed woman is unknown.
+Scorpion
+Scorpions are frightening enough at their normal diminutive size, but when they
+grow to reach or surpass the size of a human, they become absolutely terrifying.
+CAVE SCORPION
+Cave scorpions prefer to reside in underground lairs. Most have lost nearly all of
+their pigmentation, making them appear ghostly when they lurk at the edge of
+the light. While they prefer to eat large insects, cave scorpions can and will attack
+humanoids. Some Darklands societies have developed techniques to herd or lure
+scorpions into pest-infested tunnels and warrens at the edge of their settlements,
+where the scorpions thrive in a dual role of exterminators and guardians.
+
+================================================================================
+# SCYTHE TREE
+================================================================================
+
+
+SCYTHEWOOD
+Wood harvested from a dead scythe
+tree is knotted and twisted, and
+often contains pockets of teeth and
+bones from long-digested meals
+embedded in the growth rings. While
+diﬃcult to obtain and challenging
+to work with, this wood is sought
+out by necromancers, as it is a vital
+component in creating particularly
+potent necromantic wands and
+staves. A single scythe tree typically
+yields about 150 gp worth of viable
+scythewood for such endeavors.
+Scythe Tree
+Malevolent, vicious, and cruel, scythe trees pose as normal trees near deep forest
+paths, where they wait to slaughter passersby. Instead of drawing sustenance
+from light and soil, scythe trees gorge themselves on the ﬂesh, blood, and bone of
+sapient creatures. Nothing is more delectable to scythe trees than a kind-hearted
+gnome or an altruistic dryad who believes that a scythe tree can be redeemed. The
+screams and whimpers of these victims are music to these cruel plants and add an
+extra dimension of ﬂavor to the meal.
+Scythe trees are solitary creatures by nature, and their size and power mean
+that they don’t need to compete for food with other carnivorous plants. Once
+food sources dwindle in an area, scythe trees move on to another location. When
+a scythe tree dwells in a location for many months or years, it leaves traces of its
+bark and roots in the soil. Over time, these blood-nourished fragments might grow
+into a new scythe tree, but the progenitor will most likely have already moved on
+to new hunting grounds long before the new scythe tree reaches maturity.
+Scythe trees appear as dead or dying deciduous trees with long, twisted
+branches that end in scythe-like blades. These carnivorous plants have darkbrown bark that is nearly black near the bottom of the trunk and rusty brown
+leaves that remain attached year-round. Scythe trees’ disturbing mouths
+remain closed when not eating, appearing as a jagged gash on
+the trunk. When scythe trees deign to speak, their voices
+are rough, deep, and mocking, particularly when
+discussing arboreals, whom scythe trees universally
+ﬁnd to be insufferable and worthy of little more than
+being hacked to pieces.
+SCYTHE TREE
+CREATURE 6
+CE
+HUGE
+PLANT
+Perception +14; lifesense 30 feet, low-light
+vision
+Languages Aklo, Arboreal, Sylvan
+Skills Athletics +15, Stealth +12 (+14 in
+forests)
+Str +7, Dex +2, Con +4, Int +0, Wis +2,
+Cha +0
+AC 24; Fort +17, Ref +8, Will +9
+HP 105; Resistances bludgeoning 5,
+piercing 5
+Axe Vulnerability A scythe tree takes
+5 additional damage from axes.
+Ripping Disarm Ǻȓ Trigger A creature rolls a critical failure on a melee
+weapon Strike against the scythe tree; Eﬀect The scythe tree attempts
+to Disarm the creature.
+Speed 15 feet
+Melee Ȱɵ scythe branch +18 (backswing, deadly d10, reach 15 feet), Damage
+2d10+9 slashing
+Dead Tree Ȱɵ (concentrate) Until the scythe tree acts, it appears to be a
+dead tree. It has an automatic result of 35 on Deception
+checks and DCs to pass as a dead tree.
+Woodland Ambush Ȱɵ Requirements The scythe
+tree is using Dead Tree in forested terrain, and
+a creature that hasn’t detected it is within 30
+feet; Eﬀect The scythe tree Strides up to 25 feet
+toward the triggering creature. Once the creature
+is in reach, the scythe tree makes a scythe branch
+Strike against it. The creature is ﬂat-footed against
+this Strike.
+
+================================================================================
+PAGE 237
+================================================================================
+
+Bestiary 2
+THE HEADLESS KING
+Ydersius was defeated by an Azlanti
+heroine named Savith in the era
+before Earthfall, and now the so-called
+Headless King’s body prowls aimlessly
+in the Darklands. That the decapitated
+god’s clerics still gain power from
+worship points to Ydersius’s tenacity
+and continued existence, after a
+fashion. Those who seek to recover
+his skull and return it to his body
+hope that doing so will restore both
+him and the sekmin civilization to
+their full power.
+Serpentfolk
+Before their ancient clash with humanity devastated their civilization, serpentfolk
+were masters of a sprawling underground empire. Few serpentfolk survive
+today; their power is shattered, their god Ydersius decapitated (although not
+quite slain). The cunning, intelligence, and magical abilities of serpentfolk have
+diminished from their ancient heights, and most are born without these boons.
+Those serpentfolk who retain their ancestry’s legacy of intelligence and magic
+are known as zyss, and they look down upon their more numerous kindred with
+a mix of disdain and shame. They see these offshoots as a curse on their kind,
+resulting from their god’s decapitation and the pandemonium during the fall
+of their underground empire, and have dubbed them aapoph, meaning “chaos
+made ﬂesh.”
+Today, the central realm of the Darklands retains the old name of the serpentfolk
+empire that once dominated this region—Sekamina. This name is also the source
+of the serpentfolk’s Aklo title, sekmin, which they are often called in ancient texts.
+Sekamina itself retains very little of the serpentfolk’s legacy, its mantle of rule
+having passed on to others like drow, ghouls, gugs, and deep gnomes. Yet in remote
+reaches of this dangerous realm, the ruins of serpentfolk cities still stand. Within,
+a great many serpentfolk sleep in torpor in secluded vaults, with only a few
+cells awake to enact their schemes. In addition, a small number of serpentfolk
+settlements dot Golarion’s surface, most of them in humid, remote jungles,
+far-ﬂung islands, or caverns close to the surface. It’s rare for such a settlement
+to number more than a few dozen serpentfolk. They rely primarily on slaves
+to build their power bases, to defend them, and to perform essentially all the
+practical functions of their society. This includes providing food, crafting goods,
+and tending to the serpentfolk’s every need.
+Zyss serpentfolk are megalomaniacal geniuses with dreams of returning
+to their place of dominance, though modern serpentfolk have few means of
+accomplishing this goal. Many of their plans hinge on resurrecting Ydersius,
+their decapitated god. His headless body still thrashes about, mindless, in the
+Darklands, waiting to be reunited with his lost skull. Serpentfolk numbers are
+so small that reclaiming their dominance seems a distant dream, especially
+since their reproduction is slow. Though a parent can birth a dozen young
+at once, the gestation period lasts up to a decade, and the likelihood that
+even one will be zyss is low. There’s no telling whether a child will be zyss
+or aapoph, regardless of parentage. A coveted zyss child is just as likely
+to arise from aapoph parents as from two zyss, and every serpentfolk
+colony has someone in charge of sorting the young, identifying the
+earliest signs of intelligence in them.
+Though the number of zyss is small in serpentfolk colonies,
+bringing in more zyss isn’t necessarily desirable. A serpentfolk
+conclave with just a few zyss is functional, but one with a large
+number becomes fractious. Cults and societies form, all pursuing their own
+passions and politics, with scheming and backstabbing running rampant.
+A powerful priest may be able to bring other zyss to heel, but many zyss
+question why a priest should be in charge if their god is dead. Zyss thrive
+on selﬁsh desires for hedonistic pleasure and adulation. They feel no love
+for others, even their offspring. Thriving on decadence, they crave receiving
+expensive gifts, gorging themselves on massive meals, and pursing arts such
+as music, poetry, or sculpture. Even more academic hobbies, like the study
+of magic or warfare, take an artistic bent, like carefully designing colorful
+illusions or memorizing epic poems about renowned wars. Each zyss
+believes themself to have more reﬁned tastes than their peers.
+YDERSIUS
+The serpentfolk god is not dead, but in his decapitated
+state, he might as well be. Reduced to a feral, animalistic
+
+================================================================================
+PAGE 238
+================================================================================
+
+SERPENTFOLK MAGIC
+Some serpentfolk might have
+entirely diﬀerent innate spells.
+These alternative spells are
+typically illusions, enchantments,
+or divinations like dream message,
+enthrall, glibness, invisibility,
+mindlink, mind probe, mind reading,
+mislead, phantom pain, or zealous
+conviction. Aapoph serpentfolk lack
+innate spells.
+existence, Ydersius is even less aware of his legacy than the lowest of the aapoph.
+Ydersius’s symbol is a snake’s skull surrounded by a skeletal ouroboros.
+YDERSIUS (CE)
+Edicts seek to return Ydersius to life, fulﬁll your passions, conquer your foes with no
+mercy, achieve glory for serpentkind
+Anathema put the needs of others above those of serpentfolk, aid the spawn of Azlant
+Follower Alignments LE, NE, CE
+Divine Font harm
+Divine Skill Deception
+Favored Weapon dagger
+Domains ambition, indulgence, might, zeal
+Cleric Spells 1st: magic fang, 5th: cloudkill, 6th: purple worm sting
+ZYSS SERPENTFOLK
+Even the least among zyss serpentfolk consider themselves greater than any
+mammal. Their magical abilities, most notably their telepathy, are all the
+reason they need to hold this view. And it’s true enough that the instinctual
+skill and magic of any zyss is enough to best the average human.
+
+================================================================================
+# SHOCKER LIZARD
+================================================================================
+
+
+Bestiary 2
+SHOCKER LIZARD TRAPS
+Kobolds are particularly fond of using
+shocker lizards in their trap designs,
+although such traps rarely keep the
+shocker lizards’ safety and comfort in
+mind, forcing these cruel but creative
+kobolds to constantly replace the
+permanently restrained lizards they’ve
+set up to defend their lairs.
+Shocker Lizard
+These brightly colored reptiles share the rough size and pack mentality of guard
+dogs, roaming in small groups. Shocker lizards have specialized glands under their
+scales that accumulate static electricity, and they can unleash blasts of lightning
+strong enough to harm signiﬁcantly larger foes. Though they’re meek and docile
+when encountered alone, shocker lizards are signiﬁcantly more aggressive in
+packs, when they can amplify each other’s electrical attacks.
+Shocker lizards are notoriously difﬁcult to domesticate because they’re
+dangerously hostile as part of a pack, but will also swiftly wither and die if kept
+alone in captivity without constant attention. A shocker lizard is 3 feet long and
+weighs 25 pounds.
+SHOCKER LIZARD
+CREATURE 2
+N
+SMALL
+ANIMAL
+Perception +7; low-light vision, greater electrolocation 20 feet
+Skills Acrobatics +8, Athletics +5, Stealth +8
+Str +1, Dex +4, Con +3, Int –4, Wis +3, Cha +0
+Greater Electrolocation A shocker lizard can sense minute electrical charges in living
+creatures, which it can use as a precise sense at a range of 20 feet. This distance
+increases to 100 feet against any creature that has used an electricity eﬀect within
+the last minute.
+AC 18; Fort +7, Ref +10, Will +7
+HP 32; Immunities electricity
+Speed 35 feet, climb 15 feet, swim 15 feet
+Melee Ȱɵ jaws +10 (agile, ﬁnesse), Damage 1d8+3 piercing
+Ranged Ȱɵ shock +10 (nonlethal, range increment 5 feet), Damage 2d6 electricity
+Amplify Voltage Ǻȓ Trigger A shocker lizard within 20 feet
+makes a shock Strike or uses Discharge; Eﬀect The
+shocker lizard lends some of its electrical power to the
+nearby lizard. This either causes the other lizard’s
+shock Strike to lose the nonlethal trait or increases
+the DC of its Discharge to 20.
+Discharge ʚʖ (electricity) The shocker
+lizard releases a blast of lightning
+from its body. Creatures within
+a 10-foot emanation take 3d6
+electricity damage (DC 18 basic
+Reﬂex save). The shocker lizard can’t
+use
+Discharge
+for
+1d4
+rounds.
+Shocking Burst ̂ˬ (electricity,
+evocation, primal) The shocker
+lizard hunkers down and begins
+to spark with electricity, which it
+releases in a 10-foot emanation that
+deals 3d8 electricity damage (DC 18 basic
+Reﬂex save). The shocker lizard can’t use
+Shocking Burst again for 1 minute.
+Up to four shocker lizards can combine
+their Shocking Bursts. In this case, the lizards
+can delay the release of their electricity until
+any other shocker lizard within 30 feet completes
+its Shocking Burst. The combined Shocking Bursts create
+an emanation with the combined area from all participating
+shocker lizards. For each additional shocker lizard that joins
+the burst, the damage increases by 3d8 and the save DC increases by 1
+(to a maximum of four lizards dealing 12d8 damage with a DC 21 save).
+
+================================================================================
+PAGE 242
+================================================================================
+
+SKAVELING INTELLECT
+As a curious side eﬀect of its
+creation, a skaveling absorbs many
+of the memories and thoughts of the
+ghoul brains it was fed. While it was
+merely an oversized animal in life,
+in undeath these memories coalesce
+into a strange form of intelligence
+that aﬀords the skaveling the ability
+to speak and reason, all the better to
+serve its urdefhan masters.
+Skaveling
+Hideous necromantic rituals give rise to skavelings, or ghoul bats, monstrosities that
+are not true ghouls but instead are speciﬁcally crafted undead creatures. Their creators
+are the bloodsucking urdefhans of the Darklands, who create skavelings from giant
+bats specially raised on diets of toxic fungus and the ﬂesh of ghouls—especially
+brains harvested from these undead. Upon reaching maturity, these giant bats are
+ritually slain via the use of cytillesh oil (Core Rulebook 551). While this poison
+simply rots away the ﬂesh of most creatures, one of these specially prepared bats
+will immediately rise from death as a skaveling after succumbing to its effects.
+Despite its tattered wings and sagging skin, a skaveling is more than capable of
+ﬂight, even when carrying a creature mounted on its back—urdefhans often use
+skavelings as mounts in this way. Their intelligence is more advanced than that
+of the typical giant bat, and in combat they function more as allies than as mere
+mounts, capable of making their own tactical decisions. Yet even though they can
+reason and think, skavelings remain loyal to the urdefhans who created them,
+and they never take actions in a ﬁght that would knowingly put their masters in
+harm’s way.
+
+================================================================================
+# SKAVELING
+================================================================================
+
+
+SKAVELING INTELLECT
+As a curious side eﬀect of its
+creation, a skaveling absorbs many
+of the memories and thoughts of the
+ghoul brains it was fed. While it was
+merely an oversized animal in life,
+in undeath these memories coalesce
+into a strange form of intelligence
+that aﬀords the skaveling the ability
+to speak and reason, all the better to
+serve its urdefhan masters.
+Skaveling
+Hideous necromantic rituals give rise to skavelings, or ghoul bats, monstrosities that
+are not true ghouls but instead are speciﬁcally crafted undead creatures. Their creators
+are the bloodsucking urdefhans of the Darklands, who create skavelings from giant
+bats specially raised on diets of toxic fungus and the ﬂesh of ghouls—especially
+brains harvested from these undead. Upon reaching maturity, these giant bats are
+ritually slain via the use of cytillesh oil (Core Rulebook 551). While this poison
+simply rots away the ﬂesh of most creatures, one of these specially prepared bats
+will immediately rise from death as a skaveling after succumbing to its effects.
+Despite its tattered wings and sagging skin, a skaveling is more than capable of
+ﬂight, even when carrying a creature mounted on its back—urdefhans often use
+skavelings as mounts in this way. Their intelligence is more advanced than that
+of the typical giant bat, and in combat they function more as allies than as mere
+mounts, capable of making their own tactical decisions. Yet even though they can
+reason and think, skavelings remain loyal to the urdefhans who created them,
+and they never take actions in a ﬁght that would knowingly put their masters in
+harm’s way.
+SKAVELING
+CREATURE 5
+CE
+LARGE
+UNDEAD
+Perception +15; darkvision, echolocation 40 feet
+Skills Acrobatics +13, Athletics +13, Intimidation +11
+Str +6, Dex +4, Con +2, Int +1, Wis +6, Cha +2
+Echolocation A skaveling can use its hearing as a precise sense at the listed range.
+AC 22; Fort +11, Ref +13, Will +15
+HP 80
+Speed 15 feet, ﬂy 30 feet
+Melee fangs +15; Damage 2d8+8 plus ghoul fever and paralysis
+Melee wing +15 (agile); Damage 2d4+8 plus paralysis
+Bone-Chilling Screech ʚʖ (auditory, emotion, fear,
+mental, necromancy, occult) The skaveling
+unleashes a horrifying screech that chills the
+very bones of those close enough to feel it.
+The screech can be heard for miles, but each
+creature in a 20-foot emanation must also
+attempt a DC 22 Will save. The skaveling
+can’t use Bone-Chilling Screech again for
+1d4 rounds.
+Critical Success The creature is unaﬀected
+and is temporarily immune to BoneChilling Screech for 24 hours.
+Success The creature is frightened 1.
+Failure The creature is frightened 2.
+Critical Failure
+The
+creature
+is
+frightened 2 and stunned 1 by fear.
+Ghoul Fever (disease) Saving Throw DC 22 Fortitude; Stage 1
+carrier with no ill eﬀect (1 day); Stage 2 2d6 negative
+damage and regains half as many Hit Points from all healing
+(1 day); Stage 3 as stage 2 (1 day); Stage 4 2d6 negative damage and
+gains no beneﬁt from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6
+dead, and rises as a ghoul the next midnight
+Paralysis (incapacitation, occult, necromancy) Any creature hit by the skaveling’s Strikes
+must attempt a DC 22 Fortitude save.
+Critical Success The creature is unaﬀected.
+Success The creature is slowed 1.
+Failure The creature is paralyzed. It can attempt a new save at the end of each of its
+turns, and the DC cumulatively decreases by 1 on each save.
+
+================================================================================
+PAGE 243
+================================================================================
+
+Bestiary 2
+SKRIK NETTLE HARVESTING
+Skrik nettle venom is magical in
+nature and deteriorates swiftly. A
+character with alchemist’s tools can
+harvest a single dose of skrik nettle
+venom from a skrik nettle that has
+been dead no longer than an hour
+with a successful DC 24 Crafting
+check, which transforms the ﬂuid
+into a standard potion of ﬂying.
+Skrik Nettle
+The expansive skies of the First World are home to skrik nettles—delicate, bizarrelooking creatures that resemble large jellyﬁshes. A fringe of brightly colored
+feathers circles their bodies, and long tendrils trail from their center, each ending in
+a snapping beak. Known for their eerie, chirping melodies, skrik nettles soar above
+the First World in ﬂocks of a dozen or more, diligently scavenging for food in the
+fey realm’s cutthroat ecosystem. When hunting or provoked, skrik nettles attack
+their foes by injecting them with a magical poison that causes the victim to ﬂoat
+helplessly up into the sky. Skrik nettles continuously inject this poison into their
+helpless prey until it dies or is so high up that the skrik nettle needs only wait for the
+poison to end, its meal crashing helplessly to the ground below.
+Skrik nettles that ﬁnd their way to the Material Plane (or any plane other than the
+First World, for that matter) tend to be much more aggressive, for the planar energies
+that they ﬁnd comforting and soothing on the First World are conspicuously absent.
+The ﬁrst few minutes after a skrik nettle arrives on any plane but the First World tend
+to be ﬁlled with violence and fear, as the panicking creature lashes out at any nearby
+creatures (including other skrik nettles) in the mistaken notion that these others are
+somehow responsible for the discomforting change. After 10 minutes or so, assuming
+the skrik nettle survives its bout of violence, the creature calms down somewhat and
+does its best to acclimate to its new home. Yet even skrik nettles who ﬁnd themselves
+marooned beyond the First World for years never lose their longing for home, and
+they instinctively seek out portals to this plane for the rest of their lives.
+
+================================================================================
+# SKRIK NETTLE
+================================================================================
+
+
+Bestiary 2
+SKRIK NETTLE HARVESTING
+Skrik nettle venom is magical in
+nature and deteriorates swiftly. A
+character with alchemist’s tools can
+harvest a single dose of skrik nettle
+venom from a skrik nettle that has
+been dead no longer than an hour
+with a successful DC 24 Crafting
+check, which transforms the ﬂuid
+into a standard potion of ﬂying.
+Skrik Nettle
+The expansive skies of the First World are home to skrik nettles—delicate, bizarrelooking creatures that resemble large jellyﬁshes. A fringe of brightly colored
+feathers circles their bodies, and long tendrils trail from their center, each ending in
+a snapping beak. Known for their eerie, chirping melodies, skrik nettles soar above
+the First World in ﬂocks of a dozen or more, diligently scavenging for food in the
+fey realm’s cutthroat ecosystem. When hunting or provoked, skrik nettles attack
+their foes by injecting them with a magical poison that causes the victim to ﬂoat
+helplessly up into the sky. Skrik nettles continuously inject this poison into their
+helpless prey until it dies or is so high up that the skrik nettle needs only wait for the
+poison to end, its meal crashing helplessly to the ground below.
+Skrik nettles that ﬁnd their way to the Material Plane (or any plane other than the
+First World, for that matter) tend to be much more aggressive, for the planar energies
+that they ﬁnd comforting and soothing on the First World are conspicuously absent.
+The ﬁrst few minutes after a skrik nettle arrives on any plane but the First World tend
+to be ﬁlled with violence and fear, as the panicking creature lashes out at any nearby
+creatures (including other skrik nettles) in the mistaken notion that these others are
+somehow responsible for the discomforting change. After 10 minutes or so, assuming
+the skrik nettle survives its bout of violence, the creature calms down somewhat and
+does its best to acclimate to its new home. Yet even skrik nettles who ﬁnd themselves
+marooned beyond the First World for years never lose their longing for home, and
+they instinctively seek out portals to this plane for the rest of their lives.
+SKRIK NETTLE
+CREATURE 6
+N
+LARGE
+ABERRATION
+Perception +16; motionsense 30 feet
+Skills Acrobatics +16
+Str +4, Dex +5, Con +2, Int –4, Wis +4, Cha +0
+Motionsense A ﬂying skrik nettle can detect the movement of nearby creatures and
+objects from the tiny gusts of wind created by their movements. This is a precise sense
+at the listed range, but it works only against creatures and objects that moved through
+air in the previous round.
+AC 22; Fort +10, Ref +17, Will +14
+HP 130, fast healing 5; Weaknesses piercing 5, slashing 5
+Spill Venom Ǻȓ Trigger The skrik nettle takes piercing or slashing damage;
+Eﬀect The skrik nettle ejects its venom onto an adjacent creature. That
+creature is exposed to skrik nettle venom.
+Speed 10 feet, ﬂy 25 feet
+Melee Ȱɵ beak +17 (agile, ﬁnesse, reach 10 feet), Damage 2d8+6
+piercing plus skrik nettle venom
+Negate Levitation Ȱɵ (evocation, primal) The skrik nettle
+attempts to counteract (with a modiﬁer of +17) a single
+eﬀect currently levitating a creature it can detect with its
+motionsense.
+Skrik Nettle Venom (evocation, poison, primal) Saving Throw DC
+27 Fortitude; Maximum Duration 6 rounds; Stage 1 clumsy 1 and
+levitate upward 5 feet (1 round); Stage 2 clumsy 2 and levitate
+upward 10 feet (1 round)
+A levitating creature takes a –2 circumstance penalty to
+attack rolls. It can spend an Interact action to stabilize itself
+and negate this penalty for the remainder of its turn. If it’s
+adjacent to a ﬁxed object or stable terrain, it can move across
+the surface by climbing (if the surface is vertical) or crawling
+(if the surface is horizontal, such as a ceiling). A ﬂying
+creature can move normally but still increases its altitude as
+appropriate from the venom. A creature that can’t ﬂy falls as
+soon as it recovers from skrik nettle venom.
+
+================================================================================
+PAGE 244
+================================================================================
+
+SKULK TREASURE
+The greediness of skulks and
+their easy relationship with
+violence means the creatures often
+accumulate a fair amount of valuable
+coin and items. They prefer ﬁne
+weapons above all else and jealously
+protect such ﬁnds. Since clothing
+inhibits their natural camouﬂage,
+skulks either store this treasure in
+a secure location or carry it in such
+a way that their bodies block what
+they are carrying from sight.
+Skulk
+The cowardly and lazy skulks live on the fringes of organized societies and steal
+from others without a second thought. Even murder is merely another necessity,
+and they think nothing of creeping into a house, dispatching the residents, and
+taking what they want.
+Their chameleon-like ability to blend into their surroundings makes skulks
+difﬁcult to detect, so their ever-present populations around the periphery of
+large settlements are nearly impossible to dislodge permanently. They typically
+travel in small groups of no more than 16 individuals, since groups larger
+than that tend to break into violence directed at one other. While skulks see
+themselves as sharing a common history of being cast out and hated, this is not a
+strong enough bond to hold large groups of the creatures together with a shared
+purpose for very long.
+Entrances and exits from cities, especially less-guarded access ways around
+sewers and the like, are skulks’ favorite stomping grounds. These sites allow
+them to closely observe who comes and goes from the city while also affording
+them swift escape options, should the authorities uncover their presence. On rare
+occasions, a well-disciplined skulk can rise to prominence within the local thieves’
+guild and become sought after for difﬁcult jobs. Their repugnant personalities and
+overwhelming selﬁshness, however, usually means they are unable to secure longlasting leadership roles.
+A typical skulk is 6 feet tall with similar body structure to a gangly human.
+Skulks mature quickly and can live up to 50 years, although most meet a violent
+end long before then. The rare skulk who manages to escape their society of
+violence and craven bitterness can be of any alignment, but those skulks who
+remain bound by their traditions always see these self-imposed exiles
+as the worst kind of traitors, and the exiles are often targeted for
+eradication to the exclusion of all other victims. More than one
+band of skulks has accidentally engineered its own doom after
+throwing caution to the wind and exposing its existence to
+the authorities in an ill-planned but violently passionate
+attempt to track down such an exile.
+
+================================================================================
+# SKULK
+================================================================================
+
+
+SKULK TREASURE
+The greediness of skulks and
+their easy relationship with
+violence means the creatures often
+accumulate a fair amount of valuable
+coin and items. They prefer ﬁne
+weapons above all else and jealously
+protect such ﬁnds. Since clothing
+inhibits their natural camouﬂage,
+skulks either store this treasure in
+a secure location or carry it in such
+a way that their bodies block what
+they are carrying from sight.
+Skulk
+The cowardly and lazy skulks live on the fringes of organized societies and steal
+from others without a second thought. Even murder is merely another necessity,
+and they think nothing of creeping into a house, dispatching the residents, and
+taking what they want.
+Their chameleon-like ability to blend into their surroundings makes skulks
+difﬁcult to detect, so their ever-present populations around the periphery of
+large settlements are nearly impossible to dislodge permanently. They typically
+travel in small groups of no more than 16 individuals, since groups larger
+than that tend to break into violence directed at one other. While skulks see
+themselves as sharing a common history of being cast out and hated, this is not a
+strong enough bond to hold large groups of the creatures together with a shared
+purpose for very long.
+Entrances and exits from cities, especially less-guarded access ways around
+sewers and the like, are skulks’ favorite stomping grounds. These sites allow
+them to closely observe who comes and goes from the city while also affording
+them swift escape options, should the authorities uncover their presence. On rare
+occasions, a well-disciplined skulk can rise to prominence within the local thieves’
+guild and become sought after for difﬁcult jobs. Their repugnant personalities and
+overwhelming selﬁshness, however, usually means they are unable to secure longlasting leadership roles.
+A typical skulk is 6 feet tall with similar body structure to a gangly human.
+Skulks mature quickly and can live up to 50 years, although most meet a violent
+end long before then. The rare skulk who manages to escape their society of
+violence and craven bitterness can be of any alignment, but those skulks who
+remain bound by their traditions always see these self-imposed exiles
+as the worst kind of traitors, and the exiles are often targeted for
+eradication to the exclusion of all other victims. More than one
+band of skulks has accidentally engineered its own doom after
+throwing caution to the wind and exposing its existence to
+the authorities in an ill-planned but violently passionate
+attempt to track down such an exile.
+SKULK
+CREATURE 1
+CE
+MEDIUM
+HUMANOID
+SKULK
+Perception +5; low-light vision
+Languages Common
+Skills Acrobatics +6, Deception +6, Society +4, Stealth
++8, Thievery +6
+Str +0, Dex +3, Con +2, Int +1, Wis +2, Cha +1
+Items dagger (2), shortsword
+Camouﬂaged Step The skulk gains the beneﬁt of the
+Cover Tracks action in forests and subterranean settings
+without moving at half Speed.
+Chameleon Skin The skulk’s skin shifts and changes to match
+the surroundings. As long as most of their body is not covered
+by clothing or armor, the skulk gains a +2 circumstance bonus to
+Stealth checks to Hide.
+AC 16; Fort +7, Ref +8, Will +5
+HP 21
+Speed 25 feet
+Melee Ȱɵ shortsword +8 (agile, ﬁnesse, versatile S),
+Damage 1d6+2 piercing
+Ranged Ȱɵ dagger +8 (agile, thrown 10 feet, versatile S),
+Damage 1d4+2 piercing
+Sneak Attack A skulk’s Strikes deal an extra 1d6 precision
+damage to ﬂat-footed creatures.
+
+================================================================================
+PAGE 245
+================================================================================
+
+Bestiary 2
+SLUGS OF WAR
+Subterranean cultures like
+urdefhans and xulgaths sometimes
+turn giant slugs into war beasts.
+The creatures’ primitive minds make
+them easy to control for anyone
+who knows a few simple tactics—
+mostly ways of keeping them
+well-fed until just before battle and
+methods of guiding them in the
+right direction as they rampage.
+Slug
+These massive, primeval relatives of ordinary slugs squirm slowly through
+swamps and grasslands. Giant slugs are always voracious and prefer to eat ﬂesh
+or plants high in water content. They frequently consume livestock or strip bare
+entire orchards or melon crops. For cattle, pigs, or other sizable meals, they ﬁrst
+shred the creatures using their radula—tongue-like appendages covered in teeth—
+to make them easier to consume. The mucus secreted by a giant slug is powerfully
+acidic and viscous. Wherever it travels, the creature leaves a trailing brown strip
+that kills most vegetation. Farmers and ranchers, especially those living near
+swamps known to contain giant slugs, keep close tabs on these journeys. Many
+almanacs go into great detail on slug migration and mating seasons. Since each
+giant slug needs its own wide hunting ground, the creatures typically come into
+proximity to mate only once a year. Either or both slugs can become impregnated,
+and any that do typically lay a clutch of around 100 eggs. They usually lay these
+eggs in a shallow bog or a cool, humid cave.
+Giant slugs tend to travel at night, as the creatures dislike sunlight and dry
+weather. They have been known to seek out locations like barns, the undersides
+of bridges, or even fortiﬁcations like castles for shelter as dawn starts to break.
+Woe to the unprepared farmer who ambles out at sunrise to milk the cows but
+instead ﬁnds that a giant slug has made the barn its home! Subterranean giant
+slugs don’t have to worry about sunlight, and crawl about on no schedule in
+particular. Narrow tunnels pose little obstacle for them, as the creatures can easily
+compress their bodies. These factors make their movements very unpredictable,
+so they pose quite a menace for underground peoples like kobolds or xulgaths.
+
+================================================================================
+# SEA SNAKE
+================================================================================
+
+
+EATING HABITS
+Snakes of all sorts eat their meals
+by devouring their prey whole. After
+incapacitating a creature, a snake
+unhinges its jaw and consumes the
+creature entirely, even if it’s more
+than twice the diameter of the
+snake’s body. A snake can consume
+a creature of the same size as itself
+or smaller, but most snakes are logy
+and sluggish while the meal digests.
+Snake
+Snakes of some variety thrive in every non-arctic ecosystem, each with their own
+particular hunting patterns and defense mechanisms.
+SEA SNAKE
+These lithe snakes like to frequent the shallow waters of tropical seas. Their 4-footlong, blue-green bodies easily blend into the water where they lurk to ambush prey.
+Tales speak of massive sea snakes that swim in deeper waters and follow ships,
+waiting for sailors to fall overboard or climbing the side to snatch them from the deck.
+SEA SNAKE
+CREATURE 0
+N
+SMALL
+ANIMAL
+Perception +5; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +2 (+6 to Swim), Stealth +5, Survival +5
+Str +0, Dex +3, Con +1, Int –4, Wis +1, Cha –2
+Deep Breath The sea snake can hold its breath for about an hour.
+AC 16; Fort +5, Ref +9, Will +3
+HP 15
+Lash Out Ǻȓ Trigger A creature within the sea snake’s reach uses a move action; Eﬀect
+The sea snake makes a bite Strike against the attacker.
+Speed 15 feet, swim 25 feet
+Melee Ȱɵ fangs +7 (agile, ﬁnesse), Damage 1d8 piercing plus
+sea snake venom
+Sea Snake Venom (poison) Saving Throw DC 16 Fortitude;
+Maximum Duration 4 rounds; Stage 1 1d6 poison damage
+(1 round); Stage 2 1d6 poison damage and enfeebled
+1 (1 round)
+EMPEROR COBRA
+These aggressive serpents infest bogs and
+lowlands. Despite a length of over 16 feet and
+weighing over 200 pounds, they can climb trees
+in seconds. An emperor cobra wards off predators
+by ﬂaring its hood and hissing at its attacker.
+
+================================================================================
+# SOUL EATER
+================================================================================
+
+
+SOUL GLUTTONS
+As if soul eaters weren’t frightening
+enough, there exists on Abaddon
+much larger variants of these
+monsters, known as soul gluttons.
+Appearing as roiling, inky black
+clouds and possessing a half dozen
+arms, soul gluttons are much deadlier
+than their smaller kin and are also
+much more dangerous to conjure,
+as they have a disturbing knack for
+wriggling out of a conjurer’s control.
+Soul Eater
+Only the most desperate or foolhardy conjurers call upon the aid of these strange
+ﬁends from the inky swamps of Abaddon.
+SOUL EATER
+CREATURE 7
+UNCOMMON
+NE
+MEDIUM
+FIEND
+Perception +15; greater darkvision
+Languages Daemonic
+Skills Abaddon Lore +12, Acrobatics +17, Intimidation +15, Stealth +17 (+19 in darkness
+or smoke)
+Str +0, Dex +6, Con +4, Int –1, Wis +4, Cha +4
+Caster Link (detection, divine, divination) A conjured soul eater forms a mental link with
+its conjurer. While both are on the same plane, the soul eater knows the location of its
+conjurer per its ﬁnd target ability. If the soul eater’s target dies before the soul eater
+can drain its soul, or if the soul eater is defeated (but not destroyed) by the target, the
+soul eater returns to its conjurer and tries to kill them.
+Find Target (detection, divine, divination) When a soul eater is
+conjured to the Material Plane to ﬁnd a speciﬁc
+creature, it gains the beneﬁts of a 5th-level
+locate spell that isn’t blocked by lead or
+running water. The conjurer must
+have seen the target and must
+speak the target’s name while
+conjuring the soul eater in
+order to grant this ability.
+AC 26; Fort +13, Ref +19, Will +15
+HP 80; Immunities critical hits,
+disease, paralyzed, poison, precision,
+sleep; Weaknesses good 10; Resistances physical 10
+Speed 25 feet, ﬂy 60 feet
+Melee Ȱɵ claw +19 (agile, ﬁnesse), Damage 2d6+3
+slashing plus 2d6 negative and mind-numbing touch
+Drain Soul ̂ˬ (death, divine, manipulate, necromancy)
+Requirements The soul eater is adjacent to a dying
+creature; Eﬀect The soul eater attempts to
+devour the dying creature’s soul. The creature
+must attempt a DC 25 Will save. A creature
+that dies as a result of Drain Soul can’t be
+restored to life except by a spell or ritual of 8th
+level or higher. If the soul eater that used Drain
+Soul on a creature is slain within 100 feet of that
+creature’s corpse and the creature has been dead no
+longer than 1 minute, the creature’s soul returns to
+its body and is restored to life, leaving the creature
+unconscious and dying 1 but no longer doomed.
+Critical Success The creature is unaﬀected.
+Success The creature becomes doomed 1, or
+increases its doomed value by 1 if it was already doomed.
+Failure As success, but doomed 2.
+Critical Failure As success, but doomed 3.
+Mind-Numbing Touch (curse, divine, necromancy) When a soul eater hits a creature with
+its claw Strike, the creature must succeed at a DC 23 Fortitude save or become stupeﬁed
+1 (stupeﬁed 2 on a critical failure). Further damage dealt by the soul eater increases
+the stupeﬁed value by 1 on a failed save, to a maximum of stupeﬁed 4. This condition
+value decreases by 1 each time the creature gets a full night’s rest. As long as the
+creature is stupeﬁed by a soul eater, rest does not decrease any doomed
+value that creature might have.
+
+================================================================================
+PAGE 249
+================================================================================
+
+Bestiary 2
+SPECTRAL THRALLS
+Specters often keep a few humanoid
+thralls to torment, preventing the
+agony of pain starvation, but since
+they can’t minimize the negative
+damage they inﬂict with their vile
+touch, humanoid thralls who are too
+low level generally don’t last long.
+Specter
+When an evil mortal creature dies, it sometimes returns to haunt the area of its
+death as a specter, a hateful remnant, always seeking to slay others—particularly
+humanoids—in an attempt to distribute its pain among as many souls as it can. A
+specter maintains a strange semblance of its prior identity, but with a corrupted
+sense of purpose. It cannot be reasoned with.
+A specter denied the opportunity to harm living humanoids grows increasingly
+agonized and irrational, akin to the mindset of a starving person forever denied a
+release from agony through death.
+
+================================================================================
+# SPECTER
+================================================================================
+
+
+Bestiary 2
+SPECTRAL THRALLS
+Specters often keep a few humanoid
+thralls to torment, preventing the
+agony of pain starvation, but since
+they can’t minimize the negative
+damage they inﬂict with their vile
+touch, humanoid thralls who are too
+low level generally don’t last long.
+Specter
+When an evil mortal creature dies, it sometimes returns to haunt the area of its
+death as a specter, a hateful remnant, always seeking to slay others—particularly
+humanoids—in an attempt to distribute its pain among as many souls as it can. A
+specter maintains a strange semblance of its prior identity, but with a corrupted
+sense of purpose. It cannot be reasoned with.
+A specter denied the opportunity to harm living humanoids grows increasingly
+agonized and irrational, akin to the mindset of a starving person forever denied a
+release from agony through death.
+SPECTER
+CREATURE 7
+LE
+MEDIUM
+INCORPOREAL
+UNDEAD
+Perception +15; darkvision
+Languages Common, Necril; telepathy 100 feet (with
+spectral thralls only)
+Skills Acrobatics +17, Intimidation +15, Stealth +17
+Str –5, Dex +6, Con +4, Int +0, Wis +4, Cha +4
+AC 25; Fort +13, Ref +17, Will +15
+HP 95, negative healing; Immunities death eﬀects,
+disease, paralyzed, poison, precision, unconscious;
+Resistances all 5 (except force, ghost touch, or
+positive; double resistance vs. non-magical)
+Frightful Presence (aura, emotion, fear, mental) 30
+feet, DC 22
+Pain Starvation A specter that goes for more than a
+month without dealing negative damage to a living
+humanoid becomes desperate and almost feral. It
+changes alignment from lawful evil to chaotic evil,
+loses control of any corrupted thralls it might have,
+and becomes quickened. It can use its additional action
+only to make vile touch Strikes against humanoid targets.
+At the end of any turn in which it deals any amount of
+negative damage to a living humanoid, it reverts to lawful
+evil and is no longer quickened, but any thralls it lost
+control of remain free.
+Sunlight Powerlessness A specter caught in sunlight is clumsy 2
+and slowed 2 for as long as it remains in the sunlight.
+Speed ﬂy 40 feet
+Melee Ȱɵ vile touch +18 (ﬁnesse), Damage 6d6 negative plus
+spectral corruption
+Spectral Corruption (curse, divine, enchantment, incapacitation,
+mental) When the specter damages a living creature with its vile
+touch Strike, the specter gains 5 temporary Hit Points and the target
+creature must attempt a DC 25 Will save to avoid becoming corrupted.
+Critical Success The creature is unaﬀected and is temporarily immune to
+spectral corruption for 1 minute.
+Success The creature is stupeﬁed 2 for 1 hour.
+Failure The creature succumbs to the corruption and becomes a spectral
+thrall. The creature is controlled by the specter, obeying the specter’s
+telepathic or spoken orders, though a spectral thrall does not obey
+obviously self-destructive orders. It can attempt a new Will save at
+the end of each of its turns; on a success, it is no longer controlled
+by the specter but becomes stupeﬁed 2 for 1 hour.
+Critical Failure As failure, but the creature remains a thrall to the
+specter until the curse is removed or until the specter succumbs
+to pain starvation; it can’t attempt new Will saves to recover on
+its own.
+
+================================================================================
+PAGE 250
+================================================================================
+
+SHIVER ADDICTS
+Talented alchemists process dream
+spider venom into an addictive drug
+called shiver (Gamemastery Guide
+121). Those who become addicted to
+shiver may be driven in desperation
+to seek out dream spiders and allow
+them to bite their ﬂesh in order
+to get their ﬁx—a tactic that often
+backﬁres awfully as the spiders feed.
+Spider
+Spiders range dramatically in size, yet all are to some extent venomous.
+DREAM SPIDER
+A dream spider’s webs have an iridescent hue and are infused with the same
+hallucinogenic compound as the creature’s toxin. Originally denizens of tropical
+jungles, dream spiders have adapted well to temperate environments, particularly
+thriving among the rooftops of cities where shady alchemists use their venom to
+produce the drug known as shiver.
+
+================================================================================
+# SPIRAL CENTURION
+================================================================================
+
+
+Bestiary 2
+SPIRAL CENTURION GLITCHES
+A spiral centurion might have one of
+the following glitches.
+Dulled Blades: Its blade Strike deals
+only 2d10+5 bludgeoning damage.
+ Misaligned Gears: It loses Rev Up,
+and if it Strides more than once per
+round, it takes 1d10 damage.
+ Stuck in a Rut: It uses the same
+actions each round, regardless of
+the circumstances.
+Spiral Centurion
+These mechanical constructs were created to serve as guardians in an ancient
+and bygone era, although exactly who made them and the secrets of their
+construction have long since been lost to history. From the waist up, they
+resemble humanoids made of metal, but from the waist down their bodies
+take the form of spinning metal tops ringed with blades, which excel at cutting
+down nearby foes. Most spiral centurions can be directed to stand down with a
+password, although often these command phrases have been lost to the mists of
+time. In rare cases, a spiral centurion may also wield manufactured weapons or
+a shield in addition to its built-in weapons, giving it access to additional actions
+besides those listed below.
+Most spiral centurions are hundreds or even thousands of years old, only
+staying functional because of the powerful magic used in their creation. Still,
+millennia of neglect have caused many spiral centurions to develop small glitches
+or malfunctions.
+SPIRAL CENTURION
+CREATURE 11
+N
+MEDIUM
+CONSTRUCT
+MINDLESS
+Perception +20; darkvision
+Skills Acrobatics +23, Athletics +23
+Str +6, Dex +6, Con +5, Int –5, Wis +2, Cha –5
+AC 31; Fort +22, Ref +25, Will +16
+HP 170; Hardness 10; Immunities bleed, death eﬀects, disease, doomed, drained,
+fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison,
+sickened, unconscious
+Top-Heavy
+A
+spiral
+centurion’s
+top‑like design makes it susceptible
+to eﬀects that would cause it to fall
+prone. The DC of any attempt to knock
+the spiral centurion prone is reduced
+by 5. If the spiral centurion attempts
+a check or saving throw to resist being
+knocked prone, it takes a –5 status penalty. A
+spiral centurion that has been knocked prone can’t use any actions other
+than to attempt to Stand, but it must succeed at a DC 30 Acrobatics
+check to do so.
+Speed 40 feet
+Melee Ȱɵ blade +23 (agile, sweep), Damage 2d12+12
+slashing
+Hurl Blade ʚʖ The spiral centurion hurls one of its
+blades with an angled spin to ensure a swooping
+ﬂight path. The blade deals 6d6 slashing damage
+to each creature in a 40-foot line (DC 30 basic Reﬂex
+save). At the start of the spiral centurion’s next turn, the
+blade swoops around and returns along the same ﬂight path,
+again dealing 6d6 slashing damage (DC 30 basic Reﬂex save) to
+each creature along the same line.
+Rev Up Ȱɵ Requirements The spiral centurion has not acted yet this turn; Eﬀect The
+spiral centurion Strides up to its Speed. It then gains a +2 circumstance bonus to
+attack and damage rolls until the end of its turn.
+Trample ̂ˬ Medium or smaller, blade, DC 30
+Whirling Death ̂ˬ The spiral centurion spins furiously in place, its blades extended
+to slice through nearby creatures. It makes up to five melee blade Strikes. No
+single creature can be targeted by more than one blade Strike during one use
+of this ability. These attacks count toward the spiral centurion’s multiple attack
+penalty, but the multiple attack penalty doesn’t increase until after all the attacks
+are made.
+
+================================================================================
+PAGE 252
+================================================================================
+
+OTHER SPORTLEBORES
+While the creature presented here
+is the most common of its type,
+the sportlebore is in fact an entire
+family of insects that specialize in
+mimicking everyday objects. Other
+varieties of sportlebore include the
+spindly, wood-devouring wartlebore;
+the corpse-eating sportlegore; and
+the sportleglug, which is so small it
+can burrow into leather wineskins
+and drink their contents without
+the bag spilling a drop. Like the
+sportlebore, most of these vermin
+aren’t too dangerous as individuals
+but can turn into a real problem if
+their numbers are left unchecked.
+Sportlebore
+The bane of hungry adventurers the world over, sportlebores are nefarious vermin
+that resemble delicious snacks. When positioned near trail rations such as fruit or
+jerky, a sportlebore can ﬂawlessly imitate these foodstuffs by ﬂexing, contorting,
+and color-shifting its abdomen, then folding its thorax, head, and legs into hiding
+under its delicious-looking body. Once consumed, the sportlebore reproduces into
+a hungry swarm that is regurgitated by the now ailing eater, ravenously attacking
+any creatures it thinks it can consume.
+SPORTLEBORE
+On its own, a single sportlebore functions as a hazard rather than a creature.
+SPORTLEBORE
+HAZARD 7
+ENVIRONMENTAL
+ANIMAL
+Stealth DC 26 (expert)
+Description A sportlebore hides amid the victuals on a plate of food or within a pack of
+trail rations.
+Disable A creature that notices the sportlebore can remove it from the food it is hidden
+within automatically as an Interact action.
+Mimic Food Ǻȓ Trigger A creature eats food the sportlebore is hidden within; Eﬀect The
+sportlebore rapidly multiplies in the host’s stomach, exposing the host to sportlebore
+infestation.
+Sportlebore Infestation (disease) Saving Throw DC 22 Fortitude; Stage 1 carrier with no
+ill eﬀect (1 day); Stage 2 enfeebled 1 (1 hour); Stage 3 enfeebled 2 (1 hour); Stage 4 4d6
+bludgeoning damage (DC 25 basic Fortitude save) as the host painfully vomits out a
+sportlebore swarm and returns to stage 1
+SPORTLEBORE SWARM
+A swarm of sportlebores is a much more dangerous foe than a single insect.
+
+================================================================================
+# SPORTLEBORE SWARM
+================================================================================
+
+
+OTHER SPORTLEBORES
+While the creature presented here
+is the most common of its type,
+the sportlebore is in fact an entire
+family of insects that specialize in
+mimicking everyday objects. Other
+varieties of sportlebore include the
+spindly, wood-devouring wartlebore;
+the corpse-eating sportlegore; and
+the sportleglug, which is so small it
+can burrow into leather wineskins
+and drink their contents without
+the bag spilling a drop. Like the
+sportlebore, most of these vermin
+aren’t too dangerous as individuals
+but can turn into a real problem if
+their numbers are left unchecked.
+Sportlebore
+The bane of hungry adventurers the world over, sportlebores are nefarious vermin
+that resemble delicious snacks. When positioned near trail rations such as fruit or
+jerky, a sportlebore can ﬂawlessly imitate these foodstuffs by ﬂexing, contorting,
+and color-shifting its abdomen, then folding its thorax, head, and legs into hiding
+under its delicious-looking body. Once consumed, the sportlebore reproduces into
+a hungry swarm that is regurgitated by the now ailing eater, ravenously attacking
+any creatures it thinks it can consume.
+SPORTLEBORE
+On its own, a single sportlebore functions as a hazard rather than a creature.
+SPORTLEBORE
+HAZARD 7
+ENVIRONMENTAL
+ANIMAL
+Stealth DC 26 (expert)
+Description A sportlebore hides amid the victuals on a plate of food or within a pack of
+trail rations.
+Disable A creature that notices the sportlebore can remove it from the food it is hidden
+within automatically as an Interact action.
+Mimic Food Ǻȓ Trigger A creature eats food the sportlebore is hidden within; Eﬀect The
+sportlebore rapidly multiplies in the host’s stomach, exposing the host to sportlebore
+infestation.
+Sportlebore Infestation (disease) Saving Throw DC 22 Fortitude; Stage 1 carrier with no
+ill eﬀect (1 day); Stage 2 enfeebled 1 (1 hour); Stage 3 enfeebled 2 (1 hour); Stage 4 4d6
+bludgeoning damage (DC 25 basic Fortitude save) as the host painfully vomits out a
+sportlebore swarm and returns to stage 1
+SPORTLEBORE SWARM
+A swarm of sportlebores is a much more dangerous foe than a single insect.
+SPORTLEBORE SWARM
+CREATURE 7
+N
+LARGE
+ANIMAL
+SWARM
+Perception +13; low-light vision
+Skills Acrobatics +17, Stealth +17
+Str +2, Dex +6, Con +4, Int –4, Wis +2, Cha +4
+AC 25; Fort +15, Ref +17, Will +13
+HP 85; Immunities precision, swarm mind; Weaknesses area damage 7, splash
+damage 7; Resistances bludgeoning 3, piercing 7, slashing 7
+Pour Down Throat Ǻȓ Trigger A creature in the sportlebore swarm’s area speaks,
+uses a verbal component, or opens its mouth; Eﬀect A portion of the
+sportlebore swarm attempts to surge down the throat of the triggering
+creature, which must attempt a DC 25 Fortitude save.
+Critical Success The creature is unaﬀected.
+Success The creature gets a mouthful of sportlebores. It spits the
+insects out and avoids further damage, but it can’t speak for 1
+round, and if it was performing a verbal spellcasting action, the
+spell fails and the caster wastes the action.
+Failure The creature takes 4d6 piercing damage from sportlebore
+bites, can’t speak for 1 round, and loses a
+spell as noted under Success.
+Critical Failure As failure, but
+the creature is also exposed to
+sportlebore infestation.
+Speed 35 feet, ﬂy 35 feet
+Swarming Bites Ȱɵ Each creature in the sportlebore
+swarm’s area takes 4d6 piercing damage (DC 25
+basic Reﬂex save).
+
+================================================================================
+PAGE 253
+================================================================================
+
+Bestiary 2
+REDEEMED SPRIGGANS
+A spriggan’s nature is rooted
+deeply in its inability to feel joy
+and pleasure, and as such, non-evil
+spriggans are rare. Yet they are not
+unheard of. A spriggan who manages
+to turn back on their inherent
+nature loses their ability to assume
+enormous size, and always becomes
+a hated (if not feared) exile from
+their clan. Such a spriggan never
+fully transforms into a gnome, but
+those who embrace redemption often
+discover strange new powers waiting
+for them to master, such as the
+ability to draw upon the First World
+to heal themselves and allies, or the
+power to transform into actual fey
+creatures for a short period of time.
+Spriggan
+When the gnomes ﬁrst emigrated from the First World so many eons ago, some
+found the Material Plane so strange and terrifying that they lost their sense
+of joy. Seeing only the threat of the new world and none of its wonders, these
+gnomes grimly resolved to survive no matter what the cost. Their innate magic
+responded to this goal by twisting them in mind and body over the course of
+many generations, eventually transforming them into the creatures known today
+as spriggans.
+Love, happiness, and beauty have no meaning for nearly all spriggans, for
+their minds have long since abandoned the capacity to understand and enjoy
+such positivity in the world. Violence, malice, and distortion have expanded in
+spriggan society to ﬁll the aching voids left behind by their ancient expunging of
+positivity. Today, the best a spriggan can manage in place of positive emotions is
+a muted satisfaction when they make another creature suffer.
+Spriggans resemble muted, hairless gnomes with oversized, pointed ears and
+an alien, feral appearance. Many of them are gaunt and haggard. Skin tones vary
+across all different shades of blue, from a pale sky color to a deep midnight.
+Unlike their more cheerful and optimistic kin, spriggans do not become afﬂicted
+by the bleaching, a fact that many of their kind smugly hold up as proof that
+their ancestors’ choice to abandon joy was the right one.
+While spriggans can specialize in a wide range of skills, one feature they all
+share is the capacity to transform into lumbering, hulking incarnations of their
+normally small frames. By drawing upon the void left behind in their souls,
+they reﬂect the anger and cruelty in their minds and physically transform into
+giant versions of themselves akin to ogres in stature; however, this rage-induced
+change takes a toll on their bodies. The longer a spriggan remains in giant form,
+the more pain and agony they have waiting for them when, inevitably, they
+revert to their true size. Yet this promise of pain does not deter a spriggan from
+using their power to grow in size, for it’s only when they assume gargantuan
+proportions that they can truly feel joy and satisfaction. That spriggans feel these
+emotions only when they are bullying smaller creatures, ﬁghting enemies (or
+even allies), or inﬂicting pain on victims speaks to the depths of their corruption.
+SPRIGGAN BULLY
+The typical spriggan is a bully who prefers to take live prisoners in ﬁghts, but
+only to ensure that they have a large stock of living victims to torment, tease, and
+abuse. They train to use weapons in nonlethal ways that inﬂict the maximum
+amount of pain even as they guard against accidental death. When not bullying
+prisoners or hunting for new victims, spriggan bullies enjoy drinking, watching
+others ﬁght, and ﬁghting among themselves.
+
+================================================================================
+# SPRIGGAN BULLY
+================================================================================
+
+SPRIGGAN BULLY
+CREATURE 3
+CE
+SMALL
+GNOME
+HUMANOID
+SPRIGGAN
+Perception +10; low-light vision
+Languages Aklo, Common, Gnome
+Skills Acrobatics +9, Athletics +8, Intimidation +10, Society +8, Stealth +11, Survival +10,
+Thievery +9
+Str +3, Dex +4, Con +2, Int +1, Wis +3, Cha +1
+Items crossbow (10 bolts), morningstar
+AC 19; Fort +9, Ref +11, Will +8
+HP 48
+Enraged Growth Ǻȓ (polymorph, primal, transmutation) Trigger The spriggan bully takes
+damage; Eﬀect The spriggan bully grows to Large size, along with their equipment
+(which returns to natural size if removed). The spriggan bully’s reach increases by 5
+feet. They regain 5 Hit Points and gain a +2 status bonus to melee attacks and damage
+rolls. This eﬀect continues until the end of the spriggan bully’s next turn, but on any
+turn in which the spriggan bully deals damage to another creature and is not fatigued,
+
+================================================================================
+PAGE 254
+================================================================================
+
+SPRIGGAN DISTRACTIONS
+As a culture, most spriggans live for
+battle and constantly patrol their
+territories in hopes of encountering
+trespassers to capture and victimize.
+Even so, spriggans sometimes need to
+relax. Since they lack the capacity for
+pleasure, games, art, and similar leisure
+activities are lost on them. Instead,
+they ﬁll their idle time training for
+combat, watching others ﬁght to the
+death, crafting weapons, or plotting
+against their kin for personal gain.
+the eﬀect extends until the end of the following turn. When Enraged Growth ends, the
+spriggan bully is fatigued for 1 hour.
+Speed 20 feet
+Melee Ȱɵ morningstar +10 (versatile P), Damage 1d6+6 bludgeoning
+Ranged Ȱɵ crossbow +11 (range increment 120 feet, reload 1), Damage 1d8 piercing
+Primal Innate Spells DC 20; 2nd shatter; 1st fear; Cantrips (2nd) dancing lights
+Bully’s Bludgeon Ȱɵ The spriggan bully makes a morningstar Strike with a +2
+circumstance bonus to its attack roll. This attack is nonlethal.
+Sneak Attack The spriggan bully’s Strikes deal an additional 1d6 precision damage to
+ﬂat-footed creatures.
+SPRIGGAN WARLORD
+While the leaders of larger spriggan enclaves tend to be uniquely trained warriors
+with highly specialized skills, spriggan warlords are fond of the traditional spriggan
+weaponry of morningstar and crossbow, valuing this traditional ﬁghting style for
+its simplicity and for using both weapons to their full potential. Spriggan warlords
+often serve as sub-commanders in large groups, ﬁlling roles in spriggan society
+akin to captains of the guard or bodyguards to spriggan royalty.
+In smaller groups or remote outposts, a single spriggan warlord is
+typically in charge of a band of spriggan bullies.
+
+================================================================================
+# SPRIGGAN WARLORD
+================================================================================
+
+Bully’s Bludgeon Ȱɵ The spriggan bully makes a morningstar Strike with a +2
+circumstance bonus to its attack roll. This attack is nonlethal.
+Sneak Attack The spriggan bully’s Strikes deal an additional 1d6 precision damage to
+ﬂat-footed creatures.
+SPRIGGAN WARLORD
+While the leaders of larger spriggan enclaves tend to be uniquely trained warriors
+with highly specialized skills, spriggan warlords are fond of the traditional spriggan
+weaponry of morningstar and crossbow, valuing this traditional ﬁghting style for
+its simplicity and for using both weapons to their full potential. Spriggan warlords
+often serve as sub-commanders in large groups, ﬁlling roles in spriggan society
+akin to captains of the guard or bodyguards to spriggan royalty.
+In smaller groups or remote outposts, a single spriggan warlord is
+typically in charge of a band of spriggan bullies.
+SPRIGGAN WARLORD
+CREATURE 7
+CE
+SMALL
+GNOME
+HUMANOID
+SPRIGGAN
+Perception +14; low-light vision
+Languages Aklo, Common, Gnome
+Skills Acrobatics +15, Athletics +17, Intimidation +17, Society +12,
+Stealth +17, Survival +14, Thievery +15
+Str +6, Dex +4, Con +4, Int +1, Wis +3, Cha +4
+Items +1 crossbow (10 bolts), +1 morningstar
+AC 25; Fort +13, Ref +17, Will +14
+HP 120
+Enraged Growth Ǻȓ (polymorph, primal, transmutation) Trigger The spriggan
+warlord takes damage; Eﬀect The spriggan warlord grows to size Large,
+along with their equipment (which returns to natural size if removed).
+The spriggan warlord’s reach increases by 5 feet. They regain 15 Hit
+Points and gain a +2 status bonus to melee attack and damage rolls.
+This eﬀect continues until the end of the spriggan warlord’s next
+turn, but on any turn in which the spriggan warlord deals damage
+to another creature and is not fatigued, the eﬀect extends until
+the end of the following turn. When Enraged Growth ends, the
+spriggan warlord is fatigued for 1 hour.
+Speed 20 feet
+Melee Ȱɵ morningstar +18 (magical, versatile P), Damage
+2d6+9 bludgeoning
+Ranged Ȱɵ crossbow +18 (magical, range increment 120 feet, reload 0),
+Damage 2d8 piercing
+Primal Innate Spells DC 25; 4th ﬂy, shatter; 3rd dispel magic, fear; 2nd blur;
+Cantrips (4th) dancing lights
+Bully’s Bludgeon Ȱɵ The spriggan warlord makes a morningstar
+Strike with a +2 circumstance bonus to its attack roll. This
+attack is nonlethal.
+Sneak Attack The spriggan warlord’s Strikes deal an
+additional 2d6 precision damage to ﬂat-footed creatures.
+Warlord’s Training A spriggan warlord has access to
+the critical specialization eﬀects for crossbows and
+morningstars, and the reload of any crossbow they
+wield is reduced by 1 (to a minimum of 0).
+
+================================================================================
+PAGE 255
+================================================================================
+
+Bestiary 2
+GIANT SQUID TACTICS
+The giant squid attacks by lashing
+out with its longest tentacles and
+then rapidly pulling the prey toward
+itself. While closing the distance
+between them, it attacks again,
+this time closing its smaller arms
+around the prey. Once it has the prey
+thoroughly trapped, the giant squid
+tears and cuts with its beak and the
+teeth-lined saw it has in the place of
+a tongue.
+Squid
+The unusual shape of these swift, voracious predators has prompted many a
+nautical tale.
+VAMPIRE SQUID
+Vampire squid are neither undead nor blood drinkers. Their name is instead
+inspired by their red eyes and the dark, cloak-like webbing between their arms.
+Living in the lightless depths of the ocean, the vampire squid can eject a cloud of
+bioluminescent mucus that nauseates predators.
+
+================================================================================
+# STYGIRA
+================================================================================
+
+
+STYGIRA GEMS
+The gem a stygira carries does not
+need to be particularly valuable,
+but some stygiras prefer to use
+more expensive gems as an
+aﬀectation. More powerful stygiras
+have developed methods of using
+particularly expensive gems to
+enhance their gem gaze ability,
+allowing some to charm those they
+gaze upon, light them on ﬁre, or even
+aﬄict them with crippling poison.
+Stygira
+Withered hermits wrapped in tattered rags, these scarred, eyeless creatures
+command strange secrets of the earth and interpret the fateful energies of the
+subterranean depths. In some regions, stygiras are worshipped as seers or even
+gods, although they lack the ability to grant spells to clerics and are often not aware
+of their worshippers at all. In other areas, they have strange ties to the ancient
+empires of the cyclopes, often dwelling in the oversized ruins those creatures left
+behind long ago. To many stygiras, gemstones harvested from ancient cyclopean
+mosaics have even greater magical properties than other crystals.
+Although technically blind, stygiras do have vestigial eyes hidden beneath the
+stony, scarred ﬂesh of their faces. Capable of sensing bright lights even through
+their scars, stygiras are sickened and distracted by these ﬂashing glimpses, so
+they keep to their caves during the day and
+wander into the world above only after
+nightfall. Far from benevolent, they seek out
+unwary travelers or explorers to capture and
+reduce them down to the base chemicals and
+supernatural humors the stygiras require to
+infuse gemstones with the capacity to give
+them sight and magical power.
+STYGIRA
+CREATURE 7
+LE
+MEDIUM
+EARTH
+FEY
+Perception +17; gemsight
+Languages Aklo, Cyclops, Jotun, Terran
+Skills Athletics +15, Deception +15, Gem Lore +17, Nature
++17, Occultism +17
+Str +4, Dex +4, Con +5, Int +4, Wis +6, Cha +2
+Items gemstone (worth 25 gp)
+Gemsight As long as the stygira holds a gemstone, they can
+see through the gem with darkvision and the eﬀects of true
+seeing. The stygira is blind when they are not holding a gem
+in a hand.
+AC 26; Fort +15, Ref +13, Will +19; +1 status to all saves vs. magic
+HP 80; Immunities paralyzed, petriﬁed, visual; Weaknesses cold iron 5;
+Resistances physical 10 (except adamantine)
+Light Sickness A stygira in an area of bright light is sickened 1.
+Speed 25 feet
+Melee Ȱɵ claw +17 (agile); Damage 2d6+10 slashing plus stone curse
+Occult Innate Spells DC 25; 4th clairvoyance, read omens, shape stone; 3rd
+clairaudience, earthbind; 2nd augury, undetectable alignment; Cantrips (4th)
+know direction, read aura
+Gem Gaze Ȱɵ (emotion, fear, mental, primal) The stygira holds aloft a gem and
+gazes into the mind of a creature within 30 feet, infusing the creature’s
+thoughts with visions of the creature’s own dead body slowly petrifying.
+The creature must succeed at a DC 25 Will save or become frightened 1
+(frightened 2 on a critical failure).
+Stone Curse (curse, primal, transmutation) Wounds dealt by the stygira’s
+claws leave the ﬂesh bleached of color and turn the blood that runs from
+them dark gray. Each time a creature is damaged by the stygira’s claw
+Strike, it must succeed at a DC 25 Fortitude save or become permanently
+slowed 1 (slowed 2 on a critical failure) as its ﬂesh stiﬀens like stone. If
+a creature is reduced to 0 Hit Points from the stygira’s claw Strike and
+fails the saving throw against stone curse, it is petriﬁed. A creature
+that spends 8 hours in direct sunlight can attempt a new saving
+throw to remove the eﬀects of stone curse, even if it has
+been petriﬁed.
+
+================================================================================
+PAGE 257
+================================================================================
+
+Bestiary 2
+OTHER TATZLWYRMS
+People in some regions claim to have
+seen creatures that are just like
+tatzlwyrms in most respects—a long
+body, two arms, and a head—except
+that they have traits that are not
+of reptilian origin. Travelers on a
+savanna should beware a furry,
+lion-headed tatzlwyrm protecting its
+cubs, while those in the mountains
+might be attacked by a feathered
+(but wingless) variant with the head
+of an eagle.
+Tatzlwyrm
+Tatzlwyrms resemble human-sized snakes with two arms and a dragon’s head.
+Distant relatives of true dragons, tatzlwyrms possess only a meager level of
+intelligence. They can speak Draconic (with a thick, hissing accent), but their
+ability to reason is limited and they can’t use magic. They do possess a level of
+cunning, however, and some have been known to build rudimentary traps and
+even lairs. They are not treasure-hoarders, though, so don’t expect to ﬁnd a
+tatzlwyrm sitting atop a bed of coins.
+Some tatzlwyrms have managed to forge working relationships with dragons,
+though it’s a rare occurrence. From time to time, dragons have used them as
+messengers (because they can speak their language, however crudely), scouts (due
+to their smaller size), guides (when they’re familiar with a particular mountain),
+and even muscle (harassing foes not worthy of a dragon’s direct attention).
+Tatzlwyrms don’t work with kobolds, though—tatzlwyrms eat kobolds.
+Tatzlwyrms hibernate in cold weather, and when they feel winter approaching they
+seek out underground lairs, mountain crevices, or even hay lofts. On one notable
+occasion, townsfolk reported being brieﬂy overrun by tatzlwyrms after a conﬂict
+between spellcasters in the nearby hills caused a sudden blizzard. Local scholars still
+debate whether the cause of the inﬂux was the sudden change in weather or if the
+creatures were drawn to one of the other magic users staying in town who were part
+of the same pilgrimage as those doing battle.
+When confronted, tatzlwyrms are more likely to attack than retreat. Indeed,
+they sometimes lie in wait on purpose, taking advantage of their scales’ natural
+camouﬂage and awaiting the chance to unleash their signature move: belching
+poisonous vapor into an opponent’s face. Since this breath attack doesn’t have
+much range, the wyrms usually need to grab their foes ﬁrst and bring them close
+to their mouth.
+
+================================================================================
+# SACRISTAN
+================================================================================
+
+
+THE SHADOW FORGE
+Many velstracs outsource the forging
+of their chains to unique velstracs
+known as almoners. These six-armed,
+legless humanoids toil endlessly at
+a great burning foundry called the
+Shadow Forge. Almoners operate
+under mysterious strictures, and are
+just as likely to turn a velstrac away
+empty-handed as not.
+SACRISTAN
+CREATURE 10
+LE
+MEDIUM
+FIEND
+VELSTRAC
+Perception +19; greater darkvision, painsight
+Languages Common, Infernal, Shadowtongue
+Skills Acrobatics +19, Athletics +22, Intimidation +18, Stealth +21, Torture Lore +16
+Str +6, Dex +5, Con +6, Int +0, Wis +3, Cha +2
+Painsight (divination, divine) As augur.
+AC 30; Fort +22, Ref +19, Will +17; +1 status to all saves vs. magic
+HP 175, regeneration 10 (deactivated by good or silver); Immunities cold; Weaknesses
+good 10, silver 10
+Staggering Servitude (aura, divine, enchantment, fear, mental, visual) 30 feet. When a
+creature ends its turn in the aura, it sees a vision of the sacristan groveling in pitiable
+servitude. The creature must succeed at a DC 27 Will save or become stunned 1.
+Attack of Opportunity Ǻȓ
+Speed 25 feet
+Melee Ȱɵ barbed chain +22 (evil, magical, reach 10 feet, trip, versatile S), Damage 2d8+9
+piercing plus 1d6 evil and 2d6 persistent bleed
+Divine Innate Spells DC 29; 5th chilling darkness; 3rd fear
+Focus Gaze Ȱɵ (concentrate, divine, enchantment, fear, mental, visual) The sacristan
+stares at a creature they can see within 30 feet. The creature must immediately
+attempt a Will save against staggering servitude. In addition, if the creature was
+already stunned, on a failed save its revulsion toward the sacristan’s presence causes
+it to be stupeﬁed 2 for 1 minute. After attempting this save, the creature is then
+temporarily immune until the start of the sacristan’s next turn.
+Shadow Scream ̂ˬ (aura, concentrate, darkness, divine, evocation, mental, sonic)
+Frequency once per hour; Eﬀect The sacristan opens their mouth to unloose
+the wailing howls and mind-twisting darkness of the Shadow Plane.
+This creates a 30-foot emanation of darkness and wailing sounds
+around the sacristan. Creatures with darkvision can’t see through
+this darkness. The sacristan can Sustain Shadow Scream for up
+to 1 minute. Non-velstrac creatures in the area when the ability is
+used, as well as those who enter or start their turn in the area, must
+attempt a DC 28 Will save.
+Critical Success The creature is
+unaﬀected and is then temporarily
+immune for 24 hours.
+Success The creature is deafened for 1 round.
+Failure The creature is confused and deafened for
+1 round.
+Critical Failure The creature takes 20 mental damage,
+and is confused and deafened for 1 round.
+INTERLOCUTOR
+Interlocutors are the most talented surgeon-sculptors of
+the velstracs, carving away ﬂesh and replacing it with
+new body parts of muscle, sinew, and metal.
+Each interlocutor structures their individual
+appearance carefully, but all are towering,
+multi-limbed amalgamations of the strongest
+limbs, densest bone, and sharpest metal they
+can ﬁnd. They continually search for new
+material to graft to their forms, and their slain
+foes are rarely found intact, as little is
+more valuable to interlocutors than a
+powerful opponent’s legs, eyes, or even
+brain. Interlocutors average 9 feet tall
+and weigh approximately 800 pounds.
+
+================================================================================
+PAGE 285
+================================================================================
+
+Bestiary 2
+VELSTRACS ON GOLARION
+Velstracs are most often
+encountered in the shadowy realm
+of Nidal, where the state worship
+of Zon-Kuthon is rigidly enforced.
+Indeed, many velstracs are created
+from the souls of Joyful Things,
+devotees of Zon-Kuthon who have
+had their limbs amputated to focus
+their minds on the veneration of
+pain, sacriﬁce, and torment.

@@ -1,0 +1,1985 @@
+# Bestiary - Creatures: C
+# Count: 19 creatures
+
+
+================================================================================
+# CALATHGAR
+================================================================================
+
+
+VENGEFUL FLOWERS
+Calathgar cuttings are greatly desired
+in warmer lands, yet horticulturalists
+often fail to realize that calathgars
+are sapient, mobile, and vengeful
+against those who prune their leaves
+or take cuttings. These feral ﬂowers
+understand the speech of forest
+denizens and often shift and move
+their groves when they sense danger
+approaching. They protect their
+immature and immobile oﬀspring,
+and if they discover a garden of their
+young has been despoiled, they track
+down the perpetrators to unleash a
+ﬂurry of vengeance upon them.
+Calathgar
+Calathgars are mysterious predatory plants that grow in the depths of the densest
+frozen forests, realms where icicles rarely melt from snow-cloaked trees. A
+calathgar’s blue ﬂowers grow from 3 to 5 feet across (with specimens as wide
+as 10 feet reported), while the plant itself stands just under 4 feet in height and
+weighs up to 50 pounds when heavy with seeds.
+Calathgars’ psyches are alien to most sapient creatures. They have little interest
+in emotion, culture, or ambition, yet they have nearly ﬂawless memories and can
+share experiences with other calathgars by scent (perceptible to other creatures as
+a vinegary odor that may reveal their presence) as easily as humanoids can pass on
+information by speech. While calathgars themselves can’t speak, they can typically
+be reasoned with­—though like most protective parents, an incensed calathgar
+defending its young is rarely in a mood to listen.
+CALATHGAR
+CREATURE 4
+N
+SMALL
+COLD
+PLANT
+Perception +10; darkvision, scent 30 feet
+Languages Sylvan (can’t speak)
+Skills Stealth +13, Survival +10
+Str +2, Dex +5, Con +2, Int –2, Wis +2, Cha +2
+AC 21; Fort +10, Ref +13, Will +10
+HP 75; Immunities cold; Weaknesses ﬁre 5, slashing 5
+Cold Healing Calathgars are healed by cold. Anytime a calathgar would take cold
+damage, it instead regains 1d6 Hit Points (regardless of the amount of damage the
+cold eﬀect would have caused). In severe cold or colder environments (Core Rulebook
+518), calathgars gain fast healing 1.
+Mold Mulch When a calathgar is reduced to 0 Hit Points, it immediately decays
+and dies, transforming into a 5-foot patch of mold (or a 10-foot patch of mold
+if it was killed by ﬁre damage). This patch of mold persists for 1 minute,
+during which time it deals 3d6 cold damage to any creature that begins its
+turn in this area, or 1d6 cold damage to any creature that begins its turn
+in an adjacent square. The mold patch decays away after an
+hour, but it can be destroyed before then (treat each 5-foot
+square as an object with Hardness 0, 10 Hit Points,
+BT 5, immunity to cold, piercing,
+and
+slashing
+damage;
+the mold deals half its
+regular cold damage once
+it’s broken).
+Speed 20 feet, climb 20 feet
+Melee Ȱɵ ﬂower +13 (ﬁnesse),
+Damage 2d6+4 bludgeoning
+plus 1d6 cold
+Melee Ȱɵ tendril +13 (agile,
+ﬁnesse),
+Damage
+2d4+4
+slashing plus 1d4 cold
+Seed Spray ʚʖ (cold, evocation,
+primal) The calathgar expels
+thorny, frozen seeds in a 15-foot
+cone, dealing 1d6 piercing and
+4d6 cold damage (DC 20 basic
+Reﬂex save). In mild cold or colder
+environments (Core Rulebook 518),
+these seeds cling to living creatures
+they strike, dealing 1d4 persistent
+cold damage. The calathgar can’t
+use Seed Spray again for 1d4 rounds.
+
+================================================================================
+PAGE 47
+================================================================================
+
+Bestiary 2
+CALIGNI SLAYER TRINKETS
+Slayers obsess over magical trinkets,
+coveting them above all else.
+They often have a consumable or
+permanent item of use in combat,
+such as a scroll, wand, or talisman.
+Unfortunately, their incessant
+tinkering and ﬁddling often leaves
+their treasures broken or depleted.
+Caligni Slayer
+Caligni slayers possess greater occult talents than others of their kind. In most other
+calignis, the power bartered from the long-lost demigods known as the Forsaken
+merely burns within. But in caligni slayers, this power is a deep and terrible hunger.
+Slayers embrace their evil impulses as a result, and they seek to feed on others with
+their soul harvest ability to keep this supernatural hunger sated. Slayers denied
+the opportunity to feed descend into paranoia and, eventually, murderous rage.
+Delayed feeding improves but never fully restores their composure and patience.
+Perhaps the greatest manifestation of a slayer’s hunger appears at the moment of
+their death. Upon its last breath, a slayer collapses into itself in a violent, lightless
+implosion, rather than the blinding eruption of other calignis’ deaths, consuming
+the body itself in a ﬁnal attempt at satiation.
+Slayers view themselves as the cleverest and most gifted of the calignis. They seethe
+with ill-concealed envy at the position of power caligni stalkers occupy (Pathﬁnder
+Bestiary 51), ever scheming to displace them and claim that power for their own.
+For their part, stalkers tolerate these machinations as an acceptable price for the
+talents slayers contribute to an enclave. If necessary, any slayer who grows too
+ambitious can become a brave sacriﬁce in battle, for the good of the enclave.
+In physical stature, slayers fall between the willowy caligni dancers
+and the diminutive creepers. Stalkers tower above most slayers—yet
+another source of slayers’ envy and resentment.
+
+================================================================================
+# CALIGNI SLAYER
+================================================================================
+
+
+Bestiary 2
+CALIGNI SLAYER TRINKETS
+Slayers obsess over magical trinkets,
+coveting them above all else.
+They often have a consumable or
+permanent item of use in combat,
+such as a scroll, wand, or talisman.
+Unfortunately, their incessant
+tinkering and ﬁddling often leaves
+their treasures broken or depleted.
+Caligni Slayer
+Caligni slayers possess greater occult talents than others of their kind. In most other
+calignis, the power bartered from the long-lost demigods known as the Forsaken
+merely burns within. But in caligni slayers, this power is a deep and terrible hunger.
+Slayers embrace their evil impulses as a result, and they seek to feed on others with
+their soul harvest ability to keep this supernatural hunger sated. Slayers denied
+the opportunity to feed descend into paranoia and, eventually, murderous rage.
+Delayed feeding improves but never fully restores their composure and patience.
+Perhaps the greatest manifestation of a slayer’s hunger appears at the moment of
+their death. Upon its last breath, a slayer collapses into itself in a violent, lightless
+implosion, rather than the blinding eruption of other calignis’ deaths, consuming
+the body itself in a ﬁnal attempt at satiation.
+Slayers view themselves as the cleverest and most gifted of the calignis. They seethe
+with ill-concealed envy at the position of power caligni stalkers occupy (Pathﬁnder
+Bestiary 51), ever scheming to displace them and claim that power for their own.
+For their part, stalkers tolerate these machinations as an acceptable price for the
+talents slayers contribute to an enclave. If necessary, any slayer who grows too
+ambitious can become a brave sacriﬁce in battle, for the good of the enclave.
+In physical stature, slayers fall between the willowy caligni dancers
+and the diminutive creepers. Stalkers tower above most slayers—yet
+another source of slayers’ envy and resentment.
+CALIGNI SLAYER
+CREATURE 3
+UNCOMMON
+CE
+SMALL
+CALIGNI
+HUMANOID
+Perception +8, greater darkvision
+Languages Caligni, Undercommon
+Skills Acrobatics +9, Arcana +10, Athletics +7, Occultism +10, Stealth +10
+Str +1, Dex +4, Con +1, Int +2, Wis +0, Cha +2
+Items black smear poison (2 doses; see below), kukri
+Light Blindness
+AC 19; Fort +9, Ref +12, Will +6
+HP 45; death implosion
+Death Implosion (sonic) When the caligni slayer dies, their body implodes
+violently into nothingness, dealing 3d10 sonic damage to creatures
+in a 10-foot burst. Each creature in the area must attempt a DC 20
+Fortitude save. The slayer’s gear and treasure are unaﬀected by the
+implosion and are left in a pile where they died.
+Critical Success The creature is unaﬀected.
+Success The creature takes half damage.
+Failure The creature takes full damage and is deafened for 1 minute.
+Critical Failure The creature takes double damage and is deafened for 24 hours.
+Speed 25 feet
+Melee Ȱɵ kukri +11 (agile, ﬁnesse, trip), Damage 1d6+3 slashing plus black
+smear poison
+Occult Innate Spells DC 20, attack +12; 2nd darkness (at will), death knell,
+phantom pain, spectral hand; Cantrips (2nd) chill touch, daze, detect
+magic, shield
+Black Smear Poison (poison) Saving Throw DC 16 Fortitude;
+Maximum Duration 6 rounds; Stage 1 1d6 poison damage and
+enfeebled 1 (1 round); Stage 2 As stage 1; Stage 3 1d6 poison
+damage and enfeebled 2 (1 round). See Pathﬁnder Bestiary 51
+for full details on this alchemical poison.
+Call to Blood ʚʖ (enchantment, mental, occult) Each caligni within 30 feet
+gains a +2 status bonus to attack rolls against ﬂat-footed creatures.
+This bonus lasts for 1 minute.
+Soul Harvest (necromancy) The caligni slayer deals an additional 2d6
+negative damage to ﬂat-footed creatures.
+
+================================================================================
+PAGE 48
+================================================================================
+
+CARBUNCLE CHATTER
+“A lizard with an apple-sized
+gem sticking out of its forehead?
+Wishful thinking!”
+“Carbuncles are real! I almost
+caught one, but even though it
+could barely walk, its magic allowed
+it to escape my clutches.”
+“Their mind control powers could
+make them useful familiars, but if
+you ever catch one, it dies of fright.”
+“My advice is to stay away from
+these pests. They drink your hopes
+and aspirations through their horns,
+leaving you empty except for bad
+luck and bellyaches.”
+“Planning a carbuncle hunt?
+You’d better leave your self-respect
+at home, and be ready to emerge
+with fewer friends than you had at
+the start!”
+Carbuncle
+Never have legend and misinformation met upon a more inauspicious brow than
+that of the lowly carbuncle. At ﬁrst glance, carbuncles appear to be little more
+than ungainly reptiles. What sets them apart is their strange magical abilities and
+the gemstone-like horn protruding from between their goggling eyes. Although
+rumors suggest various uses for carbuncle horns, ranging from miracle cure‑alls to
+potent magical components, the truth is much more mundane: a carbuncle’s horn
+is merely a highly reﬂective growth, not unlike a ﬁngernail.
+
+================================================================================
+# CARBUNCLE
+================================================================================
+
+
+CARBUNCLE CHATTER
+“A lizard with an apple-sized
+gem sticking out of its forehead?
+Wishful thinking!”
+“Carbuncles are real! I almost
+caught one, but even though it
+could barely walk, its magic allowed
+it to escape my clutches.”
+“Their mind control powers could
+make them useful familiars, but if
+you ever catch one, it dies of fright.”
+“My advice is to stay away from
+these pests. They drink your hopes
+and aspirations through their horns,
+leaving you empty except for bad
+luck and bellyaches.”
+“Planning a carbuncle hunt?
+You’d better leave your self-respect
+at home, and be ready to emerge
+with fewer friends than you had at
+the start!”
+Carbuncle
+Never have legend and misinformation met upon a more inauspicious brow than
+that of the lowly carbuncle. At ﬁrst glance, carbuncles appear to be little more
+than ungainly reptiles. What sets them apart is their strange magical abilities and
+the gemstone-like horn protruding from between their goggling eyes. Although
+rumors suggest various uses for carbuncle horns, ranging from miracle cure‑alls to
+potent magical components, the truth is much more mundane: a carbuncle’s horn
+is merely a highly reﬂective growth, not unlike a ﬁngernail.
+CARBUNCLE
+CREATURE 1
+RARE
+N
+TINY
+BEAST
+Perception +7; darkvision
+Languages carbuncle empathy 30 feet
+Skills Stealth +3 (+7 in grass or undergrowth), Survival +6
+Str –3, Dex +0, Con +3, Int –2, Wis +3, Cha +0
+Carbuncle Empathy The carbuncle can telepathically send mild feelings and sensations
+to nearby creatures. It can’t use this ability to communicate in language or hinder a
+target, but it might convey a feeling of dread or the scent of food cooking nearby.
+AC 16; Fort +8, Ref +3, Will +6
+HP 20
+Easy to Inﬂuence Any mental spell can aﬀect a carbuncle, regardless of creature type
+limitations. Against a suggestion spell, a carbuncle always gets an outcome one degree
+of success worse than it rolled on its saving throw.
+Fatal Faker Ǻȓ (arcane, conjuration, teleportation) Trigger The carbuncle takes damage;
+Eﬀect The carbuncle feigns death by teleporting away and leaving a replica of
+its corpse behind, creating a colorful ﬂash of light and a croaking sound. The real
+carbuncle transports to a clear space within 30 feet that it can see, and a hollow
+shell remains behind. The fake body appears solid until it is touched, at which point
+it crumbles to dust.
+Speed 15 feet
+Melee Ȱɵ jaws +5 (ﬁnesse), Damage 1d6 piercing
+Primal Innate Spells DC 18; 3rd levitate (at
+will, self only); 1st jump (at will); Cantrips
+(1st) daze
+Specious Suggestion ʚʖ (enchantment,
+incapacitation, mental) Frequency three
+times per day; Eﬀect The carbuncle
+concentrates on a creature it can see and
+tries to manipulate that creature. The
+target must attempt a DC 18 Will save.
+The target then becomes temporarily
+immune for 24 hours.
+Critical Success The attempt backﬁres
+and bolsters the target’s mind instead,
+granting it a +1 status bonus to Will
+saving throws for 1 hour.
+Success The target brieﬂy experiences an
+unusual but harmless sensation like an
+unexpected ﬂavor or scent, an urge to eat
+something strange, or an amusing half‑forgotten memory.
+Failure The target is compelled to spend all of its actions
+on its next turn performing harmless, pointless, and
+usually embarrassing actions.
+Critical Failure As failure, but the compulsion
+persists for 1 minute. The target can attempt
+a new save at the end of its turn each round
+to end the eﬀect.
+
+================================================================================
+PAGE 49
+================================================================================
+
+Bestiary 2
+CATOBLEPAS NESTS
+A catoblepas den is an awful place
+indeed—a ﬁlthy nest composed
+of piles of decaying vegetation,
+half‑ﬁnished or half-digested meals
+of decaying animals, never-quite-dry
+banks of mud, and tangles of thorny
+branches. Worse, the catoblepas’s
+stink infuses such a site, imposing
+the beast’s ungodly stench upon
+those who would explore and search
+within for treasure. A catoblepas
+nest can retain its stink in this way
+for up to a week after it’s been
+abandoned by its foul denizen.
+Catoblepas
+The catoblepas is an aggressive beast at the best of times. Though it prefers swamps,
+the catoblepas has been know to forage in plains and forests for short periods,
+leaving behind hunting grounds tainted by its foul breath and noxious waste that
+other predators and prey alike avoid for days or even weeks thereafter. The catoblepas
+bullies those creatures it believes are a match for it, and eats everything weaker.
+A catoblepas is 15 feet long and weighs 2,200 pounds.
+
+================================================================================
+# CATOBLEPAS
+================================================================================
+
+
+Bestiary 2
+CATOBLEPAS NESTS
+A catoblepas den is an awful place
+indeed—a ﬁlthy nest composed
+of piles of decaying vegetation,
+half‑ﬁnished or half-digested meals
+of decaying animals, never-quite-dry
+banks of mud, and tangles of thorny
+branches. Worse, the catoblepas’s
+stink infuses such a site, imposing
+the beast’s ungodly stench upon
+those who would explore and search
+within for treasure. A catoblepas
+nest can retain its stink in this way
+for up to a week after it’s been
+abandoned by its foul denizen.
+Catoblepas
+The catoblepas is an aggressive beast at the best of times. Though it prefers swamps,
+the catoblepas has been know to forage in plains and forests for short periods,
+leaving behind hunting grounds tainted by its foul breath and noxious waste that
+other predators and prey alike avoid for days or even weeks thereafter. The catoblepas
+bullies those creatures it believes are a match for it, and eats everything weaker.
+A catoblepas is 15 feet long and weighs 2,200 pounds.
+CATOBLEPAS
+CREATURE 12
+CE
+LARGE
+BEAST
+Perception +22; darkvision
+Languages Aklo
+Skills Athletics +25, Intimidation +20, Stealth +22 (+24 in swamps), Survival +20
+Str +7, Dex +4, Con +6, Int –2, Wis +4, Cha +2
+Stench (aura, olfactory) 30 feet. A creature entering the aura or starting its turn in
+the aura must succeed at a DC 30 Fortitude save or become sickened 1 (plus slowed
+1 for as long as itʼs sickened on a critical failure). While within the aura, aﬀected
+creatures take a –2 circumstance penalty to saves against disease and to recover
+from the sickened condition. A creature that succeeds at its save is temporarily
+immune for 1 minute.
+AC 33; Fort +24, Ref +20, Will +22
+HP 215; Immunities disease, poison, olfactory
+Ferocity Ǻȓ
+Speed 35 feet, swim 20 feet
+Melee Ȱɵ jaws +25 (magical, reach 10 feet), Damage 3d10+13 piercing
+Melee Ȱɵ antler +25 (magical, reach 15 feet), Damage 3d12+13 piercing
+Melee Ȱɵ hoof +23 (magical), Damage 3d10+11 bludgeoning
+Breath Weapon ʚʖ (necromancy, poison, primal) The catoblepas breathes a 60-foot
+cone of horrid fumes, dealing 13d6 poison damage (DC 32 basic Fortitude save). The
+area of this cone is reduced to 30 feet underwater. Targets that fail their saving throw
+also become sickened 1 (sickened 2 on a critical failure). The catoblepas
+can’t use its Breath Weapon again for 1d4 rounds.
+Trample ̂ˬ Medium or smaller, hoof, DC 32
+
+================================================================================
+PAGE 50
+================================================================================
+
+FISHER FILAMENTS
+A cave ﬁsher can rapidly produce
+a cord from a gland at the back of
+its throat. This ﬁlament resembles
+a semi-transparent silk rope and is
+coated with an adhesive that traps
+prey that comes in contact with it.
+When reeling in its prey, the cave
+ﬁsher consumes the ﬁlament as well,
+slurping it up like a noodle.
+A severed ﬁlament can be
+harvested for use as rope. The
+adhesive dries after about 10
+minutes. A harvested ﬁlament gland
+can’t produce new ﬁlaments, but
+it can be used as 25 gp worth of
+raw materials for creating potent
+adhesives, such as sovereign glue.
+Cave Fisher
+Cave ﬁshers lurk in dark corners near the ceilings of caves and underground
+structures, lying in wait for prey to approach. When it does, the cave ﬁsher
+excretes thin, tough, and very sticky ﬁlaments at its prey with lightning speed
+to capture it.
+A cave ﬁsher eats just about any live prey smaller than itself, though anything
+smaller than a rat isn’t much of a meal for it. When a cave ﬁsher captures such
+a creature, it often leaves the hapless animal entangled, using it as bait to attract
+larger creatures. Because the adhesive on its ﬁlament doesn’t last long, the ﬁsher
+frequently needs to eat one ﬁlament and excrete a new one. The ﬁlaments are
+translucent and can be hard to see when they’re still and in darkness.
+Cave ﬁshers hatch with the ability to excrete ﬁlaments, but they molt many
+times before reaching their adult size of about 7 feet long and 400 pounds. They
+often leave shed shells in conspicuous locations as decoys.
+
+================================================================================
+# CAVE FISHER
+================================================================================
+
+
+FISHER FILAMENTS
+A cave ﬁsher can rapidly produce
+a cord from a gland at the back of
+its throat. This ﬁlament resembles
+a semi-transparent silk rope and is
+coated with an adhesive that traps
+prey that comes in contact with it.
+When reeling in its prey, the cave
+ﬁsher consumes the ﬁlament as well,
+slurping it up like a noodle.
+A severed ﬁlament can be
+harvested for use as rope. The
+adhesive dries after about 10
+minutes. A harvested ﬁlament gland
+can’t produce new ﬁlaments, but
+it can be used as 25 gp worth of
+raw materials for creating potent
+adhesives, such as sovereign glue.
+Cave Fisher
+Cave ﬁshers lurk in dark corners near the ceilings of caves and underground
+structures, lying in wait for prey to approach. When it does, the cave ﬁsher
+excretes thin, tough, and very sticky ﬁlaments at its prey with lightning speed
+to capture it.
+A cave ﬁsher eats just about any live prey smaller than itself, though anything
+smaller than a rat isn’t much of a meal for it. When a cave ﬁsher captures such
+a creature, it often leaves the hapless animal entangled, using it as bait to attract
+larger creatures. Because the adhesive on its ﬁlament doesn’t last long, the ﬁsher
+frequently needs to eat one ﬁlament and excrete a new one. The ﬁlaments are
+translucent and can be hard to see when they’re still and in darkness.
+Cave ﬁshers hatch with the ability to excrete ﬁlaments, but they molt many
+times before reaching their adult size of about 7 feet long and 400 pounds. They
+often leave shed shells in conspicuous locations as decoys.
+CAVE FISHER
+CREATURE 2
+N
+MEDIUM
+ANIMAL
+Perception +7; darkvision
+Skills Athletics +10, Stealth +9
+Str +4, Dex +3, Con +3, Int –5, Wis +1, Cha –3
+AC 18; Fort +9, Ref +9, Will +7
+HP 30
+Speed 15 feet, climb 15 feet
+Melee Ȱɵ claw +10, Damage 1d10+6 slashing
+Ranged Ȱɵ ﬁlament +11 (range 60 feet), Eﬀect sticky ﬁlament
+Pull Filament Ȱɵ The cave ﬁsher pulls a creature grabbed by its ﬁlament toward itself,
+even suspending the target vertically if necessary. The cave ﬁsher attempts an
+Athletics check against the creature’s Fortitude DC. On a success, the cave ﬁsher
+pulls the creature 15 feet closer to it (30 feet closer on a critical success).
+Sticky Filament Any creature hit by the cave ﬁsher’s sticky ﬁlament is grabbed.
+The cave ﬁsher can move while it has a creature grabbed with its ﬁlament, but it
+automatically releases the creature if the cave ﬁsher moves beyond the ﬁlament’s
+60-foot length. The cave ﬁsher can use only one ﬁlament at a time, and it can
+sever the ﬁlament and release any creature grabbed by it as a free action. The
+ﬁlament can be severed by a Strike that deals at least 10 slashing damage to it.
+This doesn’t deal any damage to the cave ﬁsher itself. The ﬁlament has AC 17, and
+its Escape DC is 19.
+
+================================================================================
+PAGE 51
+================================================================================
+
+Bestiary 2
+MASSIVE MYRIAPODS
+All centipedes prefer to eat carrion,
+gathering in numbers around
+large corpses or battleﬁelds and
+jealously guarding their troves of
+ﬂesh from any who would disturb
+them. Monstrous centipedes are
+also aggressive hunters and are
+particularly fond of devouring
+horses and similar creatures, often
+snatching a mount right out from
+under its rider. They are unusually
+stealthy for creatures of their size,
+making their swift strikes all the
+more frightening.
+Centipede
+Centipedes are ﬂesh-eating myriapods that skitter with great speed through
+tunnels, forests, and similar densely packed terrain. Many are small predators,
+but others are titanic terrors that devour everything in their path.
+GIANT WHIPTAIL CENTIPEDE
+Whiptail centipedes are sleek and swift tunnel predators.
+
+================================================================================
+# CHOKER
+================================================================================
+
+
+CHOKER TRINKETS
+A choker’s nest is small and conﬁned,
+as the choker prefers. It doesn’t tidy
+its nest, so everything from animal
+bones to valuable treasures might
+be within, compacted into one mass.
+A choker in the wilderness might
+have a few remnants of society taken
+from victims who wandered through.
+These remnants can include candles,
+maps, or animal traps. Chokers in
+cities have stolen goods appropriate
+to their location: books and scrolls if
+a library or wizard’s college is nearby,
+steins and pillows near a tavern, or
+ﬁshhooks and shipping manifests near
+a dock, for example. Chokers almost
+never have edible or drinkable items,
+as they prefer to consume these
+“delicacies” themselves—even magical
+potions and alchemical items.
+Choker
+With long, cartilaginous limbs and gray skin, chokers easily hide in stony alcoves,
+rocky ﬁssures, and darkened staircases to ambush their prey. The strange little
+aberrations prefer to pick off weak and solitary creatures, especially those that
+wander off from their packs or communities. A choker’s long, spongy arms are
+ﬂexible but deceptively strong. The ﬁngers can tighten rapidly and are ridged with
+spiky, tooth-like structures that provide an incredible grip. A choker typically
+strangles its prey to death, then drags the body off or dismembers it using crude
+tools if the body is too big to carry. If confronted or outnumbered, a choker
+tries to escape, often compressing into a tight passage to get away. Chokers that
+encounter humanoids exhibit intense curiosity about their culture, society, and the
+products of art and industry. This interest isn’t very deep—it just results in chokers
+that like killing people and collecting any of their items that seem sophisticated,
+such as jewelry, nice clothing, or written texts.
+Chokers sometimes gather in settlements, usually sticking to slums or abandoned
+structures. These chokers stalk at night, ﬂopping across rooftops, tapping at
+windows, and scuttling through sewers, gutters, and chimneys to get at prey. An
+urban choker that ﬁnds prey early on its hunt—a wandering pet, a person who
+is out alone—might spend the rest of the night indulging its curiosity about the
+products of society. A curious choker might abscond with all sorts of odd items,
+from tavern signs to library books to roof tiles. A choker usually pilfers only one
+item at a time, but as its collection grows, it might need to ﬁnd a larger nest to
+accommodate its collection, then move its pieces one by one to the new home.
+CHOKER
+CREATURE 2
+CE
+SMALL
+ABERRATION
+Perception +7; darkvision
+Languages Aklo, Undercommon
+Skills Athletics +9 (+11 to Grapple), Stealth +9
+Str +3, Dex +3, Con +1, Int –3, Wis +1, Cha –2
+AC 18; Fort +7, Ref +10, Will +7
+HP 28
+Yank Ǻȓ (manipulate) Trigger An enemy targets the choker with an attack; Eﬀect The
+choker tries to pull a creature it has grabbed or restrained into the path of the attack.
+The choker attempts an Athletics check, including its bonus to Grapple. If it succeeds
+against the grabbed or restrained creature’s Fortitude DC, the choker redirects the
+attack to that creature, and the attacker compares its attack roll result against
+the new target’s AC.
+The choker must move the creature into a space adjacent to itself. The
+creature must also be moved within the attacker’s reach against a
+melee attack or into a space between itself and the attacker
+against a ranged attack. The choker can’t use this ability
+to make the attacker target itself, even if it’s grabbing or
+restraining the attacker.
+Speed 20 feet, climb 15 feet
+Melee Ȱɵ arm +11 (reach 10 feet), Damage 1d6+3 bludgeoning
+plus strangling ﬁngers
+Constrict Ȱɵ 1d6+3 bludgeoning, DC 19
+Hidden Movement If the choker starts its turn hidden from or
+undetected by a creature, that creature is ﬂat-footed against
+the choker’s attacks until the end of the turn.
+Strangling Fingers Any creature hit by a choker’s arm
+Strike is automatically grabbed, and the choker
+begins to strangle the target. The creature is
+suﬀocating and can’t speak as long as it’s strangled.
+This prevents it from casting spells with a verbal component or
+activating items with a command component.
+
+================================================================================
+PAGE 53
+================================================================================
+
+Bestiary 2
+WINGED CHUPACABRAS
+Some chupacabras are mutants
+with large reptilian wings and have
+been known to carry oﬀ goats or
+even children. A winged chupacabra
+has a ﬂy Speed of 50 feet. Other
+chupacabras grow much larger, up to
+Medium sized, and can stand eye to
+eye with a full-grown human. These
+chupacabras have elite adjustments
+to their statistics and deal 2d6+5
+damage with their jaws Strikes.
+Chupacabra
+These notorious predators have an undeniable thirst for blood. Chupacabras
+prefer to prey upon the weak and slow, often hiding in wait and watching
+potential prey for long periods before attacking. Spry and stealthy, they most
+often make their homes in areas of high grass and protective rock, their slightly
+reﬂective scales allowing them to blend in well with such surroundings.
+Chupacabras prefer to eat lone travelers and farm animals (particularly goats),
+and leave little evidence of their presence apart from the grisly, blood‑drained
+husks of their meals. Their tendency to stay out of sight combined with their
+naturally nocturnal activity often leads superstitious locals to conclude the
+worst, imagining that a particularly reckless vampire lives in the area.
+A typical chupacabra measures nearly 5-1/2 feet from its muzzle to the tip
+of its spiny tail, and it stands just under 4 feet tall. With their slight build and
+lightweight bones, most weigh close to 100 pounds. They mate rarely and only
+during the hottest months, with the females each producing a single egg that
+hatches into a tiny, dehydrated creature. The mother typically leaves helpless
+prey in her cave so the hatchling can immediately feed.
+Although chupacabras are typically solitary creatures, they have been known
+to form small gangs in bountiful areas. Members of these groups work well
+together, growing bold enough to attack larger animals, small herds, and
+otherwise more dangerous prey. Stories of chupacabras attacking travelers
+or laying siege to farmhouses typically stem from the hunting practices of
+such gangs. Regions where chupacabra activity like this is more common
+often have complex and colorful myths and tall tales about chupacabra
+capabilities or motive—and a few of the claims, such as that some
+chupacabras can ﬂy, are all too true.
+
+================================================================================
+# CHUPACABRA
+================================================================================
+
+
+Bestiary 2
+WINGED CHUPACABRAS
+Some chupacabras are mutants
+with large reptilian wings and have
+been known to carry oﬀ goats or
+even children. A winged chupacabra
+has a ﬂy Speed of 50 feet. Other
+chupacabras grow much larger, up to
+Medium sized, and can stand eye to
+eye with a full-grown human. These
+chupacabras have elite adjustments
+to their statistics and deal 2d6+5
+damage with their jaws Strikes.
+Chupacabra
+These notorious predators have an undeniable thirst for blood. Chupacabras
+prefer to prey upon the weak and slow, often hiding in wait and watching
+potential prey for long periods before attacking. Spry and stealthy, they most
+often make their homes in areas of high grass and protective rock, their slightly
+reﬂective scales allowing them to blend in well with such surroundings.
+Chupacabras prefer to eat lone travelers and farm animals (particularly goats),
+and leave little evidence of their presence apart from the grisly, blood‑drained
+husks of their meals. Their tendency to stay out of sight combined with their
+naturally nocturnal activity often leads superstitious locals to conclude the
+worst, imagining that a particularly reckless vampire lives in the area.
+A typical chupacabra measures nearly 5-1/2 feet from its muzzle to the tip
+of its spiny tail, and it stands just under 4 feet tall. With their slight build and
+lightweight bones, most weigh close to 100 pounds. They mate rarely and only
+during the hottest months, with the females each producing a single egg that
+hatches into a tiny, dehydrated creature. The mother typically leaves helpless
+prey in her cave so the hatchling can immediately feed.
+Although chupacabras are typically solitary creatures, they have been known
+to form small gangs in bountiful areas. Members of these groups work well
+together, growing bold enough to attack larger animals, small herds, and
+otherwise more dangerous prey. Stories of chupacabras attacking travelers
+or laying siege to farmhouses typically stem from the hunting practices of
+such gangs. Regions where chupacabra activity like this is more common
+often have complex and colorful myths and tall tales about chupacabra
+capabilities or motive—and a few of the claims, such as that some
+chupacabras can ﬂy, are all too true.
+CHUPACABRA
+CREATURE 3
+N
+SMALL
+BEAST
+Perception +9; darkvision
+Languages Aklo (can’t speak any language)
+Skills Acrobatics +9 (+11 to Leap), Stealth +9 (+11 in
+undergrowth or rocky areas)
+Str +3, Dex +4, Con +2, Int –3, Wis +2, Cha –2
+AC 20; Fort +9, Ref +11, Will +7
+HP 45
+Speed 25 feet
+Melee Ȱɵ jaws +11 (ﬁnesse), Damage 1d10+5
+piercing plus Grab
+Melee Ȱɵ claw +11 (agile, ﬁnesse), Damage
+1d6+5 slashing
+Chupar Ȱɵ Requirements The chupacabra has
+a creature grabbed; Eﬀect The chupacabra
+sucks blood from the grabbed creature. The
+chupacabra gains the quickened condition
+for 1 minute and can use the extra action
+only for Strike and Stride actions. A
+chupacabra can’t use Chupar again while
+it is quickened in this way. A creature that
+has its blood drained by a chupacabra is
+drained 1 until it receives healing (of any
+kind or amount).
+Pounce Ȱɵ The chupacabra Strides and
+makes a Strike at the end of that
+movement. If the chupacabra began
+this action hidden, it remains hidden
+until after this ability’s Strike.
+
+================================================================================
+PAGE 54
+================================================================================
+
+COCKROACH SPECIES
+Beyond the common giant cockroach,
+other ﬂesh-eating cockroaches
+exist throughout the world. These
+variations include the giant hissing
+cockroach, the noxious venomroach,
+the huge spitting cockroach (which
+can incapacitate enemies from a
+distance), the aggressive sawback
+cockroach, and the mysterious and
+rare dragonroach.
+Cockroach
+Generally seen more as a nuisance than a personal danger, cockroaches inhabit
+most reaches of the world. They are scavengers who live off the detritus of
+the natural world and from those that inhabit it. These maligned insects can
+survive weeks without eating, and most of their meals consist of organic
+waste that would otherwise overwhelm an ecosystem, particularly in their
+preferred urban environments. Though a typical cockroach presents virtually
+no threat, they can become dangerous in large groups, and some species grow
+particularly large.
+GIANT COCKROACH
+Cockroaches are communal creatures, rarely setting out on their own unless
+they are searching for food. If an adventurer encounters a single giant cockroach
+while exploring, they had best take precautions against others, as there is likely
+an entire colony nearby.
+
+================================================================================
+# CULDEWEN
+================================================================================
+
+
+THE CURSE OF CRAWLEY JACK
+The damnable curse of the culdewen
+traces back to the First World, when
+a bitter old culdewen named Crawley
+Jack poached a ﬁsh from the pool
+of a powerful fey noble. Short of
+temper and feeling vindictive, the
+noble doomed Crawley Jack’s people
+to never consume another ﬁsh again.
+Yet their desire to eat ﬁsh never
+diminished. The curse’s punishment
+is exacted in endless creative ways.
+A culdewen’s catch might be rescued
+by merfolk, stolen by skum, eaten
+by nipping sharks, or carried away
+on a piece of driftwood when the
+culdewen’s boat is destroyed in a
+storm or shipwreck.
+Culdewen
+Perpetually cursed to hunger and failure, a culdewen plies waterways in search of
+appealing ﬁsh to catch—the bigger the better. Of course, this diminutive, emaciated
+fey calls every living creature a “ﬁsh.” Only other fey are exempt, and they tend
+to consider culdewens lost causes. A culdewen can never ﬁnd satisfaction. Each
+time they catch a ﬁsh, a magical curse forces them to hunt for an appealing spot
+to dine—an island, cove, or abandoned dock or shack where they can eat in peace.
+By the time they arrive, their catch will be gone. Every time. Forever.
+A foul mood hovers over a culdewen, causing them to swear colorfully, smack
+things with their oar, and shake their tiny ﬁsts at the sky. Conversation with a
+culdewen is fruitless, as they talk in circles, speaking only of ﬁshing and the weather.
+Capturing a “ﬁsh” gives a culdewen a rare moment of happiness; the culdewen
+capers and ululates, pleased with their catch, and rushes off to their boat.
+CULDEWEN
+CREATURE 7
+CE
+SMALL
+AMPHIBIOUS
+FEY
+Perception +15, low-light vision
+Languages Aquan, Common, Sylvan
+Skills Athletics +16, Deception +16, Intimidation +14, Nature +12, Sailing Lore +14,
+Stealth +15, Survival +16
+Str +4, Dex +5, Con +1, Int –1, Wis +2, Cha +4
+Items ﬁsh hook, oar (functions as mace)
+Culdewen’s Curse (curse, enchantment, primal) A culdewen that captures a creature is
+compelled to immediately retreat to a secluded place to eat, typically journeying by
+boat. The travel to the secluded place always takes at least 1 day. Their captive is cursed
+to vanish on the journey—typically being lost in the water or consumed by aquatic
+creatures—and can be recovered only by a wish spell or similarly powerful magic.
+AC 25; Fort +14, Ref +18, Will +13; –2 status to all saves vs. curses
+HP 105; Weaknesses cold iron 5
+Speed 40 feet, swim 40 feet
+Melee Ȱɵ ﬁsh hook +17 (trip), Damage 2d10+7 piercing
+plus hooked
+Melee Ȱɵ oar +17 (shove), Damage 2d6+7 bludgeoning
+Ranged Ȱɵ ﬁsh hook +18 (thrown 30 feet), Damage
+2d10+7 piercing plus hooked
+Hooked A creature struck by the culdewen’s ﬁsh hook is
+skewered, taking 1d4 persistent bleed damage as long as
+the hook remains stuck in it. The ﬁsh hook can be removed
+only if a creature spends an Interact action and succeeds at a
+DC 25 Athletics check to pull it free.
+Land the Fish Ȱɵ Requirements A creature is hooked by the
+culdewen’s ﬁsh hook and adjacent to the culdewen; Eﬀect The
+culdewen hoists the creature over their shoulder, as though it
+weighs no more than a ﬁsh. Unless the creature is unable to
+act, the culdewen must attempt an Athletics check against the
+creature’s Fortitude DC. On a success, the creature is restrained by the culdewen.
+While hoisting a creature, the culdewen gains a +20-foot status bonus to their
+Speeds and is compelled to escape with it (see culdewen’s curse above).
+Reel In Ȱɵ (manipulate) The culdewen pulls the rope attached to their hook. If they
+have no creature hooked, the ﬁsh hook returns to the culdewen’s hand. If a creature
+is hooked, the culdewen attempts an Athletics check against the creature’s Fortitude
+DC, pulling it up to 30 feet closer on a success (60 feet on a critical success).
+Swear Ȱɵ (auditory, curse, enchantment, primal) The culdewen
+unleashes a string of invectives. Each creature that hears them
+must attempt a DC 25 Will save, with the eﬀects of mariner’s
+curse and is then temporarily immune for 24 hours. Even on
+a failed save, the curse ends automatically after 1 day.
+
+================================================================================
+PAGE 59
+================================================================================
+
+Bestiary 2
+ABADDON
+Daemons hail from Abaddon, a plane
+of pure evil for only the most corrupt
+souls. If Hell is a realm of torture
+and systematic depravity, Abaddon
+is its twisted cousin—a place where
+one can ﬁnd only misery and
+despair in ample quantities, with
+neither the strictures of Hell nor
+the chaotic freedom of the Abyss.
+For evildoers who seek simply to
+inﬂict their wickedness on others,
+Abaddon is a rich hunting ground
+where one can revel in turpitude,
+though visitors be forewarned: the
+competition is ﬁerce.
+Daemon
+Daemons form from the most despicable souls and personify forms of death.
+PISCODAEMON (VENOM DAEMON)
+Scions of death by poisoning, piscodaemons are cruel even by daemonic standards,
+delighting in slow and painful suffering. To a piscodaemon, death is but the icing on
+a putrescent cake—its true pleasure comes from watching, hearing, smelling, and
+even tasting raw anguish. While poisons and venoms are piscodaemons’ preferred
+tools, their cruel claws are more than capable of tearing enemies asunder if necessary.
+Piscodaemons dwell in fetid swamps and noxious waterways, including the River
+Styx, the Bile Sluice, and the Drowning Court of Charon, Horseman of Death. They
+are often accompanied by cadres of hydrodaemons—representations of death by
+drowning. While they are cunning commanders, piscodaemons are apt to forget
+their station in the heat of battle and slice their way to the center of the fray.
+
+================================================================================
+# CORNUGON
+================================================================================
+
+
+THE MALEBRANCHE
+Every 5,000 years, the mightiest
+cornugon becomes a malebranche,
+a quasi-deity below infernal dukes.
+Scholars on Golarion currently know
+of 12 active malebranche, and while
+each is unique, all share the goal of
+conquering the Material Plane.
+CORNUGON
+CREATURE 16
+LE
+LARGE
+DEVIL
+FIEND
+Perception +28; greater darkvision
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 feet
+Skills Acrobatics +28, Athletics +32, Intimidation +30, Religion +28, Stealth +26, Warfare
+Lore +30
+Str +8, Dex +6, Con +7, Int +4, Wis +6, Cha +6
+Items +2 greater striking unholy spiked chain
+AC 38; Fort +31, Ref +26, Will +26; +1 status to all saves vs. magic
+HP 300; Immunities ﬁre; Weaknesses good 15; Resistances physical 15 (except silver),
+poison 15
+Circle of Protection (abjuration, aura, divine, evil)
+10 feet. A constant circle of protection
+against good is centered on the
+cornugon.
+Commander’s Aura (aura, divine,
+enchantment)
+feet.
+Allied evil creatures in
+the aura of a level lower
+than the devil’s gain a +1
+circumstance
+bonus
+to
+attack rolls, damage rolls,
+AC, saves, and skill checks.
+Frightful Presence (aura,
+divine, emotion, enchantment,
+fear, mental) 10 feet, DC 34
+Attack of Opportunity Ǻȓ
+Speed 25 feet, ﬂy 50 feet
+Melee Ȱɵ spiked chain +34 (disarm, evil, ﬁnesse, magical,
+reach 10 feet, trip), Damage 3d8+16 slashing plus 2d6 evil
+and stunning chain
+Melee Ȱɵ claw +32 (agile, magical, reach 10 feet), Damage 3d10+14 slashing
+plus 1d6 evil
+Melee Ȱɵ tail +32 (magical, reach 10 feet), Damage 3d8+14 slashing plus 1d6
+evil and infernal wound
+Divine Innate Spells DC 36; 7th dispel magic, ﬁreball (×2),
+lightning bolt (×2); 5th dimension door; 4th dimension door
+(at will)
+Rituals DC 36; infernal pact
+Chain of Malebolge Ȱɵ Requirements The cornugon’s
+last action was a success with a spiked chain
+Strike; Eﬀect The devil pulls the creature 5 feet
+closer and grabs it with the spiked chain
+(Escape DC 42). The creature is automatically
+freed if the devil makes another spiked chain
+attack or moves away.
+Infernal Wound (divine, necromancy) A cornugon’s
+tail Strike deals 4d6 persistent bleed damage.
+The DC of the ﬂat check to stop the bleeding
+starts at 20 and is reduced to 15 only if someone
+successfully assists. The DC to Administer First Aid to a creature
+with an infernal wound increases by 10. A spellcaster or item using healing
+magic on an infernally wounded creature must succeed at a DC 34 counteract check or
+the magic fails to heal the creature.
+Stunning Chain (incapacitation) If the cornugon critically hits with its spiked chain
+Strike, the target must succeed at a DC 34 Fortitude save or be stunned for 1
+round (1d4 rounds on a critical failure).
+
+================================================================================
+PAGE 79
+================================================================================
+
+Bestiary 2
+SOUL SWALLOWERS
+The fact that devourers consume
+souls makes them particularly hated
+by the church of Pharasma and
+psychopomps alike.
+Devourer
+When ﬁends and powerful evil spellcasters are lost beyond the farthest reaches
+of the multiverse, they sometimes return as horriﬁc undead called devourers that
+consume the souls of the living to fuel their arcane machinations. Their bodies are
+ruined and rebuilt, hollow and twisted, even as their minds undergo a spiritual
+transformation. They gain the ability to bind other souls to their own and drain
+their essence for magical power, yet can never be sated in their pursuit of it.
+Seething masses of distorted ghostly shapes surge within their hollow rib cages—
+manifestations of the devourers’ most recently consumed souls.
+
+================================================================================
+# CARRION GOLEM
+================================================================================
+
+CARRION GOLEM
+CREATURE 4
+UNCOMMON
+N
+MEDIUM
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +6; darkvision
+Skills Athletics +14
+Str +4, Dex –2, Con +3, Int –5, Wis +0, Cha –5
+AC 19; Fort +13, Ref +8, Will +10
+HP 60; Immunities bleed, death eﬀects, disease,
+doomed, drained, electricity, fatigued,
+healing, magic (see Golem
+Antimagic below), mental,
+
+================================================================================
+PAGE 130
+================================================================================
+
+ICE GOLEM COMPONENTS
+When destroyed, the magic
+sustaining an ice golem’s form
+quickly dissipates. Unless it is in a
+freezing environment, the golem’s
+shattered remains soon melt
+completely away. Still, the animating
+magic can linger in shards of ice
+that resist melting; these may fetch
+a good price from wealthy folk to
+preserve foods or chill beverages.
+Pieces of ice that are captured and
+magically preserved or allowed to
+melt in sealed containers can also be
+sold to scholars who may be able to
+divine arcane secrets from the once
+magically animated materials.
+necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances
+physical 5 (except adamantine or slashing)
+Golem Antimagic harmed by ﬁre (4d6, 1d8 from areas or persistent damage); healed by
+electricity (area 1d6 HP); slowed by cold
+Stench (aura, olfactory) 40 feet. A creature entering the aura or starting its turn in the
+aura must succeed at a DC 19 Fortitude save or become sickened 1 (plus slowed 1 for as
+long as it’s sickened on a critical failure). While within the aura, aﬀected creatures take
+a –2 circumstance penalty to saves against disease and to recover from the sickened
+condition. A creature that succeeds at its save is temporarily immune for 1 minute.
+Vulnerable to Gentle Repose Casting a gentle repose spell on a carrion golem causes it
+to grow stiﬀ. The golem attempts a DC 19 Fortitude save. It’s unaﬀected on a critical
+success, slowed 1 for 1d4 rounds on a success, and on a failure is immobilized and
+slowed for 1d4 rounds.
+Speed 25 feet
+Melee Ȱɵ jaws +14 (magical), Damage 2d10+4 piercing plus ﬁlth fever
+Melee Ȱɵ claw +14 (agile, magical), Damage 2d6+4 slashing plus ﬁlth fever
+Filth Fever (disease) The sickened and unconscious conditions from ﬁlth fever can’t
+end or be reduced until the disease is cured; Saving Throw DC 19 Fortitude; Stage 1
+carrier with no ill eﬀect (1d4 hours); Stage 2 sickened 1 (1 day); Stage 3 sickened 1
+and slowed 1 as long as it remains sickened (1 day); Stage 4 unconscious (1 day);
+Stage 5 dead
+ICE GOLEM
+Ice golems are either carved from massive blocks of ice, or pieced together from
+individual components that are then fused together through heat and refreezing.
+In most cases, the resulting shape is little more than a crude approximation of a
+humanoid form, but given the right talent, an ice golem could be an exquisitely
+carved statue of a mythical creature, famous persona, or even a deity.
+While ice golems most frequently serve as guardians in freezing climates,
+the magic that holds an ice golem together keeps it from melting in warmer
+temperatures. This, combined with the fact that ice golems lie on the lower
+end of the scale as far as cost and difﬁculty to create, gives these constructs
+unusual features that puts them in great demand. The rich and powerful
+in hot, arid regions often commission ice golems not only as guardians
+for their estates and vaults, but for comfort—the presence of an ice golem
+standing quietly sentinel in the corner of a room can help to keep the
+chamber at a comfortable temperature. The truly decadent use ice
+golems as servants to keep drinks cold.
+
+================================================================================
+# CAIRN LINNORM
+================================================================================
+
+
+Bestiary 2
+FIRST WORLD CONNECTIONS
+Linnorms have a deep connection to
+the First World, the primordial home
+of the fey. While linnorms typically
+won’t think twice before devouring
+a gnome or other fey, they do have
+an unusual respect for wielders of
+powerful primal magic. The only
+way to cow a linnorm, according
+to common wisdom, is to remind it
+that there are forces of nature even
+stronger than itself.
+creature’s skin, giving it a –10-foot penalty to Speed. A creature can Escape or Force
+Open the ice (DC 34) to free itself; otherwise, the ice remains for 1 minute. The ford
+linnorm can’t use Breath Weapon again for 1d4 rounds.
+Fjord Linnorm Venom (cold, poison) Saving Throw DC 37 Fortitude; Maximum Duration 10
+rounds; Stage 1 4d6 cold damage and clumsy 1 (1 round); Stage 2 6d6 cold damage and
+clumsy 2 (1 round)
+CAIRN LINNORM
+Cairn linnorms are disturbing, even by linnorm standards. They make their homes
+in necropolises, burial grounds, and the sites of immense and gory battles. Some
+point out that cairn linnorms feast on shambling undead and thus provide a
+service to the living, but these beasts are not choosy and will happily consume any
+creature, whether or not it draws breath.
+Some tales state that cairn linnorms will not—or cannot—enter a tomb
+without the permission of a descendant of the deceased (or the permission of the
+deceased itself, in the instance that it has risen from the dead). Likewise, once a
+cairn linnorm has entered a tomb, it won’t leave until it has secured permission
+to do so. Whether such legends are true or not is anyone’s guess; nevertheless,
+reports of a cairn linnorm in the vicinity are harrowing enough to dissuade
+even the most foolhardy grave robber from peeking into too many crypts
+or mausoleums.
+CAIRN LINNORM
+CREATURE 18
+UNCOMMON
+CE
+GARGANTUAN
+DRAGON
+Perception +30; darkvision, scent (imprecise) 60 feet, true seeing
+Languages Aklo, Draconic, Sylvan
+Skills Acrobatics +32, Athletics +35
+Str +9, Dex +6, Con +8, Int –2, Wis +6, Cha +7
+AC 43; Fort +34, Ref +30, Will +26; +1 status to all saves vs.
+magic
+HP 360, regeneration 15 (deactivated by cold iron); Immunities
+acid, curse, paralyzed, sleep; Weaknesses cold iron 15
+Curse of the Crooked Cane (curse, primal) When a creature slays a
+cairn linnorm, it must succeed at a DC 44 Will save or become permanently enfeebled 2.
+In addition, the victim ages at an accelerated rate, aging 1 year every day, eventually
+causing it to die of old age if the curse is left untended.
+Attack of Opportunity Ǻȓ Tail only.
+Speed 35 feet, climb 40 feet, ﬂy 100 feet, swim 40 feet; freedom of movement
+Melee Ȱɵ jaws +35 (magical, reach 25 feet), Damage 3d12+17 piercing plus cairn
+linnorm venom
+Melee Ȱɵ claw +35 (agile, magical, reach 25 feet), Damage 3d8+17 slashing
+Melee Ȱɵ tail +35 (agile, magical, reach 25 feet), Damage 3d10+17 bludgeoning plus
+Improved Grab
+Primal Innate Spells DC 40; Constant (8th) freedom of movement;
+(7th) true seeing
+Breath Weapon ʚʖ (acid, evocation, primal) The cairn linnorm expels
+a 60-foot cone of negative energy–infused acid, dealing 19d6 acid
+damage to creatures in the area (DC 40 basic Reﬂex save).
+The acid also saps the life out of aﬀected creatures. At
+the beginning of the linnorm’s next turn, each creature
+that failed the Reﬂex save must succeed at a
+DC 40 Fortitude save or become
+drained 1 (drained 2 on
+a critical failure). The
+cairn linnorm can’t use
+Breath Weapon again
+for 1d4 rounds.
+
+================================================================================
+PAGE 168
+================================================================================
+
+RARER LINNORMS
+While the linnorms presented here
+and in the ﬁrst Bestiary constitute the
+majority of these creatures, others
+exist, particularly in the remote
+regions of the First World. It may be
+that these rare linnorms simply ﬁnd
+the Material Plane too constraining
+for their might!
+Cairn Linnorm Venom (acid, poison) Saving Throw DC 41 Fortitude; Maximum Duration
+10 rounds; Stage 1 6d6 acid damage and drained 1 (1 round); Stage 2 8d6 acid damage
+and drained 2 (1 round)
+TAIGA LINNORM
+Taiga linnorms are covered in hundreds of quill-like black spines as sharp as spears.
+Wise hunters native to linnorm-infested lands know to watch for spines stuck in
+the bark of conifers—a sure sign that a taiga linnorm has recently passed through.
+Sometimes this means of tracking isn’t enough to avoid an encounter, however; taiga
+linnorms, like their tarn and tor brethren, are skilled stalkers. They prefer to lurk
+in half-frozen bogs or swampy marshlands with their heads poking just above the
+water’s surface, ever watchful for unwary prey.
+
+================================================================================
+# CARNIVOROUS BLOB
+================================================================================
+
+
+VERDUROUS CONGREGATION
+When verdurous oozes gather in
+suﬃcient number, they can merge
+together into conjoined forms.
+These enlarged blobs develop red
+and white connecting vessels that
+pulse hideously as thick, green ﬂuid
+moves within them. While conjoined,
+the oozes move as one creature.
+Their usual enliven foliage and
+sleep gas auras double in size, and
+they become even more aggressive,
+feeding voraciously on any metal or
+ﬂesh they can ﬁnd.
+Constrict Ȱɵ 2d6 bludgeoning plus 1d6 acid, DC 24
+Sleep Gas ʚʖ (incapacitation, mental, poison, sleep) The verdurous ooze adjusts its aura
+of supernatural vapors to aﬀect living creatures within a 20-foot emanation, forcing
+them to attempt a DC 24 Will save.
+Critical Success The creature is unaﬀected and becomes temporarily immune to Sleep
+Gas for 24 hours.
+Success The creature is stupeﬁed 1 for 1 round.
+Failure The creature falls unconscious. If it’s still unconscious after 1 minute, it wakes
+up automatically.
+Critical Failure The creature falls unconscious. If it’s still unconscious after 1 hour, it
+wakes up automatically.
+Verdurous Ooze Acid A verdurous ooze’s acid damages only metal and ﬂesh—not bone,
+stone, or other materials.
+CARNIVOROUS BLOB
+Carnivorous blobs are the ravenous spawn of shattered worlds far beyond the
+stars, born across the galaxy in inert form until they fall like meteorites onto
+unsuspecting worlds. These massive beings can lie dormant
+for years in desolate caverns or barren wastelands. When
+a carnivorous blob perceives living creatures nearby, it
+lurches to gelatinous life, seeking out and consuming
+every creature it can catch until it is destroyed or until
+it has been unable to locate food for 24 hours, at
+which point it returns to hibernation. Often, keeping
+food away from a carnivorous blob is the safest way
+to defeat it. The blob’s ability to split into smaller
+oozes that might stay hidden after a ﬁght means it can
+be hard to fully eradicate these mindless predators.
+CARNIVOROUS BLOB
+CREATURE 13
+N
+GARGANTUAN
+MINDLESS
+OOZE
+Perception +23; motion sense 240 feet, no vision
+Skills Athletics +27
+Str +8, Dex –3, Con +6, Int –5, Wis +0, Cha –5
+Motion Sense As amoeba swarm.
+AC 20; Fort +25, Ref +14, Will +19
+HP 300; Immunities acid, critical hits, mental, piercing,
+precision, slashing, sonic, unconscious, visual
+Split As verdurous ooze.
+Reactive Strikes Ǻȓ Trigger The carnivorous blob takes
+damage from any source; Eﬀect The blob makes a
+pseudopod Strike against an adjacent target. If an
+adjacent creature dealt the triggering damage, that
+creature is the target of this Reactive Strike.
+Speed 20 feet, climb 20 feet, swim 20 feet
+Melee Ȱɵ pseudopod +26 (reach 30 feet), Damage
+2d12+12 bludgeoning plus 2d6 acid and Grab
+Carnivorous Blob Acid A carnivorous blob’s acid damages
+only ﬂesh—not bone, stone, wood, or other materials—
+but is nonetheless devastating. Whenever a creature
+takes damage from this acid, it must succeed at a
+DC 33 Fortitude save or become drained 1 (drained 2
+on a critical failure). On each subsequent failure, the
+drained condition value increases by 1 (or by 2 on a
+critical failure), to a maximum of drained 4.
+Constrict Ȱɵ 2d12 bludgeoning plus 2d6 acid, DC 33
+Engulf ʚʖ DC 33, 4d10 acid, Escape DC 33, Rupture 20
+
+================================================================================
+PAGE 197
+================================================================================
+
+Bestiary 2
+PELUDA PATRONS
+Occasionally a particularly cunning
+band of humanoids—typically
+lizardfolk or orcs—ﬁnds a way to
+assuage a local peluda’s temper
+and then elevate the dragon to the
+status of a local liege, patron, or even
+object of worship. Although peludas
+rarely have any actual aﬀection
+for such servants, they revel in
+the submission of these weaker
+creatures and the gifts of gold and
+food they bring.
+Peluda
+Peludas are wild and savage dragons that favor reedy marshlands, sparsely
+forested bogs, and river valleys for lairs. A single peluda typically claims a stretch
+of waterways a few miles in length, then systematically drives off any potential
+rivals so that the peluda can despoil the land as they please, leaving clawed
+footprints on muddy riverbanks, toppling trees, and impaling half-eaten corpses
+on their quills as trophies left to rot. They venture beyond their domains to hunt,
+roasting prey with their breath or pulverizing them with their tails, burning and
+killing for cruel sport before slithering, sated, back to their mucky lairs.
+Peludas despise weakness and loathe creatures smaller than themselves,
+especially humanoids, whom they see as fragile and soft, good only for eating or
+breaking. In contrast, peludas have a massive inferiority complex regarding more
+impressive creatures—especially larger and stronger dragons. Peludas will try
+anything to become stronger, including ingesting shiny coins, gems, and jewelry,
+which old folk tales claim will strengthen their quills and ﬁre breath.
+
+================================================================================
+# CATRINA
+================================================================================
+
+
+PSYCHOPOMP FOES
+Psychopomps’ greatest enemies are
+creatures that devour or steal souls,
+such as astradaemons and night
+hags. Their other opponents include
+necromancers, proteans, and those
+who have unnaturally extended their
+lifespan, such as liches.
+CATRINA
+Not all spirits who enter the Boneyard realize they have died. Catrinas meet these
+souls, helping to convince them of the ﬁnality of their fate to ease a spirit’s passing.
+Catrinas are more likely to intervene when a mortal can’t accept their death. They
+perform their task to keep the afterlife calm, rather than out of true compassion
+for a mortal’s grief. Catrinas only rarely visit the Material Plane, typically to help
+an extremely important mortal pass on.
+Catrinas resemble skeletons dressed in bright ﬂowers and colorful dresses,
+giving them a simultaneously festive and macabre appearance. Though most
+catrinas present as feminine, masculine catrinas still dress in bright colors and
+carry garlands of ﬂowers.
+CATRINA
+CREATURE 5
+N
+MEDIUM
+MONITOR
+PSYCHOPOMP
+Perception +13; darkvision, lifesense 60 feet
+Languages Abyssal, Celestial, Infernal, Requian; telepathy 120 feet, tongues
+Skills Acrobatics +14, Boneyard Lore +11, Diplomacy +14, Intimidation +14,
+Medicine +12, Occultism +11, Religion +12
+Str +0, Dex +5, Con +4, Int +2, Wis +4, Cha +5
+AC 22; Fort +11, Ref +12, Will +13; +1 status to all saves vs. magic
+HP 75; Immunities death eﬀects, disease; Resistances negative 5, poison 5
+Calming Presence (aura, divine, emotion, enchantment, incapacitation) 30 feet. A
+creature that begins its turn within the area must attempt a DC 18 Will save.
+Critical Success The creature is unaﬀected and is temporarily immune to calming
+presence for 24 hours.
+Success The creature’s attack rolls take a –1 status penalty for 1 round.
+Failure Any emotion eﬀects that would aﬀect the creature are suppressed and the
+creature can’t use hostile actions. If the creature is subjected to hostility from any
+other creature, it ceases to be aﬀected by calming presence and is temporarily
+immune to calming presence for 24 hours.
+Critical Failure As failure, but hostility doesn’t end the eﬀect.
+Speed 25 feet
+Melee Ȱɵ ﬁst +14 (agile, ﬁnesse), Damage 2d8+2 bludgeoning plus
+spirit touch
+Divine Innate Spells DC 22; 4th dimension door, talking
+corpse (at will); 3rd illusory disguise; 2nd invisibility (at
+will, self only); Cantrips (3rd) dancing lights; Constant
+(5th) tongues
+Compel Condemned Ȱɵ (divine, enchantment, incapacitation,
+mental) The catrina telepathically compels a creature
+within 30 feet to approach and allow the catrina to kiss
+them, in preparation for using Kiss of Death. The target
+must attempt a DC 22 Will save.
+Success The creature is unaﬀected and is temporarily immune
+to Compel Condemned for 24 hours.
+Failure The creature must spend each of its actions to move closer to the catrina as
+quickly as possible, while avoiding obvious dangers. If the compelled creature is
+adjacent to the catrina, it stays still and doesn’t act. If the creature takes any damage,
+the eﬀect ends and the creature is temporarily immune to Compel Condemned for
+24 hours. This eﬀect lasts for 1 round, but if the catrina uses this ability again on
+subsequent rounds, it extend the duration by 1 round for all aﬀected creatures.
+Critical Failure As failure, but damage does not end the eﬀect.
+Kiss of Death ʚʖ (death, divine, manipulate, necromancy) The catrina gives a long,
+passionate kiss to an unconscious or willing creature, dealing 3d6 negative damage.
+Any creature damaged by the same catrina’s Kiss of Death for 3 consecutive rounds
+becomes unconscious and is dying 1.
+Spirit Touch As esobok.
+
+================================================================================
+PAGE 211
+================================================================================
+
+Bestiary 2
+VANTH SCYTHES
+Vanths’ favored weapon is the scythe,
+a choice that even further adds to
+their fearsome appearance and can
+lead to unfortunate associations with
+the Grim Reaper or Urgathoa among
+more superstitious mortals. Vanths
+ﬁnd such comparisons to be ignorant
+at best or insulting at worst. Some
+vanths infuse their scythes with
+diﬀerent qualities, such as cold iron
+or silver, depending on the nature of
+their most common enemies.
+VANTH
+Protecting the Boneyard are the stern and resolute guardians of the dead known as
+vanths, psychopomps who resemble skeletons with raven-like wings and a mask
+resembling a vulture’s skull. Vanths carry black scythes to ﬁght against those who
+would disturb the natural progression of souls, and they consider any visitor to
+the Boneyard a potential troublemaker. When the psychopomp armies go to war,
+vanths serve as front-line soldiers. They rarely speak and even more rarely show any
+emotion other than a grim adherence to duty.
+
+================================================================================
+# CYTHNIGOT
+================================================================================
+
+
+Bestiary 2
+QLIPPOTH AND DEMONS
+Qlippoth ruled the Abyss for eons
+and still see themselves as its rightful
+rulers. When the Abyss ﬁrst began to
+spawn demons from the souls of sinful
+humanoids, the realm was plunged
+into a brutal war spanning untold
+millennia, in which qlippoth, though
+more powerful and established, were
+slowly but surely driven back by the
+endless demonic hordes who spawned
+far more quickly than qlippoth could
+ever hope to match. Today, qlippoth
+have been driven to the deepest,
+darkest corners of the Abyss where
+they cling tightly to the crumbling
+remains of their territory.
+Qlippoth
+Long before the creatures known as demons came to be the dominant force in
+the Abyss, qlippoth ruled the Outer Rifts. These inimical creatures are a form of
+primordial and alien evil that predates mortal life, and most immortal life as well.
+Since the rise of mortal sin and the associated expansion of demonic life through
+the Abyss, qlippoth have been driven to the deepest reaches of the Abyss, and
+they seethe with rancor at the loss of their realms. Yet rather than directly oppose
+demons, qlippoth instead turn to the source—mortal sin—and wage an endless
+war to eradicate all creatures capable of sinful acts so that the demonic tide might
+be turned back.
+CYTHNIGOT
+The cythnigot is a foul fungal parasite that grows and thrives in the corpses of
+small creatures. It wears these bodies like a suit, but also adjusts and tailors the
+ﬂeshy covering to suit its needs, and the body ends up looking as alien as anything
+else spawned from the Abyssal depths. The cythnigot’s most identifying feature is
+the long stalk of fungal material that extends from creature’s body, ending in a
+surprisingly strong set of fanged jaws.
+CYTHNIGOT
+CREATURE 1
+UNCOMMON
+CE
+TINY
+FIEND
+QLIPPOTH
+Perception +5; darkvision
+Languages Abyssal; telepathy (touch only)
+Skills Acrobatics +6, Occultism +7, Stealth +6
+Str +1, Dex +3, Con +4, Int +2, Wis +2, Cha +1
+AC 16; Fort +9, Ref +6, Will +5
+HP 14; Immunities controlled, fear; Weaknesses lawful 3; Resistances
+mental 3, physical 3 (except cold iron)
+Speed 30 feet, ﬂy 40 feet
+Melee Ȱɵ bite +8 (agile, chaotic, ﬁnesse, magical), Damage 1d10+1
+piercing plus 1d4 chaotic and tangle spores
+Occult Innate Spells DC 17; 4th read omens; 2nd detect alignment (at
+will, lawful only), paranoia; 1st phantom pain; Cantrips (1st) daze,
+detect magic
+Sickening Display Ȱɵ (concentrate, emotion, enchantment, fear,
+mental, occult, visual) The cythnigot presents its awful appearance
+fully, and creatures in a 10-foot emanation must attempt a DC 17
+Will save. Once a creature attempts this save, it’s temporarily
+immune to further Sickening Displays for 1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature is ﬂat-footed until its next turn.
+Failure The creature is sickened 1, and is ﬂat-footed for as
+long as it’s sickened.
+Critical Failure The creature is sickened 2 and is ﬂat-footed
+for as long as it’s sickened.
+Tangle Spores (disease) A creature bitten by a cythnigot
+becomes aﬄicted by fast-growing spores that swiftly grow
+into twitching spikes and hideous pallid growths of hairlike
+ﬁbers. These growths erupt from the bite wound and writhe
+and wrap around the creature’s limbs. Plant creatures take
+a –2 circumstance penalty to save against tangle spores; Saving
+Throw DC 17 Fortitude; Maximum Duration 6 rounds; Stage 1 clumsy
+1 (1 round); Stage 2 clumsy 1 and ﬂat-footed (1 round); Stage 3 clumsy
+2, ﬂat-footed, and if you attempt a manipulate action, you must
+succeed at a DC 5 ﬂat check or it’s lost; roll the check
+after spending the action, but before any eﬀects
+are applied (1 round).
+
+================================================================================
+PAGE 214
+================================================================================
+
+QLIPPOTH AND MORTALS
+As qlippoth lost territory to their
+demonic rivals, they realized that the
+only way to stem the tide of demonic
+forces was to starve them of the
+sinful souls that the Abyss uses to
+spawn new demons. While qlippoth
+have no concept of how they
+might go about preventing sin by
+changing the way mortals act, they
+do understand that exterminating
+mortal life would solve the problem
+as well.
+SHOGGTI
+Shoggti travel to other planes in roving bands to capture and charm victims,
+bringing them back to the Abyss where they are enslaved for unknown—but no
+doubt insidiously evil—purposes. These squid-like qlippoth have slick, blue skin
+and four suckered tentacles that end in dexterous pincers. In addition to a lampreylike mouth at the base of its body, each has a secondary maw in the middle of its
+forehead that stretches from between its two bulging eyes to the back of its head.
+
+================================================================================
+# CHERNOBUE
+================================================================================
+
+door; 3rd fear (at will)
+Feeding Frenzy Ȱɵ Requirement The nyogoth has grabbed a creature; Eﬀect The nyogoth
+slavers and chews at the grabbed creature, dealing 2d6+7 slashing and 1d6 acid
+damage (DC 29 basic Fortitude save).
+Nauseating Display ʚʖ (concentrate, emotion, enchantment, fear, incapacitation,
+mental, occult, visual) The nyogoth untangles its tentacles and prolapses its
+many mouths, turning itself inside out in a truly nauseating display.
+Creatures in a 30-foot emanation must attempt a DC 29
+Will save, after which they are temporarily immune to
+further Nauseating Displays for 1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature is sickened 1.
+Failure The creature is stunned 3 and
+sickened 1.
+Critical Failure The creature is
+stunned 5 and sickened 2.
+CHERNOBUE
+The chernobue infects all creatures it encounters
+with itself, spreading pain and calamity wherever it
+ﬂops and writhes. It sheds ruin and sups on anguish,
+but a chernobue can sometimes be persuaded to pause
+for a few moments of conversation if its partner in
+discourse can keep its attention by providing
+enough atrocious details. Resembling a
+tumor-like growth of oily blackness, this
+vile monstrosity has numerous muscular
+tentacles, a single glaring baleful eye, and a drooling, toothy maw
+in the middle of its body.
+CHERNOBUE
+CREATURE 12
+UNCOMMON
+CE
+LARGE
+FIEND
+QLIPPOTH
+Perception +25; greater darkvision, scent (imprecise) 30 feet
+Languages Abyssal; telepathy 100 feet
+Skills Acrobatics +22, Athletics +25, Intimidation +25, Occultism +22
+Str +7, Dex +4, Con +5, Int +4, Wis +7, Cha +5
+AC 33; Fort +23, Ref +18, Will +25
+HP 220; Immunities controlled, fear; Weaknesses lawful 10;
+Resistances mental 10, physical 10 (except cold iron)
+
+================================================================================
+PAGE 216
+================================================================================
+
+OTHER QLIPPOTH
+The qlippoth presented here are but
+a small fraction of the squirming
+awfulness that lurks in the deeper
+rifts of the Abyss. Other types of
+qlippoth include multi-armed, crab-like
+gongorinans, which use living
+creatures as incubators; shapeshifting
+utukku, which inﬁltrate and undermine
+religions; death-spawned behimirons,
+which slay the living to reproduce;
+and the living siege engines known as
+catabolignes. Yet most frightening of
+all is the immense iathavos, a monster
+so abhorrent that even the Abyss
+cannot bear to allow more than one to
+exist at any one time.
+Aura of Order’s Ruin (aura, necromancy, occult) 30 feet. A lawful or good creature that
+begins its turn in this aura’s emanation must attempt a DC 29 Will save or become
+sickened 1 (lawful good creatures instead become sickened 2).
+Boiled by Light A chernobue takes 2d10 points of ﬁre damage each time it starts its turn
+in an area of bright light.
+Recall Venom Ǻȓ Trigger A creature within 30 feet suﬀers the eﬀects from stage 2 of
+rupturing venom; Eﬀect The chernobue calls out telepathically to the semi-alive
+toxin, causing it to burst out of the target’s body and slither through the air to
+drain back into one of the chernobue’s mouths. The poisoned creature takes 7d6
+bludgeoning damage (DC 32 basic Fortitude save) as the venom exits its body, but
+is thereafter cured of rupturing venom, and the chernobue regains an equal number
+of Hit Points.
+Speed 30 feet; air walk
+Melee Ȱɵ jaws +26 (chaotic, magical), Damage 3d10+13 piercing plus 1d6 chaotic and
+rupturing venom
+Melee Ȱɵ tentacle mouth +26 (agile, chaotic, magical, reach 15 feet), Damage 3d6+13
+piercing plus 1d6 chaotic
+Occult Innate Spells DC 32; 7th plane shift (self only); 6th phantasmal calamity, phantom
+pain; 5th subconscious suggestion; 4th darkness (at will); Cantrips (6th) daze, detect
+magic; Constant (4th) air walk
+Paralyzing Display ʚʖ (concentrate, emotion,
+enchantment, fear, incapacitation, mental,
+occult, visual) The chernobue’s eye
+pulses and its lid peels back to reveal
+mind-bending awfulness. Creatures in
+a 30-foot emanation must attempt a
+DC 32 Will save, after which they are
+temporarily immune to further Paralyzing
+Displays for 1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature is slowed 1 for 1 round.
+Failure The creature is paralyzed for 1d4
+rounds. It can attempt a new save to
+end the eﬀect at the end of each of
+its turns.
+Critical Failure As failure, but paralyzed
+for 1 minute.
+Rupturing
+Venom
+(poison)
+The
+thick, orange venom injected by
+a chernobue is semi-alive, and as
+it seethes in a creature’s body, it
+deals poison damage in addition to
+bludgeoning damage as it ruptures
+flesh; Saving Throw Fortitude DC 32;
+Maximum Duration 6 rounds; Stage
+1 2d6 poison and 2d6 bludgeoning (1
+round); Stage 2 2d6 poison, 2d6 bludgeoning,
+and enfeebled 2 (1 round)
+AUGNAGAR
+The brutish and gluttonous augnagar live to feast—
+preferably on rotten ﬂesh, and when possible, demon
+ﬂesh. But to them, the greatest delicacy is the ﬂesh
+of other augnagars. Augnagars have spiderlike legs
+with leathery membranes like a bat’s wings, and
+three tails ending in hooked claws perfect for
+slicing ﬂesh.
+
+================================================================================
+PAGE 217
+================================================================================
+
+Bestiary 2
+AUGNAGARS AND THULGANTS
+An augnagar that gorges suﬃciently,
+especially on other augnagars,
+can grow so massive it can’t even
+move, thrashing and festering
+where it lies. It eventually ﬂies
+into a frenzy of self-cannibalism
+as it rips apart its own ﬂesh to
+feast on. From the ruinous remains
+emerges a thulgant—a smaller but
+more powerful qlippoth. Scholars
+are uncertain if other qlippoth are
+capable of transforming themselves
+in this fashion. So far, none have
+returned from the Abyss with proof.
+
+================================================================================
+# CAVE SCORPION
+================================================================================
+
+
+Bestiary 2
+THE DESERT RIDER
+Those rescued from death in the
+burning sands often recount the
+same dying vision: a strange,
+silver‑eyed woman whose scarlet
+silk tents stand on the back of a
+colossal black scorpion, riding out
+of a shattered city and leading an
+army of the dead across a sea of
+glass toward the world of the living.
+Millennium‑old paintings on the
+walls of rediscovered tombs depict
+a similar desert rider. The identity of
+this red‑robed woman is unknown.
+Scorpion
+Scorpions are frightening enough at their normal diminutive size, but when they
+grow to reach or surpass the size of a human, they become absolutely terrifying.
+CAVE SCORPION
+Cave scorpions prefer to reside in underground lairs. Most have lost nearly all of
+their pigmentation, making them appear ghostly when they lurk at the edge of
+the light. While they prefer to eat large insects, cave scorpions can and will attack
+humanoids. Some Darklands societies have developed techniques to herd or lure
+scorpions into pest-infested tunnels and warrens at the edge of their settlements,
+where the scorpions thrive in a dual role of exterminators and guardians.
+CAVE SCORPION
+CREATURE 1
+N
+MEDIUM
+ANIMAL
+Perception +7; darkvision, tremorsense (imprecise) 30 feet
+Skills Athletics +7, Stealth +7
+Str +2, Dex +4, Con +3, Int –5, Wis +2, Cha –4
+AC 16; Fort +6, Ref +9, Will +5
+HP 20
+Speed 30 feet, climb 15 feet
+Melee Ȱɵ pincer +9 (agile, ﬁnesse), Damage 1d8+2 slashing plus Grab
+Melee Ȱɵ stinger +9 (ﬁnesse), Damage 1d6+2 piercing plus cave scorpion venom
+Cave Scorpion Venom (poison); Saving Throw DC 17 Fortitude; Maximum Duration 6
+rounds; Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and
+enfeebled 1 (1 round); Stage 3 1d8 poison damage and enfeebled 2 (1 round)
+BLACK SCORPION
+With a carapace the color of polished obsidian and a penchant for
+attacking villages, this humongous scorpion is one of the desert’s most
+frightening predators. A black scorpion measures 60 feet from tip to
+the base of its stinger.
+
+================================================================================
+# COIL SPY
+================================================================================
+
+Serpentfolk Venom (poison) As zyss serpentfolk, but DC 20.
+Slithering Attack Ȱɵ The aapoph serpentfolk makes one scimitar or fangs Strike and
+one tail Strike, each targeting a diﬀerent creature. These attacks both count toward
+the aapoph’s multiple attack penalty, but the penalty doesn’t increase until after the
+aapoph makes both attacks.
+COIL SPY
+Some serpentfolk undergo intense ritual training and practice to improve their
+innate ability to disguise themselves. These serpentfolk often identify as members
+of a sinister society known as the Coils of Ydersius, and the most devoted of
+their number seek out methods of reincarnating into new forms to even more
+efﬁciently inﬁltrate enemy societies. But before such agents take this extreme
+step, they must prove themselves as Coil spies. These serpentfolk train in
+methods of inﬁltrating other societies to such an extent that they might be
+capable of inﬁltrating a mammalian civilization for years. Though they’re
+expected to work entirely toward the eventual triumph of their people,
+most Coil spies also ﬁnd personal pursuits to keep them occupied in
+the shorter term. When Coil spies get caught, it’s rarely due to a lack
+of pure skill, but rather to their arrogance or recklessness as they
+pursue their hedonistic desires.
+COIL SPY
+CREATURE 4
+UNCOMMON
+NE
+MEDIUM
+HUMANOID
+SERPENTFOLK
+Perception +10; darkvision, scent (imprecise) 30 feet
+Languages
+Aklo,
+Common,
+Dwarven,
+Gnomish,
+Undercommon; telepathy 100 feet
+Skills Acrobatics +10, Deception +13, Diplomacy +11,
+Intimidation +11, Occultism +10, Society +10, Stealth
++12, Thievery +12
+Str +2, Dex +4, Con +1, Int +4, Wis +2, Cha +5
+Items hand crossbow (20 bolts), hunting spider venom (2), shortsword, thieves’
+tools
+AC 22; Fort +9, Ref +12, Will +10 (+4 status vs. mental); +1 status to all saves vs.
+magic
+HP 48; Resistances poison 5
+Speed 25 feet
+Melee Ȱɵ shortsword +14 (agile, ﬁnesse, versatile S), Damage 1d6+5 piercing
+plus serpentfolk venom
+Melee Ȱɵ fangs +14 (ﬁnesse), Damage 1d6+5 piercing plus
+serpentfolk venom
+
+================================================================================
+PAGE 240
+================================================================================
+
+WHAT FALLS WILL RISE
+The war between the humans of
+ancient Azlant and the serpentfolk
+of Sekamina waged on for years.
+The serpentfolk’s defeat threw their
+society into chaos and undermined
+their conviction that they would
+continue to rule simply because they
+had done so for eons. For millennia,
+serpentfolk have remained in hiding
+in their underground fortresses, but
+many feel it is time to rise again!
+Ranged Ȱɵ hand crossbow +10 (range increment 60 feet, reload 1), Damage 1d6+3
+piercing plus serpentfolk venom or hunting spider venom (Core Rulebook 552)
+Occult Innate Spells DC 21; 4th suggestion; 3rd illusory disguise (at will); 2nd mirror
+image (at will); 1st ventriloquism (at will)
+Deceptive Reposition Ȱɵ The Coil spy Strides up to half their Speed and attempts a Feint,
+in either order.
+Maintain Disguise A Coil spy can maintain an ongoing illusory disguise as long as they
+are conscious without having to re-cast the spell; they need only Cast the Spell again
+to reassume their illusory disguise if they wish to change their appearance or if the
+active spell is dispelled. Coil spies typically seek privacy when they need to sleep, as
+an ongoing illusory disguise ends an hour after they fall unconscious.
+Serpentfolk Venom (poison) As zyss serpentfolk, but DC 19.
+Sneak Attack The Coil spy’s Strikes deal an extra 2d6 precision damage to ﬂat-footed
+creatures.
+BONE PROPHET
+The speakers for the dead known as bone prophets hold an esteemed place
+as voices for their decapitated god. Burial rites, necromantic rituals,
+and the delivery of cryptic utterances supposedly whispered to them by
+Ydersius all fall under the dominion of these priests. Bone prophets often
+raise fallen aapophs as skeletons.
+
+================================================================================
+# CAVERN TROLL
+================================================================================
+
+
+NAR-VOTH DELICACIES
+Both cavern trolls and xorns—squat,
+tripartite earth elementals—share a
+voracious appetite for deposits of
+precious minerals. When either group
+encounters the other, a frenzy of
+claws and ravenous gorging ensues
+until only one side remains. Powerful
+cavern trolls who consume a critical
+mass of xorns can gain tremorsense
+and rule as monarchs over their
+subterranean kin.
+Cavern trolls rarely venture to the surface world, for they have a debilitating
+vulnerability to sunlight that petriﬁes them on sustained contact. Unlike common
+trolls, cavern trolls can regenerate wounds dealt by ﬁre. The crystalline nature of
+their skin, however, permits sonic attacks to neutralize their signature regeneration.
+As cavern trolls age, their ﬂinty skin becomes studded with small crystals and
+stones of various composition. Paragons of their kind have toothy maws replete
+with large, crystalline fangs. A typical cavern troll stands 14 feet in height and
+weighs about 2,000 pounds.
+CAVERN TROLL
+CREATURE 6
+UNCOMMON
+CE
+LARGE
+EARTH
+GIANT
+TROLL
+Perception +14; darkvision
+Languages Jotun, Undercommon
+Skills Athletics +16, Intimidation +14
+Str +6, Dex +2, Con +6, Int –2, Wis +2, Cha +2
+AC 22; Fort +18, Ref +13, Will +8
+HP 135, regeneration 20 (deactivated by acid or sonic); Immunities bleed
+Sunlight Petrification If exposed to direct sunlight, a cavern troll immediately
+becomes slowed 1 and can’t use reactions or Trample. The slowed value increases
+by 1 each time the cavern troll ends its turn in sunlight. If the cavern troll’s
+actions are reduced to 0 in this way, they become petrified until they
+spends at least 1 minute in darkness. Spells like sunburst that
+create magical sunlight cannot petrify a cavern troll, but the
+troll is slowed 1 for 1d4 rounds after being exposed to
+such an effect.
+Attack of Opportunity Ǻȓ
+Catch Rock Ǻȓ
+Speed 25 feet, burrow 20 feet, climb 20 feet
+Melee Ȱɵ jaws +16 (reach 10 feet), Damage 2d10+8 piercing
+Melee Ȱɵ claw +16 (agile, reach 10 feet), Damage
+2d6+8 slashing
+Ranged Ȱɵ rock +16 (brutal, range increment 120 feet),
+Damage 1d12+8 bludgeoning
+Rend Ȱɵ claw
+Rock Tunneler A cavern troll can burrow
+through solid stone at a Speed of 10 feet.
+It can leave a tunnel if it desires.
+Throw Rock Ȱɵ
+TWO-HEADED TROLL
+Two-headed trolls are savage, dualminded monsters with an unquenchable
+thirst for bloodshed, and dread tales of their
+ravenous appetites are whispered of in homesteads throughout the
+lands of the Inner Sea. Indeed, it is a custom for parents to invoke
+the two-headed troll as a warning to misbehaving children.
+“Finish your chores,” a parent might say to a stubborn child, “or
+a two-headed troll will snatch you away at night and swallow
+you whole!” It’s unclear why such a morbid tradition gained
+traction with parents, but it’s an undeniable fact that twoheaded trolls have an appetite for “nibbles”—creatures
+small enough to devour with one bite.
+Mature two-headed trolls stand 13 feet in height,
+weighing roughly 1,700 pounds. Unlike common
+trolls, two-headed trolls share the upright
+gait of their ettin ancestry and do not walk
+hunched over.
+
+================================================================================
+PAGE 267
+================================================================================
+
+Bestiary 2
+MOTHER OF TROLLS
+Trolls and ettins do not normally
+seek one another as mates, but this
+pairing is the source of the original
+two-headed trolls—such couplings
+were engineered and arranged by
+the cult of Lamashtu in ages past.
+Oblivious to their origin, two-headed
+trolls tend to give no deference to
+the Mother of Monsters.
+
+================================================================================
+# CAIRN WIGHT
+================================================================================
+
+
+Bestiary 2
+CAIRN WIGHT DIRGES
+Unlike a typical wight, cairn wights
+have an unusual aﬃnity for music.
+The lyrics of their dirges often
+contain a valuable bit of knowledge
+or long-lost lore, possibly the
+greatest treasure a cairn wight
+guards. There are even brave souls
+who seek out the creatures to listen
+to their songs in hopes of ﬁnding
+proﬁt from the dry, rasping words.
+Wight, Cairn
+Jealous guardians of tombs, barrows, and sepulchers, cairn wights usually spawn
+from necromantic rituals. For those mortals who cannot abide the thought
+of separation from their earthly possessions, the undead existence offered
+by transformation into a cairn wight can be tempting. Perhaps as frequently,
+particularly avaricious and wealthy royalty or merchants seek out victims to
+transform into cairn wights to guard their precious wealth for all time.
+Only in the rarest instances is the greed of a mortal strong enough to
+spontaneously transform them into a cairn wight without a dark ritual or the
+intercession of a powerful divine being. On those occasions, however, the resultant
+wight exhibits unmatched viciousness and likely owns rare treasure indeed.
+As guardians of material possessions, cairn wights are supernaturally bound to
+the armaments they wore during the ritual used to create them. They can spread
+their necromantic powers into the weapons they wield. A slash from a cairn
+wight’s sword channels life from the victim into the wight.
+CAIRN WIGHT
+CREATURE 4
+UNCOMMON
+LE
+MEDIUM
+UNDEAD
+WIGHT
+Perception +11; darkvision
+Languages Common, Necril
+Skills Athletics +12, Intimidation +11, Religion +9, Stealth +12
+Str +4, Dex +2, Con +4, Int +1, Wis +3, Cha +3
+Items longsword, studded leather armor
+AC 20; Fort +12, Ref +10,
+Will +11
+HP
+67;
+negative
+healing;
+Immunities death eﬀects, disease,
+paralyze, poison, unconscious
+Final Spite Ǻȓ Trigger The cairn wight is
+reduced to 0 Hit Points; Eﬀect The cairn wight
+makes a Strike before being destroyed. It doesn’t
+gain any temporary HP from drain life on this Strike.
+Speed 25 feet
+Melee Ȱɵ longsword +14 (versatile P), Damage 1d8+7 slashing plus
+drain life
+Melee Ȱɵ claw +14 (agile), Damage 1d6+7 slashing plus drain life
+Cairn Wight Spawn (divine, necromancy) A living humanoid slain by a cairn
+wight’s weapon or claw Strike rises as a spawned wight after 1d4 rounds.
+This spawned wight is under the command of the cairn wight that killed it.
+It doesn’t have drain life or cairn wight spawn and is clumsy 2 for as long as it is
+a spawned wight. If its creator dies, the spawned wight becomes a full-ﬂedged,
+autonomous cairn wight; it regains its free will, gains drain life and cairn wight
+spawn, and is no longer clumsy.
+Drain Life (divine, necromancy) When the cairn wight damages a living creature with
+a melee Strike, using an unarmed attack or its bound weapon, the cairn wight gains
+5 temporary Hit Points and the creature must succeed at a DC 18 Fortitude save or
+become drained 1. Further damage dealt by the cairn wraith increases the drained
+condition value by 1 on a failed save, to a maximum of drained 4.
+Funereal Dirge ʚʖ (auditory, divine, emotion, fear, mental, necromancy) The cairn
+wight chants a low, haunting melody. Living creatures within 50 feet must
+attempt a DC 21 Will save. The cairn wight can’t chant a new Funereal Dirge
+for 1d4 rounds.
+Critical Success The creature is unaﬀected.
+Success The creature is frightened 1.
+Failure The creature is frightened 2.
+Critical Failure The creature is frightened 2 and takes a –2 status
+penalty to saving throws against drain life.
+
+================================================================================
+PAGE 294
+================================================================================
+
+WISPS AND FIRE
+Witchﬁres have the ability to summon
+will-o’-wisps, but a number of these
+aberrations usually linger nearby of
+their own accord. The fear-inducing
+witchﬂame aura manifested by
+witchﬁres provides will-o’-wisps their
+favored sustenance.
+Witchfire
+Manifesting as a sinuous form wreathed in sickly green ﬂames, this incorporeal
+undead forms when a powerful hag or witch dies in agony or rage. The body at the
+center of the ﬂames usually resembles the witch’s idealized self-image, regardless
+of their age and appearance at the time of their death.
+A witchﬁre often resides in a bog or swamp, which slowly blackens and decays
+around them. These regions are often plagued by will-o’-wisps, which seem to
+have an uncanny relationship with the resident witchﬁre. A witchﬁre might visit
+villages on the edge of their home terrain to lure away villagers, but always
+attack victims within earshot to make sure that other villagers hear the screams.
+A witchﬁre might also ally with other hags or witches and even join their covens,
+but a witchﬁre is incapable of forming covens entirely on their own.

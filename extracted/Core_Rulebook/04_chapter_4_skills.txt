@@ -1,218 +1,2479 @@
 # Chapter 4: Skills
-# Pages: 482-531
+# Pages: 234-255, 499-531 (non-contiguous)
 
-Chapter 4: Skills includes numerous additional exploration
-activities, which are summarized here.
-Borrow an Arcane Spell: You use Arcana to prepare a
-spell from someone else’s spellbook (page 241).
-Coerce: You use Intimidation to threaten a creature so
-it does what you want (page 247).
-Cover Tracks: You use Survival to obscure your
-passing (page 252).
-Decipher Writing: You use a suitable skill to understand
-archaic, esoteric, or obscure texts (page 234).
-Gather Information: You use Diplomacy to canvass the
-area to learn about a specific individual or topic (page 246).
-Identify Alchemy: You use Craft and alchemist’s tools
-to identify an alchemical item (page 245).
-Identify Magic: Using a variety of skills, you can learn
-about a magic item, location, or ongoing effect (page 238).
-Impersonate: You use Deception and usually a disguise
-kit to create a disguise (page 245).
-Learn a Spell: You use the skill corresponding to the
-spell’s tradition to gain access to a new spell (page 238).
-Make an Impression: You use Diplomacy to make a
-good impression on someone (page 246).
-Repair: With a repair kit and the Crafting skill, you fix
-a damaged item (page 243).
-Sense Direction: You use Survival to get a sense of where
-you are or determine the cardinal directions (page 252).
-Squeeze: Using Acrobatics, you squeeze though very
-tight spaces (page 241).
-Track: You use Survival to find and follow creatures’
-tracks (page 252).
-Treat Wounds: You use Medicine to treat a living
-creature’s wounds (page 249).
-HUSTLE
+Chapter 4: Skills
+While your character’s ability scores represent their raw talent and potential, skills represent
+their training and experience at performing certain tasks. Each skill is keyed to one of your
+character’s ability scores and used for an array of related actions. Your character’s expertise
+in a skill comes from several sources, including their background and class. In this chapter,
+you’ll learn about skills, their scope, and the actions they can be used for.
+A character’s acumen in skills can come from all sorts of training, from practicing
+acrobatic tricks to studying academic topics to rehearsing a performing art. When
+you create your character and as they advance in level, you have flexibility as to
+which skills they become better at and when. Some classes depend heavily on
+certain skills—such as the alchemist’s reliance on Crafting—but for most classes,
+you can choose whichever skills make the most sense for your character’s theme and
+backstory at 1st level, then use their adventure and downtime experiences to inform
+how their skills should improve as your character levels up.
+A character gains training in certain skills at 1st level: typically two skills from
+their background, a small number of predetermined skills from their class, and
+several skills of your choice granted by your class. This training increases your
+proficiency ranks for those skills to trained instead of untrained and lets you use
+more of the skills’ actions. Sometimes you might gain training in a specific skill from
+multiple sources, such as if your background granted training in Crafting and you
+took the alchemist class, which also grants training in Crafting. Each time after the
+first that you would gain the trained proficiency rank in a given skill, you instead
+allocate the trained proficiency to any other skill of your choice.
+Key Ability
+Each skill is tied to a key ability. You add your modifier for this ability to checks
+and DCs when using that skill. For example, skulking about the shadows of a city at
+night with Stealth uses your Dexterity modifier, navigating the myriad personalities
+and power plays of court politics with Society uses your Intelligence modifier, and
+so on. The key ability for each skill is listed on Table 4–1: Skills, Key Abilities, and
+Actions on page 235 and also appears in parentheses following the skill’s name
+in the descriptions on the following pages. If the GM deems it appropriate for a
+certain situation, however, they might have you use a different ability modifier for
+a skill check or when determining your skill DC.
+Skill Actions
+The actions you can perform with a given skill are sorted into those you can use
+untrained and those that require you to be trained in the skill, as shown on Table
+4–1: Skills, Key Abilities, and Actions (page 235). The untrained and trained actions
+of each skill appear in separate sections within the skill’s description.
+Anyone can use a skill’s untrained actions, but you can use trained actions only
+if you have a proficiency rank of trained or better in that skill. A circumstance,
+condition, or effect might bar you from a skill action regardless of your proficiency
+rank, and sometimes using a skill in a specific situation might require you to have a
+higher proficiency rank than what is listed on the table. For instance, even though
+a barbarian untrained in Arcana could identify a construct with a lucky roll using
+Arcana to Recall Knowledge, the GM might decide that Recalling Knowledge
+to determine the spells used to create such a construct is beyond the scope of
+the barbarian’s anecdotal knowledge. The GM decides whether a task requires a
+particular proficiency rank.
+IMPROVING SKILLS
+As your character advances
+in level, there are two main
+ways their skills improve: skill
+increases and skill feats. Your
+class lists the levels at which you
+gain each of these improvements.
+SKILL INCREASES
+Skill increases improve your
+proficiency in skills of your
+choice. You can use these
+increases to become trained
+in new skills or increase your
+proficiency rank in skills you’re
+trained in (from trained to
+expert at any level, expert to
+master at 7th level or higher,
+and master to legendary at 15th
+level or higher). Unlike when
+you first become trained at a
+skill, if two different abilities
+would make you an expert,
+master, or legendary in a skill,
+you don’t get to choose a second
+skill to become expert in—the
+redundant benefit simply has
+no effect.
+SKILL FEATS
+Skill feats are a type of general
+feat that often grant you a
+new way to use a skill or make
+you better at using a skill in a
+particular way. Skill feats always
+have the skill trait. These feats
+appear in Chapter 5.
+
+================================================================================
+PAGE 235
+================================================================================
+
+Skill Checks and Skill DCs
+When you’re actively using a skill, often by performing
+one of its actions, you might attempt a skill check: rolling
+a d20 and adding your skill modifier. To determine this
+modifier, add your ability modifier for the skill’s key ability,
+your proficiency bonus for the skill, and any other bonuses
+and penalties.
+Skill modifier = modifier of the skill’s key ability
+score + proficiency bonus + other bonuses + penalties
+When writing down the modifier on your character
+sheet, you should write down only the numbers that always
+apply—typically just your ability modifier and proficiency
+bonus at 1st level. At higher levels, you may wear or use
+items to improve your skills with item bonuses pretty much
+all the time; you should write those down, too.
+The GM sets the DC of a skill check, using the guidelines
+in Chapter 10: Game Mastering. The most important DCs
+to remember are the five simple skill DCs below.
+
+Task Difficulty
+Simple DC
+
+Untrained
+
+Trained
+
+Expert
+
+Master
+
+Legendary
+When someone or something tests your skill, they
+attempt a check against your skill DC, which is equal to 10
+plus your skill modifier. A skill DC works like any other DC
+to determine the effect of an opposing creature’s skill action.
+See page 444 in Chapter 9: Playing the Game for more
+information about modifiers, bonuses, and penalties.
+Armor and Skills
+Some armor imposes a penalty on specific skill checks and
+DCs. If a creature is wearing armor that imparts a skill
+penalty, that penalty is applied to the creature’s Strengthand Dexterity-based skill checks and skill DCs, unless the
+action has the attack trait. Check penalties from armor are
+detailed on page 274 in Chapter 6: Equipment.
+Secret Checks
+Sometimes you won’t know whether you succeed at a skill
+check. If an action has the secret trait, the GM rolls the check
+for you and informs you of the effect without revealing the
+result of the roll or the degree of success. The GM rolls
+secret checks when your knowledge about the outcome is
+imperfect, like when you’re searching for a hidden creature
+or object, attempting to deceive someone, translating a
+tricky bit of ancient text, or remembering some piece of lore.
+This way, you as the player don’t know things that your
+character wouldn’t. This rule is the default for actions with
+the secret trait, but the GM can choose not to use secret
+checks if they would rather some or all rolls be public.
+Exploration and Downtime Activities
+Some skill activities have the exploration or downtime
+trait. Exploration activities usually take a minute or more,
+while downtime activities may take a day or more. They
+usually can’t be used during an encounter, though the GM
+might bend this restriction. If you’re not sure whether you
+have the time to use one of these activities, ask your GM.
+General Skill Actions
+General skill actions are skill actions that can be used
+with multiple different skills. When you use a general skill
+action, you might use your modifier from any skill that lists
+it as one of the skill’s actions, depending on the situation.
+ General Skill Action
+Proficiency
+Page
+
+Decipher Writing
+Trained
+
+Earn Income
+Trained
+
+Identify Magic
+Trained
+
+Learn a Spell
+Trained
+ Recall Knowledge [one-action]
+Untrained
+
+Subsist
+Untrained
+Decipher Writing (Trained)
+When you encounter particularly archaic or esoteric texts,
+the GM might require you to Decipher the Writing before
+you can understand it. You must be trained in the relevant
+skill to Decipher Writing. Arcana is typically used for
+writing about magic or science, Occultism for esoteric texts
+about mysteries and philosophy, Religion for scripture, and
+Society for coded messages or archaic documents.
+DECIPHER WRITING
+CONCENTRATE
+EXPLORATION
+SECRET
+You attempt to decipher complicated writing or literature on an
+obscure topic. This usually takes 1 minute per page of text, but
+might take longer (typically an hour per page for decrypting
+ciphers or the like). The text must be in a language you can
+read, though the GM might allow you to attempt to decipher
+text written in an unfamiliar language using Society instead.
+The DC is determined by the GM based on the state or
+complexity of the document. The GM might have you roll one
+check for a short text or a check for each section of a larger text.
+Critical Success You understand the true meaning of the text.
+Success You understand the true meaning of the text. If it was
+a coded document, you know the general meaning but might
+not have a word-for-word translation.
+Failure You can’t understand the text and take a –2 circumstance
+penalty to further checks to decipher it.
+Critical Failure You believe you understand the text on that
+page, but you have in fact misconstrued its message.
+Sample Decipher Tasks
+Trained entry-level philosophy treatise
+Expert complex code, such as a cipher
+Core Rulebook
+
+================================================================================
+PAGE 236
+================================================================================
+
+TABLE 4–1: SKILLS, KEY ABILITIES, AND ACTIONS
+Skill
+Key Ability
+Untrained Actions
+Trained Actions
+Acrobatics
+Dexterity
+Balance [one-action]
+Maneuver in Flight [one-action]
+
+Tumble Through [one-action]
+Squeeze E
+Arcana
+Intelligence
+Recall Knowledge G [one-action]
+Borrow an Arcane Spell E
+
+Decipher Writing E, G
+
+Identify Magic E, G
+
+Learn a Spell E, G
+Athletics
+Strength
+Climb [one-action]
+Disarm [one-action]
+
+Force Open [one-action]
+
+Grapple [one-action]
+
+High Jump [two-actions]
+
+Long Jump [two-actions]
+
+Shove [one-action]
+
+Swim [one-action]
+
+Trip [one-action]
+Crafting
+Intelligence
+Recall Knowledge G [one-action]
+Craft D
+
+Repair E
+Earn Income D, G
+
+Identify Alchemy E
+Deception
+Charisma
+Create a Diversion [one-action]
+Feint [one-action]
+
+Impersonate E
+
+Lie
+Diplomacy
+Charisma
+Gather Information E
+
+Make an Impression E
+
+Request [one-action]
+Intimidation
+Charisma
+Coerce E
+
+Demoralize [one-action]
+Lore
+Intelligence
+Recall Knowledge G [one-action]
+Earn Income D, G
+Medicine
+Wisdom
+Administer First Aid [two-actions]
+Treat Disease D
+
+Recall Knowledge G [one-action]
+Treat Poison [one-action]
+
+Treat Wounds E
+Nature
+Wisdom
+Command an Animal [one-action]
+Identify Magic E, G
+
+Recall Knowledge G [one-action]
+Learn a Spell E, G
+Occultism
+Intelligence
+Recall Knowledge G [one-action]
+Decipher Writing E, G
+
+Identify Magic E, G
+
+Learn a Spell E, G
+Performance
+Charisma
+Perform [one-action]
+Earn Income D, G
+Religion
+Wisdom
+Recall Knowledge G [one-action]
+Decipher Writing E, G
+
+Identify Magic E, G
+
+Learn a Spell E, G
+Society
+Intelligence
+Recall Knowledge G [one-action]
+Create Forgery D
+
+Subsist D, G
+Decipher Writing E, G
+Stealth
+Dexterity
+Conceal an Object [one-action]
+
+Hide [one-action]
+
+Sneak [one-action]
+Survival
+Wisdom
+Sense Direction E
+Cover Tracks E
+
+Subsist D, G
+Track E
+Thievery
+Dexterity
+Palm an Object [one-action]
+Disable a Device [two-actions]
+
+Steal [one-action]
+Pick a Lock [two-actions]
+D This skill action can be used only during downtime.
+E This skill action is used during exploration.
+G This is a general skill action, with a description appearing on pages 234–240 instead of under the entries for the
+ various skills it’s used for.
+
+================================================================================
+PAGE 237
+================================================================================
+
+EXTRA PREPARATION
+When Earning Income, you might be able to spend days
+of downtime to prepare for your task, which adjusts the
+DC of the skill check. This might involve rehearsing a play,
+studying a topic, and so on. The GM determines how long
+preparation takes and how much the DC changes. This is
+most useful when you’re trying a task that’s higher level
+than you; otherwise such tasks have an increased DC!
+ENDING OR INTERRUPTING TASKS
+When a task you’re doing is complete, or if you stop
+in the middle of one, you normally have to find a new
+task if you want to keep Earning Income. For instance,
+if you quit your job working at the docks, you’ll need to
+find another place of employment instead of picking up
+where you left off. This usually takes 1 day or more of
+downtime looking for leads on new jobs.
+However, you might pause a task due to an adventure or
+event that wouldn’t prevent you from returning to the old
+job later. The GM might decide that you can pick up where
+you left off, assuming the task hasn’t been completed by
+others in your absence. Whether you roll a new skill check
+when you resume is also up to the GM. Generally speaking,
+if you had a good initial roll and want to keep it, you can,
+but if you had a bad initial roll, you can’t try for a better one
+by pausing to do something else. If your statistics changed
+during the break—usually because you leveled up while
+adventuring—you can attempt a new check.
+Master spymaster’s code or advanced research notes
+Legendary esoteric planar text written in metaphor by an
+ancient celestial
+Earn Income (Trained)
+You can use a skill—typically Crafting, Lore, or
+Performance—to earn money during downtime. You
+must be trained in the skill to do so. This takes time to
+set up, and your income depends on your proficiency
+rank and how lucrative a task you can find. Because this
+process requires a significant amount of time and involves
+tracking things outside the progress of adventures, it
+won’t come up in every campaign.
+In some cases, the GM might let you use a different skill
+to Earn Income through specialized work. Usually, this is
+scholarly work, such as using Religion in a monastery to
+study old texts—but giving sermons at a church would still
+fall under Performance instead of Religion. You also might
+be able to use physical skills to make money, such as using
+Acrobatics to perform feats in a circus or Thievery to pick
+pockets. If you’re using a skill other than Crafting, Lore, or
+Performance, the DC tends to be significantly higher.
+EARN INCOME
+DOWNTIME
+You use one of your skills to make money during downtime.
+The GM assigns a task level representing the most lucrative
+job available. You can search for lower-level tasks, with the
+GM determining whether you find any. Sometimes you can
+attempt to find better work than the initial offerings, though
+TABLE 4–2: INCOME EARNED
+
+Task Level
+Failure
+Trained
+Expert
+Master
+Legendary
+
+1 cp
+5 cp
+5 cp
+5 cp
+5 cp
+
+2 cp
+2 sp
+2 sp
+2 sp
+2 sp
+
+4 cp
+3 sp
+3 sp
+3 sp
+3 sp
+
+8 cp
+5 sp
+5 sp
+5 sp
+5 sp
+
+1 sp
+7 sp
+8 sp
+8 sp
+8 sp
+
+2 sp
+9 sp
+1 gp
+1 gp
+1 gp
+
+3 sp
+1 gp, 5 sp
+2 gp
+2 gp
+2 gp
+
+4 sp
+2 gp
+2 gp, 5 sp
+2 gp, 5 sp
+2 gp, 5 sp
+
+5 sp
+2 gp, 5 sp
+3 gp
+3 gp
+3 gp
+
+6 sp
+3 gp
+4 gp
+4 gp
+4 gp
+
+7 sp
+4 gp
+5 gp
+6 gp
+6 gp
+
+8 sp
+5 gp
+6 gp
+8 gp
+8 gp
+
+9 sp
+6 gp
+8 gp
+10 gp
+10 gp
+
+1 gp
+7 gp
+10 gp
+15 gp
+15 gp
+
+1 gp, 5 sp
+8 gp
+15 gp
+20 gp
+20 gp
+
+2 gp
+10 gp
+20 gp
+28 gp
+28 gp
+
+2 gp, 5 sp
+13 gp
+25 gp
+36 gp
+40 gp
+
+3 gp
+15 gp
+30 gp
+45 gp
+55 gp
+
+4 gp
+20 gp
+45 gp
+70 gp
+90 gp
+
+6 gp
+30 gp
+60 gp
+100 gp
+130 gp
+
+8 gp
+40 gp
+75 gp
+150 gp
+200 gp
+ 20 (critical success)
+—
+50 gp
+90 gp
+175 gp
+300 gp
+Core Rulebook
+
+================================================================================
+PAGE 238
+================================================================================
+
+this takes time and requires using the Diplomacy skill to
+Gather Information, doing some research, or socializing.
+When you take on a job, the GM secretly sets the DC of your
+skill check. After your first day of work, you roll to determine
+your earnings. You gain an amount of income based on your
+result, the task’s level, and your proficiency rank (as listed on
+Table 4–2: Income Earned).
+You can continue working at the task on subsequent days
+without needing to roll again. For each day you spend after
+the first, you earn the same amount as the first day, up until
+the task’s completion. The GM determines how long you can
+work at the task. Most tasks last a week or two, though some
+can take months or even years.
+Critical Success You do outstanding work. Gain the amount of
+currency listed for the task level + 1 and your proficiency rank.
+Success You do competent work. Gain the amount of currency
+listed for the task level and your proficiency rank.
+Failure You do shoddy work and get paid the bare minimum
+for your time. Gain the amount of currency listed in the
+failure column for the task level. The GM will likely reduce
+how long you can continue at the task.
+Critical Failure You earn nothing for your work and are fired
+immediately. You can’t continue at the task. Your reputation
+suffers, potentially making it difficult for you to find
+rewarding jobs in that community in the future.
+Sample Earn Income Tasks
+These examples use Alcohol Lore to work in a bar or
+Legal Lore to perform legal work.
+Trained bartend, do legal research
+Expert curate drink selection, present minor court cases
+Master run a large brewery, present important court cases
+Legendary run an international brewing franchise, present
+a case in Hell’s courts
+Crafting Goods for the Market (Crafting)
+Using Crafting, you can work at producing common
+items for the market. It’s usually easy to find work making
+basic items whose level is 1 or 2 below your settlement’s
+level (see Earn Income on page 504). Higher-level tasks
+represent special commissions, which might require you to
+Craft a specific item using the Craft downtime activity and
+sell it to a buyer at full price. These opportunities don’t
+occur as often and might have special requirements—or
+serious consequences if you disappoint a prominent client.
+Practicing a Trade (Lore)
+You apply the practical benefits of one of your Lore
+specialties during downtime by practicing your trade. This
+is most effective for Lore specialties such as business, law,
+or sailing, where there’s high demand for workers. The GM
+might increase the DC or determine only low-level tasks
+are available if you’re attempting to use an obscure Lore
+skill to Earn Income. You might also need specialized tools
+to accept a job, like mining tools to work in a mine or a
+merchant’s scale to buy and sell valuables in a market.
+INCOME EXAMPLES
+The following examples show the kinds of tasks your
+character might take on to Earn Income during low-level
+and high-level play.
+HARSK MAKES TEA
+Harsk is a 3rd-level ranger and an expert at harvesting
+and brewing tea. He has a Tea Lore modifier of +7. He
+has 30 days of downtime at his disposal and decides to
+work at a prestigious local tea house. The GM decides
+this is a 5th-level task if Harsk wants to assist the tea
+master, or a 2nd-level task if he wants to serve tea.
+Harsk chooses the tougher task, and the GM secretly
+sets the DC at 20.
+Harsk rolls a 4 on his Tea Lore check for a result of 11.
+Poor Harsk has failed! He earns only 2 sp for his efforts
+and continues working for 3 more days, for a total of
+8 sp.
+At that point, the GM offers Harsk a choice: either he
+can finish out the week with the tea master and look
+for a new job, or he can lower his ambitions and serve
+in the tea house. Harsk, now more aware of his own
+capabilities, accepts the less prestigious job for now.
+He moves to his new job and attempts a new Tea Lore
+check against DC 16. Rolling a 19, he gets a result of
+26—a critical success! He earns 5 sp per day (like a
+success at a 3rd-level task). The GM rules that demand
+will be high enough that Harsk can work there for the
+remainder of his downtime if he so chooses, a total of
+26 days. Harsk accepts and earns a total of 138 sp (13
+gp, 8 sp) that month.
+LEM PERFORMS
+Lem is a 16th-level bard and legendary with his flute. He
+has a Performance modifier of +31 with his enchanted
+flute. With 30 days of downtime ahead of him, Lem
+wonders if he can find something that might excite him
+more than performing in front of a bunch of stuffy nobles.
+He finds a momentous offer indeed—a performance in a
+celestial realm, and Lem’s patron goddess Shelyn might
+even be in attendance! This is a 20th-level task, and the
+GM secretly sets the DC at 40.
+Lem rolls an 11 on his Performance check for a result
+of 42. Success! The engagement lasts for a week, and
+at the end, the grateful celestials present Lem with a
+beautiful living diamond rose in constant bloom worth
+1,400 gold pieces (200 gp per day for 7 days).
+With 23 days of downtime left, Lem accepts a 14thlevel task performing at a prestigious bardic college for
+members of a royal court. The GM secretly sets the DC
+at 32, and Lem critically succeeds, earning 28 gp per day
+for a total of 644 gp. Between the two performances,
+Lem has earned just over 2,000 gold pieces during his
+downtime—though he’s not sure he’ll ever sell that rose.
+
+================================================================================
+PAGE 239
+================================================================================
+
+Staging a Performance (Performance)
+You perform for an audience to make money. The available
+audiences determine the level of your task, since more
+discerning audiences are harder to impress but provide a
+bigger payout. The GM determines the task level based on
+the audiences available. Performing for a typical audience of
+commoners on the street is a level 0 task, but a performance
+for a group of artisans with more refined tastes might be a
+2nd- or 3rd-level task, and ones for merchants, nobility, and
+royalty are increasingly higher level. Your degree of success
+determines whether you moved your audience and whether
+you were rewarded with applause or rotten fruit.
+Identify Magic (Trained)
+Using the skill related to the appropriate tradition, as
+explained in Magical Traditions and Skills on page 238,
+you can attempt to identify a magical item, location,
+or ongoing effect. In many cases, you can use a skill to
+attempt to Identify Magic of a tradition other than your
+own at a higher DC. The GM determines whether you can
+do this and what the DC is.
+IDENTIFY MAGIC
+CONCENTRATE
+EXPLORATION
+SECRET
+Once you discover that an item, location, or ongoing effect
+is magical, you can spend 10 minutes to try to identify the
+particulars of its magic. If your attempt is interrupted, you
+must start over. The GM sets the DC for your check. Cursed
+or esoteric subjects usually have higher DCs or might even be
+impossible to identify using this activity alone. Heightening a
+spell doesn’t increase the DC to identify it.
+Critical Success You learn all the attributes of the magic,
+including its name (for an effect), what it does, any means of
+activating it (for an item or location), and whether it is cursed.
+Success For an item or location, you get a sense of what it does
+and learn any means of activating it. For an ongoing effect
+(such as a spell with a duration), you learn the effect’s name
+and what it does. You can’t try again in hopes of getting a
+critical success.
+Failure You fail to identify the magic and can’t try again for 1 day.
+Critical Failure You misidentify the magic as something else
+of the GM’s choice.
+Magical Traditions and Skills
+Each magical tradition has a corresponding skill, as shown
+on the table below. You must have the trained proficiency
+rank in a skill to use it to Identify Magic or Learn a Spell.
+Something without a specific tradition, such as an item with
+the magical trait, can be identified using any of these skills.
+
+Magical Tradition
+Corresponding Skill
+
+Arcane
+Arcana
+
+Divine
+Religion
+
+Occult
+Occultism
+
+Primal
+Nature
+Learn a Spell (Trained)
+If you’re a spellcaster, you can use the skill corresponding
+to your magical tradition to learn a new spell of that
+tradition. Table 4–3: Learning a Spell lists the Price of the
+materials needed to Learn a Spell of each level.
+LEARN A SPELL
+CONCENTRATE
+EXPLORATION
+Requirements You have a spellcasting class feature, and the
+spell you want to learn is on your magical tradition’s spell list.
+You can gain access to a new spell of your tradition from
+someone who knows that spell or from magical writing like a
+spellbook or scroll. If you can cast spells of multiple traditions,
+you can Learn a Spell of any of those traditions, but you must
+use the corresponding skill to do so. For example, if you were
+a cleric with the bard multiclass archetype, you couldn’t use
+Religion to add an occult spell to your bardic spell repertoire.
+To learn the spell, you must do the following:
+• Spend 1 hour per level of the spell, during which you
+must remain in conversation with a person who knows
+the spell or have the magical writing in your possession.
+• Have materials with the Price indicated in Table 4–3.
+• Attempt a skill check for the skill corresponding to your
+tradition (DC determined by the GM, often close to the
+DC on Table 4–3). Uncommon or rare spells have higher
+DCs; full guidelines for the GM appear on page 503.
+If you have a spellbook, Learning a Spell lets you add the
+spell to your spellbook; if you prepare spells from a list, it’s
+added to your list; if you have a spell repertoire, you can select
+it when you add or swap spells.
+Critical Success You expend half the materials and learn the spell.
+Success You expend the materials and learn the spell.
+Failure You fail to learn the spell but can try again after you
+gain a level. The materials aren’t expended.
+Critical Failure As failure, plus you expend half the materials.
+TABLE 4–3: LEARNING A SPELL
+
+Spell Level
+Price
+Typical DC
+
+1st or cantrip
+2 gp
+
+2nd
+6 gp
+
+3rd
+16 gp
+
+4th
+36 gp
+
+5th
+70 gp
+
+6th
+140 gp
+
+7th
+300 gp
+
+8th
+650 gp
+
+9th
+1,500 gp
+
+10th
+7,000 gp
+Recall Knowledge (Untrained)
+To remember useful information on a topic, you can
+attempt to Recall Knowledge. You might know basic
+information about something without needing to attempt
+a check, but Recall Knowledge requires you to stop and
+think for a moment so you can recollect more specific
+Core Rulebook
+
+================================================================================
+PAGE 240
+================================================================================
+
+facts and apply them. You might even need to spend time
+investigating first. For instance, to use Medicine to learn
+the cause of death, you might need to conduct a forensic
+examination before attempting to Recall Knowledge.
+RECALL KNOWLEDGE [one-action]
+CONCENTRATE
+SECRET
+You attempt a skill check to try to remember a bit of knowledge
+regarding a topic related to that skill. The GM determines the
+DCs for such checks and which skills apply.
+Critical Success You recall the knowledge accurately and gain
+additional information or context.
+Success You recall the knowledge accurately or gain a useful
+clue about your current situation.
+Critical Failure You recall incorrect information or gain an
+erroneous or misleading clue.
+The following skills can be used to Recall Knowledge,
+getting information about the listed topics. In some cases,
+you can get the GM’s permission to use a different but
+related skill, usually against a higher DC than normal. Some
+topics might appear on multiple lists, but the skills could
+give different information. For example, Arcana might tell
+you about the magical defenses of a golem, whereas Crafting
+could tell you about its sturdy resistance to physical attacks.
+• Arcana: Arcane theories, magical traditions,
+creatures of arcane significance, and arcane planes.
+• Crafting: Alchemical reactions and creatures, item
+value, engineering, unusual materials, and constructs.
+• Lore: The subject of the Lore skill’s subcategory.
+• Medicine: Diseases, poisons, wounds, and forensics.
+• Nature: The environment, flora, geography, weather,
+creatures of natural origin, and natural planes.
+• Occultism: Ancient mysteries, obscure philosophy,
+creatures of occult significance, and esoteric planes.
+• Religion: Divine agents, divine planes, theology,
+obscure myths, and creatures of religious significance.
+• Society: Local history, key personalities, legal
+institutions, societal structure, and humanoid culture.
+The GM might allow checks to Recall Knowledge
+using other skills. For example, you might assess the skill
+of an acrobat using Acrobatics. If you’re using a physical
+skill (like in this example), the GM will most likely have
+you use a mental ability score—typically Intelligence—
+instead of the skill’s normal physical ability score.
+Recall Knowledge Tasks
+These examples use Society or Religion.
+Untrained name of a ruler, key noble, or major deity
+Trained line of succession for a major noble family, core
+doctrines of a major deity
+Expert genealogy of a minor noble, teachings of an
+ancient priest
+Master hierarchy of a genie noble court, major extraplanar
+temples of a deity
+Legendary existence of a long-lost noble heir, secret
+doctrines of a religion
+
+================================================================================
+PAGE 241
+================================================================================
+
+Subsist (Untrained)
+If you need to provide food and shelter, you can use the
+Subsist downtime activity. This typically uses Society if
+you’re in a settlement or Survival if you’re in the wild.
+SUBSIST
+DOWNTIME
+You try to provide food and shelter for yourself, and possibly
+others as well, with a standard of living described on page 294.
+The GM determines the DC based on the nature of the place
+where you’re trying to Subsist. You might need a minimum
+proficiency rank to Subsist in particularly strange environments.
+Unlike most downtime activities, you can Subsist after 8 hours
+or less of exploration, but if you do, you take a –5 penalty.
+Critical Success You either provide a subsistence living for
+yourself and one additional creature, or you improve your
+own food and shelter, granting yourself a comfortable living.
+Success You find enough food and shelter with basic protection
+from the elements to provide you a subsistence living.
+Failure You’re exposed to the elements and don’t get enough
+food, becoming fatigued until you attain sufficient food
+and shelter.
+Critical Failure You attract trouble, eat something you
+shouldn’t, or otherwise worsen your situation. You take a
+–2 circumstance penalty to checks to Subsist for 1 week.
+You don’t find any food at all; if you don’t have any stored
+up, you’re in danger of starving or dying of thirst if you
+continue failing.
+Sample Subsist Tasks
+Untrained lush forest with calm weather or large city
+with plentiful resources
+Trained typical hillside or village
+Expert typical mountains or insular hamlet
+Master typical desert or city under siege
+Legendary barren wasteland or city of undead
+Skill Descriptions
+The following entries describe the skills in the game. The
+heading for each entry provides the skill’s name, with
+that skill’s key ability in parentheses. A brief description
+of the skill is followed by a list of actions you can use if
+you’re untrained in that skill, and then the actions you
+can perform if you are trained in that skill. Some actions
+list sample tasks for each rank to give you a better
+sense of what you can accomplish as your proficiency
+increases. As the actions of a skill aren’t comprehensive,
+there may be times when the GM asks you to attempt
+a skill check without using any of the listed actions, or
+times when the GM asks you to roll using a different key
+ability modifier.
+Most skills include entries for success and failure, as
+well as descriptions of what occurs on a critical success or
+a critical failure. If either of the critical entries is absent,
+treat those results as a success or failure, as normal.
+Acrobatics (Dex)
+Acrobatics measures your ability to perform tasks requiring
+coordination and grace. When you use the Escape basic
+action (page 470), you can use your Acrobatics modifier
+instead of your unarmed attack modifier.
+BALANCE [one-action]
+MOVE
+Requirements You are in a square that contains a narrow
+surface, uneven ground, or another similar feature.
+You move across a narrow surface or uneven ground,
+attempting an Acrobatics check against its Balance DC. You
+are flat-footed while on a narrow surface or uneven ground.
+Critical Success You move up to your Speed.
+Success You move up to your Speed, treating it as difficult
+terrain (every 5 feet costs 10 feet of movement).
+Failure You must remain stationary to keep your balance
+(wasting the action) or you fall. If you fall, your turn ends.
+Critical Failure You fall and your turn ends.
+Sample Balance Tasks
+Untrained tangled roots, uneven cobblestones
+Trained wooden beam
+Expert deep, loose gravel
+Master tightrope, smooth sheet of ice
+Legendary razor’s edge, chunks of floor falling in midair
+TUMBLE THROUGH [one-action]
+MOVE
+You Stride up to your Speed. During this movement, you can try
+to move through the space of one enemy. Attempt an Acrobatics
+check against the enemy’s Reflex DC as soon as you try to enter
+its space. You can Tumble Through using Climb, Fly, Swim, or
+another action instead of Stride in the appropriate environment.
+Success You move through the enemy’s space, treating the
+squares in its space as difficult terrain (every 5 feet costs 10
+feet of movement). If you don’t have enough Speed to move all
+the way through its space, you get the same effect as a failure.
+Failure Your movement ends, and you trigger reactions as if
+you had moved out of the square you started in.
+Acrobatics Trained Actions
+MANEUVER IN FLIGHT [one-action]
+MOVE
+Requirements You have a fly Speed.
+You try a difficult maneuver while flying. Attempt an Acrobatics
+check. The GM determines what maneuvers are possible, but
+they rarely allow you to move farther than your fly Speed.
+Success You succeed at the maneuver.
+Failure Your maneuver fails. The GM chooses if you simply
+can’t move or if some other detrimental effect happens.
+The outcome should be appropriate for the maneuver you
+attempted (for instance, being blown off course if you were
+trying to fly against a strong wind).
+Critical Failure As failure, but the consequence is more dire.
+Core Rulebook
+
+================================================================================
+PAGE 242
+================================================================================
+
+Sample Maneuver in Flight Tasks
+Trained steep ascent or descent
+Expert fly against the wind, hover midair
+Master reverse direction
+Legendary fly through gale force winds
+SQUEEZE
 EXPLORATION
 MOVE
-You strain yourself to move at double your travel speed. You can
-Hustle only for a number of minutes equal to your Constitution
-modifier × 10 (minimum 10 minutes). If you are in a group that is
-Hustling, use the lowest Constitution modifier among everyone
-to determine how fast the group can Hustle together.
-INVESTIGATE
+You contort yourself to squeeze through a space so small you
+can barely fit through. This action is for exceptionally small
+spaces; many tight spaces are difficult terrain (page 475) that
+you can move through more quickly and without a check.
+Critical Success You squeeze through the tight space in
+1 minute per 10 feet of squeezing.
+Success You squeeze through in 1 minute per 5 feet.
+Critical Failure You become stuck in the tight space. While
+you’re stuck, you can spend 1 minute attempting another
+Acrobatics check at the same DC. Any result on that
+check other than a critical failure causes you
+to become unstuck.
+Sample Squeeze Tasks
+Trained space barely fitting your
+shoulders
+Master space barely fitting your head
+Arcana (Int)
+Arcana measures how much you know about arcane
+magic and creatures. Even if you’re untrained, you can
+Recall Knowledge (page 238).
+• Recall Knowledge about arcane theories; magic
+traditions; creatures of arcane significance (like
+dragons and beasts); and the Elemental, Astral,
+and Shadow Planes.
+Arcana Trained ACTIONS
+You must be trained in Arcana to use it for the following
+general skill actions (page 234).
+• Decipher Writing about arcane theory.
+• Identify Magic, particularly arcane magic.
+• Learn a Spell from the arcane tradition.
+BORROW AN ARCANE SPELL
 CONCENTRATE
- EXPLORATION
-You seek out information about your surroundings while traveling
-at half speed. You use Recall Knowledge as a secret check to
-discover clues among the various things you can see and engage
-with as you journey along. You can use any skill that has a Recall
-Knowledge action while Investigating, but the GM determines
-whether the skill is relevant to the clues you could find.
-REPEAT A SPELL
-CONCENTRATE
- EXPLORATION
-You repeatedly cast the same spell while moving at half speed.
-Typically, this spell is a cantrip that you want to have in effect
-in the event a combat breaks out, and it must be one you can
-cast in 2 actions or fewer. In order to prevent fatigue due
-to repeated casting, you’ll likely use this activity only when
-something out of the ordinary occurs.
-You can instead use this activity to continue Sustaining a
-Spell or Activation with a sustained duration. Most such spells
-or item effects can be sustained for 10 minutes, though some
-specify they can be sustained for a different duration.
-SCOUT
-CONCENTRATE
- EXPLORATION
-You scout ahead and behind the group to watch danger, moving
-at half speed. At the start of the next encounter, every creature in
-your party gains a +1 circumstance bonus to their initiative rolls.
-SEARCH
-CONCENTRATE
- EXPLORATION
-You Seek meticulously for hidden doors, concealed hazards,
-and so on. You can usually make an educated guess as to which
-locations are best to check and move at half speed, but if you
-want to be thorough and guarantee you checked everything, you
-need to travel at a Speed of no more than 300 feet per minute, or
-150 feet per minute to ensure you check everything before you
-walk into it. You can always move more slowly while Searching
-to cover the area more thoroughly, and the Expeditious Search
-feat increases these maximum Speeds. If you come across a
-secret door, item, or hazard while Searching, the GM will attempt
-a free secret check to Seek to see if you notice the hidden object
-or hazard. In locations with many objects to search, you have to
-stop and spend significantly longer to search thoroughly.
-Rest and Daily
-Preparations
-You perform at your best when you take enough time to
-rest and prepare. Once every 24 hours, you can take a
-period of rest (typically 8 hours), after which you regain
-Hit Points equal to your Constitution modifier (minimum
-1) times your level, and you might recover from or
-improve certain conditions (page 453). Sleeping in armor
-results in poor rest that leaves you fatigued. If you go
-more than 16 hours without resting, you become fatigued
-(you cannot recover from this until you rest at least 6
-continuous hours).
-After you rest, you make your daily preparations, which
-takes around 1 hour. You can prepare only if you’ve rested,
-and only once per day. Preparing includes the following:
-• Spellcasters regain spell slots, and prepared
-spellcasters choose spells to have available that day.
-• Focus Points, other abilities that refresh during
-your preparations, and abilities that can be used
-only a certain number of times per day, including
-magic item uses, are reset.
-• You don armor and equip weapons and other gear.
-• You invest up to 10 worn magic items to gain their
-benefits for the day.
+EXPLORATION
+If you’re an arcane spellcaster who prepares from a spellbook,
+you can attempt to prepare a spell from someone else’s
+spellbook. The GM sets the DC for the check based on the
+spell’s level and rarity; it’s typically a bit easier than Learning
+the Spell.
+Success You prepare the borrowed spell as part of your normal
+spell preparation.
+Failure You fail to prepare the spell, but the spell slot
+remains available for you to prepare a different
+spell. You can’t try to prepare this spell
+until the next time you prepare spells.
+Athletics (Str)
+Athletics allows you to perform deeds of physical
+prowess. When you use the Escape basic action (page
+470), you can use your Athletics modifier instead of your
+unarmed attack modifier.
+CLIMB [one-action]
+MOVE
+Requirements You have both hands free.
+You move up, down, or across an incline. Unless it’s
+particularly easy, you must attempt an Athletics check. The
+GM determines the DC based on the nature of the incline and
+
+================================================================================
+PAGE 243
+================================================================================
+
+environmental circumstances. You’re flat-footed unless you
+have a climb Speed.
+Critical Success You move up, across, or safely down the
+incline for 5 feet plus 5 feet per 20 feet of your land Speed
+(a total of 10 feet for most PCs).
+Success You move up, across, or safely down the incline for
+5 feet per 20 feet of your land Speed (a total of 5 feet for
+most PCs, minimum 5 feet if your Speed is below 20 feet).
+Critical Failure You fall. If you began the climb on stable
+ground, you fall and land prone.
+Sample Climb Tasks
+Untrained ladder, steep slope, low-branched tree
+Trained rigging, rope, typical tree
+Expert wall with small handholds and footholds
+Master ceiling with handholds and footholds, rock wall
+Legendary smooth surface
+TABLE 4–4: CLIMB AND SWIM DISTANCE
+This table provides a quick reference for how far you can
+move with a Climb or Swim action.
+
+ Climb Distance
+ Swim Distance
+Speed
+Success
+Critical
+Success
+Critical
+5–15 feet
+20–35 feet
+40–55 feet
+60–65 feet
+FORCE OPEN [one-action]
+ATTACK
+Using your body, a lever, or some other tool, you attempt
+to forcefully open a door, window, container or heavy gate.
+With a high enough result, you can even smash through walls.
+Without a crowbar, prying something open takes a –2 item
+penalty to the Athletics check to Force Open.
+Critical Success You open the door, window, container, or gate
+and can avoid damaging it in the process.
+Success You break the door, window, container, or gate open,
+and the door, window, container, or gate gains the broken
+condition. If it’s especially sturdy, the GM might have it take
+damage but not be broken.
+Critical Failure Your attempt jams the door, window, container,
+or gate shut, imposing a –2 circumstance penalty on future
+attempts to Force it Open.
+Sample Force Open Tasks
+Untrained fabric, flimsy glass
+Trained ice, sturdy glass
+Expert flimsy wooden door, wooden portcullis
+Master sturdy wooden door, iron portcullis, metal bar
+Legendary stone or iron door
+GRAPPLE [one-action]
+ATTACK
+Requirements You have at least one free hand. Your target
+cannot be more than one size larger than you.
+You attempt to grab an opponent with your free hand.
+Attempt an Athletics check against their Fortitude DC.
+You can also Grapple to keep your hold on a creature you
+already grabbed.
+Critical Success Your opponent is restrained until the end of
+your next turn unless you move or your opponent Escapes
+(page 470).
+Success Your opponent is grabbed until the end of your next
+turn unless you move or your opponent Escapes.
+Failure You fail to grab your opponent. If you already had
+the opponent grabbed or restrained using a Grapple, those
+conditions on that creature end.
+Critical Failure If you already had the opponent grabbed or
+restrained, it breaks free. Your target can either grab you,
+as if it succeeded at using the Grapple action against you,
+or force you to fall and land prone.
+HIGH JUMP [two-actions]
+You Stride, then make a vertical Leap and attempt a DC 30
+Athletics check to increase the height of your jump. If you
+didn’t Stride at least 10 feet, you automatically fail your check.
+This DC might be increased or decreased due to the situation,
+as determined by the GM.
+Critical Success Increase the maximum vertical distance to 8
+feet, or increase the maximum vertical distance to 5 feet
+and maximum horizontal distance to 10 feet.
+Success Increase the maximum vertical distance to 5 feet.
+Failure You Leap normally.
+Critical Failure You don’t Leap at all, and instead you fall prone
+in your space.
+Leap
+The Leap basic action is used for High Jump and Long
+Jump. Leap lets you take a careful, short jump. You can
+Leap up to 10 feet horizontally if your Speed is at least
+15 feet, or up to 15 feet horizontally if your Speed is at
+least 30 feet. You land in the space where your Leap
+ends (meaning you can typically clear a 5-foot gap if your
+Speed is between 15 feet and 30 feet, or a 10-foot gap
+if your Speed is 30 feet or more). If you make a vertical
+Leap, you can move up to 3 feet vertically and 5 feet
+horizontally onto an elevated surface.
+LONG JUMP [two-actions]
+You Stride, then make a horizontal Leap and attempt an
+Athletics check to increase the length of your jump. The DC
+of the Athletics check is equal to the total distance in feet
+you’re attempting to move during your Leap (so you’d need
+to succeed at a DC 20 check to Leap 20 feet). You can’t Leap
+farther than your Speed.
+If you didn’t Stride at least 10 feet, or if you attempt to jump
+in a different direction than your Stride, you automatically fail
+your check. This DC might be increased or decreased due to the
+situation, as determined by the GM.
+Success Increase the maximum horizontal distance you Leap
+to the desired distance.
 Core Rulebook
 
 ================================================================================
-PAGE 482
+PAGE 244
 ================================================================================
 
-Downtime gives you time to rest fully, engage in crafting
-or a professional endeavor, learn new spells, retrain feats,
-or just have fun. You can sell items acquired during your
-adventures, buy new goods, and perform other activities
-as determined by your feats, your skills, and the settlement
-where you are spending the downtime.
-Long-Term Rest
-You can spend an entire day and night resting during
-downtime to recover Hit Points equal to your Constitution
-modifier (minimum 1) multiplied by twice your level.
-Retraining
-Retraining offers a way to alter some of your character
-choices, which is helpful when you want to take your
-character in a new direction or change decisions that
-didn’t meet your expectations. You can retrain feats,
-skills, and some selectable class features. You can’t
-retrain your ancestry, heritage, background, class,
-or ability scores. You can’t perform other downtime
-activities while retraining.
-Retraining usually requires you to spend time learning
-from a teacher, whether that entails physical training,
-studying at a library, or falling into shared magical
-trances. Your GM determines whether you can get proper
-training or whether something can be retrained at all. In
-some cases, you’ll have to pay your instructor.
-Some abilities can be difficult or impossible to retrain
-(for instance, a sorcerer can retrain their bloodline only in
-extraordinary circumstances).
-When retraining, you generally can’t make choices
-you couldn’t make when you selected the original
-option. For instance, you can’t exchange a 2nd-level
-skill feat for a 4th-level one, or for one that requires
-prerequisites you didn’t meet at the time you took the
-original feat. If you don’t remember whether you met
-the prerequisites at the time, ask your GM to make the
-call. If you cease to meet the prerequisites for an ability
-due to retraining, you can’t use that ability. You might
-need to retrain several abilities in sequence in order to
-get all the abilities you want.
-Feats
-You can spend a week of downtime retraining to swap out
-one of your feats. Remove the old feat and replace it with
-another of the same type. For example, you could swap a
-skill feat for another skill feat, but not for a wizard feat.
-Skills
-You can spend a week of downtime retraining to swap
-out one of your skill increases. Reduce your proficiency
-rank in the skill losing its increase by one step and
-increase your proficiency rank in another skill by one
-step. The new proficiency rank has to be equal to or lower
-than the proficiency rank you traded away. For instance,
-if your bard is a master in Performance and Stealth, and
-an expert in Occultism, you could reduce the character’s
-proficiency in Stealth to expert and become a master in
-Occultism, but you couldn’t reassign that skill increase
-to become legendary in Performance. Keep track of
-your level when you reassign skill increases; the level
-at which your skill proficiencies changed can influence
-your ability to retrain feats with skill prerequisites.
-You can also spend a week to retrain an initial trained
-skill you gained during character creation.
-Class Features
-You can change a class feature that required a choice,
-making a different choice instead. This lets you change
-a druid order or a wizard school, for example. The
-GM will tell you how long this takes—always at least
-a month.
-Other Downtime Activities
-Work with your GM if there are other ways you want
-to spend downtime. You might need to pay for your cost
-of living (the prices for this can be found on page 294).
-You might acquire property, manage a business, become
-part of a guild or civic group, curry favor in a large city,
-take command of an army, take on an apprentice, start a
-family, or minister to a flock of the faithful.
-Downtime Mode
-Downtime mode is played day-by-day rather than minute-by-minute or scene-by-scene. Usually
-this mode of play occurs when you are in the safety of a settlement, maybe recovering from
-your adventures or studying an artifact you found.
-SKILL DOWNTIME ACTIVITIES
-Chapter 4: Skills includes several downtime activities,
-which are summarized here.
-Craft: Using the Crafting skill, you can create items
-from raw materials (page 244).
-Create Forgery: You forge a document (page 251).
-Earn Income: You earn money, typically using Crafting,
-Lore, or Performance (page 236).
-Subsist: You find food and shelter in the wilderness or
-within a settlement (page 240).
-Treat Disease: You spend time caring for a diseased
-creature in the hope of curing that creature (page 248).
-PLAYING THE GAME
+Failure You Leap normally.
+Critical Failure You Leap normally, but then fall and land prone.
+SHOVE [one-action]
+ATTACK
+Requirements You have at least one hand free. The target
+can’t be more than one size larger than you.
+You push an opponent away from you. Attempt an Athletics
+check against your opponent’s Fortitude DC.
+Critical Success You push your opponent up to 10 feet away
+from you. You can Stride after it, but you must move the
+same distance and in the same direction.
+Success You push your opponent back 5 feet. You can Stride
+after it, but you must move the same distance and in the
+same direction.
+Critical Failure You lose your balance, fall, and land prone.
+Forced Movement
+The Shove action can force a creature to move. When
+an effect forces you to move, or if you start falling, the
+distance you move is defined by the effect that moved you,
+not by your Speed. Because you’re not acting to move, this
+doesn’t trigger reactions triggered by movement.
+SWIM [one-action]
+MOVE
+You propel yourself through water. In most calm water, you
+succeed at the action without needing to attempt a check. If
+you must breathe air and you’re submerged in water, you must
+hold your breath each round. If you fail to hold your breath, you
+begin to drown (as described on page 478). If the water you are
+swimming in is turbulent or otherwise dangerous, you might
+have to attempt an Athletics check to Swim.
+If you end your turn in water and haven’t succeeded at a
+Swim action that turn, you sink 10 feet or get moved by the
+current, as determined by the GM. However, if your last action
+on your turn was to enter the water, you don’t sink or move
+with the current that turn.
+Critical Success You move through the water 10 feet, plus 5 feet
+per 20 feet of your land Speed (a total of 15 feet for most PCs).
+Success You move through the water 5 feet, plus 5 feet per
+20 feet of your land Speed (a total of 10 feet for most PCs).
+Critical Failure You make no progress, and if you’re holding
+your breath, you lose 1 round of air.
+Sample Swim Tasks
+Untrained lake or other still water
+Trained flowing water, like a river
+Expert swiftly flowing river
+Master stormy sea
+Legendary maelstrom, waterfall
+TRIP [one-action]
+ATTACK
+Requirements You have at least one hand free. Your target
+can’t be more than one size larger than you.
+FALLING
+When you fall more than 5 feet, you take falling damage
+when you land, which is bludgeoning damage equal to
+half the distance you fell. If you take any damage from a
+fall, you’re knocked prone when you land.
+If you fall into water, snow, or another soft substance,
+calculate the damage from the fall as though your fall
+were 20 feet shorter. The reduction can’t be greater than
+the depth of the water (so when falling into water that is
+only 10 feet deep, you treat the fall as 10 feet shorter).
+You can Grab an Edge as a reaction (page 472) to reduce
+or eliminate the damage from some falls. More detailed
+rules for falling damage appear on page 463.
+You try to knock an opponent to the ground. Attempt an
+Athletics check against the target’s Reflex DC.
+Critical Success The target falls and lands prone and takes 1d6
+bludgeoning damage.
+Success The target falls and lands prone.
+Critical Failure You lose your balance and fall and land prone.
+Athletics Trained Action
+DISARM [one-action]
+ATTACK
+Requirements You have at least one hand free. The target
+can’t be more than one size larger than you.
+You try to knock something out of an opponent’s grasp.
+Attempt an Athletics check against the opponent’s Reflex DC.
+Critical Success You knock the item out of the opponent’s
+grasp. It falls to the ground in the opponent’s space.
+Success You weaken your opponent’s grasp on the item. Until
+the start of that creature’s turn, attempts to Disarm the
+opponent of that item gain a +2 circumstance bonus, and
+the target takes a –2 circumstance penalty to attacks with
+the item or other checks requiring a firm grasp on the item.
+Critical Failure You lose your balance and become flat-footed
+until the start of your next turn.
+Crafting (Int)
+You can use this skill to create, understand, and repair items.
+Even if you’re untrained, you can Recall Knowledge
+(page 238).
+• Recall Knowledge about alchemical reactions, the
+value of items, engineering, unusual materials,
+and alchemical or mechanical creatures. The GM
+determines which creatures this applies to, but it
+usually includes constructs.
+REPAIR
+EXPLORATION
+MANIPULATE
+Requirements You have a repair kit (page 291).
+You spend 10 minutes attempting to fix a damaged item, placing
+the item on a stable surface and using the repair kit with
 
 ================================================================================
-PAGE 483
+PAGE 245
+================================================================================
+
+both hands. The GM sets the DC, but it’s usually about the same
+DC to Repair a given item as it is to Craft it in the first place. You
+can’t Repair a destroyed item.
+Critical Success You restore 10 Hit Points to the item, plus an
+additional 10 Hit Points per proficiency rank you have in
+Crafting (a total of 20 HP if you’re trained, 30 HP if you’re an
+expert, 40 HP if you’re a master, or 50 HP if you’re legendary).
+Success You restore 5 Hit Points to the item, plus an additional
+5 per proficiency rank you have in Crafting (for a total of
+10 HP if you are trained, 15 HP if you’re an expert, 20 HP if
+you’re a master, or 25 HP if you’re legendary).
+Critical Failure You deal 2d6 damage to the item. Apply the
+item’s Hardness to this damage.
+Crafting Trained Actions
+You must be trained in Crafting to use it to Earn Income
+(page 236).
+• Earn Income by crafting goods for the market.
+CRAFT
+DOWNTIME
+MANIPULATE
+You can make an item from raw materials. You need the
+Alchemical Crafting skill feat to create alchemical items, the
+Magical Crafting skill feat to create magic items, and the Snare
+Crafting feat to create snares.
+To Craft an item, you must meet the following requirements:
+• The item is your level or lower. An item that doesn’t list
+a level is level 0. If the item is 9th level or higher, you
+must be a master in Crafting, and if it’s 16th or higher,
+you must be legendary.
+• You have the formula for the item; see Getting
+Formulas below for more information.
+• You have an appropriate set of tools and, in many
+cases, a workshop. For example, you need access to a
+smithy to forge a metal shield.
+• You must supply raw materials worth at least half the
+item’s Price. You always expend at least that amount
+of raw materials when you Craft successfully. If you’re
+in a settlement, you can usually spend currency to get
+the amount of raw materials you need, except in the
+case of rarer precious materials.
+You must spend 4 days at work, at which point you attempt
+a Crafting check. The GM determines the DC to Craft the item
+based on its level, rarity, and other circumstances.
+If your attempt to create the item is successful, you expend
+the raw materials you supplied. You can pay the remaining
+portion of the item’s Price in materials to complete the item
+immediately, or you can spend additional downtime days
+working on it. For each additional day you spend, reduce
+the value of the materials you need to expend to complete
+the item. This amount is determined using Table 4–2: Income
+Earned (page 236), based on your proficiency rank in Crafting
+and using your own level instead of a task level. After any of
+these downtime days, you can complete the item by spending
+the remaining portion of its Price in materials. If the downtime
+Core Rulebook
+
+================================================================================
+PAGE 246
+================================================================================
+
+days you spend are interrupted, you can return to finish
+the item later, continuing where you left off. An example of
+Crafting appears in the sidebar.
+Critical Success Your attempt is successful. Each additional
+day spent Crafting reduces the materials needed to complete
+the item by an amount based on your level + 1 and your
+proficiency rank in Crafting.
+Success Your attempt is successful. Each additional day spent
+Crafting reduces the materials needed to complete the item
+by an amount based on your level and your proficiency rank.
+Failure You fail to complete the item. You can salvage the raw
+materials you supplied for their full value. If you want to try
+again, you must start over.
+Critical Failure You fail to complete the item. You ruin 10% of
+the raw materials you supplied, but you can salvage the
+rest. If you want to try again, you must start over.
+Consumables and Ammunition
+You can Craft items with the consumable trait in batches,
+making up to four of the same item at once with a single
+check. This requires you to include the raw materials
+for all the items in the batch at the start, and you must
+complete the batch all at once. You also Craft non-magical
+ammunition in batches, using the quantity listed in Table
+6–8: Ranged Weapons (typically 10).
+Getting Formulas
+You can gain access to the formulas for all common
+items in Chapter 6: Equipment by purchasing a basic
+crafter’s book (page 287). See the rules on page 293 for
+information on how to acquire other formulas.
+ IDENTIFY ALCHEMY
+CONCENTRATE
+EXPLORATION
+SECRET
+Requirements You have alchemist’s tools (page 287).
+You can identify the nature of an alchemical item with 10 minutes
+of testing using alchemist’s tools. If your attempt is interrupted
+in any way, you must start over.
+Success You identify the item and the means of activating it.
+Failure You fail to identify the item but can try again.
+Critical Failure You misidentify the item as another item of
+the GM’s choice.
+Deception (Cha)
+You can trick and mislead others using disguises, lies, and
+other forms of subterfuge.
+CREATE A DIVERSION [one-action]
+MENTAL
+With a gesture, a trick, or some distracting words, you can
+create a diversion that draws creatures’ attention elsewhere.
+If you use a gesture or trick, this action gains the manipulate
+trait. If you use distracting words, it gains the auditory and
+linguistic traits.
+Attempt a single Deception check and compare it to the
+CRAFTING EXAMPLE
+Ezren is a 5th-level wizard and an expert in Crafting. He
+has a Crafting modifier of +13 and the Magical Crafting
+feat. With 2 weeks of downtime ahead of him, he decides
+to craft a striking rune, a 4th-level item. The GM secretly
+chooses a DC of 19.
+The item has a Price of 65 gp, so Ezren prepares 32 gp,
+5 sp worth of raw materials. He has another 32 gp, 5 sp
+worth of raw materials on hand. After spending 4 days
+building and incanting spells, he rolls a 12 on his Crafting
+check, for a result of 25. That’s a success! At this point,
+Ezren can spend the additional 32 gp, 5 sp worth of
+materials to complete the item immediately for 65 gp.
+However, Ezren has 10 more days on his hands, so he
+decides to spend additional time to complete the item.
+Because he’s a 5th-level character and an expert at Crafting,
+he reduces the amount he has to pay by 1 gp for each day
+spent. After spending 10 days working, he reduces the cost
+to complete the item from 65 gp to 55 gp. He spends the
+remaining portion of its Price in materials, completes the
+striking rune, and goes out on his next adventure. (He could
+have stayed home to keep working on the striking rune,
+eventually reducing the item’s total Price to just the half he
+paid up front, but adventuring is far more lucrative!)
+If Ezren’s Crafting check result were a 29 or higher, he’d
+have gotten a critical success. In that case, he’d reduce the
+remaining amount by 2 gp per day, lowering the amount
+needed to complete the item after 10 additional days of
+work to 45 gp.
+Perception DCs of the creatures whose attention you’re trying
+to divert. Whether or not you succeed, creatures you attempt
+to divert gain a +4 circumstance bonus to their Perception DCs
+against your attempts to Create a Diversion for 1 minute.
+Success You become hidden to each creature whose
+Perception DC is less than or equal to your result. (The
+hidden condition allows you to Sneak away, as described
+on page 252.) This lasts until the end of your turn or until
+you do anything except Step or use the Hide or the Sneak
+action of the Stealth skill (pages 251 and 252). If you Strike
+a creature, the creature remains flat‑footed against that
+attack, and you then become observed. If you do anything
+else, you become observed just before you act unless the
+GM determines otherwise.
+Failure You don’t divert the attention of any creatures whose
+Perception DC exceeds your result, and those creatures are
+aware you were trying to trick them.
+IMPERSONATE
+CONCENTRATE
+EXPLORATION
+MANIPULATE
+SECRET
+You create a disguise to pass yourself off as someone or
+something you are not. Assembling a convincing disguise takes
+10 minutes and requires a disguise kit (found on page 290), but
+a simpler, quicker disguise might do the job if you’re not trying
+to imitate a specific individual, at the GM’s discretion.
+
+================================================================================
+PAGE 247
+================================================================================
+
+In most cases, creatures have a chance to detect your
+deception only if they use the Seek action to attempt
+Perception checks against your Deception DC. If you attempt
+to directly interact with someone while disguised, the GM
+rolls a secret Deception check for you against that creature’s
+Perception DC instead. If you’re disguised as a specific
+individual, the GM might give creatures you interact with a
+circumstance bonus based on how well they know the person
+you’re imitating, or the GM might roll a secret Deception
+check even if you aren’t directly interacting with others.
+Success You trick the creature into thinking you’re the person
+you’re disguised as. You might have to attempt a new check
+if your behavior changes.
+Failure The creature can tell you’re not who you claim to be.
+Critical Failure The creature can tell you’re not who you claim
+to be, and it recognizes you if it would know you without
+a disguise.
+LIE
+AUDITORY
+CONCENTRATE
+LINGUISTIC
+MENTAL
+SECRET
+You try to fool someone with an untruth. Doing so takes at
+least 1 round, or longer if the lie is elaborate. You roll a single
+Deception check and compare it against the Perception DC of
+every creature you are trying to fool. The GM might give them
+a circumstance bonus based on the situation and the nature of
+the lie you are trying to tell. Elaborate or highly unbelievable
+lies are much harder to get a creature to believe than simpler
+and more believable lies, and some lies are so big that it’s
+impossible to get anyone to believe them.
+At the GM’s discretion, if a creature initially believes your
+lie, it might attempt a Perception check later to Sense Motive
+against your Deception DC to realize it’s a lie. This usually
+happens if the creature discovers enough evidence to counter
+your statements.
+Success The target believes your lie.
+Failure The target doesn’t believe your lie and gains a +4
+circumstance bonus against your attempts to Lie for the
+duration of your conversation. The target is also more likely
+to be suspicious of you in the future.
+Deception Trained Action
+FEINT [one-action]
+MENTAL
+Requirements You are within melee reach of the opponent you
+attempt to Feint.
+With a misleading flourish, you leave an opponent unprepared
+for your real attack. Attempt a Deception check against that
+opponent’s Perception DC.
+Critical Success You throw your enemy’s defenses against
+you entirely off. The target is flat-footed against melee
+attacks that you attempt against it until the end of your
+next turn.
+Success Your foe is fooled, but only momentarily. The target is
+flat-footed against the next melee attack that you attempt
+against it before the end of your current turn.
+Critical Failure Your feint backfires. You are flat-footed against
+melee attacks the target attempts against you until the end
+of your next turn.
+Diplomacy (Cha)
+You influence others through negotiation and flattery.
+GATHER INFORMATION
+EXPLORATION
+SECRET
+You canvass local markets, taverns, and gathering places in
+an attempt to learn about a specific individual or topic. The
+GM determines the DC of the check and the amount of time it
+takes (typically 2 hours, but sometimes more), along with any
+benefit you might be able to gain by spending coin on bribes,
+drinks, or gifts.
+Success You collect information about the individual or topic.
+The GM determines the specifics.
+Critical Failure You collect incorrect information about the
+individual or topic.
+Sample Gather Information Tasks
+Untrained talk of the town
+Trained common rumor
+Expert obscure rumor, poorly guarded secret
+Master well-guarded or esoteric information
+Legendary information known only to an incredibly
+select few, or only to extraordinary beings
+MAKE AN IMPRESSION
+AUDITORY
+CONCENTRATE
+EXPLORATION
+LINGUISTIC
+MENTAL
+With at least 1 minute of conversation, during which you engage
+in charismatic overtures, flattery, and other acts of goodwill,
+you seek to make a good impression on someone to make them
+temporarily agreeable. At the end of the conversation, attempt
+a Diplomacy check against the Will DC of one target, modified
+by any circumstances the GM sees fit. Good impressions (or bad
+impressions, on a critical failure) last for only the current social
+interaction unless the GM decides otherwise.
+Critical Success The target’s attitude toward you improves by
+two steps.
+Success The target’s attitude toward you improves by one step.
+Critical Failure The target’s attitude toward you decreases by
+one step.
+Changing Attitudes
+Your influence on NPCs is measured with a set of attitudes
+that reflect how they view your character. These are
+only a brief summary of a creature’s disposition. The
+GM will supply additional nuance based on the history
+and beliefs of the characters you’re interacting with, and
+their attitudes can change in accordance with the story.
+The attitudes are detailed in the Conditions Appendix and
+are summarized here.
+• Helpful: Willing to help you and responds favorably to
+your requests.
+Core Rulebook
+
+================================================================================
+PAGE 248
+================================================================================
+
+• Friendly: Has a good attitude toward you, but won’t
+necessarily stick their neck out to help you.
+• Indifferent: Doesn’t care about you either way. (Most
+NPCs start out indifferent.)
+• Unfriendly: Dislikes you and doesn’t want to help you.
+• Hostile: Actively works against you—and might attack
+you just because of their dislike.
+No one can ever change the attitude of a player character
+with these skills. You can roleplay interactions with
+player characters, and even use Diplomacy results if the
+player wants a mechanical sense of how convincing or
+charming a character is, but players make the ultimate
+decisions about how their characters respond.
+REQUEST [one-action]
+AUDITORY
+CONCENTRATE
+LINGUISTIC
+MENTAL
+You can make a request of a creature that’s friendly or helpful
+to you. You must couch the request in terms that the target
+would accept given their current attitude toward you. The
+GM sets the DC based on the difficulty of the request. Some
+requests are unsavory or impossible, and even a helpful NPC
+would never agree to them.
+Critical Success The target agrees to your request without
+qualifications.
+Success The target agrees to your request, but they might
+demand added provisions or alterations to the request.
+Failure The target refuses the request, though they might
+propose an alternative that is less extreme.
+Critical Failure Not only does the target refuse the request,
+but their attitude toward you decreases by one step due to
+the temerity of the request.
+Intimidation (Cha)
+You bend others to your will using threats.
+COERCE
+AUDITORY
+CONCENTRATE
+EMOTION
+EXPLORATION
+LINGUISTIC
+MENTAL
+With threats either veiled or overt, you attempt to bully a
+creature into doing what you want. You must spend at least 1
+minute of conversation with a creature you can see and that
+can either see or sense you. At the end of the conversation,
+attempt an Intimidation check against the target’s Will DC,
+modified by any circumstances the GM determines. The
+attitudes referenced in the effects below are summarized in
+the Changing Attitudes sidebar on page 246 and described in
+full in the Conditions Appendix, starting on page 618.
+Critical Success The target gives you the information you
+seek or agrees to follow your directives so long as they
+aren’t likely to harm the target in any way. The target
+continues to comply for an amount of time determined by
+the GM but not exceeding 1 day, at which point the target
+becomes unfriendly (if they weren’t already unfriendly
+or hostile). However, the target is too scared of you to
+retaliate—at least in the short term.
+Success As critical success, but once the target becomes
+unfriendly, they might decide to act against you—for
+example, by reporting you to the authorities or assisting
+your enemies.
+Failure The target doesn’t do what you say, and if they were
+not already unfriendly or hostile, they become unfriendly.
+Critical Failure The target refuses to comply, becomes hostile
+if they weren’t already, and can’t be Coerced by you for at
+least 1 week.
+DEMORALIZE [one-action]
+AUDITORY
+CONCENTRATE
+EMOTION
+MENTAL
+With a sudden shout, a well-timed taunt, or a cutting putdown, you can shake an enemy’s resolve. Choose a creature
+within 30 feet of you who you’re aware of. Attempt an
+Intimidation check against that target’s Will DC. If the target
+does not understand the language you are speaking, you’re
+not speaking a language, or they can’t hear you, you take a
+–4 circumstance penalty to the check. Regardless of your
+result, the target is temporarily immune to your attempts to
+Demoralize it for 10 minutes.
+Critical Success The target becomes frightened 2.
+Success The target becomes frightened 1.
+Lore (Int)
+You have specialized information on a narrow topic.
+Lore features many subcategories. You might have
+Military Lore, Sailing Lore, Vampire Lore, or any similar
+subcategory of the skill. Each subcategory counts as its
+own skill, so applying a skill increase to Planar Lore
+wouldn’t increase your proficiency with Sailing Lore,
+for example.
+You gain a specific subcategory of the Lore skill from
+your background. The GM determines what other
+subcategories they’ll allow as Lore skills, though these
+categories are always less broad than any of the other
+skills that allow you to Recall Knowledge, and they
+should never be able to fully or mainly take the place
+of another skill’s Recall Knowledge action. For instance,
+Magic Lore wouldn’t enable you to recall the same
+breadth of knowledge covered by Arcana, Adventuring
+Lore wouldn’t simply give you all the information an
+adventurer needs, and Planar Lore would not be sufficient
+to gain all the information spread across various skills
+and subcategories such as Heaven Lore.
+If you have multiple subcategories of Lore that could
+apply to a check or that would overlap with another skill
+in the circumstances, you can use the skill with the better
+skill modifier or the one you would prefer to use. If there’s
+any doubt whether a Lore skill applies to a specific topic
+or action, the GM decides whether it can be used or not.
+Even if you’re untrained in Lore, you can use it to
+Recall Knowledge (page 238).
+• Recall Knowledge about the subject of your Lore
+skill’s subcategory.
+
+================================================================================
+PAGE 249
+================================================================================
+
+COMMON LORE SUBCATEGORIES
+You can learn any Lore skill your GM gives you permission
+to take. The following list covers a wide variety of
+common Lore topics appropriate for most campaigns.
+Backgrounds often grant you a Lore from this list.
+• Academia Lore
+• Accounting Lore
+• Architecture Lore
+• Art Lore
+• Circus Lore
+• Engineering Lore
+• Farming Lore
+• Fishing Lore
+• Fortune-Telling Lore
+• Games Lore
+• Genealogy Lore
+• Gladiatorial Lore
+• Guild Lore
+• Heraldry Lore
+• Herbalism Lore
+• Hunting Lore
+• Labor Lore
+• Legal Lore
+• Library Lore
+• Lore about a specific deity (Abadar Lore, Iomedae
+Lore, etc.)
+• Lore about a specific creature or narrow category of
+creatures (Demon Lore, Owlbear Lore, Vampire Lore, etc.)
+• Lore of a specific plane other than the Material Plane,
+or the plane in which the game is set if not the Material
+Plane (Abyss Lore, Astral Plane Lore, Heaven Lore, etc.)
+• Lore about a specific settlement (Absalom Lore,
+Magnimar Lore, etc.)
+• Lore about a specific terrain (Mountain Lore, River
+Lore, etc.)
+• Lore of a type of food or drink (Alcohol Lore, Baking
+Lore, Butchering Lore, Cooking Lore, Tea Lore, etc.)
+• Mercantile Lore
+• Midwifery Lore
+• Milling Lore
+• Mining Lore
+• Sailing Lore
+• Scouting Lore
+• Scribing Lore
+• Stabling Lore
+• Tanning Lore
+• Theater Lore
+• Underworld Lore
+• Warfare Lore
+Lore Trained Action
+You must be trained in Lore to use it to Earn Income
+(page 236).
+• Earn Income by using your knowledge to practice
+a trade.
+Medicine (Wis)
+You can patch up wounds and help people recover from
+diseases and poisons. Even if you’re untrained in Medicine,
+you can use it to Recall Knowledge (page 238).
+• Recall Knowledge about diseases, injuries, poisons,
+and other ailments. You can use this to perform
+forensic examinations if you spend 10 minutes
+(or more, as determined by the GM) checking for
+evidence such as wound patterns. This is most useful
+when determining how a body was injured or killed.
+ADMINISTER FIRST AID [two-actions]
+MANIPULATE
+Requirements You have healer’s tools (page 290).
+You perform first aid on an adjacent creature that is dying or
+bleeding. If a creature is both dying and bleeding, choose which
+ailment you’re trying to treat before you roll. You can Administer
+First Aid again to attempt to remedy the other effect.
+• Stabilize Attempt a Medicine check on a creature that
+has 0 Hit Points and the dying condition. The DC is
+equal to 5 + that creature’s recovery roll DC (typically
+15 + its dying value).
+• Stop Bleeding Attempt a Medicine check on a creature
+that is taking persistent bleed damage (page 452),
+giving them a chance to make another flat check to
+remove the persistent damage. The DC is usually the DC
+of the effect that caused the bleed.
+Success If you’re trying to stabilize, the creature loses the dying
+condition (but remains unconscious). If you’re trying to stop
+bleeding, the creature attempts a flat check to end the bleeding.
+Critical Failure If you were trying to stabilize, the creature’s
+dying value increases by 1. If you were trying to stop
+bleeding, it immediately takes an amount of damage equal
+to its persistent bleed damage.
+Medicine Trained Actions
+TREAT DISEASE
+DOWNTIME
+MANIPULATE
+Requirements You have healer’s tools (page 290).
+You spend at least 8 hours caring for a diseased creature. Attempt
+a Medicine check against the disease’s DC. After you attempt to
+Treat a Disease for a creature, you can’t try again until after that
+creature’s next save against the disease.
+Critical Success You grant the creature a +4 circumstance
+bonus to its next saving throw against the disease.
+Success You grant the creature a +2 circumstance bonus to its
+next saving throw against the disease.
+Critical Failure Your efforts cause the creature to take a –2
+circumstance penalty to its next save against the disease.
+TREAT POISON [one-action]
+MANIPULATE
+Requirements You have healer’s tools (page 290).
+You treat a patient to prevent the spread of poison. Attempt a
+Medicine check against the poison’s DC. After you attempt to
+Core Rulebook
+
+================================================================================
+PAGE 250
+================================================================================
+
+Treat a Poison for a creature, you can’t try again until after the
+next time that creature attempts a save against the poison.
+Critical Success You grant the creature a +4 circumstance
+bonus to its next saving throw against the poison.
+Success You grant the creature a +2 circumstance bonus to its
+next saving throw against the poison.
+Critical Failure Your efforts cause the creature to take a –2
+circumstance penalty to its next save against the poison.
+TREAT WOUNDS
+EXPLORATION
+HEALING
+MANIPULATE
+Requirements You have healer’s tools (page 290).
+You spend 10 minutes treating one injured living creature
+(targeting yourself, if you so choose). The target is then
+temporarily immune to Treat Wounds actions for 1 hour, but
+this interval overlaps with the time you spent treating (so a
+patient can be treated once per hour, not once per 70 minutes).
+The Medicine check DC is usually 15, though the GM might
+adjust it based on the circumstances, such as treating a patient
+outside in a storm, or treating magically cursed wounds. If you’re
+an expert in Medicine, you can instead attempt a DC 20 check
+to increase the Hit Points regained by 10; if you’re a master of
+Medicine, you can instead attempt a DC 30 check to increase
+the Hit Points regained by 30; and if you’re legendary, you can
+instead attempt a DC 40 check to increase the Hit Points regained
+by 50. The damage dealt on a critical failure remains the same.
+If you succeed at your check, you can continue treating the
+target to grant additional healing. If you treat them for a total
+of 1 hour, double the Hit Points they regain from Treat Wounds.
+The result of your Medicine check determines how many
+Hit Points the target regains.
+Critical Success The target regains 4d8 Hit Points, and its
+wounded condition is removed.
+Success The target regains 2d8 Hit Points, and its wounded
+condition is removed.
+Critical Failure The target takes 1d8 damage.
+Nature (Wis)
+You know a great deal about the natural world, and you
+command and train animals and magical beasts. Even
+if you’re untrained in Nature, you can use it to Recall
+Knowledge (page 238).
+• Recall Knowledge about fauna, flora, geography,
+weather, the environment, creatures of natural origin
+(like animals, beasts, fey, and plants), the First World,
+the Material Plane, and the Elemental Planes.
+COMMAND AN ANIMAL [one-action]
+AUDITORY
+CONCENTRATE
+You issue an order to an animal. Attempt a Nature check
+against the animal’s Will DC. The GM might adjust the DC if the
+animal has a good attitude toward you, you suggest a course of
+action it was predisposed toward, or you offer it a treat.
+You automatically fail if the animal is hostile or unfriendly
+to you. If the animal is helpful to you, increase your degree of
+COMMANDED ANIMALS
+Issuing commands to an animal doesn’t always go
+smoothly. An animal is an independent creature with
+limited intelligence. Most animals understand only the
+simplest instructions, so you might be able to instruct
+your animal to move to a certain square but not dictate
+a specific path to get there, or command it to attack a
+certain creature but not to make its attack nonlethal. The
+GM decides the specifics of the action your animal uses.
+The animal does what you commanded as soon as
+it can, usually as its first action on its next turn. If you
+successfully commanded it multiple times, it does what
+you said in order. It forgets all commands beyond what it
+can accomplish on its turn. If multiple people command
+the same animal, the GM determines how the animal
+reacts. The GM might also make the DC higher if someone
+has already tried to Command the Animal that round.
+success by one step. You might be able to Command an Animal
+more easily with a feat like Ride (page 266).
+Most animals know the Leap, Seek, Stand, Stride, and
+Strike basic actions. If an animal knows an activity, such as a
+horse’s Gallop, you can Command the Animal to perform the
+activity, but you must spend as many actions on Command
+an Animal as the activity’s number of actions. You can also
+spend multiple actions to Command the Animal to perform
+that number of basic actions on its next turn; for instance, you
+could spend 3 actions to Command an Animal to Stride three
+times or to Stride twice and then Strike.
+Success The animal does as you command on its next turn.
+Failure The animal is hesitant or resistant, and it does nothing.
+Critical Failure The animal misbehaves or misunderstands,
+and it takes some other action determined by the GM.
+Nature Trained Actions
+You must be trained in Nature to use it for the following
+general skill actions (page 234).
+• Identify Magic, particularly primal magic.
+• Learn a Spell from the primal tradition.
+Occultism (Int)
+You know a great deal about ancient philosophies, esoteric
+lore, obscure mysticism, and supernatural creatures. Even
+if you’re untrained in Occultism, you can use it to Recall
+Knowledge (page 238).
+• Recall Knowledge about ancient mysteries; obscure
+philosophies; creatures of occult significance (like
+aberrations, spirits, and oozes); and the Positive
+Energy, Negative Energy, Shadow, Astral, and
+Ethereal Planes.
+Occultism Trained Actions
+You must be trained in Occultism to use it for the
+following general skill actions (page 234).
+
+================================================================================
+PAGE 251
+================================================================================
+
+• Decipher Writing on occult topics, including
+complex metaphysical systems, syncretic principles,
+weird philosophies, and incoherent ramblings.
+• Identify Magic, particularly occult magic.
+• Learn a Spell from the occult tradition.
+Performance (Cha)
+You are skilled at a form of performance, using your
+talents to impress a crowd or make a living.
+Basic Competence
+Some performances require you to be more than just
+charismatic, and if you don’t meet the demands of the
+art form or the audience, the GM might apply a penalty
+based on the relevant ability score. For example, if
+you’re dancing and have a negative Dexterity modifier,
+you might take a penalty to your attempt at dancing.
+Likewise, if you are orating and have a negative
+Intelligence modifier, you might have to hope your
+raw Charisma can overcome the penalties from your
+intellectual shortcomings—or ask someone to help write
+your speeches!
+Performance Traits
+When you use an action that utilizes the Performance
+skill, it gains one or more traits relevant to the type of
+performance. The GM might change these depending on
+the circumstances, but the most common performancebased traits are listed below.
+Performance
+Additional Traits
+Act or perform comedy
+Auditory, linguistic, and visual
+Dance
+Move and visual
+Play an instrument
+Auditory and manipulate
+Orate or sing
+Auditory and linguistic
+PERFORM [one-action]
+CONCENTRATE
+When making a brief performance—one song, a quick dance,
+or a few jokes—you use the Perform action. This action is most
+useful when you want to prove your capability or impress
+someone quickly. Performing rarely has an impact on its
+own, but it might influence the DCs of subsequent Diplomacy
+checks against the observers—or even change their attitudes—
+if the GM sees fit.
+Critical Success Your performance impresses the observers,
+and they’re likely to share stories of your ability.
+Success You prove yourself, and observers appreciate the
+quality of your performance.
+Failure Your performance falls flat.
+Critical Failure You demonstrate only incompetence.
+Sample Perform Tasks
+Untrained audience of commoners
+Trained audience of artisans
+Expert audience of merchants or minor nobles
+Master audience of high nobility or minor royalty
+Legendary audience of major royalty or otherworldly beings
+Performance Trained Action
+You must be trained in Performance to use it to Earn
+Income (page 236).
+• Earn Income by staging a performance.
+Religion (Wis)
+The secrets of deities, dogma, faith, and the realms of
+divine creatures both sublime and sinister are open to
+you. You also understand how magic works, though
+your training imparts a religious slant to that knowledge.
+Even if you’re untrained in Religion, you can use it to Recall
+Knowledge (page 238).
+• Recall Knowledge about divine agents, the finer
+points of theology, obscure myths regarding a
+faith, and creatures of religious significance (like
+celestials, fiends, and undead), the Outer Sphere,
+and the Positive and Negative Energy Planes.
+Religion Trained Actions
+You must be trained in Religion to use it for the following
+general skill actions (page 234).
+• Decipher Writing of a religious nature, including
+allegories, homilies, and proverbs.
+• Identify Magic, particularly divine magic.
+• Learn a Spell from the divine tradition.
+Society (Int)
+You understand the people and systems that make
+civilization run, and you know the historical events that
+make societies what they are today. Further, you can use
+that knowledge to navigate the complex physical, societal,
+and economic workings of settlements. Even if you’re
+untrained in Society, you can use it for the following
+general skill actions (page 234).
+• Recall Knowledge about local history, important
+personalities, legal institutions, societal structure,
+and humanoid cultures. The GM might allow
+Society to apply to other creatures that are major
+elements of society in your region, such as the
+draconic nobility in a kingdom of humans ruled
+by dragons.
+• Subsist in a settlement by finding shelter, scrounging,
+or begging for food.
+Society Trained Actions
+You must be trained in Society to use it to Decipher
+Writing (page 234).
+• Decipher Writing that’s a coded message, text
+written in an incomplete or archaic form, or in
+some cases, text in a language you don’t know.
+Core Rulebook
+
+================================================================================
+PAGE 252
+================================================================================
+
+CREATE FORGERY
+DOWNTIME
+SECRET
+You create a forged document, usually over the course of a
+day or a week. You must have the proper writing material to
+create a forgery. When you Create a Forgery, the GM rolls a
+secret DC 20 Society check. If you succeed, the forgery is of
+good enough quality that passive observers can’t notice the
+fake. Only those who carefully examine the document and
+attempt a Perception or Society check against your Society
+DC can do so.
+If the document’s handwriting doesn’t need to be specific
+to a person, you need only to have seen a similar document
+before, and you gain up to a +4 circumstance bonus to your
+check, as well as to your DC (the GM determines the bonus).
+To forge a specific person’s handwriting, you need a sample of
+that person’s handwriting.
+If your check result was below 20, the forgery has some
+obvious signs of being a fake, so the GM compares your
+result to each passive observer’s Perception DC or Society DC,
+whichever is higher, using the success or failure results below.
+Once the GM rolls your check for a document, that same result
+is used against all passive observers’ DCs no matter how many
+creatures passively observe that document.
+An observer who was fooled on a passive glance can still
+choose to closely scrutinize the documents on the lookout for
+a forgery, using different techniques and analysis methods
+beyond the surface elements you successfully forged with
+your original check. In that case, the observer can attempt a
+Perception or Society check against your Society DC (if they
+succeed, they know your document is a forgery).
+Success The observer does not detect the forgery.
+Failure The observer knows your document is a forgery.
+Stealth (Dex)
+You are skilled at avoiding detection, allowing you to slip
+past foes, hide, or conceal an item.
+CONCEAL AN OBJECT [one-action]
+MANIPULATE
+SECRET
+You hide a small object on your person (such as a weapon of
+light Bulk). When you try to sneak a concealed object past
+someone who might notice it, the GM rolls your Stealth check
+and compares it to this passive observer’s Perception DC. Once
+the GM rolls your check for a concealed object, that same
+result is used no matter how many passive observers you
+try to sneak it past. If a creature is specifically searching you
+for an item, it can attempt a Perception check against your
+Stealth DC (finding the object on success).
+You can also conceal an object somewhere other than your
+person, such as among undergrowth or in a secret compartment
+within a piece of furniture. In this case, characters Seeking in
+an area compare their Perception check results to your Stealth
+DC to determine whether they find the object.
+Success The object remains undetected.
+Failure The searcher finds the object.
+BEING STEALTHY
+If you want to sneak around when there are creatures
+that can see you, you can use a combination of Hide and
+Sneak to do so.
+• First, Hide behind something (either by taking
+advantage of cover or having the concealed condition
+due to fog, a spell, or a similar effect). A successful
+Stealth check makes you hidden, though the creatures
+still know roughly where you are.
+• Second, now that you’re hidden, you can Sneak. That
+means you can move at half your Speed and attempt
+another Stealth check. If it’s successful, you’re now
+undetected. That means the creatures don’t know
+which square you’re in anymore.
+If you were approaching creatures that didn’t know
+you were there, you could begin Sneaking right away,
+since they didn’t know your location to start with. Some
+actions can cause you to become observed again, but
+they’re mostly what you’d expect: standing out in the
+open, attacking someone, making a bunch of noise, and
+so forth. If you Strike someone after successfully Hiding
+or Sneaking, though, they’re flat-footed to that Strike.
+Creatures can try to find you using the Seek action,
+described on page 471.
+Three conditions explain the states of detection.
+Remember that these conditions are relative to each
+creature—you can be observed by one creature while
+hidden to another and undetected by a third.
+OBSERVED
+You’re in the creature’s clear view.
+HIDDEN
+The creature knows your location but can’t see you.
+UNDETECTED
+The creature doesn’t know your location.
+HIDE [one-action]
+SECRET
+You huddle behind cover or greater cover or deeper into
+concealment to become hidden, rather than observed. The
+GM rolls your Stealth check in secret and compares the
+result to the Perception DC of each creature you’re observed
+by but that you have cover or greater cover against or are
+concealed from. You gain the circumstance bonus from cover
+or greater cover to your check.
+Success If the creature could see you, you’re now hidden
+from it instead of observed. If you were hidden from or
+undetected by the creature, you retain that condition.
+If you successfully become hidden to a creature but
+then cease to have cover or greater cover against it or be
+concealed from it, you become observed again. You cease
+being hidden if you do anything except Hide, Sneak, or Step.
+
+================================================================================
+PAGE 253
+================================================================================
+
+If you attempt to Strike a creature, the creature remains flatfooted against that attack, and you then become observed. If
+you do anything else, you become observed just before you
+act unless the GM determines otherwise. The GM might allow
+you to perform a particularly unobtrusive action without
+being noticed, possibly requiring another Stealth check.
+If a creature uses Seek to make you observed by it, you
+must successfully Hide to become hidden from it again.
+SNEAK [one-action]
+MOVE
+SECRET
+You can attempt to move to another place while becoming
+or staying undetected. Stride up to half your Speed. (You can
+use Sneak while Burrowing, Climbing, Flying, or Swimming
+instead of Striding if you have the corresponding movement
+type; you must move at half that Speed.)
+If you’re undetected by a creature and it’s impossible for that
+creature to observe you (for a typical creature, this includes
+when you’re invisible, the observer is blinded, or you’re in
+darkness and the creature can’t see in darkness), for any critical
+failure you roll on a check to Sneak, you get a failure instead.
+You also continue to be undetected if you lose cover or greater
+cover against or are no longer concealed from such a creature.
+At the end of your movement, the GM rolls your Stealth
+check in secret and compares the result to the Perception
+DC of each creature you were hidden from or undetected by
+at the start of your movement. If you have cover or greater
+cover from the creature throughout your Stride, you gain the
++2 circumstance bonus from cover (or +4 from greater cover)
+to your Stealth check. Because you’re moving, the bonus
+increase from Taking Cover doesn’t apply. You don’t get to roll
+against a creature if, at the end of your movement, you neither
+are concealed from it nor have cover or greater cover against
+it. You automatically become observed by such a creature.
+Success You’re undetected by the creature during your movement
+and remain undetected by the creature at the end of it.
+You become observed as soon as you do anything other
+than Hide, Sneak, or Step. If you attempt to Strike a creature,
+the creature remains flat-footed against that attack, and you
+then become observed. If you do anything else, you become
+observed just before you act unless the GM determines
+otherwise. The GM might allow you to perform a particularly
+unobtrusive action without being noticed, possibly requiring
+another Stealth check. If you speak or make a deliberate
+loud noise, you become hidden instead of undetected.
+If a creature uses Seek and you become hidden to it as a
+result, you must Sneak if you want to become undetected
+by that creature again.
+Failure A telltale sound or other sign gives your position away,
+though you still remain unseen. You’re hidden from the
+creature throughout your movement and remain so.
+Critical Failure You’re spotted! You’re observed by the creature
+throughout your movement and remain so. If you’re
+invisible and were hidden from the creature, instead of
+being observed you’re hidden throughout your movement
+and remain so.
+Survival (Wis)
+You are adept at living in the wilderness, foraging for
+food and building shelter, and with training you discover
+the secrets of tracking and hiding your trail. Even if you’re
+untrained, you can still use Survival to Subsist (page 240).
+• Subsist in the wild by foraging for food and
+building shelter.
+SENSE DIRECTION
+EXPLORATION
+SECRET
+Using the stars, the position of the sun, traits of the
+geography or flora, or the behavior of fauna, you can stay
+oriented in the wild. Typically, you attempt a Survival check
+only once per day, but some environments or changes might
+necessitate rolling more often. The GM determines the DC
+and how long this activity takes (usually just a minute or so).
+More unusual locales or those you’re unfamiliar with might
+require you to have a minimum proficiency rank to Sense
+Direction. Without a compass, you take a –2 item penalty to
+checks to Sense Direction.
+Critical Success You get an excellent sense of where you are.
+If you are in an environment with cardinal directions, you
+know them exactly.
+Success You gain enough orientation to avoid becoming
+hopelessly lost. If you are in an environment with cardinal
+directions, you have a sense of those directions.
+Sense Direction Tasks
+Untrained determine a cardinal direction using the sun
+Trained find an overgrown path in a forest
+Expert navigate a hedge maze
+Master navigate a byzantine labyrinth or relatively
+featureless desert
+Legendary navigate an ever-changing dream realm
+Survival Trained Actions
+COVER TRACKS
+CONCENTRATE
+EXPLORATION
+MOVE
+You cover your tracks, moving up to half your travel Speed,
+using the rules on page 479). You don’t need to attempt a
+Survival check to cover your tracks, but anyone tracking you
+must succeed at a Survival check against your Survival DC if it
+is higher than the normal DC to Track.
+In some cases, you might Cover Tracks in an encounter. In
+this case, Cover Tracks is a single action and doesn’t have the
+exploration trait.
+TRACK
+CONCENTRATE
+EXPLORATION
+MOVE
+You follow tracks, moving at up to half your travel Speed, using
+the rules on page 479). After a successful check to Track, you
+can continue following the tracks at half your Speed without
+attempting additional checks for up to 1 hour. In some cases,
+you might Track in an encounter. In this case, Track is a single
+action and doesn’t have the exploration trait, but you might
+Core Rulebook
+
+================================================================================
+PAGE 254
+================================================================================
+
+need to roll more often because you’re in a tense situation.
+The GM determines how often you must attempt this check.
+You attempt your Survival check when you start Tracking,
+once every hour you continue tracking, and any time
+something significant changes in the trail. The GM determines
+the DCs for such checks, depending on the freshness of the
+trail, the weather, and the type of ground.
+Success You find the trail or continue to follow the one you’re
+already following.
+Failure You lose the trail but can try again after a 1-hour delay.
+Critical Failure You lose the trail and can’t try again for 24 hours.
+Sample Track Tasks
+Untrained the path of a large army following a road
+Trained relatively fresh tracks of a rampaging bear
+through the plains
+Expert a nimble panther’s tracks through a jungle, tracks
+after the rain
+Master tracks after a winter snow, tracks of a mouse or
+smaller creature, tracks left on surfaces that can’t hold
+prints like bare rock
+Legendary old tracks through a windy desert’s sands,
+tracks after a major blizzard or hurricane
+Thievery (Dex)
+You are trained in a particular set of skills favored by
+thieves and miscreants.
+PALM AN OBJECT [one-action]
+MANIPULATE
+Palming a small, unattended object without being noticed
+requires you to roll a single Thievery check against the
+Perception DCs of all creatures who are currently observing
+you. You take the object whether or not you successfully
+conceal that you did so. You can typically only Palm Objects
+of negligible Bulk, though the GM might determine otherwise
+depending on the situation.
+Success The creature does not notice you Palming the Object.
+Failure The creature notices you Palming the Object, and the
+GM determines the creature’s response.
+STEAL [one-action]
+MANIPULATE
+You try to take a small object from another creature without
+being noticed. Typically, you can Steal only an object of
+negligible Bulk, and you automatically fail if the creature who
+has the object is in combat or on guard.
+Attempt a Thievery check to determine if you successfully
+Steal the object. The DC to Steal is usually the Perception DC
+of the creature wearing the object. This assumes the object
+is worn but not closely guarded (like a loosely carried pouch
+filled with coins, or an object within such a pouch). If the object
+is in a pocket or similarly protected, you take a –5 penalty to
+your Thievery check. The GM might increase the DC of your
+check if the nature of the object makes it harder to steal (such
+as a very small item in a large pack, or a sheet of parchment
+mixed in with other documents).
+You might also need to compare your Thievery check result
+against the Perception DCs of observers other than the person
+wearing the object. The GM may increase the Perception DCs
+of these observers if they’re distracted.
+Success You steal the item without the bearer noticing, or an
+observer doesn’t see you take or attempt to take the item.
+Failure The item’s bearer notices your attempt before you can
+take the object, or an observer sees you take or attempt
+to take the item. The GM determines the response of any
+creature that notices your theft.
+Thievery Trained Actions
+DISABLE A DEVICE [two-actions]
+MANIPULATE
+Requirements Some devices require you to use thieves’ tools
+(page 291) when disabling them.
+This action allows you to disarm a trap or another complex
+device. Often, a device requires numerous successes before
+becoming disabled, depending on its construction and
+complexity. Thieves’ tools are helpful and sometimes even
+required to Disable a Device, as determined by the GM, and
+sometimes a device requires a higher proficiency rank in
+Thievery to disable it.
+Your Thievery check result determines how much progress
+you make.
+Critical Success You disable the device, or you achieve two
+successes toward disabling a complex device. You leave no
+trace of your tampering, and you can rearm the device later,
+if that type of device can be rearmed.
+Success You disable the device, or you achieve one success
+toward disabling a complex device.
+Critical Failure You trigger the device.
+PICK A LOCK [two-actions]
+MANIPULATE
+Requirements You have thieves’ tools (page 291).
+Opening a lock without a key is very similar to Disabling a
+Device, but the DC of the check is determined by the complexity
+and construction of the lock you are attempting to pick (locks
+and their DCs are found on page 290). Locks of higher qualities
+might require multiple successes to unlock, since otherwise even
+an unskilled burglar could easily crack the lock by attempting
+the check until they rolled a natural 20. If you lack the proper
+tools, the GM might let you used improvised picks, which are
+treated as shoddy tools, depending on the specifics of the lock.
+Critical Success You unlock the lock, or you achieve two
+successes toward opening a complex lock. You leave no
+trace of your tampering.
+Success You open the lock, or you achieve one success toward
+opening a complex lock.
+Critical Failure You break your tools. Fixing them requires using
+Crafting to Repair them or else swapping in replacement
+picks (costing 3 sp, or 3 gp for infiltrator thieves’ tools).
+
+================================================================================
+PAGE 255
 ================================================================================
 
 Core Rulebook
+
+================================================================================
+PAGE 256
+================================================================================
+
+TABLE 5–1: GENERAL FEATS
+
+Non-Skill Feats
+Level
+Prerequisites
+Benefits
+Adopted Ancestry
+—
+Gain access to ancestry feats from another ancestry
+Armor Proficiency
+—
+Become trained in a type of armor
+Breath Control
+—
+Hold your breath longer and gain benefits against inhaled threats
+Canny Acumen
+—
+Become an expert in a saving throw or Perception
+Diehard
+—
+Die at dying 5, rather than dying 4
+Fast Recovery
+Constitution 14
+Regain more HP from rest, recover faster from disease and poisons
+Feather Step
+Dexterity 14
+Step into difficult terrain
+Fleet
+—
+Increase your Speed by 5 feet
+Incredible Initiative
+—
++2 to initiative rolls
+Ride
+—
+Automatically succeed at commanding your mount to move
+Shield Block
+—
+Ward off a blow with your shield
+Toughness
+—
+Increase your maximum HP and reduce the DCs of recovery checks
+Weapon Proficiency
+—
+Become trained in a weapon type
+Ancestral Paragon
+—
+Gain a 1st-level ancestry feat
+Untrained Improvisation
+—
+Become more adept at using untrained skills
+Expeditious Search
+Master Perception
+Search areas in half the time
+Incredible Investiture
+Charisma 16
+Invest up to 12 magic items
+TABLE 5–2: GENERAL SKILL FEATS
+
+Varying Skill Feats
+Level Prerequisites
+Benefits
+Assurance
+Trained in at least one skill
+Receive a fixed result on a skill check
+Dubious Knowledge
+Trained in Recall Knowledge skill
+Learn true and erroneous knowledge on failed check
+Quick Identification
+Trained in Arcana, Nature, Occultism,
+Identify Magic in 1 minute or less
+
+or Religion
+Recognize Spell
+Trained in Arcana, Nature, Occultism, Identify a spell as a reaction as it’s being cast
+
+or Religion
+Skill Training
+Intelligence 12
+Become trained in a skill
+Trick Magic Item
+Trained in Arcana, Nature, Occultism,
+Activate a magic item you normally can’t activate
+
+or Religion
+Automatic Knowledge
+Expert in Recall Knowledge action,
+Recall Knowledge as a free action once per day
+
+Assurance in the relevant skill
+Magical Shorthand
+Expert in Arcana, Nature, Occultism,
+Learn spells quickly and at a reduced cost
+
+or Religion
+Quick Recognition
+Master in Arcana, Nature, Occultism, Identify spells as a free action
+
+or Religion; Recognize Spell
+Acrobatics Skill Feats
+Level Prerequisites
+Benefits
+Cat Fall
+Trained in Acrobatics
+Treat falls as shorter than they are
+For most classes, you gain a general feat when you reach
+3rd level and every 4 levels thereafter. Each time you gain
+a general feat, you can select any feat with the general trait
+whose prerequisites you satisfy.
+General feats also include a subcategory of skill feats,
+which expand on what you can accomplish via skills.
+
+================================================================================
+# Chapter 4 (continued)
+# Pages: 499-531
+================================================================================
 
 Chapter 4: Skills.
 • Avoid Notice

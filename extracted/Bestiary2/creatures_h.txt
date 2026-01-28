@@ -1,0 +1,1012 @@
+# Bestiary - Creatures: H
+# Count: 10 creatures
+
+
+================================================================================
+# HOUND ARCHON
+================================================================================
+
+
+Bestiary 2
+Archon
+Tireless agents of Heaven, archons embody virtues and strive to guide mortals
+while battling the evil forces of the ﬁendish realms. Heaven’s seven-tiered
+mountain is generally known as a place of contemplation and philosophy,
+as exempliﬁed by the ﬁfth level, Illumis. But the archon denizens of Heaven’s
+threshold and the second level, Proelera, concern themselves with defense and
+mustering armies for the endless battles against Hell and the Abyss. However,
+whereas devils and demons take pleasure in harming the innocent, Heaven’s
+wardens reserve their blades for only the truly wicked and irredeemable. Among
+mortals, they prefer to guide and nurture a rule of law that looks out for the
+weak and powerless, leading mortal agents to overcome mortal threats rather
+than solving those threats themselves.
+HOUND ARCHON
+Among the rank-and-ﬁle soldiers of Heaven’s armies, few individuals are more
+dependable and truer to the cause than the noble hound archons, embodiments
+of the virtue of diligence. Unlike horned archons, who perform at a similar
+level along Heaven’s grand hierarchy, hound archons do not scout ahead for
+evil or perform reconnaissance missions in hostile territory. A hound archon’s
+role is as a soldier in the heart of battle or, occasionally, as a sentinel tasked with
+protecting a particular strategic location or holy site.
+HOUND ARCHON
+CREATURE 4
+LG
+MEDIUM
+ARCHON
+CELESTIAL
+Perception +13; darkvision
+Languages Celestial, Draconic, Infernal; tongues
+Skills Athletics +12, Intimidation +10, Religion +9, Stealth +10
+Str +4, Dex +2, Con +4, Int +0, Wis +3, Cha +2
+Items greatsword, full plate
+AC 22; Fort +14, Ref +8, Will +11; +1 status to all saves vs. magic
+HP 70; Weaknesses evil 5
+Retributive Strike Ǻȓ
+Speed 35 feet
+Melee Ȱɵ greatsword +14 (good, magical, versatile P), Damage 1d12+6
+slashing plus 1d6 good
+Melee Ȱɵ jaws +14 (agile, good, magical), Damage 1d6+6 piercing plus 1d6 good
+Divine Innate Spells DC 19; 4th dimension door; Cantrips (2nd) message;
+Constant (5th) tongues
+Archon’s Door Once per day, if an archon sees another creature cast
+dimension door, the archon can use dimension door (heightened to
+5th level) within 1 round to attempt to follow that creature to the
+maximum distance of the archon’s dimension door. If the archon’s
+dimension door has enough distance, the archon appears the
+same distance and direction from the creature as before either
+creature used dimension door.
+Change Shape
+Ȱɵ
+(concentrate,
+divine,
+polymorph,
+transmutation) A hound archon can take the appearance
+of any canid animal of Small to Large size. This doesn’t
+change their Speed or the attack and damage bonuses
+for their Strikes, but if the canid’s bite attack has the
+Knockdown ability, then the hound archon’s bite
+attack gains that ability while they are in that form.
+Diligent Assault ʚʖ The hound archon carefully
+makes one greatsword Strike and one jaws Strike
+in any order. These attacks count toward the
+hound archon’s multiple attack penalty, but the multiple
+attack penalty doesn’t increase until after all the attacks.
+ARCHON EVOLUTIONS
+When a spirit becomes an archon,
+they usually start as a lantern archon,
+the lowliest of archonkind. As they
+perform noble deeds and bolster their
+pureness of heart, an archon evolves
+into greater forms, possibly skipping
+stages or remaining in others for long
+spans of time, depending on their
+particular strengths and personality.
+
+================================================================================
+PAGE 24
+================================================================================
+
+INSTRUMENTS OF WAR
+A trumpet archon’s magical
+instrument is no mere piece of
+brass; each of these immaculately
+crafted horns is said to be crafted
+in Heaven’s blessed forges and
+infused with the voices of a thousand
+angels. Only archons can truly
+play such trumpets—mortals lack
+the power necessary to create
+trumpet archons’ iconic clarion
+calls, but can still play them as
+virtuoso instruments.
+TRUMPET ARCHON
+Trumpet archons are messengers, emissaries, and storytellers­—embodiments of
+the virtue of kindness. They use stories and allegories to prevent bloodshed, and
+among all archons they are the most likely to work together with angels, perhaps
+leading to the similarities in their forms. When diplomacy is impossible, trumpet
+archons rally the righteous to battle—one reassuring glance from a trumpet archon
+is often all it takes to instill a shaken ally with resounding courage once again.
+
+================================================================================
+# HEZROU
+================================================================================
+
+
+HALF-DEMONS
+The Abyss can corrupt living
+creatures through direct congress
+or supernatural infusion of Abyssal
+energies, resulting in monstrous
+hybrids. A half-demon should be a
+custom creature, but you can quickly
+generate one by giving an existing
+creature a few of a demon’s abilities
+along with the demon’s sin-related
+vulnerability. For example, a halfhezrou hill giant would gain purity
+vulnerability, but perhaps also a bite,
+swim Speed, and poisonous pustules.
+When swapping over abilities between
+creatures of diﬀerent levels, be sure to
+adjust the numbers for the new level.
+a hezrou dwells. Hezrous themselves prefer simple pleasures, and they often
+waste their considerable intellect in the pursuit of comfortable places to slumber,
+squealing meals to eat, or objects of beauty to deface. They do not seek out cults to
+fawn over them but will not turn away those who seek to worship on their own.
+Hezrous form from the souls of those who abused and polluted their environs or
+neighbors, either through the introduction of toxins to the region or the insidious
+spread of drugs and poisons through a society.
+HEZROU
+CREATURE 11
+CE
+LARGE
+AMPHIBIOUS
+DEMON
+FIEND
+Perception +21; darkvision
+Languages Abyssal, Celestial, Draconic; telepathy 100 feet
+Skills Athletics +24, Arcana +21, Intimidation +23, Stealth +20 (+24 in swamps)
+Str +7, Dex +3, Con +6, Int +4, Wis +5, Cha +4
+AC 31; Fort +23, Ref +18, Will +22; +1 to all saves vs. magic
+HP 245; Weaknesses cold iron 10, good 10
+Purity Vulnerability A hezrou revels in the foulness it exudes and becomes distraught
+when contaminations are puriﬁed. The ﬁrst time in a round when a contamination
+is puriﬁed (such as via purify food and drink) or a toxin is neutralized (such as via
+neutralize poison) within 30 feet of a hezrou, the demon takes 6d6 mental damage.
+Stench (aura, olfactory) 30 feet. A creature entering the aura or starting its turn in the
+aura must succeed at a DC 27 Fortitude save or become sickened 1 (plus slowed 1
+for as long as itʼs sickened on a critical failure). While within the aura, aﬀected
+creatures take a –2 circumstance penalty to saves against disease and to
+recover from the sickened condition. A creature that succeeds at its save
+is temporarily immune for 1 minute.
+Speed 30 feet, swim 30 feet
+Melee Ȱɵ jaws (evil, magical, reach 10 feet) +24, Damage
+2d12+13 piercing plus 1d6 evil and Grab
+Melee Ȱɵ claw (agile, evil, magical, reach 10 feet) +24,
+Damage 2d8+13 slashing plus 1d6 evil
+Divine Innate Spells DC 27; 6th divine wrath, paranoia;
+5th Abyssal plague, dimension door; 4th dimension
+door (at will), divine wrath (at will), gaseous form
+Rituals DC 27; Abyssal pact, blight
+Poisonous Pustules Ȱɵ (poison) Requirement The hezrou
+is grappling a creature; Eﬀect Toxic ﬂuids spurt from
+burst boils and weeping wens on the hezrou’s body.
+A creature grabbed or restrained by the hezrou takes
+2d12+6 poison damage (DC 30 basic Fortitude save).
+NALFESHNEE (BOAR DEMON)
+Nalfeshnees are huge, corpulent, boar-headed
+demons that hoard treasures and knowledge alike
+and form from the souls of avaricious mortals.
+Few demons understand the inner workings
+of the Abyss itself like nalfeshnees, and it’s not
+unusual for a nalfeshnee to see itself as a servitor
+of the Abyss itself ﬁrst rather than bow before
+a demon lord. Some claim stewardship over the
+ﬂeshy realms that birth new demons, while others
+guard sites of particular signiﬁcance deep in the
+plane’s secret reaches. A nalfeshnee’s realm in the
+Abyss can easily surpass the strength and size of the
+largest mortal kingdoms, for nalfeshnees display a
+singular gift for managing and manipulating the chaos
+of the Abyss.
+
+================================================================================
+PAGE 69
+================================================================================
+
+Bestiary 2
+SECRET MONGERS
+Nalfeshnees covet knowledge as
+well as material goods, especially if
+such information can help satisfy the
+needs and desires of the Abyss. Each
+nalfeshnee has areas of interest in
+which they’re highly knowledgeable,
+but before a nalfeshnee reveals a
+secret, they typically demand a secret
+of at least equal value in return.
+
+================================================================================
+# HAMATULA
+================================================================================
+
+dimensional anchor (×2), discern lies, zone of truth; 2nd invisibility (at will; self only)
+Rituals DC 25; infernal pact
+Osyluth Venom (poison) Saving Throw DC 25 Fortitude; Maximum Duration 6 rounds;
+Stage 1 2d6 poison damage, enfeebled 1 (1 round); Stage 2 3d6 poison damage
+and enfeebled 1 (1 round); Stage 3 3d6 poison damage and enfeebled 2
+(1 round). Once a creature reaches stage 3, it takes a –4 status penalty to
+Will saves against attempts to Coerce it for 1 hour (this is a mental eﬀect).
+Quick Invisibility The osyluth can cast innate invisibility using only 1 action.
+Sadistic Strike An osyluth deals an extra 2d6 damage whenever they
+Strike an enfeebled, frightened, or prone creature.
+Stygian Inquisitor Ȱɵ (linguistic, mental) The osyluth telepathically
+questions a creature aﬀected by zone of truth. After 1
+round, if the creature intentionally refuses to answer
+the question, it takes 2d6 mental damage.
+Tail Sweep Ȱɵ The osyluth sweeps their tail in
+a 15-foot cone. Each creature in the cone
+must succeed at a DC 26 Reﬂex save or be
+knocked prone.
+HAMATULA (BARBED DEVIL)
+Hamatulas are forged in Erebus to
+protect infernal vaults from those
+foolish enough to try to rob the
+archdevil Mammon. In case the
+vicious spines protruding from their
+bodies and ability to teleport weren’t
+deadly enough, they are also clever
+wielders of warding glyphs. They are
+effective conjured guardians, though
+they resent being pulled away from
+their duties in Hell. Unlike most ﬁends,
+hamatulas are formed from several souls
+that lack any features distinctive enough to
+merit another role.
+HAMATULA
+CREATURE 11
+LE
+MEDIUM
+DEVIL
+FIEND
+Perception +24; greater darkvision
+Languages Celestial, Draconic, Infernal; telepathy 100 feet
+Skills Acrobatics +23, Arcana +18, Intimidation +21, Religion +20, Stealth +23,
+Survival +22
+
+================================================================================
+PAGE 76
+================================================================================
+
+HAMATULA TREASURES
+Perhaps because hamatulas exist to
+guard the riches of archdevils, infernal
+dukes, and queens of the night, they
+ﬁnd themselves drawn to wealth.
+Though they despise summoners who
+pull them away from their assigned
+duties, hamatulas use their servitude
+as an opportunity to collect treasures
+and wealth that they can oﬀer to their
+lords upon their return. Treasures that
+are painful or dangerous to handle are
+among their favorite prizes.
+Str +7, Dex +6, Con +5, Int +1, Wis +5, Cha +4
+AC 31; Fort +23, Ref +20, Will +20; +1 status to all saves vs. magic
+HP 165; Immunities ﬁre; Weaknesses good 10; Resistances physical 10 (except silver),
+poison 10
+Attack of Opportunity Ǻȓ Barb only. A hamatula gains an extra reaction at the start of
+each of its turns that it can use only to make an Attack of Opportunity. It can’t use
+more than one Attack of Opportunity triggered by the same action. In addition to the
+normal trigger, a hamatula can make an Attack of Opportunity against a creature that
+touches it or an adjacent creature that attempts a melee Strike against it.
+Speed 25 feet, ﬂy 30 feet
+Melee Ȱɵ barb +24 (evil, magical), Damage 3d8+13 piercing plus 1d6 evil and bloodletting
+Ranged Ȱɵ hurled barb +23 (evil, magical, range increment 60 feet), Damage 2d8+13
+piercing plus 1d6 evil and bloodletting
+Divine Innate Spells DC 27, attack +21; 5th dimension door, glyph of warding (at will); 4th
+dimension door (at will); 3rd harm, paralyze (×2); Cantrips (5th) produce ﬂame
+Rituals DC 27; infernal pact
+Bloodletting On a critical hit, the hamatula’s barbs deal 3d6 persistent bleed damage.
+Frightful Strike Ȳ˓ (divine, emotion, enchantment, fear, mental) Trigger The hamatula
+hits a creature with a barb Strike; Eﬀect The creature struck must succeed at
+a DC 27 Will save or become frightened 2 (or frightened 3 on a critical
+failure). Regardless of the result of its saving throw, the creature
+is then temporarily immune to Frightful Strike for 24 hours.
+Impaling Barb ʚʖ The hamatula makes a barb Strike, then
+Strides up to half its Speed without triggering reactions. If
+the Strike hits, the hamatula impales the target with one of
+its barbs and snaps the barb free as it moves away from
+the target. This deals an additional 2d8 piercing damage
+to the target and pins it to an adjacent surface, rendering
+it immobilized (Escape DC 29).
+Warden of Erebus A hamatula’s glyph of warding innate
+spell can contain any common spell from the Core
+Rulebook that meets the criteria in glyph of warding;
+the hamatula doesn’t need to provide the spell.
+GYLOU (HANDMAIDEN DEVIL)
+Though gylous are deeply entrenched in the expansive
+and complex machinations of Hell, they are highly
+skilled agents capable of nuanced diplomacy, masterful
+deception, physical ﬁnesse, and nearly any other
+tasks they set their minds to. This versatility has
+led to gylous becoming widespread throughout
+all layers of Hell, enabling them to ﬁlter key
+information to their masters regarding other
+devils’ plots and schemes. Their allegiance
+is no secret, but their skills are so great
+that powerful devils employ one or more
+gylous regardless. While most gylous have
+a feminine form (combined with their role,
+this is the source of their common moniker
+of “handmaiden”), some have other gender
+presentations, and nearly all gylous take on
+carefully cultivated illusions to best suit the roles
+they ﬁll. More often than not, gylous arise when
+lesser devils who have demonstrated exceptional utility
+and invaluable skills are uplifted into a new form, though
+on rare occasions they are shaped from the souls of evil mortals
+who showed unparalleled savvy within bureaucratic enterprises.
+
+================================================================================
+PAGE 77
+================================================================================
+
+Bestiary 2
+QUEENS OF THE NIGHT
+The four queens of the night wield
+great power in the Pit. Ardad Lili
+is a plotter and manipulator with
+ambitions of ruling the heavens, while
+Doloras revels in suﬀering. Most
+distant is Mahathallah, watching over
+fate and death. Mightiest among them
+is Eiseth, who is assembling an army
+in Dis in the hopes of claiming the iron
+throne of Malebolge.
+
+================================================================================
+# HADROSAURID
+================================================================================
+
+
+Bestiary 2
+HADROSAURID CRESTS
+The diﬀerent species of hadrosaurids
+all use the same statistics. While
+some species have no cranial crest
+at all, those who do, such as the
+distinctive backward-curling crest
+of the parasaurolophus, are capable
+of vocalizing sonorous and haunting
+calls when they seek the attention
+of a mate or warning their herd of a
+predator’s approach.
+HADROSAURID
+CREATURE 4
+N
+HUGE
+ANIMAL
+DINOSAUR
+Perception +13, low-light vision, scent (imprecise) 30 feet
+Skills Athletics +12, Stealth +10
+Str +6, Dex +2, Con +3, Int –4, Wis +1, Cha +0
+AC 21; Fort +12, Ref +10, Will +11
+HP 60
+Speed 30 feet
+Melee tail +14 (reach 15 feet), Damage 2d6+8 bludgeoning
+Melee foot +12 (reach 15 feet), Damage 2d4+8 bludgeoning
+Sprint ʚʖ Frequency once per minute; Eﬀect The hadrosaurid Strides twice. It has a
++20-foot circumstance bonus to its Speed during these Strides.
+Trample ̂ˬ Large or smaller, foot, DC 21
+IGUANODON
+Iguanodons are large, herbivorous dinosaurs that inhabit swamps and forests
+where they browse on the abundant vegetation. The iguanodon is capable of
+moving on two feet or on four, quickly switching from one stance to the other
+depending on whether it needs to move through dense foliage or to reach
+delectable morsels hanging up in the canopy.
+Although iguanodons are herbivores, they are notoriously quick to anger.
+Their thumb spikes make their claws particularly devastating weapons. A
+well‑placed blow from one of these claws can turn a hungry predator into a
+cowering beast with one swift strike. Iguanodons are 30 feet long and weigh
+6,000 pounds.
+
+================================================================================
+# HELLCAT
+================================================================================
+
+
+CATS AND DOGS
+If there’s one thing more certain to
+infuriate a hellcat other than to treat
+it as a mere animal, that is to compare
+it in any way to a hell hound. Hellcats
+consider hell hounds little more than
+vermin infesting the hellscapes they
+call home, and enjoy torturing them
+more than any other creature.
+Hellcat
+Hellcats are devious predators native to the ﬁery pits of Hell. While the ﬁendish
+creatures appears as skeletal smilodons, their bones smoking with heat and
+dripping with boiling blood, they are not undead. They are living hellspawn with
+transparent ﬂesh that reveals their burning skeletons. A typical hellcat is 9 feet
+long and weighs 1,000 pounds.
+Left to their own devices, hellcats spend their time hunting—that is, seeking and
+stalking prey just for the thrill of the chase. As ﬁendish creatures, they do not require
+mortal sustenance, but they do devour their prey for the sheer pleasure of inﬂicting
+pain. They are also far more intelligent than most assume, and they resent being
+treated as unintelligent animals; those who treat a hellcat as a one may ﬁnd themself
+made into a trophy for its pack, as a hellcat goes to great lengths to coordinate
+elaborate revenge upon those who fail to show proper respect.
+Though they can’t speak, hellcats know Infernal and can communicate
+by telepathy with any creature capable of speech. They rarely say much
+except to make whispered threats and to acknowledge the orders of
+their diabolic masters.
+Hellcats are quick to retreat if they are clearly outmatched or up
+against foes they’re unable to reach, but they never forget prey that
+escapes them. They often track potential victims and recruit allies,
+including other hellcats, to make coordinated attacks or ambushes
+against their foes.
+HELLCAT
+CREATURE 7
+LE
+LARGE
+BEAST
+FIEND
+Perception +16; darkvision, scent (imprecise) 30 feet
+Skills Acrobatics +17, Athletics +17, Intimidation +14, Stealth +17,
+Survival +14
+Languages Infernal (can’t speak any language); telepathy 100 feet
+Str +6, Dex +4, Con +4, Int +0, Wis +3, Cha +1
+AC 25; Fort +15, Ref +17, Will +12; +1 status to all saves vs. magic
+HP 110; Weaknesses good 5; Resistances ﬁre 10, physical 5
+(except silver)
+Fade into the Light Ǻȓ (divine, illusion) Trigger The hellcat begins
+its turn in bright light; Eﬀect The hellcat becomes
+invisible until its no longer in bright light. If the
+hellcat uses a hostile action, the invisibility ends
+after that hostile action is completed.
+Speed 35 feet
+Melee Ȱɵ jaws +18, Damage 2d12+7 piercing
+Melee Ȱɵ claw +18 (agile), Damage 2d8+7 slashing
+Fearful Attack The hellcat deals an additional 1d6 precision damage to frightened
+creatures.
+Infernal Mindlink Ȱɵ (concentrate, divine, divination) The hellcat telepathically link its
+senses to all other hellcats within 100 feet for 10 minutes. It loses this contact with
+any hellcat that moves out of a 100-foot radius. While linked to at least one ally, the
+hellcat can’t be ﬂanked and gains a +2 status bonus to Will saving throws.
+Menacing Growl ʚʖ (auditory, emotion, fear, mental) The hellcat produces a low growl
+to disorient and frighten foes. The hellcat can cause this vocalization to originate from
+somewhere else within 30 feet. Non-ﬁends in a 15-foot burst must attempt a DC 25
+Will save. The hellcat can’t issue another Menacing Growl for 1d4 rounds.
+Critical Success The creature is unaﬀected and is temporarily immune for 24 hours.
+Success The creature is frightened 1.
+Failure The creature is frightened 2.
+Critical Failure The creature is frightened 4.
+Pounce Ȱɵ The hellcat Strides and makes a Strike at the end of that movement. If the
+hellcat began this action hidden, it remains hidden until after the ability’s Strike.
+
+================================================================================
+PAGE 143
+================================================================================
+
+Bestiary 2
+AQUATIC CAVALRY
+Protecting the harbor of Absalom
+and the shores of Starstone Isle,
+the elite Wave Riders use combattrained hippocampi as mounts. The
+Wave Riders harass enemy ships,
+defend against aquatic foes, and
+intercept smugglers.
+Hippocampus
+The strange beasts known as hippocampi resemble terrestrial horses from head
+to midbody, but on their legs, they have splayed ﬁns instead of hooves, and in
+place of horses’ hindquarters, they have powerful tails resembling those of ﬁsh.
+Hippocampi have colorful scales ranging from pearly white to seaweed green, and
+brilliant ribbed dorsal sails as manes. In the wild oceans, most types of hippocampi
+tend to congregate in the shallows near the beds of seaweed and kelp forests that
+provide them with food and shelter from predators. They form huge schools to
+provide safety in numbers, like land-bound horses form herds.
+Hippocampi are highly prized by undersea societies and surface dwellers alike,
+as they are as easy to train as horses and serve many of the same functions, be
+that as beasts of burden, war-trained mounts, transportation, or as pets. Though
+hippocampi are able to wear barding, it hampers them considerably, so most
+handlers outﬁt them with the lightest options available. More often they are
+trained to pull specially designed underwater chariots or sleds. Hippocampi
+do not to leave the water, as they are clumsy on land, can’t bear riders while
+ﬂopping about on the ground, and can’t breathe air for long.
+Numerous variant species of hippocampi exist, although most of them
+differ from the common hippocampus only in coloration. Heartier species,
+such as polar hippocampi, dwell exclusively in arctic waters and are best
+presented as hippocampi with elite adjustments.
+HIPPOCAMPUS
+Hippocampi serve as steeds for aquatic humanoids or roam wild in the sea.
+
+================================================================================
+# HIPPOCAMPUS
+================================================================================
+
+
+Bestiary 2
+AQUATIC CAVALRY
+Protecting the harbor of Absalom
+and the shores of Starstone Isle,
+the elite Wave Riders use combattrained hippocampi as mounts. The
+Wave Riders harass enemy ships,
+defend against aquatic foes, and
+intercept smugglers.
+Hippocampus
+The strange beasts known as hippocampi resemble terrestrial horses from head
+to midbody, but on their legs, they have splayed ﬁns instead of hooves, and in
+place of horses’ hindquarters, they have powerful tails resembling those of ﬁsh.
+Hippocampi have colorful scales ranging from pearly white to seaweed green, and
+brilliant ribbed dorsal sails as manes. In the wild oceans, most types of hippocampi
+tend to congregate in the shallows near the beds of seaweed and kelp forests that
+provide them with food and shelter from predators. They form huge schools to
+provide safety in numbers, like land-bound horses form herds.
+Hippocampi are highly prized by undersea societies and surface dwellers alike,
+as they are as easy to train as horses and serve many of the same functions, be
+that as beasts of burden, war-trained mounts, transportation, or as pets. Though
+hippocampi are able to wear barding, it hampers them considerably, so most
+handlers outﬁt them with the lightest options available. More often they are
+trained to pull specially designed underwater chariots or sleds. Hippocampi
+do not to leave the water, as they are clumsy on land, can’t bear riders while
+ﬂopping about on the ground, and can’t breathe air for long.
+Numerous variant species of hippocampi exist, although most of them
+differ from the common hippocampus only in coloration. Heartier species,
+such as polar hippocampi, dwell exclusively in arctic waters and are best
+presented as hippocampi with elite adjustments.
+HIPPOCAMPUS
+Hippocampi serve as steeds for aquatic humanoids or roam wild in the sea.
+HIPPOCAMPUS
+CREATURE 1
+N
+LARGE
+ANIMAL
+AQUATIC
+Perception +6, darkvision, scent (imprecise) 30 feet
+Skills Acrobatics +4, Athletics +7
+Str +4, Dex +1, Con +4, Int –4, Wis +3, Cha +1
+AC 16; Fort +9, Ref +4, Will +6
+HP 24
+Buck Ǻȓ DC 17
+Speed 5 feet, swim 40 feet
+Melee Ȱɵ tail +7 (reach 10 feet), Damage 1d6+4 bludgeoning
+Sudden Retreat ʚʖ The hippocampus makes a tail Strike, then Swims
+with a +10-foot circumstance bonus to its swim Speed. It
+gains a +2 circumstance bonus to AC against
+reactions triggered by this movement.
+GIANT HIPPOCAMPUS
+Living in the deepest reaches of
+the ocean, giant hippocampi haven’t
+been sighted near the shore and are often
+regarded as legends made up by sailors.
+
+================================================================================
+# HIPPOGRIFF
+================================================================================
+
+
+HIPPOGRIFF EGGS
+Rather than birthing live young,
+hippogriﬀs lay a clutch consisting of
+only a single egg. Hippogriﬀ eggs are
+sought after by potential trainers and
+opportunists alike.
+Hippogriff
+With the proud bearing of a great raptor and the magniﬁcence of a powerful
+horse, hippogriffs are thought to be an accidental fusion of creatures or perhaps
+the creation of a ﬂesh-warping wizard with a keen aesthetic sense. Regardless of
+their original source, these animals are now a common sight in the skies above
+their favored plains or hill country.
+Hippogriffs bear the wings, forelegs, and head of a bird of prey, with feather
+coloration similar to that of a hawk or eagle, though some breeders have
+managed to produce specimens with stark-white or coal-black feathers. Their
+torso, hindquarters, and tail resemble those of a horse and usually are
+colored bay, chestnut, or gray, with some coats bearing black, pinto, or
+even palomino coloration.
+Hippogriffs are similar in size to large horses. Much like their
+equine cousins, hippogriffs often have to keep wary eyes on the skies
+above them, as both are preferred meals for hungry griffons and
+wyverns. Only hippogriffs’ superior speed helps protect them from
+these predators.
+Hippogriffs are exceptionally territorial and ﬁercely protect the
+lands under their domain. They typically favor sweeping grasslands,
+rolling hills, and prairies. Exceptionally hardy hippogriffs make their
+homes nestled into niches on canyon walls, from which they comb
+the rocky deserts for coyotes, deer, and the occasional humanoid.
+Hippogriffs prefer mammalian prey, but they graze after every meal
+to aid in digestion.
+Since hippogriff hunting habits can be dangerous to both
+ranchers and their livestock, such communities often set
+bounties on hippogriffs. As a result, preserved hippogriffs
+frequently decorate frontier taverns and remote
+outposts alongside the taxidermic remains of deer,
+elk, and bears.
+However, other communities train hippogriffs from
+hatching to be ridden by elite soldiers in combat—
+the most notable among these groups in the Inner
+Sea region is the Sable Company Mercenaries in the citystate of Korvosa. Attempts are sometimes made to train adult
+hippogriffs in the same manner, but this often proves far more
+difﬁcult. Hippogriff riders must use special saddles and combat
+techniques that allow them to act in concert with their mount,
+ﬁghting effectively while avoiding interfering with the movement
+of their companion’s wings.
+HIPPOGRIFF
+CREATURE 2
+N
+LARGE
+ANIMAL
+Perception +8; darkvision, scent (imprecise) 30 feet
+Skills Acrobatics +7, Athletics +7, Survival +6
+Str +3, Dex +3, Con +2, Int –4, Wis +2, Cha +0
+AC 18; Fort +8, Ref +9, Will +6
+HP 32
+Buck Ǻȓ DC 17
+Speed 30 feet, ﬂy 65 feet
+Melee Ȱɵ beak +9, Damage 1d10+3 piercing
+Melee Ȱɵ talon +9 (agile), Damage 1d6+3 slashing
+Melee Ȱɵ wing +9 (reach 10 feet), Damage 1d6+3 bludgeoning
+Flying Strafe ʚʖ The hippogriﬀ Flies up to its ﬂy speed and makes two
+talon Strikes at any point during that movement. Each Strike must
+target a diﬀerent creature. The attacks take the normal multiple
+attack penalty.
+
+================================================================================
+PAGE 145
+================================================================================
+
+Bestiary 2
+HIPPO SWEAT
+A hippopotamus’s sweat is an
+unusual reddish color that can lend
+them an even more frightening
+appearance that evokes the visage of
+a blood-coated monster. This sweat
+helps to protect the hippopotamus
+from becoming overheated, but it
+also bolsters their resistance to all
+manner of diseases.
+Hippopotamus
+Hippopotamuses, or hippos for short, are semiaquatic animals that spend most of
+their time in rivers and lakes, but they also can thrive on land.
+HIPPOPOTAMUS
+Typical adult hippos move quickly on land and attack stealthily in the water.
+Though herbivorous, hippos are notoriously aggressive and territorial.
+
+================================================================================
+# HIPPOPOTAMUS
+================================================================================
+
+
+Bestiary 2
+HIPPO SWEAT
+A hippopotamus’s sweat is an
+unusual reddish color that can lend
+them an even more frightening
+appearance that evokes the visage of
+a blood-coated monster. This sweat
+helps to protect the hippopotamus
+from becoming overheated, but it
+also bolsters their resistance to all
+manner of diseases.
+Hippopotamus
+Hippopotamuses, or hippos for short, are semiaquatic animals that spend most of
+their time in rivers and lakes, but they also can thrive on land.
+HIPPOPOTAMUS
+Typical adult hippos move quickly on land and attack stealthily in the water.
+Though herbivorous, hippos are notoriously aggressive and territorial.
+HIPPOPOTAMUS
+CREATURE 5
+N
+LARGE
+ANIMAL
+Perception +11; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +13, Stealth +11 (+13 in water), Survival +11
+Str +6, Dex +2, Con +6, Int –4, Wis +4, Cha –2
+Deep Breath The hippopotamus can hold its breath for 5 minutes.
+AC 21; Fort +15, Ref +9, Will +11
+HP 85
+Speed 25 feet, swim 20 feet
+Melee Ȱɵ jaws +15 (deadly d10), Damage 2d8+8 piercing
+Melee Ȱɵ foot +13, Damage 1d10+8 bludgeoning
+Aquatic Ambush Ȱɵ 30 feet
+Capsize Ȱɵ (attack) The hippopotamus tries to capsize an adjacent aquatic vessel of its
+size or smaller. The hippopotamus must succeed at an Athletics check with a DC of 25
+(reduced by 5 for each size smaller the vessel is than the hippo) or the pilot’s Sailing
+Lore DC, whichever is higher.
+Trample ̂ˬ Medium or smaller, foot, DC 23
+BEHEMOTH HIPPOPOTAMUS
+Behemoth hippopotamuses stand taller than elephants.
+They spend less time out of water than their smaller
+kin. Behemoth hippos are omnivorous, and many
+enjoy the taste of meat.
+BEHEMOTH HIPPOPOTAMUS CREATURE 10
+N
+HUGE
+ANIMAL
+Perception
++19;
+low-light
+vision,
+scent
+(imprecise) 30 feet
+Skills Athletics +23, Stealth +18 (+20 in water),
+Survival +17
+Str +7, Dex +4, Con +7, Int –4, Wis +5, Cha –2
+Deep Breath The behemoth hippopotamus can
+hold its breath for 1 hour.
+AC 29; Fort +22, Ref +17, Will +19
+HP 190
+Speed 35 feet, swim 35 feet
+Melee Ȱɵ jaws +23 (deadly d12, reach 10 feet),
+Damage 2d12+10 piercing plus Grab
+Melee Ȱɵ foot +21, Damage 2d8+9 bludgeoning
+Aquatic Ambush Ȱɵ 40 feet
+Capsize Ȱɵ (attack) As hippopotamus (DC 30 for a Huge vessel).
+Double Chomp Ȱɵ The behemoth hippo makes a jaws Strike
+targeting two creatures adjacent to each other. Roll the attack
+and damage once, and apply it to each creature separately.
+An Engulﬁng Chomp counts as two attacks for the
+multiple attack penalty.
+Swallow Whole Ȱɵ Medium, 2d12+10 bludgeoning,
+Rupture 26.
+Trample ̂ˬ Large or smaller, foot, DC 29
+
+================================================================================
+PAGE 146
+================================================================================
+
+HODAG TALES
+Those who’ve encountered hodags
+tend to create larger-than-life
+reports of the sighting. In the
+dense Verduran Forest, lumberjacks
+working for the Lumber Consortium
+regale each other with competing
+stories about Big Marna, a legendary
+hodag who the loggers claim has
+killed two dozen people. Inhabitants
+of Echo Wood in the River Kingdoms
+spin lore about Black Shiv, a hodag
+spotted haunting the outskirts of
+small settlements, and in recent
+months, hunters and miners in the
+southwestern reaches of Ravounel
+speak of a frightening undead hodag
+called Ghouliegut.
+Hodag
+Because they are often described only in drunken retellings of loggers’ or miners’
+tales, hodags are considered by many to exist only in the local folklore of remote
+areas. However, some individuals have actually encountered these dangerous
+beasts ﬁrsthand, and even fewer have lived to tell their tales.
+Hodags are reptilian creatures the size of bulls. These vicious predators’ long
+claws can tear creatures apart in seconds. Their backs sport dozens of long spines
+that run from their snouts all the way down the length of their powerful tails. Their
+wide mouths are full of sharp and twisted rows of teeth not unlike those of a shark.
+The hodags’ rough, scaly hides carry hues of green and brown, allowing them to
+blend into their forest surroundings where they ambush prey. Only their glowing red
+eyes reveal their presence, though hodags have learned to use this to their advantage
+by drawing attention to their eyes in one area, then closing their eyes and stealthily
+moving to another area to cause their prey to misconstrue their location.
+In the wintertime, when snow and ice blankets a region, hodags grow a
+foul‑smelling coat of greasy, dark-brown fur that sprouts in tufts from between
+their scales. A typical hodag measures over 10 feet long from snout to tail and
+weighs upward of 700 pounds.
+
+================================================================================
+# HODAG
+================================================================================
+
+
+HODAG TALES
+Those who’ve encountered hodags
+tend to create larger-than-life
+reports of the sighting. In the
+dense Verduran Forest, lumberjacks
+working for the Lumber Consortium
+regale each other with competing
+stories about Big Marna, a legendary
+hodag who the loggers claim has
+killed two dozen people. Inhabitants
+of Echo Wood in the River Kingdoms
+spin lore about Black Shiv, a hodag
+spotted haunting the outskirts of
+small settlements, and in recent
+months, hunters and miners in the
+southwestern reaches of Ravounel
+speak of a frightening undead hodag
+called Ghouliegut.
+Hodag
+Because they are often described only in drunken retellings of loggers’ or miners’
+tales, hodags are considered by many to exist only in the local folklore of remote
+areas. However, some individuals have actually encountered these dangerous
+beasts ﬁrsthand, and even fewer have lived to tell their tales.
+Hodags are reptilian creatures the size of bulls. These vicious predators’ long
+claws can tear creatures apart in seconds. Their backs sport dozens of long spines
+that run from their snouts all the way down the length of their powerful tails. Their
+wide mouths are full of sharp and twisted rows of teeth not unlike those of a shark.
+The hodags’ rough, scaly hides carry hues of green and brown, allowing them to
+blend into their forest surroundings where they ambush prey. Only their glowing red
+eyes reveal their presence, though hodags have learned to use this to their advantage
+by drawing attention to their eyes in one area, then closing their eyes and stealthily
+moving to another area to cause their prey to misconstrue their location.
+In the wintertime, when snow and ice blankets a region, hodags grow a
+foul‑smelling coat of greasy, dark-brown fur that sprouts in tufts from between
+their scales. A typical hodag measures over 10 feet long from snout to tail and
+weighs upward of 700 pounds.
+HODAG
+CREATURE 6
+UNCOMMON
+N
+LARGE
+BEAST
+Perception +14; darkvision, scent (imprecise) 30 feet
+Languages Common (can’t speak any language)
+Skills Athletics +15, Stealth +14 (+16 in forests), Survival +12
+Str +5, Dex +4, Con +5, Int –2, Wis +4, Cha +0
+Trackless A hodag sweeps the ground behind it with its tail as it moves, obscuring its
+tracks. The DCs of checks to Track a hodag are increased by 10.
+AC 24, Fort +17, Ref +14, Will +12
+HP 90
+Ferocity Ǻȓ
+Speed 25 feet, burrow 15 feet
+Melee Ȱɵ jaws +17, Damage 2d8+8 piercing
+Melee Ȱɵ claw +17 (agile), Damage 2d6+8 slashing
+Melee Ȱɵ spiked tail +17 (reach 10 feet, versatile P),
+Damage 2d6+8 bludgeoning plus Knockdown
+Rip and Tear ʚʖ The hodag makes two claw Strikes and one
+jaws Strike in any order.
+Toss ʚʖ The hodag Strides, then
+makes a Strike against
+a target in reach. If it
+moves at least 20 feet
+and succeeds at its
+Strike, the hodag
+deals damage normally
+and then attempts an
+Athletics check against
+the creature’s Fortitude DC to
+toss the enemy into the air. On
+a success, the tossed creature is thrown
+10 feet in a straight line in the direction of the hodag’s
+choice and then lands prone. If the creature is knocked
+into a solid object, it takes 1d6 bludgeoning damage as
+well before landing prone. The hodag can instead toss
+a creature straight up in the air. The creature lands in
+the same square where it started, takes
+1d6 bludgeoning damage, and
+lands prone.
+
+================================================================================
+PAGE 147
+================================================================================
+
+Bestiary 2
+TINDALOS
+Ancient texts refer to these
+relentless temporal hunters as the
+hounds of Tindalos, yet they never
+seem to explore what Tindalos
+actually is. In some references, the
+implication is that Tindalos is one of
+the Great Old Ones or Outer Gods,
+but if this is the case, it is among the
+most obscure of these entities. Other
+tomes refer as Tindalos as a location,
+perhaps even a city or nation that
+once existed before time began and
+that can be reached only by methods
+impossible for any creature bound
+by the laws of time. In all likelihood,
+both and neither are right—what
+Tindalos is may simply be impossible
+for mortal minds to comprehend.
+Hound of Tindalos
+Lean and athirst, the hounds of Tindalos are drawn to those who tamper with the
+ﬂow of time, travel through time, or use magic or rare alchemical drugs to send
+their thoughts or perception back or forward in time. Powerful spellcasters can
+draw them from the Dimension of Time via rare rituals, but doing so attracts the
+hounds’ ire, so few who trafﬁc in such rituals live long enough to spread their
+knowledge. While the hounds possess great cunning and cruel intellect, they rarely
+interact with other creatures—other than to hunt and destroy those who have
+attracted their unblinking attention.
+Once a hound catches scent of a mortal to hunt, it calls others of its ilk. The
+pack then pursues its victim through all space and time until it catches, slays and
+devours them. Those pursued can escape only by avoiding all angles, as hounds of
+Tindalos could step through them from nothingness at any time.
+
+================================================================================
+# HOUND OF TINDALOS
+================================================================================
+
+
+Bestiary 2
+TINDALOS
+Ancient texts refer to these
+relentless temporal hunters as the
+hounds of Tindalos, yet they never
+seem to explore what Tindalos
+actually is. In some references, the
+implication is that Tindalos is one of
+the Great Old Ones or Outer Gods,
+but if this is the case, it is among the
+most obscure of these entities. Other
+tomes refer as Tindalos as a location,
+perhaps even a city or nation that
+once existed before time began and
+that can be reached only by methods
+impossible for any creature bound
+by the laws of time. In all likelihood,
+both and neither are right—what
+Tindalos is may simply be impossible
+for mortal minds to comprehend.
+Hound of Tindalos
+Lean and athirst, the hounds of Tindalos are drawn to those who tamper with the
+ﬂow of time, travel through time, or use magic or rare alchemical drugs to send
+their thoughts or perception back or forward in time. Powerful spellcasters can
+draw them from the Dimension of Time via rare rituals, but doing so attracts the
+hounds’ ire, so few who trafﬁc in such rituals live long enough to spread their
+knowledge. While the hounds possess great cunning and cruel intellect, they rarely
+interact with other creatures—other than to hunt and destroy those who have
+attracted their unblinking attention.
+Once a hound catches scent of a mortal to hunt, it calls others of its ilk. The
+pack then pursues its victim through all space and time until it catches, slays and
+devours them. Those pursued can escape only by avoiding all angles, as hounds of
+Tindalos could step through them from nothingness at any time.
+HOUND OF TINDALOS
+CREATURE 7
+RARE
+NE
+MEDIUM
+ABERRATION
+TIME
+Perception +17, greater darkvision
+Languages Aklo
+Skills Acrobatics +17, Athletics +15, Occultism +17, Stealth +17, Survival +13 (+17 to Track)
+Str +4, Dex +6, Con +2, Int +6, Wis +4, Cha +2
+AC 25; Fort +13, Ref +17, Will +15
+HP 90; Immunities controlled, emotion; Resistances mental 10, poison 10, physical 10
+Otherworldly Mind (mental) Whenever a creature targets the hound with a mental eﬀect,
+that creature takes 4d6 mental damage (DC 25 basic Will save). On a critical failure, it
+also becomes confused for 1d4 rounds.
+Ripping Gaze (aura, evocation, occult, visual) 30 feet. The hound of Tindalos’s eyes glow
+balefully, causing painful but bloodless wounds to rip open in the body of a creature that
+meets its awful gaze. When a creature ends its turn in the aura’s emanation, it
+takes 4d6 slashing damage (DC 25 basic Fortitude save). A creature that
+critically succeeds at its save is temporarily immune for 24 hours.
+Vulnerable to Curved Space When a hound of Tindalos is not
+adjacent to a structural angle of 90º (or more acute), its
+resistance to physical damage is suppressed and it
+becomes sickened 1. It can’t recover from this sickened
+condition, but the condition ends automatically once
+the hound is again adjacent to a suitable angle.
+Speed 30 feet, ﬂy 30 feet
+Melee Ȱɵ jaws +17, Damage 2d10+7 piercing
+Melee Ȱɵ claw +17 (agile), Damage 2d8+7
+slashing
+Occult Innate Spells DC 21; 8th discern
+location; 4th dimensional anchor; 3rd
+haste, slow; 2nd invisibility (self only)
+Angled Entry Ȱɵ The hound of Tindalos casts
+a 4th-level dimension door spell, but it must
+transport itself into a space adjacent to an
+angle of 90º (or more acute) in the structure or
+environment around it. For example, it could teleport
+to a space adjacent to a wall (using the angle
+between the wall and ﬂoor) or a corner in a room, or
+adjacent to a sizable tree growing straight up out of
+the ground, but not to a ﬂat plain or a room
+with only curved corners and edges.
+Once per day, the hound can use
+this ability to plane shift to or from
+the Dimension of Time, with the
+same restrictions on what angles it can appear next to.
+
+================================================================================
+PAGE 148
+================================================================================
+
+SENSATION SEEKERS
+Intellect devourers steal bodies to
+experience the physical sensations
+denied their nearly invulnerable
+natural forms. Each new body
+brings the opportunity to explore
+new vistas of taste, touch, and pain.
+Intellect devourers occupying a
+body fear little but discovery, and
+even that simply puts a temporary
+end to their games. Harm to the
+host is just another sensation to
+experience, and replacement bodies
+are easy to ﬁnd.
+Intellect Devourer
+Intellect devourers serve as advance scouts and inﬁltrators for the powerful
+force of alien beings called the Dominion of the Black. These monsters roam the
+Darklands, from which they mount secret invasions of the world above. When
+an intellect devourer inﬁltrates a society, its ﬁrst priority is to acquire a body. It
+might ﬁrst seek out a graveyard for a fresh corpse, as this is easier than ﬁghting
+and killing someone. When the aberration compresses itself into the host’s brain
+cavity, its real body goes dull to sensation as it connects to the nervous system of
+its host. If found out, an intellect devourer might quickly inhabit a new body to
+make its escape, preferably something inconspicuous such as a domestic animal.

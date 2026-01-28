@@ -1,0 +1,601 @@
+# Bestiary - Creatures: O
+# Count: 8 creatures
+
+
+================================================================================
+# OLETHRODAEMON
+================================================================================
+
+
+SOUL GEMS AS GEAR
+Daemons often carry soul gems
+either as trophies or for powering
+an ability. Cacodaemons (Pathﬁnder
+Bestiary 70) are the most common
+source for soul gems, but they can
+also be created by spells like bind
+soul. If a daemon crushes a soul gem
+to power an ability, the trapped soul
+is released into the afterlife and can
+be resurrected normally.
+OLETHRODAEMON (APOCALYPSE DAEMON)
+Even daemons fear the most massive and terrifying of their kind, olethrodaemons.
+No single entity could embody the level of evil necessary to manifest one; instead,
+these living war machines are made from the souls of many—or so the story goes.
+Other theories suggest that the four Horsemen of the Apocalypse are responsible for
+creating the olethrodaemons, or that olethrodaemons are merely the seeping run-off
+of an even greater being: a mysterious ﬁfth Horseman.
+Whatever the truth, olethrodaemons are real, and their existence is terrifying
+enough to instill paralyzing existential dread. With dozens of unblinking glowing
+eyes above a drooling maw, two sets of four muscled limbs, and countless horns,
+olethrodaemons resemble no other creature known to mortalkind.
+OLETHRODAEMON
+CREATURE 20
+NE
+GARGANTUAN
+DAEMON
+FIEND
+Perception +33; darkvision, tremorsense (imprecise) 120 feet, true seeing
+Languages Common, Daemonic; telepathy 100 feet
+Skills Athletics +40, Intimidation +38, Religion +34
+Str +10, Dex +6, Con +7, Int +2, Wis +6, Cha +8
+Items soul gem (4)
+AC 44; Fort +35, Ref +32, Will +34; +1 status to all saves vs. magic
+HP 450; Immunities death eﬀects; Weaknesses good 20
+Aura of Doom (aura, death, divine) 60 feet. Any creature that begins its turn in the aura is
+doomed 1 for as long as it remains in the aura and for 1 hour thereafter.
+Speed 35 feet, burrow 35 feet, ﬂy 40 feet
+Melee Ȱɵ jaws +38 (evil, magical, reach 10 feet), Damage 4d12+17 piercing plus
+1d6 evil and Grab
+Melee Ȱɵ claw +38 (agile, evil, magical, reach 15 feet), Damage 4d8+17
+slashing plus 1d6 evil and Grab
+Divine Innate Spells DC 42, attack +34; 10th cataclysm,
+massacre; 9th disintegrate (×3), disjunction, wail of the
+banshee; 5th dimension door; 4th dimension door (at will);
+1st detect alignment (good only; at will); Constant (10th)
+true seeing
+Rituals DC 42; control weather (9th)
+Apocalypse Breath ʚʖ or ̂ˬ (divine, negative) The
+daemon expels a shrieking black cloud of smoke
+from its mouth in a 120-foot line or a 60-foot cone.
+(or both a line and a cone in the same direction if it
+spends 3 actions). Living creatures in the area take
+24d6 negative damage (DC 45 basic Reﬂex save).
+The olethrodaemon can’t use Apocalypse Breath
+again for 1d4 rounds.
+Soul Crush ʚʖ (manipulate) Requirement The
+olethrodaemon has a soul gem; Eﬀect The
+olethrodaemon crushes the soul gem in one
+hand and regains the use of Apocalypse
+Breath or any one of its innate spells.
+Swallow Whole Ȱɵ (attack) Huge, 4d10+10
+bludgeoning and drained 2, Rupture 43. An
+olethrodaemon has numerous stomachs
+connected by labyrinthine digestive
+organs. Swallowed creatures cannot
+Escape, but can attempt to cut their way
+out with a 1d6 roll. On a roll of 1–3, the
+creature cuts into yet another stomach.
+On a roll of 4–6, the creature manages to
+cut its way out of the olethrodaemon.
+
+================================================================================
+PAGE 65
+================================================================================
+
+Bestiary 2
+SIGNS OF MURDER
+Babaus revel in their art and often
+leave behind a grim token or marker
+as a signature. They may leave a
+distinctive mutilation upon the
+bodies of their victims, rather than
+harvesting keepsakes and trophies
+for a personal collection. Babaus
+want their legacy to grow among
+those they hunt and kill.
+Demon
+The living embodiment of mortal souls obsessed with sin and empowered by the
+Abyss, demons are armed and armored by their prior lives’ obsessions.
+BABAU (BLOOD DEMON)
+The babau is an assassin, a murderer, and a sadist—certainly not unusual traits,
+yet their penchant for stealth and surprise sets them apart from their kin. Babaus
+form from mortal souls of lone killers—those who took pleasure in more personal
+murders, and particularly those with grisly patterns to their killings.
+
+================================================================================
+# OSYLUTH
+================================================================================
+
+
+Bestiary 2
+HELLMOUTHS
+While travel to and from Hell is
+possible with plane shift, another
+way to reach and traverse the
+infernal realms is via hellmouths,
+strange living portals connecting
+diﬀerent layers or even diﬀerent
+planes. A hellmouth takes the form
+of a grimacing face, distended
+maw, or other distressingly organic
+aperture, and no two share the
+same appearance. Most are carefully
+guarded, but some new or well-hidden
+hellmouths have yet to be discovered.
+OSYLUTH
+CREATURE 9
+LE
+LARGE
+DEVIL
+FIEND
+Perception +21; greater darkvision
+Languages Celestial, Draconic, Infernal; telepathy 100 feet
+Skills Arcana +18, Deception +19, Intimidation +21, Religion +17, Stealth +20
+Str +5, Dex +5, Con +4, Int +3, Wis +4, Cha +4
+AC 28; Fort +17, Ref +18, Will +17; +1 status to all saves vs. magic
+HP 135; Immunities ﬁre; Weaknesses good 10; Resistances physical 10 (except silver),
+poison 10
+Speed 35 feet, ﬂy 30 feet
+Melee Ȱɵ jaws +21 (evil, magical), Damage 2d10+11 piercing plus 1d6 evil
+Melee Ȱɵ claw +21 (agile, evil, magical, reach 10 feet), Damage 2d6+11 slashing plus 1d6 evil
+Melee Ȱɵ stinger +21 (evil, magical, reach 15 feet), Damage 1d10+11 piercing plus 1d6 evil
+and osyluth venom
+Ranged Ȱɵ bone shard +21 (evil, magical, range increment 30 feet), Damage 2d6+8 piercing
+Divine Innate Spells DC 25; 5th dimension door, phantom pain; 4th dimension door (at will),
+dimensional anchor (×2), discern lies, zone of truth; 2nd invisibility (at will; self only)
+Rituals DC 25; infernal pact
+Osyluth Venom (poison) Saving Throw DC 25 Fortitude; Maximum Duration 6 rounds;
+Stage 1 2d6 poison damage, enfeebled 1 (1 round); Stage 2 3d6 poison damage
+and enfeebled 1 (1 round); Stage 3 3d6 poison damage and enfeebled 2
+(1 round). Once a creature reaches stage 3, it takes a –4 status penalty to
+Will saves against attempts to Coerce it for 1 hour (this is a mental eﬀect).
+Quick Invisibility The osyluth can cast innate invisibility using only 1 action.
+Sadistic Strike An osyluth deals an extra 2d6 damage whenever they
+Strike an enfeebled, frightened, or prone creature.
+Stygian Inquisitor Ȱɵ (linguistic, mental) The osyluth telepathically
+questions a creature aﬀected by zone of truth. After 1
+round, if the creature intentionally refuses to answer
+the question, it takes 2d6 mental damage.
+Tail Sweep Ȱɵ The osyluth sweeps their tail in
+a 15-foot cone. Each creature in the cone
+must succeed at a DC 26 Reﬂex save or be
+knocked prone.
+HAMATULA (BARBED DEVIL)
+Hamatulas are forged in Erebus to
+protect infernal vaults from those
+foolish enough to try to rob the
+archdevil Mammon. In case the
+vicious spines protruding from their
+bodies and ability to teleport weren’t
+deadly enough, they are also clever
+wielders of warding glyphs. They are
+effective conjured guardians, though
+they resent being pulled away from
+their duties in Hell. Unlike most ﬁends,
+hamatulas are formed from several souls
+that lack any features distinctive enough to
+merit another role.
+
+================================================================================
+# ORCA
+================================================================================
+
+Ramming Speed ʚʖ The bottlenose dolphin Swims twice and
+then makes a snout Strike. As long as it moved at least 20
+feet, it gains a +1 circumstance bonus to its attack roll. A
+Large or smaller creature hit by this attack must succeed at
+a DC 16 Fortitude save or be slowed 1 for 1 round.
+ORCA
+While many know orcas as “killer whales,” they are actually
+the largest species of dolphin. These powerful animals hunt
+together in pods to take down seals, sharks, and even true
+whales. Adult orcas are typically 15–25 feet long and weigh
+8,000–12,000 pounds.
+ORCA
+CREATURE 5
+N
+HUGE
+ANIMAL
+Perception +12; aquatic echolocation 120 feet, low-light vision
+Skills Athletics +14, Stealth +13
+Str +7, Dex +2, Con +5, Int –4, Wis +3, Cha +0
+Aquatic Echolocation An orca can use its hearing as a precise sense at the listed range,
+but only underwater.
+Deep Breath An orca can hold its breath for 2 hours.
+AC 21; Fort +14, Ref +11, Will +12
+HP 75
+Speed swim 60 feet
+Melee Ȱɵ jaws +13, Damage 2d8+9 piercing plus Grab
+Aquatic Ambush Ȱɵ 30 feet. An orca can travel no further than 5 feet onto land as
+part of an Aquatic Ambush. After it does so, it is prone until it Crawls
+to return to the water.
+Breach ʚʖ The orca Swims up to its swim Speed, then
+Leaps vertically out of the water up to 25 feet in the
+air, making a Strike against a creature at any point
+during the jump (this lets it attack a creature within
+30 feet of the water’s surface). After the Strike, the orca splashes back down into
+the water.
+
+================================================================================
+PAGE 86
+================================================================================
+
+DOPRILLU MASKS
+A doprillu’s stylized mask isn’t a part
+of the creature itself, though doprillus
+inherently understand the mask’s
+purpose and power. When born,
+doprillus start out weak and small.
+Once one matures and gains suﬃcient
+intelligence and manual dexterity, it
+carves its personal mask. The ﬁrst
+time it dons the mask, the doprillu
+rushes out to seek a ﬁght. This mask
+is never replaced, and it might be
+marred from hundreds of battles.
+Doprillu
+The aberrations known as doprillus are hulks with banded muscles who wear ornate
+masks at all times that ﬁll their wearers with magical strength and ﬁghting spirit.
+Doprillus love to battle, especially by grappling, and are eager to start brawls. On
+neutral ground, a doprillu offers to duel the strongest-looking opponent, but when
+a doprillu’s home turf is invaded, no rules apply to the confrontation. As beﬁts the
+superheated blood that fuels them, doprillus make their homes in warm locations:
+hot jungles, sunny deserts, and underground caverns near sulfur vents.
+
+================================================================================
+# OOZE MEPHIT
+================================================================================
+
+
+OOZE MEPHIT
+Slick in every sense of the word, ooze mephits are unapologetic sycophants,
+shamelessly ﬂattering anyone they may be able to con a favor out of, although
+their lack of intelligence and subtlety means that only the most vain or trusting
+targets fail to see through their honeyed words. Lacking proper bones, these ochercolored mephits have bodies consisting primarily of ooze and muck. They smell
+disgusting, and their touch leaves stains that are almost impossible to get out.
+OOZE MEPHIT
+CREATURE 1
+UNCOMMON
+N
+SMALL
+AMPHIBIOUS
+EARTH
+ELEMENTAL
+WATER
+Perception +3; darkvision
+Languages Aquan, Terran
+Skills Athletics +6, Diplomacy +7
+Str +3, Dex +1, Con +2, Int –2, Wis +0, Cha +2
+AC 14; Fort +7, Ref +4, Will +3
+HP 24, fast healing 2 (while touching mud or slime); Immunities bleed, paralyzed,
+poison, sleep
+Speed 20 feet, ﬂy 20 feet
+Melee Ȱɵ ﬁst +8, Damage 1d6+3 bludgeoning
+Arcane Innate Spells DC 17; 1st grease
+Breath Weapon ʚʖ (arcane, poison) The ooze mephit spits toxic slime in a 15-foot cone
+that deals 2d6 poison damage to each creature within the area (DC 17 basic Reﬂex
+save). The ooze mephit can’t use Breath Weapon again for 1d4 rounds.
+STEAM MEPHIT
+These brash and arrogant creatures are among the more energetic mephits. They
+are quick to nominate themselves the leaders of any group, barking out orders in
+shrill, high-pitched voices and insisting on having everything done their way. Even
+when they aren’t bossing others around, the constant hiss of steam escaping from
+their pores ensures that there is never a quiet moment.
+
+================================================================================
+# ONIDOSHI
+================================================================================
+
+ONIDOSHI
+CREATURE 8
+LE
+LARGE
+FIEND
+GIANT
+HUMANOID
+ONI
+Perception +17; darkvision
+Languages Common, Jotun
+Skills Acrobatics +15, Arcana +13, Athletics +16, Deception +18,
+Intimidation +18, Nature +17
+Str +6, Dex +3, Con +4, Int +3, Wis +3, Cha +4
+
+================================================================================
+PAGE 190
+================================================================================
+
+ONI SHAPECHANGERS
+Oni humanoid forms are limited to one
+speciﬁc appearance. An ogre mage can
+assume only one speciﬁc ogre form,
+while an ice yai can appear only as
+one speciﬁc frost giant. Some oni have
+greater control over their shapeshifting
+power and can assume the form of any
+humanoid creature, and these oni tend
+to be the most dangerous.
+Items breastplate, composite shortbow with 20 arrows, +1 striking falchion
+AC 27; Fort +18, Ref +15, Will +15; +1 status on all saves vs. magic
+HP 125, regeneration 7 (deactivated by acid or ﬁre)
+Attack of Opportunity Ǻȓ
+Speed 30 feet, ﬂy 30 feet
+Melee Ȱɵ falchion +21 (forceful, magical, reach 10 feet, sweep), Damage 2d10+9 slashing
+Melee Ȱɵ ﬁst +20 (agile, evil, magical, reach 10 feet), Damage 2d8+9 bludgeoning
+Ranged Ȱɵ composite shortbow +17 (deadly 1d10, range increment 100 feet, reload 0),
+Damage 2d6+9 piercing
+Primal Innate Spells DC 24; 5th cone of cold; 4th charm, gaseous form, sleep; 3rd fear;
+2nd darkness, invisibility (at will, self only)
+Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) The onidoshi takes on
+the appearance of an ogre. This doesn’t change their Speed or Strike attack and damage.
+ICE YAI
+Ice yai combine the brutality of frost giants with the grace of martial artists. More
+than any other oni, ice yai delight not in the pleasures of the ﬂesh, but in ﬂesh
+itself—rather than indulging in oft-destructive mortal vices like drink or lust, ice
+yai pursue physical perfection, reveling in the process of turning their bodies into
+powerful ﬁghting machines.
+
+================================================================================
+# OREAD GUARD
+================================================================================
+
+
+EXTRAPLANAR HUMANOIDS
+An important distinction exists
+between planar scions and extraplanar
+humanoids, such as fetchlings.
+Fetchlings and other extraplanar
+humanoids represent true ancestral
+groups with their own physical and
+cultural identities and traditions.
+Planar scions are members of diverse
+ancestries who share a similar
+inheritance from extraplanar beings
+and, with exception of marids, typically
+integrate into other humanoid societies
+instead of building their own.
+with a pull like that exerted on the needle of a compass—intangible, constant, and
+ultimately irresistible. The destination of this mysterious pilgrimage is unique to
+each oread, though it usually ends in some place of great mystical power, natural
+splendor, or esoteric learning. Most oreads are drawn to a place with which they
+are somewhat familiar, but a rare few feel drawn to travel in a seemingly random
+direction, departing with only their hope that they’ll discover whatever mystery
+lies at the end of their invisible path.
+Many oreads ﬁnd that the role of a guard suits their personality well, for in
+such a role they can feel as if they are helping to promote order but also ﬁnd time
+to stand vigil as lone sentinels over a speciﬁc portion of a fortiﬁcation or a remote
+location on a wilderness trail.
+OREAD GUARD
+CREATURE 1
+LN
+MEDIUM
+HUMAN
+HUMANOID
+OREAD
+Perception +7
+Languages Common, Terran
+Skills Athletics +7, Crafting +3, Medicine +5, Society +3, Survival +5
+Str +4, Dex +1, Con +2, Int +0, Wis +2, Cha +0
+Items bastard sword, full plate, light hammer, steel shield (Hardness 5, HP 20, BT 10)
+AC 19 (21 with shield raised); Fort +7, Ref +6, Will +5
+HP 20
+Attack of Opportunity Ǻȓ
+Shield Block Ǻȓ
+Speed 20 feet
+Melee Ȱɵ bastard sword +9 (two-hand d12), Damage 1d8+4
+slashing
+Ranged Ȱɵ light hammer +6 (agile, thrown 20 feet), Damage
+1d6+4 bludgeoning
+Power Attack ʚʖ Frequency once per round; Eﬀect The
+guard makes a melee Strike. This counts as two attacks
+when calculating the guard’s multiple attack penalty. If this
+Strike hits, the guard deals an extra die of weapon damage.
+SULI
+Because their genie forebears are native to the Material
+Plane, sulis (scions of mortals and jann) are by and large
+the most common geniekin on the Material Plane. They are
+often artisans and peace brokers, compelled to try and bring
+harmony and balance in a world wrought with discord.
+Sulis have a natural charm that often eludes other
+geniekin, but tend to layer on a level of boastful
+pride or even arrogance as a personal quirk or
+humorous facade. Few non-sulis realize that
+bragging is not simply the symptom of a puffedup ego for sulis, but instead is a cultural institution
+easily comparable to human poetry. Sulis’ boasts not
+only glorify themselves, but also secure their
+companions’ and families’ accomplishments
+in history, with the ultimate goal of
+spinning stories that will be retold for
+generations. This is especially true
+for sulis who have lived with other
+geniekin and have been seen as lesser for not having a
+strong connection to an Elemental Plane.
+Suli dune dancers are but one way these geniekin seek
+to integrate with other humanoid societies. They work
+to hone their skills at boasting to an extent that their
+
+================================================================================
+PAGE 203
+================================================================================
+
+Bestiary 2
+GENIEKIN ON GOLARION
+While most geniekin planar scions
+live on their genie parent’s ancestral
+plane, rare fonts of elemental power
+or genie activity sometimes give
+rise to geniekin on Golarion. By far,
+geniekin are most commonly found
+in Katapesh, as genies are more
+prevalent there than other regions
+due to the inﬂuence of genie binders.
+claims help to bolster those they travel with. Suli from regions other than deserts
+adjust their names to match their terrains, but regardless of whether they prefer
+forests, hills, or arctic plains, their boasts remain as compelling.
+
+================================================================================
+# OGRE SPIDER
+================================================================================
+
+Dream Spider Venom (poison) Saving Throw DC 16 Fortitude; Maximum Duration 4 rounds;
+Stage 1 stupeﬁed 1 (1 round); Stage 2 1d6 poison damage plus stupeﬁed 1 (1 round)
+Web Trap A creature hit by the dream spider’s web attack is immobilized and stuck to the
+nearest surface until it Escapes (DC 16).
+OGRE SPIDER
+These terrifying creatures grow as large as elephants. The placement
+of their eyes above their wide mandibles evokes the grimacing visage
+of an ogre’s leer. Ogres themselves ﬁnd the appearance of ogre spider
+faces simultaneously amusing and adorable, but in most cases, ogres’
+attempts to keep these spiders as pets result in dead ogres and wellfed spiders.
+OGRE SPIDER
+CREATURE 5
+N
+HUGE
+ANIMAL
+Perception +13; darkvision, web sense
+Skills Acrobatics +13, Athletics +13
+Str +6, Dex +4, Con +4, Int –5, Wis +2, Cha –4
+Web Sense The ogre spider has imprecise tremorsense to detect the
+vibrations of creatures touching its web.
+AC 23; Fort +15, Ref +13, Will +9
+HP 70
+Speed 30 feet, climb 30 feet
+Melee Ȱɵ bite +15, Damage 2d8+8 plus ogre spider venom
+Ranged Ȱɵ web +13 (range increment 30 feet), Eﬀect web trap
+Eerie Flexibility An ogre spider can ﬁt through tight spaces as if
+it were a Large creature. While Squeezing, it can move at its
+full speed.
+Ogre Spider Venom (poison); Saving Throw Fortitude DC 22;
+Maximum Duration 6 rounds; Stage 1 1d6 poison damage (1 round);
+Stage 2 1d6 poison damage, clumsy 1, and enfeebled 1 (1 round);
+Stage 3 2d6 poison damage, clumsy 1, and enfeebled 1 (1 round);
+Stage 4 2d6 poison damage, clumsy 2, and enfeebled 2 (1 round)
+Web Trap A creature hit by the ogre spider’s web attack is immobilized and stuck to the
+nearest surface until it Escapes (DC 22).
+
+================================================================================
+PAGE 251
+================================================================================
+
+Bestiary 2
+SPIRAL CENTURION GLITCHES
+A spiral centurion might have one of
+the following glitches.
+Dulled Blades: Its blade Strike deals
+only 2d10+5 bludgeoning damage.
+ Misaligned Gears: It loses Rev Up,
+and if it Strides more than once per
+round, it takes 1d10 damage.
+ Stuck in a Rut: It uses the same
+actions each round, regardless of
+the circumstances.
+Spiral Centurion
+These mechanical constructs were created to serve as guardians in an ancient
+and bygone era, although exactly who made them and the secrets of their
+construction have long since been lost to history. From the waist up, they
+resemble humanoids made of metal, but from the waist down their bodies
+take the form of spinning metal tops ringed with blades, which excel at cutting
+down nearby foes. Most spiral centurions can be directed to stand down with a
+password, although often these command phrases have been lost to the mists of
+time. In rare cases, a spiral centurion may also wield manufactured weapons or
+a shield in addition to its built-in weapons, giving it access to additional actions
+besides those listed below.
+Most spiral centurions are hundreds or even thousands of years old, only
+staying functional because of the powerful magic used in their creation. Still,
+millennia of neglect have caused many spiral centurions to develop small glitches
+or malfunctions.
+
+================================================================================
+# OSTIARIUS
+================================================================================
+
+
+VELSTRAC DIVINITIES
+The most powerful velstracs are
+unique divinities known collectively
+as velstrac demagogues—powerful
+creatures worshipped by those
+mortals who seek to experience
+agonizing new revelations and
+gain power by enhancing the body
+through pain.
+OSTIARIUS
+Ostiariuses, as emissaries of the velstracs, tend to the portals between the Shadow
+Plane and the Material Plane. They not only escort other velstracs into the world
+of mortals, but also work to entice mortals into the realms of the velstracs—
+from which most mortals never leave. Among the most pleasant and persuasive of
+the velstracs, ostiariuses are prepared to converse for hours upon any topic, and
+they are skilled at returning, again and again, to the subject of the delights found
+in their perverse philosophies. Ostiariuses stand over 6 feet tall, and individuals
+range from skeletally thin to hugely corpulent.
+OSTIARIUS
+CREATURE 5
+LE
+MEDIUM
+FIEND
+VELSTRAC
+Perception +15; greater darkvision, painsight, sense portal
+Languages Common, Infernal, Shadowtongue; telepathy 100 feet
+Skills Acrobatics +13, Deception +12, Diplomacy +12, Intimidation +16,
+Religion +11, Torture Lore +11
+Str +0, Dex +4, Con +2, Int +2, Wis +4, Cha +5
+Painsight (divination, divine) As augur.
+Sense Portal (divination, divine) The ostiarius always knows the
+direction and distance to the closest portal between the Shadow
+Plane and the Material Plane. This sense functions only on
+these two planes.
+AC 21; Fort +9, Ref +15, Will +13; +1 status to all saves vs. magic
+HP 67, regeneration 5 (deactivated by good or silver);
+Immunities cold; Weaknesses good 5, silver 5
+Whispering Wounds (aura, divine, enchantment, mental,
+visual) 30 feet. When a creature ends its turn in the aura,
+it hears the wounds on the ostiarius’s body whisper obscene
+truths. The creature must succeed at a DC 21 Will save or become
+sickened 1.
+Speed 25 feet
+Melee Ȱɵ claw +13 (agile, evil, ﬁnesse, magical), Damage 2d6+2
+slashing plus 2d6 persistent bleed
+Divine Innate Spells DC 24; 3rd enthrall, wanderer’s guide; 2nd
+calm emotions (at will), darkness, silence; Cantrips (3rd) shield
+Rituals DC 22; inveigle
+Compel Courage Ȱɵ (auditory, divine, emotion, enchantment,
+linguistic, mental) The ostiarius inspires their willing allies and
+themself by whispering words of courage from their wounds.
+The ostiarius and their allies in a 50-foot emanation gain a +1
+status bonus to attack rolls, damage rolls, and saves against fear eﬀects.
+The ostiarius can Sustain Compel Courage. Non-velstracs who accept this
+compelled courage ﬁnd bleeding wounds opening on their own bodies to
+whisper in thanks. They take 1 persistent bleed damage and can’t attempt
+a ﬂat check to end this damage as long as they’re compelled.
+Focus Gaze Ȱɵ (concentrate, divine, enchantment, fear, mental, visual) The ostiarius
+stares at a creature they can see within 30 feet. The creature must immediately
+attempt a Will save against whispering wounds. In addition, if the creature was
+already sickened and fails its save, the creature is fascinated by the ostiarius and
+can’t use hostile actions. This fascination lasts for 1 round or until the ostiarius takes
+any hostile action against the creature or the creature’s allies. Whether the creature
+succeeds at or fails the save, it is temporarily immune for 1 hour.
+EVANGELIST
+Evangelists, the velstracs’ unofﬁcial ambassadors, roam the farthest reaches
+of the planes to spread the word of their kind’s abhorrent belief in perfection
+through pain. They are therefore the most frequently encountered velstracs on the
+
+================================================================================
+PAGE 283
+================================================================================
+
+Bestiary 2
+DESPICABLE ORIGINS
+Velstracs originated with the ﬁrst
+debased thoughts of mortals, which
+divine beings found so deplorable
+that they locked all velstracs away
+in Hell. It wasn’t long, however,
+before the newly formed beings
+escaped their infernal prison to the
+Shadow Plane.
+Material Plane, leading covens of hedonistic mortal ﬂesh-sculptors or serving as
+wardens of horriﬁc dungeons. In regions ruled by infernal powers, evangelists may
+serve as lieutenants or advisors, whispering secret paths to power in exchange for
+mortal’s souls or choice mortal ﬂesh. Evangelists are the same size as humans,
+although with the heavy chains that always drape their forms, they often weigh
+350 pounds or more.

@@ -1,7 +1,7 @@
 {
   "source_pdf": "Pathfinder-2e-core-Rulebook.pdf",
   "book_name": "Core_Rulebook",
-  "total_sections": 12,
+  "total_sections": 11,
   "extraction_methods": [
     "pymupdf"
   ],
@@ -9,27 +9,22 @@
   "pages_with_content": 642,
   "sections": [
     {
-      "type": "front_matter",
-      "number": 0,
-      "title": "Front Matter",
-      "start_page": 1,
-      "end_page": 7,
-      "filename": "00_front_matter.txt"
-    },
-    {
       "type": "chapter",
       "number": 1,
       "title": "Introduction",
+      "start_line": 275,
+      "end_line": 3815,
       "start_page": 8,
-      "end_page": 34,
-      "filename": "01_chapter_1_introduction.txt",
-      "notes": "Includes full chapter overview (pages 8-34). Previously split incorrectly with pages 18-34 in a mislabeled ch8 file."
+      "end_page": 33,
+      "filename": "01_chapter_1_introduction.txt"
     },
     {
       "type": "chapter",
       "number": 2,
       "title": "Ancestries & Backgrounds",
-      "start_page": 35,
+      "start_line": 3816,
+      "end_line": 7077,
+      "start_page": 34,
       "end_page": 67,
       "filename": "02_chapter_2_ancestries_backgrounds.txt"
     },
@@ -37,23 +32,45 @@
       "type": "chapter",
       "number": 3,
       "title": "Classes",
+      "start_line": 7078,
+      "end_line": 23664,
       "start_page": 68,
-      "end_page": 255,
+      "end_page": 233,
       "filename": "03_chapter_3_classes.txt"
     },
     {
       "type": "chapter",
       "number": 4,
       "title": "Skills",
-      "start_page": 482,
-      "end_page": 531,
+      "start_line": 23665,
+      "end_line": 26329,
+      "start_page": 234,
+      "end_page": 255,
       "filename": "04_chapter_4_skills.txt",
-      "notes": "Non-contiguous pages: 482-483 (exploration/downtime summaries) and 500-531 (main skills reference). Pages 484-498 belong to Chapter 10 (Game Mastering) which is interleaved in the PDF."
+      "subsections": [
+        {
+          "type": "chapter",
+          "number": 4,
+          "title": "Skills (continued)",
+          "start_line": 56251,
+          "end_line": 60240,
+          "start_page": 499,
+          "end_page": 531,
+          "filename": ""
+        }
+      ],
+      "all_page_ranges": [
+        "234-255",
+        "499-531"
+      ],
+      "notes": "Non-contiguous content merged from 2 page ranges"
     },
     {
       "type": "chapter",
       "number": 5,
       "title": "Feats",
+      "start_line": 26330,
+      "end_line": 28232,
       "start_page": 256,
       "end_page": 271,
       "filename": "05_chapter_5_feats.txt"
@@ -62,6 +79,8 @@
       "type": "chapter",
       "number": 6,
       "title": "Equipment",
+      "start_line": 28233,
+      "end_line": 32097,
       "start_page": 272,
       "end_page": 297,
       "filename": "06_chapter_6_equipment.txt"
@@ -70,6 +89,8 @@
       "type": "chapter",
       "number": 7,
       "title": "Spells",
+      "start_line": 32098,
+      "end_line": 48207,
       "start_page": 298,
       "end_page": 417,
       "filename": "07_chapter_7_spells.txt"
@@ -77,31 +98,39 @@
     {
       "type": "chapter",
       "number": 8,
-      "title": "The Age of Lost Omens",
+      "title": "The Age of Lost Omens Ten thousand years",
+      "start_line": 48208,
+      "end_line": 50316,
       "start_page": 418,
       "end_page": 443,
-      "filename": "08_chapter_8_the_age_of_lost_omens.txt"
+      "filename": "08_chapter_8_the_age_of_lost_omens_ten_thousand_years.txt"
     },
     {
       "type": "chapter",
       "number": 9,
       "title": "Playing the Game",
+      "start_line": 50317,
+      "end_line": 54625,
       "start_page": 444,
-      "end_page": 480,
+      "end_page": 483,
       "filename": "09_chapter_9_playing_the_game.txt"
     },
     {
       "type": "chapter",
       "number": 10,
       "title": "Game Mastering",
+      "start_line": 54626,
+      "end_line": 60240,
       "start_page": 484,
-      "end_page": 498,
+      "end_page": 531,
       "filename": "10_chapter_10_game_mastering.txt"
     },
     {
       "type": "chapter",
       "number": 11,
       "title": "Crafting & Treasure",
+      "start_line": 60241,
+      "end_line": 76983,
       "start_page": 532,
       "end_page": 642,
       "filename": "11_chapter_11_crafting_treasure.txt"

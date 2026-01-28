@@ -1,0 +1,1058 @@
+# Bestiary - Creatures: H
+# Count: 13 creatures
+
+
+================================================================================
+# HIVE MOTHER
+================================================================================
+
+Armor-Rending Bite ʚʖ The ankhrav makes a mandibles Strike; if the Strike hits, the
+target’s armor takes the damage and the acid damage bypasses the armor’s Hardness.
+Spray Acid ʚʖ (acid) Frequency once per hour; Eﬀect The ankhrav spews acid in a
+30-foot cone, dealing 3d6 acid damage and 1d6 persistent acid damage (DC 20 basic
+Reﬂex save).
+Hive Mother
+Ankhrav hive mothers are fearsome predators that one can easily distinguish
+from the typical ankhrav not only by their greater size, but the presence of a
+large pair of razor-sharp, mantis-like arms.
+HIVE MOTHER
+CREATURE 8
+UNCOMMON
+N
+HUGE
+ANIMAL
+Perception +16; darkvision, tremorsense (imprecise) 90 feet
+Skills Acrobatics +13, Athletics +20, Stealth +11, Survival +16
+Str +6, Dex +1, Con +4, Int –4, Wis +2, Cha –2
+AC 29; Fort +18, Ref +15, Will +14
+HP 120
+Attack of Opportunity Ǻȓ
+Speed 25 feet, burrow 20 feet
+Melee Ȱɵ mandibles +20 (acid), Damage 2d8+6 piercing plus 2d6 acid
+Ranged Ȱɵ acid spit +17 (acid, range 30 feet), Damage 5d6 acid
+Armor-Rending Bite ʚʖ The hive mother makes a
+mandibles Strike; if the Strike hits, the target’s armor
+takes the damage and the acid damage bypasses the
+armor’s Hardness.
+Frenzy Pheromone ʚʖ The hive mother unleashes a
+pheromone that causes all other ankhravs within a 100-foot
+emanation to become quickened 1 until the start of the hive
+mother’s next turn, and they can use the extra action only
+for Burrow, Stride, or Strike actions. The hive mother
+can’t unleash the pheromone again for 1d4 rounds.
+Spray Acid ʚʖ (acid) The hive mother spews acid
+in a 60-foot cone, dealing 8d6 acid damage and 1d6
+persistent acid damage (DC 26 basic Reﬂex save). It
+can’t spew acid again for 1d4 rounds.
+ANKHRAV BURROWS
+As if the appearance of a hungry
+ankhrav in a stretch of farmland
+isn’t bad enough, it almost always
+indicates the proximity of an
+ankhrav hive nearby. A disturbing
+number of ankhravs can infest
+a lair. However, adventurers
+brave enough to crawl through
+the tangled burrows are often
+rewarded with large amounts of
+treasure as ankhravs have a habit
+of dragging their victims back
+to the deepest corners of their
+den to feast, usually discarding
+the remains with most of the
+gear intact.
+
+================================================================================
+PAGE 24
+================================================================================
+
+Ape
+While many apes exhibit peaceful or reclusive behavior, gorillas can be territorial,
+and the megaprimatus is especially aggressive and dangerous.
+Gorilla
+Gorillas can be territorial creatures, particularly if provoked by hunters or the
+presence of more dangerous monsters. A gorilla uses its fangs and powerful arms
+to bite and pummel trespassers with wild abandon.
+
+================================================================================
+# HORNED ARCHON
+================================================================================
+
+
+ARCHON LOCATIONS
+While commonly found in Heaven,
+archons can also be encountered
+on the ﬁendish planes in their
+endless crusade against evil. On
+the Material Plane they are usually
+encountered as advisors or saviors
+to those in need.
+Horned Archon
+Horned archons are secretive and tireless sentinels and scouts, patrolling the Outer
+Sphere’s untamed wilds for evil to eliminate and keeping small communities safe from
+demons, devils, and worse. They resemble muscular humans with the head, horns,
+and legs of a stag. When requested to do so by their patrons, especially Erastil, they
+journey to the Material Plane and patrol dangerous frontier areas, secretly performing
+acts of kindness such as leading hunters to food, helping lost children, and driving off
+evil creatures. Because they roam the wilds of Nirvana and Elysium, horned archons
+are among the best at understanding the perspectives of other celestials.
+HORNED ARCHON
+CREATURE 4
+LG
+MEDIUM
+ARCHON
+CELESTIAL
+Perception +11; darkvision
+Languages Celestial, Draconic, Infernal; tongues
+Skills Acrobatics +12, Nature +11, Religion +9, Stealth +10, Survival +11 (+15 to Track)
+Str +3, Dex +4, Con +3, Int +1, Wis +3, Cha +1
+Items composite longbow (20 arrows)
+AC 22; Fort +11, Ref +10, Will +11; +1 status to all saves vs. magic
+HP 65; Weaknesses evil 5
+Menacing Guardian (aura, divine, enchantment) 30 feet. Enemies that start their
+turn in the area or enter it must attempt a DC 19 Will save. On a failure, they
+take a –1 status penalty to attack rolls, spell rolls, and damage rolls against
+any other target while in the aura for 24 hours or until they damage the archon,
+whichever comes ﬁrst. On a critical failure, they can’t use hostile actions
+against any other target while in the area for 24 hours or until they
+damage the archon, whichever comes ﬁrst. Regardless of the
+result, a creature is then temporarily immune to further
+menacing guardian auras for 24 hours.
+Retributive Strike Ǻȓ A horned archon can also make a
+Retributive Strike with its composite longbow.
+Speed 35 feet
+Melee Ȱɵ horn +11 (magical), Damage 2d8+3
+piercing plus 1d6 good and Push
+Ranged Ȱɵ composite longbow +14 (deadly
+1d10, magical, range increment
+100 feet, reload 0, volley), Damage
+1d8+4 piercing plus 1d6 good
+Divine Innate Spells DC 21; 4th, dimension door
+(×3); 2nd animal messenger (×3); 1st charm
+(animals only; ×3), true strike (×3); Cantrips
+(2nd) dancing lights; Constant (5th) tongues
+Archon’s Door Once per day, if an archon sees another
+creature cast dimension door, it can cast an innate
+dimension door (heightened to 5th level) within 1 round
+to attempt to follow that creature to the maximum distance
+of the archon’s dimension door. If the archon’s dimension
+door has enough distance, the archon appears the same
+distance and direction from the creature as before
+either used dimension door.
+Touch of Charity Ȱɵ (healing, manipulate,
+necromancy) A horned archon can touch
+another creature to take on that creature’s
+wounds, transferring up to 30 of the
+horned archon’s HP to the touched
+creature.
+The
+horned
+archon
+can’t transfer more HP than it
+currently has.
+
+================================================================================
+PAGE 29
+================================================================================
+
+Bestiary
+Legion Archon
+Despite their ﬂaming blades and heavy armor, legion archons are the diplomats of
+peace among the archons, preferring justice via compromise and mutual beneﬁt
+rather than justice by the sword. Nonetheless, when forced to ﬁght against ﬁendish
+powers—especially ﬁends that embody the sin of wrath—legion archons don’t
+hesitate in battle, mounting offensives under divine commanders like Iomedae.
+
+================================================================================
+# HILL GIANT
+================================================================================
+
+
+Bestiary
+OVERSIZED THEMES
+Giants are larger-than-life foes.
+While many giants have themes
+that tie them to elemental or
+magical forces, the primary theme
+giants share is that they embody a
+classic cultural trope as their basis.
+Fire giants, for example, can be
+seen as oversized smiths, while
+hill giants should evoke the
+ﬂavor of an oversized bully.
+Giant
+Giants are massive humanoid creatures who live in remote regions throughout
+the world. They are divided into a number of subtypes.
+Hill Giant
+Selﬁsh and crude, these rough-skinned raiders are bullies and ultimately cowards.
+Quick-tempered and fond of violence, a hill giant gladly raids and pillages the
+defenseless but is quick to ﬂee from those who are bigger, stronger, or better
+organized than they are. A hill giant is never above shoving or tricking one of their
+own kind to slow down their opponent or get the best loot.
+HILL GIANT
+CREATURE 7
+CE
+LARGE
+EARTH
+GIANT
+HUMANOID
+Perception +13; low-light vision
+Language Common, Jotun
+Skills Athletics +19, Intimidation +11
+Str +6, Dex +0, Con +4, Int –2, Wis +2, Cha +0
+Items greatclub, hide armor, sack with 5 rocks
+AC 24; Fort +17, Ref +12, Will +13
+HP 140
+Catch Rock Ǻȓ
+Speed 35 feet
+Melee Ȱɵ greatclub +19 (backswing, reach 10 feet, shove), Damage 1d10+14 bludgeoning
+Melee Ȱɵ ﬁst +19 (agile, reach 10 feet), Damage 1d6+4 bludgeoning
+Ranged Ȱɵ rock +19 (brutal, range increment 120 feet), Damage 1d8+14 bludgeoning
+Throw Rock Ȱɵ
+Wide Swing Ȱɵ The hill giant makes a single greatclub Strike and compares the attack
+roll result to the ACs of up to two foes within its reach. This counts as two attacks
+for the hill giant’s multiple attack penalty.
+Stone Giant
+Stone giants are stoic, reclusive herders and artists who have a rich
+history and collection of traditions. They dwell in caves in tall
+mountains and craggy ranges, where their grayish skin allows
+them to blend in with their surroundings and go unnoticed by
+imperceptive adventurers. Those benign travelers who come
+across a tribe of stone giants need not worry much, however,
+for stone giants do not actively invite confrontation or strife.
+They are, by and large, a peaceful people who seek wisdom
+through exploration of nature and long meditations on
+the elements of the natural world. Their elders are the wisest of stone
+giants, and use their charisma and druidic magic to lead their tribes to
+prosperity and harmony with nature.
+A typical stone giant stands 12 feet in height and weighs about
+1,500 pounds.
+
+================================================================================
+# HARPY
+================================================================================
+
+
+Bestiary
+HARPY EXILES
+Most harpies are cruel and
+sadistic, but now and then a harpy
+manages to escape from its family
+and becomes exposed to the
+wider world. Eyes opened, these
+harpy exiles are almost always
+more mild-mannered,
+cleanly, and open
+to non-combat
+interactions.
+Harpy
+Harpies are ﬁlthy amalgamations of human and bird, resembling feral humans
+with wings, talons, and mouths full of sharp teeth. They use captivating songs
+to lure creatures in, then murder them while they stand transﬁxed. They enjoy
+causing confusion and fear in their prey before they strike, believing it creates a
+savory ﬂavor in the ﬂesh. Harpies can eat most creatures but strongly prefer sapient
+prey—humans and elves are their favorite. Although harpies will eat goblins if
+sufﬁciently hungry, they dislike their ﬂavor and avoid eating them if possible. This
+doesn’t comfort goblins, of course, who have a particularly strong fear of harpies.
+Because their aeries often reek with the gore of their kills and careless spatters
+of guano, harpies carry a distinctly vile scent that canny travelers associate with
+danger. Harpies who roost close to civilization make better efforts to keep
+clean, though these efforts have mixed results.
+Harpies live in family groups or larger clans. They
+are lightweight despite their size, standing 5 feet tall
+and weighing only around 90 pounds. While most use
+relatively simple weapons, some harpies take pride in
+learning and mastering the use of more complex tools of
+war such as swords and slings. Those who master the use of
+the bow, in particular, are often regarded as heroes among
+their kind and terrors among their victims.
+HARPY
+CREATURE 5
+CE
+MEDIUM
+HUMANOID
+Perception +12; darkvision
+Languages Common
+Skills Acrobatics +13, Deception +13, Intimidation
++11, Performance +14 (+16 singing)
+Str +1, Dex +4, Con +0, Int –1, Wis +1, Cha +4
+Items club
+AC 22; Fort +9, Ref +15, Will +12
+HP 68
+Speed 20 feet, ﬂy 60 feet
+Melee Ȱɵ club +12, Damage 1d6+4 bludgeoning
+Melee Ȱɵ talon +15 (agile, ﬁnesse), Damage
+2d6+4 slashing
+Ranged Ȱɵ club +15 (thrown 10 feet), Damage 1d6+4
+bludgeoning
+Captivating
+Song
+Ȱɵ
+(auditory,
+concentrate,
+enchantment, incapacitation, mental, primal) The
+harpy cries out an eerie, compelling melody. Each
+non-harpy creature within a 300-foot aura must attempt
+a DC 21 Will save to avoid becoming captivated by the
+harpy’s song. The eﬀect lasts for 1 round, but if
+the harpy uses this ability again on subsequent
+rounds, it extends the duration by 1 round
+for all aﬀected creatures. Once a creature
+succeeds at any save against Captivating
+Song, that creature is temporarily immune
+to Captivating Songs for 24 hours.
+Success The creature is unaﬀected.
+Failure The creature is fascinated, and it must spend each of its actions to move closer to
+the harpy as expediently as possible, while avoiding obvious dangers. If a captivated
+creature is adjacent to the harpy, it stays still and doesn’t act. If attacked by the harpy,
+the creature is freed from captivation at the end of the harpy’s turn.
+Critical Failure As failure, but if attacked by the harpy, the creature can attempt a new
+save at the start of its next turn, rather than being freed at the end of the harpy’s turn.
+
+================================================================================
+PAGE 206
+================================================================================
+
+HELL HOUND MINIONS
+On the Material Plane, these ﬁends
+are sometimes found in the service
+of ﬁre-loving monsters such as
+ﬁre giants or efreet, as well as
+mortals who seek to tame some of
+the raw power of Hell. In Cheliax,
+Hellknights occasionally call
+upon hell hounds to track down
+fugitives and traitors.
+Hell Hound
+Hell hounds are ﬁendish, extraplanar canines hailing from the pit that can hunt
+down quarry and breathe supernatural gouts of ﬂame. They are temperamental
+and quick to aggressive behavior.
+Hell Hound
+A hell hound’s appearance dismisses any doubts as to its infernal origins—ﬂesh
+the color of burning pitch, teeth as sharp as any ﬁend’s pitchfork, and a shroud of
+ever-burning hellﬁre are all trademark features.
+
+================================================================================
+# HELL HOUND
+================================================================================
+
+
+HELL HOUND MINIONS
+On the Material Plane, these ﬁends
+are sometimes found in the service
+of ﬁre-loving monsters such as
+ﬁre giants or efreet, as well as
+mortals who seek to tame some of
+the raw power of Hell. In Cheliax,
+Hellknights occasionally call
+upon hell hounds to track down
+fugitives and traitors.
+Hell Hound
+Hell hounds are ﬁendish, extraplanar canines hailing from the pit that can hunt
+down quarry and breathe supernatural gouts of ﬂame. They are temperamental
+and quick to aggressive behavior.
+Hell Hound
+A hell hound’s appearance dismisses any doubts as to its infernal origins—ﬂesh
+the color of burning pitch, teeth as sharp as any ﬁend’s pitchfork, and a shroud of
+ever-burning hellﬁre are all trademark features.
+HELL HOUND
+CREATURE 3
+LE
+MEDIUM
+BEAST
+FIEND
+FIRE
+Perception +9; darkvision, scent (imprecise) 60 feet
+Languages Infernal (can’t speak any language)
+Skills Acrobatics +8, Athletics +9, Stealth +8, Survival +9 (+11 to Track)
+Str +4, Dex +3, Con +2, Int –2, Wis +2, Cha –2
+AC 19; Fort +9, Ref +10, Will +7
+HP 40; Immunities ﬁre; Weaknesses cold 5
+Speed 40 feet
+Melee Ȱɵ jaws +13 (magical), Damage 1d8+4 piercing plus 1d6
+evil and 1d6 ﬁre
+Breath Weapon Ȱɵ (divine, evocation, ﬁre) The hell hound
+breathes ﬂames that deal 4d6 ﬁre damage to all creatures
+in a 15-foot cone (DC 19 basic Reﬂex save). The hell hound
+can’t use Breath Weapon again for 1d4 rounds. If the hell
+hound would take ﬁre damage or be targeted by a ﬁre eﬀect,
+its Breath Weapon recharges.
+Nessian Warhound
+Believed to be bred by the Prince of Darkness himself within
+vast kennels in the infernal realm of Nessus, Nessian
+warhounds are the favored guards and hunting hounds of
+powerful ﬁends and, rarely, those mortals who worship
+them and have earned their favor.
+
+================================================================================
+# HOBGOBLIN SOLDIER
+================================================================================
+
+HOBGOBLIN SOLDIER
+CREATURE 1
+LE
+MEDIUM
+GOBLIN
+HUMANOID
+Perception +7; darkvision
+Languages Common, Goblin
+Skills Athletics +6, Stealth +6
+Str +3, Dex +3, Con +2, Int +0, Wis +2, Cha –1
+Items hide armor, longsword, shortbow (10 arrows), wooden
+shield (Hardness 3, HP 12, BT 6)
+AC 18 (20 with shield raised); Fort +5, Ref +6, Will +5
+HP 20
+Attack of Opportunity Ǻȓ
+Shield Block Ǻȓ
+Formation When it’s adjacent to at least two other allies, the
+hobgoblin soldier gains a +1 circumstance bonus to AC
+and saving throws. This bonus increases to +2 to Reﬂex
+saves against area eﬀects.
+Speed 25 feet
+Melee Ȱɵ longsword +8 (versatile P), Damage 1d8+3 slashing
+Ranged Ȱɵ shortbow +8 (deadly 1d10, range increment 60
+feet, reload 0), Damage 1d6 piercing
+
+================================================================================
+PAGE 208
+================================================================================
+
+LIVING WITH HOBGOBLINS
+With few exceptions, the only
+non-goblinoids in a hobgoblin
+settlement or army are slaves
+(or at least regarded as such).
+Hobgoblins occasionally make use
+of bugbears as assassins or spies,
+and most hobgoblin tribes include
+a small group of goblins who eke
+out a meager existence on the
+fringes of hobgoblin society.
+Hobgoblin Archer
+Bands of hobgoblin soldiers typically have at least one archer among their ranks.
+In smaller groups, the hobgoblin archer also serves as that band’s captain.
+
+================================================================================
+# HOBGOBLIN ARCHER
+================================================================================
+
+
+LIVING WITH HOBGOBLINS
+With few exceptions, the only
+non-goblinoids in a hobgoblin
+settlement or army are slaves
+(or at least regarded as such).
+Hobgoblins occasionally make use
+of bugbears as assassins or spies,
+and most hobgoblin tribes include
+a small group of goblins who eke
+out a meager existence on the
+fringes of hobgoblin society.
+Hobgoblin Archer
+Bands of hobgoblin soldiers typically have at least one archer among their ranks.
+In smaller groups, the hobgoblin archer also serves as that band’s captain.
+HOBGOBLIN ARCHER
+CREATURE 4
+LE
+MEDIUM
+GOBLIN
+HUMANOID
+Perception +10; darkvision
+Languages Common, Goblin
+Skills Acrobatics +8, Athletics +8, Stealth +10
+Str +2, Dex +4, Con +2, Int +0, Wis +2, Cha –1
+Items crossbow (20 bolts), scale mail, shortsword
+AC 23; Fort +10, Ref +12, Will +8
+HP 50
+Formation As hobgoblin soldier.
+Speed 25 feet
+Melee Ȱɵ shortsword +12 (agile, versatile S), Damage 1d6+4 piercing
+Ranged Ȱɵ crossbow +14 (range increment 120 feet, reload 1), Damage 1d8+2 piercing
+plus crossbow precision
+Crossbow Precision [The ﬁrst time the archer hits with a crossbow attack in a
+round, it deals 1d8 extra precision damage.
+Perfect Aim The hobgoblin archer ignores the concealed condition. Their
+targets don’t beneﬁt from lesser cover, and they reduce the AC bonus from
+standard cover by 2 against the hobgoblin archer’s attack.
+Running Reload Ȱɵ The archer Strides, Steps, or Sneaks, then Interacts
+to reload.
+Hobgoblin General
+Hobgoblin generals serve as leaders of entire armies and rulers of hobgoblin
+settlements. A general does not permit the luxuries of rule to soften them. They
+lead their forces on the ﬁeld of battle and view this opportunity to excel in a
+ﬁght at the head of an army as the true reward for a life spent honing one’s skills
+in battle.
+
+================================================================================
+# HOBGOBLIN GENERAL
+================================================================================
+
+plus crossbow precision
+Crossbow Precision [The ﬁrst time the archer hits with a crossbow attack in a
+round, it deals 1d8 extra precision damage.
+Perfect Aim The hobgoblin archer ignores the concealed condition. Their
+targets don’t beneﬁt from lesser cover, and they reduce the AC bonus from
+standard cover by 2 against the hobgoblin archer’s attack.
+Running Reload Ȱɵ The archer Strides, Steps, or Sneaks, then Interacts
+to reload.
+Hobgoblin General
+Hobgoblin generals serve as leaders of entire armies and rulers of hobgoblin
+settlements. A general does not permit the luxuries of rule to soften them. They
+lead their forces on the ﬁeld of battle and view this opportunity to excel in a
+ﬁght at the head of an army as the true reward for a life spent honing one’s skills
+in battle.
+HOBGOBLIN GENERAL
+CREATURE 6
+LE
+MEDIUM
+GOBLIN
+HUMANOID
+Perception +13; darkvision
+Languages Common, Goblin
+Skills Acrobatics +12, Athletics +15, Intimidation +14, Stealth +12
+Str +4, Dex +3, Con +2, Int +0, Wis +1, Cha +2
+Items composite shortbow (20 arrows), +1 glaive, half plate
+General’s Cry When a hobgoblin general rolls initiative, as long as they
+can perceive at least one foe, they can yell a mighty battle cry. The
+hobgoblin general attempts an Intimidate check to Demoralize
+a single foe within 60 feet as a free action. If successful, any
+ally with the goblin trait can, as its first action on its first
+turn of the combat, Stride up to double its speed as a
+single action.
+AC 25; Fort +12, Ref +15, Will +13
+HP 90
+Formation As hobgoblin soldier.
+Speed 25 feet
+Melee Ȱɵ glaive +17 (deadly 1d8, forceful, reach),
+Damage 1d8+10 slashing
+Ranged Ȱɵ composite shortbow +15 (brutal, deadly 1d10, propulsive, range increment
+60 feet, reload 0), Damage 1d6+8 piercing
+Polearm Critical Specialization On a critical hit, the target of the critical hit is moved
+5 feet in a direction of the hobgoblin general’s choice.
+
+================================================================================
+PAGE 209
+================================================================================
+
+Bestiary
+SOULBOUND HOMUNCULI
+Most homunculi use a dose of
+their creator’s blood as their spark
+of life, but it’s possible to use a
+technique similar to that used in
+the crafting of a soulbound doll
+(page 306) to give a homunculus
+a personality and the semblance
+of life. These homunculi gain the
+soulbound trait, can speak, and do
+not have a special link to a creator,
+yet the process tends to warp
+the soul used so that, more often
+than not, what rises in the new
+homunculus body is a parody of
+its prior life. As such, soulbound
+homunculi are generally created by
+cruel spellcasters as a method
+of humiliating and tormenting
+vanquished enemies.
+Homunculus
+A homunculus is a tiny servitor construct created by a crafter to serve as a spy,
+scout, messenger, or assistant. When a crafter ﬁrst begins to study the art of
+creating constructs, she often crafts a homunculus ﬁrst, since the creation process
+is simple and inexpensive due to a magical shortcut: the use of the creator’s own
+blood. This forges a link between the homunculus and its master, causing the
+homunculus to gain a spark of the creator’s intellect, as well as the same moral
+values and some of the creator’s basic personality traits. Homunculi left to their
+own devices never stray far from their masters.
+In most cases, a homunculus doesn’t survive the death of its master for long.
+Deprived of its creator, a homunculus loses focus and grows increasingly
+self-destructive, and some even end up battering themselves to destruction. Rarely,
+a homunculus with a slain master survives the trauma with its mind intact, often
+seeing itself as its deceased creator’s child or successor and attempting to further
+its creator’s legacy as best it can. In such cases, and if the
+homunculus was in close proximity to its master upon that
+creature’s death, a portion of the dead master’s soul “infects” the
+surviving homunculus as it passes on to the afterlife. This doesn’t result
+in a truly soulbound homunculus (see sidebar), since only a fragment of
+the soul is left behind, but this is still enough to grant the homunculus a
+greater personality, free will of its own, and perhaps most importantly, the
+ability to speak. Over time, a few of these “awakened” homunculi even go
+so far as to become convinced that they are the reincarnation of their prior
+masters, although their actual personalities never quite reach the depth and
+complexity of a truly living creature. They are, at best, caricatures of the master,
+and at worst they become awful, bitter-minded parodies of life itself. Still, a
+free-willed homunculus might pursue studies in its creator’s class, becoming
+a unique creature with the abilities of that class if time and fortune permit.
+Homunculi are created from a mixture of clay, ash, mandrake root,
+spring water, and a pint of the creator’s own blood. It is possible
+for a separate donor to provide the blood, but the process is
+more difﬁcult.
+
+================================================================================
+# HOMUNCULUS
+================================================================================
+
+HOMUNCULUS
+CREATURE 0
+N
+TINY
+CONSTRUCT
+Perception +3; darkvision
+Languages Common (can’t speak any language); master
+link
+Skills Acrobatics +5, Stealth +5
+Str –1, Dex +3, Con +0, Int +0, Wis +1, Cha –2
+Master Link (arcane, divination, mental) A homunculus can’t speak, but it
+is telepathically linked to its creator. It can share information back and
+forth, including its master’s knowledge and everything the homunculus
+hears. The range of this link is 1,500 feet. The homunculus adopts the
+same alignment as its creator and is utterly faithful. If the homunculus
+is destroyed, the master takes 2d10 mental damage. If the master is slain,
+the homunculus becomes mindless, claims its current location as its lair, and
+instinctively attacks anyone who comes near.
+AC 17; Fort +2, Ref +7, Will +3
+HP 17; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued, healing,
+necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
+Speed 15 feet, ﬂy 40 feet
+Melee Ȱɵ jaws +7 (ﬁnesse, magical), Damage 1d4 piercing plus homunculus poison
+Homunculus Poison (poison); A homunculus has one dose of poison in a reservoir in its
+head. It can reﬁll this poison from its reserves with an Interact action. Saving Throw
+DC 15 Fortitude; Maximum Duration 6 rounds; Stage 1 1d6 poison and enfeebled 1
+(1 round)
+
+================================================================================
+PAGE 210
+================================================================================
+
+GOBLINS AND HORSES
+Goblins have many superstitions
+and quirks, but few of them are
+stronger than their fear and
+hatred of horses. This isn’t a
+one-sided aﬀair. Horses also fear
+and hate goblins, and some have
+been known to go out of their
+way to harm a goblin. A goblin
+trying to mount a horse is nearly
+always subject to a torrent of
+violent bucking, as the horse
+does everything in its power to
+ﬂing the goblin to the ground and
+within reach of its hooves.
+Horse
+Horses serve as mounts and beasts of burden in many societies. They are
+loyal and typically gentle creatures, and they are invaluable to those looking
+to travel long distances. Smaller folk, like gnomes and halﬂings, often utilize
+ponies as mounts, while horses are the favored steeds for humans and other
+Medium humanoids. Most horses that the average humanoid encounters are
+domesticated, though large herds of these powerful animals can be found in
+the wild.
+
+================================================================================
+# HYDRA
+================================================================================
+
+
+Bestiary
+Hydra
+Hydras are multiheaded, foul-tempered serpentine beasts with voracious appetites,
+widely feared for their regeneration abilities.
+HYDRA
+CREATURE 6
+N
+HUGE
+BEAST
+Perception +17; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +17, Stealth +12 (+15 in water)
+Str +7, Dex +4, Con +5, Int –3, Wis +2, Cha –1
+AC 23; all-around vision; Fort +15, Ref +12, Will +10
+HP (body) 90, hydra regeneration
+HP (head) 15, head regrowth; Immunities area damage; Weaknesses slashing 5
+Attack of Opportunity Ǻȓ
+Head Regrowth A hydra ordinarily has ﬁve heads. A creature can attempt to sever one of
+the hydra’s heads by speciﬁcally targeting it and dealing damage equal to the head’s
+Hit Points. A head that is not completely severed returns to full Hit Points at the end
+of any creature’s turn.
+A hydra can regrow a severed head using Hydra Regeneration. A creature can prevent
+this regrowth by dealing acid or ﬁre damage to the stump, cauterizing it. Single-target
+acid or ﬁre eﬀects need to be targeted at a speciﬁc stump, but eﬀects that deal splash
+damage or aﬀect areas covering the hydra’s whole space cauterize all stumps if they
+deal acid or ﬁre damage. If the attack that severs a head deals any acid or ﬁre damage,
+the stump is cauterized instantly. If all ﬁve heads are cauterized, the hydra dies.
+Hydra Regeneration The hydra has regeneration equal to 3 × the number of heads it has. If
+a hydra’s body is missing any heads and the remaining stumps have not been cauterized,
+the hydra attempts a DC 25 Fortitude save after it regains Hit Points from regeneration.
+On a success, one uncauterized stump regrows two heads; on a critical success, two
+uncauterized stumps regrow into two heads each. The hydra can never grow more
+than double the number of heads it ordinarily has. The hydra’s regeneration only fully
+deactivates if all its heads are severed and all stumps are cauterized, at which point it dies.
+Multiple Opportunities A hydra gains an extra reaction per round for each of its heads
+beyond the ﬁrst, which it can use only to make Attacks of Opportunity. It can’t use
+more than 1 reaction on the same triggering action, even if a creature leaves several
+squares within its reach, and the hydra must use a diﬀerent head for
+each Attack of Opportunity it makes. Whenever one of the
+hydra’s heads is severed, the hydra loses 1
+of its extra reactions per round.
+Speed 25 feet, swim 25 feet
+Melee Ȱɵ fangs +16 (reach 10 feet), Damage
+2d6+7 piercing
+Focused
+Assault
+ʚʖ
+The
+hydra
+attacks a single target with its heads,
+overwhelming its foe with multiple
+attacks and leaving almost nowhere to
+dodge. The hydra Strikes with its fangs.
+On a successful attack, the hydra deals damage from its
+fangs Strike to the target, plus an additional 1d6 damage
+for every head it has beyond the ﬁrst. Even on a failed
+attack, the hydra deals the damage from one fangs Strike
+to the target creature, though it still misses completely on
+a critical failure. This counts toward the hydra’s multiple
+attack penalty as a number of attacks equal to the number of
+heads the hydra has.
+Storm of Jaws ʚʖ The hydra makes a number of Strikes up to
+its number of heads, each against a diﬀerent target. These attacks
+count toward the hydra’s multiple attack penalty, but the multiple attack penalty
+doesn’t increase until after the hydra makes all its attacks.
+VARIANT HYDRAS
+Scholars of bestial lore can
+describe several hydra variations.
+Though rare, hydras with more
+than ﬁve heads live in very
+isolated areas, sometimes guarding
+incredibly powerful artifacts.
+Explorers who have visited colder
+swamps and frozen glaciers tell
+tales of hydras with blue-tinged
+scales that are immune to the
+cold and can exhale clouds of icy
+death. Similar stories describe
+ﬁery hydras that breathe gouts of
+ﬂame and swim in the molten lava
+of active volcanoes.
+
+================================================================================
+PAGE 212
+================================================================================
+
+HYENA LEGENDS
+The hyena’s intense cunning,
+combined with its unnerving
+laughter, has caused hyenas to
+become associated with all manner
+of evil—hyenas are claimed to rob
+graves, steal children, and wield
+sinister supernatural powers.
+Though normal hyenas are no
+more malicious than any other
+natural predator, their unearned
+reputation often causes witches,
+warlords, and ill-natured creatures
+to seek out hyenas as pets or
+guard animals. The fact that
+gnolls in particular have a special
+preference for hyenas, considering
+the animals to be close relatives,
+does little to improve the animal’s
+already-poor reputation.
+Hyena
+Hyenas are pack-hunting scavengers known for their unnerving, laughter-like
+cries, and they aren’t above supplementing their carrion diets with fresh prey.
+Hyena
+Hyenas are cunning, powerfully built carnivores that bear a heavy resemblance
+to dogs and other canines, though they are not themselves canines. Though all
+hyenas are often maligned as cowardly carrion eaters, their tactics depend on
+their speciﬁc breed: spotted hyenas are active pack hunters that kill most of
+their prey themselves, while striped and brown hyenas are more likely to be
+scavengers. Their jaws are exceptionally powerful, allowing hyenas to seize a
+victim and pull it to the rest of the pack.
+
+================================================================================
+# HYENA
+================================================================================
+
+
+HYENA LEGENDS
+The hyena’s intense cunning,
+combined with its unnerving
+laughter, has caused hyenas to
+become associated with all manner
+of evil—hyenas are claimed to rob
+graves, steal children, and wield
+sinister supernatural powers.
+Though normal hyenas are no
+more malicious than any other
+natural predator, their unearned
+reputation often causes witches,
+warlords, and ill-natured creatures
+to seek out hyenas as pets or
+guard animals. The fact that
+gnolls in particular have a special
+preference for hyenas, considering
+the animals to be close relatives,
+does little to improve the animal’s
+already-poor reputation.
+Hyena
+Hyenas are pack-hunting scavengers known for their unnerving, laughter-like
+cries, and they aren’t above supplementing their carrion diets with fresh prey.
+Hyena
+Hyenas are cunning, powerfully built carnivores that bear a heavy resemblance
+to dogs and other canines, though they are not themselves canines. Though all
+hyenas are often maligned as cowardly carrion eaters, their tactics depend on
+their speciﬁc breed: spotted hyenas are active pack hunters that kill most of
+their prey themselves, while striped and brown hyenas are more likely to be
+scavengers. Their jaws are exceptionally powerful, allowing hyenas to seize a
+victim and pull it to the rest of the pack.
+HYENA
+CREATURE 1
+N
+MEDIUM
+ANIMAL
+Perception +6; low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +6, Athletics +7, Stealth +6
+Str +3, Dex +3, Con +2, Int –4, Wis +1, Cha –2
+AC 16; Fort +7, Ref +8, Will +4
+HP 20
+Speed 40 feet
+Melee Ȱɵ jaws +8, Damage 1d8+3 piercing plus Knockdown
+Drag Ȱɵ The hyena makes a jaws Strike against a prone enemy. If it hits, in addition to
+dealing damage, the hyena Strides up to 10 feet, dragging the enemy along.
+Pack Attack The hyena deals an extra 1d4 damage to any creature that’s within reach of
+at least two of the hyena’s allies.
+Hyaenodon
+Hyaenodons
+are
+the
+ferocious
+primeval cousins of the smaller hyena.
+Looming,
+shaggy-furred
+creatures
+nearly the size of a horse, hyaenodons
+are truly formidable predators to be
+reckoned with, due both to their
+size and to their bone-crushing
+jaws. Gnoll clans ﬁnd these
+creatures particularly useful as
+mounts and guardians.
+
+================================================================================
+# HYAENODON
+================================================================================
+
+Drag Ȱɵ The hyena makes a jaws Strike against a prone enemy. If it hits, in addition to
+dealing damage, the hyena Strides up to 10 feet, dragging the enemy along.
+Pack Attack The hyena deals an extra 1d4 damage to any creature that’s within reach of
+at least two of the hyena’s allies.
+Hyaenodon
+Hyaenodons
+are
+the
+ferocious
+primeval cousins of the smaller hyena.
+Looming,
+shaggy-furred
+creatures
+nearly the size of a horse, hyaenodons
+are truly formidable predators to be
+reckoned with, due both to their
+size and to their bone-crushing
+jaws. Gnoll clans ﬁnd these
+creatures particularly useful as
+mounts and guardians.
+HYAENODON
+CREATURE 3
+N
+LARGE
+ANIMAL
+Perception +9; low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +8, Athletics +12, Stealth +8
+Str +5, Dex +3, Con +3, Int –4, Wis +2, Cha –2
+AC 19; Fort +10, Ref +8, Will +7
+HP 45
+Speed 40 feet
+Melee Ȱɵ jaws +12, Damage 1d10+5
+piercing plus Knockdown and
+bonecrunching bite
+Bonecrunching Bite A creature
+that is critically hit by a
+hyaenodon must succeed at a DC 20 Fortitude save or become wounded 1 as the
+creature’s bones or cartilage are crushed by the beast’s jaws.
+Drag Ȱɵ As hyena.
+Pack Attack The hyaenodon deals an extra 1d6 damage to any
+creature within reach of at least two of the hyaenodon’s allies.
+
+================================================================================
+PAGE 213
+================================================================================
+
+Bestiary
+“WE ARE DRAGONS!”
+Kobolds consider themselves
+scions of dragonkind, and they
+are extremely proud of this
+purported heritage, no matter
+how laughable other creatures
+might consider these claims.
+Despite such skepticism, kobolds
+share more than a superﬁcial
+resemblance to true dragons, with
+scale colorations closely matching
+the colors seen among chromatic
+dragonkind. Some kobolds
+develop a strong propensity
+toward powerful draconic magic
+and manifest these chromatic
+traits with more intensity. These
+so-called dragon mages are highly
+respected by other kobolds, and
+often rise to leadership positions
+within the tribe.
+Kobold
+Kobolds are small, reptilian humanoids who carry physical similarities to true
+dragons. They lurk in dark spaces, usually tunnels and mines beneath the earth, in
+either warrens of their own design or complexes discovered and colonized after
+the original builders have moved on. Though kobolds are far more pragmatic
+than they are courageous, they use every inch of their cunning to even the playing
+ﬁeld between themselves and other, stronger creatures. They attack from the
+darkness and at range, and kobold artiﬁcers and engineers master the art of
+simple but effective traps, which they use to protect their lairs. Kobolds are skilled
+at working together by necessity, and they often set up ambushes or hit-and-run
+assaults that allow them to do the most damage possible without being harmed
+in return.
+Kobolds are diligent and hardworking creatures, though they often turn these
+virtues toward selﬁsh ends. While some kobolds live in communal collectives that
+maintain neutral relations with the creatures around them, they can be easily
+swayed into serving malevolent powers or megalomaniac leaders. This is in part
+due to kobolds’ innate pragmatism, as they would rather concede to servitude
+than risk being killed, but it is also in part due to a reverence for the power that
+kobolds generally lack. Dragons in particular are viewed with a deferential awe,
+and kobolds eagerly offer their services to such mighty and glorious creatures
+when they can. While kobolds may scheme against other leaders, especially those
+that control them via subjugation, dragons are usually viewed with adoration, no
+matter how brutal they might be to their kobold minions.
+Kobold Warrior
+The typical kobold trains with agile weaponry, favoring the light pick for
+its use in crafting new tunnels to expand their domains through
+underground reaches. Kobolds are capable of landing
+sneaky strikes against unsuspecting foes but are just as
+quick to scamper off to safety when they don’t, as a
+group, outnumber their enemies at least two to one.
+KOBOLD WARRIOR
+CREATURE –1
+LE
+SMALL
+HUMANOID
+KOBOLD
+Perception
++3;
+darkvision
+Languages Draconic
+Skills Acrobatics +5, Craft
++2 (+4 traps), Stealth +5
+Str +1, Dex +3, Con +0, Int +0, Wis +1,
+Cha –1
+Items leather armor, sling (20 bullets), spear
+AC 16; Fort +4, Ref +7, Will +3
+HP 8
+Speed 25 feet
+Melee Ȱɵ spear +3, Damage 1d6+1 piercing
+Ranged Ȱɵ sling +5 (propulsive, range increment 50 feet,
+reload 1), Damage 1d4 bludgeoning
+Ranged Ȱɵ spear +5 (thrown 20 feet), Damage 1d6+1 piercing
+Hurried Retreat Ȱɵ Requirements The kobold warrior
+is adjacent to at least one enemy. Eﬀect The kobold
+warrior Strides up to its Speed plus 5 feet and gains a
++2 circumstance bonus to AC against reactions triggered
+by this movement. It must end this movement in a space
+that’s not adjacent to any enemy.
+Sneak Attack The kobold warrior deals an extra 1d4
+precision damage to ﬂat-footed creatures.
+
+================================================================================
+PAGE 214
+================================================================================
+
+DIABOLIC KOBOLDS
+Certain kobold tribes eschew any
+concept of draconic lineage entirely
+and instead place their faith in the
+archdevils of Hell. These diabolist
+kobolds view those of their kind
+who simper at the feet of dragons
+as pathetic wretches. That they
+perform the same fearful worship
+to their chosen devil does not strike
+these infernally minded kobolds as
+an irony at all.
+Kobold Scout
+Most kobolds encountered outside of a well-defended warren or lair are kobold
+scouts, creatures trained for stalking and the hunt.
+
+================================================================================
+# HUNTING SPIDER
+================================================================================
+
+Swarming Bites Ȱɵ Each enemy in the spider swarm’s space takes 1d4 piercing damage with
+a DC 14 basic Reﬂex save. A creature that fails its save is exposed to spider swarm venom.
+Spider Swarm Venom (poison); Saving Throw Fortitude DC 14; Maximum Duration
+4 rounds; Stage 1 1 poison and enfeebled 1 (1 round); Stage 2 1d4 poison and
+enfeebled 1 (1 round).
+Hunting Spider
+Hunting spiders are the most common type of giant
+spider, though not the largest.
+HUNTING SPIDER
+CREATURE 1
+N
+MEDIUM
+ANIMAL
+Perception +7; darkvision, web sense
+Skills Acrobatics +7, Athletics +5, Stealth +7
+Str +2, Dex +4, Con +1, Int –5, Wis +2, Cha –4
+Web Sense As spider swarm.
+AC 17; Fort +6, Ref +9, Will +5
+HP 16
+Spring Upon Prey Ǻȓ (attack); Requirement
+Initiative has not yet been rolled. Trigger A
+creature touches the hunting spider’s web
+while the spider is on it. Eﬀect The hunting
+spider automatically notices the creature
+and Strides, Climbs, or Descends on a Web
+before it rolls initiative.
+Speed 25 feet, climb 25 feet
+Melee Ȱɵ fangs +9 (ﬁnesse), Damage
+1d6+2 piercing plus hunting spider
+venom
+Ranged Ȱɵ web +7 (range increment 30
+feet), Eﬀect web trap
+Descend on a Web Ȱɵ (move) The
+hunting spider moves straight down
+up to 40 feet, suspended by a web line.
+It can hang from the web or drop oﬀ. The
+distance it Descends on a Web doesn’t count
+for falling damage. A creature that successfully
+Strikes the web (AC 20, Hardness 3, 5 HP) severs it, causing the
+spider to fall.
+
+================================================================================
+PAGE 308
+================================================================================
+
+OTHER GIANT SPIDERS
+A staggering number of species
+of giant spider exist in the world.
+Some, like the dream spider,
+whose venom creates strange
+hallucinations, are relatively small.
+Others, like the lumbering ogre
+spider, are larger than horses.
+Hunting Spider Venom (poison); Saving Throw Fortitude DC 16; Maximum Duration 6 rounds;
+Stage 1 1d10 poison and ﬂat-footed (1 round); Stage 2 1d12 poison, clumsy 1, and ﬂat-footed
+(1 round); Stage 3 2d6 poison, clumsy 2, and ﬂat-footed (1 round).
+Web Trap A creature hit by the hunting spider’s web attack is immobilized and stuck to
+the nearest surface until it Escapes (DC 17).
+Giant Tarantula
+Tarantulas are ambush predators, but will attack prey in the open.

@@ -1,0 +1,594 @@
+# Bestiary - Creatures: E
+# Count: 7 creatures
+
+
+================================================================================
+# ELASMOSAURUS
+================================================================================
+
+
+OTHER AQUATIC REPTILES
+The elasmosaurus is but one of
+many types of aquatic reptiles found
+in primeval oceans or lost worlds.
+Some, like the ichthyosaurus, are
+almost ﬁshlike in appearance.
+Others, such as the mosasaurus,
+are truly massive beasts capable of
+killing and eating whales.
+Elasmosaurus
+Elasmosauruses are long-necked, primeval reptiles that dwell in deep oceans and
+seas. Although not truly a dinosaur, elasmosauruses are often found in similar
+locations and are similarly titanic creatures. Keeping their massive bodies
+underwater, elasmosauruses use their long necks to catch prey and snorkel air to
+their massive lungs while remaining mostly hidden from the surface above. An
+elasmosaurus is 30 feet long and weighs 6,000 pounds.
+As rare and reclusive as they are, elasmosauruses are sometimes mistaken for
+even rarer creatures called water orms, legendary aquatic denizens of remote
+lakes known for their elusiveness and craftiness. Whereas elasmosauruses are
+mundane creatures of animalistic intelligence, water orms are magical beings with
+near‑humanoid intelligence and a curious fascination with mortals, and they seem
+to delight in confounding onlookers. As a result, it’s theorized that a typical water
+orm is more than happy to lead a group of spectators to a lost elasmosaurus, both
+to throw its pursuers off its tail and for the hilarity that will inevitably ensue.
+While elasmosauruses are often found in lost worlds and unsettled regions,
+those who dwell in the oceans of the world do not contain their hunting grounds
+to speciﬁc regions. As a result, it’s not unheard of for a wandering specimen to
+ﬁnd its way to coastal waters. Those that do often ﬁnd the ports of small towns
+or even large cities to be wondrous banquets and are usually hunted down by
+coastal guards or adventurers. When a wayward
+elasmosaurus like this ﬁnds its way into a city’s
+sewer system or reservoirs, though, it can become
+the stuff of urban legends.
+ELASMOSAURUS
+CREATURE 7
+N
+HUGE
+ANIMAL
+Perception +16; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +17
+Str +6, Dex +4, Con +6, Int –4, Wis +5, Cha –1
+Deep Breath The elasmosaurus can hold its breath for 2 hours.
+AC 25; Fort +17, Ref +13, Will +16
+HP 125
+Long Neck An elasmosaurus’s long neck allows it to interact with the surface while
+its body remains submerged underwater. While submerged no deeper than 15 feet
+underwater, an elasmosaurus can still stick its head up to breathe. An elasmosaurus
+gains cover against attacks made against creatures who are above the water’s
+surface while it is underwater, even if its head is above the surface.
+Attack of Opportunity Ǻȓ Jaws only.
+Speed 5 feet, swim 35 feet
+Melee Ȱɵ jaws +17 (reach 15 feet), Damage 2d12+10 piercing plus Grab
+Melee Ȱɵ paddle +17, Damage 2d6+10 bludgeoning
+Drag Below Ȱɵ (attack) The elasmosaurus attempts an Athletics check against a
+grabbed foe’s Fortitude DC. If the elasmosaurus succeeds, the foe is forcibly moved
+5 feet toward the elasmosaurus’s body. If the elasmosaurus
+critically succeeds, the foe is moved 10 feet towards the
+elasmosaurus’s body.
+Thrashing Retreat ʚʖ A swimming
+elasmosaurus thrashes the area
+around it as it attempts to ﬂee.
+It makes two paddle Strikes, each
+of which must be against
+separate
+targets,
+and
+each of which takes the
+normal multiple attack penalty. It then Swims up
+to its swim Speed. This Swim does not trigger
+reactions based on movement.
+
+================================================================================
+PAGE 107
+================================================================================
+
+Bestiary 2
+DIVERSE ELEMENTALS
+The Elemental Planes are more
+than expanses of sky, rock, ﬁre,
+and ocean. Clouds of fog, dust, and
+storms ﬂoat through the Plane of Air.
+The Plane of Earth includes verdant
+groves, shining metal and crystal,
+and irradiated wastelands. The Plane
+of Fire features magma, suﬀocating
+smoke, and radiant ﬁrelight. Amid the
+endless sea of the Plane of Water are
+pockets of ooze and brine, plus the
+otherworldly environs of the deep.
+Elemental, Air
+Some elementals embody aspects of air such as smoke, lightning, and fog.
+SPARK BAT
+Spark bats congregate around volatile weather in the Plane of Air.
+
+================================================================================
+# EARTHEN DESTRIER
+================================================================================
+
+Earth Glide A living boulder can Burrow through earthen matter, including rock.
+When it does so, it moves at its full burrow Speed, leaving no tunnels or signs
+of its passing.
+Rolling Charge ʚʖ The living boulder Strides twice, and can then make a Strike
+with its jaws. This jaws Strike gains Knockdown.
+EARTHEN DESTRIER
+This wave of dirt takes the crude likeness of the melded
+forequarters of a charging warhorse and a rocky knight
+wielding a rudimentary lance of gray stone.
+EARTHEN DESTRIER
+CREATURE 4
+N
+LARGE
+EARTH
+ELEMENTAL
+Perception
++10;
+darkvision,
+tremorsense
+(imprecise) 60 feet
+Skills Athletics +12
+Languages Terran
+Str +4, Dex +1, Con +4, Int –1, Wis +3, Cha +0
+AC 20; Fort +14, Ref +9, Will +10
+HP 72; Immunities bleed, paralyzed, poison, sleep
+Speed 50 feet, burrow 30 feet; earth glide
+Melee Ȱɵ lance arm +14 (deadly d8, reach 10 feet), Damage
+2d8+6 piercing and lancing charge
+Melee Ȱɵ hoof +14, Damage 2d6+6 bludgeoning
+Earth Glide As living boulder above.
+Lancing Charge If the destrier moved at least 10 feet directly before its lance arm Strike,
+it gains a +2 circumstance bonus to its damage roll.
+Tilting Strike Ǻȓ Trigger The earthen destrier tramples a creature; Eﬀect The earthen
+destrier makes a lance arm Strike against the creature it’s trampling at a –5
+penalty.
+Trample ̂ˬ Medium or smaller, hoof, DC 20
+SAND SENTRY
+Shifting back and forth between a detailed likeness of a human and a muted and
+featureless bipedal form, this creature of pure sand moves with an eerie grace.
+The sand sentry is often called upon by spellcasters to stand guard over an area
+of great importance—these elementals are patient participants in such roles,
+making them well suited for long-term service.
+
+================================================================================
+PAGE 110
+================================================================================
+
+SAND MIMICS
+Sand sentries have no true culture
+or society of their own, but they
+are endlessly fascinated with the
+society and culture of humanoids
+they encounter. They can shape their
+appearance to mimic any similarly
+sized humanoids, and although
+they always remain obviously
+composed of sand, they do their best
+to mimic the day-to-day activities
+they observe other humanoids
+performing. Of course, structures
+and objects sand sentries build from
+sand never last, but this never seems
+to stiﬂe their obsession.
+
+================================================================================
+# EMBER FOX
+================================================================================
+
+
+Bestiary 2
+FIRE ELEMENTAL TREASURE
+Often, nothing remains after
+defeating a ﬁre elemental but a pile
+of ashes and the fading smell of
+smoke. But sometimes, fragments
+of their elemental power remain
+behind. At the GM’s discretion, a ﬁre
+elemental can leave behind ashes,
+lumps of charcoal, or ever-smoldering
+cinders that are valuable components
+for the construction of ﬁre-themed
+magic items.
+Elemental, Fire
+Fire elementals sometimes incorporate burning materials into their being, or
+possibly superheated materials such as molten rock or searing smoke.
+EMBER FOX
+Ember foxes resemble their canid namesakes, save for the ﬂames that make their
+fur and the tips of their long whiskers ﬂicker and glow.
+EMBER FOX
+CREATURE 2
+NG
+SMALL
+ELEMENTAL
+FIRE
+Perception +8; darkvision
+Languages Ignan (can’t speak any language)
+Skills Acrobatics +8, Athletics +5, Stealth +8
+Str +1, Dex +4, Con +2, Int –2, Wis +2, Cha +1
+AC 18; Fort +6, Ref +10, Will +8
+HP 35; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 5
+Cloak in Embers Ǻȓ Trigger An adjacent ally is targeted by an eﬀect that deals ﬁre
+damage; Eﬀect The ember fox drapes itself across its ally, granting the ally ﬁre
+resistance 10 against the incoming attack.
+Speed 30 feet
+Melee Ȱɵ jaws +10 (agile, ﬁnesse), Damage 1d4+3 piercing plus 1d4 persistent ﬁre
+FILTH FIRE
+These creatures look like roiling clouds of black smoke churning above a
+mound of burning refuse. Leering faces form and fade in the smoke above,
+while the burning trash writhes in spasmodic lurches, obviously alive.
+
+================================================================================
+# ESOBOK
+================================================================================
+
+
+Bestiary 2
+PSYCHOPOMP TRAITORS
+Some psychopomps view their task
+of sorting souls as ultimately hollow
+and meaningless, since the multiverse
+itself must one day end. Eons ago,
+these rebels shirked their duties
+and ﬂed to the empty corners of
+the planes, becoming a new type of
+evil creature called a sahkil. Sahkils
+feed on mortal fears, particularly
+fears of death, and enjoy tormenting
+those who must die. Psychopomps
+generally leave these malcontents
+alone, except when sahkils interfere
+with the proper ﬂow of souls.
+Psychopomp
+Many psychopomps are intimately involved with the Boneyard’s massive
+bureaucracy. Few pursue mercy, justice, or personal gain; their duties to Pharasma
+and her Boneyard are supreme. Nevertheless, individual psychopomps interpret
+their duties in different ways, which might put them in conﬂict with mortals or even
+with each other.
+ESOBOK
+Esoboks are brute hunters and pugnacious sentinels that serve as the guard dogs of
+the Boneyard. These squat, powerful quadrupeds have a frill of dark feathers around
+their distinctive heads which resemble a crocodile skull. Esoboks rarely bother with
+those who are truly dead, allowing the dead of the Boneyard to go about their
+business while remaining watchful for danger. Though cunning when snifﬁng out
+threats to the Boneyard or to their psychopomp handlers, they’re among the least
+intelligent of the psychopomps and rarely speak except to utter growling threats.
+The wise listen when an esobok makes a threat, as it won’t do so twice.
+ESOBOK
+CREATURE 3
+N
+MEDIUM
+MONITOR
+PSYCHOPOMP
+Perception +12; darkvision, lifesense 60 feet, scent (imprecise) 60 feet
+Languages Abyssal, Celestial, Infernal, Requian
+Skills Acrobatics +8, Athletics +10, Intimidation +9, Religion +4, Stealth +8, Survival +10
+Str +3, Dex +3, Con +4, Int –3, Wis +3, Cha +2
+AC 18; Fort +11, Ref +8, Will +8
+HP 55; Immunities death eﬀects, disease; Resistances negative 5, poison 5
+Speed 30 feet
+Melee Ȱɵ jaws +12 (magical), Damage 1d10+3 piercing plus Grab
+and spirit touch
+Melee Ȱɵ claw +12 (agile, magical), Damage 1d6+3 slashing
+plus spirit touch
+Divine Innate Spells DC 17; 2nd invisibility (×3; self only)
+Pounce Ȱɵ The esobok Strides and then makes a
+Strike. If it began this action hidden, it remains
+hidden until after the Strike.
+Spirit Touch
+An
+esobok’s
+Strikes aﬀect incorporeal
+creatures
+with
+the
+eﬀects of a ghost touch
+property rune and deal
+1d6 negative damage to
+living creatures and 1d6 positive damage to undead.
+Wrench Spirit Ȱɵ (attack, divine, incapacitation, necromancy) Requirement
+A creature is grabbed by the esobok’s jaws; Eﬀect The esobok releases
+the target from the Grab but wrenches its spirit free as it does so. The creature
+must attempt a DC 20 Will save. Creatures without souls (such as most constructs)
+and creatures whose bodies and souls are one (such as most celestials, ﬁends, and
+monitors) that roll a failure or critical failure on the save get a success instead.
+Critical Success The creature is unaﬀected.
+Success The target is stunned 1.
+Failure The esobok wrenches the target’s soul from its body
+into its jaws. Mindless undead creatures of level 2 or lower are
+destroyed, other undead creatures are stunned for 1 round, and all
+other creatures are paralyzed. At the end of each of its turns, a creature
+paralyzed by this eﬀect can attempt a new save to end the eﬀect. The
+paralysis ends automatically if the esobok attempts a jaws Strike or speaks.
+Critical Failure As failure, but as long as a creature is stunned or paralyzed, it is
+also stupeﬁed 2.
+
+================================================================================
+PAGE 210
+================================================================================
+
+PSYCHOPOMP FOES
+Psychopomps’ greatest enemies are
+creatures that devour or steal souls,
+such as astradaemons and night
+hags. Their other opponents include
+necromancers, proteans, and those
+who have unnaturally extended their
+lifespan, such as liches.
+CATRINA
+Not all spirits who enter the Boneyard realize they have died. Catrinas meet these
+souls, helping to convince them of the ﬁnality of their fate to ease a spirit’s passing.
+Catrinas are more likely to intervene when a mortal can’t accept their death. They
+perform their task to keep the afterlife calm, rather than out of true compassion
+for a mortal’s grief. Catrinas only rarely visit the Material Plane, typically to help
+an extremely important mortal pass on.
+Catrinas resemble skeletons dressed in bright ﬂowers and colorful dresses,
+giving them a simultaneously festive and macabre appearance. Though most
+catrinas present as feminine, masculine catrinas still dress in bright colors and
+carry garlands of ﬂowers.
+
+================================================================================
+# EMPEROR COBRA
+================================================================================
+
+sea snake venom
+Sea Snake Venom (poison) Saving Throw DC 16 Fortitude;
+Maximum Duration 4 rounds; Stage 1 1d6 poison damage
+(1 round); Stage 2 1d6 poison damage and enfeebled
+1 (1 round)
+EMPEROR COBRA
+These aggressive serpents infest bogs and
+lowlands. Despite a length of over 16 feet and
+weighing over 200 pounds, they can climb trees
+in seconds. An emperor cobra wards off predators
+by ﬂaring its hood and hissing at its attacker.
+EMPEROR COBRA
+CREATURE 5
+N
+LARGE
+ANIMAL
+Perception +13, low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +11, Athletics +13, Survival +11
+Str +6, Dex +4, Con +4, Int –4, Wis +2, Cha –2
+AC 22; Fort +15, Ref +11, Will +9
+HP 80
+Speed 25 feet, climb 25 feet, swim 25 feet
+Melee Ȱɵ fangs +15 (reach 10 feet), Damage 2d8+8 piercing
+plus emperor cobra venom
+Emperor Cobra Venom (poison) Saving Throw DC 22 Fortitude;
+Maximum Duration 6 rounds; Stage 1 1d8 poison damage (1
+round); Stage 2 1d8 poison damage and drained 1 (1 round);
+Stage 3 2d6 poison damage and drained 2 (1 round)
+Flare Hood Ȱɵ (emotion, fear, mental, visual) The emperor
+cobra ﬂares its hood. Each non–emperor cobra creature
+within a 20-foot emanation must attempt a DC 22 Will save.
+The creature is then temporarily immune for 1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature is frightened 1.
+Failure The creature is frightened 2.
+Critical Failure The creature is frightened 3.
+
+================================================================================
+PAGE 247
+================================================================================
+
+Bestiary 2
+SOLIFUGID BURROWS
+Most species of solifugid lay their
+eggs in burrows. The female doesn’t
+eat while guarding her eggs, and
+thus ﬁghts even more aggressively
+against any creatures she deems
+potential threats to her brood. The
+bodies of wayward adventurers often
+litter such burrows, though this does
+little to deter other fortune-hunters
+from trying their luck in such
+treasure-laden nests.
+Solifugid
+These monstrous vermin have six legs and two large feeding appendages easily
+mistaken for an additional pair of legs. They are often called camel spiders,
+sun spiders, or wind scorpions, despite the fact that they are neither spiders
+nor scorpions.
+GIANT SOLIFUGID
+The smallest of giant solifugids are still large enough to harry desert traders and
+their mounts.
+
+================================================================================
+# EVANGELIST
+================================================================================
+
+
+Bestiary 2
+DESPICABLE ORIGINS
+Velstracs originated with the ﬁrst
+debased thoughts of mortals, which
+divine beings found so deplorable
+that they locked all velstracs away
+in Hell. It wasn’t long, however,
+before the newly formed beings
+escaped their infernal prison to the
+Shadow Plane.
+Material Plane, leading covens of hedonistic mortal ﬂesh-sculptors or serving as
+wardens of horriﬁc dungeons. In regions ruled by infernal powers, evangelists may
+serve as lieutenants or advisors, whispering secret paths to power in exchange for
+mortal’s souls or choice mortal ﬂesh. Evangelists are the same size as humans,
+although with the heavy chains that always drape their forms, they often weigh
+350 pounds or more.
+EVANGELIST
+CREATURE 6
+LE
+MEDIUM
+FIEND
+VELSTRAC
+Perception +13; greater darkvision, painsight
+Languages Common, Infernal, Shadowtongue
+Skills Acrobatics +13, Athletics +15, Crafting +10, Intimidation +15, Religion +11, Torture
+Lore +12
+Str +4, Dex +3, Con +2, Int +0, Wis +1, Cha +1
+Painsight (divination, divine) As augur.
+AC 24; Fort +15, Ref +14, Will +11; +1 status to all saves vs. magic
+HP 90, regeneration 10 (deactivated by good or silver); Immunities cold; Weaknesses
+good 5, silver 5
+Unnerving Gaze (aura, divine, enchantment, fear, mental, visual) 30 feet. When a
+creature ends its turn in the aura, it sees the face of a departed loved one in place
+of the evangelist’s face. The creature must succeed at a DC 21 Will save or become
+frightened 2 (frightened 3 on a critical failure).
+Attack of Opportunity Ǻȓ
+Speed 25 feet
+Melee Ȱɵ chain +17 (disarm, evil, magical, reach 10 feet, trip), Damage
+2d8+7 piercing plus 1d6 persistent bleed and impaling chain
+Animate Chains (divine, transmutation) Chains in the evangelist’s
+vicinity sprout barbs and writhe menacingly. The evangelist can
+make chain Strikes against any creature that is adjacent to an
+unattended chain within 20 feet, in addition to those within the
+reach of the evangelist’s chain Strike.
+Focus Gaze Ȱɵ (concentrate, divine, enchantment, fear, mental, visual)
+The evangelist stares at a creature they can see within 30 feet. The
+target must immediately attempt a Will save against unnerving
+gaze. In addition, if the creature was already frightened, on a failed
+save, the evangelist is concealed from the creature for as long as the
+creature remains frightened. After attempting this save, the creature
+is then temporarily immune until the start of the evangelist’s next turn.
+Impaling Chain When the evangelist critically hits with a chain Strike,
+the target is impaled and anchored in place, becoming grabbed by
+the chain. The creature is unable to recover from persistent bleed
+damage until it gets free (DC 25 Escape).
+SACRISTAN
+Sacristans are failures among the velstracs, creatures
+whose bodies and minds have been utterly broken
+by the velstracs’ torments. These unfortunates are
+assembled from scrap metal, nerveless ﬂesh, and
+bits of darkness into loyal agents who take ecstatic
+pleasure in serving other velstracs. Sacristans
+are empowered by a miniature gateway to the
+Shadow Plane deep in their mouths. By distending
+their jaws, they can howl with the shrieks and
+windstorms of that plane. Sacristans vary in
+appearance but are the size of maimed humans.
+Their features are redundant or absent and they are
+wrapped in barbed and rusted chains.
+
+================================================================================
+PAGE 284
+================================================================================
+
+THE SHADOW FORGE
+Many velstracs outsource the forging
+of their chains to unique velstracs
+known as almoners. These six-armed,
+legless humanoids toil endlessly at
+a great burning foundry called the
+Shadow Forge. Almoners operate
+under mysterious strictures, and are
+just as likely to turn a velstrac away
+empty-handed as not.
+
+================================================================================
+# EREMITE
+================================================================================
+
+
+OTHER VELSTRACS
+There are as many diﬀerent velstracs
+as there are ways to inﬂict pain.
+Other velstracs range in power from
+the relatively weak lampadariuses to
+the powerful phylacators.
+EREMITE
+CREATURE 20
+LE
+MEDIUM
+FIEND
+VELSTRAC
+Perception +34; greater darkvision, painsight, true seeing
+Languages Common, Infernal, Shadowtongue; telepathy 100 feet
+Skills Athletics +35, Deception +38, Diplomacy +36, Intimidation +40, Medicine +36,
+Religion +34, Stealth +36, Torture Lore +36
+Str +9, Dex +6, Con +7, Int +6, Wis +6, Cha +10
+Painsight (divination, divine) As augur.
+AC 45; Fort +37, Ref +32, Will +34; +1 status to all saves vs. magic
+HP 375, regeneration 25 (deactivated by good or silver); Immunities
+cold, fear, nonlethal; Weaknesses good 20, silver 20
+Ignore Pain An eremite’s actions can’t be disrupted due to damage or
+Strikes (such as Attack of Opportunity).
+Paralytic Perfection (aura, divine, enchantment, fear, incapacitation,
+mental, visual) 30 feet. When a creature ends its turn in the aura, it feels
+compelled to oﬀer pieces of its own ﬂesh to the eremite. The creature
+must succeed at a DC 40 Will save or become paralyzed for 1 round.
+Speed 30 feet, ﬂy 50 feet
+Melee Ȱɵ jaws +39 (evil, magical), Damage 4d8+19 piercing plus 2d6 persistent
+bleed and exquisite pain
+Melee Ȱɵ claw +39 (agile, evil, magical), Damage 3d6+19 slashing plus 2d6
+persistent bleed, exquisite pain, and Improved Grab
+Divine Innate Spells DC 42; 9th bind soul, blade barrier, harm (×2), heal (×2), shadow
+blast, shadow walk (at will); 7th dimension door (at will), dimensional lock, plane shift
+(to Material Plane or Shadow Plane only), shadow siphon (at will), warp mind; Cantrips
+(9th) stabilize; Constant (9th) true seeing
+Rituals DC 42; imprisonment
+Evisceration Ȱɵ (attack) Requirements The eremite has a
+creature grabbed; Eﬀect The eremite excises ﬂesh or
+bone from a creature it has grabbed. The target takes
+6d10 persistent bleed damage.
+Exquisite Pain An eremite’s knowledge of pressure
+points and pain centers is unsurpassed. A creature
+hit by an eremite’s melee Strikes must succeed
+at a DC 40 Fortitude save or be stunned 2
+(stunned 4 on a critical failure). A creature
+that critically succeeds is temporarily
+immune for 24 hours.
+Focus
+Gaze
+Ȱɵ
+(concentrate,
+divine,
+enchantment, fear, mental, visual) The eremite
+stares at a creature they can see within 30
+feet. The creature must immediately attempt
+a Will save against paralytic perfection.
+In addition, if the creature was already
+paralyzed, on a failed save, its unnatural
+longing causes it to become doomed 1.
+After attempting this save, the creature is
+then temporarily immune until the start of
+the eremite’s next turn.
+Graft Flesh Ȱɵ Requirement The eremite holds a piece of ﬂesh they collected
+via Evisceration; Eﬀect The eremite attaches the stolen ﬂesh to
+themself. They either regain 100 Hit Points; reduce the
+value of their clumsy, drained, enfeebled, or stupeﬁed
+condition by 3; or reduce the stage of any aﬄiction
+aﬀecting them by 3.
+Shadow Traveler (divine, divination) When an eremite uses plane shift or shadow walk,
+they arrive at exactly their intended destination.
+
+================================================================================
+PAGE 287
+================================================================================
+
+Bestiary 2
+DEADLY WHIPS
+Canny adventurers can harvest a
+defeated violet fungus’s tentacles and
+use them as whips. The whips inﬂict
+violent rot (with the same eﬀects
+and DC as in the violet fungus’s
+stat block) on anything they touch,
+including the wielder, although metal
+gloves such as gauntlets can protect
+against the poison. Such whips can be
+used for 1 hour before they degrade
+and become useless.
+Violet Fungus
+At a glance, a violet fungus might seem to be little more than an unsightly and
+sickeningly purple mushroom of unusual size. Only once one draws closer—
+once whip-like tentacles dripping with ﬂesh-rotting venom slither out from the
+fungus’s cratered cap—does the terrifying truth of this carnivorous toadstool
+become apparent. Many amateur spelunkers have met untimely ends in the
+clutches of this monstrous fungus’s tentacles, since violet fungi are practically
+synonymous with caverns on Golarion.
+Anyone who has ever braved the world’s caves for an extended period of
+time know the dangers of the deadly violet fungus. Darklands dwellers such as
+drow and duergars often bear the long, whip-like scars of at least one brush
+with this vicious plant’s cruel, poison-infused tentacles. Canny subterranean
+trappers and scouts sometimes make use of cultivated violent fungi to catch
+game in the enormous caverns below the surface world. Some Darklands
+peoples also cultivate violet fungi as a means to defend their territory. Xulgaths
+in particular place violet fungi around the perimeters of their settlements as a
+ﬁrst line of defense.

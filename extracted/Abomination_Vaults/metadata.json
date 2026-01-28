@@ -1,7 +1,7 @@
 {
   "source_pdf": "PZO2033E-cropped.pdf",
   "book_name": "Abomination_Vaults",
-  "total_sections": 14,
+  "total_sections": 11,
   "extraction_methods": [
     "pymupdf"
   ],
@@ -15,22 +15,6 @@
       "start_page": 1,
       "end_page": 2,
       "filename": "00_front_matter.txt"
-    },
-    {
-      "type": "chapter",
-      "number": 9,
-      "title": "On the Hunt",
-      "start_page": 3,
-      "end_page": 3,
-      "filename": "09_chapter_9_on_the_hunt.txt"
-    },
-    {
-      "type": "chapter",
-      "number": 10,
-      "title": "To Draw the Baleful Glare 194",
-      "start_page": 4,
-      "end_page": 21,
-      "filename": "10_chapter_10_to_draw_the_baleful_glare_194.txt"
     },
     {
       "type": "chapter",
@@ -102,23 +86,15 @@
       "title": "On the Hunt As any explorer of the Darklands can tell you, the farther you descend, the wilder and stranger things become. As Belcorra dug the Abomination Vaults deeper, she found an extensive system of caverns. Unlike the self-contained Farm level, these caverns were truly wild. At \ufb01rst, she fought against the \ufb01erce denizens and tried to close off the passages to deeper places, but the task was futile. She dubbed the place the Hunting Grounds and left it mostly alone, save for building alliances with the communities there. Belcorra established only a few strongholds in the area, including a lodge, a vault, and the entrance to the Gate of Nhimbaloth, the subterranean temple holding the Empty Vault and the source of Gauntlight\u2019s power.",
       "start_page": 168,
       "end_page": 195,
-      "filename": "09_chapter_9_on_the_hunt_as_any_explorer_of_the_darklands_can_t.txt"
+      "filename": "09_chapter_9_on_the_hunt.txt"
     },
     {
       "type": "chapter",
       "number": 10,
       "title": "To Draw the Baleful Glare Perhaps a few of the vaults\u2019 inhabitants know the true story of Nhimbaloth\u2019s ancient temple\u2014notably Lady\u2019s Whisper and maybe a dread wisp or two\u2014but none will tell the tale. Was it the hub of a cult cast deep into the earth by some ancient enemy, or the headquarters of a Darklands cabal? No matter its original purpose, the complex series of initiation trials are the last challenges that the heroes must face to confront Belcorra. The \ufb01rst is the Challenge of Souls, where unworthy initiates were poisoned, tormented, and had their souls extracted. The second is the Challenge of Despair, where initiates faced their greatest fears. The last test is the Challenge of the Swamp, where initiates demonstrated their mastery over swampland dangers. The heroes are likely to face these",
       "start_page": 196,
-      "end_page": 253,
-      "filename": "10_chapter_10_to_draw_the_baleful_glare_perhaps_a_few_of_the_vau.txt"
-    },
-    {
-      "type": "chapter",
-      "number": 10,
-      "title": "To Draw the Baleful Glare Nhimbaloth Adventure Toolbox Abomination Vaults Glossary and Index The Abomination Vaults Adventure Path is \ufb01lled with many characters, places, and groups to keep straight. This glossary provides a quick reference of key names. Abomination Vaults The sprawling dungeon Belcorra built around and beneath Gauntlight. Absalom The largest city in the Inner Sea region, founded by Aroden and located in the Isle of Kortos.",
-      "start_page": 254,
       "end_page": 258,
-      "filename": "10_chapter_10_to_draw_the_baleful_glare_nhimbaloth_adventure_too.txt"
+      "filename": "10_chapter_10_to_draw_the_baleful_glare.txt"
     }
   ]
 }

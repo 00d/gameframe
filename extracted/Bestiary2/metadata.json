@@ -1,20 +1,514 @@
 {
-  "source_pdf": "PF2e_Bestiary2-cropped.pdf",
-  "book_name": "Bestiary2",
-  "total_sections": 1,
-  "extraction_methods": [
-    "pymupdf"
-  ],
-  "total_pages": 322,
-  "pages_with_content": 322,
+  "source_file": "00_full_content.txt",
+  "total_creatures": 326,
   "sections": [
     {
-      "type": "full_content",
-      "number": 0,
-      "title": "Full Content (Unsplit)",
-      "start_page": 1,
-      "end_page": 322,
-      "filename": "00_full_content.txt"
+      "letter": "A",
+      "filename": "creatures_a.txt",
+      "creature_count": 27,
+      "creatures": [
+        "AHUIZOTL",
+        "AKATA",
+        "ANIMATE DREAM",
+        "ANKOU\b",
+        "ARMY ANT SWARM",
+        "AOLAZ\b",
+        "ASSASSIN VINE",
+        "ATHACH\b",
+        "ATTIC WHISPERER",
+        "AURUMVORAX",
+        "ADULT BRINE DRAGON",
+        "ANCIENT BRINE DRAGON\b",
+        "ADULT CLOUD DRAGON\b",
+        "ANCIENT CLOUD DRAGON\b",
+        "ADULT CRYSTAL DRAGON\b",
+        "ANCIENT CRYSTAL DRAGON\b",
+        "ADULT MAGMA DRAGON\b",
+        "ANCIENT MAGMA DRAGON\b",
+        "ADULT UMBRAL DRAGON\b",
+        "ANCIENT UMBRAL DRAGON\b",
+        "ANANCUS\b",
+        "AMOEBA SWARM",
+        "AKIZENDRI\b",
+        "AZURETZI\b",
+        "AUGNAGAR",
+        "AAPOPH SERPENTFOLK",
+        "AUGUR\b"
+      ]
+    },
+    {
+      "letter": "B",
+      "filename": "creatures_b.txt",
+      "creature_count": 24,
+      "creatures": [
+        "BYTHOS\b",
+        "BASTION ARCHON\b",
+        "BRALANI",
+        "BADGER",
+        "BAOBHAN SITH\b",
+        "BASIDIROND",
+        "BLACK BEAR",
+        "BEBILITH",
+        "BEHIR",
+        "BLINDHEIM\b",
+        "BLINK DOG\b",
+        "BLODEUWEDD\b",
+        "BODAK\b",
+        "BOG STRIDER\b",
+        "BROWNIE",
+        "BABAU\b",
+        "BOTTLENOSE DOLPHIN",
+        "BELKER\b",
+        "BLIZZARDBORN \b",
+        "BROOD LEECH SWARM",
+        "BOG MUMMY\b",
+        "BLUE-RINGED OCTOPUS",
+        "BLACK SCORPION",
+        "BONE PROPHET\b"
+      ]
+    },
+    {
+      "letter": "C",
+      "filename": "creatures_c.txt",
+      "creature_count": 19,
+      "creatures": [
+        "CALATHGAR",
+        "CALIGNI SLAYER",
+        "CARBUNCLE",
+        "CATOBLEPAS",
+        "CAVE FISHER",
+        "CHOKER",
+        "CHUPACABRA",
+        "CULDEWEN",
+        "CORNUGON\b",
+        "CARRION GOLEM\b",
+        "CAIRN LINNORM",
+        "CARNIVOROUS BLOB\b",
+        "CATRINA\b",
+        "CYTHNIGOT",
+        "CHERNOBUE\b",
+        "CAVE SCORPION",
+        "COIL SPY",
+        "CAVERN TROLL\b",
+        "CAIRN WIGHT\b"
+      ]
+    },
+    {
+      "letter": "D",
+      "filename": "creatures_d.txt",
+      "creature_count": 15,
+      "creatures": [
+        "DRACOLISK",
+        "DERGHODAEMON",
+        "DENIZEN OF LENG\b",
+        "DESTRACHAN\b",
+        "DEVOURER",
+        "DIG-WIDGET",
+        "DOPRILLU",
+        "DRAINBERRY BUSH\b",
+        "DRAUGR\b",
+        "DWEOMERCAT\b",
+        "D\u2019ZIRIAK",
+        "DUST MEPHIT\b",
+        "DUNESHAKER SOLIFUGID",
+        "DREAM SPIDER",
+        "DREAD WRAITH\b"
+      ]
+    },
+    {
+      "letter": "E",
+      "filename": "creatures_e.txt",
+      "creature_count": 7,
+      "creatures": [
+        "ELASMOSAURUS\b",
+        "EARTHEN DESTRIER\b",
+        "EMBER FOX\b",
+        "ESOBOK\b",
+        "EMPEROR COBRA\b",
+        "EVANGELIST\b",
+        "EREMITE\b"
+      ]
+    },
+    {
+      "letter": "F",
+      "filename": "creatures_f.txt",
+      "creature_count": 10,
+      "creatures": [
+        "FILTH FIRE \b",
+        "FETCHLING SCOUT\b",
+        "FROGHEMOTH\b",
+        "FROST WORM\b",
+        "FIRE JELLYFISH SWARM",
+        "FLYTRAP LESHY\b",
+        "FJORD LINNORM",
+        "FEN MOSQUITO SWARM",
+        "FIRE YAI",
+        "FROST TROLL\b"
+      ]
+    },
+    {
+      "letter": "G",
+      "filename": "creatures_g.txt",
+      "creature_count": 36,
+      "creatures": [
+        "GIANT ANT",
+        "GIANT BADGER",
+        "GIANT WHIPTAIL CENTIPEDE",
+        "GIANT COCKROACH",
+        "GIANT CRAB",
+        "GIANT CRAWLING HAND",
+        "GYLOU",
+        "GIANT DRAGONFLY NYMPH\b",
+        "GIANT DRAGONFLY\b",
+        "GRANITE GLYPTODONT\b",
+        "GHONHATINE\b",
+        "GIANT MAGGOT\b",
+        "GIANT FLY\b",
+        "GIANT FROG\b",
+        "GLASS GOLEM\b",
+        "GORGON\b",
+        "GOSREG\b",
+        "GRENDEL\b",
+        "GRIMSTALKER\b",
+        "GRINDYLOW",
+        "GRIPPLI SCOUT\b",
+        "GRODAIR\b",
+        "GIANT HIPPOCAMPUS\b",
+        "GIANT JELLYFISH",
+        "GIANT LEECH",
+        "GIANT CHAMELEON",
+        "GIANT MOSQUITO",
+        "GIANT AMOEBA",
+        "GRAY OOZE",
+        "GIANT SLUG",
+        "GIANT SOLIFUGID",
+        "GIANT SQUID",
+        "GIANT TICK\b",
+        "GIANT TOAD\b",
+        "GIANT SNAPPING TURTLE\b",
+        "GIANT WOLVERINE\b"
+      ]
+    },
+    {
+      "letter": "H",
+      "filename": "creatures_h.txt",
+      "creature_count": 10,
+      "creatures": [
+        "HOUND ARCHON",
+        "HEZROU\b",
+        "HAMATULA\b",
+        "HADROSAURID\b",
+        "HELLCAT\b",
+        "HIPPOCAMPUS\b",
+        "HIPPOGRIFF\b",
+        "HIPPOPOTAMUS\b",
+        "HODAG\b",
+        "HOUND OF TINDALOS\b"
+      ]
+    },
+    {
+      "letter": "I",
+      "filename": "creatures_i.txt",
+      "creature_count": 14,
+      "creatures": [
+        "INVIDIAK\b",
+        "IGUANODON",
+        "ICE MEPHIT\b",
+        "ICICLE SNAKE\b",
+        "ICEWYRM \b",
+        "IRNAKURSE\b",
+        "ICE GOLEM\b",
+        "INTELLECT DEVOURER\b",
+        "IRLGAUNT\b",
+        "ISQULUG\b",
+        "ICE YAI\b",
+        "IFRIT PYROCHEMIST\b",
+        "IMENTESH\b",
+        "INTERLOCUTOR\b"
+      ]
+    },
+    {
+      "letter": "J",
+      "filename": "creatures_j.txt",
+      "creature_count": 3,
+      "creatures": [
+        "JABBERWOCK",
+        "JYOTI\b",
+        "JOTUND TROLL\b"
+      ]
+    },
+    {
+      "letter": "K",
+      "filename": "creatures_k.txt",
+      "creature_count": 2,
+      "creatures": [
+        "KELPIE",
+        "KORRED"
+      ]
+    },
+    {
+      "letter": "L",
+      "filename": "creatures_l.txt",
+      "creature_count": 9,
+      "creatures": [
+        "LIVING THUNDERCLAP\b",
+        "LIVING BOULDER\b",
+        "LENG SPIDER",
+        "LEPRECHAUN",
+        "LERRITAN",
+        "LEUCROTTA",
+        "LEYDROTH",
+        "LURKER IN LIGHT",
+        "LUNAR NAGA"
+      ]
+    },
+    {
+      "letter": "M",
+      "filename": "creatures_m.txt",
+      "creature_count": 17,
+      "creatures": [
+        "MARUT",
+        "MOVANIC DEVA",
+        "MONADIC DEVA",
+        "MELADAEMON",
+        "MELODY ON THE WIND\b",
+        "MAGMA SCORPION\b",
+        "MIST STALKER \b",
+        "MASTODON\b",
+        "MARSH GIANT\b",
+        "MEGALANIA",
+        "MANDRAGORA",
+        "MARRMORA\b",
+        "MOHRG",
+        "MOONFLOWER\b",
+        "MORLOCK",
+        "MUDWRETCH",
+        "MANTA RAY"
+      ]
+    },
+    {
+      "letter": "N",
+      "filename": "creatures_n.txt",
+      "creature_count": 10,
+      "creatures": [
+        "NABASU",
+        "NALFESHNEE",
+        "NUGLUB\b",
+        "NECROPHIDIUS",
+        "NEOTHELID",
+        "NEREID",
+        "NIXIE\b",
+        "NORN",
+        "NUCKELAVEE",
+        "NYOGOTH"
+      ]
+    },
+    {
+      "letter": "O",
+      "filename": "creatures_o.txt",
+      "creature_count": 8,
+      "creatures": [
+        "OLETHRODAEMON\b",
+        "OSYLUTH",
+        "ORCA",
+        "OOZE MEPHIT\b",
+        "ONIDOSHI",
+        "OREAD GUARD\b",
+        "OGRE SPIDER",
+        "OSTIARIUS\b"
+      ]
+    },
+    {
+      "letter": "P",
+      "filename": "creatures_p.txt",
+      "creature_count": 8,
+      "creatures": [
+        "PLANETAR\b",
+        "POLAR BEAR",
+        "PISCODAEMON",
+        "PURRODAEMON",
+        "PACHYCEPHALOSAURUS",
+        "PELUDA\b",
+        "PERYTON\b",
+        "PETITIONER\b"
+      ]
+    },
+    {
+      "letter": "Q",
+      "filename": "creatures_q.txt",
+      "creature_count": 3,
+      "creatures": [
+        "QUETZ COUATL",
+        "QUICKLING",
+        "QUOPPOPAK"
+      ]
+    },
+    {
+      "letter": "R",
+      "filename": "creatures_r.txt",
+      "creature_count": 8,
+      "creatures": [
+        "REEF OCTOPUS\b",
+        "RADIANT WARDEN",
+        "RAVEN SWARM",
+        "RAVENER",
+        "RAVENER HUSK",
+        "REVENANT",
+        "RHINOCEROS",
+        "RUSALKA"
+      ]
+    },
+    {
+      "letter": "S",
+      "filename": "creatures_s.txt",
+      "creature_count": 38,
+      "creatures": [
+        "SOLAR",
+        "STAR ARCHON",
+        "SARGLAGON",
+        "SPINOSAURUS\b",
+        "SHADOW DRAKE\b",
+        "SEA DRAKE\b",
+        "SPARK BAT\b",
+        "SAND SENTRY\b",
+        "STRIDING FIRE\b",
+        "STEAM MEPHIT\b",
+        "SPEAR FROG\b",
+        "SHADOW GIANT\b",
+        "SUNFLOWER LESHY\b",
+        "SHOAL LINNORM",
+        "SPIRIT NAGA\b",
+        "SLIME MOLD",
+        "SULI DUNE DANCER\b",
+        "SYLPH SNEAK\b",
+        "SHOGGTI",
+        "STINGRAY",
+        "SANDPOINT DEVIL",
+        "SARD",
+        "SCARECROW",
+        "SCEADUINAR\b",
+        "SCYTHE TREE\b",
+        "SHOCKER LIZARD",
+        "SKAVELING",
+        "SKRIK NETTLE",
+        "SKULK\b",
+        "SEA SNAKE",
+        "SOUL EATER",
+        "SPECTER",
+        "SPIRAL CENTURION",
+        "SPORTLEBORE SWARM",
+        "SPRIGGAN BULLY",
+        "SPRIGGAN WARLORD\b",
+        "STYGIRA\b",
+        "SACRISTAN\b"
+      ]
+    },
+    {
+      "letter": "T",
+      "filename": "creatures_t.txt",
+      "creature_count": 17,
+      "creatures": [
+        "THELETOS",
+        "TRUMPET ARCHON\b",
+        "TITAN CENTIPEDE",
+        "THANADAEMON\b",
+        "TAIGA GIANT\b",
+        "TAIGA LINNORM\b",
+        "THULGANT",
+        "TATZLWYRM",
+        "TENDRICULOS\b",
+        "THRASFYR",
+        "THUNDERBIRD",
+        "TICK SWARM\b",
+        "TOTENMASKE\b",
+        "TRITON\b",
+        "TWO-HEADED TROLL\b",
+        "TROLLHOUND\b",
+        "TWIGJACK\b"
+      ]
+    },
+    {
+      "letter": "U",
+      "filename": "creatures_u.txt",
+      "creature_count": 4,
+      "creatures": [
+        "UNDINE HYDROMANCER\b",
+        "UMONLEE\b",
+        "URDEFHAN WARRIOR\b",
+        "URDEFHAN TORMENTOR\b"
+      ]
+    },
+    {
+      "letter": "V",
+      "filename": "creatures_v.txt",
+      "creature_count": 13,
+      "creatures": [
+        "VERANALLIA\b",
+        "VROLIKAI\b",
+        "VEXGIT\b",
+        "VERDUROUS OOZE",
+        "VANTH\b",
+        "VAMPIRE SQUID",
+        "VRYKOLAKAS SPAWN\b",
+        "VRYKOLAKAS MASTER\b",
+        "VRYKOLAKAS ANCIENT\b",
+        "VASPERCHAM\b",
+        "VIOLET FUNGUS\b",
+        "VIPER VINE\b",
+        "VOID ZOMBIE\b"
+      ]
+    },
+    {
+      "letter": "W",
+      "filename": "creatures_w.txt",
+      "creature_count": 10,
+      "creatures": [
+        "WOOD GIANT\b",
+        "WOOD GOLEM\b",
+        "WATER YAI\b",
+        "WATER ORM\b",
+        "WEREBOAR\b",
+        "WERETIGER\b",
+        "WITCHFIRE\b",
+        "WITCHWYRD\b",
+        "WOLVERINE\b",
+        "WORM THAT WALKS CULTIST\b"
+      ]
+    },
+    {
+      "letter": "X",
+      "filename": "creatures_x.txt",
+      "creature_count": 1,
+      "creatures": [
+        "XILL\b"
+      ]
+    },
+    {
+      "letter": "Y",
+      "filename": "creatures_y.txt",
+      "creature_count": 9,
+      "creatures": [
+        "YOUNG BRINE DRAGON\b",
+        "YOUNG CLOUD DRAGON\b",
+        "YOUNG CRYSTAL DRAGON\b",
+        "YOUNG MAGMA DRAGON\b",
+        "YOUNG UMBRAL DRAGON\b",
+        "YAMARAJ\b",
+        "YELLOW MUSK CREEPER\b",
+        "YELLOW MUSK BRUTE\b",
+        "YETH HOUND\b"
+      ]
+    },
+    {
+      "letter": "Z",
+      "filename": "creatures_z.txt",
+      "creature_count": 4,
+      "creatures": [
+        "ZELEKHUT\b",
+        "ZEBUB",
+        "ZYSS SERPENTFOLK\b",
+        "ZOMOK\b"
+      ]
     }
   ]
 }

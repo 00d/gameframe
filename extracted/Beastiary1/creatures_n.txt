@@ -1,0 +1,800 @@
+# Bestiary - Creatures: N
+# Count: 8 creatures
+
+
+================================================================================
+# NIGHT HAG
+================================================================================
+
+plus Grab
+Bonds of Iron ʚʖ (attack, conjuration, occult) Once per day, an annis
+hag can cause a cage built of cold iron ﬁngernails to spring out of
+nothingness at a range of up to 30 feet, attempting an Athletics
+check to Grapple against the target’s Fortitude DC; if the target has a
+weakness to cold iron, the annis hag gains a +2 circumstance bonus
+to this check. Unlike a normal Grapple, the annis hag doesn’t need
+to be within reach and can move as she pleases, and a successful
+attempt lasts until the creature escapes (DC 24), causing the cage to
+crumble into rust. Any creature can attempt to destroy the cage by
+attacking it. It has an AC of 19, Hardness 10, and 40 Hit Points.
+Change Shape Ȱɵ (concentrate, occult, polymorph, transmutation) The
+hag can take on the appearance of any Medium female humanoid. This
+doesn’t change her Speed or her attack and damage bonuses with her
+Strikes but might change the damage type her Strikes deal (typically to
+bludgeoning).
+Rend Ȱɵ claw
+Night Hag
+Night hags are thieves and merchants of mortal souls.
+These foul creatures collect souls in dark gems or
+crystalline jars to sell in ﬁendish markets, and are
+themselves empowered by potent magic jewels known
+as heartstones. They haunt the Ethereal Plane, where
+they prey upon mortals in their dreams, debilitating
+them with horriﬁc nightmares as they rest. A night
+hag may ﬁnd a particular target and haunt them
+continuously over the course of weeks, slowly and
+cruelly breaking down the victim’s will and ability to
+resist, until their soul is forfeit.
+A night hag is a canny mastermind and soul broker, willing to
+consider any deal as long as she is convinced she has the upper hand.
+Although a night hag ﬁnds it easy to travel the Ethereal Plane and
+prey upon helpless souls that can’t ﬁght back, these souls are also the
+least desirable to the evil outsiders the night hag bargains with, and
+so a night hag gathers allies and minions that allow her to prey on
+more potent souls without personally risking herself. Their favored
+minions are nightmares, with whom they share a special bond.
+Above all, night hags avoid ﬁghting foes that can harry them on the Ethereal
+Plane, picking ﬁghts only when they are certain they can escape.
+NIGHT HAG
+CREATURE 9
+NE
+MEDIUM
+FIEND
+HAG
+HUMANOID
+Perception +18; darkvision
+Languages Abyssal, Aklo, Celestial, Common, Infernal
+
+================================================================================
+PAGE 204
+================================================================================
+
+OTHER HAGS
+The four types of hags presented
+here are but the most notorious of
+their kind. Others—such as the blood
+hag, moon hag, storm hag, and
+winter hag—plague society in other
+regions of the world.
+Skills Arcana +18, Deception +18, Diplomacy +18, Intimidation +14, Occultism +20,
+Religion +20
+Str +5, Dex +4, Con +6, Int +4, Wis +5, Cha +3
+Items heartstone
+Coven A night hag adds dominate, nightmare, scrying, and spellwrack to her coven’s spells.
+Nightmare Rider When a night hag rides a nightmare (page 244), the nightmare also
+gains the night hag’s status bonus to saves against magic, and both the hag and rider
+beneﬁt when the night hag uses her heartstone’s ethereal jaunt innate spell.
+AC 28; Fort +19, Ref +17, Will +18, +2 status to all saves vs. magic, –2 to all saves if the
+night hag does not have her heartstone
+HP 170; Immunities sleep; Weaknesses cold iron 10; Resistances mental 10
+Speed 25 feet
+Melee Ȱɵ jaws +20 (magical), Damage 2d8+8 piercing plus 1d6 evil and
+Abyssal plague
+Melee Ȱɵ claw +20 (agile, magical), Damage 2d10+8 slashing plus 1d6 evil
+Occult Innate Spells DC 28; 9th bind soul (at will; from heartstone),
+ethereal jaunt (at will; from heartstone); 8th dream council; 5th
+nightmare, shadow blast (×2, from heartstone); 3rd dream
+message (at will), magic missile (at will); 2nd invisibility
+(at will); 1st ray of enfeeblement (at will), sleep (at will);
+Constant (3rd) detect magic; (2nd) detect alignment (all
+alignments simultaneously)
+Abyssal Plague (disease); A creature can’t recover from
+drained until abyssal plague is cured. Saving Throw DC 28
+Fortitude; Stage 1 Drained 1 (1 day); Stage 2 Drained increases
+by 2 (1 day)
+Change Shape Ȱɵ (concentrate, occult, polymorph, transmutation) The night
+hag can take on the appearance of any Medium female humanoid. This
+doesn’t change her Speed or her attack and damage bonuses with her
+Strikes, but might change the damage type her Strikes deal (typically
+to bludgeoning).
+Dream Haunting (enchantment, occult, mental) If a night hag is
+ethereal and hovering over a sleeping chaotic or evil creature,
+she can ride the victim’s back until dawn. The creature
+endures tormenting dreams as the hag casts nightmare on
+it, and is exposed to abyssal plague. Any drained caused
+by dream haunting is cumulative. Only an ethereal being
+can confront the night hag and stop her dream haunting.
+Spell Ambush A creature ﬂat-footed to the night hag takes a
+–2 circumstance penalty to checks and DCs to defend against
+her spells.
+HEARTSTONE
+ITEM 9
+ABJURATION
+INVESTED
+OCCULT
+Price 600 gp (200 gp when nonmagical)
+Usage worn; Bulk —
+This gemstone grants its wearer a +2 item bonus
+to saving throws.
+Each heartstone is powered by the spirit of
+a speciﬁc night hag. If it’s separated from her for 24 hours (or she’s been dead for 24
+hours), it becomes a nonmagical gemstone. A heartstone allows the hag to use additional
+occult innate spells: ethereal jaunt (9th level) and bind soul at will, and shadow blast
+twice per day.
+Activate Ȱɵ command; Requirement You must be touching the heartstone. Eﬀect
+The heartstone attempts to counteract one disease aﬀecting you (counteract level 5,
+counteract modiﬁer +18).
+Craft Requirements You must be a night hag.
+
+================================================================================
+PAGE 205
+================================================================================
+
+Bestiary
+HARPY EXILES
+Most harpies are cruel and
+sadistic, but now and then a harpy
+manages to escape from its family
+and becomes exposed to the
+wider world. Eyes opened, these
+harpy exiles are almost always
+more mild-mannered,
+cleanly, and open
+to non-combat
+interactions.
+Harpy
+Harpies are ﬁlthy amalgamations of human and bird, resembling feral humans
+with wings, talons, and mouths full of sharp teeth. They use captivating songs
+to lure creatures in, then murder them while they stand transﬁxed. They enjoy
+causing confusion and fear in their prey before they strike, believing it creates a
+savory ﬂavor in the ﬂesh. Harpies can eat most creatures but strongly prefer sapient
+prey—humans and elves are their favorite. Although harpies will eat goblins if
+sufﬁciently hungry, they dislike their ﬂavor and avoid eating them if possible. This
+doesn’t comfort goblins, of course, who have a particularly strong fear of harpies.
+Because their aeries often reek with the gore of their kills and careless spatters
+of guano, harpies carry a distinctly vile scent that canny travelers associate with
+danger. Harpies who roost close to civilization make better efforts to keep
+clean, though these efforts have mixed results.
+Harpies live in family groups or larger clans. They
+are lightweight despite their size, standing 5 feet tall
+and weighing only around 90 pounds. While most use
+relatively simple weapons, some harpies take pride in
+learning and mastering the use of more complex tools of
+war such as swords and slings. Those who master the use of
+the bow, in particular, are often regarded as heroes among
+their kind and terrors among their victims.
+
+================================================================================
+# NESSIAN WARHOUND
+================================================================================
+
+evil and 1d6 ﬁre
+Breath Weapon Ȱɵ (divine, evocation, ﬁre) The hell hound
+breathes ﬂames that deal 4d6 ﬁre damage to all creatures
+in a 15-foot cone (DC 19 basic Reﬂex save). The hell hound
+can’t use Breath Weapon again for 1d4 rounds. If the hell
+hound would take ﬁre damage or be targeted by a ﬁre eﬀect,
+its Breath Weapon recharges.
+Nessian Warhound
+Believed to be bred by the Prince of Darkness himself within
+vast kennels in the infernal realm of Nessus, Nessian
+warhounds are the favored guards and hunting hounds of
+powerful ﬁends and, rarely, those mortals who worship
+them and have earned their favor.
+NESSIAN WARHOUND
+CREATURE 9
+LE
+LARGE
+BEAST
+FIEND
+FIRE
+Perception +19; darkvision, scent (imprecise) 120 feet
+Languages Infernal (can’t speak any language)
+Skills Acrobatics +18, Athletics +19, Stealth +18, Survival +20
+(+22 to Track)
+Str +6, Dex +5, Con +5, Int –2, Wis +4, Cha –2
+AC 28; Fort +21, Ref +19, Will +16
+HP 150; Immunities ﬁre; Weaknesses cold 10
+Hellish Revenge Ǻȓ Trigger The Nessian warhound is
+critically hit by any Strike. Eﬀect The Nessian warhound’s
+Breath Weapon recharges. It can immediately use it as
+part of this reaction.
+Speed 40 feet
+Melee Ȱɵ jaws +21 (magical), Damage 2d8+6
+piercing plus 1d6 evil and 2d6 ﬁre
+Breath Weapon Ȱɵ (divine, evocation, ﬁre) The
+warhound breathes ﬂames that deal 10d6 ﬁre damage to all
+creatures in a 15-foot cone (DC 28 basic Reﬂex save.) The
+warhound can’t use Breath Weapon again for 1d4 rounds. If
+the Nessian warhound would take ﬁre damage or be targeted
+by a ﬁre eﬀect, its Breath Weapon recharges.
+
+================================================================================
+PAGE 207
+================================================================================
+
+Bestiary
+HOBGOBLINS AND MAGIC
+Hobgoblins generally distrust magic,
+especially arcane magic, which
+they derisively call “elf magic.”
+In the absence of magic, they
+wholeheartedly embrace alchemy,
+combining it with their natural
+aptitude for engineering to great
+destructive eﬀect. They grudgingly
+accept divine magic, due to a
+grudging respect for the power of
+healing magic in times of war.
+Hobgoblin
+Hobgoblins may appear to outsiders to be the most civilized of goblinkind, but
+their civilization is hardly one of kindness and equality—instead, they revel
+in all that is militaristic, tyrannical, cruel, and destructive. Hobgoblins are
+singularly devoted to war, and their entire culture is built upon fostering and
+maintaining conﬂict while simultaneously proving their superiority in battle.
+Hobgoblins are highly organized, and they work efﬁciently and effectively in
+groups, whether that group is a small raiding party, a roving war band, or
+a fully regimented army. Hobgoblin rulers require little provocation before
+declaring war, and more often than not, such wars are waged to gain slaves or
+territory. Physically, hobgoblins stand about as tall as humans and have gray,
+ashen skin.
+Hobgoblin society is organized along military lines, and every hobgoblin
+is effectively a member of the army. Each hobgoblin in a community has a
+rank in the military hierarchy, and individuals are naturally ambitious and
+obsessed with advancement. Hobgoblins are constantly expected to prove that
+they’re fearless, ruthless, cunning, and strong. Demonstrating such aptitudes
+is an individual hobgoblin’s best hope for promotion through the ranks, but
+failure leads only to cruel exploitation at the hands of their superiors. Though
+brutal, hobgoblin society is a true meritocracy, and all hobgoblins, regardless
+of age, gender, or birth, wield authority and earn respect from their peers
+based on their skill in battle. Even those individuals who serve in non-combat
+roles in hobgoblin society—blacksmiths, builders, cooks, messengers,
+quartermasters, and the like—know that they perform vital jobs that
+support the larger hobgoblin army, though they rarely rise above the
+rank of common soldier. Everyone contributes to the larger
+whole, ensuring that hobgoblin society is the strongest and
+most efﬁcient it can be, and anyone who fails to do so
+is culled from the army and this hobgoblin society as
+dead weight. Hobgoblins don’t usually engage in trade
+with other races, or even with other hobgoblin tribes,
+preferring to take what they want by force.
+Hobgoblin Soldier
+Soldiers make up the bulk of hobgoblin society,
+whether that society is a village or a military unit.
+
+================================================================================
+# NIGHTMARE
+================================================================================
+
+
+Bestiary
+NIGHTMARE STEEDS
+Nightmares allow only the evilest
+of creatures to ride them and are
+willing partners in destruction
+those creatures inﬂict. Night hags
+are particularly well known to
+associate with nightmares.
+Nightmare
+Nightmares are ﬂaming equine harbingers of death.
+NIGHTMARE
+CREATURE 6
+NE
+LARGE
+BEAST
+FIEND
+Perception +14; darkvision
+Languages Abyssal, Daemonic, Infernal
+Skills Acrobatics +13, Athletics +16, Intimidation +14, Survival +12
+Str +6, Dex +3, Con +3, Int +1, Wis +4, Cha +2
+Smoke (aura) 15 feet. The nightmare continually exhales black smoke that creates
+concealment in an aura around it. Nightmares and their riders can see through
+this smoke. A creature that begins its turn in the area becomes sickened 2 (DC 23
+Fortitude negates) and is then temporarily immune sickness from the smoke
+for 1 minute. The nightmare, its rider, any creature currently holding
+its breath (or that does not need to breathe), and any creature
+immune to poison are immune to the aura’s sickened eﬀect but
+not the concealment.
+AC 24; Fort +15, Ref +15, Will +12
+HP 100; Resistances ﬁre 10
+Speed 40 feet, ﬂy 90 feet
+Melee Ȱɵ jaws +16 (evil, magical), Damage 2d10+6 piercing plus
+1d6 evil
+Melee Ȱɵ hoof +16 (agile, evil, ﬁre, magical), Damage
+1d8+6 bludgeoning plus 1d6 evil and 1d8 ﬁre
+Divine Innate Spells DC 24; 7th plane shift (self and
+rider only)
+Flaming Gallop ʚʖ (ﬁre) The nightmare
+Strides or Flies up to triple its Speed.
+Its hooves burst with intense
+ﬂame, dealing 3d6 ﬁre damage
+(DC 24 basic Reﬂex save) once
+to each creature other than
+the nightmare’s rider that the
+nightmare moves adjacent to during its gallop.
+Greater Nightmare
+The enormous greater nightmare is a more dangerous variety
+of nightmare, particularly valued for its ability to invade
+other realities with its rider.
+
+================================================================================
+# NILITH
+================================================================================
+
+
+FROM THE DREAMLANDS
+The nilith’s association with the
+remote and little-understood
+Dreamlands, also known as the
+Dimension of Dreams, is unusual.
+They draw power from a latent
+dreaming connection to that
+realm, but they are native to the
+Material Plane.
+Nilith
+The sleek, dark niliths resemble hairless, emaciated tree sloths. These creatures
+are intensely dangerous and fearsome, with red glowing eyes, wicked claws, and
+mouths full of needlelike teeth. Niliths feed off the emotions, fears, and ﬂesh of
+the living, and folktales posit that those who have nightmares of these creatures
+are fated to one day be eaten by them. Niliths draw intense joy from tormenting
+sapient creatures, often focusing their predations on the pious and the just, from
+whom they draw forth their most basic fears and worst thoughts and revel in their
+victims’ subsequent terror. More often than not, these despicable manipulators
+wish to drive their victims into madness and even to suicide. Most niliths lack the
+patience to spend too much time fully tearing down an individual, and when a
+nilith tires of its current plaything and becomes bored with its particular thoughts
+and fears, it murders the quarry before feeding on its ﬂesh and moving onto the
+next victim.
+Niliths are actually extensions of much deadlier creatures that dwell in a distant
+dimension beyond dreams—in a way, niliths are little more than remote feeding
+machines for the unknown alien entities to which they are connected. Scholars
+and dimensional travelers have attempted to uncover the exact mechanisms of
+this mysterious connection, but they have yet to decipher the truth. Indeed, many
+who investigate the nature of the nilith’s bond are driven to madness before
+getting anywhere close. The odd connection to otherworldly beings might help
+explain the longevity of these creatures, as it is believed that niliths can live for
+thousands of years.
+Thankfully for others, niliths are solitary creatures that hate the company of
+their own kind, likely because these harbingers of nightmares have no wish to
+taste the horrors they bring to others.
+NILITH
+CREATURE 10
+NE
+MEDIUM
+ABERRATION
+Perception +19; darkvision
+Languages Aklo, Common; telepathy 30 feet
+Skills Acrobatics +21, Athletics +17, Intimidation +23,
+Occultism +19, Stealth +21, Survival +17
+Str +3, Dex +5, Con +4, Int +3, Wis +3, Cha +5
+AC 32; Fort +17, Ref +20, Will +20
+HP 150; Resistances mental 10, physical 5
+(except silver)
+Speed 25 feet, climb 30 feet
+Melee Ȱɵ claw +23 (agile, ﬁnesse, magical),
+Damage 2d10+9 slashing plus Grab
+Melee Ȱɵ fangs +23 (ﬁnesse, magical),
+Damage 2d12+9 piercing
+Occult
+Innate
+Spells
+DC
+29;
+5th
+hallucination, mind probe; 4th blink,
+confusion,
+crushing
+despair,
+dream
+message, invisibility (at will, self only),
+nightmare; 3rd mind reading (at will);
+Cantrips (5th) mage hand, message, read
+aura, shield
+Mind Crush Ȱɵ (enchantment, mental, occult);
+Requirements The nilith has a creature grabbed.
+Eﬀect The nilith reaches into the mind of the grabbed
+creature and implants disjointed images of the victim’s
+worst fears and nightmares. The grabbed creature takes 6d6
+mental damage (DC 31 basic Will save). On a critical failure, the target is also
+aﬀected as though by feeblemind, and it must attempt a second Will save against
+that eﬀect.
+
+================================================================================
+PAGE 247
+================================================================================
+
+Bestiary
+INSPIRATIONS FOR ART
+Nymphs are living manifestations
+of beauty and grace, and as such
+they are often the subjects of
+art—sculpture and paintings in
+particular. Promising a nymph
+to immortalize them in a work
+of art can be an excellent way to
+secure that nymph’s favor, but one
+should take care to ensure that the
+nymph admires and is proud of the
+artistic eﬀort’s ﬁnal result, lest the
+nymph be insulted and lash out
+with her powerful magic.
+Nymph
+Nymphs are a family of fey that take the form of beautiful humanoids with elven
+features and have a deep association with the natural world. The most common
+of their kind are the dryads, which are spirits that embody great trees, but many
+other kinds of nymphs exist, including naiads, who watch over bodies of water. All
+nymphs are guardians of some element of nature, typically a speciﬁc tree or pond,
+or even—in the case of nymph queens—whole forests or massive bodies of water.
+Naiad
+Naiads protect streams, ponds, springs, and other natural bodies of fresh water. While
+most naiads lead solitary lives close to their chosen ward, sometimes these nymphs
+congregate in coven-like groups where river tributaries meet, performing great magic
+and blessing the waters of the land. Because naiads’ bonds to their bodies of water
+permit more ﬂexibility, they are the nymphs most likely to interact with humanoids
+and even visit their settlements on occasion. Unlike other nymphs, naiads occasionally
+become adventurers, especially when dark forces seek to despoil nature or otherwise
+threaten the land, joining forces with others to prevent the corruption of nature.
+
+================================================================================
+# NAIAD
+================================================================================
+
+
+Bestiary
+INSPIRATIONS FOR ART
+Nymphs are living manifestations
+of beauty and grace, and as such
+they are often the subjects of
+art—sculpture and paintings in
+particular. Promising a nymph
+to immortalize them in a work
+of art can be an excellent way to
+secure that nymph’s favor, but one
+should take care to ensure that the
+nymph admires and is proud of the
+artistic eﬀort’s ﬁnal result, lest the
+nymph be insulted and lash out
+with her powerful magic.
+Nymph
+Nymphs are a family of fey that take the form of beautiful humanoids with elven
+features and have a deep association with the natural world. The most common
+of their kind are the dryads, which are spirits that embody great trees, but many
+other kinds of nymphs exist, including naiads, who watch over bodies of water. All
+nymphs are guardians of some element of nature, typically a speciﬁc tree or pond,
+or even—in the case of nymph queens—whole forests or massive bodies of water.
+Naiad
+Naiads protect streams, ponds, springs, and other natural bodies of fresh water. While
+most naiads lead solitary lives close to their chosen ward, sometimes these nymphs
+congregate in coven-like groups where river tributaries meet, performing great magic
+and blessing the waters of the land. Because naiads’ bonds to their bodies of water
+permit more ﬂexibility, they are the nymphs most likely to interact with humanoids
+and even visit their settlements on occasion. Unlike other nymphs, naiads occasionally
+become adventurers, especially when dark forces seek to despoil nature or otherwise
+threaten the land, joining forces with others to prevent the corruption of nature.
+NAIAD
+CREATURE 1
+CG
+MEDIUM
+AMPHIBIOUS
+FEY
+NYMPH
+WATER
+Perception +6; low-light vision
+Languages Common, Elven, Sylvan; speak with animals
+Skills Acrobatics +6, Athletics +3, Diplomacy +7, Nature +6, Stealth +6, Survival +4
+Str +0, Dex +3, Con +0, Int +1, Wis +1, Cha +4
+Wild Empathy The naiad can use Diplomacy to Make an Impression on and make very
+simple Requests of animals.
+AC 16; Fort +3, Ref +6, Will +8
+HP 20; Weaknesses cold iron 3; Resistances ﬁre 3
+Water Dependent A naiad bonds to a spring, pool, pond, or similar-sized water feature.
+While within 300 feet of her bonded body of water, she can use her innate tidal surge
+at will. She doesn’t recover Hit Points or reduce the drained condition when resting
+beyond that range. Unlike most other nymphs, she doesn’t suﬀer penalties from being
+apart from her bonded body of water. A naiad can perform a 24-hour ritual to bond
+herself to a new body of water.
+Speed 25 feet, swim 25 feet
+Melee Ȱɵ aqueous ﬁst +8 (agile, ﬁnesse, magical, water), Damage 1d6 bludgeoning
+Primal Innate Spells DC 17; 1st charm, create water, tidal surge (Core Rulebook 397);
+Constant (2nd) speak with animals
+Water Healing ʚʖ (concentrate, healing, necromancy, primal) While within her bonded
+body of water (see water dependent above), the naiad heals 1 Hit Point every 10 minutes.
+Dryad
+Dryads are fey guardians of the trees and creatures who dwell in wooded areas.
+They prefer using indirect methods to dissuade those who would harm their sacred
+groves and beloved forests, but they are not above using enchantments to enlist
+the aid of allies when evil threats cannot be dissuaded with words alone. In times
+of peace, dryads happily live secluded lives inside their trees, and a community at
+harmony with nature might not even realize a dryad lives nearby.
+Though they watch over all the woods around them, dryads are inextricably tied
+to a speciﬁc tree, usually an oak. Dryads who are bonded to another type of tree
+are fundamentally the same, but they may differ in temperament and appearance to
+match their ward. For instance, kraneiai, or cherry-tree dryads, have beautiful pink
+coloration and concern themselves with the fragile beauty of life.
+
+================================================================================
+# NAIAD QUEEN
+================================================================================
+
+NAIAD QUEEN
+CREATURE 7
+UNCOMMON
+CG
+MEDIUM
+AMPHIBIOUS
+FEY
+NYMPH
+WATER
+Perception +18; low-light vision, speak with animals
+Languages Common, Elven, Sylvan
+Skills Acrobatics +16, Athletics +9 (+13 to Swim), Diplomacy +20, Medicine +15, Nature
++15, Performance +20, Stealth +14, Survival +15
+Str +0, Dex +5, Con +4, Int +3, Wis +4, Cha +7
+Tied to the Land
+Wild Empathy As naiad
+AC 26; Fort +15, Ref +18, Will +17
+HP 100; Weaknesses cold iron 10; Resistances ﬁre 10
+Nymph’s Beauty (aura, emotion, enchantment, mental, primal, visual) 30 feet. DC 23. On a
+failed save, the target is stunned 1 for this turn and whenever it begins its turn within 30
+feet of the naiad queen for the next 24 hours, even if it can’t see her on subsequent turns.
+Speed 25 feet, swim 25 feet
+Melee Ȱɵ aqueous ﬁst +17 (agile, ﬁnesse, magical, water), Damage 2d6+6 bludgeoning
+Primal Prepared Spells DC 28, attack +18; 4th heal, summon animal; 3rd earth bind,
+haste, heal; 2nd animal messenger, faerie ﬁre, tree shape; 1st ﬂeet step, gust of wind,
+negate aroma; Cantrips (4th) detect magic, guidance, light, ray of frost, stabilize
+
+================================================================================
+PAGE 250
+================================================================================
+
+NYMPH TREASURES
+Nymphs sometimes carry magical
+trinkets or wear enchanted clothing
+or jewelry, but the greatest treasure
+a nymph queen can share is often her
+inspiration to those seeking a muse.
+Primal Innate Spells DC 28; 4th tidal surge (at will; Core Rulebook 397); 1st charm,
+create water
+Change Shape Ȱɵ (polymorph, primal, transmutation)
+Focus Beauty Ȱɵ (emotion, enchantment, incapacitation, mental, primal, visual) On a failed
+save, if the target was already aﬀected by the naiad queen’s beauty, the image of the
+queen sears into the creature’s mind, allowing no further sight and eﬀectively blinding
+the creature until restored via restore senses or a similar eﬀect, or until the naiad queen
+chooses to remove the eﬀect using a single action, which has the concentrate trait.
+Inspiration ̂ˬ (emotion, enchantment, mental, primal)
+Water Healing ʚʖ (concentrate, healing, necromancy, primal) As naiad, but the naiad
+queen can heal in any body of water in her domain and regains 28 HP.
+Dryad Queen (Hamadryad)
+Hamadryads rule over an entire forest, or a portion of an incredibly large
+forest, leading and protecting all dryads within. Hamadryads often have
+strange relationships with powerful and deadly fey, working together
+in a dualistic way despite their differences, with the
+hamadryad representing nature’s wonders and the other
+fey representing nature’s wrath.
+
+================================================================================
+# NAUNET
+================================================================================
+
+obscuring mist; 1st detect alignment (at will; lawful only); Cantrips (4th)
+dancing lights, ghost sound, prestidigitation; Constant (4th) freedom of movement
+Change Shape Ȱɵ (concentration, divine, polymorph, transmutation) The voidworm takes
+on the appearance of a Tiny animal. This doesn’t change its Speed or its attack and
+damage bonuses with its Strikes, but might change the damage type its
+Strikes deal.
+Confounding Lash (divine, emotion, enchantment, mental) A
+creature hit by the voidworm’s tail Strike is stupeﬁed 1 for 1
+round (stupeﬁed 2 on a critical hit). A successful DC 16 Will
+save negates this eﬀect and grants temporary immunity
+to confounding lash for 1 minute.
+Naunet
+Pugnacious and powerfully muscled, naunets serve
+as scouts and rank-and-ﬁle troops of protean armies.
+Resembling a thick salamander with a wide head, a powerful tail, and
+tentacles tipped with snapping jaws in place of rear legs, naunets are the
+most bestial of the proteans and occupy one of their lowest castes. Naunets
+are 12 feet long and weigh 900 pounds.
+All proteans are prone to unpredictable ﬁts and unexpected action, but
+compared to most others, naunets are much more bestial. Always ready
+for a ﬁght, naunets pride themselves in acting swiftly and striking
+before unpleasant distractions like diplomacy can blunt a
+combat’s beginning.
+NAUNET
+CREATURE 7
+CN
+LARGE
+MONITOR
+PROTEAN
+Perception +14; entropy sense (imprecise) 30 feet, darkvision
+Languages Abyssal, Celestial, Protean
+Skills Acrobatics +14, Athletics +16, Intimidation +16, Stealth +14, Survival +12
+Str +5, Dex +3, Con +5, Int +0, Wis +3, Cha +3
+Entropy Sense (divination, divine, prediction) As voidworm.
+AC 24; Fort +18, Ref +14, Will +12; +1 status to all saves vs. magic
+
+================================================================================
+PAGE 269
+================================================================================
+
+Bestiary
+ANCIENT IMMORTALS
+Among the numerous types
+of immortals that dwell in the
+Great Beyond, the proteans
+are surely some of the oldest.
+They’ve waged war against the
+inevitable aeons from the advent
+of their ﬁrst creation, and speak
+longingly of that time before the
+gods themselves imposed order
+upon reality.
+HP 120, fast healing 2; Weaknesses lawful 5; Resistances precision 5, protean
+anatomy 10
+Protean Anatomy (divine, transmutation) As voidworm.
+Speed 25 feet, ﬂy 30 feet, swim 25 feet; freedom of movement
+Melee Ȱɵ jaws +18 (chaotic, magical, reach 10 feet), Damage 2d10+8 piercing plus 1d6 chaotic
+Melee Ȱɵ tail +18 (chaotic, magical, reach 15 feet), Damage 2d8+8 bludgeoning plus 1d6
+chaotic and Grab
+Melee Ȱɵ tentacle +18 (agile, chaotic, magical, reach 10 feet), Damage 2d8+6 piercing
+plus 1d6 chaotic and confounding slam
+Divine Innate Spells DC 26, attack +16; 5th dimension door; 4th acid arrow, solid fog; 3rd
+shatter(at will); 2nd obscuring mist (at will); 1st detect alignment (at will; lawful only);
+Constant (4th) freedom of movement
+Adaptive Strike Ȳ˓ (divine, polymorph, transmutation) The naunet chooses adamantine,
+cold iron, or silver; its melee Strikes count as that type for 1 minute or until it uses
+Adaptive Strike again.
+Change Shape Ȱɵ (concentration, divine, polymorph, transmutation) The naunet can
+take the appearance of any Small, Medium, or Large animal, beast, or humanoid. This
+doesn’t change its Speed or its attack and damage bonuses with its Strikes but might
+change the damage type its Strikes deal.
+Confounding Slam (divine, emotion, enchantment, mental) A creature hit by the naunet’s
+tentacle Strike is stupeﬁed 2 for 1d4 rounds (DC 24 Will negates). If the creature
+was already stupeﬁed in this way, the duration extends by 1 round instead. A chaotic
+creature is only stupeﬁed 1 instead.
+Constrict Ȱɵ 1d8+8 bludgeoning, DC 26
+Keketar
+The ruling caste of the proteans, keketars orchestrate attacks against the bastions
+of law and adjudicate protean disputes conﬁdently and capriciously. A keketar
+resembles a shimmering, serpentine creature with spines, claws, and
+a dragon-like head. A keketar’s actual appearance is in constant
+ﬂux, but they generally stay about 18 feet long with a
+weight of around 1,500 pounds. While their physical
+forms can vary, two things remain constant: First,
+a keketar’s eyes are always a piercing shade of
+amber or violet. Second, the keketar’s mark of
+ofﬁce—a crown of shifting symbols that hovers
+above its head—never changes. A keketar cannot
+remove its crown but can suppress it, although most
+are loath to do so and consider such an act one of
+cowardice or shame.
+Keketars ﬁll a role in protean society of a
+sort of priesthood, operating as intermediaries
+between the other proteans and the Speakers of
+the Depths. All other proteans defer to keketars,
+treating them in a way similar to how citizens
+of a mortal city would treat respected nobles;
+even more powerful proteans defer to the will
+of the keketars. As with many religions, dogma and
+theology are prone to interpretation and change, and
+among the proteans the situation is perhaps even
+more pronounced. Whatever the nature of and
+desires held by the mysterious Speakers of
+the Depths, individual keketars may come
+to dramatically different conclusions as to
+their will and intent. To the proteans,
+though, this inherent dissonance is
+a strength rather than a weakness.
+
+================================================================================
+PAGE 270
+================================================================================
+
+DEFENDING CHAOS
+Where proteans go, chaos follows.
+To proteans, there is no purer form
+of existence than entropy, and
+they constantly seek to oppose
+the establishment of order in the
+Great Beyond. However, proteans
+don’t see life as being incompatible
+with chaos; rather, they simply
+believe beings—immortal or
+not—deserve complete
+freedom on their
+own terms.
+
+================================================================================
+# NOSOI
+================================================================================
+
+
+Bestiary
+PSYCHOPOMP DIVINITIES
+The most powerful of the
+psychopomps are unique demigods
+known collectively as “ushers,”
+each of whom has its own cult.
+These psychopomp divinities
+include Atropos, the Last Sister;
+Barzahk, the Passage; Ceyanan,
+the Shepherd; Dammar, the
+Denied; Imot, the Symbol of Doom;
+Mother Vulture, the Flesheater;
+Mrtyu, Death’s Consort; Narakas,
+the Cleansing Sentence; the
+Pale Horse; Phlegyas, Consoler
+of Atheists; Saloc, Minder
+of Immortals; Teshallas, the
+Primordial Poison; and
+Vale, the Court of the Ancestors.
+Psychopomp
+Psychopomps are guardians and shepherds of the dead native to the Boneyard,
+the vast plane of graves where mortal souls are judged and sent on to their eternal
+rewards or damnations. Psychopomps ensure that the dead come to terms with
+their transition from mortality and are properly sorted into the appropriate
+afterlife. They also protect souls from being preyed upon by supernatural
+predators. Nearly all psychopomps wear masks, especially when they’re likely to
+be interacting with mortals, although the types of masks they wear are as varied
+as the psychopomps themselves. The courts of the Boneyard preside in Requian, a
+somber yet melodic language spoken slowly with various tonal shifts.
+Nosoi
+A nosoi resembles a whippoorwill, sparrow, or other small bird wearing a heavy
+leather plague doctor’s mask. They are the clerks, messengers, and scribes of the
+Boneyard, witnessing judgments, directing souls, and generally performing the
+administrative grunt work that keeps the Boneyard functioning. Most nosois
+are particularly chatty and eager to discuss how important they consider their
+individual assignments to be.
+NOSOI
+CREATURE 1
+N
+TINY
+MONITOR
+PSYCHOPOMP
+Perception +6; darkvision, lifesense 60 feet
+Languages Abyssal, Celestial, Infernal, Requian
+Skills Acrobatics +6, Boneyard Lore +8, Library Lore +8, Performance +6, Religion +6,
+Society +2, Stealth +6
+Str –1, Dex +3, Con +1, Int +1, Wis +1, Cha +3
+Lifesense (divination, divine) A psychopomp senses the vital essence of living and
+undead creatures within the listed range.
+AC 16; Fort +4, Ref +8, Will +6
+HP 18; Immunities death eﬀects, disease; Resistances negative 3, poison 3
+Speed 15 feet, ﬂy 40 feet
+Melee Ȱɵ beak +6 (ﬁnesse, magical), Damage 1d4–1 piercing plus spirit touch
+Divine Innate Spells DC 16; 4th read omens, talking corpse; 2nd invisibility (at will; self
+only), sound burst
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation) The nosoi takes the
+appearance of a raven or songbird. This doesn’t change its Speed or its attack and
+damage modiﬁers with its Strikes.
+Haunting Melody Ȱɵ (auditory, concentrate, divine, enchantment, incapacitation, mental)
+The nosoi croons an entrancing song. Each living or undead creature within a 60-foot
+emanation must attempt a DC 18 Will save. The eﬀect lasts for 1 round, but a nosoi
+can use this ability again on subsequent rounds to extend the duration by 1 round for
+all aﬀected creatures. A creature that succeeds at any save is temporarily immune
+for 24 hours. Despite being a mental eﬀect, this ability aﬀects mindless undead.
+Psychopomps are immune to this ability.
+Failure The creature is fascinated.
+Critical Failure As failure, and the creature must spend each of its actions
+on its turn to move closer to the nosoi as expediently as possible while
+avoiding obvious dangers. If a fascinated creature is adjacent to the nosoi, it
+stays still and doesn’t act. If the creature is attacked, the fascination ends.
+Spirit Touch A nosoi’s Strikes aﬀect incorporeal creatures as though etched
+with a ghost touch property rune and deal 1d6 negative damage to
+living creatures or 1d6 positive damage to undead.
+Morrigna
+Bounty hunters and investigators, morrignas seek out
+creatures that thwart death or interfere with the natural
+ﬂow of souls. Morrignas dress in ﬂowing spider silk and
+
+================================================================================
+PAGE 272
+================================================================================
+
+OTHER PSYCHOPOMPS
+Nosois and morrignas are far
+from the only of their kind. Many
+others, like the skeletal vanths or
+the draconic yamarajes, also aid in
+the stewardship of the dead.
+wear masks reminiscent of webs, as they consider patient and watchful spiders
+to be their spiritual kin.

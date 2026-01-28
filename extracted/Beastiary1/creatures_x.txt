@@ -1,0 +1,292 @@
+# Bestiary - Creatures: X
+# Count: 4 creatures
+
+
+================================================================================
+# XORN
+================================================================================
+
+Earth Glide As sod hound.
+Xorn
+These squat, rotund elementals have three legs, three arms,
+three eyes, and one massive maw, which they ﬁll with the gems
+and metals they ﬁnd so delicious.
+XORN
+CREATURE 7
+N
+MEDIUM
+EARTH
+ELEMENTAL
+Perception
++15;
+darkvision,
+tremorsense
+(imprecise) 60 feet
+Languages Common, Terran
+Skills Athletics +17, Geology Lore +15,
+Stealth +11, Survival +15
+Str +6, Dex +0, Con +5, Int +0, Wis +2, Cha +0
+
+================================================================================
+PAGE 148
+================================================================================
+
+ELEMENTAL CREATURES
+Not all elementals are lumbering,
+humanoid-shaped creatures. Some
+take on the forms and natures
+of animals and beasts from the
+Material Plane. These creatures
+often behave in ways similar to
+their Material Plane counterparts,
+even though as elementals they
+lack the animalistic instincts
+mortal creatures have when it
+comes to hunting, reproducing,
+and the like. Elemental creatures
+are favorites of conjurers due to
+their small size, relative ease of
+summoning, and varied abilities.
+AC 25, all-around vision; Fort +18, Ref +11, Will +13
+HP 115; Immunities bleed, paralyzed, poison, sleep; Resistances cold 5, electricity 5,
+ﬁre 5; Weaknesses bludgeoning 5
+Speed 20 feet, burrow 20 feet; earth glide
+Melee Ȱɵ jaw +18 (deadly 1d10), Damage 2d10+8 piercing
+Melee Ȱɵ claw +18 (agile), Damage 2d6+8 slashing
+Claw Frenzy ʚʖ The xorn makes three claw Strikes; no more than two can be against
+the same target. These attacks count toward the xorn’s multiple attack penalty, but
+the penalty doesn’t increase until after all the attacks have been made.
+Earth Glide As sod hound.
+Stone Mauler
+These towering heaps of earth can inﬂict tremendous damage up close and from afar.
+
+================================================================================
+# XULGATH WARRIOR
+================================================================================
+
+
+Bestiary
+XULGATH TREASURE
+Xulgaths are relatively primitive,
+using tools and weapons of stone
+and other materials scavenged
+from the surface. These can
+replicate most simple and a few
+martial melee weapons, as well as
+simple thrown ranged weapons.
+An advanced tribe of xulgaths
+might be able to craft low-level
+magical talismans, such as a
+potency crystal or a
+returning clasp.
+Xulgath
+Reptilian humanoids who live in the uppermost reaches of the Darklands, xulgaths
+(known as troglodytes to many surface-dwelling folk) often attack intruders in
+their territory on sight. They live in simple familial communities, battling rival
+groups and other aggressive Darklands inhabitants in order to survive. They
+occasionally raid surface settlements, usually at the behest of cruel, bloodthirsty
+leaders who are often themselves in the thrall of more powerful creatures like
+nagas or demons. A typical xulgath has dull gray, dark gray, or ashen scales, with
+a long tail and bony protrusions that run the length of its spine. A typical xulgath
+is 5 feet tall and weighs 150 pounds.
+Although today the xulgaths are brutal and scattered, they were one of the ﬁrst
+intelligent humanoids to rise in the primeval world, once ruling over a mighty
+empire that stretched throughout the Darklands. Today, all that remains of this
+era are ruins of massive stone ziggurats and crumbling cities found within some
+of the larger caverns. Some groups of xulgaths continue to live among these ruins,
+venerating their ancestors’ accomplishments, while others consider these areas
+taboo and leave them to become infested with Darklands vermin. Sages don’t
+agree on why the ancient xulgath civilization fell. Some suspect it was the result
+of a loss of several wars waged against serpentfolk, while others suggest that the
+corruptive inﬂuence of demon worship rotted their culture from within.
+Certainly, many xulgath settlements continue to worship demons to this
+day, paying homage and offering live sacriﬁces to terrible creatures from
+the Abyss. Occasionally, a xulgath shaman can call forth and bind a lesser
+demon to help serve the group, but a shaman who delves too deep into
+occultism might summon a more powerful ﬁend that either tears the
+xulgaths to pieces or enslaves them.
+Xulgath Warrior
+Xulgath warriors strike with fury and eager cruelty, always ready for
+the next ﬁght. The taking of prizes from battle—including weapons and
+items stolen from defeated foes along with grislier trophies harvested
+from fallen victims’ ﬂesh—is a popular pursuit among these vicious
+reptiles, and those whose armor and scales are most adorned are
+awarded the greatest respect (and perhaps fear) from their kin.
+XULGATH WARRIOR
+CREATURE 1
+CE
+MEDIUM
+HUMANOID
+XULGATH
+Perception +6; darkvision
+Languages Draconic, Undercommon
+Skills Athletics +7, Stealth +5
+Str +4, Dex +2, Con +3, Int –1, Wis +1, Cha +0
+Items club, javelin (3)
+AC 16; Fort +8, Ref +7, Will +4
+HP 21
+Stench (aura, olfactory) 30 feet. A creature that enters the area
+must attempt a DC 16 Fortitude save. On a failure, the creature is
+sickened 1, and on a critical failure, the creature also takes a –5-foot
+status penalty to its Speeds for 1 round. While within the aura,
+the creature takes a –2 circumstance penalty to saves to recover
+from the sickened condition. A creature that succeeds at its save
+is temporarily immune to all xulgaths’ stenches for 1 minute.
+Speed 25 feet
+Melee Ȱɵ club +9, Damage 1d6+4 bludgeoning
+Melee Ȱɵ jaws +9, Damage 1d6+4 piercing
+Melee Ȱɵ claw +9 (agile), Damage 1d4+4 slashing
+Ranged Ȱɵ club +7 (thrown 10 feet), Damage 1d6+4 bludgeoning
+Ranged Ȱɵ javelin +7 (thrown 30 feet), Damage 1d6+4 piercing
+
+================================================================================
+PAGE 338
+================================================================================
+
+XULGATH SOCIETY
+Xulgaths respect strength, and the
+leader of a community is usually the
+strongest of all of them. The leader’s
+dominance is rarely questioned
+until a potentially stronger xulgath
+believes it’s time for a change in
+rulership. The two xulgaths then
+face oﬀ in a ﬁght to the death, with
+the victor claiming rule.
+Xulgath Skulker
+Xulgath warrens are patrolled—some might say “haunted”—by the community’s
+skulkers. These xulgaths specialize in stealth, striking swiftly from the shadows
+and otherwise ambushing foes.
+
+================================================================================
+# XULGATH SKULKER
+================================================================================
+
+
+XULGATH SOCIETY
+Xulgaths respect strength, and the
+leader of a community is usually the
+strongest of all of them. The leader’s
+dominance is rarely questioned
+until a potentially stronger xulgath
+believes it’s time for a change in
+rulership. The two xulgaths then
+face oﬀ in a ﬁght to the death, with
+the victor claiming rule.
+Xulgath Skulker
+Xulgath warrens are patrolled—some might say “haunted”—by the community’s
+skulkers. These xulgaths specialize in stealth, striking swiftly from the shadows
+and otherwise ambushing foes.
+XULGATH SKULKER
+CREATURE 2
+CE
+MEDIUM
+HUMANOID
+XULGATH
+Perception +7; darkvision
+Languages Draconic, Undercommon
+Skills Acrobatics +8, Stealth +8, Thievery +8
+Str +3, Dex +4, Con +2, Int –1, Wis +1, Cha +0
+Items dagger (4)
+AC 19; Fort +8, Ref +10, Will +5
+HP 28
+Stench (aura, olfactory) 30 feet. As xulgath warrior.
+Stench Suppression Ȳ˓ A xulgath skulker can suppress its stench aura as a free action
+to better hide its presence. The skulker can resume its stench aura as a free action.
+Speed 25 feet
+Melee Ȱɵ dagger +10 (agile, ﬁnesse, versatile S), Damage 1d4+3 piercing
+Melee Ȱɵ jaws +9, Damage 1d6+3 piercing
+Melee Ȱɵ claw +10 (agile, ﬁnesse), Damage 1d4+3 slashing
+Ranged Ȱɵ dagger +10 (agile, thrown 10 feet, versatile S), Damage 1d4+3 piercing
+Hidden Movement If a xulgath skulker starts its turn undetected by a creature or merely
+hidden from it, that creature is ﬂat-footed against the skulker’s attacks until the end
+of the skulker’s turn.
+Sneak Attack A xulgath skulker deals an additional 1d6 precision damage to
+ﬂat‑footed creatures.
+Xulgath Leader
+Xulgath leaders are usually the strongest, most violent
+members of a community—although in some cases,
+particularly in larger groups, xulgath tribes are led by
+powerful demon cultists or other monsters who seek to
+use the xulgaths as servants or slaves.
+
+================================================================================
+# XULGATH LEADER
+================================================================================
+
+Hidden Movement If a xulgath skulker starts its turn undetected by a creature or merely
+hidden from it, that creature is ﬂat-footed against the skulker’s attacks until the end
+of the skulker’s turn.
+Sneak Attack A xulgath skulker deals an additional 1d6 precision damage to
+ﬂat‑footed creatures.
+Xulgath Leader
+Xulgath leaders are usually the strongest, most violent
+members of a community—although in some cases,
+particularly in larger groups, xulgath tribes are led by
+powerful demon cultists or other monsters who seek to
+use the xulgaths as servants or slaves.
+XULGATH LEADER
+CREATURE 3
+CE
+MEDIUM
+HUMANOID
+XULGATH
+Perception +9; darkvision
+Languages Draconic, Undercommon
+Skills Athletics +11, Intimidation +6,
+Stealth +6
+Str +4, Dex +1, Con +2, Int –1, Wis +2, Cha +1
+Items breastplate, greataxe, javelin (4)
+AC 20; Fort +9, Ref +6, Will +9
+HP 44
+Stench (aura, olfactory) 30 feet. As xulgath warrior, but DC 19.
+Speed 25 feet
+Melee Ȱɵ greataxe +11 (sweep), Damage 1d10+6 slashing plus
+Weakening Strike
+Melee Ȱɵ jaws +11, Damage 1d6+6 piercing plus Weakening Strike
+Melee Ȱɵ claw +11 (agile), Damage 1d4+6 slashing
+Ranged Ȱɵ javelin +8 (thrown 30 feet), Damage
+1d6+4 piercing
+Weakening Strike Ȱɵ The target must
+succeed at a DC 20 Fortitude save or
+become enfeebled 1 (or enfeebled 2 on
+a critical hit) for 1 round.
+
+================================================================================
+PAGE 339
+================================================================================
+
+Bestiary
+YETI TREASURE
+Lone exiles of yeti clans have little
+use for treasure and leave the gear
+of their slain victims behind where
+it is quickly covered by snowfall.
+Clan-based yetis, on the other
+hand, create beautifully carved
+stonework, some of which they
+shape into protective talismans of
+rare beauty.
+Yeti
+Nearly a myth, the yeti is rarely seen—and even when it is, it is often too late.
+Yetis dwell amid the highest, most remote peaks of the world, coming down
+from their snowy mountain holds to raid, steal livestock, and sometimes feed
+their insatiable urges for slaughter and destruction. Those folks who live at the
+foot of a yeti-ruled mountain warn of the “abominable snowmen”: monstrous,
+fur-covered humanoids who leave strange and bloody tracks in the snow.
+Normally yetis seek to protect the world rather than hunt its other civilized
+denizens. They do so by lairing near eldritch portals that form links between
+the Material Plane and other, much stranger dimensions of reality. From within
+these snow-covered arches and ancient stone doorways, aliens, living nightmares,
+ﬁends, and worse can emerge through dimensional networks into the world. Yetis
+who guard these portals sometimes succumb to these horrors and are corrupted,
+taking on the bloodthirsty urges and horriﬁc behaviors of the very monsters they
+strive to protect the world against. Yetis who manifest such violent tendencies
+are driven out of their clan and forced to wander the mountaintops alone, thus
+giving rise to the myth of the legendary abominable snowman. Forced to fend
+for themselves, these exiled yetis often fully embrace the corrupting elements that
+caused their exile in the ﬁrst place, growing more powerful and more deadly as
+a result. The most vile of these yetis turn to cannibalism, not out of need, but
+out of a sheer joy at the terror they inﬂict upon their kin. Invariably such
+cannibalistic yetis attract the attention of wendigos, which makes a bad
+situation all the worse.

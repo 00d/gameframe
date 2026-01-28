@@ -1,0 +1,3099 @@
+# Bestiary - Creatures: G
+# Count: 36 creatures
+
+
+================================================================================
+# GIANT ANT
+================================================================================
+
+
+Bestiary 2
+ANT HIVES
+Giant ants form vast underground
+colonies, excavating deep burrows
+or infesting existing caverns. Ants
+are omnivorous and cultivate fungus
+farms, but they are happy to eat
+whatever presents itself. Humanoids
+and their domesticated animals are
+easy fuel for the insectile machinery
+of their hives. Worker ants lack the
+sting of their warrior cousins, while
+elite drones ﬂy on gossamer wings
+(ﬂy Speed of 30 feet) to seek new
+food sources for their queen.
+Ant
+Ants are industrious insects that aid the natural processes of decay and renewal.
+GIANT ANT
+Giant ants are much like their smaller kin in their industrious habits, though
+growing to the size of ponies makes them much deadlier.
+GIANT ANT
+CREATURE 2
+N
+MEDIUM
+ANIMAL
+Perception +7; darkvision, scent (imprecise) 30 feet
+Skills Athletics +8, Survival +7
+Str +4, Dex +1, Con +4, Int –5, Wis +1, Cha –4
+AC 18; Fort +10, Ref +7, Will +5
+HP 30
+Speed 40 feet, climb 20 feet
+Melee Ȱɵ mandibles +11, Damage 1d8+4 slashing plus Grab
+Melee Ȱɵ stinger +11 (agile), Damage 1d6+4 piercing plus giant ant venom
+Giant Ant Venom (poison) Saving Throw DC 18 Fortitude; Maximum Duration 4 rounds;
+Stage 1 1d8 poison and enfeebled 1 (1 round); Stage 2 1d10 poison and enfeebled 2
+(1 round); Stage 3 1d12 poison and enfeebled 3 (1 round)
+Haul Away Ȱɵ Requirements The giant ant has a Large or smaller creature grabbed;
+Eﬀect The giant ant Strides up to its full Speed, carrying the grabbed creature with it.
+It is encumbered if the grabbed creature is Medium or larger.
+ARMY ANT SWARM
+An army ant swarm is a terrifying carpet of stinging insects that devours all in
+its path.
+
+================================================================================
+# GIANT BADGER
+================================================================================
+
+GIANT BADGER
+The violent, territorial giant badger is a relentless predator. An obligate carnivore,
+its prey ranges from rabbits to deer, livestock, and even the occasional traveler or
+adventurer. A giant badger’s claws are sharp and strong enough to carve tunnels from
+solid rock. They typically stand 4 feet tall at the shoulder and weigh 500 pounds.
+GIANT BADGER
+CREATURE 2
+N
+MEDIUM
+ANIMAL
+Perception
++8;
+low-light
+vision,
+scent
+(imprecise) 30 feet
+Skills Athletics +8, Stealth +7
+Str +4, Dex +1, Con +3, Int –4, Wis +3, Cha –1
+AC 18; Fort +10, Ref +6, Will +8
+HP 30
+Ferocity Ǻȓ
+Speed 25 feet, burrow 10 feet
+Melee Ȱɵ jaws +11, Damage 1d8+4 piercing
+Melee Ȱɵ claw +11 (agile), Damage 1d6+4 slashing
+Badger Rage Ȱɵ (concentrate, emotion, mental)
+The giant badger enters a state of pure
+rage that lasts for 1 minute, until there
+are no enemies it can perceive, or until it
+falls unconscious, whichever comes ﬁrst.
+While raging, the giant badger has AC 17,
+its jaws Strike deals 1d8+8 damage,
+and its claw Strike deals 1d6+6
+damage. While raging, the giant
+badger also can’t use actions
+that have the concentrate
+trait except for Seek.
+After it has stopped
+raging,
+a
+giant
+badger
+can’t
+use
+Badger Rage again for
+1 minute.
+
+================================================================================
+PAGE 34
+================================================================================
+
+HAUNTING LAIRS
+A baobhan sith adores the aesthetics
+of abandoned homes, desolate burial
+grounds, and crumbling ruins. They
+strive to give their lairs a gothic
+beauty rather than allowing them to
+get run down and ﬁlthy.
+Baobhan Sith
+Undeath is rare in the fey realm of the First World, for that plane’s infusion with the
+raw power of life makes undead uncomfortable at best. Yet a few fey have adopted
+the vile practices and habits of notorious undead while still being living themselves,
+as seen in the blood-drinking habits of the murderous baobhan sith.
+A baobhan sith avoids confrontations when outnumbered, and although
+territorial, they won’t reveal their true nature to larger groups. They prefer to drink
+blood from victims they ﬁnd attractive, and they avoid drinking blood from animals
+and beasts entirely, as they consider such activities to be uncultured.
+
+================================================================================
+# GIANT WHIPTAIL CENTIPEDE
+================================================================================
+
+
+Bestiary 2
+MASSIVE MYRIAPODS
+All centipedes prefer to eat carrion,
+gathering in numbers around
+large corpses or battleﬁelds and
+jealously guarding their troves of
+ﬂesh from any who would disturb
+them. Monstrous centipedes are
+also aggressive hunters and are
+particularly fond of devouring
+horses and similar creatures, often
+snatching a mount right out from
+under its rider. They are unusually
+stealthy for creatures of their size,
+making their swift strikes all the
+more frightening.
+Centipede
+Centipedes are ﬂesh-eating myriapods that skitter with great speed through
+tunnels, forests, and similar densely packed terrain. Many are small predators,
+but others are titanic terrors that devour everything in their path.
+GIANT WHIPTAIL CENTIPEDE
+Whiptail centipedes are sleek and swift tunnel predators.
+GIANT WHIPTAIL CENTIPEDE
+CREATURE 3
+N
+HUGE
+ANIMAL
+Perception +9; darkvision
+Skills Acrobatics +8, Athletics +10, Stealth +8
+Str +4, Dex +2, Con +4, Int –5, Wis +2, Cha –4
+AC 19; Fort +11, Ref +9, Will +7
+HP 45
+Attack of Opportunity Ǻȓ Tail only.
+Speed 30 feet, climb 30 feet
+Melee Ȱɵ mandibles +11 (reach 10 feet), Damage 1d10+6 piercing plus whiptail
+centipede venom
+Melee Ȱɵ tail +11 (agile, reach 15 feet), Damage 1d6+6 bludgeoning plus Knockdown
+Undulate Ȱɵ The giant whiptail centipede Strides **or Steps. During this movement, it
+can pass through spaces as narrow as 5 feet without Squeezing.
+Whiptail Centipede Venom (poison); Saving Throw DC 19 Fortitude; Maximum
+Duration 6 rounds; Stage 1 1d10 poison damage and clumsy 1 (1 round);
+Stage 2 2d10 poison damage and clumsy 1 (1 round); Stage 3 2d10 poison
+damage and clumsy 2 (1 round)
+TITAN CENTIPEDE
+These colossal, solitary centipedes claim vast hunting grounds.
+
+================================================================================
+# GIANT COCKROACH
+================================================================================
+
+
+COCKROACH SPECIES
+Beyond the common giant cockroach,
+other ﬂesh-eating cockroaches
+exist throughout the world. These
+variations include the giant hissing
+cockroach, the noxious venomroach,
+the huge spitting cockroach (which
+can incapacitate enemies from a
+distance), the aggressive sawback
+cockroach, and the mysterious and
+rare dragonroach.
+Cockroach
+Generally seen more as a nuisance than a personal danger, cockroaches inhabit
+most reaches of the world. They are scavengers who live off the detritus of
+the natural world and from those that inhabit it. These maligned insects can
+survive weeks without eating, and most of their meals consist of organic
+waste that would otherwise overwhelm an ecosystem, particularly in their
+preferred urban environments. Though a typical cockroach presents virtually
+no threat, they can become dangerous in large groups, and some species grow
+particularly large.
+GIANT COCKROACH
+Cockroaches are communal creatures, rarely setting out on their own unless
+they are searching for food. If an adventurer encounters a single giant cockroach
+while exploring, they had best take precautions against others, as there is likely
+an entire colony nearby.
+GIANT COCKROACH
+CREATURE 1
+N
+SMALL
+ANIMAL
+Perception +6; darkvision, scent (imprecise) 60 feet
+Skills Acrobatics +6, Stealth +8
+Str +1, Dex +3, Con +1, Int –5, Wis +1, Cha –1
+AC 16; Fort +6, Ref +8, Will +4
+HP 20
+Scurry Ǻȓ Trigger The giant cockroach is targeted by a melee attack; Eﬀect The giant
+cockroach gains a +2 circumstance bonus to AC against the triggering attack. After
+the attack resolves, the cockroach Strides, Climbs, or Flies up to 10 feet.
+Speed 25 feet, climb 25 feet, ﬂy 15 feet
+Melee Ȱɵ mandibles +8 (agile, ﬁnesse), Damage 1d6+1 piercing
+COCKROACH SWARM
+While cockroaches tend to gather in cramped spaces, a
+disturbed colony is sometimes prone to swarming,
+where hundreds or even thousands of the
+insects scurry out of their hiding places in
+a raft of shiny brown and black carapaces
+on thousands of skittering legs. Given how
+disgusting many ﬁnd cockroaches to be,
+encountering such a swarm can be alarming
+to even the most seasoned adventurers. The
+creatures are relentless when disturbed; in contrast
+to the insects’ normally skittish and harmless nature,
+as swarms they pursue the creature or creatures
+that provoked them and harry them with
+thousands of stinging bites.
+COCKROACH SWARM CREATURE 2
+N
+SMALL
+ANIMAL
+SWARM
+Perception
++6;
+darkvision,
+scent
+(imprecise) 60 feet
+Skills Acrobatics +8, Stealth +8
+Str +2, Dex +4, Con +3, Int –5, Wis +0, Cha –4
+AC 18; Fort +9, Ref +10, Will +6
+HP 20; Immunities precision, swarm mind; Weaknesses area damage 5,
+splash damage 5; Resistances bludgeoning 2, piercing 5, slashing 5
+Speed 20 feet, climb 20 feet, ﬂy 15 feet
+Swarming Bites Ȱɵ Each enemy in the swarm’s space takes 1d8
+piercing damage (DC 18 basic Reﬂex save).
+
+================================================================================
+PAGE 55
+================================================================================
+
+Bestiary 2
+OTHER COUATLS
+The quetz couatl presented here is
+the most common of its kind, and
+while most adventurers and scholars
+refer to them simply as “couatls,”
+other kinds exist as well, such as
+the ﬁerce xiuh couatl, the nomadic
+auwaz couatl, the wise mix couatl,
+the nurturing chicome couatl, and
+the furious tletli couatl.
+Couatl, Quetz
+These sacred feathered serpents tirelessly serve the powers of law and good. Some
+operate directly as messengers and intermediaries of the deities, while others
+operate independently in aiding the cause of righteousness. Either way, they watch
+over mortals and try to inﬂuence and aid them from the shadows, shifting from
+plane to plane to spread wisdom and healing where they are needed. Some quetz
+couatls are worshipped as divinities in remote or isolated societies, and while they
+do not encourage such veneration, they use the trust placed in them to foster peace
+and cooperation with others.
+Quetz couatls are typically 10 to 20 feet long, with iridescent blue and green
+scales. Their glorious wings of rainbow-hued feathers span 15 feet and weigh
+nearly a ton. They are carnivorous, feeding on birds, mammals, and even the
+occasional evil humanoid.
+
+================================================================================
+# GIANT CRAB
+================================================================================
+
+
+CRAB SPECIES
+Crabs can be found along all of the
+world’s coastlines, from relatively
+small creatures like the king crab or
+the coconut crab, to truly oversized
+monsters like the great reef crab,
+shark-eating crab, or the lumbering
+shipwrecker crab.
+Crab
+Crabs are scavenging crustaceans known for their hard shells and iconic sideways
+gait. They use their claws to defend themselves, hunt, and ﬁght other crabs for
+territory. When confronted with threats from outside their species, most crabs
+prefer to ﬂee, but when retreat isn’t possible, they clamp on to their foes as tightly
+as they can.
+The statistics presented here represent giant crabs that live close to the water’s
+surface. Crabs that live deeper underwater often exhibit more extreme adaptations
+to their environment. Crabs who live in the depths where little light reaches gain
+darkvision and cold resistance, and those adapted to the most hostile reaches of
+the deep sea can detect nearby creatures through subtle shifts in ocean currents.
+These skittering creatures are prized for their delicious meat, but their size
+makes them dangerous targets for harvesting.
+GIANT CRAB
+CREATURE 2
+N
+MEDIUM
+ANIMAL
+AQUATIC
+Perception +8; darkvision
+Skills Acrobatics +7, Athletics +8, Stealth +7
+Str +4, Dex +3, Con +1, Int –4, Wis +2, Cha –3
+AC 19; Fort +7, Ref +9, Will +8
+HP 24; Resistances physical 3 (except bludgeoning)
+Vulnerable to Prone If a creature critically succeeds on a check to Trip the giant crab, the
+crab is ﬂipped over onto its back in addition to the usual eﬀects. A giant crab that is
+ﬂipped onto its back has a particularly hard time defending itself; instead of taking the
+normal –2 circumstance penalty to AC for being ﬂat-footed, it takes a –4 circumstance
+penalty to AC.
+Scuttle Ǻȓ Trigger A creature that the giant crab can see targets the crab with an attack;
+Eﬀect The giant crab scuttles to the side and gains a +2 circumstance bonus to AC
+against the triggering attack. After the attack resolves, the crab can Stride up to its
+speed in a straight line as part of the reaction.
+Speed 25 feet, swim 15 feet
+Melee Ȱɵ claw +10, Damage 1d10+4 slashing plus Grab
+Constrict Ȱɵ 1d6+4 bludgeoning, DC 18
+
+================================================================================
+PAGE 57
+================================================================================
+
+Bestiary 2
+CRAWLING HAND ORIGINS
+A popular tale among necromancers
+tells of an ancient wizard who
+traﬃcked in evil magic. During a
+summoning ritual gone wrong, the
+wizard’s hand became possessed
+and later strangled them while they
+slept. The hand dragged the corpse
+across the wizard’s rooms to their
+workbench, propped up a knife in a
+vise, and severed itself from the rest
+of the body. According to the story,
+the hand went on to commit several
+more murders and disappeared into
+the sewers of a major metropolis,
+never to be seen again. Some
+necromancers believe that this
+original crawling hand still creeps
+through the shadows of that city,
+killing as it pleases.
+Crawling Hand
+Typically, crawling hands are formed when severed appendages are endowed with
+a crude sentience by evil necromantic energies that turn them into tireless killers.
+Yet crawling hands can also arise spontaneously, usually when a creature loses an
+appendage in a place rife with necromantic energy or with a connection to the
+Negative Energy Plane.
+CRAWLING HAND
+A crawling hand formed from the appendage of a Medium creature is quick and
+agile, skittering in the shadows until it can strike its prey.
+CRAWLING HAND
+CREATURE –1
+NE
+TINY
+UNDEAD
+Perception +5; lifesense 30 feet, tremorsense (imprecise) 30 feet
+Skills Athletics +5, Stealth +6, Survival +2
+Languages Common (can’t speak any language)
+Str +1, Dex +3, Con +0, Int –4, Wis +0, Cha +0
+AC 12; Fort +2, Ref +5, Will +2
+HP 8, negative healing; Immunities death eﬀects, disease, paralyzed, poison,
+unconscious, visual
+Speed 30 feet, climb 30 feet
+Melee Ȱɵ claw +7 (agile, ﬁnesse), Damage 1d4+1 slashing plus Grab
+Grip Throat A Medium or smaller creature that is grabbed by the crawling hand has diﬃculty
+speaking and must spend an extra action to perform any action with the verbal trait.
+Mark Quarry A crawling hand can be assigned a quarry by anointing the hand with a
+drop of the intended quarry’s blood. If the hand ever has no quarry, it automatically
+gains the next creature it damages as its quarry. The hand gains a +1 circumstance
+bonus to Perception checks when it Seeks its quarry, to Survival checks when it
+Tracks its quarry, and damage rolls when it Strikes its quarry.
+GIANT CRAWLING HAND
+A giant crawling hand is the appendage of a very large creature, such as a giant.
+
+================================================================================
+# GIANT CRAWLING HAND
+================================================================================
+
+Grip Throat A Medium or smaller creature that is grabbed by the crawling hand has diﬃculty
+speaking and must spend an extra action to perform any action with the verbal trait.
+Mark Quarry A crawling hand can be assigned a quarry by anointing the hand with a
+drop of the intended quarry’s blood. If the hand ever has no quarry, it automatically
+gains the next creature it damages as its quarry. The hand gains a +1 circumstance
+bonus to Perception checks when it Seeks its quarry, to Survival checks when it
+Tracks its quarry, and damage rolls when it Strikes its quarry.
+GIANT CRAWLING HAND
+A giant crawling hand is the appendage of a very large creature, such as a giant.
+GIANT CRAWLING HAND
+CREATURE 5
+NE
+MEDIUM
+UNDEAD
+Perception +12; lifesense 30 feet, tremorsense (imprecise) 30 feet
+Skills Athletics +13, Stealth +11, Survival +12
+Languages Common (can’t speak any language)
+Str +4, Dex +2, Con +4, Int –4, Wis +3, Cha +0
+AC 22; Fort +13, Ref +11, Will +10
+HP 75, negative healing; Immunities death eﬀects, disease, paralyzed, poison,
+unconscious, visual
+Pus Burst Ǻȓ Trigger The giant crawling hand takes piercing or slashing damage; Eﬀect
+A random creature adjacent to the giant crawling hand is sprayed with vile pus that
+deals 4d6 negative damage. The aﬀected creature must attempt a DC 21 Reﬂex save.
+Critical Success The creature takes no damage.
+Success The creature takes half damage
+and becomes sickened 1.
+Failure The creature takes
+full damage and becomes
+sickened 2.
+Critical Failure The creature takes double
+damage and becomes sickened 3.
+Speed 20 feet
+Melee Ȱɵ claw +15, Damage 2d6+7 slashing
+plus Grab
+Mark Quarry As crawling hand.
+
+================================================================================
+PAGE 58
+================================================================================
+
+THE CURSE OF CRAWLEY JACK
+The damnable curse of the culdewen
+traces back to the First World, when
+a bitter old culdewen named Crawley
+Jack poached a ﬁsh from the pool
+of a powerful fey noble. Short of
+temper and feeling vindictive, the
+noble doomed Crawley Jack’s people
+to never consume another ﬁsh again.
+Yet their desire to eat ﬁsh never
+diminished. The curse’s punishment
+is exacted in endless creative ways.
+A culdewen’s catch might be rescued
+by merfolk, stolen by skum, eaten
+by nipping sharks, or carried away
+on a piece of driftwood when the
+culdewen’s boat is destroyed in a
+storm or shipwreck.
+Culdewen
+Perpetually cursed to hunger and failure, a culdewen plies waterways in search of
+appealing ﬁsh to catch—the bigger the better. Of course, this diminutive, emaciated
+fey calls every living creature a “ﬁsh.” Only other fey are exempt, and they tend
+to consider culdewens lost causes. A culdewen can never ﬁnd satisfaction. Each
+time they catch a ﬁsh, a magical curse forces them to hunt for an appealing spot
+to dine—an island, cove, or abandoned dock or shack where they can eat in peace.
+By the time they arrive, their catch will be gone. Every time. Forever.
+A foul mood hovers over a culdewen, causing them to swear colorfully, smack
+things with their oar, and shake their tiny ﬁsts at the sky. Conversation with a
+culdewen is fruitless, as they talk in circles, speaking only of ﬁshing and the weather.
+Capturing a “ﬁsh” gives a culdewen a rare moment of happiness; the culdewen
+capers and ululates, pleased with their catch, and rushes off to their boat.
+
+================================================================================
+# GYLOU
+================================================================================
+
+
+Bestiary 2
+QUEENS OF THE NIGHT
+The four queens of the night wield
+great power in the Pit. Ardad Lili
+is a plotter and manipulator with
+ambitions of ruling the heavens, while
+Doloras revels in suﬀering. Most
+distant is Mahathallah, watching over
+fate and death. Mightiest among them
+is Eiseth, who is assembling an army
+in Dis in the hopes of claiming the iron
+throne of Malebolge.
+GYLOU
+CREATURE 14
+LE
+MEDIUM
+DEVIL
+FIEND
+Perception +28; greater darkvision, true seeing
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 feet
+Skills Acrobatics +27, Athletics +28, Arcana +25, Deception +30, Diplomacy +28,
+Religion +26, Stealth +27
+Str +4, Dex +7, Con +4, Int +5, Wis +6, Cha +8
+AC 36: Fort +22, Ref +25, Will +28; +1 status to all saves vs. magic
+HP 240; Immunities ﬁre; Weaknesses good 10; Resistances physical 10 (except silver)
+Reﬂexive Grab Ǻȓ Trigger A creature leaves a square within the gylou’s reach using a move
+action or attempts a melee Strike against the gylou; Eﬀect The gylou lashes out with a
+tentacle, attempting to Grapple the triggering creature. If the triggering Strike was with
+a melee weapon, the attacking creature can Release the weapon to cause the gylou to
+automatically fail the Athletics check.
+Speed 35 feet, climb 35 feet
+Melee Ȱɵ claw +30 (agile, evil, ﬁnesse, magical), Damage 3d8+12 slashing plus 1d6 evil
+Melee Ȱɵ tentacle +30 (evil, magical, reach 10 feet), Damage 3d12+12 bludgeoning plus Grab
+Divine Innate Spells DC 36, attack +28; 7th dispel magic, dominate; 5th black tentacles,
+dimension door, illusory object (at will); 4th charm (×3), dimension door (at will),
+enthrall (at will); Constant (7th) true seeing
+Rituals DC 36; infernal pact
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation) The
+gylou adopts the appearance of any Small or Medium humanoid.
+This doesn’t change their Speed or the attack and damage modiﬁers
+of their Strikes, but it might change the damage type their Strikes
+deal (typically to bludgeoning).
+Indispensable Savvy Ǻȓ Frequency once per day; Trigger The gylou
+attempts a skill check but hasn’t rolled yet; Eﬀect The gylou demonstrates
+a preternatural ability for the task at hand. They use their Deception modiﬁer for the
+triggering check and for all skill checks using the same skill thereafter until the next
+time the gylou uses this ability or until 24 hours have passed, whichever happens ﬁrst.
+Tentacle Encage Ȱɵ (attack) Requirements The gylou has a Medium or smaller creature
+grabbed; Eﬀect The gylou transfers the grabbed creature into their lower body’s
+net of encaging tentacles, freeing their limbs and tentacles to make Strikes. This
+has the same eﬀects as Swallow Whole (Medium, 2d12+12 bludgeoning,
+Rupture 30), except the encaged creature is not at risk of suﬀocation,
+and the gylou can bring the encaged creature with them when
+they cast dimension door. A gylou can have only one creature
+encaged at a time.
+CORNUGON (HORNED DEVIL)
+Hell’s armies contain legions upon legions of
+different devils all suited precisely to their roles.
+But such an army needs able commanders,
+and it is this role that cornugons ﬁll. Their
+mere presence inspires those under their
+command to improved performance—
+often through fear of the horrible
+torments that a cornugon can unleash as
+punishment for failure. Forged in the ﬁres
+of Malebolge from the most renowned
+warriors among lesser devilkind, even
+the least cornugon is among the ﬁercest
+warriors of the multiverse. The greatest
+among them on occasion ascend further
+still, becoming those rare and feared
+legends of Hell called malebranche.
+
+================================================================================
+PAGE 78
+================================================================================
+
+THE MALEBRANCHE
+Every 5,000 years, the mightiest
+cornugon becomes a malebranche,
+a quasi-deity below infernal dukes.
+Scholars on Golarion currently know
+of 12 active malebranche, and while
+each is unique, all share the goal of
+conquering the Material Plane.
+
+================================================================================
+# GIANT DRAGONFLY NYMPH
+================================================================================
+
+
+Bestiary 2
+DRAGONFLY SPECIES
+While dragonﬂies come in many
+colors, the diﬀerences between
+species sometimes extend beyond
+aesthetic variation. Giant blue
+dragonﬂies are larger toxic versions
+of the insects with a numbing bite
+that boggards use to craft poisons.
+Cave dragonﬂies are slower but
+stronger variants that dwell in large
+cavern systems. The legendary
+storm dragonﬂies are truly immense
+creatures that can use their powerful
+wings to stun foes.
+Dragonfly
+Dragonﬂies hunt with a combination of agile power and deadly speed. In their
+early life stages these insects are entirely aquatic predators, but they take to the air
+once they’ve molted. Most live around bodies of water suitable for spawning, but
+giant dragonﬂies have been known to ﬂy many miles when on the hunt. Though
+their gossamer wings and colorful bodies are beautiful at ﬁrst glance, an unwary
+adventurer lured in by the display runs a very real risk of becoming lunch.
+GIANT DRAGONFLY NYMPH
+The aquatic, wingless offspring of dragonﬂies are called dragonﬂy nymphs. Giant
+dragonﬂy nymphs can be several feet in length and mostly hunt in shallow waters,
+eating carrion and ambushing living creatures with their fully grown counterparts.
+They are not daunted by larger creatures, compelled by their instinct to eat as
+much as possible to sustain their growth.
+GIANT DRAGONFLY NYMPH
+CREATURE 3
+N
+SMALL
+ANIMAL
+AQUATIC
+Perception +8; low-light vision, wavesense (imprecise) 30 feet
+Skills Athletics +10, Stealth +9 (+11 in water)
+Str +3, Dex +2, Con +4, Int –5, Wis +1, Cha –5
+AC 19; Fort +11, Ref +9, Will +6
+HP 46
+Speed 10 feet, swim 30 feet
+Melee Ȱɵ mandibles +12 (agile), Damage 1d10+6 piercing
+Extend Mandibles Ȱɵ The giant dragonfly nymph extends its jaws to a surprising
+distance. The dragonfly nymph makes a mandibles Strike with a reach of 10 feet,
+but the mandibles lose the agile trait
+for this Strike.
+GIANT DRAGONFLY
+These buzzing insects are
+the size of a small horse.
+They are ambush predators
+known to hunt beasts and
+humanoids alike, capable of using
+impressive aerial acrobatics to swoop
+down from above and snatch away their prey.
+
+================================================================================
+# GIANT DRAGONFLY
+================================================================================
+
+Extend Mandibles Ȱɵ The giant dragonfly nymph extends its jaws to a surprising
+distance. The dragonfly nymph makes a mandibles Strike with a reach of 10 feet,
+but the mandibles lose the agile trait
+for this Strike.
+GIANT DRAGONFLY
+These buzzing insects are
+the size of a small horse.
+They are ambush predators
+known to hunt beasts and
+humanoids alike, capable of using
+impressive aerial acrobatics to swoop
+down from above and snatch away their prey.
+GIANT DRAGONFLY
+CREATURE 4
+N
+MEDIUM
+ANIMAL
+Perception +11; darkvision, wavesense (imprecise) 30 feet
+Skills Acrobatics +10 (+12 to Maneuver in Flight), Athletics +12, Stealth +12
+Str +4, Dex +4, Con +2, Int –5, Wis +3, Cha +0
+AC 21; Fort +12, Ref +14, Will +9
+HP 60
+Speed 20 feet, ﬂy 60 feet
+Melee Ȱɵ mandibles +14, Damage 1d12+7 piercing plus Grab
+Clutch Ȱɵ Requirements The giant dragonﬂy has a Medium or smaller
+creature grabbed in its mandibles; Eﬀect The dragonﬂy tries to transfer the
+grabbed creature to be clutched by its legs. The giant dragonﬂy attempts an
+Athletics check against the creature’s Reﬂex DC. On a success, it transfers the
+creature (which remains grabbed) to its legs, freeing its mandibles to attack.
+The dragonﬂy can have only one creature clutched at a time.
+Snatch The giant dragonﬂy can Fly at half Speed while it has a creature grabbed
+or restrained by Clutch, carrying that creature along with it.
+Swoop ʚʖ The giant dragonﬂy Flies up to its Speed and makes one mandible Strike at
+any point during that movement.
+
+================================================================================
+PAGE 100
+================================================================================
+
+DRAINBERRY COLLECTIONS
+As drainberry bushes sell their berries
+to others, they collect coins and small
+curios—such as a cameo depicting a fey
+noble, a lock of golden hair knotted in
+a complex pattern, or a ring inscribed
+“To my dearest Memdaria.” Not all of
+these baubles have monetary value,
+but those that don’t certainly had
+emotional value to the original owner.
+Occasionally, drainberry bushes
+accept intangible trade goods, such as
+odes celebrating the bushes’ grandeur.
+Drainberry Bush
+Drainberry bushes are ﬂoating bushes that originate from the First World, with long,
+thorny vines and dense clusters of bright-red berries. Their hollow thorns quickly
+siphon blood, which is how these carnivorous plants feed, and they rapidly turn
+consumed blood into fresh batches of delicious berries. Drainberry bushes exude a
+faint white glow that is a result of stored positive energy.
+Drainberry bushes exhibit unusually high intelligence and have an astute sense
+of value. They typically become insulted when creatures attempt to harvest their
+berries. Creatures that attempt to converse with drainberry bushes ﬁnds the plants
+telepathically convey only short and simple phrases: most commonly, “Money
+please,” “Deal good,” “Deal no good,” “Want that,” (with a gesture toward an
+item it covets), “Thank you, customer,” and if necessary, “No refunds.” Though
+a drainberry bush considers the market value of its berries to be 25 gp, it greatly
+prefers interesting art objects as payment—even ones of signiﬁcantly lower value.
+
+================================================================================
+# GRANITE GLYPTODONT
+================================================================================
+
+Earth Glide As living boulder.
+Blinding Sand When the sand sentry critically hits with a ﬁst Strike, the target is blinded
+for 1 round.
+GRANITE GLYPTODONT
+This squat and stony creature looks like an armadillo with a large raised back
+and a ﬂail-like tail. The granite glyptodont has no true need to feed, as with
+all elementals, yet it does seem to linger after transforming the ﬂesh of those it
+calciﬁes, as if the mere proximity of ﬂesh fossilizing into stone pleases it somehow.
+GRANITE GLYPTODONT
+CREATURE 8
+N
+LARGE
+EARTH
+ELEMENTAL
+Perception +17; darkvision, tremorsense (imprecise) 90 feet
+Skills Athletics +18
+Str +6, Dex +1, Con +6, Int +0, Wis +5, Cha +0
+AC 28; Fort +18, Ref +13, Will +17
+HP 145; Immunities bleed, paralyzed, poison, sleep
+Speed 30 feet, burrow 20 feet; earth glide
+Melee Ȱɵ tail +20 (forceful, reach 10 feet, versatile piercing), Damage 2d12+9
+bludgeoning plus calciﬁcation
+Calciﬁcation (incapacitation, primal, transmutation) A blow from a granite
+glyptodont’s tail hardens the ﬂesh of the creature struck. The target must
+succeed at a DC 26 Fortitude saving throw or become slowed 1 (or
+slowed 2 on a critical failure). Further failed saves
+against calciﬁcation increase the value of the
+slowed condition. Once a creature’s actions are
+reduced to 0 by calciﬁcation, that creature
+becomes petriﬁed. If the creature isn’t
+petriﬁed, the slowed conditions end once 1
+minute passes without the creature failing a
+save against calciﬁcation.
+Every 24 hours after it was petriﬁed,
+the creature can attempt a DC 26
+Fortitude save to recover. On a success, it
+becomes ﬂesh again, but is slowed 1 for
+the next 24 hours. On a critical success,
+the creature recovers and isn’t slowed.
+On a failure, the creature remains
+petriﬁed, but can try again in 24 hours.
+On a critical failure, the petriﬁcation
+is permanent, and the creature can’t
+attempt any more saves.
+Earth Glide As living boulder.
+
+================================================================================
+PAGE 111
+================================================================================
+
+Bestiary 2
+FIRE ELEMENTAL TREASURE
+Often, nothing remains after
+defeating a ﬁre elemental but a pile
+of ashes and the fading smell of
+smoke. But sometimes, fragments
+of their elemental power remain
+behind. At the GM’s discretion, a ﬁre
+elemental can leave behind ashes,
+lumps of charcoal, or ever-smoldering
+cinders that are valuable components
+for the construction of ﬁre-themed
+magic items.
+Elemental, Fire
+Fire elementals sometimes incorporate burning materials into their being, or
+possibly superheated materials such as molten rock or searing smoke.
+EMBER FOX
+Ember foxes resemble their canid namesakes, save for the ﬂames that make their
+fur and the tips of their long whiskers ﬂicker and glow.
+
+================================================================================
+# GHONHATINE
+================================================================================
+
+
+ZEVGAVIZEB’S FAVORED
+The demonic patron of many
+xulgaths, Zevgavizeb, spends most
+of his time slumbering in the Abyssal
+realm of Gluttondark. However, his
+vile priests actively pursue what
+they insist are their dormant god’s
+goals. Some xulgath high priests
+practice ﬂeshwarping upon their own
+acolytes, creating ghonhatine zealots
+to serve in their legions and guard
+their evil temples.
+Failure The creature is stupeﬁed 1. Further failed saves against Soul Scream increase
+the condition value by 1, to a maximum of stupeﬁed 4. Each time the character gets
+a full night’s rest, the stupeﬁed condition gained from Soul Scream decreases by 1.
+Critical Failure As failure, except the stupeﬁed value increases by 2 instead of by 1.
+Storm of Tentacles ʚʖ The irnakurse makes up to four tentacle Strikes, each against a
+diﬀerent target. These attacks count toward the irnakurse’s multiple attack penalty, but
+the multiple attack penalty doesn’t increase until after it makes all of its attacks.
+GHONHATINE
+In transforming xulgaths, drow ﬂeshwarpers sought not to create a new type of
+creature but to recapture a form of xulgath predecessor believed entirely vanished
+from Golarion. Ghonhatines are the result—hulking reptilian beasts who prefer to
+crawl on all fours and tear at their foes with bestial fury.
+GHONHATINE
+CREATURE 10
+CE
+LARGE
+ABERRATION
+Perception +19; darkvision, scent (imprecise) 30 feet
+Languages Undercommon
+Skills Athletics +21, Intimidation +19, Stealth +19
+Str +7, Dex +3, Con +6, Int –2, Wis +5, Cha +3
+AC 30; Fort +22, Ref +17, Will +19
+HP 175; Immunities disease; Resistances acid 10
+Stench (aura, olfactory) 30 feet. A creature entering the aura or starting
+its turn in the aura must succeed at a DC 26 Fortitude save or
+become sickened 1 (plus slowed 1 for as long as it’s sickened on
+a critical failure). While within the aura, aﬀected creatures take a
+–2 circumstance penalty to saves against disease and to recover
+from the sickened condition. A creature that succeeds at
+its save is temporarily immune for 1 minute.
+Speed 35 feet
+Melee Ȱɵ jaws +23 (reach 10 feet), Damage
+2d12+10 piercing plus 1d6 persistent acid
+Melee Ȱɵ claw +23 (agile, reach 10 feet),
+Damage 2d10+10 slashing
+Ranged Ȱɵ vomit +19 (acid, range
+increment 20 feet), Damage 5d6 acid
+plus ﬂeshgout
+Feed Ȱɵ (manipulate) Requirement The
+ghonhatine is adjacent to the corpse of
+a creature that died within the last hour;
+Eﬀect The ghonhatine devours a chunk of
+the corpse. For 1 minute, the ghonhatine
+gains fast healing 5 and a +2 status bonus
+to damage rolls. It can gain these beneﬁts
+from any given corpse only once.
+Fleshgout (disease) A ghonhatine’s vomit
+carries an awful disease that, over time,
+can cause a suﬀering creature’s ﬂesh to
+develop painful boils that eventually
+slough away, leaving gaping wounds;
+Saving Throw DC 28 Fortitude; Stage 1
+carrier with no ill eﬀect (1d4 hours); Stage
+2 enfeebled 1 and drained 1 (1 day); Stage
+3 enfeebled 2 and drained 2 (1 day); Stage 4
+enfeebled 2 and drained 3 (1 day); Stage 5
+drained 4, enfeebled 2, and unconscious (1
+day); Stage 6 dead
+
+================================================================================
+PAGE 121
+================================================================================
+
+Bestiary 2
+FLY SPECIES
+The giant ﬂy presented here is
+but the most common of these
+unsettlingly oversized pests. Others
+can grow much larger, such as the
+blood-drinking glutton ﬂy, the highly
+toxic and foul-smelling blight ﬂy,
+and the immensely bloated plague
+ﬂy—a nauseating creature ironically
+incapable of ﬂight that fattens itself
+on undead ﬂesh and carries a host of
+awful diseases.
+Fly
+Giant ﬂies are pony-sized insects that have massive compound eyes and bodies
+bristling with short, stiff hairs. Their lairs are notorious for the rotting meat
+they stockpile to lay their eggs into. Their maggot-dens are also prime breeding
+grounds for virulent diseases.
+GIANT MAGGOT
+Giant ﬂies lay their eggs on the bodies of larger monsters or livestock. When they
+hatch, these eggs release squirming maggots the size of human children, ravenous
+young who voraciously consume any ﬂesh in the immediate vicinity—typically
+starting with the body upon which they were born.
+
+================================================================================
+# GIANT MAGGOT
+================================================================================
+
+
+Bestiary 2
+FLY SPECIES
+The giant ﬂy presented here is
+but the most common of these
+unsettlingly oversized pests. Others
+can grow much larger, such as the
+blood-drinking glutton ﬂy, the highly
+toxic and foul-smelling blight ﬂy,
+and the immensely bloated plague
+ﬂy—a nauseating creature ironically
+incapable of ﬂight that fattens itself
+on undead ﬂesh and carries a host of
+awful diseases.
+Fly
+Giant ﬂies are pony-sized insects that have massive compound eyes and bodies
+bristling with short, stiff hairs. Their lairs are notorious for the rotting meat
+they stockpile to lay their eggs into. Their maggot-dens are also prime breeding
+grounds for virulent diseases.
+GIANT MAGGOT
+Giant ﬂies lay their eggs on the bodies of larger monsters or livestock. When they
+hatch, these eggs release squirming maggots the size of human children, ravenous
+young who voraciously consume any ﬂesh in the immediate vicinity—typically
+starting with the body upon which they were born.
+GIANT MAGGOT
+CREATURE 0
+N
+MEDIUM
+ANIMAL
+Perception +3; no vision, tremorsense 30 feet
+Skills Athletics +4
+Str +2, Dex –1, Con +3, Int –5, Wis +1, Cha –5
+AC 13; Fort +9, Ref +3, Will +3
+HP 18; Immune visual
+Regurgitation Ǻȓ Trigger The giant maggot takes damage; Eﬀect The giant maggot
+regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a
+DC 16 Fortitude save or become sickened 1 (or sickened 2 on a critical failure). The giant
+maggot can’t use Regurgitation again until it spends at least an hour feeding on a corpse.
+Speed 10 feet
+Melee Ȱɵ mandibles +6, Damage 1d8+2 piercing plus Grab
+Gnaw Flesh Ȱɵ Requirement The giant maggot has Grabbed a creature; Eﬀect The
+giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the
+creature’s ﬂesh (DC 19 basic Reﬂex save).
+GIANT FLY
+This pony-sized ﬂy’s twitching limbs seem to never stop moving as it constantly
+cleans itself and scoops anything edible into its mouthparts. While primarily carrion
+eaters, giant ﬂies sometimes prey on livestock or other animals too slow to get away.
+
+================================================================================
+# GIANT FLY
+================================================================================
+
+Gnaw Flesh Ȱɵ Requirement The giant maggot has Grabbed a creature; Eﬀect The
+giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the
+creature’s ﬂesh (DC 19 basic Reﬂex save).
+GIANT FLY
+This pony-sized ﬂy’s twitching limbs seem to never stop moving as it constantly
+cleans itself and scoops anything edible into its mouthparts. While primarily carrion
+eaters, giant ﬂies sometimes prey on livestock or other animals too slow to get away.
+GIANT FLY
+CREATURE 1
+N
+MEDIUM
+ANIMAL
+Perception +8; darkvision, tremorsense (imprecise) 30 feet
+Skills Acrobatics +7, Athletics +6
+Str +3, Dex +4, Con +3, Int –5, Wis +3, Cha –5
+AC 17; Fort +6, Ref +9, Will +6
+HP 20
+Avoid the Swat Ǻȓ Trigger The giant ﬂy is targeted with a melee or
+ranged attack by an attacker it can see; Eﬀect The
+giant ﬂy gains a +2 circumstance bonus against
+the triggering attack. If the attack misses, the
+giant insect can Fly up to its ﬂy Speed.
+Speed 20 feet, climb 20 feet, ﬂy 40 feet
+Melee Ȱɵ mandibles +8, Damage 1d6+3
+piercing plus ﬂy pox
+Fly Pox (disease, virulent) A giant ﬂy could
+carry any disease, but most transmit a
+virulent but not fatal infection called Fly
+Pox with their bite; Saving Throw DC 16
+Fortitude; Onset 1 day; Stage 1 enfeebled 1
+(1 day); Stage 2 as stage 1 (1 day); Stage
+3 enfeebled 2 (1 day); Stage 4 as stage 3;
+Stage 5 enfeebled 2 and fatigued (1 day)
+
+================================================================================
+PAGE 122
+================================================================================
+
+FROG SPECIES
+While all frogs are amphibious, some
+frogs spend more of their time out of
+the water. Even those usually found
+near lakes and streams are adapted
+for climbing. You can add variety
+to frog encounters by replacing a
+frog’s swim Speed with a climb Speed
+(or even allowing it to have both).
+Likewise, for frogs that are poisonous
+or venomous, the speciﬁc eﬀects
+of their toxin can vary by species,
+with exposure to some frog poison
+causing a creature to become clumsy
+or stupeﬁed instead of enfeebled.
+Frog
+Frogs that are poisonous or grow to monstrous size can be a menace to adventurers.
+SPEAR FROG
+The spear frog is named for its toxin, which is traditionally used to envenom
+thrown projectiles like spears and daggers.
+
+================================================================================
+# GIANT FROG
+================================================================================
+
+Spear Frog Venom (poison) Saving Throw DC 15 Fortitude; Maximum Duration 6 rounds;
+Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and enfeebled 1 (1 round)
+Sticky Feet Spear frogs are not ﬂat-footed when Balancing on a narrow surface, and they
+gain a +4 bonus to Reﬂex saves to avoid falling.
+SPEAR FROG POISON
+A single spear frog yields enough toxin to Craft 1 dose of spear frog poison.
+SPEAR FROG POISON
+ITEM 1
+ALCHEMICAL
+CONSUMABLE
+INJURY
+POISON
+Price 3 gp
+Usage held, 2 hands; Bulk L
+Activation ʚʖ Interact
+Saving Throw DC 15 Fortitude; Maximum Duration 6 rounds; Stage 1 1d4 poison damage
+(1 round); Stage 2 1d6 poison damage and enfeebled 1 (1 round)
+GIANT FROG
+Giant frogs can grow up to 6 feet long and weigh over 200 pounds, with rows of
+razor-sharp teeth lining their gaping mouths.
+GIANT FROG
+CREATURE 1
+N
+MEDIUM
+ANIMAL
+Perception +7; low-light vision
+Skills Acrobatics +5, Athletics +6 (+10 to High Jump or Long
+Jump), Stealth +7
+Str +3, Dex +2, Con +3, Int –4, Wis +2, Cha –1
+AC 15; Fort +8, Ref +7, Will +5
+HP 30
+Speed 25 feet, swim 25 feet
+Melee Ȱɵ jaws +8, Damage 1d6+3 piercing plus Grab
+Melee Ȱɵ tongue +8 (reach 15 feet), Eﬀect tongue grab
+Sticky Feet As spear frog.
+Tongue Grab A creature hit by the giant frog’s tongue becomes
+grabbed by the giant frog. The creature isn’t immobilized, but it
+can’t move beyond the reach of the frog’s tongue. A creature
+can sever the tongue with a Strike against AC 13 that
+deals at least 2 slashing damage. This deals no damage
+to the frog but prevents it from using its tongue Strike
+until it regrows its tongue, which takes a week.
+
+================================================================================
+PAGE 123
+================================================================================
+
+Bestiary 2
+ALIEN ORIGINS
+Froghemoths have been known to
+suddenly abandon an established lair
+to seek a new home, as if in response
+to some cosmic convergence or
+subspace signal imperceptible to
+other creatures. Some argue that
+the froghemoth is never fully
+comfortable in any environment
+because it isn’t from this world at
+all, and that these wanderings are
+instinctual urges to seek out its true
+home—a home not represented by
+the strange world in which the beast
+ﬁnds itself trapped.
+Froghemoth
+A terrifying abomination of teeth, tentacles, and unbridled rage, the froghemoth
+is thankfully rarely encountered even in the deepest swamplands or most remote
+Darklands caverns. Capable of devouring dinosaurs and even dragons, it is a
+frighteningly effective ambush hunter, immersing itself in the mire with only its
+eyestalk protruding and watching in every direction at once with uncanny precision.
+
+================================================================================
+# GLASS GOLEM
+================================================================================
+
+Splinter Volley ʚʖ (arcane, evocation) The wood golem makes up to four splinter
+Strikes, each against a diﬀerent target. These attacks count toward the wood golem’s
+multiple attack penalty, but the multiple attack penalty doesn’t increase until after the
+wood golem makes all of its attacks.
+GLASS GOLEM
+Crafted of hardened glass and held together by magically treated lead, glass golems
+are both deadly guardians and works of exquisite art. Glass golems most often
+protect grand cathedrals or opulent palaces—testaments to the wealth and power
+of those they serve, or once served. Once spurred into action by the commands of
+their creators, glass golems are quicker and more agile than most other golems.
+Their sharp, blade-like limbs can easily sever veins and arteries, creating wounds
+that bleed profusely.
+Of all the various types of golems, the glass golem is the one most akin to a
+work of art. Just as powerful aristocrats might use an ice golem for temperature
+regulation or a wood golem as an ego-boosting statue, a glass golem’s colorful
+glass construction can elevate the beauty of any chamber by its mere presence.
+GLASS GOLEM
+CREATURE 8
+UNCOMMON
+N
+LARGE
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +14; darkvision
+Skills Acrobatics +16, Athletics +19, Stealth +14
+Str +5, Dex +4, Con +5, Int –5, Wis +0, Cha –5
+AC 26; Fort +17, Ref +16, Will +14
+HP 135; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued,
+healing, magic (see Golem Antimagic below), mental, necromancy,
+nonlethal attacks, paralyzed, poison, sickened, unconscious;
+Resistances physical 10 (except adamantine or bludgeoning)
+Golem Antimagic harmed by sonic (6d6, 2d6 from areas or
+persistent damage); healed by ﬁre (area 2d6 HP); slowed
+by cold
+Vulnerable to Shatter A glass golem is aﬀected by
+the shatter spell as though the golem were an
+unattended object.
+Spell Reﬂection Ǻȓ (abjuration, arcane) Trigger
+The glass golem is targeted by a spell; Eﬀect
+The glass golem positions its magical, reﬂective
+surfaces to turn the spell back on the caster. It
+tries to counteract the spell by attempting an
+Acrobatics check for its counteract check. If it
+successfully counteract the spell, the eﬀect is
+turned back on the caster.
+Speed 25 feet
+Melee Ȱɵ bladed limb +20 (agile, magical,
+versatile P), Damage 2d6+8 slashing plus
+1d6 bleed
+Dazzling Brilliance ʚʖ (evocation, light, visual) The glass golem creates waves of
+scintillating luminosity that cast bright light in a 60-foot emanation (and dim
+light for the next 60 feet). The light lasts until the start of the glass golem’s
+next turn, after which the glass golem can’t use Dazzling Brilliance for 1d4 rounds. A
+creature within the bright light or that enters the bright light must attempt a DC 23
+Will save.
+Success The creature is unaﬀected.
+Failure The creature is dazzled for 1 round.
+Critical Failure The creature is blinded for 1 round and then dazzled for an additional
+4 rounds.
+
+================================================================================
+PAGE 133
+================================================================================
+
+Bestiary 2
+ILL-ADVISED TRAININGS
+While many have tried to train
+gorgons as mounts or beasts of war,
+the combination of their notoriously
+short tempers and the diﬃculty
+in containing the eﬀects of their
+petrifying breath make this a diﬃcult
+task. In most cases, those who
+attempt to domesticate gorgons
+end up creating untamed gorgon
+breeding grounds.
+Gorgon
+Though they may resemble constructs to the untrained eye due to their metallic,
+interlocking armor plates that look and feel like polished stone, gorgons are a
+creature of ﬂesh and bone. These ill-tempered beasts greet interlopers with a
+charge or trample accompanied with belches of petrifying breath. Gorgons are
+dangerous on their own, and when they band together in herds, they become
+especially deadly.
+Gorgons typically subsist on petriﬁed ﬂesh or fossils. These supernatural
+beasts can gain sustenance from natural stone if they must, though they ﬁnd
+raw stone ﬂavorless, so it’s not a preferred food source. In battle, gorgons
+use their petrifying breath to turn their prey into stone. They break up the
+resulting statues with their hooves or horns and swallow the stony chunks
+with loud chewing bites. Gorgons cannot digest unpetriﬁed organic material,
+and if they try, they experience sickness and great gastrointestinal peril. Such
+discomforts are not life threatening to gorgons, but they do make the creatures
+even more ill tempered than usual—much to the chagrin of anyone they
+subsequently encounter.
+Gorgon ﬂesh tastes vaguely like beef, but with a gritty, earthy texture and
+aftertaste that most meat connoisseurs ﬁnd off-putting. Creatures with a close
+association to earth and stone are more likely to ﬁnd the ﬂavor appetizing;
+stone giants in particular consider gorgon steaks to be
+delicacies. Some cultures, notably dwarven cultures,
+consider the preparation of gorgon for meals as both a
+physical and a culinary challenge. Chefs who work with
+gorgon ﬂesh can ﬁnd renown for their skill in creating
+palatable dishes from such naturally unpalatable meat.
+
+================================================================================
+# GORGON
+================================================================================
+
+
+Bestiary 2
+ILL-ADVISED TRAININGS
+While many have tried to train
+gorgons as mounts or beasts of war,
+the combination of their notoriously
+short tempers and the diﬃculty
+in containing the eﬀects of their
+petrifying breath make this a diﬃcult
+task. In most cases, those who
+attempt to domesticate gorgons
+end up creating untamed gorgon
+breeding grounds.
+Gorgon
+Though they may resemble constructs to the untrained eye due to their metallic,
+interlocking armor plates that look and feel like polished stone, gorgons are a
+creature of ﬂesh and bone. These ill-tempered beasts greet interlopers with a
+charge or trample accompanied with belches of petrifying breath. Gorgons are
+dangerous on their own, and when they band together in herds, they become
+especially deadly.
+Gorgons typically subsist on petriﬁed ﬂesh or fossils. These supernatural
+beasts can gain sustenance from natural stone if they must, though they ﬁnd
+raw stone ﬂavorless, so it’s not a preferred food source. In battle, gorgons
+use their petrifying breath to turn their prey into stone. They break up the
+resulting statues with their hooves or horns and swallow the stony chunks
+with loud chewing bites. Gorgons cannot digest unpetriﬁed organic material,
+and if they try, they experience sickness and great gastrointestinal peril. Such
+discomforts are not life threatening to gorgons, but they do make the creatures
+even more ill tempered than usual—much to the chagrin of anyone they
+subsequently encounter.
+Gorgon ﬂesh tastes vaguely like beef, but with a gritty, earthy texture and
+aftertaste that most meat connoisseurs ﬁnd off-putting. Creatures with a close
+association to earth and stone are more likely to ﬁnd the ﬂavor appetizing;
+stone giants in particular consider gorgon steaks to be
+delicacies. Some cultures, notably dwarven cultures,
+consider the preparation of gorgon for meals as both a
+physical and a culinary challenge. Chefs who work with
+gorgon ﬂesh can ﬁnd renown for their skill in creating
+palatable dishes from such naturally unpalatable meat.
+GORGON
+CREATURE 8
+UNCOMMON
+N
+LARGE
+BEAST
+Perception +19; darkvision, scent (imprecise) 30 feet
+Skills Athletics +19
+Str +7, Dex +3, Con +6, Int –4, Wis +5, Cha +3
+AC 28; Fort +18, Ref +13, Will +17
+HP 135; Immunities petriﬁcation
+Speed 25 feet
+Melee Ȱɵ horn +20, Damage 2d12+10 piercing
+Melee Ȱɵ hoof +18, Damage 2d6+10 bludgeoning
+Breath Weapon ʚʖ (earth, incapacitation, primal,
+transmutation) The gorgon breathes a 60-foot cone of
+green gas. Each creature in the area must attempt
+a DC 25 Fortitude save. The gorgon
+can’t use Breath Weapon again
+for 1d4 rounds.
+Critical Success The creature
+is unaﬀected.
+Success The creature’s body
+hardens
+and
+stiﬀens,
+causing
+it
+to
+become
+slowed 1 for 1 round.
+Failure The creature becomes
+petriﬁed for 1 minute. It can attempt a new save at the end
+of each of its turns.
+Critical Failure The creature becomes petriﬁed permanently.
+Powerful Charge ʚʖ The gorgon Strides twice, then makes a horn
+Strike. If it moved at least 20 feet from its starting position, the
+Strike’s damage is increased to 3d12+12.
+Trample ̂ˬ Medium or smaller, hoof, DC 26
+
+================================================================================
+PAGE 134
+================================================================================
+
+DOMINION PLOTS
+While Golarion largely survived
+the events of the Doomsday Dawn,
+the threat of the Dominion of the
+Black is far from over. This alien
+conglomerate recognizes that it
+needs to understand the vastness
+of humanoids in the universe to
+better enact their plans, and certain
+nihilistic scholars suggest that the
+Doomsday Dawn was never intended
+to end the world, but instead served
+its primary goal of setting the
+stage for an even more devastating
+invasion from the Dominion in the
+near future.
+Gosreg
+Gosregs are agents of the Dominion of the Black that insinuate themselves into
+humanoid societies to foster the goals of their sinister alien masters. They act as
+spies and special forces that can mingle with humanoid society while enacting
+plans for the rest of the Dominion in secret.
+In their natural forms, gosregs dart about in a jerky gallop due to their stumpy
+legs and gangly arms. They take on the appearances of humanoids to inﬁltrate
+societies, and they drop their disguises only when they feel they are ultimately
+compromised and must resort to physical violence to protect their agendas. Their
+brain-like heads and bestial legs suggest a potential link with a similar Dominion of
+the Black agent: the dreaded intellect devourer.
+
+================================================================================
+# GOSREG
+================================================================================
+
+
+DOMINION PLOTS
+While Golarion largely survived
+the events of the Doomsday Dawn,
+the threat of the Dominion of the
+Black is far from over. This alien
+conglomerate recognizes that it
+needs to understand the vastness
+of humanoids in the universe to
+better enact their plans, and certain
+nihilistic scholars suggest that the
+Doomsday Dawn was never intended
+to end the world, but instead served
+its primary goal of setting the
+stage for an even more devastating
+invasion from the Dominion in the
+near future.
+Gosreg
+Gosregs are agents of the Dominion of the Black that insinuate themselves into
+humanoid societies to foster the goals of their sinister alien masters. They act as
+spies and special forces that can mingle with humanoid society while enacting
+plans for the rest of the Dominion in secret.
+In their natural forms, gosregs dart about in a jerky gallop due to their stumpy
+legs and gangly arms. They take on the appearances of humanoids to inﬁltrate
+societies, and they drop their disguises only when they feel they are ultimately
+compromised and must resort to physical violence to protect their agendas. Their
+brain-like heads and bestial legs suggest a potential link with a similar Dominion of
+the Black agent: the dreaded intellect devourer.
+GOSREG
+CREATURE 11
+UNCOMMON
+CE
+MEDIUM
+ABERRATION
+Perception +21; darkvision, thoughtsense
+60 feet
+Languages Aklo, Common, Undercommon;
+telepathy 100 feet
+Skills Deception +24, Diplomacy +22,
+Occultism +23, Society +19, Stealth +23
+Str +3, Dex +6, Con +3, Int +6, Wis +5, Cha +7
+Thoughtsense (divination, mental, occult) The
+gosreg senses a creature’s mental essence as
+a precise sense with the listed range; it cannot
+sense mindless creatures with thoughtsense.
+AC 31; Fort +18, Ref +23, Will +22; +1 status to all
+saves vs. magic
+HP 195; Immunities confused; Resistances mental 10
+Unsettled Aura (aura, mental, occult) 30 feet. Gosregs project a
+ﬁeld of discordant energy that unsettles the minds of thinking
+creatures. Any non-mindless creature within 30 feet of a gosreg
+takes a –1 status penalty to Will saves.
+Speed 25 feet
+Melee Ȱɵ jaws +21 (ﬁnesse), Damage 2d10+7 piercing plus 1d10 mental
+Melee Ȱɵ claw +21 (agile, ﬁnesse), Damage 2d8+7 slashing
+Occult Innate Spells DC 30, attack +22; 6th phantasmal calamity,
+phantom pain; 5th mind probe, sending, subconscious
+suggestion, synaptic pulse; 4th nightmare, suggestion
+(×3); 2nd undetectable alignment; Cantrips (6th)
+mage hand, telekinetic projectile
+Change Shape Ȱɵ (concentrate, occult, polymorph,
+transmutation) The gosreg takes on the
+appearance of any Small or Medium humanoid.
+This doesn’t change its Speed or its attack
+and damage modiﬁers with its Strikes, but
+it might change the damage type its Strikes
+deal (typically to bludgeoning).
+Mind Bolt ʚʖ (illusion, mental, occult)
+A gosreg concentrates its ﬁeld of
+discordant mental energy and projects
+it into the mind of an enemy within
+60 feet. The target takes 6d6
+mental damage (DC 30
+basic Will save). On
+a
+critical
+failure,
+the creature is also
+confused for 1d4 rounds.
+
+================================================================================
+PAGE 135
+================================================================================
+
+Bestiary 2
+GREMLIN MINIONS
+Most know better than to employ
+gremlins, so when the fey creatures
+live side-by-side with others, it’s often
+as parasites and unwelcome guests.
+Imaginative and sinister folk who ﬁnd
+themselves infested sometimes catch
+the gremlins and release them in the
+homes of their enemies.
+Gremlin
+The mischievous fey known as gremlins seem to come in endless varieties with
+differing appearances. Preferring to destroy rather than to build, gremlins almost
+never construct their own homes, instead infesting tunnels and abandoned buildings.
+They augment these lairs with cruel traps, and sometimes trained animals (often
+ones considered pests by humanoids). Gremlin lairs are generally near a city or
+village (whether on the surface or in the Darklands) that provides them with a ready
+source of food, trap-building materials, and, of course, victims for entertainment.
+There is little difference in appearance between male and female gremlins, and
+many observers wrongly assume that they are single-gender or genderless. Gremlins
+are proliﬁc breeders, and a handful can quickly become a mob. Young gremlins are
+raised communally—a necessity, as they exhibit the urge to cause mischief from
+birth. They grow quickly and reach full size in a matter of weeks.
+VEXGIT
+These gremlins are covered head-to-toe by a crustacean-like exoskeleton that
+clacks and rattles whenever a vexgit moves. They delight in sabotaging the
+works of other creatures, often turning these works into dangerous traps. An
+individual vexgit might jam a door lock, loosen the wheels on a carriage, or
+remove nails from a boat hull. Buildings infested by vexgits become ﬁlled
+with traps like portcullises descending suddenly, water pipes exploding
+violently, and clock towers disgorging an avalanches of gears.
+Aware of their own physical weakness, vexgits carry hammers and
+other tools to leverage pieces apart or smash whatever they’re unable
+to disassemble. Indeed, a hammer sized for a human becomes a
+maul in the tiny hands of a vexgit.
+Vexgit infestations range from one to a score. Larger
+groups are often led by a more powerful vexgit with
+additional skill in thievery or primal magic. Trained
+giant rats, vipers, and rat swarms are common in
+vexgit lairs.
+
+================================================================================
+# GRENDEL
+================================================================================
+
+
+Bestiary 2
+GRENDEL’S MOTHER
+At the bottom of a remote mountain
+lake ﬁlled with sea serpents is a
+magical house—the lair of Grendel’s
+mother. Among her many treasures is
+a sword so big and heavy that only a
+supernaturally strong individual can
+wield it. When Grendel is injured, he
+retreats here to heal.
+Grendel
+This reaver of the cold marsh is not just a monster; he is a force of nature. Where there
+is peace and prosperity in the world, Grendel strikes, eager to prove that tranquility
+is transitory and death is the only constant. He stalks the edge of his fens, seeking
+settlements where joy holds sway. He strikes under cover of night, primarily targeting
+celebrations or festivals. The more happiness or joy he can extinguish, the better.
+Although Grendel is a unique creature, killing him won’t save the world from his
+ravages for long. Once Grendel’s mother instinctively feels the pain of her violent
+son’s death, she soon births a replacement. The new Grendel seems to avoid the
+sites his elder brothers terrorized, as if he instinctively knows that such a place hosts
+heroes powerful enough to defeat him.
+GRENDEL
+CREATURE 19
+UNIQUE
+CE
+LARGE
+HUMANOID
+Perception +35; darkvision, keen hearing 120 feet
+Languages Common
+Skills Acrobatics +34, Athletics +39, Intimidation +34, Stealth +34, Survival +33
+Str +10, Dex +5, Con +7, Int +0, Wis +6, Cha +5
+Keen Hearing Grendel’s hearing is a precise sense to a range of 120 feet.
+AC 44; Fort +36, Ref +32, Will +31
+HP 360; Resistances all 15 (except unarmed attacks)
+Frightful Presence (aura, emotion, fear, mental) 60 feet, DC 38.
+Attack of Opportunity Ǻȓ Grendel gains an extra reaction at the start of each of
+his turns that he can use only to make an Attack of Opportunity with his
+claw. He can’t use more than one Attack of Opportunity triggered by the
+same action.
+Ferocity Ǻȓ
+Unstoppable Ǻȓ Trigger Grendel would take persistent damage or gain one of
+the following conditions: blinded, clumsy, confused, controlled, dazzled,
+deafened, doomed, drained, enfeebled, fascinated, fatigued, ﬂeeing,
+frightened, paralyzed, petriﬁed, sickened, slowed, stunned, or
+stupeﬁed; Eﬀect The persistent damage or condition from
+the triggering eﬀect doesn’t aﬀect Grendel.
+Speed 40 feet
+Melee Ȱɵ ﬁst +37 (agile, magical, reach 10 feet),
+Damage 4d8+18 bludgeoning plus Improved Grab
+Melee Ȱɵ jaws +37 (magical, reach 10 feet, versatile B),
+Damage 4d10+18 piercing
+Ranged Ȱɵ rock +37 (brutal, range increment
+150 feet), Damage 2d12+18 bludgeoning
+Hands of the Murderer Grendel’s ﬁst Strikes
+deal 18 bludgeoning damage on a failure
+(but no damage on a critical failure).
+Tooth Grind Ȱɵ Requirements Grendel
+is grabbing a creature; Eﬀect Grendel
+makes a bludgeoning jaws Strike against
+the creature he’s grabbing. On a hit, the
+creature also takes 2d6 persistent bleed damage
+and becomes wounded 1, or increases its wounded
+value by 1 if already wounded. On a critical hit,
+the creature instead becomes wounded 2, or
+increases its wounded value by 2 if already
+wounded. If a creature dies from
+Tooth Grind, Grendel
+regains 40 HP; this
+is a healing eﬀect.
+Throw Rock Ȱɵ
+
+================================================================================
+PAGE 138
+================================================================================
+
+GRIMSTALKER FORESTRY
+Grimstalkers often harvest the seeds
+of carnivorous plants, particularly
+assassin vines, which they sow
+during their wanderings. Typically
+they seed their territory’s borders
+with these dangerous plants as a
+defense tactic, but they also sow
+gardens and ﬁelds, weaponizing
+these plots of land against hapless
+gardeners and farmers.
+Grimstalker
+These violently murderous fey have one purpose: to stealthily hunt down and
+slay humanoids brazen enough to dare set foot in the wilderness. Though they
+prefer to hunt from the shadows, grimstalkers do not fear taking their grisly work
+to the very edges of civilization. This boldness serves as a reminder that nature
+can be cruel, capricious, and owes no debt to humanity. Grimstalkers are happy
+to perform nature’s dirty work and particularly enjoy targeting loggers, hunters,
+and explorers, regardless of whether they respect the natural setting they work or
+travel within.
+Grimstalkers are gaunt and hairless, and their mottled, green and brown ﬂesh
+gives them the appearance of moss-draped bark. When damaged, they bleed a
+thick, sap-like blood. They mark their territories by lopping off the heads of
+their victims and stringing them up in the surrounding trees, a practice that
+often lures dangerous scavengers into their lands. Carnivorous and thorny
+plants are often found in wilds where grimstalkers dwell, ﬁlling roles that
+pets might in human society, though grimstalkers tend to treat these “pets”
+poorly at best.
+There are few accounts of grimstalkers working with other fey—for the
+most part, grimstalkers see their kin from the First World as cowards or
+weaklings, or perhaps both. Even notoriously violent fey such as redcaps
+shy from them, as grimstalkers consider their own kind the only company
+worth keeping.
+Grimstalkers hunt in small bands, using stealth to approach their targets.
+They surround enemies ﬁrst, then work to unnerve them by knocking on
+trees or howling out threats in Aklo to distract and panic their quarry.
+Of course, a band of grimstalkers won’t stay together for long, quickly
+succumbing to bickering and inﬁghting. These violent arguments
+are common pastimes among grimstalkers, often ending with each
+grimstalker going its own way. Not even the presence of more
+powerful fey or commanding creatures can keep grimstalkers
+from their predisposed bickering. Some scholars theorize that
+this quality speaks to an ancient curse that once afﬂicted fey
+who were judged too cantankerous, but in truth, it’s just
+part of what makes a grimstalker what it is: ill-tempered,
+confrontational, and bitter.
+
+================================================================================
+# GRIMSTALKER
+================================================================================
+
+
+GRIMSTALKER FORESTRY
+Grimstalkers often harvest the seeds
+of carnivorous plants, particularly
+assassin vines, which they sow
+during their wanderings. Typically
+they seed their territory’s borders
+with these dangerous plants as a
+defense tactic, but they also sow
+gardens and ﬁelds, weaponizing
+these plots of land against hapless
+gardeners and farmers.
+Grimstalker
+These violently murderous fey have one purpose: to stealthily hunt down and
+slay humanoids brazen enough to dare set foot in the wilderness. Though they
+prefer to hunt from the shadows, grimstalkers do not fear taking their grisly work
+to the very edges of civilization. This boldness serves as a reminder that nature
+can be cruel, capricious, and owes no debt to humanity. Grimstalkers are happy
+to perform nature’s dirty work and particularly enjoy targeting loggers, hunters,
+and explorers, regardless of whether they respect the natural setting they work or
+travel within.
+Grimstalkers are gaunt and hairless, and their mottled, green and brown ﬂesh
+gives them the appearance of moss-draped bark. When damaged, they bleed a
+thick, sap-like blood. They mark their territories by lopping off the heads of
+their victims and stringing them up in the surrounding trees, a practice that
+often lures dangerous scavengers into their lands. Carnivorous and thorny
+plants are often found in wilds where grimstalkers dwell, ﬁlling roles that
+pets might in human society, though grimstalkers tend to treat these “pets”
+poorly at best.
+There are few accounts of grimstalkers working with other fey—for the
+most part, grimstalkers see their kin from the First World as cowards or
+weaklings, or perhaps both. Even notoriously violent fey such as redcaps
+shy from them, as grimstalkers consider their own kind the only company
+worth keeping.
+Grimstalkers hunt in small bands, using stealth to approach their targets.
+They surround enemies ﬁrst, then work to unnerve them by knocking on
+trees or howling out threats in Aklo to distract and panic their quarry.
+Of course, a band of grimstalkers won’t stay together for long, quickly
+succumbing to bickering and inﬁghting. These violent arguments
+are common pastimes among grimstalkers, often ending with each
+grimstalker going its own way. Not even the presence of more
+powerful fey or commanding creatures can keep grimstalkers
+from their predisposed bickering. Some scholars theorize that
+this quality speaks to an ancient curse that once afﬂicted fey
+who were judged too cantankerous, but in truth, it’s just
+part of what makes a grimstalker what it is: ill-tempered,
+confrontational, and bitter.
+GRIMSTALKER
+CREATURE 5
+CE
+MEDIUM
+FEY
+Perception +12; low-light vision
+Languages Aklo, Common
+Skills Acrobatics +13, Intimidation +13, Nature +11,
+Stealth +13, Survival +12
+Str +4, Dex +4, Con +2, Int +2, Wis +3, Cha +2
+Camouflage A grimstalker can Hide in natural environments, even if it doesn’t
+have cover.
+AC 22; Fort +9, Ref +15, Will +12
+HP 60; Weaknesses cold iron 5
+Speed 40 feet, climb 20 feet; woodland stride
+Melee Ȱɵ claw +15 (agile), Damage 2d6+7 slashing plus grimstalker sap
+Primal Innate Spells DC 22, attack +14; 3rd earthbind, wall of thorns; 2nd entangle, pass
+without trace, tree shape; Cantrips (3rd) tanglefoot
+Grimstalker Sap (poison); Saving Throw DC 22 Fortitude; Maximum Duration 6 rounds;
+Stage 1 1d6 poison damage (1 round); Stage 2 1d6 poison damage and clumsy 1
+(1 round), Stage 3 2d6 poison damage and clumsy 2 (1 round)
+Woodland Stride A grimstalker can always ﬁnd a path, almost as if foliage parts before
+it. A grimstalker ignores diﬃcult terrain caused by plants, such as bushes, vines, and
+undergrowth. Even plants manipulated by magic don’t impede its progress.
+
+================================================================================
+PAGE 139
+================================================================================
+
+Bestiary 2
+GIANT GRINDYLOWS
+While most grindylows are Small, a
+minute percentage of these creatures
+keep growing throughout their lives.
+Those that become Large or larger
+gain the giant trait and often become
+champions of their schools.
+Grindylow
+The top half of a grindylow looks vaguely like that of a goblin, but from the waist
+down, their bodies split into a tangle of suckered, wriggling tentacles. They dwell
+mostly in shallow waters both fresh and briny, including lakes, rivers, coastal
+regions, and near coral reefs. Grindylows generally organize into schools ranging
+from a few individuals to a few hundred. Smaller schools can sometimes be
+brought under the leadership of a powerful aquatic creature, though such alliances
+last only until the school faces a major setback, at which point the surviving
+grindylows scatter and form smaller schools of their own.
+Grindylows aren’t territorial, but they are pragmatic; while they rarely build
+permanent structures, they will adopt a good hunting ground for generations until
+driven away by predators. They often lair in mobile shelters, such as a sargasso of
+seaweed or the hull of an abandoned ship. They are skilled scavengers and hunters
+that eat anything they can sink their teeth into.
+Grindylows respect the power of bigger sea predators but have a special hatred
+for squids (or anything they believe looks like a squid). Sailors plying grindylowinfested waters often paint the images of squids on the bottoms of their hulls in
+hopes of warding the little terrors off. While this can keep smaller schools at bay,
+it can also backﬁre, potentially inciting larger groups to gather for a coordinated
+attack; this becomes especially more likely if the ship’s route becomes predictable.
+This hatred of squids does not extend to
+other tentacled creatures; grindylows
+consider octopuses to be the
+epitome of grace and power.
+
+================================================================================
+# GRINDYLOW
+================================================================================
+
+
+Bestiary 2
+GIANT GRINDYLOWS
+While most grindylows are Small, a
+minute percentage of these creatures
+keep growing throughout their lives.
+Those that become Large or larger
+gain the giant trait and often become
+champions of their schools.
+Grindylow
+The top half of a grindylow looks vaguely like that of a goblin, but from the waist
+down, their bodies split into a tangle of suckered, wriggling tentacles. They dwell
+mostly in shallow waters both fresh and briny, including lakes, rivers, coastal
+regions, and near coral reefs. Grindylows generally organize into schools ranging
+from a few individuals to a few hundred. Smaller schools can sometimes be
+brought under the leadership of a powerful aquatic creature, though such alliances
+last only until the school faces a major setback, at which point the surviving
+grindylows scatter and form smaller schools of their own.
+Grindylows aren’t territorial, but they are pragmatic; while they rarely build
+permanent structures, they will adopt a good hunting ground for generations until
+driven away by predators. They often lair in mobile shelters, such as a sargasso of
+seaweed or the hull of an abandoned ship. They are skilled scavengers and hunters
+that eat anything they can sink their teeth into.
+Grindylows respect the power of bigger sea predators but have a special hatred
+for squids (or anything they believe looks like a squid). Sailors plying grindylowinfested waters often paint the images of squids on the bottoms of their hulls in
+hopes of warding the little terrors off. While this can keep smaller schools at bay,
+it can also backﬁre, potentially inciting larger groups to gather for a coordinated
+attack; this becomes especially more likely if the ship’s route becomes predictable.
+This hatred of squids does not extend to
+other tentacled creatures; grindylows
+consider octopuses to be the
+epitome of grace and power.
+GRINDYLOW
+CREATURE 0
+CE
+SMALL
+ABERRATION
+AMPHIBIOUS
+Perception +5; darkvision
+Languages Aquan
+Skills Athletics +5, Stealth +7, Survival +5
+Str +1, Dex +3, Con +2, Int –1, Wis +3, Cha +0
+Items spear
+AC 15; Fort +6, Ref +7, Will +5
+HP 14
+Attack of Opportunity Ǻȓ A grindylow gains
+1 extra reaction at the start of each of its
+turns that it can use only to make an Attack
+of Opportunity with a tentacle. It can’t use more than one
+Attack of Opportunity triggered by the same choice.
+Speed 10 feet, swim 25 feet
+Melee Ȱɵ bite +7 (ﬁnesse), Damage 1d6+1 piercing
+Melee Ȱɵ tentacle +7 (agile, ﬁnesse, trip), Damage 1d4+1
+bludgeoning plus Grab
+Melee Ȱɵ spear +5, Damage 1d6+1 piercing
+Ranged Ȱɵ spear +7 (thrown 20 feet), Damage 1d6+1
+piercing
+Clinging Suckers When a grindylow Grabs a
+creature larger than itself, it attaches to
+that creature. The grabbed creature is not
+immobilized, but if it moves, the grindylow
+moves with it. If the creature is Medium or
+smaller, it takes a –5-foot status penalty
+to its Speeds while the grindylow is
+attached. The grindylow is flat-footed
+while it is attached to a creature.
+Jet ʚʖ (move) The grindylow moves up to 60 feet in a straight
+line through the water without triggering reactions.
+
+================================================================================
+PAGE 140
+================================================================================
+
+A HISTORY OF NEUTRALITY
+Grippli villages rarely get involved in
+the concerns of other communities,
+preferring to focus on maintaining
+relative peace within their own
+small societies. Legends explain
+this attitude with a tale of a grippli
+champion who dragged his people
+into a war between humans and
+charau-kas. The stories diﬀer as to
+which side the gripplis took, but every
+version ends with the bloody deaths
+of the hero and his family. Since that
+time, village elders claim, gripplis have
+done their best to remain far from the
+conﬂicts of others.
+Grippli
+Gripplis make their homes in the treetops of tropical jungles and forests. These
+frog-like humanoids are uniquely adapted to their environment, with oversized
+eyes that give them keen vision in both light and dark and large toes that allow
+them to easily scale trees. Gripplis vary widely in physical appearance, with
+their physiologies inﬂuenced by their surrounding environment. Those who live
+in verdant forests, for example, typically have bright green skin and red eyes.
+In contrast, gripplis who live in regions of rot and decay have mottled-brown
+coloration, and those who dwell near lakes or streams may bear bright blue and
+orange stripes. Typical gripplis stand just over 2 feet tall and weigh approximately
+30 pounds.
+Whatever region they come from, gripplis tend to be peaceful hunter-gatherers.
+Due to their modest understanding of agriculture, gripplis don’t maintain typical
+farms like other humanoids do. Rather, they cultivate mushroom patches and
+gather a wide array of fruits from the surrounding wilderness. While most gripplis
+hunt insects, some societies also capture and breed them, nurturing herds of
+giant dragonﬂies or beetles that they eventually slaughter for food. Particularly
+enterprising gripplis might even seek out and tame larger
+ﬂying insects to use as mounts during their hunts. The
+rearing of such massive insects is no easy feat, however,
+so gripplis who manage to do so are often heralded as
+local heroes.
+Gripplis usually construct their villages in particularly
+dense copses, stringing thin rope bridges between wide wooden
+platforms built around each trunk. They make use of broad
+leaves and thick branches to further obscure their villages,
+making them especially difﬁcult to spot from the forest ﬂoor,
+and riddle the surrounding forest with labyrinthine trails that
+only they can navigate.
+Grippli scouts typically keep watch on the outskirts
+of grippli settlements. More potent gripplis inhabit the
+settlements, be they religious leaders, powerful druids, or
+agile warriors that, due to their small size, focus more on
+ﬁnesse weapons and ranged attacks than on melee tactics.
+
+================================================================================
+# GRIPPLI SCOUT
+================================================================================
+
+GRIPPLI SCOUT
+CREATURE 1
+N
+SMALL
+GRIPPLI
+HUMANOID
+Perception +8; darkvision
+Languages Common, Grippli
+Skills Acrobatics +7, Athletics +4, Nature +6,
+Stealth +7 (+9 in forests), Survival +6
+Str +1, Dex +4, Con +2, Int +0, Wis +3, Cha –1
+Items dart (5), leather armor, net, sickle
+AC 18; Fort +7, Ref +9, Will +6
+HP 20
+Speed 25 feet, climb 20 feet; jungle stride
+Melee Ȱɵ sickle +9 (agile, ﬁnesse, trip), Damage
+1d4+1 slashing
+Ranged Ȱɵ dart +9 (agile, thrown 20 feet), Damage
+1d4+1 piercing
+Hurl Net Ȱɵ Requirements The grippli is wielding a net in two hands; Eﬀect The grippli
+makes a ranged Strike (with a +9 modiﬁer) against a Medium or smaller creature
+within 20 feet. On a hit, the target is ﬂat-footed and takes a –10-foot circumstance
+penalty to its Speeds. On a critical hit, the creature is restrained instead. The DC to
+Escape the net is 16. A creature adjacent to the target can Interact with the net to
+remove it.
+Jungle Stride Gripplis ignore diﬃcult terrain in forests and jungles.
+
+================================================================================
+PAGE 141
+================================================================================
+
+Bestiary 2
+GRODAIR TREASURE
+Amid the vile, rubbery entrails of
+an exploded grodair is a bizarre
+cluster of tubular organs about the
+size of a melon that serves as its
+extradimensional water storage.
+Harvesting the organ cluster
+takes 5 minutes and a successful
+DC 22 Survival check. For the next
+2d6 hours, the cluster can then be
+used produce either the “stream” or
+the “fountain” eﬀect of a decanter of
+endless water (Core Rulebook 573).
+On a critical failure to harvest the
+organ cluster, it bursts and deals 2d6
+bludgeoning damage to the harvester.
+Grodair
+Grodairs are bizarre ﬁshlike creature native to the First World. Their supernatural
+physiology includes a strange organ with an extradimensional space capable of
+storing thousands of gallons of water. This grants grodairs the ability to create
+a suitable environment for themselves anywhere by releasing the water, quickly
+transforming any surrounding land into a shallow bog. When grodairs wish
+to leave for a new location, they simply suck up all the water back up. When
+necessary, grodairs can also travel on land by walking upon the tangle of long,
+ﬂeshy tentacles that dangle from their bellies.
+Grodairs have two sets of eyes that function independently. While this makes
+the creatures difﬁcult to surprise, it also makes them easy to distract. During
+conversations, they have a tendency to lose focus quickly and have difﬁculty
+remembering things. Still, they are avid conversationalists and enjoy hearing
+tales about the world. While this quality makes grodairs quite likable, they
+aren’t reliable. They have difﬁculty following plans or schedules, and they can
+keep a secret only if they happen to forget it ﬁrst. For these reasons, grodairs
+don’t always make the best allies.
+Grodairs are voracious and curious omnivores who love trying new foods—in
+fact, the pursuit of new and interesting food is the most common reason that
+they venture out of First World. They can also capture and store within their
+throats any small animals and plants easily suspended in water, and eject them
+for consumption at a later time.
+
+================================================================================
+# GRODAIR
+================================================================================
+
+
+Bestiary 2
+GRODAIR TREASURE
+Amid the vile, rubbery entrails of
+an exploded grodair is a bizarre
+cluster of tubular organs about the
+size of a melon that serves as its
+extradimensional water storage.
+Harvesting the organ cluster
+takes 5 minutes and a successful
+DC 22 Survival check. For the next
+2d6 hours, the cluster can then be
+used produce either the “stream” or
+the “fountain” eﬀect of a decanter of
+endless water (Core Rulebook 573).
+On a critical failure to harvest the
+organ cluster, it bursts and deals 2d6
+bludgeoning damage to the harvester.
+Grodair
+Grodairs are bizarre ﬁshlike creature native to the First World. Their supernatural
+physiology includes a strange organ with an extradimensional space capable of
+storing thousands of gallons of water. This grants grodairs the ability to create
+a suitable environment for themselves anywhere by releasing the water, quickly
+transforming any surrounding land into a shallow bog. When grodairs wish
+to leave for a new location, they simply suck up all the water back up. When
+necessary, grodairs can also travel on land by walking upon the tangle of long,
+ﬂeshy tentacles that dangle from their bellies.
+Grodairs have two sets of eyes that function independently. While this makes
+the creatures difﬁcult to surprise, it also makes them easy to distract. During
+conversations, they have a tendency to lose focus quickly and have difﬁculty
+remembering things. Still, they are avid conversationalists and enjoy hearing
+tales about the world. While this quality makes grodairs quite likable, they
+aren’t reliable. They have difﬁculty following plans or schedules, and they can
+keep a secret only if they happen to forget it ﬁrst. For these reasons, grodairs
+don’t always make the best allies.
+Grodairs are voracious and curious omnivores who love trying new foods—in
+fact, the pursuit of new and interesting food is the most common reason that
+they venture out of First World. They can also capture and store within their
+throats any small animals and plants easily suspended in water, and eject them
+for consumption at a later time.
+GRODAIR
+CREATURE 5
+CN
+MEDIUM
+AMPHIBIOUS
+BEAST
+FEY
+WATER
+Perception +13; darkvision
+Languages Aquan, Sylvan
+Skills Athletics +13, Nature +13, Survival +11
+Str +4, Dex +2, Con +4, Int +1, Wis +2, Cha +2
+AC 20; Fort +15, Ref +9, Will +11
+HP 88
+Death Flood (conjuration, primal, water) When a
+grodair dies, its body explodes in a blast of
+pressurized water that deals 4d6 bludgeoning
+damage to creatures within a 15-foot
+emanation (DC 22 basic Reﬂex save). A
+creature that fails its save is pushed 5 feet
+(or 10 feet on a critical failure).
+Speed 25 feet, swim 50 feet
+Melee Ȱɵ jaws +15, Damage 2d8+7 piercing
+Melee Ȱɵ tentacle +15, Damage 1d10+7
+bludgeoning plus Knockdown
+Ranged Ȱɵ water jet +13 (range increment
+60 feet), Damage 3d6 bludgeoning
+plus Push 10 feet
+Primal Innate Spells DC 22; 5th control
+water
+Muddy Field Ȱɵ (primal, transmutation,
+water) The grodair transforms all soil,
+sand, or similar sediment in a 10-foot
+emanation into mud for 1 round. This mud is
+diﬃcult terrain for creatures other than grodairs.
+Organ of Endless Water Ȱɵ (conjuration, manipulate, primal,
+water) The grodair causes water to pour from a magical sac on its
+spine, either a stream of water at a rate of 1 gallon per round, or a fountain in a
+5-foot-long stream at a rate of 5 gallons per round. It can stop the ﬂow of water as
+a single action.
+
+================================================================================
+PAGE 142
+================================================================================
+
+CATS AND DOGS
+If there’s one thing more certain to
+infuriate a hellcat other than to treat
+it as a mere animal, that is to compare
+it in any way to a hell hound. Hellcats
+consider hell hounds little more than
+vermin infesting the hellscapes they
+call home, and enjoy torturing them
+more than any other creature.
+Hellcat
+Hellcats are devious predators native to the ﬁery pits of Hell. While the ﬁendish
+creatures appears as skeletal smilodons, their bones smoking with heat and
+dripping with boiling blood, they are not undead. They are living hellspawn with
+transparent ﬂesh that reveals their burning skeletons. A typical hellcat is 9 feet
+long and weighs 1,000 pounds.
+Left to their own devices, hellcats spend their time hunting—that is, seeking and
+stalking prey just for the thrill of the chase. As ﬁendish creatures, they do not require
+mortal sustenance, but they do devour their prey for the sheer pleasure of inﬂicting
+pain. They are also far more intelligent than most assume, and they resent being
+treated as unintelligent animals; those who treat a hellcat as a one may ﬁnd themself
+made into a trophy for its pack, as a hellcat goes to great lengths to coordinate
+elaborate revenge upon those who fail to show proper respect.
+Though they can’t speak, hellcats know Infernal and can communicate
+by telepathy with any creature capable of speech. They rarely say much
+except to make whispered threats and to acknowledge the orders of
+their diabolic masters.
+Hellcats are quick to retreat if they are clearly outmatched or up
+against foes they’re unable to reach, but they never forget prey that
+escapes them. They often track potential victims and recruit allies,
+including other hellcats, to make coordinated attacks or ambushes
+against their foes.
+
+================================================================================
+# GIANT HIPPOCAMPUS
+================================================================================
+
+Sudden Retreat ʚʖ The hippocampus makes a tail Strike, then Swims
+with a +10-foot circumstance bonus to its swim Speed. It
+gains a +2 circumstance bonus to AC against
+reactions triggered by this movement.
+GIANT HIPPOCAMPUS
+Living in the deepest reaches of
+the ocean, giant hippocampi haven’t
+been sighted near the shore and are often
+regarded as legends made up by sailors.
+GIANT HIPPOCAMPUS
+CREATURE 8
+UNCOMMON
+N
+HUGE
+ANIMAL
+AQUATIC
+Perception +16, darkvision, scent (imprecise) 30 feet
+Skills Acrobatics +14, Athletics +20
+Str +6, Dex +4, Con +7, Int –4, Wis +4, Cha +1
+AC 27; Fort +18, Ref +16, Will +14
+HP 170
+Buck Ǻȓ DC 28
+Speed 10 feet, swim 80 feet
+Melee Ȱɵ tail +18 (reach 15 feet), Damage 2d6+10 bludgeoning
+Sudden Retreat ʚʖ As hippocampus.
+
+================================================================================
+PAGE 144
+================================================================================
+
+HIPPOGRIFF EGGS
+Rather than birthing live young,
+hippogriﬀs lay a clutch consisting of
+only a single egg. Hippogriﬀ eggs are
+sought after by potential trainers and
+opportunists alike.
+Hippogriff
+With the proud bearing of a great raptor and the magniﬁcence of a powerful
+horse, hippogriffs are thought to be an accidental fusion of creatures or perhaps
+the creation of a ﬂesh-warping wizard with a keen aesthetic sense. Regardless of
+their original source, these animals are now a common sight in the skies above
+their favored plains or hill country.
+Hippogriffs bear the wings, forelegs, and head of a bird of prey, with feather
+coloration similar to that of a hawk or eagle, though some breeders have
+managed to produce specimens with stark-white or coal-black feathers. Their
+torso, hindquarters, and tail resemble those of a horse and usually are
+colored bay, chestnut, or gray, with some coats bearing black, pinto, or
+even palomino coloration.
+Hippogriffs are similar in size to large horses. Much like their
+equine cousins, hippogriffs often have to keep wary eyes on the skies
+above them, as both are preferred meals for hungry griffons and
+wyverns. Only hippogriffs’ superior speed helps protect them from
+these predators.
+Hippogriffs are exceptionally territorial and ﬁercely protect the
+lands under their domain. They typically favor sweeping grasslands,
+rolling hills, and prairies. Exceptionally hardy hippogriffs make their
+homes nestled into niches on canyon walls, from which they comb
+the rocky deserts for coyotes, deer, and the occasional humanoid.
+Hippogriffs prefer mammalian prey, but they graze after every meal
+to aid in digestion.
+Since hippogriff hunting habits can be dangerous to both
+ranchers and their livestock, such communities often set
+bounties on hippogriffs. As a result, preserved hippogriffs
+frequently decorate frontier taverns and remote
+outposts alongside the taxidermic remains of deer,
+elk, and bears.
+However, other communities train hippogriffs from
+hatching to be ridden by elite soldiers in combat—
+the most notable among these groups in the Inner
+Sea region is the Sable Company Mercenaries in the citystate of Korvosa. Attempts are sometimes made to train adult
+hippogriffs in the same manner, but this often proves far more
+difﬁcult. Hippogriff riders must use special saddles and combat
+techniques that allow them to act in concert with their mount,
+ﬁghting effectively while avoiding interfering with the movement
+of their companion’s wings.
+
+================================================================================
+# GIANT JELLYFISH
+================================================================================
+
+Agile Swimmer Fire jellyﬁsh swarms use Acrobatics to Swim.
+Burning Swarm Ȱɵ (poison) Each enemy in the swarm’s space takes 3d8 poison damage
+(DC 24 basic Reﬂex save) and is exposed to ﬁre jelly venom.
+Fire Jelly Venom (poison) Saving Throw DC 24 Fortitude; Maximum Duration 6
+rounds; Stage 1 clumsy 1 (1 round); Stage 2 clumsy 2 (1 round); Stage 3 clumsy
+3 (1 round)
+GIANT JELLYFISH
+Unlike its smaller cousins, the giant jellyﬁsh is an active
+predator that chases down its prey through reefs or
+open water. It can even squeeze its enormous
+bell-shaped body into the tight conﬁnes of
+shipwrecks to drape its mane of tentacles
+across the exposed ﬂesh of its prey.
+GIANT JELLYFISH
+CREATURE 7
+N
+LARGE
+ANIMAL
+AQUATIC
+MINDLESS
+Perception +12; darkvision
+Skills Acrobatics +15, Athletics +17, Stealth +15
+Str +6, Dex +4, Con +6, Int –5, Wis +0, Cha –5
+AC 15; Fort +17, Ref +15, Will +1
+HP
+165;
+Immunities
+mental,
+precision;
+Weaknesses piercing 5, slashing 5; Resistances
+bludgeoning 10, poison 10
+Speed swim 20 feet
+Melee Ȱɵ tentacle +18 (agile, reach 20 feet), Damage
+2d8+8 bludgeoning plus jellyﬁsh venom
+Jellyﬁsh Venom (poison) Saving Throw DC 25 Fortitude;
+Maximum Duration 6 rounds; Stage 1 2d8 poison
+damage and clumsy 1 (1 round); Stage 2 3d6
+poison damage and clumsy 2 (1 round); Stage 3
+2d10 poison damage and paralyzed (1 round)
+Squeeze A giant jellyﬁsh can ﬁt into tight spaces
+as if it were a Medium creature. It can move at
+its full Speed while Squeezing.
+
+================================================================================
+PAGE 154
+================================================================================
+
+CRYSTAL VAULTS
+Jyoti make ideal guardians for artifacts
+too dangerous to be left where those
+hungry for power might seize them.
+Only they know what items of myth
+and legend, long thought lost or
+destroyed, lie within their crystal
+vaults. They are unreliable guardians
+of religious artifacts, however, which
+usually disgust them.
+Jyoti
+Jyotis are sometimes called “false phoenixes” (a term they ﬁnd insulting) by the
+ignorant or willful. These avian humanoids are native to the Positive Energy Plane.
+They rarely leave this enigmatic realm and view visitors from other planes as stains
+on the purity of their home. Jyotis particularly distrust divine spellcasters and
+religious warriors, seeing them as inclined to take credit for manifesting a life force
+that, from the jyotis’ perspective, is as plentiful and ubiquitous as water is to ﬁsh.
+Despite their distrust of intruders, jyotis rarely attack unprovoked when their
+homes are not threatened. They are intolerant, however, of those who intrude on the
+palaces of crystallized light and captured ﬂame in which they dwell. They often chase
+even those who come bearing gifts away; few visitors have anything they desire,
+for what they desire most is to be left alone. The jyotis’ full wrath is reserved for
+natives of the Shadow Plane and the Negative Energy Plane. Historically, the promise
+of battle with the gargoyle-like sceaduinars, whom they consider it their duty to
+oppose, has been the only thing to lure jyoti armies beyond the Positive Energy Plane.
+
+================================================================================
+# GIANT LEECH
+================================================================================
+
+
+Bestiary 2
+LEECH SPECIES
+The spotted hooktooth leech is
+often found in areas frequented
+by trolls, who sometimes wear
+them as awful decorations, relying
+on their regeneration to control
+the bleeding eﬀects. The gigantic
+elephant leech feeds on immense
+beasts of the swamplands or jungles,
+like elephants, froghemoths, and
+dinosaurs, attacking from unexpected
+range. But it’s the relatively small
+gutleech that provides the most fuel
+for nightmares, due to its awful habit
+of feeding on victims from inside.
+Leech
+Though valued by apothecaries and ﬁeld medics as methods to reduce swelling
+or drain blood, leeches are despised by most who encounter them, regardless
+of the setting.
+GIANT LEECH
+Capable of growing to lengths of nearly 5 feet, giant leeches have circular maws
+ﬁlled with hook-like teeth. They prefer to dwell in stagnant or slow-moving
+shallow water or in damp, moist undergrowth. Horses and larger animals are
+their favorite prey, but they won’t balk at a chance to latch onto a human- or
+halﬂing-sized meal.
+GIANT LEECH
+CREATURE 2
+N
+MEDIUM
+AMPHIBIOUS
+ANIMAL
+Perception +5; tremorsense 30 feet
+Skills Athletics +8, Stealth +7
+Str +4, Dex +1, Con +3, Int –5, Wis +1, Cha –5
+AC 17; Fort +9, Ref +7, Will +5
+HP 32; Weaknesses salt 5
+Speed 5 feet, swim 20 feet
+Melee Ȱɵ mouth +10, Damage 1d4+6 piercing plus Grab
+Blood Drain Ȱɵ Requirements The giant leech has a creature grabbed or restrained;
+Eﬀect The giant leech drains blood from the creature it has grabbed. This
+deals 2d4 damage. A creature that has its blood drained by a giant leech
+is drained 1 until it receives any kind or amount of healing.
+BROOD LEECH SWARM
+Most smaller species of leeches do not tend to swarm, but
+brood leeches are prone to gathering in seething, undulant
+mats of squirming gluttony. When they gather in sufﬁcient
+numbers to swarm, they eschew the stealth of a lone leech’s
+feeding methods in favor of swift and merciless feeding.
+In these situations, their mild venom can affect much
+larger creatures than their usual prey.
+
+================================================================================
+# GIANT CHAMELEON
+================================================================================
+
+
+Bestiary 2
+LIZARD LOCATIONS
+Giant lizards can be found in all
+temperate or tropical climates, often
+in relatively close proximity to smaller
+villages or rural regions where they
+can be a dangerous threat to livestock
+or travelers. The two lizards presented
+here tend to dwell in warmer regions—
+jungles for giant chameleons, and
+savannas for megalanias.
+Lizard
+Giant lizards come in a wide variety of species, but they all tend to be voracious
+hunters and quick to anger—particularly when they’re molting.
+GIANT CHAMELEON
+Giant chameleons are legendary for their ability to change their skin color in
+response to their surroundings. Their eyes are capable of peering in different
+directions independently, making them almost as difﬁcult to sneak up on as they
+are to notice in the ﬁrst place.
+GIANT CHAMELEON
+CREATURE 3
+N
+LARGE
+ANIMAL
+Perception +10; low-light vision
+Skills Athletics +10, Stealth +10 (+13 to Hide)
+Str +5, Dex +3, Con +1, Int –4, Wis +3, Cha –2
+Camouﬂage The giant chameleon can change its coloration to match its surroundings. It
+doesn’t need cover to attempt to Hide with a Stealth check.
+AC 18, all-around vision; Fort +8, Ref +12, Will +8
+HP 60
+Speed 30 feet, climb 20 feet
+Melee jaws +12 (reach 10 feet), Damage 1d10+7 piercing
+Melee tongue +12 (agile, reach 15 feet) Effect tongue grab
+Tongue Grab If the giant chameleon hits a creature with a
+tongue Strike, that creature becomes grabbed by the
+giant chameleon. The target isn’t immobilized, but it
+can’t move beyond the reach of the giant chameleon’s
+tongue. A creature can sever the tongue with an
+attack that hits AC 15 and deals at least 4 slashing
+damage. Though this doesn’t deal any damage to the
+giant chameleon, it prevents it from using its tongue Strike
+until it regrows its tongue, which takes a week.
+MEGALANIA
+Megalanias, like their smaller cousins the giant
+monitor lizards, strike fast and use their powerful
+bite to grip their prey. They prefer to swallow
+their prey whole rather than risk others getting
+a bite of a hard-won meal.
+
+================================================================================
+# GIANT MOSQUITO
+================================================================================
+
+Pyrexic Malaria (disease) The victim can’t reduce its sickened condition while it’s aﬀected
+by pyrexic malaria; Saving Throw DC 20 Fortitude; Onset 4 days; Stage 1 sickened 1
+(1 day); Stage 2 enfeebled 1 and sickened 1 (1 day); Stage 3 as stage 2 (1 day); Stage 4
+unconscious (1 day); Stage 5 dead
+Swarming Bites Ȱɵ Each enemy in the swarm’s space takes 1d6
+piercing damage (DC 20 basic Reﬂex save) and is exposed to
+pyrexic malaria. Creatures that fail the saving throw also take
+1d4 persistent bleed damage.
+GIANT MOSQUITO
+These horriﬁcally enlarged versions of the common mosquito
+often prey upon megafauna like dinosaurs and other large
+creatures, but they won’t turn down a chance to drink the
+blood of a smaller target—such as a humanoid.
+GIANT MOSQUITO
+CREATURE 6
+N
+MEDIUM
+ANIMAL
+Perception +17; darkvision, scent (imprecise) 60 feet
+Skills Acrobatics +13, Stealth +13
+Str +4, Dex +5, Con +2, Int –5, Wis +2, Cha –5
+AC 24; Fort +14, Ref +17, Will +12
+HP 80
+Speed 20 feet, ﬂy 50 feet
+Melee Ȱɵ proboscis +17 (ﬁnesse), Damage 2d10+7
+piercing plus Grab and septic malaria
+Blood Drain Ȱɵ Requirements The giant mosquito
+has a creature grabbed; Eﬀect The giant
+mosquito uses its proboscis to drain blood
+from the grabbed creature. This deals 3d6
+damage, and the giant mosquito gains
+temporary Hit Points equal to the damage
+dealt. A creature that has its blood drained by a giant mosquito is
+drained 1 until it receives healing of any kind or amount.
+Septic Malaria (disease) The victim can’t reduce its sickened condition while it’s
+aﬀected by septic malaria; Saving Throw DC 24 Fortitude; Onset 1 day; Stage 1
+sickened 1 (1 day); Stage 2 drained 1 and sickened 1 (1 day); Stage 3 as stage 2 (1 day);
+Stage 4 unconscious (1 day); Stage 5 dead
+
+================================================================================
+PAGE 177
+================================================================================
+
+Bestiary 2
+MUDWRETCH LIFESTYLES
+Mudwretches are rarely encountered
+alone. They inhabit swampy patches
+in small groups, often gathering
+near the ruins of sites that once held
+great signiﬁcance. Mudwretches can
+remain dormant for centuries, always
+eager to lurch up to attack passersby.
+They’re usually more interested
+in defending territory than killing
+intruders, and they won’t pursue
+victims for long if they ﬂee.
+Mudwretch
+In its resting form, a mudwretch looks like a large puddle of thick, dark mud, heaped
+at the center in a slightly drier patch of loam. When a living creature approaches,
+though, the mudwretch lurches upward, piling its muddy ﬂesh upon itself to form
+a roughly humanoid shape, often in vague mockery of the approaching creature’s
+general form in cases where the creature is a humanoid itself.
+Mudwretches possess a low level of intellect, and while they do not form societies
+or cultures of their own, they are attracted to ruins or abandoned settlements. They
+have little need to eat, but without a constant source of moisture, a mudwretch dries
+out, suffering from low throbbing aches until it can resaturate. Often, blood from
+living creatures has to do—a dried mudwretch is more dangerous to intruders than
+one that’s comfortably wallowing on a river bank.
+
+================================================================================
+# GIANT AMOEBA
+================================================================================
+
+Swarming Slither Ȱɵ The amoeba swarm slithers over each creature in its space, dealing
+1d6 acid damage (DC 14 basic Reﬂex save). A creature that critically fails is sickened 1.
+Weak Acid An amoeba’s acid damages only organic material—not metal, stone, or other
+inorganic substances.
+GIANT AMOEBA
+These blobs of nearly transparent protoplasm are identical in form and behavior
+to the microscopic creatures from which they have evolved, except their
+outlandish size makes them all the more dangerous. Unlike slimes, puddings, and
+other deadly oozes, giant amoebas have an outer membrane that contains their
+internal structures, making them more susceptible to slashing weapons than their
+amorphous kin. However, this membrane is also extremely ﬂexible and permeable,
+allowing them to surround prey and absorb it, suffocating and slowly digesting it
+in the amoeba’s acidic ﬂuids.
+GIANT AMOEBA
+CREATURE 1
+N
+SMALL
+AMPHIBIOUS
+MINDLESS
+OOZE
+Perception +4; motion sense 60 feet, no vision
+Skills Athletics +6, Stealth +3
+Str +3, Dex –2, Con +2, Int –5, Wis +0, Cha –5
+Motion Sense As amoeba swarm.
+AC 8; Fort +7, Ref +3, Will +5
+HP 45; Immunities acid, critical hits,
+mental, precision, unconscious, visual;
+Weaknesses slashing 5
+Speed 10 feet, climb 10 feet, swim 10 feet
+Melee Ȱɵ pseudopod +8, Damage 1d6 acid
+plus Grab
+Constrict Ȱɵ 1d4 bludgeoning plus 1d4 acid,
+DC 17
+Envelop ̂ˬ Requirements The giant
+amoeba begins its turn with a target its
+size or smaller grabbed; Eﬀect The giant
+amoeba maintains the Grab and extends
+pseudopods to surround the creature and pull it inside
+
+================================================================================
+PAGE 194
+================================================================================
+
+SLIME MOLD FUNGI
+The particularly foul environments
+in which slime molds dwell are
+conducive to the growth of extremely
+potent and dangerous mushrooms
+and other fungi. A dead slime mold
+can be a source of enough materials
+to produce a few doses of deathcap
+powder or other types of poison.
+Some creatures, such as deros or
+those with inherent immunity to
+disease, cultivate slime molds in order
+to harvest these materials.
+the amoeba’s body. This thereafter has the same eﬀect as if the amoeba had Engulfed
+the creature (DC 17, 1d6 acid, Escape DC 17, Rupture 3).
+Weak Acid As amoeba swarm.
+SLIME MOLD
+A slime mold appears as a mound of earth and detritus covered in a thick
+layer of fungus that exudes a faint stink of decay. The fungus actually shares
+a symbiotic relationship with the slime mold, serving as an external digestive
+system while gaining access to the nutrients it needs. The ooze remains
+perfectly still until living prey passes within reach, then it lashes out with
+disgusting pseudopods. With a touch, a slime mold can infect its prey with
+a foul contagion known as slime rot, a horriﬁc disease that painfully breaks
+down a victim’s ﬂesh. At ﬁrst, the disease manifests as painful rashes and
+agonized joints. In the later stages, though, the ﬂesh of the affected creature
+actually begins to liquefy and run in rivulets as the creature’s spores continue
+to work. Death, when it occurs, swiftly causes the resulting body to split open
+and release a brand new slime mold.
+
+================================================================================
+# GRAY OOZE
+================================================================================
+
+
+Bestiary 2
+GRAY OOZE ADAPTABILITY
+Gray oozes have shown the astounding
+ability to overcome environmental
+challenges by changing their qualities.
+For example, some gray oozes have
+adapted to fully aquatic environments,
+replacing their movement with a swim
+speed and gaining a paralytic poison
+similar to that of gelatinous cubes.
+Other gray oozes have become charged
+with psychic energy, gaining the ability
+to cause nearby creatures to become
+confused, fascinated, or frightened for
+a short time.
+GRAY OOZE
+CREATURE 4
+N
+MEDIUM
+MINDLESS
+OOZE
+Perception +8; motion sense 60 feet, no vision
+Skills Athletics +11, Stealth +10 (+12 in moist environments)
+Str +5, Dex +2, Con +4, Int –5, Wis +0, Cha –5
+Motion Sense As amoeba swarm.
+Puddled Ambush Ǻȓ Trigger A creature enters a space occupied by a gray ooze;
+Requirements Initiative has not yet been rolled; Eﬀect The gray ooze automatically
+notices the creature, then makes a pseudopod Strike against one creature adjacent to
+itself before rolling initiative.
+AC 14; Fort +12, Ref +10, Will +8
+HP 60; Immunities acid, critical hits, mental, precision, unconscious, visual; Resistances
+slashing 5, piercing 5
+Speed 10 feet, climb 10 feet
+Melee Ȱɵ pseudopod +13 (agile), Damage 1d6+5 bludgeoning plus 1d6 acid and Grab
+Constrict Ȱɵ 1d6 bludgeoning plus 1d6 acid, DC 21
+Gray Ooze Acid A gray ooze’s acid damages only metal and organic materials, not stone.
+VERDUROUS OOZE
+Verdurous oozes are found in temperate forests, warm jungles, or other places
+where plant life grows in abundance. Unlike many types of oozes, verdurous oozes
+are not particularly good climbers and have been known to get trapped in natural or
+artiﬁcial chasms. Warlords and wizards sometimes make use of that fact and keep
+verdurous oozes as guardians in pits around the walls of their fortresses or towers.
+
+================================================================================
+# GIANT SLUG
+================================================================================
+
+
+Bestiary 2
+SLUGS OF WAR
+Subterranean cultures like
+urdefhans and xulgaths sometimes
+turn giant slugs into war beasts.
+The creatures’ primitive minds make
+them easy to control for anyone
+who knows a few simple tactics—
+mostly ways of keeping them
+well-fed until just before battle and
+methods of guiding them in the
+right direction as they rampage.
+Slug
+These massive, primeval relatives of ordinary slugs squirm slowly through
+swamps and grasslands. Giant slugs are always voracious and prefer to eat ﬂesh
+or plants high in water content. They frequently consume livestock or strip bare
+entire orchards or melon crops. For cattle, pigs, or other sizable meals, they ﬁrst
+shred the creatures using their radula—tongue-like appendages covered in teeth—
+to make them easier to consume. The mucus secreted by a giant slug is powerfully
+acidic and viscous. Wherever it travels, the creature leaves a trailing brown strip
+that kills most vegetation. Farmers and ranchers, especially those living near
+swamps known to contain giant slugs, keep close tabs on these journeys. Many
+almanacs go into great detail on slug migration and mating seasons. Since each
+giant slug needs its own wide hunting ground, the creatures typically come into
+proximity to mate only once a year. Either or both slugs can become impregnated,
+and any that do typically lay a clutch of around 100 eggs. They usually lay these
+eggs in a shallow bog or a cool, humid cave.
+Giant slugs tend to travel at night, as the creatures dislike sunlight and dry
+weather. They have been known to seek out locations like barns, the undersides
+of bridges, or even fortiﬁcations like castles for shelter as dawn starts to break.
+Woe to the unprepared farmer who ambles out at sunrise to milk the cows but
+instead ﬁnds that a giant slug has made the barn its home! Subterranean giant
+slugs don’t have to worry about sunlight, and crawl about on no schedule in
+particular. Narrow tunnels pose little obstacle for them, as the creatures can easily
+compress their bodies. These factors make their movements very unpredictable,
+so they pose quite a menace for underground peoples like kobolds or xulgaths.
+GIANT SLUG
+CREATURE 8
+N
+HUGE
+ANIMAL
+Perception +14; no hearing, scent (imprecise) 60 feet
+Skills Athletics +19
+Str +7, Dex –1, Con +7, Int –5, Wis +2, Cha –4
+AC 25; Fort +21, Ref +11, Will +14
+HP 165; Weaknesses salt 5; Resistances acid 10
+Speed 20 feet, climb 15 feet
+Melee Ȱɵ radula +21 (reach 15 feet), Damage
+2d10+10 slashing plus mucus
+Melee Ȱɵ foot +21 (reach 10 feet), Damage
+2d8+10 bludgeoning plus mucus
+Ranged Ȱɵ disgorged mucus +17
+(brutal, range increment 50 feet,
+splash), Damage 3d6 acid damage
+plus mucus and 1d6 acid splash damage
+Malleable The giant slug can ﬁt through tight spaces as if it
+were a Large creature. While Squeezing, it can move at its
+full Speed. It can Squeeze through spaces that typically ﬁt
+only a Medium creature, but it does so at the usual Speed
+for Squeezing.
+Mucus Any creature hit by the giant slug or that moves
+into its mucus trail is coated in sticky, caustic mucus.
+It takes 1d4 persistent acid damage and takes
+a –5-foot status penalty to its Speeds while the
+damage persists.
+Mucus Trail Any square the giant slug moves into is
+coated in mucus. These spaces are diﬃcult terrain, and
+any creature that moves into one or ends its turn in one is
+subjected to the slug’s mucus. After an hour, the mucus dries
+and the area is no longer diﬃcult terrain.
+Trample ̂ˬ Large or smaller, foot, DC 27
+
+================================================================================
+PAGE 246
+================================================================================
+
+EATING HABITS
+Snakes of all sorts eat their meals
+by devouring their prey whole. After
+incapacitating a creature, a snake
+unhinges its jaw and consumes the
+creature entirely, even if it’s more
+than twice the diameter of the
+snake’s body. A snake can consume
+a creature of the same size as itself
+or smaller, but most snakes are logy
+and sluggish while the meal digests.
+Snake
+Snakes of some variety thrive in every non-arctic ecosystem, each with their own
+particular hunting patterns and defense mechanisms.
+SEA SNAKE
+These lithe snakes like to frequent the shallow waters of tropical seas. Their 4-footlong, blue-green bodies easily blend into the water where they lurk to ambush prey.
+Tales speak of massive sea snakes that swim in deeper waters and follow ships,
+waiting for sailors to fall overboard or climbing the side to snatch them from the deck.
+
+================================================================================
+# GIANT SOLIFUGID
+================================================================================
+
+
+Bestiary 2
+SOLIFUGID BURROWS
+Most species of solifugid lay their
+eggs in burrows. The female doesn’t
+eat while guarding her eggs, and
+thus ﬁghts even more aggressively
+against any creatures she deems
+potential threats to her brood. The
+bodies of wayward adventurers often
+litter such burrows, though this does
+little to deter other fortune-hunters
+from trying their luck in such
+treasure-laden nests.
+Solifugid
+These monstrous vermin have six legs and two large feeding appendages easily
+mistaken for an additional pair of legs. They are often called camel spiders,
+sun spiders, or wind scorpions, despite the fact that they are neither spiders
+nor scorpions.
+GIANT SOLIFUGID
+The smallest of giant solifugids are still large enough to harry desert traders and
+their mounts.
+GIANT SOLIFUGID
+CREATURE 1
+N
+MEDIUM
+ANIMAL
+Perception +7; darkvision
+Skills Acrobatics +8, Athletics +6, Stealth +6 (+10 in deserts)
+Str +1, Dex +3, Con +3, Int –5, Wis +1, Cha –4
+AC 16; Fort +6, Ref +8, Will +4
+HP 20
+Speed 35 feet, climb 25 feet
+Melee Ȱɵ jaws +8, Damage 1d10+1 piercing
+Melee Ȱɵ claw +8 (agile, reach 10 feet), Damage 1d8+1 slashing
+Pounce Ȱɵ The giant solifugid Strides and makes a Strike at the end of that movement.
+If the giant solifugid began this action hidden, it remains hidden until after this
+ability’s Strike.
+Rend Ȱɵ claw
+DUNESHAKER SOLIFUGID
+The largest solifugids, duneshakers, are so immense that their movements make
+the terrain around them tremble. They can prey on creatures the size of mammoths
+or even larger.
+
+================================================================================
+# GIANT SQUID
+================================================================================
+
+Glowing Mucus Ȱɵ Frequency once per day; Requirements The vampire squid is in water;
+Eﬀect The vampire squid ejects a cloud of bioluminescent mucus in a 15-foot cone.
+Non-squid creatures within the cloud must attempt a DC 16 Fortitude save or become
+sickened 1. The glowing mucus remains in the area for 1 minute, and any creature that
+ends its turn in the area must succeed at a DC 13 Fortitude save or become sickened 1.
+GIANT SQUID
+Dwelling deep within the oceans, this huge cephalopod grows up to 45 feet in
+length and can weigh up to 600 pounds. Its arms and tentacles are lined with
+hundreds of hooks and suckers, allowing it to seize its prey with ease.
+GIANT SQUID
+CREATURE 9
+N
+HUGE
+ANIMAL
+AQUATIC
+Perception +21; darkvision
+Skills Athletics +20, Stealth +18
+Str +7, Dex +3, Con +4, Int –4, Wis +6, Cha –2
+AC 28; Fort +15, Ref +18, Will +21
+HP 155; Resistances cold 10
+Speed swim 40 feet
+Melee Ȱɵ beak +21, Damage
+2d12+11 piercing
+Melee Ȱɵ barbed tentacles +21
+(agile, reach 25 feet), Damage 2d10+11 slashing
+plus Grab
+Melee Ȱɵ arm +21 (agile, reach 10 feet), Damage 2d8+11
+bludgeoning plus Improved Grab
+Constrict Ȱɵ 1d10+10 bludgeoning, DC 25
+Jet ʚʖ (move) The giant squid moves up to 200 feet in a straight
+line through the water without triggering any reactions.
+Ravenous Embrace ʚʖ The giant squid makes up to four arm Strikes,
+each with a diﬀerent arm and against a diﬀerent target.
+The giant squid then makes a beak Strike
+against one creature that it grabbed during
+Ravenous Embrace. Each arm Strike counts
+separately for the squid’s multiple attack penalty, but the penalty doesn’t increase
+until the squid has made all of its arm Strikes; the beak Strike uses the multiple attack
+penalty as normal.
+
+================================================================================
+PAGE 256
+================================================================================
+
+STYGIRA GEMS
+The gem a stygira carries does not
+need to be particularly valuable,
+but some stygiras prefer to use
+more expensive gems as an
+aﬀectation. More powerful stygiras
+have developed methods of using
+particularly expensive gems to
+enhance their gem gaze ability,
+allowing some to charm those they
+gaze upon, light them on ﬁre, or even
+aﬄict them with crippling poison.
+Stygira
+Withered hermits wrapped in tattered rags, these scarred, eyeless creatures
+command strange secrets of the earth and interpret the fateful energies of the
+subterranean depths. In some regions, stygiras are worshipped as seers or even
+gods, although they lack the ability to grant spells to clerics and are often not aware
+of their worshippers at all. In other areas, they have strange ties to the ancient
+empires of the cyclopes, often dwelling in the oversized ruins those creatures left
+behind long ago. To many stygiras, gemstones harvested from ancient cyclopean
+mosaics have even greater magical properties than other crystals.
+Although technically blind, stygiras do have vestigial eyes hidden beneath the
+stony, scarred ﬂesh of their faces. Capable of sensing bright lights even through
+their scars, stygiras are sickened and distracted by these ﬂashing glimpses, so
+they keep to their caves during the day and
+wander into the world above only after
+nightfall. Far from benevolent, they seek out
+unwary travelers or explorers to capture and
+reduce them down to the base chemicals and
+supernatural humors the stygiras require to
+infuse gemstones with the capacity to give
+them sight and magical power.
+
+================================================================================
+# GIANT TICK
+================================================================================
+
+
+Bestiary 2
+TICK DISEASES
+Giant ticks and tick swarms can
+potentially inﬂict diseases other than
+tick fever. Drawing from the list on
+pages 118–119 of the Gamemastery
+Guide, potential diseases that a
+tick could spread include blinding
+sickness, bubonic plague, malaria, or
+scarlet fever. The saving throw DC
+should be adjusted to DC 17 (for giant
+ticks) or DC 27 (for tick swarms).
+Tick
+These blood-sucking parasites are common vectors for disease and other
+infections. Ticks infest all parts of the world, save for the most remote and frigid
+locales, and have evolved to feed on just about every kind of creature.
+GIANT TICK
+This grotesque tick is the size of a dog and scurries with surprising speed.
+GIANT TICK
+CREATURE 1
+N
+SMALL
+ANIMAL
+Perception +6; darkvision
+Skills Athletics +6, Stealth +6
+Str +1, Dex +3, Con +4, Int –5, Wis +1, Cha –5
+AC 16; Fort +9, Ref +6, Will +4
+HP 20
+Speed 15 feet, climb 15 feet
+Melee Ȱɵ hypostome +8 (ﬁnesse), Damage 1d6+1 plus attach and tick fever
+Attach When the giant tick Strikes a creature larger than itself, its barbed hypostome
+attaches it to that creature. This is similar to Grabbing the creature, but the giant tick
+moves with that creature rather than holding it in place. The giant tick is ﬂat-footed
+while attached. If the giant tick is killed or pushed away while attached to a creature on
+which it has used Blood Drain, that creature takes 1 persistent bleed damage. Escaping
+the attachment or removing the giant tick in other ways doesn’t cause bleed damage.
+Blood Drain Ȱɵ Requirements The giant tick is attached to a creature; Eﬀect The giant
+tick uses its hypostome to drain blood from the creature it’s attached to. This deals 1d4
+damage, and the giant tick gains temporary Hit Points equal to the damage dealt. A
+creature that has its blood drained by a giant tick is drained 1 until it receives healing
+(of any kind or amount).
+Tick Fever (disease); Saving Throw DC 17 Fortitude; Onset 1 day; Stage 1 enfeebled (1
+day); Stage 2 enfeebled 2 (1 day).
+TICK SWARM
+This swarm of thousands of ﬁst-sized ticks forms a moving carpet
+of bloated insects—a nauseating and intimidating sight.
+
+================================================================================
+# GIANT TOAD
+================================================================================
+
+
+FROGS AND TOADS
+While they might look similar
+in appearance, toads and frogs
+are quite diﬀerent creatures,
+particularly some of their oversized
+variants. Frogs tend to dwell in
+swampy or marshy areas, while
+toads are found in drier regions
+like forests, plains, grasslands, and
+deserts. Monstrous toads also skew
+to a larger size overall.
+Toad
+Most giant toads live in dry environments, particularly deserts, and eagerly
+eat almost any creature smaller than themselves. They’re known to eat giant
+rats, then take over the rats’ burrows as homes. Giant toads have large poison
+glands behind their eyes that enable them to coat their skin with poison. This
+leads to them having very few natural predators, and populations can quickly
+explode if left unchecked. While most consider giant toads dangerous pests,
+some groups of ogres and hill giants cultivate them to collect their poison for
+recreational use.
+GIANT TOAD
+CREATURE 2
+N
+LARGE
+ANIMAL
+Perception +8; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +9 (+11 to High Jump or Long Jump), Stealth +6
+Str +5, Dex +2, Con +3, Int –4, Wis +2, Cha –2
+AC 17; Fort +9, Ref +8, Will +6
+HP 36
+Poisonous Warts Any creature that hits the giant toad with an unarmed Strike or
+otherwise touches the toad is exposed to giant toad poison.
+Speed 25 feet
+Melee Ȱɵ bite +11, Damage 1d8+5 piercing plus Grab
+Melee Ȱɵ tongue +11 (reach 10 feet), Eﬀect tongue grab
+Giant Toad Poison (poison); Saving Throw DC 19 Fortitude; Maximum Duration 6 rounds;
+Stage 1 stupeﬁed 1 (1 round); Stage 2 stupeﬁed 1 and confused (1 round)
+Swallow Whole Ȱɵ (attack) Medium, 1d8+2 bludgeoning, Rupture 8
+Tongue Grab A creature hit by the giant toad’s tongue becomes grabbed by the giant
+toad. The creature isn’t immobilized, but it can’t move beyond the reach of the toad’s
+tongue. A creature can sever the tongue with a successful Strike against AC 15
+that deals at least 6 slashing damage. This deals no damage
+to the toad but prevents it from using its tongue Strike
+until it regrows its tongue, which takes a week.
+TOAD TEARS
+A giant toad’s poison glands can be harvested and
+used as raw materials to craft a specialized poison
+known somewhat inaccurately as “toad tears” (likely
+due to the harvesting process, which requires one to
+dig the glands out from behind the eyes). One giant
+toad’s poison gland can supply enough materials for
+a single dose.
+TOAD TEARS
+ITEM 2
+ALCHEMICAL
+CONSUMABLE
+INGESTED
+POISON
+Price 6 gp
+Usage held in 1 hand; Bulk L
+Activate Ȱɵ Interact
+Toad tears can be mixed with any other foodstuﬀ or
+drink, but the poison can also be ingested as is. The
+process of reﬁning giant toad poison lessens its
+deadly qualities, and as a result, toad tears are
+rarely directly fatal. Yet those who are exposed
+to toad tears often lose control of their actions,
+making it a dangerous poison nevertheless.
+Saving Throw DC 19 Fortitude; Onset 5 minutes;
+Maximum Duration 30 minutes; Stage 1
+stupeﬁed 1 (10 minutes); Stage 2 stupeﬁed 1
+and confused (1 minute)
+
+================================================================================
+PAGE 263
+================================================================================
+
+Bestiary 2
+FLESH SCULPTORS
+Some totenmaskes craft macabre
+“art” by shaping the ﬂesh of their
+victims, spending hours, days, or
+even weeks molding a victim’s skin,
+or even fusing multiple creatures
+together into one piece. The
+horrifying results of this process can
+take the form of furniture made from
+ﬂesh that still lives and breathes,
+“sculptures” that in no way resemble
+the human form, and even more
+twisted and depraved things.
+Totenmaske
+Spawned by the same unnatural and self-destructive obsessions that drove them
+when they were alive, totenmaskes are the undead remnants of the most selfindulgent and sinful among us. Though unable to sate their perverse desires, these
+foul undead can drain the very ﬂesh from their victims so as to wrap themselves
+in a perverse mockery of life that allows them to pursue their base wants.
+Totenmaskes’ speciﬁc longings vary—one might be obsessed with food or drink,
+while another might be vain and desirous of an attractive form to marvel at in a
+mirror, while yet another could simply long for the scent of blood. Whatever the
+sensation the totenmaske seeks, it is always a vice taken to extreme, for this sin is
+what helped condemn it to unlife in the ﬁrst place. A totenmaske obsessed with
+food, for example, might ﬁnd itself assaulting bakeries or breweries, while a vain
+totenmaske obsessed with glamor could quickly grow bored of each new look and
+switch its victims out daily, or even hourly.
+
+================================================================================
+# GIANT SNAPPING TURTLE
+================================================================================
+
+Clench Jaws Ȱɵ Requirements The snapping turtle damaged a creature with a jaws
+Strike in its previous action; Eﬀect The snapping turtle clenches its jaws down and
+automatically deals an additional 1d4 bludgeoning damage to the creature it just bit.
+Shell Defense Ȱɵ The snapping turtle retracts its limbs and head into its shell and ends
+its turn. This increases its AC to 18, but it can’t act except to reemerge, which it can
+do as a single action.
+GIANT SNAPPING TURTLE
+If the regular-sized snapping turtle is foul-tempered, then the giant snapping turtle
+seems to be willfully violent toward anything that dares intrude upon its domain.
+Measuring over 20 feet long and weighing thousands of pounds, this creature is
+capable of swallowing a humanoid whole. Swamp-dwelling societies, particularly
+boggards and lizardfolk, have often tried to domesticate giant snapping turtles to
+serve as powerful guardians, but in most cases the casualties pile up quickly. Those
+unfortunate enough to be swallowed whole by a giant snapping turtle ﬁnd that even
+the creature’s stomach is somewhat armored, making it difﬁcult to cut through.
+GIANT SNAPPING TURTLE
+CREATURE 9
+N
+GARGANTUAN
+ANIMAL
+Perception +17, low-light vision, scent (imprecise) 30 feet
+Skills Athletics +20
+Str +7, Dex +0, Con +4, Int –4, Wis +4, Cha –2
+Deep Breath The giant snapping turtle can hold its
+breath for 2 hours.
+AC 28; Fort +19, Ref +15, Will +19
+HP 170
+Speed 20 feet, swim 40 feet
+Melee Ȱɵ jaws +22, Damage 2d12+10
+piercing plus Improved Grab
+Capsize Ȱɵ (attack, move) The turtle
+tries to capsize an adjacent aquatic
+vessel of its size or smaller. The turtle must succeed at
+a DC 35 Athletics check (reduced by 5 for each size smaller
+the vessel is than the turtle) or the pilot’s Sailing Lore DC,
+whichever is higher.
+Shell Defense Ȱɵ As snapping turtle, but AC 30.
+Swallow Whole Ȱɵ Large, 2d12+7 bludgeoning, Rupture 30
+
+================================================================================
+PAGE 271
+================================================================================
+
+Bestiary 2
+TWIGJACK BRAMBLES
+Sometimes groups of twigjacks
+gather and form temporary
+communities called “brambles,”
+usually to aid in times of need for
+the forest or to enact some great
+vengeance. These groups can
+consist of anywhere from three to
+30 twigjacks. Once their task is
+complete, the twigjacks go their
+separate ways.
+Twigjack
+Maladjusted forest denizens, twigjacks form from the cruel and prankish
+combination of fey and the very woods in which they reside. A twigjack’s body is
+made up of prickly brambles woven with vines. Shaggy, mossy growth, not unlike
+hair, tops a twigjack’s head. Its mouth is just a canyon of splintered and broken
+sticks bisecting its face. Leaves and sprigs of new growth randomly sprout from
+the creature’s body. Many dense forests on Golarion have at least a handful of
+twigjacks living in the undergrowth.
+While truculent and violent, twigjacks care deeply for what they consider
+to be their forests. These creatures harass outsiders who delve deep into their
+wooded domains, forcing back even the most determined explorers, foresters, and
+travelers, especially when those intruders cut roads through the forest. However,
+they are not terribly territorial when it comes to other forest creatures. When
+sylvan creatures, especially fey, rally against an outside threat, twigjacks in the
+area eagerly arrive to ﬁght, even if they were not invited.
+Less seasoned travelers who encounter twigjacks in their canopied homes often
+mistake them for leshys, a tendency that frustrates twigjacks, as they
+have a low opinion of such creatures. More broadly, twigjacks
+resent being considered mere animated plants at all. Rather, they
+embrace their fey heritage—often to a foolish end. Twigjacks
+go out of their way to ingratiate themselves to the fey creatures
+they live among. Several popular comic songs weave the tale of
+a twigjack attempting to woo a powerful and graceful dryad, only
+to be comically disgraced after many loutish attempts. Many fey
+seem embarrassed by these strange cousins, but
+some spriggans, quicklings, and redcaps harness
+the twigjacks’ violent urges and disruptive
+behavior for their own purposes.
+While twigjacks are fey, and as such are often
+found in the First World, it’s somewhat curious that
+those twigjacks who ﬁnd religion only rarely turn to
+the Eldest of the First World. Instead, twigjacks tend
+to worship false deities of their own design: ﬁgures
+spotted in tangles of tree branches, clots of undergrowth,
+or other hidden nooks in the natural world. These religions
+are always highly localized, and while these faiths do not support
+clerics, they often inspire zealous crusades against non-fey.
+
+================================================================================
+# GIANT WOLVERINE
+================================================================================
+
+Pounce Ȱɵ The wolverine Strides and makes a Strike at the end of that movement. If the
+wolverine begins this action hidden, it remains hidden until after the attack.
+Rend Ȱɵ claw
+Wolverine Rage Ȱɵ (concentrate, emotion, mental) The wolverine enters a state of pure
+rage that lasts either for 1 minute, until there are no enemies it can perceive, or until
+it falls unconscious, whichever comes ﬁrst. While raging, the wolverine has AC 17,
+its jaws Strike deals 1d8+7 damage, and its claw Strike deals 1d6+7 damage. While
+raging, the wolverine can’t use actions that have the concentrate trait, except for Seek.
+After it’s stopped raging, a wolverine can’t use Wolverine Rage again for 1 minute.
+GIANT WOLVERINE
+Giant wolverines grow to the approximate size of
+horses and claim even more expansive territories
+than their more diminutive wolverine cousins.
+While a smaller wolverine will defend its prey
+from armed humanoids, a giant wolverine is
+unafraid to stalk and kill such creatures.
+GIANT WOLVERINE
+CREATURE 4
+N
+LARGE
+ANIMAL
+Perception +9; low-light vision, scent (imprecise)
+30 feet
+Skills Athletics +12, Stealth +11
+Str +6, Dex +3, Con +3, Int –4, Wis +3, Cha +0
+AC 21; Fort +13, Ref +11, Will +9
+HP 65
+Speed 25 feet, climb 10 feet
+Melee Ȱɵ jaws +12, Damage 2d6+8 piercing plus Grab
+Melee Ȱɵ claw +12 (agile), Damage 2d4+8 slashing
+Gnaw Ȱɵ Requirements The wolverine has a creature grabbed from
+its jaws Strike; Eﬀect The wolverine chews violently on the
+creature, dealing 2d6 piercing damage (DC 21 basic Fortitude
+save). A creature that fails its save also takes 2d6 persistent
+bleed damage.
+Pounce Ȱɵ As wolverine.
+Rend Ȱɵ claw
+Wolverine Rage Ȱɵ As wolverine, except AC 20, jaws 2d6+11,
+and claws 2d4+11.
+
+================================================================================
+PAGE 297
+================================================================================
+
+Bestiary 2
+OTHER WALKING VERMIN
+While worms are the most common
+type of creature to form the composite
+body of a worm that walks, other
+verminous variations are possible.
+• Cockroaches: A worm that walks
+made of cockroaches gains a +1 bonus
+to AC and light blindness.
+• Leeches: A worm that walks made of
+leeches gains a swim Speed of 25 feet,
+but its land Speed is 10 feet.
+• Spiders: A worm that walks made
+of spiders gains a climb Speed equal
+to half its land Speed, and half the
+damage from its Squirming Embrace
+is poison damage.
+Worm That Walks
+When a powerful spellcaster with a strong personality, a lust for life, and a
+remorselessly evil soul dies and is buried in a graveyard infused with eldritch
+magic, a strange phenomenon can occur. The decaying body fattens and
+instructs the very worms that feast upon it. These grave worms thrive not
+only on the consumption of the spellcaster’s dead ﬂesh, but on their corrupt
+memories and magical power. The spellcaster’s very soul is consumed in this
+vile process, only to be split apart into fragments that inhabit each of the
+individual worms. The result is a hideous hive mind of slithering life known
+as a worm that walks—a mass of worms that clings to the vague shape of the
+body that granted it this new existence and can use the powers and magic
+the spellcaster had in life. A worm that walks retains memories of its life as a
+spellcaster before its death, but it is not undead—it is a hideous new form of
+undulant life.
+CREATING A WORM THAT WALKS
+You can turn an existing evil, living, spellcasting creature into a worm that
+walks using the following steps.
+Increase the creature’s level by 1 and change its statistics as follows.
+• It gains the aberration and swarm traits and usually remains evil.
+• Increase AC, attack bonuses, DCs, saving throws, and skill modiﬁers by 1.
+• Reduce its Hit Points by the amount listed on the table (to a minimum of 2
+HP per level).
+• The worm that walks gains fast healing, resistance to physical damage, and
+weakness to area damage and splash damage as indicated in the table. These
+abilities are the reason the worm that walks has fewer HP.
+
+Fast Healing,
+
+Starting Level
+HP Decrease
+Resistance, and Weakness
+
+4 or less
+–20
+
+5–7
+–30
+
+8–14
+–40
+
+15 or higher
+–60
+WORM THAt WALKS ABILItIES
+A worm that walks loses any abilities that came from its previous physical form
+and any traits that represent its life, such as human and humanoid. It retains
+any spellcasting abilities it had in life, regardless of their origin, and gains the
+abilities listed below. You might need to adjust other abilities that conﬂict with the
+monster’s new theme as a worm that walks.
+Darkvision
+Tremorsense 30 feet (imprecise)
+Immunities All worms that walk have immunity to disease, paralyzed, poison, precision,
+and unconscious. They also have the swarm mind ability, which makes them immune
+to mental eﬀects that target a speciﬁc number of creatures, though they are still
+subject to mental eﬀects that aﬀect all creatures in an area.
+All-Around Vision
+Discorporate When the worm that walks is reduced to 0 HP, it discorporates and the
+component worms that make up its body disperse in every direction. If even a single
+worm escapes, the worm that walks will eventually re-form using a process that
+typically takes 1d10 days.
+While the exact circumstances and surroundings determine how long the worm
+that walks’s foes have to dispatch the ﬂeeing worms before they escape, usually its
+foes have only a single round. Typically, this requires the application of an area eﬀect
+or splash weapon within 1 round to the space where the worm that walks collapsed.
+After any amount of area or splash damage is dealt to that space, the character dealing
+the damage must attempt a DC 15 ﬂat check. Each subsequent area or splash damage
+
+================================================================================
+PAGE 298
+================================================================================
+
+WORMS REDEEMED
+In rare situations, once a spellcaster
+rises as a worm that walks it might
+recant its evil ways, given the right
+inﬂuence and enough time. Many
+of these worms that walk seek selfdestruction, not out of abhorrence at
+their new form but at the realization
+of the evils they wrought while alive.
+Others, though, take advantage of
+their second chance and use their
+new life to help undo the ruin and
+horror they might have aﬄicted upon
+the world in their prior existence.
+eﬀect performed on the area reduces the DC of this ﬂat check by 2, to a minimum of
+DC 5. If any of these ﬂat checks succeed, none of the worms escape, and the worm
+that walks is destroyed permanently. At the GM’s discretion, clever means of trapping
+or otherwise detaining the vermin may extend the time allowed to ﬁnish oﬀ the worm
+that walks.
+Tendril Regardless of the creature’s former anatomy, it gains a tendril melee Strike with
+reach that deals persistent piercing damage as it leaves biting worms on the target. If
+it had any agile attacks, the damage dealt by its tendril should be roughly the same as
+the damage dealt by those attacks. If it had only non-agile attacks, its tendril should
+deal three-quarters of that damage.
+Squirming Embrace Ȱɵ The worm that walks Strides, ending its movement sharing a
+space with a creature, and deals piercing damage to the creature equal to 1d8 plus an
+additional 1d8 for every 3 levels the worm that walks has. The creature can attempt a
+basic Reﬂex save with a DC of the worm that walks’s spell DC – 2.
+Swarm Shape Ȱɵ (concentrate) The worm that walks collapses into a shapeless swarm
+of worms. It drops all held, worn, and carried items. While
+discorporated, the worm that walks can’t use attack actions
+and can’t cast spells, but it can move through areas small
+enough for its individual worms to ﬁt without having
+to Squeeze. It can use the same action to coalesce back
+into its normal form.
+WORM THAT WALKS
+This worm that walks was a cultist of the Great Old One
+Hastur in its prior life. It continues its conspiracies and
+strives to further its evil plots in its new life.

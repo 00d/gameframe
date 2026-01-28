@@ -1,0 +1,916 @@
+# Bestiary - Creatures: L
+# Count: 9 creatures
+
+
+================================================================================
+# LIVING THUNDERCLAP
+================================================================================
+
+Arc Lightning [(move, electricity, primal, transmutation) The spark bat transforms into
+lightning that arcs to a large piece of metal within 100 feet, such as a suit of metal
+armor or a metal weapon. The bat then returns to its normal form in a space adjacent
+to the metal. This movement doesn’t trigger reactions.
+LIVING THUNDERCLAP
+A living thunderclap is a humanoid-shaped storm cloud
+that cracks and booms with thunder.
+LIVING THUNDERCLAP
+CREATURE 4
+N
+MEDIUM
+AIR
+ELEMENTAL
+Perception +9; darkvision
+Skills Acrobatics +12, Stealth +12
+Languages Auran
+Str +3, Dex +4, Con +2, Int –3, Wis +1, Cha +0
+AC 22; Fort +10, Ref +12, Will +9
+HP 50; Immunities bleed, paralyzed, poison, sleep, sonic
+Speed ﬂy 50 feet; swiftness
+Melee Ȱɵ gust +14 (agile, ﬁnesse), Damage 2d6+6 bludgeoning plus Push
+5 feet
+Ranged Ȱɵ lightning bolt +14 (electricity, range increment 50 feet), Damage 2d12
+electricity
+Swiftness The living thunderclap doesn’t trigger reactions when it moves.
+Thunderbolt ʚʖ (electricity, evocation, primal, sonic) The living thunderclap emits a
+bolt of lightning that crashes with deafening thunder. The living thunderclap makes
+a lightning bolt Strike that deals 1d12 electricity damage. If it hits, the target and any
+creatures within a 15-foot emanation around the target take 2d6 sonic damage and
+must attempt a DC 18 basic Fortitude save. Any creature that fails its save is also
+deafened for 1d4 rounds.
+BELKER
+These reclusive elementals have glowing red eyes, leathery wings,
+and long, sharp claws. While they always retain their shape,
+belkers can control the solidity of their forms at will,
+transforming into clouds of smoke, ash, and dust.
+
+================================================================================
+# LIVING BOULDER
+================================================================================
+
+
+Bestiary 2
+LOOTING EARTH ELEMENTALS
+Earth elementals sometimes have
+valuable gemstones or minerals
+incorporated into their bodies,
+and once they are slain, these
+valuables can be scavenged as
+treasure. Gemstones, precious
+metals such as silver or gold ore,
+or rarer materials such as mithral
+or adamantine can be harvested
+from these creatures, although the
+more expensive finds tend to be
+incorporated into only the most
+powerful earth elementals.
+Elemental, Earth
+Certain earth elementals manifest as speciﬁc types of material, be they boulders,
+sand, or crystals.
+LIVING BOULDER
+Living boulders roll and glide through the Plane of Earth, gathering gemstones
+and metal shards until their surfaces resemble a ship’s hull covered in barnacles.
+Barely more intelligent than many animals, living boulders ﬁll much the same role
+on the Plane of Earth as the great herd animals found on Material Plane worlds.
+LIVING BOULDER
+CREATURE 2
+N
+SMALL
+EARTH
+ELEMENTAL
+Perception +6; darkvision, tremorsense 30 feet
+Skills Athletics +8, Stealth +5 (+7 in rocky areas)
+Str +4, Dex –1, Con +4, Int –4, Wis +2, Cha –1
+AC 17; Fort +10, Ref +5, Will +8
+HP 36; Immunities bleed, paralyzed, poison, sleep
+Speed 20 feet, burrow 20 feet; earth glide
+Melee Ȱɵ jaws +10, Damage 1d8+6 piercing
+Earth Glide A living boulder can Burrow through earthen matter, including rock.
+When it does so, it moves at its full burrow Speed, leaving no tunnels or signs
+of its passing.
+Rolling Charge ʚʖ The living boulder Strides twice, and can then make a Strike
+with its jaws. This jaws Strike gains Knockdown.
+EARTHEN DESTRIER
+This wave of dirt takes the crude likeness of the melded
+forequarters of a charging warhorse and a rocky knight
+wielding a rudimentary lance of gray stone.
+
+================================================================================
+# LENG SPIDER
+================================================================================
+
+
+WEB TEMPLES
+Leng spiders build complex lairs out
+of their webs, many of which serve a
+dual purpose as temples to the eldritch
+gods they venerate. Most Leng spiders
+worship deities of the Elder Mythos,
+such as Hastur, Nyarlathotep, or
+Yog-Sothoth, among others.
+Leng Spider
+The monstrous, bloated spiders from the windswept realm of Leng build eerie,
+dangerous lairs with the aid of magically compelled slaves. Leng spiders have
+anywhere from ﬁve to 13 legs, but never an even number.
+LENG SPIDER
+CREATURE 13
+UNCOMMON
+CE
+HUGE
+ABERRATION
+DREAM
+Perception +24; darkvision, detect magic, greater web sense
+Languages Aklo; tongues
+Skills Acrobatics +24, Athletics +27, Crafting +22 (+26 to make traps), Deception +22,
+Religion +24, Occultism +26, Stealth +26
+Str +6, Dex +7, Con +5, Int +7, Wis +5, Cha +5
+Greater Web Sense While touching its webs, the Leng spider has precise tremorsense to
+detect the vibrations of creatures touching its web.
+AC 34; Fort +22, Ref +26, Will +24; +1 status to all saves vs. magic
+HP 235, fast healing 10; Immunities cold, confused; Resistances poison 15, sonic 15
+Speed 40 feet, climb 40 feet; air walk
+Melee Ȱɵ web war ﬂail +27 (disarm, magical, reach 15 feet, sweep, trip), Damage 3d10+14
+bludgeoning
+Melee Ȱɵ fangs +27 (reach 10 feet), Damage 3d12+14 piercing plus
+Leng spider venom
+Melee Ȱɵ leg +27 (agile, reach 10 feet), Damage 3d8+14 slashing
+Ranged Ȱɵ web bola +28 (magical, nonlethal, ranged trip, thrown
+20 feet), Damage 2d6+14 bludgeoning
+Occult Innate Spells DC 33; 7th dispel magic, veil, warp
+mind; 6th illusory scene, mislead; 4th charm (×3),
+freedom of movement; Cantrips (7th) detect magic;
+Constant (7th) air walk, tongues
+Create Web Weaponry Ȱɵ (manipulate) The Leng spider
+creates a weapon by applying a cord of webbing to
+heavy objects, such as rocks or chunks of metal, either
+attaching two heavy objects together to create a web
+bola or fastening one to its leg to create a web war ﬂail.
+Descend on a Web Ȱɵ (move) The Leng spider moves
+straight down up to 120 feet, suspended by a web line. It can
+hang from the web or drop oﬀ. The distance it Descends
+on a Web doesn’t count when calculating falling
+damage. The web can be severed by a Strike that
+deals slashing damage (AC 30, Hardness 15,
+25 HP), causing the Leng spider to fall.
+Lay Web Trap Ȱɵ (manipulate) Frequency
+three times per day; Eﬀect The Leng spider
+spins a web within 20 feet of itself to
+create a grasping snare, stunning snare,
+or warning snare. The Leng spider’s web
+provides all the raw materials it needs. All
+save and Escape DCs associated with web
+traps use the Leng spider’s Crafting DC for traps
+(DC 36). A web trap decays after 24 hours.
+Leng Spider Venom (poison) Saving Throw DC 33
+Fortitude; Maximum Duration 6 rounds; Stage 1
+2d6 poison damage and drained 1 (1 round); Stage 2 2d6
+poison damage, confused, and drained 2 (1 round); the
+confused eﬀect has the emotion and mental traits.
+Ranged Trip A Leng spider can use a web bola to Trip a target
+with the Athletics skill. The skill check takes a –2 circumstance
+penalty. A web bola deals no damage when used to Trip.
+
+================================================================================
+PAGE 159
+================================================================================
+
+Bestiary 2
+POTS OF GOLD
+While it’s true that leprechauns
+typically return items they steal,
+they particularly love gold and often
+hoard gold coins and treasures in
+pots tucked away in hidden places.
+It’s rumored that a person who ﬁnds
+a gold coin in the forest and returns
+it to the leprechaun who dropped it
+will be granted a wish as a reward.
+Unfortunately, this rumor is false—a
+deception perpetrated by leprechauns
+to trick others into bringing them even
+more gold for their pots.
+Leprechaun
+Leprechauns are mostly jovial tricksters who prefer mischief over conﬂict. They
+ﬁll their days with as much fun, wine, and food as possible. Mostly found in
+forested regions, leprechauns respect nature and those who protect it.
+Leprechauns do not attack on sight. Rather, they engage in conversation and
+try to charm, cajole, or trick those they meet into doing favors for them or freely
+giving over a treasured item, usually in return for illusory wealth or false promises
+of wealth and success. These small tricksters are masters at discerning the desires of
+those they meet—a knack that puts them in a powerful position when bargaining
+for goods or favors. They aren’t above turning people against each other for their
+own beneﬁt but generally not to an extent that causes harm.
+In most cases, a leprechaun doesn’t keep a purloined possession for long. The
+leprechaun most often returns such stolen prizes just in time to defuse tensions,
+often as they point out the humor of the situation, hoping to share their amusement
+and mirth with the victim. In cases where a leprechaun’s trick goes too far and
+results in an incensed victim, the leprechaun quickly ﬂees the conﬂict rather
+than engage in combat. This willingness to return stolen goods or to ﬂee from
+battles fades as leprechauns grow older. Ancient leprechauns who have lived for
+thousands of years often spiral into dark bitterness and increasingly use their
+powers and illusions to lure those who offend them or fail to appreciate a
+joke into danger... or even death.
+
+================================================================================
+# LEPRECHAUN
+================================================================================
+
+
+Bestiary 2
+POTS OF GOLD
+While it’s true that leprechauns
+typically return items they steal,
+they particularly love gold and often
+hoard gold coins and treasures in
+pots tucked away in hidden places.
+It’s rumored that a person who ﬁnds
+a gold coin in the forest and returns
+it to the leprechaun who dropped it
+will be granted a wish as a reward.
+Unfortunately, this rumor is false—a
+deception perpetrated by leprechauns
+to trick others into bringing them even
+more gold for their pots.
+Leprechaun
+Leprechauns are mostly jovial tricksters who prefer mischief over conﬂict. They
+ﬁll their days with as much fun, wine, and food as possible. Mostly found in
+forested regions, leprechauns respect nature and those who protect it.
+Leprechauns do not attack on sight. Rather, they engage in conversation and
+try to charm, cajole, or trick those they meet into doing favors for them or freely
+giving over a treasured item, usually in return for illusory wealth or false promises
+of wealth and success. These small tricksters are masters at discerning the desires of
+those they meet—a knack that puts them in a powerful position when bargaining
+for goods or favors. They aren’t above turning people against each other for their
+own beneﬁt but generally not to an extent that causes harm.
+In most cases, a leprechaun doesn’t keep a purloined possession for long. The
+leprechaun most often returns such stolen prizes just in time to defuse tensions,
+often as they point out the humor of the situation, hoping to share their amusement
+and mirth with the victim. In cases where a leprechaun’s trick goes too far and
+results in an incensed victim, the leprechaun quickly ﬂees the conﬂict rather
+than engage in combat. This willingness to return stolen goods or to ﬂee from
+battles fades as leprechauns grow older. Ancient leprechauns who have lived for
+thousands of years often spiral into dark bitterness and increasingly use their
+powers and illusions to lure those who offend them or fail to appreciate a
+joke into danger... or even death.
+LEPRECHAUN
+CREATURE 2
+CN
+SMALL
+FEY
+Perception +11; low-light vision
+Languages Common, Sylvan
+Skills Acrobatics +8, Deception +9, Gold Lore +7, Nature +7,
+Performance +9, Thievery +8
+Str +1, Dex +4, Con +1, Int +3, Wis +3, Cha +4
+AC 18; Fort +8, Ref +11, Will +10
+HP 25
+Speed 30 feet
+Melee Ȱɵ club +7, Damage 1d6+3 bludgeoning
+Primal Innate Spells DC 18, attack +10; 2nd illusory
+creature, illusory object, invisibility (self only);
+1st color spray, shillelagh, ventriloquism;
+Cantrips (2nd) dancing lights, ghost
+sound, mage hand, prestidigitation,
+telekinetic projectile
+Create
+Object
+ʚʖ
+(conjuration,
+manipulate, primal) Frequency three
+times per day; Eﬀect The leprechaun
+produces an item out of their hat,
+from behind their jacket, from within
+a hole in a tree stump, or from any other
+unexpected location. This conjured item must be no more than 1 Bulk
+and must be made of relatively commonplace material (such as cloth,
+wood, stone, or even low-value metal like iron or lead). It can’t rely on
+intricate artistry or complex moving parts, never fulﬁlls a
+Cost or the like, and can’t be made of precious materials
+or materials with a rarity of uncommon or higher. The
+created object is temporary and lasts for 1 hour or
+until the leprechaun creates a new item, whichever
+comes ﬁrst.
+Leprechaun Magic When a leprechaun uses their innate spells
+to deceive, trick, or humiliate a creature, the spell DC
+increases to 20 and the attack modiﬁer to +11.
+
+================================================================================
+PAGE 160
+================================================================================
+
+LERRITAN CAVALCADES
+Every few decades, lerritans gather in
+large bands to travel from one volcanic
+region to another, razing every sign
+of civilization they ﬁnd along the
+way. Lerritan cavalcades contain
+up to a dozen lerritans and their
+lackeys: crimson worms, powerful ﬁre
+elementals, and ﬁre giants.
+Lerritan
+Lerritans are unstoppable giants with skin of volcanic glass and blood of roiling
+lava. These malicious arsonists would see the world burned to a cinder. They pay
+homage to Ymeri, the evil elemental demigod of ﬁre, and they bully other ﬁery
+creatures. When the urge to immolate grows too great to ignore, lerritans burn
+forests, destroy villages, and boil rivers, but they avoid large bodies of water.
+
+================================================================================
+# LERRITAN
+================================================================================
+
+
+LERRITAN CAVALCADES
+Every few decades, lerritans gather in
+large bands to travel from one volcanic
+region to another, razing every sign
+of civilization they ﬁnd along the
+way. Lerritan cavalcades contain
+up to a dozen lerritans and their
+lackeys: crimson worms, powerful ﬁre
+elementals, and ﬁre giants.
+Lerritan
+Lerritans are unstoppable giants with skin of volcanic glass and blood of roiling
+lava. These malicious arsonists would see the world burned to a cinder. They pay
+homage to Ymeri, the evil elemental demigod of ﬁre, and they bully other ﬁery
+creatures. When the urge to immolate grows too great to ignore, lerritans burn
+forests, destroy villages, and boil rivers, but they avoid large bodies of water.
+LERRITAN
+CREATURE 21
+NE
+GARGANTUAN
+EARTH
+ELEMENTAL
+FIRE
+Perception +35; low-light vision
+Languages Common, Ignan, Jotun, Terran
+Skills Athletics +41, Crafting +33, Intimidation +35, Religion +36, Survival +38
+Str +10, Dex +5, Con +7, Int +2, Wis +7, Cha +4
+Items +3 greater striking warhammer
+AC 46; Fort +38, Ref +34, Will +36
+HP 490; Immunities ﬁre, paralyzed, poison, sleep; Weaknesses cold 20; Resistances
+piercing 20, slashing 20
+Tenacious Flames (aura, evocation, ﬁre, primal) 100 feet. Creatures in the emanation
+cannot recover from persistent ﬁre damage.
+Attack of Opportunity Ǻȓ
+Speed 50 feet
+Melee Ȱɵ warhammer +40 (magical, reach 25 feet, shove), Damage 4d12+18
+bludgeoning plus 2d6 persistent ﬁre damage
+Melee Ȱɵ jaws +39 (agile, reach 25 feet), Damage 4d10+18 piercing plus
+2d6 persistent ﬁre damage
+Ranged Ȱɵ rock +39 (brutal, range increment 120 feet), Damage
+4d6+18 bludgeoning plus 2d6 persistent ﬁre
+Primal Innate Spells DC 46; 10th cataclysm; 9th meteor swarm,
+ﬁreball; 8th earthquake; 7th plane shift (to the Material
+Plane, Plane of Fire, or Plane of Earth only); Cantrips (10th)
+produce ﬂame
+Throw Rock Ȱɵ A lerritan can break stony scales oﬀ its body to
+throw; these scales reform at the end of each round, so the
+lerritan is never without a supply of rocks to hurl.
+Volcanic Eruption ʚʖ (earth, evocation, ﬁre, primal) The volcano
+on the lerritan’s back erupts and sends lava bombs raining
+down in a 30-foot emanation, dealing 12d12 ﬁre damage.
+Each creature in the area must attempt a DC 46 Reﬂex
+saving throw. The lava globules quickly cool into heavy
+stones, transforming the area into greater diﬃcult
+terrain for non-lerritans. The lerritan can’t use
+Volcanic Eruption for 1d4 rounds.
+Critical Success The creature is unaﬀected.
+Success The creature takes half damage and is
+encumbered for 1 round.
+Failure The creature takes full damage and is immobilized
+(Escape DC 46).
+Critical Failure The creature takes double damage and is encased
+in a rocky crust with lava on
+the inside. The creature is
+restrained (Escape DC
+46), can’t breathe, takes
+3d12 persistent ﬁre
+damage, and can’t
+recover from this
+persistent ﬁre damage
+until freed.
+
+================================================================================
+PAGE 161
+================================================================================
+
+Bestiary 2
+LESHY COMMUNITIES
+Leshys are fairly egalitarian when
+interacting with their own kind.
+Most communities are meritocracies,
+rewarding leshys who defend their
+communities and help each other
+succeed, and they see working together
+as the best path to a successful future.
+Leshy
+These intelligent plant creatures maintain complex societies in remote wildernesses
+and places of primal power. By working together, leshys help to defend powerful
+fey and druidic sites from interloping humanoids. They often have good relations
+with local fey and druidic orders but distrust most other humanoids.
+A primal spell caster, often a druid, can create a leshy by binding a nature spirit
+to a carefully crafted body grown from speciﬁc vegetation. The details of these
+rites vary based on the type of leshy, but all are carefully guarded secrets and tend
+to take place in sacred areas associated with nature or primal magic, such as a
+druid circle or dryad grove.
+SUNFLOWER LESHY
+Sunﬂower leshys are the ambassadors and social leaders of their kind.
+Their petals radiate from their heads in various hues with a
+serrated, leafy, beard-like ruff. When particularly excited, their
+eyes and petals glow with collected sunlight, and when they
+become depressed or saddened, their usually vibrant
+coloration grows correspondingly muted. These shifts
+in coloration are echoed in sunﬂower leshy art, which
+can lead to unexpected color palettes for artworks. For
+example, a human artist might illustrate Hell as a place
+of glowing lava and ﬂickering ﬂames, drawing upon
+many vibrant colors, but to a sunﬂower leshy, the only
+proper way to depict a place like Hell is in morose grays,
+blacks, and whites.
+The more adventurous sunﬂower leshys leave their
+communities to grow bonds with nearby settlements of
+humanoids. When interacting with humanoids,
+sunﬂower leshys are some of the most likely
+to act friendly and give strangers a chance to
+prove their good intentions, though they remain
+cautious. They’re often accompanied by other,
+more powerful leshys.
+
+================================================================================
+# LEUCROTTA
+================================================================================
+
+
+Bestiary 2
+GNOLL MASTERS
+Leucrottas often associate with
+gnolls. They never submit to serve
+others as beasts of burden, but they
+sometimes permit gnoll leaders who
+impress them to ride them into battle
+as steeds. More often, a leucrotta
+considers itself to be the true leader
+of a gnoll clan, whispering and
+manipulating a gnoll warchief into
+doing its bidding or (if it tires of the
+game) goading them into challenging
+the leucrotta for leadership and then
+taking over the clan directly after
+eliminating its rival.
+Leucrotta
+The vile and vicious offspring of a demon lord and a monstrous species of hyenas,
+leucrottas are intelligent and cruel beasts. They use their astounding vocal mimicry
+to lure unsuspecting creatures near so that they can ﬁrst torment and then devour
+them. Leucrottas measure 5 feet at the shoulder and weigh 800 pounds, and they
+are perpetually ﬁlthy. A leucrotta’s oversized jaws are lined with rows of jagged,
+hardened bony ridges rather than teeth, and it can shear through ﬂesh, bone, and
+even steel with ease.
+LEUCROTTA
+CREATURE 5
+CE
+LARGE
+BEAST
+Perception +11; darkvision, scent (imprecise) 30 feet
+Languages Common, one additional language (usually Gnoll)
+Skills Athletics +13, Deception +13, Stealth +11
+Str +6, Dex +2, Con +4, Int +0, Wis +2, Cha +4
+Language Adaptation A leucrotta can learn any language it hears spoken for at least 10
+minutes, adding it to its languages known and replacing the language it previously
+learned using this ability. Typically, a leucrotta knows Gnoll as the language granted
+by this ability.
+AC 21; Fort +15, Ref +9, Will +11
+HP 85
+Speed 50 feet, climb 25 feet
+Melee Ȱɵ jagged jaws +15 (fatal d10), Damage
+2d8+8 slashing
+Melee Ȱɵ hoof +13 (agile), Damage 2d4+8
+bludgeoning
+Luring Cry ʚʖ (aura, enchantment,
+incapacitation, linguistic, mental,
+primal) 60 feet; Requirements
+The leucrotta’s last action was
+Sound
+Mimicry;
+Eﬀect
+The
+leucrotta utters a plaintive cry to
+draw its prey closer. Each creature
+within the emanation that was
+deceived by Sound Mimicry must
+succeed at a DC 19 Will save or become
+fascinated and compelled to move toward the sound of the
+leucrotta’s voice on their turn. Fascinated creatures are
+also ﬂat-footed. If the leucrotta attacks, the fascinated
+condition ends only for the creature that is attacked.
+If the leucrotta speaks a creature’s name while
+using its Luring Cry, that creature takes a –2
+circumstance penalty to their saving throw to
+resist the ability. On a successful save, a creature
+is temporarily immune to Luring Cry for 24 hours.
+Sound Mimicry Ȱɵ The leucrotta perfectly imitates
+voices and speech and attempts a Deception check
+against listeners’ Will DC to fool them. The leucrotta
+gains a +4 bonus to this Deception check if it has
+listened to the creature it’s imitating for at least
+10 minutes at any point in the last 24 hours. The
+leucrotta can’t duplicate voice-based abilities or
+spells, though it can perfectly mimic the sound
+of verbal spellcasting and can attempt to
+deceive constructs or undead that respond to
+voice commands. The leucrotta can’t imitate
+speech in languages it doesn’t know.
+
+================================================================================
+PAGE 164
+================================================================================
+
+LEYDROTH LEGACY
+On Golarion, the ﬁrst leydroths
+were created by a secret society of
+Azlanti sorcerers who drew their
+powers from elemental bloodlines.
+These sorcerers clashed often
+against various wizardly guilds who
+held power throughout the various
+regions of Azlant, and intended
+for leydroths to serve as weapons
+of terror against their foes. Today,
+leydroths remain isolated on certain
+particularly dangerous islands
+among the remnants of the shattered
+continent of Azlant, but now and
+then foolish explorers seek to
+transport them back to the mainland.
+Leydroth
+In ancient times, a cabal of primalists imbued an amalgam of beasts with both
+supernatural might and a hatred of magic itself, hoping to achieve a potent
+weapon for use against arcane spellcasters. Effective beyond expectation, the ﬁrst
+leydroths broke free and turned on their creators. Worse, the leydroths bred true,
+and these reclusive predators have long outlived their original creators.
+Leydroths look like distorted, apelike felines with many-branching horns growing
+from the backs of their heads. Their thickly muscled limbs end in glowing claws.
+
+================================================================================
+# LEYDROTH
+================================================================================
+
+
+LEYDROTH LEGACY
+On Golarion, the ﬁrst leydroths
+were created by a secret society of
+Azlanti sorcerers who drew their
+powers from elemental bloodlines.
+These sorcerers clashed often
+against various wizardly guilds who
+held power throughout the various
+regions of Azlant, and intended
+for leydroths to serve as weapons
+of terror against their foes. Today,
+leydroths remain isolated on certain
+particularly dangerous islands
+among the remnants of the shattered
+continent of Azlant, but now and
+then foolish explorers seek to
+transport them back to the mainland.
+Leydroth
+In ancient times, a cabal of primalists imbued an amalgam of beasts with both
+supernatural might and a hatred of magic itself, hoping to achieve a potent
+weapon for use against arcane spellcasters. Effective beyond expectation, the ﬁrst
+leydroths broke free and turned on their creators. Worse, the leydroths bred true,
+and these reclusive predators have long outlived their original creators.
+Leydroths look like distorted, apelike felines with many-branching horns growing
+from the backs of their heads. Their thickly muscled limbs end in glowing claws.
+LEYDROTH
+CREATURE 17
+UNCOMMON
+NE
+LARGE
+BEAST
+Perception +30; darkvision, magic sense (imprecise) 60 feet
+Languages Aklo
+Skills Acrobatics +32, Athletics + 33, Deception +28, Intimidation +28, Stealth +32,
+Survival +30
+Str +8, Dex +7, Con +9, Int –3, Wis +5, Cha +5
+Magic Sense (primal) The leydroth detects the source and school of
+each source of magic within 60 feet as an imprecise sense.
+AC 40, or 36 vs. non-magical; Fort +32, Ref +30, Will +28; +2 status
+to all saves vs. magic
+HP 315; Resistances all 15 (except
+non-magical)
+Menace to Magic Ǻȓ (abjuration,
+primal) Trigger A creature
+within 60 feet Casts a Spell;
+Eﬀect The leydroth attempts an
+Intimidation check to counteract
+the triggering spell.
+Speed 50 feet
+Melee Ȱɵ jaws +33 (magical, reach 10 feet),
+Damage 3d10+16 piercing plus 1d10 persistent bleed
+Melee Ȱɵ claw +33 (agile, magical, reach 10 feet),
+Damage 3d10+16 slashing
+Melee Ȱɵ horn sweep +33 (magical, reach 10 feet,
+sweep, versatile P), Damage 3d12+16 bludgeoning
+Primal Innate Spells DC 38; 9th disjunction (×2); 7th dispel
+magic (at will)
+Dispelling Roar ʚʖ (abjuration, auditory, emotion, fear,
+mental, primal) The leydroth unleashes a bestial roar
+that reverberates within a 30-foot emanation. It rolls
+an Intimidation check and compares the result to the
+Will DC of each creature in the area, with the eﬀects
+of Demoralize. It also uses this result to attempt
+to counteract each spell or magical eﬀect in the
+area, plus one item or eﬀect on each creature in
+the area, with the eﬀects of dispel magic. The
+leydroth can’t use Dispelling Roar again for
+1d4 rounds.
+Dispelling Strike Ȳ˓ (abjuration, primal) Frequency
+once per round; Trigger The leydroth hits a
+creature, object, or spell eﬀect with a Strike;
+Eﬀect The leydroth casts its innate dispel magic,
+targeting one eﬀect on the creature struck.
+Spell Feedback (primal) Any time a leydroth
+counteracts a spell or item, the spell’s caster
+or the creature holding the item takes 8d6
+mental damage (DC 38 basic Will save).
+
+================================================================================
+PAGE 165
+================================================================================
+
+Bestiary 2
+LINNORM LEGENDS
+Creatures as powerful as linnorms
+tend to spawn stories of their own,
+accurate or not. Critical failure on
+a check to Recall Knowledge on
+linnorms might suggest that you
+can avoid a linnorm’s death curse by
+closing your eyes as you deliver the
+fatal blow, or that rubbing poison
+oak on yourself can ward oﬀ a
+linnorm’s attention.
+Linnorm
+The powerful, serpentine beings known as linnorms may be distantly related
+to the more well-known chromatic and metallic dragons, but their draconic
+physiologies are where any such similarities end. Whereas true dragons boast
+incredible intellectual capabilities and far-reaching plans, linnorms are driven
+only by their insatiable hunger and desire to inﬂict cruelty on others. Linnorms
+are exceptionally difﬁcult to outwit due to their strong wills, and it’s not wise
+to try bargaining with them—when faced with one of these legendary beasts,
+one’s best option is ﬂight, pure and simple. Failing that, a noble death is a viable
+back-up plan.
+Extremely powerful linnorms dwell in remote parts of the world. One such
+creature is the legendary Fafnheir, the Father of All Linnorms, said to be the oldest
+and mightiest linnorm of them all. Fafnheir’s death curse causes anyone who
+would slay him to slowly erode away physically and mentally until they die, at
+which point the cursed victim’s body fuels Fafnheir’s resurrection.
+SHOAL LINNORM
+Shoal linnorms occupy rocky shoreline shallows and slither
+along lonely coastlines. While they do not intentionally seek
+out large settlements, these linnorms nonetheless beleaguer
+ﬁshers headed out from small coastal towns, and they may
+even follow skiffs back to their home port to appraise the
+town’s defenses and plan a raid. Shoal linnorms tend to hunt
+large prey, both underwater and on land. Their preferred
+quarries includes giant squid and grizzly bears—meals rich
+in fat, which the linnorms metabolize into the ﬁery steam that
+courses through their veins.
+
+================================================================================
+# LURKER IN LIGHT
+================================================================================
+
+
+GREATER RITUAL GATES
+Well-versed and knowledgeable lurkers
+in light can lead groups of their kind in
+a more advanced Ritual Gate to enable
+travel to other planes, rather than
+just summoning. Doing so requires
+the sacriﬁce of a creature of equal or
+greater size to the lurker in light who
+wishes to travel the planes. Multiple
+lurkers in light can travel in this way,
+but this requires multiple sacriﬁces.
+The creation of a greater Ritual Gate is
+a 1-hour activity, at the end of which
+all aﬀected lurkers in light travel to the
+same plane, chosen from the Material
+Plane, one of the Elemental Planes, or
+the First World.
+Lurker in Light
+These malicious and strange fey appear as fairies about 2 feet tall, with insectile
+wings, large eyes, and bulbous heads. They slaughter and cause mischief in
+a pattern only their alien intellect understands, but they’ve been seen to take
+particular umbrage against dwarves, gnomes, and creatures who live in darkness.
+With their grudges and pursuit of their own wicked and sadistic whims, lurkers in
+light deftly overturn the conventional wisdom that creatures associated with light
+are benign and friendly.
+While lurkers in light are fey and have ties to the First World, these creatures are
+often found elsewhere in the Great Beyond. They are particularly fond of invading
+the Shadow Plane to bring light to those who dwell there—not to help, but to
+spread misery and pain among those to whom light is agonizing.
+LURKER IN LIGHT
+CREATURE 5
+NE
+SMALL
+FEY
+Perception +13; low-light vision
+Languages Aklo, Common, Sylvan
+Skills Acrobatics +14, Nature +11, Occultism +11, Stealth +14, Survival +13
+Str +0, Dex +5, Con +2, Int +2, Wis +4, Cha +2
+AC 22; Fort +9, Ref +14, Will +13
+HP 72; Immunities blinded; Weaknesses cold iron 5
+Speed 25 feet, ﬂy 25 feet
+Melee Ȱɵ claw +14 (agile, ﬁnesse), Damage 2d6+2 slashing
+Ranged Ȱɵ mote of light +14 (agile, magical, range increment 10 feet), Damage 2d4+2
+force plus lurker’s glow
+Primal Innate Spells DC 22, attack +14; 4th dimension door (only when in
+bright light, and only to an area in bright light), summon fey; 3rd blindness,
+searing light, summon fey; Cantrips (3rd) dancing lights, ghost sound, light,
+mage hand
+Blend with Light Ǻȓ Trigger The lurker in light uses a move action; Requirements The
+lurker in light is in an area of bright light; Eﬀect The lurker in light becomes invisible
+until it enters an area of dim light or darkness, or until it uses a hostile action.
+Lurker’s Glow (evocation, light, primal) A creature that takes damage
+from a lurker in light’s mote of light must attempt a DC 22
+Will save.
+Success The creature is unaﬀected and is temporarily
+immune to lurker’s glow for 24 hours.
+Failure The creature is lined in golden light for
+1 minute and can’t be concealed during
+this time. If the creature becomes
+invisible, it is concealed rather
+than being undetected.
+Critical Failure As failure, but the
+creature sheds bright light in
+a 20-foot emanation for the
+duration of the eﬀect. In addition, the creature is dazzled on its
+ﬁrst turn after failing this save.
+Ritual Gate Ȱɵ (conjuration, primal) Requirements The lurker
+in light has reduced a living creature to 0 Hit Points on
+this turn or its previous turn and has a summon fey innate
+spell available; Eﬀect The lurker in light casts summon fey
+with only a verbal component, using the act of slaughter to
+replace the normal material and somatic components for the spell. If the fey creature
+summoned has the same alignment as the lurker in light, the lurker in light can sustain
+the summon fey spell for up to 1 hour instead of 1 minute.
+Sneak Attack A lurker in light’s Strikes deal an additional 2d6 precision damage to
+ﬂat‑footed creatures.
+
+================================================================================
+PAGE 171
+================================================================================
+
+Bestiary 2
+MANDRAGORA SUCKLINGS
+Sometimes a mandragora oﬀers its
+services to a spellcaster in exchange
+for sustenance. Tales tell of sorcerers
+or other magical creatures who keep
+mandragora “familiars” whose loyalty
+is sustained by feeding the little beasts
+with their own blood. These tales
+generally have gruesome endings
+wherein the mandragora is overcome
+with bloodlust and, unable to control
+itself, devours its master.
+Mandragora
+A mandragora looks like a freshly pulled tuber that has grown into the malformed
+shape of a child with a grotesque face and hideously bloated body. These insidious
+little plants typically form when a mandrake root is watered with a demon’s
+blood. Upon absorbing the otherworldly properties of the demon’s blood, the
+root animates and is forced to seek out blood to feast from, lest it die of thirst.
+Always famished and in search for sustenance, mandragoras live haunted, pained
+lives and perform vile and desperate acts to acquire the blood they crave. While
+they prefer magically infused blood such as that of unicorns, fey, or sorcerers, and
+they can also feed off of potions, alchemical bombs, and other magical elixirs,
+a mandragora can subsist on the blood of non-magical creatures. They ﬁnd the
+ﬂavor of mundane blood to be bland and bitter, and they do not blanch at voicing
+these complaints to the creatures from which they drink.
+While the typical mandragora is the size of a human child, some of these evil
+plants continue to grow and grow, reaching sizes more comparable to those of
+giants. Sometimes as they grow, they form additional limbs or rudimentary faces,
+eventually transforming into truly hideous mockeries of the human form.
+
+================================================================================
+# LUNAR NAGA
+================================================================================
+
+
+Bestiary 2
+LUNAR NAGA ADDICTION
+Some people enjoy the eﬀects
+of lunar naga venom and have
+developed ways to enhance the
+euphoric qualities through alchemical
+reﬁnement. While some merchants
+pay nagas for their venom, most hire
+hunters to capture and enslave the
+creatures. As a result, nagas despise
+any humanoid who sells or buys their
+venom for any reason. Reﬁned lunar
+naga venom is identical in price and
+eﬀect to dreamtime tea (Pathﬁnder
+Gamemastery Guide 121).
+Naga
+Nagas are identiﬁable by their serpentine bodies and strange, humanlike heads.
+All nagas have magical abilities and great intelligence, which they combine to
+advance their own agendas.
+LUNAR NAGA
+Lunar nagas are skilled diviners and astrologers whose dark scales and white hair
+sparkle with motes of light that mimic the night skies to which they are forever
+drawn. While they are less physically imposing than other nagas, they possess a
+graceful beauty that many ﬁnd entrancing, even without the help of the naga’s
+inherent magical abilities. Earning a lunar naga’s trust is difﬁcult, but not impossible,
+especially for someone who shares the creature’s interest in the celestial sphere.
+As they have no hands, lunar nagas use mage hand to manipulate delicate
+instruments and ﬁne telescopes to observe the night sky. They track the positions
+of celestial bodies, recording their discoveries in esoteric journals. At their best,
+lunar nagas are wise and mysterious beings who seek to expand their knowledge of
+the cosmos. At their worst, after too much exposure to the unfathomable entities
+that dwell in the darkness between the stars, they become dark prophets who drive
+others to commit terrible deeds in the name of abominable masters.
+On Golarion, the lunar nagas of the nation of Nagajor use their abilities to
+serve many communities as soothsayers. A few have founded observatories in
+which they and their followers explore the night sky. Some nagas even use their
+knowledge of the stars as navigators on ships or overland caravans. In the broader
+world, where people do not give nagas deference as nearly divine rulers, lunar
+nagas try to avoid contact with outsiders or use their magical powers of disguise
+to hide their true forms from all but their most worthy allies.
+LUNAR NAGA
+CREATURE 6
+UNCOMMON
+N
+LARGE
+ABERRATION
+Perception +16; darkvision
+Languages Aklo, Celestial, Common
+Skills Acrobatics +14, Astronomy Lore +11, Deception +15, Diplomacy +15, Nature +13,
+Survival +14
+Str +2, Dex +4, Con +4, Int +1, Wis +4, Cha +3
+AC 24, Fort +15, Ref +16, Will +17
+HP 100
+Speed 25 feet
+Melee Ȱɵ fangs +16 (agile, ﬁnesse), Damage 2d6+8 piercing
+plus lunar naga venom
+Primal Spontaneous Spells DC 24, attack +16; 3rd (4 slots) heal, lightning bolt, slow; 2nd
+(4 slots) humanoid form, glitterdust, invisibility, web; 1st (4 slots) charm, ﬂeet step, heal,
+spider sting; Cantrips (3rd) dancing lights, daze, detect magic, mage hand, read aura
+Hypnosis ʚʖ (concentrate, enchantment, incapacitation,
+mental, primal, visual) Frequency once per day;
+Eﬀect The lunar naga twists the coils of their
+serpentine body, causing the starlike motes on
+their scales to shift and move as they glow
+brighter, creating a mesmerizing swirl of light
+and darkness. All creatures within a 30‑foot
+emanation must succeed at a DC 21 Will save
+or become fascinated until the end of the naga’s
+next turn (on a critical failure, fascinated creatures
+drop whatever items they are carrying as well). The lunar
+naga can Sustain a Spell on Hypnosis. If the naga moves, aﬀected creatures are
+compelled to remain within 30 feet of the naga and must spend each of its actions
+moving closer to the naga as expediently as possible on its next turn. If a creature
+is unable to end its turn within 30 feet of the naga, the eﬀect ends for that creature.
+
+================================================================================
+PAGE 180
+================================================================================
+
+SPIRIT NAGA COVENS
+Like hags, spirit nagas occasionally
+form small groups of their own kind.
+They normally do this for mutual
+protection against a greater threat
+or to accomplish a goal that a single
+spirit naga cannot complete on their
+own. Sometimes, spirit nagas form
+a coven to bring groups of cultists
+together or take over a city or other
+large community, and in rare cases a
+spirit naga might even join a hag or
+witch coven.
+Lunar Naga Venom (poison, sleep) Saving Throw DC 24; Maximum Duration 6 rounds;
+Stage 1 stupeﬁed 1 (1 round); Stage 2 as stage 1 (1 round); Stage 3 stupeﬁed 2 (1 round);
+Stage 4 unconscious (1 round). Once a creature falls unconscious from lunar naga
+venom, they remain asleep for 1d8 hours unless woken.
+SPIRIT NAGA
+In naga culture, the foul-tempered, unkempt spirit naga holds a contemptible place
+similar to that of hags in humanoid cultures. These decrepit creatures live out lives
+of solitude, sought out only by those who are foolish or brave enough to think they
+can beneﬁt from the spirit naga’s powers without paying a heavy price—for most
+who dare to show such hubris, the price is their own lives.
+Spirit nagas seek out desolate ruins and places long associated with death and
+corruption. These sinister, serpentine beings can be found in abandoned graveyards,
+crumbled fortresses, rotting swamps, and blighted woodlands. Though they may
+know little of the actual history of such places, the nagas are nonetheless attracted to
+the psychic remnants of evil deeds and tormented spirits that remain within the earth
+and stones there.
+Despite their hideous appearance and treatment as pariahs by other nagas, spirit
+nagas feel a profound pride in their abilities and even in their hermetic existences.
+They see themselves as connected to a greater force whose mysteries are
+revealed only to those who can cast off the trappings and morals of
+“civilized” society. Even so, spirit nagas gleefully accept the worship
+of other creatures willing to bow to their capricious whims. They
+often form cults around themselves, using their charm spells and
+rituals to ensnare the minds of a few key individuals who spread
+the nagas’ foul inﬂuence throughout a community.

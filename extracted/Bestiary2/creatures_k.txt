@@ -1,0 +1,223 @@
+# Bestiary - Creatures: K
+# Count: 2 creatures
+
+
+================================================================================
+# KELPIE
+================================================================================
+
+
+Bestiary 2
+KELPIE FOLKTALES
+Some fanciful stories about kelpies
+speak of them appearing in equine
+form wearing riding tack, complete
+with silver stirrups and bridle bit.
+These folktales claim that cutting
+the harness from the kelpie’s body
+grants the bearer power over it, or
+causes the kelpie to sicken and die.
+In truth, doing so has no ill eﬀect
+on a kelpie, suggesting these stories
+are spread by kelpies themselves
+to further trick prey into making
+foolish mistakes.
+Kelpie
+Kelpies are malevolent amphibious fey shapechangers intent on luring mortals
+to their doom. These cruel predators lurk in and around areas of water, slightly
+preferring freshwater over saltwater. Kelpies lure or drag their prey underwater
+then drown and devour them, leaving behind only the victim’s heart and liver—
+the only parts of a meal kelpies ﬁnd unpleasant. Kelpies are fond of magically
+disguising itself as ﬁne steeds or attractive strangers to draw in victims, but
+its true appearance takes the form of a hideous equine with slimy, green ﬂesh
+resembling aquatic plants.
+KELPIE
+CREATURE 4
+NE
+LARGE
+AMPHIBIOUS
+FEY
+Perception +11; low-light vision
+Languages Aquan, Common, Sylvan
+Skills Athletics +11, Deception +14, Stealth +10
+Str +5, Dex +2, Con +3, Int –1, Wis +3, Cha +4
+AC 21; Fort +11, Ref +12, Will +14
+HP 60; Weaknesses cold iron 5; Resistances ﬁre 5
+Speed 35 feet, swim 35 feet
+Melee Ȱɵ jaws +13, Damage 2d6+7 bludgeoning plus Grab
+Captivating Lure ʚʖ (concentrate, emotion, enchantment, incapacitation, mental,
+primal) The kelpie instills an overwhelming attraction to itself within the mind of a
+single creature within 60 feet. The target perceives the kelpie as a desirable person (if
+the kelpie is in humanoid form) or a valuable steed (if the kelpie is in equine form) and
+must attempt a DC 23 Will saving throw.
+Critical Success The creature is unaﬀected and is temporarily immune to Captivating
+Lure for 24 hours.
+Success The creature is stupeﬁed 1 for 1 round and is then temporarily immune to
+Captivating Lure for 24 hours.
+Failure The creature is fascinated, and it must spend each of its actions to move closer to
+the kelpie as expediently as possible while avoiding obvious dangers. If a captivated
+creature is adjacent to the kelpie, it either attempts to mount the kelpie
+(if the kelpie is in equine form) or stays still and
+doesn’t act. If the creature is attacked by the
+kelpie, or if it can’t breathe water and enters
+an area of water, the creature is freed from
+captivation at the end of the kelpie’s turn.
+Critical Failure As failure, but the target
+doesn’t consider water a danger and
+will enter an area of water even if
+it can’t swim or breathe water.
+If it is attacked by the kelpie or
+starts to drown, it can attempt
+a new save at the start of its
+next turn, but it isn’t freed
+automatically.
+Change Shape Ȱɵ (concentrate,
+polymorph,
+primal,
+transmutation)
+The
+kelpie
+can
+take
+on
+the appearance of any
+Medium or Large animal
+of an equine nature (such as
+a horse, hippocampus, or pony), or
+any Small or Medium humanoid. This doesn’t
+change its Speeds or its attack and damage
+modiﬁers with its Strikes.
+
+================================================================================
+PAGE 156
+================================================================================
+
+KORRED DANCES
+Despite their insular nature, korreds
+love to dance. On certain auspicious
+dates, korreds hold great festivals
+of music and dance in ancient stone
+circles deep within forest glades.
+A few non-korred fey sometimes
+receive invitations to these dances,
+but any non-fey who interrupts the
+dance is berated at best or attacked
+at worst.
+Korred
+Korreds are reclusive fey in the form of small, hirsute individuals with long,
+animated manes of hair. While korreds have a natural afﬁnity and admiration for
+stones and boulders, they prefer to dwell aboveground in areas of rocky forest or
+wooded hills rather than in caves. Korreds are a private people who don’t take
+kindly to intruders, and they invariably work to drive off or kill any non-fey who
+stumble into their territory. Staunchly proud of their hair, korreds choose their
+minimal attire so as to allow their body hair to ﬂow freely, often wearing only a
+belt with a pouch for throwing rocks and trimming shears—though this belt and
+pouch are rarely visible under their wild manes.
+
+================================================================================
+# KORRED
+================================================================================
+
+
+KORRED DANCES
+Despite their insular nature, korreds
+love to dance. On certain auspicious
+dates, korreds hold great festivals
+of music and dance in ancient stone
+circles deep within forest glades.
+A few non-korred fey sometimes
+receive invitations to these dances,
+but any non-fey who interrupts the
+dance is berated at best or attacked
+at worst.
+Korred
+Korreds are reclusive fey in the form of small, hirsute individuals with long,
+animated manes of hair. While korreds have a natural afﬁnity and admiration for
+stones and boulders, they prefer to dwell aboveground in areas of rocky forest or
+wooded hills rather than in caves. Korreds are a private people who don’t take
+kindly to intruders, and they invariably work to drive off or kill any non-fey who
+stumble into their territory. Staunchly proud of their hair, korreds choose their
+minimal attire so as to allow their body hair to ﬂow freely, often wearing only a
+belt with a pouch for throwing rocks and trimming shears—though this belt and
+pouch are rarely visible under their wild manes.
+KORRED
+CREATURE 4
+UNCOMMON
+CN
+SMALL
+FEY
+Perception +12; low-light vision
+Languages Common, Sylvan
+Skills Acrobatics +11, Crafting +11, Deception +13, Performance +13, Stealth +11
+Str +4, Dex +3, Con +2, Int +1, Wis +2, Cha +5
+Items club, pouch with 5 rocks
+AC 21; Fort +10, Ref +13, Will +10; +1 status to all saves vs. magic
+HP 65; Weaknesses cold iron 5
+Animated Hair (aura, primal, transmutation) 5 feet.
+The korred’s long, animated hair reaches out
+and interferes with creatures in the area. The
+korred can select which targets are aﬀected by their
+animated hair. An aﬀected creature that ends its turn in the
+emanation must succeed at a DC 18 Reﬂex save or become clumsy 1
+(clumsy 2 on a critical failure) as long as it remains in the aura.
+Speed 25 feet
+Melee Ȱɵ club +14, Damage 2d6+7 bludgeoning
+Ranged Ȱɵ rock +14 (brutal, range increment 20 feet), Damage 1d6+7
+bludgeoning
+Ranged Ȱɵ club +14 (thrown 10 feet), Damage 2d6+7 bludgeoning
+Primal Innate Spells DC 21; 6th stone tell; 4th shape stone (at will), shatter
+(at will)
+Hair Snare Ȱɵ (incapacitation, primal, transmutation) The korred causes a
+long, tangled length of their hair to detach from their body and snake out
+to coil around an adjacent creature. The creature must attempt a DC 21
+Reﬂex save. The korred cannot use Hair Snare again for 1d4 rounds.
+Success The creature is unaﬀected.
+Failure The hair wraps around the creature. The creature takes a –10-foot
+circumstance penalty to all of its Speeds until it Escapes (DC 21) or until
+the korred uses Hair Snare again (at which point the previous snare drops to
+the ground, no longer animated).
+Critical Failure The creature is immobilized until it Escapes (DC 21) or the korred
+uses Hair Snare again.
+Otherworldly Laugh ʚʖ (auditory, evocation, incapacitation, primal, sonic) Frequency
+three times per day; Eﬀect The korred unleashes an otherworldly laugh. Each non-fey
+creature within a 30-foot burst must attempt a DC 21 Fortitude save. On a failure, the
+creature is slowed 1 for 1 round (or stunned 1 on a critical failure).
+Stone Stride ʚʖ (conjuration, earth, primal, teleportation) The korred steps into a block
+of stone large enough for them to ﬁt inside and instantly teleports to any other stone
+within 30 feet that has the same minimum size. Once the korred enters the stone, they
+instantly know the rough locations of other suﬃciently large stones within 30 feet.
+They can exit from the original stone, if they prefer. They can’t carry extradimensional
+spaces with them when they Stone Stride; if the korred attempts to do so, Stone
+Stride fails.
+Throw Rock Ȱɵ
+
+================================================================================
+PAGE 157
+================================================================================
+
+Bestiary 2
+LEECH SPECIES
+The spotted hooktooth leech is
+often found in areas frequented
+by trolls, who sometimes wear
+them as awful decorations, relying
+on their regeneration to control
+the bleeding eﬀects. The gigantic
+elephant leech feeds on immense
+beasts of the swamplands or jungles,
+like elephants, froghemoths, and
+dinosaurs, attacking from unexpected
+range. But it’s the relatively small
+gutleech that provides the most fuel
+for nightmares, due to its awful habit
+of feeding on victims from inside.
+Leech
+Though valued by apothecaries and ﬁeld medics as methods to reduce swelling
+or drain blood, leeches are despised by most who encounter them, regardless
+of the setting.
+GIANT LEECH
+Capable of growing to lengths of nearly 5 feet, giant leeches have circular maws
+ﬁlled with hook-like teeth. They prefer to dwell in stagnant or slow-moving
+shallow water or in damp, moist undergrowth. Horses and larger animals are
+their favorite prey, but they won’t balk at a chance to latch onto a human- or
+halﬂing-sized meal.

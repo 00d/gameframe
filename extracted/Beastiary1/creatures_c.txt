@@ -1,0 +1,2187 @@
+# Bestiary - Creatures: C
+# Count: 24 creatures
+
+
+================================================================================
+# CASSISIAN
+================================================================================
+
+
+Bestiary
+Angel
+The celestial hosts of angels are messengers and warriors, divided into choirs
+based on their abilities and purviews. The majority of angels are neutral good and
+live in Nirvana, the plane of virtue and enlightenment. However, some angels,
+including several angelic deities, have different alignments, and some even dwell
+on other planes. Regardless of alignment, angels remain benevolent messengers
+possessed with magical auras to aid their allies.
+Cassisian (Archive Angel)
+The weakest of angels, cassisians usually serve as lackey messengers for more
+powerful angels or as spiritual guides for mortals. Despite their limited intellect,
+cassisians have a knack for precise recollection, particularly with scripture. Most
+cassisians are formed from the souls of trustworthy mortals, but some arise from
+fragments of greater angels destroyed in service to the celestial realms.
+CASSISIAN
+CREATURE 1
+NG
+TINY
+ANGEL
+CELESTIAL
+Perception +6; darkvision
+Languages Celestial, Common, Draconic, Infernal
+Skills Acrobatics +6, Diplomacy +6, Religion +6, Stealth +6
+Str –1, Dex +1, Con +2, Int –1, Wis +1, Cha +1
+AC 18; +1 status vs. evil creatures; Fort +7, Ref +6, Will +4; +1
+status to all saves vs. evil creatures
+HP 20; Weaknesses evil 3; Resistances cold 3, ﬁre 3
+Transfer Protection A non-evil creature can wear a
+willing cassisian as a helmet. While it does, the cassisian
+can take no actions, but the cassisian extends its +1
+status bonus to AC and saves against evil creatures to its
+wearer. At any time, the cassisian can detach itself from
+its wearer as an action.
+Speed ﬂy 40 feet
+Melee Ȱɵ headbutt +6 (agile, ﬁnesse, good, magical),
+Damage 1d6–1 bludgeoning plus 1d4 good
+Divine Innate Spells DC 16; 4th read omens; 1st detect alignment
+(at will, evil only), heal; Cantrips (1st) know direction, light
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation)
+A cassisian can take the appearance of a dove, a winged humanoid,
+a dog, or a ﬁsh. Normally, this doesn’t change its Speed or the attack
+and damage bonuses for its Strikes, but it might change the damage
+type Strikes deal (typically to bludgeoning). Any further changes for
+speciﬁc forms are noted below.
+• Dog size Small; scent (imprecise) 30 feet, Speed 40 feet; Melee jaws +7,
+Damage 1d6+2 piercing plus Knockdown
+• Fish swim Speed 30 feet
+Eye Beams ʚʖ (concentrate, divine, evocation) The cassisian releases beams of heat
+or cold from its eyes, dealing 2d6 cold or ﬁre damage (DC 17 basic Reﬂex save) to all
+creatures in a 15-foot line. It can’t use Eye Beams again for 1d4 rounds.
+Repository of Lore While the cassisian isn’t particularly intelligent, it has perfect memory
+and can remember everything it sees or hears. This allows it to attempt Lore checks
+on any topic, provided (at the GM’s discretion) the cassisian has encountered the topic
+in question before. The cassisian’s limited intellect often prevents it from acting upon
+its knowledge, making it a better resource than agent in matters of information use.
+Choral (Choir Angel)
+Choral angels are incredible singers who ﬁll the halls of Nirvana with pious
+chants and sacred hymns. They form from the souls of talented bards and other
+performers. While they shy away from conﬂict, they occasionally brave the mortal
+ANGELIC DIVINITIES
+The most powerful angels belong
+to a category of demigods known
+as the empyreal lords—a title
+shared with other powerful
+good-aligned demigods among
+the host of archons, azatas, and
+other inhabitants of the celestial
+planes. The most powerful and
+most well-known of the angelic
+empyreal lords is Sarenrae.
+
+================================================================================
+PAGE 18
+================================================================================
+
+realm to deliver good omens and auspicious messages. Choral angels often serve
+the goddess Shelyn, but they can also serve other good deities and empyreal lords.
+
+================================================================================
+# CHORAL
+================================================================================
+
+
+realm to deliver good omens and auspicious messages. Choral angels often serve
+the goddess Shelyn, but they can also serve other good deities and empyreal lords.
+CHORAL
+CREATURE 6
+NG
+SMALL
+ANGEL
+CELESTIAL
+Perception +14; darkvision
+Languages Celestial, Draconic, Infernal; tongues
+Skills Acrobatics +12, Diplomacy +15, Performance +17, Religion +14
+Str +1, Dex +4, Con +2, Int +3, Wis +4, Cha +5
+AC 24; Fort +10, Ref +14, Will +16; +1 status to all saves vs. magic
+HP 100; Weaknesses evil 5; Resistances sonic 5
+Harmonizing Aura (aura, divine, evocation, sonic) 20 feet. Allies in the area gain a +2 status
+bonus to sonic damage rolls and a +1 status bonus to AC and all saves against sonic
+and auditory eﬀects. Enemies in the area take a –2 status
+penalty to sonic damage rolls and a –1 status penalty to
+AC and all saves against sonic and auditory eﬀects.
+Speed 30 feet, ﬂy 40 feet
+Melee Ȱɵ ﬁst +14 (agile, ﬁnesse, good, magical), Damage
+3d6+1 bludgeoning plus 1d6 good
+Ranged Ȱɵ piercing hymn +17 (good, magical, range 90
+feet, sonic), Damage 4d6 sonic damage plus 1d6 good
+and deafening aria
+Divine Innate Spells DC 23, attack +13; 3rd heal, remove
+curse, remove disease, remove fear (at will), sound burst;
+2nd invisibility (at will, self only), sound burst (at will); 1st
+counter performance (at will; Core Rulebook 386); Cantrips (3rd)
+ghost sound, inspire competence (Core Rulebook 386), inspire courage
+(Core Rulebook 386); Constant (5th) tongues
+Divine Rituals DC 23; angelic messenger
+Deafening Aria On a critical hit with
+piercing hymn, the target is
+deafened for 1 minute.
+Harmonize Ȱɵ The choral angel adds
+its harmony to a choral angel ally
+within its harmonizing aura. The ally
+can cast calm emotions or heroism on
+its next turn in place of its 3rd-level
+sound burst or heighten its 3rd-level sound burst
+by 1 level. If ﬁve diﬀerent choral angels use
+Harmonize on the same choral angel ally, it
+can instead cast divine decree in place of
+its 3rd-level sound burst.
+Balisse (Confessor Angel)
+Balisses, or confessor angels, seek to assist
+mortals ensnared by moral dilemmas or
+crises of faith. Balisses prefer to guide people
+to their own decisions rather than demand
+obedience to a higher cause, as intrinsic belief
+is even more powerful than blind obedience.
+While most balisses are fundamentally honest,
+they use their guardian angel ability to seem less
+intimidating and decrease the chance the mortal
+will simply acquiesce to the opinion of an obviously
+divine being. Balisses often form from souls of those who
+performed evil acts but were redeemed. Many serve the goddess Sarenrae, but
+they can serve other good deities and empyreal lords as well.
+ANGELIC LOCATIONS
+Angels normally live on Nirvana
+or other celestial planes, but their
+missions can bring them to the
+Material Plane. Spellcasters can
+conjure them for aid or advice
+in times of need, and they can
+even be found, if rarely, crusading
+against ﬁends in Hell, the Abyss,
+or anywhere in between.
+
+================================================================================
+PAGE 19
+================================================================================
+
+Bestiary
+
+================================================================================
+# CAVE BEAR
+================================================================================
+
+Mauler The grizzly bear gains a +2 circumstance bonus to damage rolls against creatures
+it has grabbed.
+Rush ʚʖ The grizzly bear Strides and makes a Strike at the end of that movement.
+During the Stride, the grizzly bear gains a +10-foot circumstance bonus to its Speed.
+Cave Bear
+Larger, stronger, and far more aggressive than its smaller cousins, the cave
+bear is a behemoth that avoids civilized lands, preferring to dwell in
+remote places. As its name might suggest, the cave bear makes its den in
+natural caves, and like the grizzly bear, a cave bear is ﬁercely territorial.
+Unlike a grizzly bear, however, a cave bear is short tempered and will
+make sure its foe is dead before moving on, usually feasting on its
+prey’s soft ﬂesh once it has been incapacitated. Cave bears are often
+regarded as powerful guardian spirits by remote-dwelling people,
+while they are utilized as beasts of war by orcs or even giants—stone
+giants in particular have an afﬁnity for keeping trained cave bears as
+pets or guardians for their homes.
+CAVE BEAR
+CREATURE 6
+N
+LARGE
+ANIMAL
+Perception +13; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +16, Survival +11
+Str +6, Dex +1, Con +6, Int –4, Wis +1, Cha –1
+AC 24; Fort +16, Ref +11, Will +13
+HP 95
+Speed 35 feet
+Melee Ȱɵ jaws +16, Damage 2d10+6 piercing
+Melee Ȱɵ claw +16 (agile), Damage 2d8+6 slashing plus Grab
+Mauler The bear gains a +4 circumstance bonus to damage rolls against creatures
+it has grabbed.
+Rush ʚʖ The cave bear Strides and makes a Strike at the end of that movement.
+During the Stride, it gains a +10-foot circumstance bonus to its Speed.
+BEAR RESOURCES
+A bear den can contain valuable
+treasures, such as the remains of
+less fortunate adventurers who
+stumbled into a hungry bear’s
+path. Bear furs themselves are
+valued as rugs, while their claws
+and fangs make for impressive
+jewelry or adornments for armor.
+Bear hide is an excellent resource
+for hide armor.
+
+================================================================================
+PAGE 42
+================================================================================
+
+BEETLE TREASURES
+Beetles do not collect treasure,
+but the two light-producing
+organs of a ﬂash beetle can be
+recovered from the creature
+and used for illumination-based
+chemical recipes, spell
+components, and magic
+item creation.
+BEETLE SPECIES
+Numerous other species of giant
+beetle exist in the wilds. Duergars
+train deep-dwelling beetles as
+mounts and guardians. Bombardier
+beetles can spew caustic acid as
+a potent attack. And the truly
+immense goliath beetles can
+devastate entire buildings or even
+castles with frightening ease.
+Beetle
+Not all beetles are harmless creatures that can be easily crushed underfoot.
+Oversized and ravenous giant beetles can be found throughout the temperate
+and tropical regions of the world. They are often benign creatures, though when
+threatened or roused, giant beetles are quite dangerous. Their powerful mandibles
+and tough exoskeletons make for a challenging combatant.
+Flash Beetle
+These 3-foot-long insects boast a pair of glowing organs on the back of the
+abdomen that give off bright light and that continue to glow for days, even after
+the creature’s death. Flash beetles are commonly herded and harvested by miners
+and spelunkers, as their glow is considered safer than torches and less expensive
+than lamps. Denizens of the Darklands often domesticate and train these insects,
+using them as pets, livestock, or caging them to use as organic sources of light in
+areas frequented by visitors unaccustomed to the darkness.
+FLASH BEETLE
+CREATURE –1
+N
+SMALL
+ANIMAL
+Perception +6; low-light vision
+Skills Acrobatics +6, Athletics +4
+Str +1, Dex +3, Con +2, Int –5, Wis +1, Cha –2
+AC 16; Fort +5, Ref +8, Will +4
+HP 6
+Luminescent Aura (aura, light) 10 feet. The ﬂash beetle’s bioluminescent organs ﬁll the
+area with bright light.
+Speed 20 feet, ﬂy 15 feet
+Melee Ȱɵ mandibles +8 (agile, ﬁnesse), Damage 1d4+1 piercing
+Light Flash Ȱɵ (concentrate, light) The ﬂash beetle creates a brilliant ﬂash of
+light. All creatures in its luminescent aura must succeed at a DC 17
+Fortitude save or be dazzled for 1 minute. The ﬂash beetle’s glow
+then goes out, disabling its aura for 24 hours, during which
+time it cannot use Light Flash.
+Giant Stag Beetle
+The giant stag beetle is larger than a horse, and the sight of
+one ﬂying (if slowly and somewhat clumsily) on great buzzing
+wings is unnerving. Its enormous mandibles are used to impress
+mates, intimidate rivals, and discourage predators, for they can
+deliver deadly blows. While giant stag beetles are deadly predators,
+they can be domesticated by skilled wranglers. In such a capacity, these
+beetles serve well as beasts of burden or even as mounts.
+Giant stag beetles can be a serious menace in marshes, cavern complexes,
+and heavy forests. More than one logging camp has attracted a cluster
+of giant stag beetles and had to be completely abandoned, yielding
+all its lumber to the hunger of the giant insects.
+
+================================================================================
+# CALIGNI DANCER
+================================================================================
+
+
+Bestiary
+CALIGNI TREASURE
+Many calignis hide shiny
+baubles and trinkets beneath
+their dark rags, keeping them
+out of sight of their greedy kin.
+They also keep several doses of
+black smear poison on hand to
+incapacitate foes.
+Caligni
+Calignis lurk in subterranean cities, creeping to the surface to steal, stalk, or make
+mischief. Each caligni serves in a speciﬁc role and grows into a speciﬁc form as
+determined by supernatural traditions and inﬂuences in caligni society. Regardless
+of their size or role, all calignis are gaunt, with pale ﬂesh and white eyes. Some
+surface dwellers call the caligni “dark folk,” a term they dislike because it doesn’t
+reﬂect either their appearance or character, only their environment.
+Caligni Dancer
+Caligni dancers serve as intermediaries between caligni clans.
+CALIGNI DANCER
+CREATURE 1
+CN
+SMALL
+CALIGNI
+HUMANOID
+Perception +6; greater darkvision, light blindness
+Languages Caligni
+Skills Acrobatics +7, Performance +6, Stealth +7,
+Thievery +7
+Str +0, Dex +4, Con +2, Int –1, Wis +1, Cha +3
+Items baton (light mace), dagger
+AC 17; Fort +7, Ref +9, Will +4
+HP 18, death ﬂare
+Distracting Frolic Ǻȓ (fortune, manipulate) Trigger
+An ally within 10 feet of the dancer rolls a saving throw against
+a mental or illusion eﬀect. Eﬀect The target ally can roll the save
+twice and take the better result.
+Death Flare (light) When the dancer dies, their body combusts in
+a ﬂare of white light. All creatures in a 10-foot emanation must
+succeed at a DC 17 Fortitude save or be dazzled for 1d4 rounds.
+Calignis that fail this save are also frightened 1. The dancer’s
+gear and treasure are left in a pile where they died. As this isn’t
+a magical eﬀect, the light has no eﬀect within magical darkness.
+Speed 25 feet
+Melee Ȱɵ baton +9 (agile, ﬁnesse, shove), Damage 1d4 bludgeoning
+Melee Ȱɵ dagger +9 (agile, ﬁnesse, versatile S), Damage 1d4 piercing
+Ranged Ȱɵ dagger +9 (agile, thrown 10 feet, versatile S), Damage 1d4 piercing
+Occult Innate Spells DC 16; Cantrips (1st) counter performance (visual only;
+Core Rulebook 386), inspire courage (Core Rulebook 386)
+Dancer’s Curse Ȱɵ (curse, enchantment, occult, mental) The caligni dancer touches
+a foe and curses it. If the target fails a DC 18 Will save, it gains clumsy 1 and
+stupeﬁed 1. The target is then temporarily immune for 24 hours. These conditions
+persist until the curse is removed. The victim can attempt a new DC 18 Will save
+once per hour to end the curse.
+Sneak Attack The caligni dancer deals 1d6 extra precision damage to
+ﬂat-footed creatures.
+Caligni Creeper
+The most widespread of the caligni are the mischievous caligni creepers.
+
+================================================================================
+# CALIGNI CREEPER
+================================================================================
+
+Core Rulebook 386), inspire courage (Core Rulebook 386)
+Dancer’s Curse Ȱɵ (curse, enchantment, occult, mental) The caligni dancer touches
+a foe and curses it. If the target fails a DC 18 Will save, it gains clumsy 1 and
+stupeﬁed 1. The target is then temporarily immune for 24 hours. These conditions
+persist until the curse is removed. The victim can attempt a new DC 18 Will save
+once per hour to end the curse.
+Sneak Attack The caligni dancer deals 1d6 extra precision damage to
+ﬂat-footed creatures.
+Caligni Creeper
+The most widespread of the caligni are the mischievous caligni creepers.
+CALIGNI CREEPER
+CREATURE 2
+CN
+SMALL
+CALIGNI
+HUMANOID
+Perception +8; greater darkvision, light blindness
+Languages Caligni
+Skills Acrobatics +8, Athletics +4, Stealth +10, Thievery +8
+Str +0, Dex +4, Con +3, Int –1, Wis +2, Cha +1
+Items black smear poison (3 doses; see page 50), dagger
+AC 19; Fort +9, Ref +10, Will +6
+HP 30, death ﬂash
+
+================================================================================
+PAGE 52
+================================================================================
+
+THE CALIGNI LEGACY
+The calignis are descendants
+of humans who, millennia ago,
+ﬂed underground to escape a
+devastating cataclysm and begged
+malevolent, shadowy demigods
+known only as the Forsaken for
+salvation. The Forsaken warped the
+refugees into tough survivors, but
+at a price: every caligni that dies
+combusts in a burst of energy that
+provides a scrap of soul energy to
+the Forsaken. The greatest irony
+of the caligni’s bargain is that the
+Forsaken themselves mysteriously
+vanished long ago and no longer
+answer pleas or prayers. Today,
+caligni still burst into light upon
+death, but their soul energy
+no longer feeds a mysterious
+pantheon of shadowy divinities.
+Death Flash (light) When the caligni creeper dies, their body combusts in a ﬂash of bright
+light. All creatures in a 10-foot emanation must succeed at a DC 17 Fortitude save or
+be blinded for 1d6 rounds. Creatures with light blindness who successfully save are
+still blinded for 1 round. The creeper’s gear and treasure are left in a pile where they
+died. As this isn’t a magical eﬀect, the light has no eﬀect within magical darkness.
+Speed 25 feet
+Melee Ȱɵ dagger +10 (agile, ﬁnesse, versatile S), Damage 1d4+4 piercing plus black
+smear poison (see below)
+Ranged Ȱɵ dagger +10 (agile, thrown 10 feet, versatile S), Damage 1d4 piercing plus black
+smear poison (see below)
+Occult Innate Spells DC 15; 2nd darkness (at will); Cantrips (1st) detect magic
+Sneak Attack The caligni creeper deals 1d6 extra precision damage to ﬂat‑footed creatures.
+Caligni Stalker
+Caligni stalkers are often leaders of caligni enclaves.
+
+================================================================================
+# CALIGNI STALKER
+================================================================================
+
+Sneak Attack The caligni creeper deals 1d6 extra precision damage to ﬂat‑footed creatures.
+Caligni Stalker
+Caligni stalkers are often leaders of caligni enclaves.
+CALIGNI STALKER
+CREATURE 4
+CN
+MEDIUM
+CALIGNI
+HUMANOID
+Perception +10; greater darkvision, light blindness
+Languages Caligni, Undercommon
+Skills Acrobatics +13, Athletics +8, Stealth +13, Thievery +11
+Str +2, Dex +5, Con +2, Int –1, Wis +2, Cha +1
+Items black smear poison (6 doses; see below), leather armor, shortsword (2)
+AC 21; Fort +10, Ref +13, Will +8
+HP 60, death ﬂame
+Death Flame (light) When the stalker dies, their body combusts in a ﬂash of white-hot
+ﬂame. All creatures in a 20-foot burst take 5d6 ﬁre damage (DC 21 basic Reﬂex save).
+The stalker’s gear and treasure are unaﬀected by the ﬂames and
+are left in a pile where they died.
+Speed 25 feet
+Melee Ȱɵ shortsword +13 (agile, ﬁnesse, versatile S), Damage
+1d6+7 piercing plus black smear poison (see below)
+Occult Innate Spells DC 19; 2nd darkness (at will),
+obscuring mist (at will); Cantrips (2nd) detect magic
+Double Slice ʚʖ The caligni stalker makes two Strikes
+against the same target, one with each of their
+shortswords. The stalker combines the damage of
+any attacks that hit and applies precision damage,
+resistances, and weaknesses only once. Both
+attacks count toward the stalker’s multiple
+attack penalty, but the penalty increases only after both attacks.
+Encircling Command Ȱɵ (auditory) Each caligni creeper within 30 feet of the stalker
+can Step. Each creeper can beneﬁt from Encircling Command only once per round.
+Sneak Attack The caligni stalker deals 1d6 extra precision damage to
+ﬂat‑footed creatures.
+Black Smear Poison
+Many calignis use a debilitating poison crafted from subterranean
+fungi.
+BLACK SMEAR POISON
+ITEM 2
+UNCOMMON
+ALCHEMICAL
+CONSUMABLE
+INJURY
+POISON
+Price 5 gp
+Usage held, 2 hands; Bulk L
+Activation ̂ˬ Interact
+Saving Throw DC 16 Fortitude; Maximum Duration 6 rounds; Stage 1 1d6 poison and
+enfeebled 1 (1 round); Stage 2 As stage 1; Stage 3 1d6 poison, and enfeebled 2 (1 round)
+
+================================================================================
+PAGE 53
+================================================================================
+
+Bestiary
+Cat
+Few predators of the natural world can match the cat’s talent for stalking
+and stealth.
+Leopard
+Leopards are among the smallest of the big cats, yet they are still dangerous
+creatures to tangle with. Leopard statistics can also be used for black panthers,
+white-spotted snow leopards, or tawny-coated cougars.
+
+================================================================================
+# CATFOLK POUNCER
+================================================================================
+
+
+Bestiary
+Catfolk
+Lithe and agile, with catlike features and long tails, the amurruns are wanderers,
+explorers, and extroverts who share a gregarious nature and an unbridled
+curiosity. This latter characteristic leads many individual amurruns into trouble,
+yet this inquisitiveness is paired with a penchant for good fortune that offsets
+much of their self-induced peril. They accept the term “catfolk” as a name for
+their people with grace and a hint of amusement.
+Ever eager to explore and learn, catfolk have spread to other parts of the world
+from their native nations in the southern tropics, yet never in large groups. A lone
+catfolk can be found anywhere in the world, but it’s rare to ﬁnd a settlement beyond
+their traditional national borders. This is due to their innate wanderlust and insatiable
+wonder. As many a catfolk might say, “I’ve lived with my people my whole life, but
+you? You’re new and different! There’s so much to learn from you!”
+Longstanding amurrun legends claim the catfolk were ﬁrst created as guardians
+and were then charged with protecting the world from those sinister forces
+that exist at its fringes. Often, this charge manifests as a longstanding
+opposition to cultists of demon lords, archdevils, and other
+ﬁendish demigods. Many catfolk worship the spirits
+of creation, using serendipitous rituals to attract
+good fortune and banish ill luck in the spirits’
+name, while others venerate their own
+small pantheon of divinities. Those who
+travel often ﬁnd comfort in the worship
+of Desna, whose teachings closely match
+their own predilections.
+Catfolk adapt well to adventuring roles,
+and can be quite diverse in their areas
+of study and specialization. Those who
+follow the traditions of rangers and rogues are
+perhaps the most commonly encountered, but not
+overwhelmingly so. Their natural curiosity leads some
+catfolk to take up mystical arts, training as wizards or following
+a divine path to become clerics.
+catfolk pouncer
+Catfolk pouncers travel the world in search of new experiences.
+CATFOLK POUNCER
+CREATURE 1
+CG
+MEDIUM
+CATFOLK
+HUMANOID
+Perception +6; low-light vision
+Languages Amurrun, Common
+Skills Acrobatics +7, Athletics +6, Nature +4, Stealth +7, Survival +4
+Str +3, Dex +4, Con +1, Int –1, Wis +1, Cha +1
+Items greataxe, leather armor, spear (3)
+AC 17; Fort +6, Ref +9, Will +4
+HP 19
+Cat’s Luck Ǻȓ (fortune) Trigger The catfolk pouncer fails or
+critically fails a Reﬂex saving throw. Frequency Once per day. Eﬀect Reroll
+that saving throw and take the better result.
+Speed 30 feet
+Melee Ȱɵ greataxe +8 (sweep), Damage 1d12+3 slashing
+Melee Ȱɵ dagger +9 (agile, ﬁnesse, versatile S), Damage 1d4+3 piercing
+Ranged Ȱɵ dagger +9 (agile, thrown 10 feet, versatile S), Damage 1d4
++3 piercing
+Sudden Charge ʚʖ The catfolk pouncer Strides up to double their
+Speed. If the catfolk ends their movement within melee reach of at
+least one enemy, they can make a melee Strike against that enemy.
+THE CATFOLK NATION
+Catfolk claim to hail from a faroﬀ nation called Murraseth in
+southern Garund. It is a nation
+rumored to hold a dark secret at
+its center, the details of which
+its discreet inhabitants do not
+willingly divulge to outsiders.
+Indeed, few adventurers from the
+Inner Sea region have managed
+to gain entrance to Murraseth, let
+alone discover any of its mysteries.
+
+================================================================================
+PAGE 56
+================================================================================
+
+Cauthooj
+These large, ﬂightless birds are deceptively agile, considering their long bodies and
+awkward, hopping gait. Solitary predators, they use their hypnotic warbling song
+to drive prey into a wild frenzy, manipulating them into attacking one another so
+that the cauthooj can then feast on the remains.
+Known to some scholars as the puppet master bird, and to others as the shrill
+shrike, cauthoojs are widely reviled by most intelligent humanoids, in part because
+the birds seem to prefer humanoids to other prey. Cauthooj sightings typically
+lead to the creation of hunting parties to track the creature down before it can kill
+again, with would-be hunters typically stufﬁng their ears full of wax in an effort
+to avoid being affected by its cry. Those who have survived the creature’s song
+report that the experience is uniquely unnerving, and almost all accounts agree
+that there is no other sound as terrible.
+While one might assume the cauthooj is a dumb animal, these creatures are in fact
+quite a bit smarter than they look. Cauthoojs stalk the perimeter of remote settlements
+in hopes of ﬁnding a lone traveler they can feast upon. These patient creatures will wait
+in ambush as long as they must to sate their hunger. They
+can even understand a few rudimentary words in Sylvan,
+although they are incapable of clearly speaking themselves.
+This doesn’t stop the cauthooj from attempting to mimic
+the sounds it hears, but when it does so, its eerie primal
+nature enhances the attempt, leading to the bird’s signature ability
+to manipulate minds and encourage conﬂict, a trait the cauthooj is just
+barely smart enough to understand—and enjoy.
+
+================================================================================
+# CAUTHOOJ
+================================================================================
+
+
+Cauthooj
+These large, ﬂightless birds are deceptively agile, considering their long bodies and
+awkward, hopping gait. Solitary predators, they use their hypnotic warbling song
+to drive prey into a wild frenzy, manipulating them into attacking one another so
+that the cauthooj can then feast on the remains.
+Known to some scholars as the puppet master bird, and to others as the shrill
+shrike, cauthoojs are widely reviled by most intelligent humanoids, in part because
+the birds seem to prefer humanoids to other prey. Cauthooj sightings typically
+lead to the creation of hunting parties to track the creature down before it can kill
+again, with would-be hunters typically stufﬁng their ears full of wax in an effort
+to avoid being affected by its cry. Those who have survived the creature’s song
+report that the experience is uniquely unnerving, and almost all accounts agree
+that there is no other sound as terrible.
+While one might assume the cauthooj is a dumb animal, these creatures are in fact
+quite a bit smarter than they look. Cauthoojs stalk the perimeter of remote settlements
+in hopes of ﬁnding a lone traveler they can feast upon. These patient creatures will wait
+in ambush as long as they must to sate their hunger. They
+can even understand a few rudimentary words in Sylvan,
+although they are incapable of clearly speaking themselves.
+This doesn’t stop the cauthooj from attempting to mimic
+the sounds it hears, but when it does so, its eerie primal
+nature enhances the attempt, leading to the bird’s signature ability
+to manipulate minds and encourage conﬂict, a trait the cauthooj is just
+barely smart enough to understand—and enjoy.
+CAUTHOOJ
+CREATURE 12
+N
+MEDIUM
+BEAST
+Perception +22; thoughtsense (imprecise) 60 feet
+Languages Sylvan (can’t speak any language)
+Skills Athletics +24, Stealth +25
+Str +6, Dex +4, Con +7, Int –3, Wis +2, Cha +0
+Thoughtsense (divination, mental, occult) The cauthooj senses a
+creatures mental essence at the listed ranged.
+AC 33; Fort +25, Ref +20, Will +18
+HP 215; Resistances sonic 15
+Hop-Dodge Ǻȓ (move) Trigger The cauthooj is the target of a melee
+Strike and is adjacent to another enemy that is also within the
+reach of the melee Strike. Eﬀect The cauthooj nimbly hops aside,
+redirecting the triggering Strike against the adjacent enemy. The
+cauthooj Strides up to half its Speed, and this movement does not trigger reactions.
+Speed 35 feet
+Melee Ȱɵ beak +26 (agile, deadly 1d12, reach 10 feet), Damage 2d12+12 piercing
+Staccato Strike Ȱɵ (mental, primal, sonic) With subtle alterations in the pitch and tone
+of its song, the cauthooj directs one creature confused by its Warbling Song to make
+a Strike. This works like other Strikes made by confused creatures, except that the
+cauthooj chooses the target. If no target is in reach or range, or the creature is
+unable to Strike for any other reason, this ability has no eﬀect.
+Warbling Song ʚʖ (auditory, incapacitation, mental, primal) The cauthooj gives a
+strange, ululating cry that causes nearby creatures to lash out violently and without
+control. Each creature within a 120-foot emanation that can hear the cauthooj must
+attempt a DC 32 Will save to resist the eﬀect.
+Critical Success The target is unaﬀected and is temporarily immune for 1 minute.
+Success The target is unaﬀected.
+Failure The target is confused for 1 round.
+Critical Failure The target is confused for 1 round and immediately attacks itself (in
+the normal fashion for attacking oneself while confused). This Strike doesn’t give
+the creature a ﬂat check to recover from the confusion.
+CAUTHOOJ TREASURE
+Like magpies, cauthoojs are
+attracted to shiny baubles, and
+they often pick up choice treasures
+from their victims, depositing
+these trinkets in large piles in their
+lairs. Not all that glitters is gold,
+however, and adventurers will ﬁnd
+as many colorful bits of string,
+broken mirror shards, and pieces
+of costume jewelry as they ﬁnd
+coins, magic weapons, and other
+valuable treasures.
+CAUTHOOJ LOCATIONS
+Cauthoojs make their lairs in
+small caverns, alcoves, and similar
+out-of-the-way places, but claim
+large stretches of territory and
+wander many miles from their lairs
+in search of food. They often hunt
+in plains, prairies, and other large,
+open expanses.
+
+================================================================================
+PAGE 57
+================================================================================
+
+Bestiary
+Cave Worm
+Cave worms are gigantic scavengers that bore through the depths of the world,
+eating whatever material they ﬁnd. Named for their distinctive colorations, these
+worms are ravenous and display overwhelming destructive capabilities. Cave worms
+of different colors and abilities lurk in the more remote corners of the world—tales
+speak of white worms that dwell within immense glaciers or icebergs and gray
+worms that burrow through the boneyards of long-forgotten ruins, to name a few.
+Purple Worm
+The purple worm is the most common and infamous of the cave worms, a
+much‑feared monster wandering the twisting tunnels of the Darklands that is capable
+of carving out entire cave systems. Tunnels bored by a purple worm don’t always last
+long after these creature’s passage, and areas where they nest are maddening mazes
+of passageways that lead nowhere, yet navigating the labyrinth to ﬁnd the worm’s
+central nest often yields amazing treasures left behind by the worm’s prior victims.
+
+================================================================================
+# CRIMSON WORM
+================================================================================
+
+
+CRIMSON WORM
+CREATURE 18
+RARE
+N
+GARGANTUAN
+BEAST
+FIRE
+Perception +25; darkvision, tremorsense (imprecise) 100 feet
+Skills Athletics +38
+Str +10, Dex –1, Con +9, Int –3, Wis –1, Cha –1
+AC 40; Fort +36, Ref +25, Will +27
+HP 410; ﬁre healing; Immunities ﬁre; Weaknesses cold 15
+Fire Healing As long as a crimson worm is in contact with a ﬁre or body of magma at
+least as large as itself, it gains fast healing 20. When struck by a magical ﬁre eﬀect
+from anything other than itself, a crimson worm regains Hit Points equal to half the
+ﬁre damage the eﬀect would otherwise deal.
+Inexorable As purple worm.
+Shake It Oﬀ Ǻȓ As purple worm.
+Speed 40 feet, burrow 40 feet, swim 20 feet
+Melee Ȱɵ jaws +36 (deadly 3d10, ﬁre, reach 20 feet), Damage 3d10+18 piercing plus 2d6
+ﬁre and Improved Grab
+Melee Ȱɵ stinger +36 (agile, ﬁre, poison, reach 20 feet), Damage 2d12+18 piercing plus
+2d6 ﬁre and crimson worm venom
+Melee Ȱɵ body +34 (ﬁre, reach 15 feet), Damage 2d10+16 bludgeoning plus 2d6 ﬁre
+Breath Weapon ʚʖ (evocation, ﬁre, primal) The crimson worm breathes a blast of
+ﬂame in a 60-foot cone that deals 18d6 ﬁre damage to all creatures in the area (DC 41
+basic Reﬂex save). It can’t use Breath Weapon again for 1d4 rounds.
+Crimson Worm Venom (poison); Saving Throw DC 41 Fortitude, Maximum Duration
+6 rounds; Stage 1 1d6 poison damage and drained 1 (1 round), Stage 2 2d6 poison
+damage and drained 1 (1 round); Stage 3 2d6 poison damage and drained 2 (1 round).
+Fast Swallow Ǻȓ Trigger The worm Grabs a creature. Eﬀect The worm uses
+Swallow Whole.
+Rock Tunneler As purple worm.
+Swallow Whole Ȱɵ Huge, 3d10+10 bludgeoning plus 2d6 ﬁre,
+Rupture 36
+Thrash ʚʖ As purple worm.
+CAVE WORM GUARDIANS
+Cave worms are notoriously dim
+witted, driven primarily by purely
+animalistic needs to feed and
+reproduce. This hasn’t prevented
+attempts to use them as guardians
+for their lairs, if not to tame them.
+Magic can be used to maintain
+control over a worm, but gifted,
+patient, and brave animal trainers
+can condition cave worms to
+serve in all manner of roles, such
+as living siege engines, shocking
+methods of executing foes, or
+merely pets.
+
+================================================================================
+PAGE 61
+================================================================================
+
+Bestiary
+CENTAUR TREASURE
+Centaurs appreciate ﬁne weapons
+and armor. Some craft their own
+while others use quality armaments
+they take from their enemies;
+however, due to their forms, they
+are unlikely to use armor heavier
+than breastplates.
+Centaur
+Centaurs are legendary hunters and trackers who resemble heavily muscled
+humans with the bodies of powerful horses from the waist down. They are
+typically reclusive but haughty, quick to assume that their handsome physiques
+and long history of cultural traditions make them superior to any two-legged
+folk they encounter. While stories of bloody clashes between centaurs and
+humanoid settlers are well known, centaurs are neither intrinsically bloodthirsty
+nor recklessly aggressive. Rather, they are proud and stubborn and do not take
+kindly to outsiders who encroach on their ancestral grounds, some of which
+have been ruled by centaurs for thousands of years. Against despoilers of nature
+who fail to heed their warnings, centaurs do not hesitate to use their ﬁnely
+honed hunting skills to inﬂict deadly wounds.
+Centaurs train with weapons as well as their heavy hooves, and the thunder of
+centaurs charging across the plains is often mistaken for a stampede or even an
+earthquake. Despite their insular nature, some centaurs form close alliances
+with elves, fey, gnomes, and isolated human communities. Such
+allies are often surprised to learn the depths of centaurs’ honor,
+pragmatism, and wilderness lore. Rarely, a centaur leaves its tribe
+to travel the wider world. Such lone centaur wanderers more easily
+integrate into humanoid societies, but other centaurs are
+quick to assume that some dishonor led to their exile and
+thus give such vagabonds a wide berth.
+Centaurs have incredible variation in their individual
+size and coloration. Their upper bodies are fairly
+similar within a tribe and even region, but their lower
+bodies—like those of horses—can vary widely from
+parent to child. Most centaurs are at least 7 feet tall
+and weigh more than 2,000 pounds.
+Centaurs live in groups of dozens of members,
+usually led by an old, powerful seer or battlehardened warrior who has carried out many noble
+deeds and earned a lifetime of respect from their
+comrades. The revered leader guides the habits of
+their entire group; a wise seer might encourage the
+tribe to roam far from civilization to preserve the
+ways of its ancestors, while an aggressive warrior
+might foster skirmishes with nearby humanoid
+settlements and even rival centaur groups.
+
+================================================================================
+# CENTAUR
+================================================================================
+
+
+Bestiary
+CENTAUR TREASURE
+Centaurs appreciate ﬁne weapons
+and armor. Some craft their own
+while others use quality armaments
+they take from their enemies;
+however, due to their forms, they
+are unlikely to use armor heavier
+than breastplates.
+Centaur
+Centaurs are legendary hunters and trackers who resemble heavily muscled
+humans with the bodies of powerful horses from the waist down. They are
+typically reclusive but haughty, quick to assume that their handsome physiques
+and long history of cultural traditions make them superior to any two-legged
+folk they encounter. While stories of bloody clashes between centaurs and
+humanoid settlers are well known, centaurs are neither intrinsically bloodthirsty
+nor recklessly aggressive. Rather, they are proud and stubborn and do not take
+kindly to outsiders who encroach on their ancestral grounds, some of which
+have been ruled by centaurs for thousands of years. Against despoilers of nature
+who fail to heed their warnings, centaurs do not hesitate to use their ﬁnely
+honed hunting skills to inﬂict deadly wounds.
+Centaurs train with weapons as well as their heavy hooves, and the thunder of
+centaurs charging across the plains is often mistaken for a stampede or even an
+earthquake. Despite their insular nature, some centaurs form close alliances
+with elves, fey, gnomes, and isolated human communities. Such
+allies are often surprised to learn the depths of centaurs’ honor,
+pragmatism, and wilderness lore. Rarely, a centaur leaves its tribe
+to travel the wider world. Such lone centaur wanderers more easily
+integrate into humanoid societies, but other centaurs are
+quick to assume that some dishonor led to their exile and
+thus give such vagabonds a wide berth.
+Centaurs have incredible variation in their individual
+size and coloration. Their upper bodies are fairly
+similar within a tribe and even region, but their lower
+bodies—like those of horses—can vary widely from
+parent to child. Most centaurs are at least 7 feet tall
+and weigh more than 2,000 pounds.
+Centaurs live in groups of dozens of members,
+usually led by an old, powerful seer or battlehardened warrior who has carried out many noble
+deeds and earned a lifetime of respect from their
+comrades. The revered leader guides the habits of
+their entire group; a wise seer might encourage the
+tribe to roam far from civilization to preserve the
+ways of its ancestors, while an aggressive warrior
+might foster skirmishes with nearby humanoid
+settlements and even rival centaur groups.
+CENTAUR
+CREATURE 3
+N
+LARGE
+BEAST
+Perception +9; darkvision
+Languages Common, Elven, Sylvan
+Skills Athletics +11, Diplomacy +6, Intimidation +6, Nature +7,
+Survival +7
+Str +4, Dex +2, Con +1, Int +0, Wis +2, Cha +1
+Items breastplate, longsword, spear (3), steel shield (Hardness 5,
+HP 20, BT 10)
+AC 20 (22 with shield raised), Fort +8, Ref +9, Will +9
+HP 40
+Shield Block Ǻȓ
+Speed 40 feet
+Melee Ȱɵ hoof +9 (agile), Damage 1d10+4 bludgeoning
+Melee Ȱɵ longsword +11 (versatile P), Damage 1d8+4 slashing
+Melee Ȱɵ spear +11, Damage 1d6+4 piercing
+Ranged Ȱɵ spear +9 (thrown 20 feet), Damage 1d6+4 piercing
+Trample ̂ˬ Medium or smaller, hoof, DC 18
+
+================================================================================
+PAGE 62
+================================================================================
+
+CENTIPEDE SPECIES
+Centipedes take nearly countless
+forms amid nearly every climate,
+with speciﬁc traits and abilities
+varying wildly between species.
+Tangled forests, arid deserts,
+foul sewers, deep caverns, and
+abandoned buildings are all
+common haunts for centipedes,
+from oversized specimens capable
+of taking down signiﬁcant prey
+alone to carpets of frenzied vermin
+gathered into a dangerous swarm.
+Larger and more specialized
+centipedes than the two presented
+here exist, such as the sleek giant
+whiptail centipede or the immense
+titan centipede.
+Centipede
+Hunters and scavengers that live amid dung and detritus, centipedes are a
+relatively common and often reviled threat faced by adventurers. Scurrying about
+with surprising speed on the scores of legs attached to their long, segmented
+bodies, centipedes strike with poisoned mandibles to slow and torment their prey
+with a vicious toxin before they settle down to feed in slow and disgusting leisure.
+Giant Centipede
+Most giant centipedes (known as sewer centipedes when found in cities) nest in
+small groups but hunt alone when they seek out food. Attempts to domesticate
+giant centipedes for use as guardians or pets generally end poorly, but some
+tribes of goblins, kobolds, and mitﬂits have developed effective methods of
+utilizing these vermin as guardians. Other tribes and some humanoid societies
+roast and eat centipedes, often with pungent peppers as a savory delicacy,
+although care must be taken in preparing the meal to avoid tainting the ﬂesh
+with the creature’s venom.
+GIANT CENTIPEDE
+CREATURE –1
+N
+MEDIUM
+ANIMAL
+Perception +6; darkvision
+Skills Acrobatics +6, Athletics +2, Stealth +6
+Str –1, Dex +3, Con +1, Int –5, Wis +1, Cha –4
+AC 15; Fort +7, Ref +6, Will +2
+HP 8
+Speed 30 feet, climb 30 feet
+Melee Ȱɵ mandibles +6 (ﬁnesse), Damage 1d4–1 piercing plus giant
+centipede venom
+Giant Centipede Venom (poison); Saving Throw DC 14 Fortitude;
+Maximum Duration 6 rounds; Stage 1 1d6 poison damage (1
+round); Stage 2 1d8 poison damage and ﬂat-footed (1 round) Stage 3
+1d12 poison damage, clumsy 1, and ﬂat-footed (1 round)
+Centipede Swarm
+Swarms of centipedes are dangerous indeed, ravenous carpets of skittering
+hunger capable of devouring a traveler whole in a matter of minutes. Some
+alchemists submerge whole centipedes taken from swarms in their elixirs and
+some mutagens, claiming such infusions increase potency, though other say this
+is nothing more than quackish claptrap. Kobolds and mitﬂits are both known
+to incorporate swarms of centipedes into cunning traps, from simple pits ﬁlled
+with vermin or more complex affairs involving chutes that dump the vermin
+onto the heads of unwary intruders.
+
+================================================================================
+# CENTIPEDE SWARM
+================================================================================
+
+centipede venom
+Giant Centipede Venom (poison); Saving Throw DC 14 Fortitude;
+Maximum Duration 6 rounds; Stage 1 1d6 poison damage (1
+round); Stage 2 1d8 poison damage and ﬂat-footed (1 round) Stage 3
+1d12 poison damage, clumsy 1, and ﬂat-footed (1 round)
+Centipede Swarm
+Swarms of centipedes are dangerous indeed, ravenous carpets of skittering
+hunger capable of devouring a traveler whole in a matter of minutes. Some
+alchemists submerge whole centipedes taken from swarms in their elixirs and
+some mutagens, claiming such infusions increase potency, though other say this
+is nothing more than quackish claptrap. Kobolds and mitﬂits are both known
+to incorporate swarms of centipedes into cunning traps, from simple pits ﬁlled
+with vermin or more complex affairs involving chutes that dump the vermin
+onto the heads of unwary intruders.
+CENTIPEDE SWARM
+CREATURE 3
+N
+LARGE
+ANIMAL
+SWARM
+Perception +9; darkvision, tremorsense (imprecise) 30 feet
+Skills Acrobatics +9, Athletics +7, Stealth +9
+Str +2, Dex +4, Con +3, Int –5, Wis +0, Cha –4
+AC 18; Fort +8, Ref +11, Will +5
+HP 30; Immunities precision, swarm mind; Weaknesses
+area damage 5, splash damage 5; Resistances bludgeoning 5,
+piercing 5, slashing 2
+Speed 30 feet, climb 30 feet
+Centipede Swarm Venom (poison); Saving Throw DC 20 Fortitude;
+Maximum Duration 6 rounds; Stage 1 1d6 poison damage and ﬂat-footed
+(1 round); Stage 2 1d8 poison damage, clumsy 1, and ﬂat-footed (1 round)
+Swarming Bites Ȱɵ Each enemy in the swarm’s space takes 1d8 piercing
+damage (DC 20 basic Reﬂex save) plus centipede swarm venom.
+
+================================================================================
+PAGE 63
+================================================================================
+
+Bestiary
+CHANGELING EXILES
+Changelings who resist the Call and
+abandon the society that raised
+them become exiles like the one
+presented on this page—creatures
+who live solitary lives in the wild
+and are often driven to desperate
+measures to survive, taking up the
+lifestyles of highway bandits or
+risk-taking wilderness guides.
+
+Changeling
+Children of hags, destined to become hags themselves, changelings face a life of conﬂict.
+Born of supernatural creatures who kill and consume the child’s father, changelings are
+deposited into their father’s society to be raised. These offspring appear to be members
+of their paternal ancestry, and changelings have been found among dwarves, gnomes,
+orcs, goblins, and numerous others, but human-ancestry changelings are by far the
+most common. Within the normal range for their ancestry, changelings tend toward
+slighter builds, darker hair, and pale complexions, though their
+most common feature is a nearly universal heterochromia,
+leading to widespread superstition about individuals with
+differently colored eyes.
+As changelings come of age, they sometimes manifest
+abilities granted by their hag heritage. Some gain the
+ability to see in the dark, some grow ﬁngernails long and
+hard enough to serve as claws, and others gain even stranger
+abilities speciﬁc to their hag mother. For instance, dream mays,
+the children of night hags or their cousins the dreamthief hags,
+can gain an enhanced ability to resist the magic of dreams and
+sleep. Other types of changelings include slag mays, the children
+of annis hags; callow mays, the children of green hags; brine
+mays, the children of sea hags; and others for each type of hag.
+As beings infused with supernatural power, changelings ﬁnd
+themselves able to command various traditions of magic, with
+many drawn to either the occult magic common among hags or
+primal magic.
+At roughly the same time in their lives, many changelings—
+women in particular—begin to hear the Call, a psychic urging from
+their hag mother luring them away from the communities that raised
+them. If followed, the Call eventually leads the changeling to the hag’s
+coven, where they are subjected to terrible rituals that twist them
+into hags themselves. Some changelings, especially those who have
+strong social bonds or embrace druidic traditions, are able to resist
+this Call and continue on with their mortal lives. The fact that the Call
+disproportionately targets female changelings has led to a widespread
+misunderstanding that all changelings are female, while in fact male
+changelings are simply assumed to be members of their paternal ancestry.
+Changeling exile
+This changeling exile is the child of a night hag or dreamthief hag.
+
+================================================================================
+# CHANGELING EXILE
+================================================================================
+
+CHANGELING EXILE
+CREATURE 3
+CN
+MEDIUM
+CHANGELING
+HUMAN
+HUMANOID
+Perception +11; darkvision
+Languages Common, Druidic
+Skills Deception +9, Medicine +9, Nature +11, Stealth +8, Survival +9
+Str +4, Dex +1, Con +0, Int +0, Wis +4, Cha +2
+Items leather armor, staﬀ
+AC 19; Fort +7, Ref +8, Will +11; +2 circumstance to all saves vs. dream and sleep
+HP 45
+Speed 25 feet
+Melee Ȱɵ claws +11 (agile), Damage 1d4+4 slashing
+Melee Ȱɵ staﬀ +11 (two-hand d8), Damage 1d4+4 bludgeoning
+Primal Prepared Spells DC 21, attack +11; 2nd darkness, humanoid form, 1st
+burning hands, shillelagh, ventriloquism; Cantrips (2nd) dancing lights, produce
+ﬂame, read aura, tanglefoot
+Druid Order Spells DC 21; 2nd (1 Focus Point) wild morph,
+wild shape
+
+================================================================================
+PAGE 64
+================================================================================
+
+KOBOLD ADORATION
+Some kobold groups are fond of
+chimera guardians or pets, but
+few kobolds have the bravery or
+resources to keep a chimera happy
+for long. While chimeras are often
+pressed into service by more
+intelligent creatures, it’s also not
+unheard of for a chimera to keep
+a herd of unintelligent animals—
+lions, goats, or even serpents—as
+both companions and food supply.
+Chimera
+The chimera is the archetypal example of an unnatural monster made up of a
+monstrous mix of wildly different component creatures: in this case, a lion, a
+dragon, and a goat. Wild, hateful, and hungry, it tries to eat any creature it sees,
+but sometimes a strong-willed master is able to compel a chimera to serve as a
+guardian or even a mount.
+
+================================================================================
+# CHIMERA
+================================================================================
+
+
+KOBOLD ADORATION
+Some kobold groups are fond of
+chimera guardians or pets, but
+few kobolds have the bravery or
+resources to keep a chimera happy
+for long. While chimeras are often
+pressed into service by more
+intelligent creatures, it’s also not
+unheard of for a chimera to keep
+a herd of unintelligent animals—
+lions, goats, or even serpents—as
+both companions and food supply.
+Chimera
+The chimera is the archetypal example of an unnatural monster made up of a
+monstrous mix of wildly different component creatures: in this case, a lion, a
+dragon, and a goat. Wild, hateful, and hungry, it tries to eat any creature it sees,
+but sometimes a strong-willed master is able to compel a chimera to serve as a
+guardian or even a mount.
+CHIMERA
+CREATURE 8
+UNCOMMON
+CE
+LARGE
+BEAST
+Perception +16; darkvision, scent (imprecise) 30 feet
+Languages Draconic
+Skills Acrobatics +14, Athletics +18, Stealth +18
+Str +6, Dex +2, Con +4, Int –3, Wis +2, Cha +0
+AC 27; Fort +18, Ref +16, Will +14
+HP 135
+Three Headed Any ability that would sever a chimera’s head (such as a critical hit with
+a vorpal weapon) severs one head at random. Losing a head doesn’t kill a chimera (as
+long as it has one head left), but it does prevent it from making Strikes with the lost
+head or using the head’s Breath Weapon.
+Triple Opportunity A chimera gains 2 extra reactions each round
+that it can use only to make Attacks of Opportunity. It
+must use a diﬀerent head for each reaction, and it
+can’t use more than one on the same triggering
+action. If it loses one of its heads, it also loses
+one of these extra reactions.
+Attack of Opportunity Ǻȓ
+Speed 25 feet, ﬂy 40 feet
+Melee Ȱɵ dragon jaws +20, Damage 2d6+9
+piercing plus 2d6 energy damage (see
+draconic bite)
+Melee Ȱɵ lion jaws +20, Damage
+2d10+9 piercing
+Melee Ȱɵ goat horns +20, Damage
+2d10+9 piercing
+Melee Ȱɵ claw +20 (agile), Damage 2d6+9 slashing
+Breath Weapon ʚʖ (arcane, evocation) The chimera breathes a
+cone or line that deals 9d6 damage to all creatures in the
+area (DC 26 basic save of a type indicated below).
+The color of the chimera’s dragon head
+determines the area of the Breath
+Weapon, the type of damage it deals,
+and the type of save to avoid it. The
+chimera can’t use Breath Weapon again
+for 1d4 rounds.
+• Black 60-foot line of acid (Reﬂex)
+• Blue 60-foot line of electricity (Reﬂex)
+• Green 30-foot cone of poison (Fortitude)
+• Red 30-foot cone of ﬁre (Reﬂex)
+• White 30-foot cone of cold (Reﬂex)
+Draconic Bite A chimera’s dragon head deals an extra 2d6 damage of a
+type matching the dragon’s color (see Breath Weapon).
+Three-Headed Strike ʚʖ The chimera makes a Strike with its
+dragon jaws, lion jaws, and goat horns, each at a –2 penalty
+and targeting a diﬀerent creature. These Strikes count as
+only one attack for the chimera’s multiple attack penalty,
+and the penalty doesn’t increase until after it has made all
+three attacks.
+
+================================================================================
+PAGE 65
+================================================================================
+
+Bestiary
+CHUUL TREASURE
+While chuuls are uninterested
+in money, gems, tools, or magic
+of any kind, they have a nearly
+compulsive need to collect trophies
+of their victories, perchance to
+savor the memories of the kill and
+the meat. What treasure they have
+are typically such mementos.
+Chuul
+Also known as chu’ulothis, these large, armor-plated, crustacean predators lurk
+beneath the surface of pools, mires, and ponds, waiting to snatch up prey with
+their massive claws before paralyzing them with their tentacles. At that point,
+they begin to feed, eating their quarry alive.
+Chuuls can live in fresh or saltwater, and indeed are found in aquatic environs
+the world over—even in the subterranean oceans and lakes of the Darklands.
+While chuuls are good swimmers, they prefer terrestrial prey. Their preferred
+method of hunting is by lunging out of the water, paralyzing their victims with
+their poison-coated tentacles, then gleefully dragging their twitching food into the
+water to drown if they cannot simply eat such morsels alive. Chuuls that dwell
+aboveground prefer to dine on lizardfolk, while those swimming the subterranean
+lakes of the Darklands readily eat anything but xulgaths, whose ﬂavor and stink
+they ﬁnd off-putting.
+Chuuls are capable of speech and reason, but these creatures rarely speak with
+those outside their species except to taunt their food. Before it begins consuming
+its prey, a chuul often speaks in a gurgling, nearly incomprehensible dialect about
+how it will enjoy feasting on the creature’s ﬂesh. Perhaps chuuls believe that
+insults and degradation lead to more tender and tastier food, but the truth will
+likely never be known; almost all chuuls stubbornly refuse any
+meaningful conversation, even when imprisoned and compelled
+by treats or pain.
+It is unknown if a chuul society exists beyond their frenzied
+mating season. Chuuls’ intellects seem devoted only toward eating,
+causing psychological pain to sentient creatures, decorating their
+lairs with mementos of their favorite meals and
+victories, and breeding.
+
+================================================================================
+# CHUUL
+================================================================================
+
+
+Bestiary
+CHUUL TREASURE
+While chuuls are uninterested
+in money, gems, tools, or magic
+of any kind, they have a nearly
+compulsive need to collect trophies
+of their victories, perchance to
+savor the memories of the kill and
+the meat. What treasure they have
+are typically such mementos.
+Chuul
+Also known as chu’ulothis, these large, armor-plated, crustacean predators lurk
+beneath the surface of pools, mires, and ponds, waiting to snatch up prey with
+their massive claws before paralyzing them with their tentacles. At that point,
+they begin to feed, eating their quarry alive.
+Chuuls can live in fresh or saltwater, and indeed are found in aquatic environs
+the world over—even in the subterranean oceans and lakes of the Darklands.
+While chuuls are good swimmers, they prefer terrestrial prey. Their preferred
+method of hunting is by lunging out of the water, paralyzing their victims with
+their poison-coated tentacles, then gleefully dragging their twitching food into the
+water to drown if they cannot simply eat such morsels alive. Chuuls that dwell
+aboveground prefer to dine on lizardfolk, while those swimming the subterranean
+lakes of the Darklands readily eat anything but xulgaths, whose ﬂavor and stink
+they ﬁnd off-putting.
+Chuuls are capable of speech and reason, but these creatures rarely speak with
+those outside their species except to taunt their food. Before it begins consuming
+its prey, a chuul often speaks in a gurgling, nearly incomprehensible dialect about
+how it will enjoy feasting on the creature’s ﬂesh. Perhaps chuuls believe that
+insults and degradation lead to more tender and tastier food, but the truth will
+likely never be known; almost all chuuls stubbornly refuse any
+meaningful conversation, even when imprisoned and compelled
+by treats or pain.
+It is unknown if a chuul society exists beyond their frenzied
+mating season. Chuuls’ intellects seem devoted only toward eating,
+causing psychological pain to sentient creatures, decorating their
+lairs with mementos of their favorite meals and
+victories, and breeding.
+CHUUL
+CREATURE 7
+CE
+LARGE
+ABERRATION
+AMPHIBIOUS
+Perception +15; darkvision, tremorsense
+(imprecise) 30 feet
+Languages Aklo, Common (or Undercommon,
+for Darklands variants)
+Skills Athletics +17, Nature +13, Stealth +14,
+Survival +13
+Str +6, Dex +3, Con +4, Int +0, Wis +2, Cha –1
+AC 28; Fort +18, Ref +15, Will +12
+HP 100; Immunities poison
+Attack of Opportunity Ǻȓ
+Speed 30 feet; swim 25 feet
+Melee Ȱɵ claws +19 (reach 10 feet), Damage 2d8+9 bludgeoning plus Grab
+Constrict Ȱɵ 1d8+9 bludgeoning, DC 25 (grabbed by claws only)
+Mandibles Ȱɵ Requirement A creature is grabbed and paralyzed
+by the chuul’s tentacles. Eﬀect The creature takes 3d6
+piercing damage.
+Paralytic Venom (incapacitation, poison) Saving Throw
+DC 25 Fortitude; Maximum Duration 6 rounds; Stage 1
+paralyzed (1 round).
+Tentacle Transfer Ȱɵ Requirement The chuul has a
+creature grabbed. Eﬀect The chuul transfers the
+grabbed creature from its claws to its tentacles,
+or vice versa. A creature is exposed to the
+chuul’s paralytic venom when transferred into
+the tentacles and at the start of each of the
+chuul’s turns if it remains grabbed by
+the tentacles.
+
+================================================================================
+PAGE 66
+================================================================================
+
+CLOAKER ALLIES
+On the rare occasions that cloakers
+associate with other creatures, they
+tend to ally with those ulat‑kinis
+(page 12) who are no longer the
+thralls of the alghollthus and,
+rarely, with deros (pages 84–85),
+though they consider the latter
+irrational and untrustworthy.
+Cloakers never willingly associate
+with alghollthus.
+CLOAKER LOCATIONS
+Cloakers isolate themselves within
+the deeper parts of the Darklands
+and are concentrated in Sekamina
+and Orv. They tend to avoid Nar‑Voth
+due to its proximity to the surface.
+Cloaker
+Weird and paranoid creatures that dwell in the Darklands, cloakers resemble
+hideous, ﬂying manta rays. Crafty and careful hunters, their motivations, their
+patterns of attack, and even their societies and history are often an inscrutable
+jumble of contradicting reports, confused rumors, and terrifying accounts.
+Like many of the stranger creatures of Golarion, cloakers were originally created
+by the alghollthus, who bred them to spy on their Azlanti thralls. Upon the fall of
+the Azlanti empire, the alghollthus cast out their cloaker creations, who, in turn,
+ﬂed to the lower reaches of the Darklands. Amid the vaults and twisted corridors of
+their new home, their attitudes—particularly regarding their apprehension toward
+their former masters—changed dramatically. Suspicion became paranoia, egotism,
+sadism, and much worse. Now, most cloakers lead solitary lives, stalking the
+Darklands for easy prey and delving deeper into internal horrors. Their paranoia
+is so great that they interact only rarely even with their own kind, encountering
+another cloaker only brieﬂy to mate before ﬂitting back to isolation.
+But there are exceptions. Every so often, a charismatic cloaker priest can call
+together a dark cabal of these creatures and other Darklands denizens to worship
+unspeakable ancient gods. These rare cloakers whip their acolytes and followers
+into a frenzy of dark rituals and heinous acts. While these cults are depraved and
+destructive, they rarely survive longer than their founder.
+
+================================================================================
+# CLOAKER
+================================================================================
+
+
+CLOAKER ALLIES
+On the rare occasions that cloakers
+associate with other creatures, they
+tend to ally with those ulat‑kinis
+(page 12) who are no longer the
+thralls of the alghollthus and,
+rarely, with deros (pages 84–85),
+though they consider the latter
+irrational and untrustworthy.
+Cloakers never willingly associate
+with alghollthus.
+CLOAKER LOCATIONS
+Cloakers isolate themselves within
+the deeper parts of the Darklands
+and are concentrated in Sekamina
+and Orv. They tend to avoid Nar‑Voth
+due to its proximity to the surface.
+Cloaker
+Weird and paranoid creatures that dwell in the Darklands, cloakers resemble
+hideous, ﬂying manta rays. Crafty and careful hunters, their motivations, their
+patterns of attack, and even their societies and history are often an inscrutable
+jumble of contradicting reports, confused rumors, and terrifying accounts.
+Like many of the stranger creatures of Golarion, cloakers were originally created
+by the alghollthus, who bred them to spy on their Azlanti thralls. Upon the fall of
+the Azlanti empire, the alghollthus cast out their cloaker creations, who, in turn,
+ﬂed to the lower reaches of the Darklands. Amid the vaults and twisted corridors of
+their new home, their attitudes—particularly regarding their apprehension toward
+their former masters—changed dramatically. Suspicion became paranoia, egotism,
+sadism, and much worse. Now, most cloakers lead solitary lives, stalking the
+Darklands for easy prey and delving deeper into internal horrors. Their paranoia
+is so great that they interact only rarely even with their own kind, encountering
+another cloaker only brieﬂy to mate before ﬂitting back to isolation.
+But there are exceptions. Every so often, a charismatic cloaker priest can call
+together a dark cabal of these creatures and other Darklands denizens to worship
+unspeakable ancient gods. These rare cloakers whip their acolytes and followers
+into a frenzy of dark rituals and heinous acts. While these cults are depraved and
+destructive, they rarely survive longer than their founder.
+CLOAKER
+CREATURE 5
+CN
+LARGE
+ABERRATION
+Perception +12; darkvision
+Languages Aklo, Undercommon
+Skills Deception +14 (+16 to Impersonate a cloak, sheet, or ray), Religion +12,
+Stealth +14
+Str +5, Dex +3, Con +4, Int +2, Wis +3, Cha +1
+Shadow Shift Cloakers are concealed in dim light even to creatures with low-light vision
+and darkvision.
+AC 22; Fort +13, Ref +12, Will +12
+HP 80
+Speed 10 feet, ﬂy 30 feet
+Melee Ȱɵ jaws +14, Damage 1d10+7 piercing
+Melee Ȱɵ tail +14 (agile, reach 10 feet), Damage 2d6+7 slashing
+Envelop Ȱɵ (attack, incapacitation) The cloaker makes an attack roll with
+a +14 bonus against an adjacent creature’s Reﬂex DC. If it succeeds, it
+envelops the target, who is restrained. Attacks that hit an enveloping
+cloaker deal half their damage to the cloaker and half to the trapped
+victim. The cloaker can’t Fly, and when it moves using its land
+Speed it moves the enveloped creature with it. The cloaker can
+make only jaws Strikes against the restrained creature but can
+make tail Strikes against other creatures.
+A creature that voluntarily puts on the cloaker becomes
+engulfed automatically. A cloaker can engulf only Large or
+smaller creatures, and no more than one creature at a time.
+Infrasonic Moan ʚʖ (auditory, emotion, mental) The cloaker
+lets out an infrasonic moan that has one of the eﬀects below.
+A creature that succeeds at a DC 22 Will save is unaﬀected. Any
+creature that attempts this save becomes temporarily immune for 1
+hour. Because the moan is infrasonic, most humanoids don’t detect the source of
+their plight if they aren’t already aware of the cloaker.
+• Fear (fear, incapacitation) Each creature within a 30-foot emanation becomes frightened
+1 (or, on a critical failure, frightened 2 and ﬂeeing until the end of its next turn).
+• Nausea Each creature within a 30-foot emanation falls prone and become sickened 2.
+• Stupor The cloaker targets a single creature within 30 feet. The creature becomes
+clumsy 1 and stupeﬁed 1 for 1 minute.
+
+================================================================================
+PAGE 67
+================================================================================
+
+Bestiary
+COCKATRICE TREASURE
+Cockatrice lairs sometimes include
+discarded gear from past victims
+or smooth, pretty stones disgorged
+from the creature’s craw. Gem
+workers especially prize precious
+stones that have been polished to
+perfection in a cockatrice’s crop,
+and may pay a high price for these
+so-called "cockatrice rocks." Soft
+materials suitable for nesting, such
+as cloth and leather, rarely survive
+a cockatrice’s attentions, but metal
+goods are often left in ﬁne working
+order, since cockatrices seem to
+have little interest in anything
+shiny they can’t ﬁt in their gullet.
+Cockatrice
+Ugly and aggressive, the dread cockatrice stalks garbage pits and hillside dumps in
+search of prey that it can turn to stone with its petrifying beak and subsequently
+consume piece by broken piece. Cockatrices resemble gaunt and sickly roosters
+with bat wings and serpentine tails, and they rarely grow more than 2 feet tall
+and twice as long. Their absentminded clucking gives smart prey ample warning
+of their presence, and when angered cockatrices let out a shrill crow like that
+of a rooster. Their peck releases a magical toxin that causes ﬂesh to quickly
+calcify, and any creature pecked repeatedly by an irritable cockatrice eventually
+transforms into a stone statue of itself.
+The ﬁrst cockatrice is rumored to have hatched from a rooster’s egg incubated
+on a dung hill by a toad. Whether or not the rumor is true, the cockatrice’s
+monstrous appearance certainly doesn’t contradict its strange and ﬁlthy origin
+story, and these creatures are more than capable of propagating on their own.
+Cockatrices are remarkably fecund and gather in ﬂocks of up to a dozen
+members. Each ﬂock contains only a few females. The males—which differ in
+appearance from the females by having warty wattles and gnarled combs—
+often ﬁght with each other, with lower-ranking males eventually driven away
+to ﬁnd their own lairs or compete among other ﬂocks. Most creatures who run
+afoul of a solitary cockatrice do so with one of these surly outcasts.
+Cockatrice lairs are often littered with fragments of statuary from past
+victims—although these are as likely to be remnants of frogs, lizards, and insects
+as people. Curiously, weasels and ferrets, who inﬁltrate cockatrice lairs to steal
+their eggs, are immune to the creatures’ petrifying bites. For unknown reasons,
+cockatrices are both terriﬁed of and enraged by conventional roosters, and they
+are equally likely to ﬂee or attack when confronted by one.
+Particularly brave (or foolhardy) individuals sometimes keep cockatrices as pets
+or guard animals. In their natural habitat among plains, forests, and sewers near
+humanoid settlements, cockatrices are content to live off vermin or scraps of waste,
+but their greatest pleasure is consuming warm meals of freshly petriﬁed ﬂesh.
+
+================================================================================
+# COCKATRICE
+================================================================================
+
+COCKATRICE
+CREATURE 3
+N
+SMALL
+BEAST
+Perception +8; darkvision
+Skills Acrobatics +11
+Str –2, Dex +4, Con +1, Int –3, Wis +1, Cha –1
+AC 19; Fort +8, Ref +11, Will +6
+HP 45; Immunities calciﬁcation
+Speed 20 feet, ﬂy 40 feet
+Melee Ȱɵ beak +13 (ﬁnesse, magical), Damage 1d8–2 piercing
+plus calciﬁcation
+Calciﬁcation (incapacitation, primal, transmutation)
+A peck from a cockatrice hardens the ﬂesh
+of the creature struck. The target must
+succeed at a DC 20 Fortitude save or
+become slowed 1 (or slowed 2 on a
+critical failure). Further failed saves
+against calciﬁcation increase the slowed
+condition. Once a creature’s actions
+are reduced to 0 by calciﬁcation, that
+creature becomes petriﬁed.
+Every 24 hours after it was petriﬁed,
+the victim can attempt a DC 20 Fortitude
+save to recover. On a success, it becomes ﬂesh again, but is slowed 1 for the next
+24 hours. On a critical success, the creature recovers and isn’t slowed. On a failure,
+the creature remains petriﬁed, but can try again in 24 hours. On a critical failure,
+the petriﬁcation is permanent, and the creature can’t attempt any more saves.
+
+================================================================================
+PAGE 68
+================================================================================
+
+CROCODILE RESOURCES
+A crocodile’s skin can be used as
+leather, and its meat is chewy and
+mild, though even a large crocodile
+doesn’t usually yield more than 50
+pounds of usable meat.
+CROCODILE LOCATIONS
+Crocodiles often live in warm,
+tropical areas, either in fresh or salt
+water. Alligators are found in more
+varied climates, but only in fresh
+water. Deinosuchuses, particularly
+the largest and most dangerous of
+their kind, prefer estuaries, bays,
+or other brackish bodies of water
+connected to both river and sea.
+Crocodile
+Powerful and primeval in appearance, crocodiles are dangerous natural predators
+that dwell in marshes, riverbeds, swamps, and other wetlands.
+Crocodile
+Crocodiles can be found basking on riverbanks, lurking in swamps, or ﬂoating
+in lakes. They are usually are indistinguishable from logs when viewed from
+afar—at least until they attack. Alligators have similar statistics, but because
+they often live in more temperate climates, they endure cold temperatures
+better. Unlike alligators, crocodiles can tolerate salt water. Both are formidable
+predators that are likely to devour careless adventurers who fail to watch where
+they step.
+
+================================================================================
+# CROCODILE
+================================================================================
+
+
+CROCODILE RESOURCES
+A crocodile’s skin can be used as
+leather, and its meat is chewy and
+mild, though even a large crocodile
+doesn’t usually yield more than 50
+pounds of usable meat.
+CROCODILE LOCATIONS
+Crocodiles often live in warm,
+tropical areas, either in fresh or salt
+water. Alligators are found in more
+varied climates, but only in fresh
+water. Deinosuchuses, particularly
+the largest and most dangerous of
+their kind, prefer estuaries, bays,
+or other brackish bodies of water
+connected to both river and sea.
+Crocodile
+Powerful and primeval in appearance, crocodiles are dangerous natural predators
+that dwell in marshes, riverbeds, swamps, and other wetlands.
+Crocodile
+Crocodiles can be found basking on riverbanks, lurking in swamps, or ﬂoating
+in lakes. They are usually are indistinguishable from logs when viewed from
+afar—at least until they attack. Alligators have similar statistics, but because
+they often live in more temperate climates, they endure cold temperatures
+better. Unlike alligators, crocodiles can tolerate salt water. Both are formidable
+predators that are likely to devour careless adventurers who fail to watch where
+they step.
+CROCODILE
+CREATURE 2
+N
+LARGE
+ANIMAL
+Perception +7; low-light vision
+Skills Athletics +8, Stealth +7 (+11 in water)
+Str +4, Dex +1, Con +3, Int –5, Wis +1, Cha –4
+AC 18; Fort +9, Ref +7, Will +5
+HP 30
+Speed 20 feet, swim 25 feet
+Melee Ȱɵ jaws +10, Damage 1d10+4 piercing plus Grab
+Melee Ȱɵ tail +10 (agile), Damage 1d6+4 bludgeoning
+Aquatic Ambush Ȱɵ 35 feet
+Death Roll Ȱɵ (attack) Requirement The
+crocodile must have a creature grabbed.
+Effect The crocodile tucks its legs and
+rolls rapidly, twisting its victim. It makes
+a jaws Strike with a +2 circumstance
+bonus to the attack roll against the
+grabbed creature. If it hits, it also knocks
+the creature prone. If it fails, it releases
+the creature.
+Deep Breath The crocodile can hold its
+breath for about 2 hours.
+Deinosuchus
+The deinosuchus is a primeval relative of the
+crocodile, and is an enormous predator capable
+of catching and eating dinosaurs that wander too
+close to its domain!
+
+================================================================================
+# CYCLOPS
+================================================================================
+
+CYCLOPS
+CREATURE 5
+UNCOMMON
+NE
+LARGE
+GIANT
+HUMANOID
+Perception +12; low-light vision
+Languages Common, Cyclops, Jotun
+Skills Athletics +14, Fortune-Telling Lore
++13, Intimidation +10, Survival +12
+Str +5, Dex –1, Con +2, Int +0, Wis +3, Cha –1
+Items greataxe, heavy crossbow (10 bolts),
+hide armor
+AC 21; Fort +13, Ref +8, Will +12
+HP 80
+Ferocity Ǻȓ
+Flash of Insight Ȳ˓ (divination, occult, fortune)
+Frequency once per day; Trigger The cyclops is about
+to roll a d20. Eﬀect The cyclops peers into an occluded
+spectrum of possible futures. It gets a success (but not a
+critical success) on the roll instead of rolling.
+Speed 30 feet
+Melee Ȱɵ greataxe +14 (reach 10 feet, sweep),
+Damage 1d12+9 slashing
+
+================================================================================
+PAGE 70
+================================================================================
+
+CYCLOPS SEERS
+Great cyclopes are traditionally
+violent creatures, but some retain
+fragments of the old ways that lull
+them into periods of calm. During
+such times, they can be incredible
+sources of information, but one
+must take care to be well away
+from the great cyclops’s lair before
+its bestial rage wakens once more.
+Ranged Ȱɵ heavy crossbow +8 (range increment 120 feet, reload 2), Damage 1d10+4 piercing
+Swipe ʚʖ (ﬂourish) The cyclops makes a melee Strike and compares the attack roll
+result to the AC of up to two foes, each of whom must be within its melee reach and
+adjacent to each other. Roll damage only once and apply it to each creature hit. A
+Swipe counts as two attacks for the cyclops’s multiple attack penalty.
+Great Cyclops
+Gigantic, dim-witted loners, the great cyclopes embody their lesser kin writ
+large. They are both stronger and more violent, but their uncontrolled vision
+into possible futures has driven them beyond reason. They see every moment
+as a potential storm of uncontrollable fury, and out of a desperate desire for
+peace, quiet, and an end to their hunger, they lash out at all who come near. Wise
+creatures avoid great cyclopes at all cost.
+Debate has long raged over the origins of these massive, destructive giants. They
+are so large that it had long been assumed they were used as beasts of burden by
+their lesser kin, but they are now free to hunt and kill without restraint. Other
+scholars believe the great cyclops is the ultimate fate of the entire cyclops species.
+Whatever foolish decision or wayward curse caused the end of their civilization
+is still playing out, occasionally causing a cyclops to withdraw from its own kind,
+lose all semblance of intellect, and mutate into a lumbering, feral colossus. It
+is fortunate indeed that the great cyclops prefers to dwell far from humanoid
+settlements, because its immeasurable bloodlust inspires it to destroy virtually
+anything that moves, from dinosaurs and other monsters to the occasional
+explorer or soon-to-be-lost caravan.
+
+================================================================================
+# CACODAEMON
+================================================================================
+
+
+Bestiary
+Daemon
+Denizens of the bleak and terrible plane of Abaddon, daemons are shaped by and
+devoted to the destruction of life in all its forms. They seek the death of every mortal
+being by the most painful and horrible means possible, all in service to the apocalyptic
+entities known as the Four Horsemen. Each kind of daemon represents a different
+way to die, and their powers are nearly always aimed at spreading that particular
+form of death. Through the use of these powers, they seek to drag all existence down
+into a pit of hopelessness and despair, and to commit all souls to oblivion.
+While those who summon daemons to the Material Plane usually seek to use
+the creatures’ destructive and corrupting powers for their own ends, daemons
+always look for ways to spread fear, doubt, and despair wherever they go. Often,
+daemons disguise their plots as the workings of other ﬁends, knowing that such
+confusion compounds mortals’ fear.
+While all ﬁends seek to tempt mortals into lives of evil to increase their own
+numbers and power on their native planes, daemons are further driven by a
+supernatural hunger for mortal souls and use a variety of methods—not least
+of which is the cacodaemons’ soul gems—to entrap them. On Abaddon and in
+other forbidding places across the multiverse, souls are simultaneously a delicacy,
+a trade good, and a source of magical power, and the daemons are among the
+greatest gluttons, merchants, and abusers of this spiritual “resource.”
+Cacodaemon (Harvester Daemon)
+These embodiments of demented violence and spite are spawned from eddies of
+angry and warped souls amid Abaddon’s mists. Cacodaemons constantly hunger
+for mortal souls and yearn to create suffering. As gnashing spheres of teeth, ﬁns, and
+spines, they are the weakest of daemonkind, an amalgam of various petty forms of
+death without the strength that comes from focusing on a single cause of demise.
+CACODAEMON
+CREATURE 1
+NE
+TINY
+DAEMON
+FIEND
+Perception +6; darkvision
+Languages Common, Daemonic; telepathy 100 feet
+Skills Acrobatics +8, Deception +5, Religion +6, Stealth +8
+Str +0, Dex +3, Con +2, Int –1, Wis +1, Cha +2
+AC 16; Fort +7, Ref +8, Will +6
+HP 22; Immunities death eﬀects; Weaknesses good 3
+Speed 5 feet, ﬂy 40 feet
+Melee Ȱɵ jaws +8 (agile, disease, evil, ﬁnesse, magical)
+Damage 1d8 piercing plus 1d4 evil and cacodaemonia
+Divine Innate Spells DC 17; 4th read omens; 2nd invisibility
+(at will; self only); 1st detect alignment (at will; good only),
+fear; Cantrips (1st) detect magic (at will)
+Cacodaemonia (disease) The cacodaemon can telepathically
+communicate with the aﬄicted creature at any distance on the
+same plane; Saving Throw DC 17 Fortitude; Stage 1 carrier (1
+day); Stage 2 stupeﬁed 1 (1 day); Stage 3 stupeﬁed 2 (1 day)
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation)
+•
+Lizard Speed 20 feet; Melee jaws +8 (agile, ﬁnesse), Damage 1d8+1
+piercing
+• Octopus size Small; Speed 20 feet, swim 30 feet; Melee tentacle +8
+(ﬁnesse), Damage 1d8+1 bludgeoning plus Grab; Melee beak +8 (agile,
+ﬁnesse), Damage 1d6 piercing plus 2 poison
+• Scorpion size Small; Speed 30 feet; Melee pincer +8 (agile, ﬁnesse), Damage
+1d6+1 bludgeoning plus Grab; Melee stinger +8 (agile, ﬁnesse), Damage 1d6+1
+piercing plus 1d4 poison
+Soul Lock ̂ˬ (death, divine, necromancy) Once per day, a cacodaemon can ingest the soul
+of a sentient creature within 30 feet that died within the last minute. When it does, the
+DAEMONIC DIVINITIES
+Numerous powerful and unique
+daemon demigods, known
+collectively as harbingers, rule
+over swaths of Abaddon. Above
+these demigods, though, are
+entities of even greater power—the
+four Horsemen of the Apocalypse.
+As the eons go on, the names and
+identities of speciﬁc horsemen
+change. Currently, they consist of
+Apollyon (Horseman of Pestilence),
+Charon (Horseman of Death),
+Szuriel (Horseman of War),
+and Trelmarixian (Horseman of
+Famine). Of these, only Charon has
+never fallen to an upstart. Some
+hold that a “Fifth Horseman” once
+ruled over the other four, while
+others maintain that the eternally
+eclipsed sun in the skies above
+Abaddon is all that remains of this
+long-dead god.
+
+================================================================================
+PAGE 72
+================================================================================
+
+cacodaemon grows a ﬁst-sized soul gem (Hardness 2, HP 8) in its gut and can regurgitate
+it at any time as an Interact action. Destroying the gem frees the soul within but does
+not return the deceased creature to life. The caster of a spell to return a creature to life
+whose soul is trapped within a soul gem must succeed at a DC 30 Religion check. On a
+success, the soul gem shatters and the creature is returned to life as normal for the spell.
+By using an Interact action, a ﬁend can ingest a soul gem it is holding, condemning
+the soul to the ﬁend’s home plane. The ﬁend gains fast healing 5 for 1 minute.
+Ceustodaemon (Guardian Daemon)
+Ceustodaemons are formed from the souls of vile mortals, particularly those who
+took efforts to hasten their own death, their willingness shaping them into daemonic
+servants. Their otherworldly senses make them useful for protecting vaults and similar
+locations on the Material Plane. Ceustodaemons are created to serve, but always
+seek ways to subvert their bindings, so they can rend their mortal summoners’
+ﬂesh. The worst type of conjurer calls upon ceustodaemons merely to set them
+free into the world in hopes of currying favor with the powers of Abaddon.
+
+================================================================================
+# CEUSTODAEMON
+================================================================================
+
+
+cacodaemon grows a ﬁst-sized soul gem (Hardness 2, HP 8) in its gut and can regurgitate
+it at any time as an Interact action. Destroying the gem frees the soul within but does
+not return the deceased creature to life. The caster of a spell to return a creature to life
+whose soul is trapped within a soul gem must succeed at a DC 30 Religion check. On a
+success, the soul gem shatters and the creature is returned to life as normal for the spell.
+By using an Interact action, a ﬁend can ingest a soul gem it is holding, condemning
+the soul to the ﬁend’s home plane. The ﬁend gains fast healing 5 for 1 minute.
+Ceustodaemon (Guardian Daemon)
+Ceustodaemons are formed from the souls of vile mortals, particularly those who
+took efforts to hasten their own death, their willingness shaping them into daemonic
+servants. Their otherworldly senses make them useful for protecting vaults and similar
+locations on the Material Plane. Ceustodaemons are created to serve, but always
+seek ways to subvert their bindings, so they can rend their mortal summoners’
+ﬂesh. The worst type of conjurer calls upon ceustodaemons merely to set them
+free into the world in hopes of currying favor with the powers of Abaddon.
+CEUSTODAEMON
+CREATURE 6
+NE
+LARGE
+DAEMON
+FIEND
+Perception +14; darkvision, see invisibility
+Languages Common, Daemonic; telepathy 100 feet
+Skills Deception +15, Intimidation +13, Stealth +12, Survival +10
+Str +5, Dex +2, Con +4, Int +0, Wis +2, Cha + 3
+AC 23; Fort +16, Ref +12, Will +12
+HP 130; Immunities death eﬀects;
+Weaknesses good 10
+Speed 25 feet
+Melee Ȱɵ jaws +16 (evil, reach 10 feet),
+Damage 2d10+5 piercing plus 1d6 evil
+and vicious wounds
+Melee Ȱɵ claw +16 (agile, evil, magical, reach 10 feet), Damage 2d6+5 slashing plus
+1d6 evil and vicious wounds
+Divine Innate Spells DC 23; 7th ﬂy, 4th dimension door (at will), 3rd dispel
+magic (×2), paralyze, 1st detect alignment (at will; good only); Constant
+(2nd) see invisibility
+Breath Weapon ʚʖ (divine, evocation, ﬁre) The ceustodaemon
+breathes ﬂames in a 30-foot cone. Creatures in the cone take
+7d6 ﬁre damage (DC 24 basic Reﬂex save). The ceustodaemon
+and each creature that fails the save catch ﬁre, taking 2d6
+persistent ﬁre damage. The breath weapon can’t be used
+again for 1d4 rounds.
+Drawn to Service When bringing a ceustodaemon to another
+plane with eﬀects like a planar binding or planar ally ritual,
+the primary and secondary skill DCs are reduced by 5, and the
+ceustodaemon demands only half the normal cost for its service.
+Vicious Wounds On a successful jaws or claw Strike, the ceustodaemon
+viciously tears into its victim as similar wounds appear on its
+own body. The target takes an extra 1d6 amount of damage,
+and the ceustodaemon takes the same extra damage. If this
+extra damage to the target is doubled, due to a critical
+hit, the ceustodaemon takes double damage as well.
+Leukodaemon (Pestilence Daemon)
+These skull-headed, vulture-winged daemons are harbingers of
+pestilence and servants of their patron Horseman, Apollyon. Manifestations of evil
+souls who perished from disease in life, leukodaemons work tirelessly to spread
+disease across all the worlds of the multiverse. More than any other daemon,
+SOUL GEMS AS TREASURE
+Soul gems are traded in illicit
+markets, a tradition celestials and
+psychopomps alike ﬁnd vile. Soul
+gems’ value varies, but is generally
+worth an amount relative to the
+level of a gem’s captive soul.
+
+================================================================================
+PAGE 73
+================================================================================
+
+Bestiary
+leukodaemons cooperate with each other and those who conjure them to mortal
+worlds to spread sickness and plague, eschewing personal glory for end results.
+
+================================================================================
+# CINDER RAT
+================================================================================
+
+
+Bestiary
+ELEMENTAL VORTEXES
+Where the boundary between
+planes wears thin, elementals
+manifest in the world through
+churning vortexes. Such gateways
+might lie at the heart of a volcano, a
+deep ocean trench, in regions beset
+with earthquakes, or within
+great storms.
+Elemental, Fire
+Fire elementals are destructive manifestations of the scorching Plane of Fire.
+Cinder Rat
+These oversized rodents are made of smoldering charcoal and elemental ﬁre, and
+noxious fumes continually bellow from their ﬂaming ﬂesh.
+CINDER RAT
+CREATURE 3
+N
+SMALL
+ELEMENTAL
+FIRE
+Perception +9; darkvision, smoke vision
+Skills Acrobatics +10, Stealth +10, Survival +9
+Str +2, Dex +3, Con +2, Int –4, Wis +2, Cha +0
+Smoke Vision The cinder rat ignores the concealed condition from smoke.
+AC 18; Fort +9, Ref +12, Will +6
+HP 45; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 5
+Fetid Fumes (aura, ﬁre) 5 feet. A creature that enters the aura or begins its turn there
+must succeed at a DC 22 Fortitude save or become sickened 1. Everything within
+the aura, including the cinder rat, is concealed by smoke.
+Speed 40 feet
+Melee Ȱɵ jaws +10 (ﬁnesse), Damage 1d8+4 ﬁre plus 1d4 persistent ﬁre
+Living Wildfire
+Living wildﬁres appear as humanoids made of living ﬁre.
+
+================================================================================
+# CLOUD GIANT
+================================================================================
+
+
+Cloud Giant
+The graceful and regal cloud giants have skin of milky white to powdery blue.
+Unlike most giants, cloud giants are quite morally diverse. A handful are neutral,
+but of the others, roughly half are good, while the other half are evil. Good cloud
+giants are often civic-minded builders of roads and settlements, and are interested
+in trading goods as well as cultural innovations. It’s not uncommon for such
+giants to approach their neighbors with diplomacy and build strong relationships
+with other peaceful peoples. Conversely, evil cloud giants are often isolationist
+and xenophobic. Preferring hidden mountain valleys and settlements in the caves
+and among the crags of lonely peaks, they raid for what they want and treat other
+creatures like inconsequential insects. These opposing philosophies can generate
+a great deal of strife among neighboring cloud giant communities, and the raiders
+often threaten the trade deals of their peaceful cousins.
+Legends persist of ﬂoating cities ruled by magically gifted cloud giant
+queens and kings. While most cloud giants plainly state that such claims
+are pure fantasy, others are mysteriously tight-lipped or evasive about
+the matter.
+CLOUD GIANT
+CREATURE 11
+N
+HUGE
+AIR
+GIANT
+HUMANOID
+Perception +22; low-light vision, scent (imprecise) 30 feet
+Languages Common, Jotun
+Skills Athletics +26, Crafting +21, Diplomacy +24, Intimidation +26,
+Performance +21
+Str +7, Dex +0, Con +5, Int +1, Wis +3, Cha +1
+Items +1 striking ranseur, sack with 5 rocks
+AC 30; Fort +25, Ref +18, Will +21
+HP 220
+Attack of Opportunity Ǻȓ
+Catch Rock Ǻȓ
+Speed 30 feet
+Melee Ȱɵ ranseur +25 (disarm, magical, reach 20 feet), Damage
+2d10+13 piercing
+Melee Ȱɵ
+ﬁst
++24
+(agile,
+reach
+feet),
+Damage
+2d8+13 bludgeoning
+Ranged Ȱɵ rock +24 (brutal, range increment 120 feet), Damage
+2d10+13 bludgeoning
+Primal Innate Spells DC 30; 4th solid fog; 3rd levitate (at will); 2nd obscuring
+mist (at will)
+Throw Rock Ȱɵ
+Wind Strike ʚʖ (air, evocation, primal) The cloud giant Strikes a creature
+with its ranseur, surrounded in a roar of rushing air. On a hit, the target
+takes an additional 4d8 bludgeoning damage and is deafened for 1
+minute. Whether or not the Strike hits, each non-cloud giant within a
+20-foot emanation, including the target of the Strike, is buﬀeted by
+roaring winds and must attempt a DC 30 Fortitude saving throw.
+Critical Success The creature is unaﬀected.
+Success The creature takes 2d8 sonic damage.
+Failure The creature takes 4d8 sonic damage and is deafened until the
+end of its next turn.
+Critical Failure As failure, but double damage and also knocked prone.
+Storm Giant
+Storm giants are looming but benevolent stewards of sea and sky,
+often serving as the natural guardians of tropical islands, coastlines,
+or rocky archipelagos. Storm giants tend to rapidly shift in mood and
+behavior, one moment engaging in peaceful negotiation, the next unleashing
+GIANT PETS
+As with many people, giants
+enjoy keeping pets. Yet for giants,
+what constitutes a pet is often
+categorized as beast to others.
+Large animals like bears and
+lions, and megafauna like woolly
+mammoths and dinosaurs are
+popular, as are more magical
+creatures like hell hounds,
+manticores, griﬀons, and the like.
+
+================================================================================
+PAGE 175
+================================================================================
+
+Bestiary
+OTHER GIANTS
+Beyond the giants detailed here,
+many others dwell in remote
+regions of the world. Marsh
+giants are cultists who worship
+strange sea deities, shadow giants
+have ties to the Shadow Plane,
+and mountain giants are horriﬁc
+butchers even other giants fear.
+unbridled ferocity against their foes. In this way, they embody both the fury of a
+raging tempest and the calm of a hurricane’s eye. This can make them valuable
+allies who race to the aid of those in need, but their allies remain must be alert
+and mindful of their mood, as the giants can be quick to anger or aggressive
+when caution is most appropriate.
+Most storm giants have complexions akin to the crystal blue of the ocean or the
+warm violet of a sky touched by the setting sun. Their hair tends to be dark purple,
+blue, or black, and their eyes often have a silvery sheen. A typical storm giant stands
+21 feet tall, weighs 12,000 pounds, and lives to be about 600 years old.
+
+================================================================================
+# CLAY GOLEM
+================================================================================
+
+Alchemical Injection When an alchemical golem hits a creature with a syringe Strike,
+roll 1d6 on the alchemical chambers list to determine the additional eﬀect of the
+attack. The syringe deals an additional 2d6 damage of the appropriate type (or
+exposes the target to the sickness eﬀect, as appropriate).
+Generate Bomb Ȱɵ (manipulate) The golem ﬁlls an empty vial from one of its alchemical
+chambers to create a bomb and then makes a bomb Strike. Determine the type of bomb
+created by rolling 1d6 on the alchemical chambers list above. On a roll of 1–4, it creates
+the corresponding greater alchemical bomb: an acid ﬂask from chamber 1, a frost vial
+from chamber 2, bottled lightning from chamber 3, or alchemist’s ﬁre from chamber 4.
+On a roll of 5, it creates a poisonous bomb that deals 3d10 poison damage and 3 poison
+splash damage with no other eﬀects. On a roll of 6, it creates a sickness bomb, which
+exposes the target and all creatures in the splash radius to the sickness eﬀect; creatures
+hit by only the splash receive a +2 circumstance bonus to their Fortitude saves.
+Clay Golem
+Traditionally, clay golems are crafted in the image of a deity and used as
+guardians of tombs or sacred crypts. Clay golems have the power to lay curses
+upon their victims as punishment for intrusion, leading many to believe that
+these oft-ancient constructs have a touch of the divine to them. While
+this idea has little basis in reality, superstitious folk still tread lightly
+around statues that resemble clay golems even in the slightest.
+The animating force within a clay golem is unusually unstable,
+making the golem prone to entering a berserk frenzy when
+damaged. Entire treasuries have been totally ruined as a result of a
+rampaging clay golem, so crafters do well to make sure their golems
+are maintained and in good working order—or otherwise place them on the other
+side of the door from the treasures they wish to protect.
+CLAY GOLEM
+CREATURE 10
+UNCOMMON
+N
+LARGE
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +16; darkvision
+Skills Athletics +24
+Str +6, Dex –1, Con +6, Int –5, Wis +0, Cha –5
+AC 29; Fort +23, Ref +16, Will +17
+HP 175; Immunities acid, bleed, death eﬀects, disease, doomed, drained, fatigued,
+healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison,
+sickened, unconscious; Resistances physical 10 (except adamantine)
+Berserk A severely damaged clay golem has a chance of going berserk. If it has 50 or
+fewer Hit Points at the start of its turn, the golem must succeed at a DC 5 ﬂat check
+or go berserk. A berserk golem wildly attacks the nearest living creature, or
+the nearest object if no creatures are nearby.
+Golem Antimagic harmed by cold and water (5d10, 2d6 from areas or
+persistent damage); healed by acid (area 2d6 HP); slowed by earth
+
+================================================================================
+PAGE 188
+================================================================================
+
+STONE GOLEMS
+Depending on the material from
+which it is made and the care that
+went into crafting it, a destroyed
+stone golem may be worth as much
+as an immaculately sculpted marble
+pillar or as little as a pile of rubble.
+Vulnerable to Disintegrate A disintegrate spell aﬀects the golem but deals half the
+normal amount of damage and causes the golem to become slowed 2 for 1 round.
+Quicken Ȳ˓ (divine, transmutation) Frequency Once per day. Trigger The clay golem’s
+turn begins. It can’t trigger this free action on the ﬁrst turn of combat. Eﬀect The clay
+golem becomes quickened for 1 minute.
+Speed 20 feet
+Melee Ȱɵ ﬁst +24 (magical, reach 10 feet), Damage 2d10+12 bludgeoning plus cursed wound
+Berserk Slam Ȱɵ Requirement The golem is berserk. Eﬀect The clay golem Strikes
+with its ﬁst at a –1 circumstance penalty. If its Strike hits, the clay golem deals an
+additional 1d8 damage and knocks the target prone.
+Cursed Wound (divine, curse, necromancy) A creature hit by the clay golem’s ﬁst must
+succeed at a DC 29 Fortitude save or be cursed until healed to its maximum HP. The
+cursed creature can’t regain HP except via magic, and anyone casting a spell to heal
+the creature must succeed at a DC 29 counteract check or the healing has no eﬀect.
+The golem’s counteract level is equal to its creature level.
+Stone Golem
+Stone golems are slow and steady constructs typically carved from marble or
+granite. They’re often made to serve as works of art when at rest, so some golem
+crafters employ master sculptors to ensure the constructs make beautiful statues.
+Older stone golems might be weathered, with scuffed or cracked surfaces or
+missing noses and digits, but this weathering is largely cosmetic and doesn’t
+adversely impact the golems’ functionality.
+Tales tell of particularly immense stone golems residing in certain
+ancient ruins. Survivors from time-lost civilizations bent on carrying out
+orders from long-gone masters, these immense stone golems are much
+more powerful than most stone golems. They are always level 15 or
+higher and never smaller than Huge in size—most are Gargantuan.
+Because their size is so great and the structures they dwell in so
+dilapidated, the awakening of such a stone golem can cause
+surrounding structures to collapse, ancient foundations to
+buckle, and ceilings to come crashing down on foes. In
+addition to the statistics here, these massive stone golems
+attack with wide, sweeping strikes capable of knocking
+down multiple targets at once.
+
+================================================================================
+# CRAG LINNORM
+================================================================================
+
+
+Bestiary
+LINNORM KINGS
+In the storied Lands of the
+Linnorm Kings, the slaying of a
+linnorm is traditionally required for
+those who would claim a nation’s
+crown. Recently, though, the
+Linnorm King White Estrid claimed
+her crown not by slaying a linnorm
+but by beating it into submission,
+gaining a powerful and dangerous
+ally to help secure her rule.
+Linnorm
+Immense, primeval dragons of the northern reaches of the world, linnorms hate
+those they deem to be lesser creatures and seek to inﬂict as much suffering as possible
+upon their unfortunate victims. While these serpentine monstrosities might not be
+the powerful winged dragons most imagine, they nonetheless possess incredible
+strength and deadly powers that often rival authentic dragon brutality.
+Crag Linnorm
+Despite being among the weakest linnorms, the crag linnorm is a devastating
+predator, capable of quickly cooking its foes with its magma breath.
+CRAG LINNORM
+CREATURE 14
+UNCOMMON
+CE
+GARGANTUAN
+DRAGON
+FIRE
+Perception +26; darkvision, scent (imprecise) 60 feet, true seeing
+Languages Aklo, Draconic, Sylvan
+Skills Acrobatics +22, Athletics +28
+Str +8, Dex +4, Con +6, Int –3, Wis +4, Cha +5
+AC 37; Fort +28, Ref +24, Will +22; +1 status to all saves vs. magic
+HP 270, regeneration 10 (deactivated by cold iron); Immunities curse, ﬁre, paralyzed,
+sleep; Weaknesses cold iron 10
+Curse of Fire (curse, ﬁre, primal) When a creature slays a crag linnorm, it must succeed
+at a DC 35 Will save or permanently gain weakness to ﬁre 15.
+Attack of Opportunity Ǻȓ Tail only.
+Speed 35 feet, ﬂy 100 feet, swim 60 feet; freedom of movement
+Melee Ȱɵ jaws +30 (reach 20 feet, magical), Damage 3d12+14 piercing plus crag
+linnorm venom
+Melee Ȱɵ claw +30 (reach 20 feet, magical), Damage 3d8+14 slashing
+Melee Ȱɵ tail +30 (reach 20 feet, magical), Damage 3d6+14 bludgeoning plus
+Improved Grab
+Primal Innate Spells DC 33; Constant (6th) freedom of movement; (5th) true seeing
+Breath Weapon ʚʖ (evocation, ﬁre, primal) The crag linnorm breathes out a stream
+of magma in a 120-foot line that deals 12d6 ﬁre damage to creatures within
+the area (DC 34 basic Reﬂex save). Any creature that fails its
+save also takes 4d6 persistent ﬁre damage. The crag linnorm
+can’t use Breath Weapon again for 1d4 rounds. The magma
+remains until the start of the linnorm's next turn. If the
+linnorm was on the ground, the magma remains as a
+burning line on the ground directly under the line of
+the Breath Weapon, and if the linnorm was airborne,
+the magma rains downward in a sheet 60 feet high.
+Any creature that moves across or through the
+magma takes 6d6 ﬁre damage (DC 34 basic Reﬂex
+save). At the start of the linnorm's next turn,
+the magma cools to a thin layer of brittle
+stone on the ground, or the magma rain
+ﬁnishes falling and turns to harmless
+pebbles. The cooled magma quickly
+degrades to powder and sand over the
+course of several hours.
+Constrict Ȱɵ 2d6+14 bludgeoning, DC 34
+Crag Linnorm Venom (ﬁre, injury, poison)
+Saving Throw DC 34
+Fortitude;
+Maximum
+Duration
+rounds;
+Stage 1 4d6 ﬁre damage
+and drained 1; Stage 2 6d6 ﬁre damage and drained 2.
+
+================================================================================
+PAGE 226
+================================================================================
+
+DEATH CURSES
+The death curses of the linnorms
+are often the subjects of tragic
+sagas, and those who would think
+themselves vanquishing heroes
+for slaying a linnorm often meet
+their dooms soon thereafter,
+succumbing to these curses well
+after the death of the linnorm
+responsible for bestowing it.
+Ice Linnorm
+The ice linnorm dwells amid glacial crevasses, atop wind-blasted mountain peaks,
+or within glittering caverns carved from the hearts of the mightiest of icebergs.

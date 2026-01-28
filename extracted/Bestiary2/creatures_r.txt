@@ -1,0 +1,993 @@
+# Bestiary - Creatures: R
+# Count: 8 creatures
+
+
+================================================================================
+# REEF OCTOPUS
+================================================================================
+
+Blue-Ringed Octopus Venom (poison); Saving Throw DC 17 Fortitude; Maximum Duration
+6 rounds; Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage (1 round);
+Stage 3 1d6 poison damage and paralyzed (1 round)
+Camouﬂage The blue-ringed octopus can change the color of its skin to Hide even if it
+doesn’t have cover.
+Jet ʚʖ The blue-ringed octopus moves up to 60 feet in a straight line through the water
+without triggering reactions.
+Toxic Bite Ȱɵ Requirements The blue-ringed octopus has a creature grabbed; Eﬀect The
+blue-ringed octopus makes a beak Strike against the grabbed creature. If it hits, it
+injects additional poison, causing its venom to gain the virulent trait.
+REEF OCTOPUS
+The common reef octopus is a risky but valuable catch for coastal ﬁshers.
+REEF OCTOPUS
+CREATURE 1
+N
+SMALL
+ANIMAL
+AQUATIC
+Perception +7; low-light vision
+Skills Athletics +6, Stealth +9
+Str +1, Dex +4, Con +1, Int –4, Wis +1, Cha +0
+AC 17; Fort +6, Ref +9, Will +7
+HP 20; Resistances cold 3
+Speed 10 feet, swim 30 feet
+Melee Ȱɵ beak +9 (ﬁnesse), Damage 1d10+1 piercing plus reef octopus venom
+Melee Ȱɵ arm +9 (agile, ﬁnesse), Damage 1d6+1 bludgeoning plus Grab
+Camouﬂage As blue-ringed octopus.
+Ink Cloud Ȱɵ The reef octopus emits a cloud of dark-brown ink in a 10-foot
+emanation. This cloud has no eﬀect outside of
+water. Creatures inside the cloud are hidden
+and can’t use their sense of smell. The cloud
+dissipates after 1 minute. The octopus can’t
+use Ink Cloud again for 2d6 rounds.
+Jet ʚʖ As blue-ringed octopus, but 80 feet.
+Reef Octopus Venom (poison); Saving Throw DC 17
+Fortitude; Maximum Duration 6 rounds; Stage
+1 1d4 poison damage and ﬂat-footed (1 round);
+Stage 2 1d6 poison damage and ﬂat-footed (1
+round); Stage 3 1d8 poison damage and ﬂat-footed (1 round)
+Writhing Arms ʚʖ The reef octopus makes up to four arm Strikes
+with diﬀerent arms, each against a diﬀerent target. These attacks
+count toward the octopus’s multiple attack penalty, but the multiple
+attack penalty doesn’t increase until after it makes all of its attacks.
+
+================================================================================
+PAGE 189
+================================================================================
+
+Bestiary 2
+ONI ORIGINS
+The ﬁrst oni originated in the nation
+of Minkai on the continent of Tian Xia.
+Whether due to prevalent local kami—
+particularly in the mist-shrouded
+Forest of Spirits—or its peoples’ faiths,
+Minkai is a hotbed of oni activity.
+Oni
+Not all divine creations are meant to live as mortals. Some spirits are created as
+guardians instead, tasked as protectors of elements of nature that cannot protect
+themselves. When these spirits accept their divine place in the metacosmos and take
+on such charges, they become kami. But some of these spirits are willful, obstinate,
+or simply rotten, railing against such demands from the gods and becoming bodiless
+and unable to interact with the world they can torturously still observe. Others
+receive such punishment simply for failing at their duty, and their despair at their
+condition twists them like those that began with a seed of darkness. When these
+spirits look upon mortal lives and become overcome with envy of the ﬂesh and
+pleasure that humanoids can revel in, they form surrogate bodies of their own and
+become monsters known collectively as oni.
+When an oni manifests, they always do so in a form that parodies a speciﬁc
+humanoid ancestry closely associated with the oni’s obsessions and envies.
+Giants’ over-the-top personalities and sizes are likely the reason why these
+humanoids are the most common incarnations chosen by oni; such oni
+are known collectively as yai oni. Yet there exist oni
+associated with almost every kind of humanoid.
+Most oni are capable of supernaturally disguising
+themselves as their associated humanoid type and use
+this ability to inﬁltrate societies and seize control
+from within. Once established, oni typically reveal
+their true form and revel in dominating those they
+view as lesser beings ﬁt only to serve their whims.
+Oni are nothing if not vain. They typically
+choose comely or striking appearances in their
+humanoid disguises—forms that are completely
+at odds with the ugliness of their true natures. An
+oni’s true form is indicative of their innermost
+desires and always has features such as oversized
+teeth that verge into tusks, sharp claws, unusually
+bright skin colors, or a third eye in the forehead. Oni
+have desires as varied as those of any being, though
+by their nature these desires are almost always for
+hedonistic or destructive experiences of the ﬂesh,
+typically food, pleasure, or violence.
+ONIDOSHI
+Onidoshi, or ogre mages, are oni with
+the material form of an ogre. Onidoshi’s
+supernatural prowess and overwhelming intellect
+are enough to awe and cow entire families of
+rank-and-ﬁle ogres. Because of this, onidoshi are
+often found at the head of ogre war parties or
+orchestrating these violent campaigns from behind
+the scenes. It’s rare for onidoshi to lead solitary
+existences, but those who do prefer to maraud the
+countryside or exploit villages and hoard the spoils
+for themselves.
+
+================================================================================
+# RADIANT WARDEN
+================================================================================
+
+
+Bestiary 2
+ANCIENT INTELLECTS
+Each radiant warden’s animating
+force consists of raw positive
+energy fused to the soul of a
+willing sacriﬁce—usually an
+astronomer or scholar near the
+end of their natural life. Focused
+now on protecting a site from any
+intrusion­—including by curious
+archaeologists or adventurers—a
+radiant warden might pause before
+an attack if approached peacefully.
+Unfortunately, these constructs are
+prone to speaking in vague riddles
+or complex mathematical diatribes
+that can be as confusing as they are
+intriguing; often, discussions break
+down as frustration mounts on
+either side (or both).
+Radiant Warden
+The enigmatic and strange radiant wardens were constructed thousands of
+years ago to protect observatories and scholars against the incursion of alien
+aggressors from the Dominion of the Black. Over time, their roles as guardians
+expanded to include watching over any region where the laws of time and space
+have worn thin, particularly near portals and permanent gates between planets,
+planes, or dimensions.
+Named for both the radial nature of the concentric rings that make up their
+bodies as well as the glowing radiance of their attacks, radiant wardens carry on
+their orders, defending sites from invasion with single-minded purpose.
+RADIANT WARDEN
+CREATURE 17
+UNCOMMON
+N
+GARGANTUAN
+CONSTRUCT
+Perception +30; darkvision
+Language any one ancient language (such as Jistkan)
+Skills Arcana +32, Astronomy Lore +36, Athletics +33, Occultism +32
+Str +9, Dex +6, Con +5, Int +6, Wis +5, Cha +0
+AC 40; Fort +32, Ref +29, Will +28
+HP 300; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued, necromancy,
+nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances mental 15,
+physical 15 (except adamantine)
+Gatekeeper Aura (abjuration, aura, occult) 60 feet. A creature that uses a teleportation
+ability within the aura’s emanation or enters it via a teleportation ability must succeed
+a DC 38 Will save or become sickened 1 and have its destination changed to a point
+of the radiant warden’s choosing within the emanation. On a successful save, the
+creature arrives as intended but is still sickened 1.
+Speed 30 feet, ﬂy 30 feet
+Melee Ȱɵ hammer +32 (magical, reach 15 feet,
+shove), Damage 3d12+15 bludgeoning plus
+radiant blow
+Ranged Ȱɵ radiant beam +32 (magical, reach 15 feet),
+Damage 4d10 force
+Occult Innate Spells DC 38; 9th teleport; 8th
+collective transposition (×3), scintillating
+pattern; 7th dimensional lock, prismatic
+spray; 5th dimension door (at will)
+Orrery Ȱɵ (concentrate) Until it acts, the
+radiant warden appears to be an orrery (or similar
+large mechanical contraption, such as a telescope). It
+has an automatic result of 53 on Deception checks and
+DCs to convincingly pass as such a machine.
+Radiant Blast ʚʖ (evocation, force, occult) The radiant
+warden releases a 50-foot cone of bright energy
+that deals 10d12 force damage (DC 38 basic
+Reﬂex save). The radiant warden can’t use
+Radiant Blast for 1d4 rounds.
+Radiant Blow When a creature is hit by the
+radiant warden’s hammer Strike, a ﬂash
+of radiant energy attempts to anchor
+the creature in place. The creature
+must attempt a DC 38 Will
+save; on a failure, the creature
+can’t use any teleportation
+eﬀects
+for
+minute.
+On a critical failure,
+the creature is also
+permanently blinded.
+
+================================================================================
+PAGE 222
+================================================================================
+
+RAVEN TRADERS
+Given enough time to develop the
+relationship and establish what you
+want, it is possible to engage a raven
+in a sort of trade. Placing a small,
+shiny object where the raven can take
+it might entice it to grab the prize and
+ﬂy oﬀ, returning 3d6 minutes later
+with something from its own stash.
+Convincing a raven to trade requires
+a DC 20 Nature check to Command
+an Animal and, of course, a raven who
+has the inclination to trade with you
+in the ﬁrst place.
+Raven
+Few birds are as cunning and social as the raven.
+RAVEN
+These omnivorous birds are cunning and opportunistic scavengers. Capable of
+solving simple puzzles in order to retrieve desired items, ravens gather at the
+periphery of civilization, raiding it as needed when they are not hunting in the
+wilds. Whether singularly, in pairs, or as a ﬂock, ravens live off scraps as often
+as they do carrion or prey. They are also unusually social among their own
+kind, even alerting other ravens to large carcasses with loud, croaking cries; it is
+rumored that this extends between ﬂocks as well.
+RAVEN
+CREATURE –1
+N
+TINY
+ANIMAL
+Perception +5; low-light vision
+Skills Acrobatics +5, Thievery +5
+Str –3, Dex +3, Con +0, Int –4, Wis +3, Cha +0
+Cunning A raven can use simple items as tools, such as
+poking a stick at an opening to tease out a piece of food.
+They are also quite adept at stealing objects. A raven can’t use
+Thievery to Palm an Object, Disable a Device, or Pick a Lock,
+but it can use Thievery to Steal light objects that it can carry
+in its beak or talons or to accomplish other relatively simple tasks.
+AC 15; Fort +2, Ref +7, Will +5
+HP 7
+Speed 10 feet, ﬂy 40 feet
+Melee Ȱɵ beak +7 (ﬁnesse), Damage 1d6 piercing
+RAVEN SWARM
+A ﬂock of ravens is known as an unkindness. Certainly the name lives up
+to its meaning when a swarm of ravens decides to work together. In most cases,
+a raven swarm like the one presented here won’t attack larger foes, but when
+manipulated by supernatural forces or simple desperation born from hunger,
+an unkindness of ravens can be a surprisingly dangerous foe.
+
+================================================================================
+# RAVEN SWARM
+================================================================================
+
+RAVEN SWARM
+A ﬂock of ravens is known as an unkindness. Certainly the name lives up
+to its meaning when a swarm of ravens decides to work together. In most cases,
+a raven swarm like the one presented here won’t attack larger foes, but when
+manipulated by supernatural forces or simple desperation born from hunger,
+an unkindness of ravens can be a surprisingly dangerous foe.
+RAVEN SWARM
+CREATURE 3
+N
+LARGE
+ANIMAL
+SWARM
+Perception +9; low-light vision
+Skills Acrobatics +10, Thievery +10
+Str +0, Dex +3, Con +0, Int –4, Wis +4, Cha +0
+AC 19; Fort +7, Ref +12, Will +9
+HP 30; Immunities precision, swarm mind; Weaknesses area
+damage 5, splash damage 5; Resistances bludgeoning 2,
+piercing 5, slashing 5
+Speed 10 feet, ﬂy 40 feet
+Enraged Cunning There are few things as dangerously
+persistent in the natural world as an angry unkindness of
+ravens. A raven swarm can hound its prey through most
+barriers. Simple latches, unsecured chimney ﬂues, loosely
+shuttered windows, and similar obstacles rarely keep an
+unkindness away. A raven swarm attempts a Thievery check to bypass
+many of these simple obstructions, typically against DC 20.
+Swarming Beaks Ȱɵ The ravens’ angry pecking deals 1d8 piercing
+damage to each enemy in the swarm’s space (DC 20 basic
+Reﬂex save). A creature that critically fails its save is blinded
+for 1d4 rounds as the ravens focus their attacks on the target’s
+vulnerable face.
+
+================================================================================
+PAGE 223
+================================================================================
+
+Bestiary 2
+RAVENER LAIRS
+Cunning and paranoid, raveners
+prefer to make their lairs in places
+hostile to mortal life: atop peaks so
+high that living creatures struggle to
+breathe the rareﬁed air, submerged
+beneath pools of magma in the
+caldera of an active volcano, and so
+on. Some raveners even go so far
+as to deliberately ﬁll their entire
+lair with lethally poisonous gases,
+and raveners that are capable of
+advanced spellcasting often seal
+their lairs completely, accessing
+them exclusively by spells such as
+teleport or gaseous form. Of course,
+raveners must feed on the living to
+persist, so they never locate their
+lairs so far from sources of life that
+they’ll starve.
+Ravener
+Though their lifespans can measure in millennia, all dragons must eventually
+perish. While many do so on the blades or under the spells of dragonslayers, some
+manage to outlast their enemies and must, in time, face the truth that awaits all
+living creatures at the end of their natural lifespan. As with many other creatures,
+some dragons respond to such looming reminders of their own mortality poorly,
+and the particularly prideful or wrathful of their kind often lash out in anger
+when confronted by this grim truth. Peace and acceptance may ﬁnd some dragons,
+but the most stubborn of their ilk (and invariably the most wicked) may pursue
+a different answer to the problem. These dragons seek out sinister rites that can
+transform them into undead creatures known as raveners.
+A ravener’s ﬂesh is stripped away as part of the transformation, leaving only
+their skeleton. What they lose in ﬂesh, however, the dragon gains in soul-rending
+power, as their raw spiritual energy forms a protective barrier around their
+skeleton, keeping it intact and allowing ﬂight with now-skeletal wings. This new
+existence is not so easy to maintain as other forms of undeath, however, and the
+ravener must feed regularly on the souls of living creatures to power their profane
+metabolism. This hunger is much greater than that of a living dragon, so raveners
+are forced to relocate regularly, traveling to fresh hunting grounds each time they
+strip their current home of prey. A ravener may depopulate whole regions at a
+time in order to sate their endless hunger for souls, lest they lose much of their
+power and become a ravener husk (page 224).
+CREATING A RAVENER
+Any evil dragon of at least level 13 can become a ravener, although it is exceedingly
+rare for a dragon younger than an ancient true dragon (such as a chromatic, primal,
+or metallic dragon) to do so. Typically, the dragon must perform a rare ritual called
+ravenous reanimation, but this requirement can be waived if the prospective ravener
+has the aid of a powerful patron. In certain unique conditions, such as the intervention
+of a vile god of undeath, a dragon can transform into a ravener after death without
+the use of this rite at all. A ravener is a powerful creature that is likely to have a major
+impact on your game, so you might want to create each one as a custom monster. If
+you don’t have time, you can also create a ravener via the following steps.
+Increase the dragon’s level by 2 and change their statistics as follows.
+• They gain the undead trait and the Necril language.
+• Increase their AC, attack bonuses, DCs, saving throws, and skill modiﬁers by 2.
+• They gain weakness to good damage and more HP (see below).
+• The ravener’s melee strikes deal an additional 2d6 negative damage, and their
+damaging Breath Weapon deals an additional 4d6 persistent negative damage.
+
+Starting Level
+HP Increase
+Weakness
+
+13–20
+
+21 or greater
+RAVENEr ABILITIES
+A ravener gains the following abilities.
+Darkvision
+Soulsense A ravener senses the spiritual essence of living and undead creatures within
+the listed range. Creatures whose material bodies are one unit with their souls, like
+celestials and ﬁends, appear brighter to this sense.
+Negative Healing
+Immunities death eﬀects, disease, paralyzed, poison, unconscious
+Cowering Fear (aura, emotion, fear, mental) A ravener’s frightful presence causes
+creatures to cower in fear as well. As long as a creature is at least frightened 2 or
+more as a result of the ravener’s frightful presence, it is also immobilized from the fear.
+Soul Ward An intangible ﬁeld of necromantic energy protects a ravener from total
+destruction. A soul ward has 150 maximum Hit Points, or 200 if the ravener is level
+
+================================================================================
+PAGE 224
+================================================================================
+
+RAVENER MINIONS
+Raveners view most undead
+creatures with little more respect
+than they have for living creatures,
+but they often make use of them as
+servants. They prefer incorporeal
+undead such as ghosts, specters, and
+wraiths over such crude and simple
+minions as skeletons and zombies.
+RAVENER SPELLCASTERS
+Instead of gaining the vicious
+criticals ability, a ravener spellcaster
+gains additional spellcasting
+prowess. When creating your own
+ravener spellcaster, give it the
+spellcasting ability of a spellcaster
+roughly 2 levels higher than a normal
+spellcasting dragon of its kind. This
+typically means that if the original
+dragon had two spells prepared of
+its highest level, you should add one
+more spell of that level and then
+two spells of the next highest level,
+while if it had three spells prepared
+of its highest level, you would add
+three spells of the next highest
+level (if applicable, add only a single
+10th‑level spell). Either way, increase
+its cantrip level by 1.
+If the ravener is unusually young,
+you might be able to use spells from
+the relevant spellcasting dragon
+sidebar, but for a typical ancient
+dragon, consider the following spells
+to ﬁll in the new slots, depending on
+which level of spells you need.
+• 10th wish
+• 9th power word kill, telepathic
+demand, weird
+• 8th disappearance, maze, mind
+blank
+• 7th contingency, energy aegis,
+spell turning
+21 or higher. Whenever a ravener would be reduced below 1 Hit Point, all damage in
+excess of what would reduce them to 1 Hit Point is instead dealt to their soul ward. If
+this damage reduces the soul ward to fewer than 0 Hit Points, the ravener is destroyed.
+A soul ward’s Hit Points can be restored only via speciﬁc ravener abilities such as
+Consume Soul, ravenous breath, or vicious criticals. A ravener who goes more than a
+week without successfully using Consume Soul to feed on a dying creature starves,
+and their soul ward loses 1d4 Hit Points each day until they feed. If the ravener’s soul
+ward loses all its Hit Points while the ravener still has more than 1 HP, they become a
+ravener husk (page 224).
+Consume Soul Ȳ˓ (death, divine, necromancy) Trigger A living creature within 30 feet of
+the ravener dies; Eﬀect The ravener tears the creature’s soul from its body with their
+maw and gulps it down. The dying creature must attempt a Fortitude save with the
+same DC as the ravener’s Breath Weapon.
+Critical Success The creature is unaﬀected.
+Success The ravener tears oﬀ a small chunk of the creature’s soul. If the victim is restored
+to life, they are drained 1 in addition to any other side eﬀects of returning to life. The
+ravener adds a number of Hit Points to their soul ward equal to half the creature’s level.
+Failure As success, but the creature’s soul is ravaged. The creature is drained 3 and the
+ravener adds a number of Hit Points to their soul ward equal to the creature’s level.
+Critical Failure As failure, but the ravener devours the entire soul. The victim can’t
+be restored to life as long as the ravener exists except via a 10th-level eﬀect such
+as miracle or wish, and the ravener adds a number of Hit Points to their soul ward
+equal to twice the creature’s level.
+Discorporate Ȳ˓ (divine, necromancy) Trigger The ravener takes excess damage to their
+soul ward but still has at least 51 Hit Points in their soul ward; Eﬀect The ravener
+draws deeply into their soul ward, discorporating their body into soul energy in order
+to escape. They take 50 damage to their soul ward and their physical body vanishes,
+reappearing 1d4 hours later in a random location within 1 mile from the location where
+they used Discorporate.
+Ravenous Breath A ravener’s Breath Weapon is infused with negative energy and strips
+life essence from the victims. Any creature that fails its save against the ravener’s
+Breath Weapon is drained 1 (or drained 2 on a critical failure). If at least one creature
+is drained by the ravener’s Breath Weapon, the ravener’s soul ward gains 5 Hit Points.
+Vicious Criticals The ravener treats an attack roll as a critical hit on a roll of 19 or 20,
+as long as the attack roll was a success. Additionally, whenever the ravener makes a
+critical hit with one of their Strikes, the target must succeed on a Fortitude save or
+gain the drained 1 condition. If the target already has a drained value of greater than
+0, their drained value instead increases by 1, to a maximum of drained 4. Whenever
+the ravener applies drain to a creature in this way, their soul ward gains 5 Hit Points.
+RAVENOUS REANIMATION
+RITUAL 7
+RARE
+EVIL
+NECROMANCY
+Cast 1 day; Cost valuable treasures from the target dragon’s hoard worth a total value
+of 50,000 gp
+Primary Check Arcana (master), Occultism (master), or Religion (master)
+Requirements You must be an evil dragon.
+You destroy the gathered treasures with your breath weapon or other powerful magic,
+then invoke necromantic energies before you feed upon the charred and melted remains.
+As you do so, negative energy courses through your ﬂesh, automatically killing you.
+Each individual ravener’s ravenous reanimation requires three to ﬁve unique additional
+components. Whether or not you return as a ravener depends on the success of the ritual.
+Critical Success You immediately transform into a ravener upon ﬁnishing the ritual; your
+soul ward starts at full Hit Points (equal to 5 × your level).
+Success You rise as a ravener 24 hours after completing the ritual, as long as your body
+remains relatively intact. When you rise as a ravener, your soul ward starts at 1 Hit Point.
+Failure You rise as a ravener husk 24 hours after completing the ritual.
+Critical Failure You die.
+
+================================================================================
+PAGE 225
+================================================================================
+
+Bestiary 2
+RAVENER PATRONS
+While most dragons are too prideful
+to turn to anyone, even the gods,
+for help, a few who seek to become
+raveners are so desperate to stave
+oﬀ death that they might turn to
+powerful patrons for aid, such as
+demon lords, evil deities, or powerful
+necromancers, oﬀering service in
+exchange for their transformation.
+RAVENER
+The ravener presented here was once an ancient red dragon.
+
+================================================================================
+# RAVENER
+================================================================================
+
+
+Bestiary 2
+RAVENER PATRONS
+While most dragons are too prideful
+to turn to anyone, even the gods,
+for help, a few who seek to become
+raveners are so desperate to stave
+oﬀ death that they might turn to
+powerful patrons for aid, such as
+demon lords, evil deities, or powerful
+necromancers, oﬀering service in
+exchange for their transformation.
+RAVENER
+The ravener presented here was once an ancient red dragon.
+RAVENER
+CREATURE 21
+RARE
+CE
+GARGANTUAN
+DRAGON
+FIRE
+UNDEAD
+Perception +37; darkvision, scent (imprecise) 60 feet, smoke vision, soulsense 60 feet
+Languages Abyssal, Common, Draconic, Dwarven, Jotun, Necril, Orcish
+Skills Acrobatics +32, Arcana +37, Athletics +39, Deception +38, Diplomacy +38,
+Intimidation +40, Stealth +35
+Str +9, Dex +5, Con +9, Int +5, Wis +6, Cha +8
+Smoke Vision Smoke doesn’t impair an ancient red ravener’s vision; it ignores the
+concealed condition from smoke.
+AC 47; Fort +38, Ref +34, Will +37; +1 status to all saves vs. magic
+HP 500, negative healing; Immunities death eﬀects, disease, ﬁre, paralyzed, poison,
+sleep; Weaknesses cold 20, good 20
+Cowering Fear (aura, emotion, fear, mental) 90 feet, DC 42.
+Dragon Heat (arcane, aura, evocation, ﬁre) 10 feet, 4d6 ﬁre damage (DC 41 basic Reﬂex save)
+Soul Ward 200 HP
+Attack of Opportunity Ǻȓ Jaws only.
+Discorporate Ȳ˓
+Redirect Fire Ǻȓ (abjuration, arcane) Trigger A creature within 100 feet casts a ﬁre spell,
+or a ﬁre spell otherwise comes into eﬀect from a source within 100 feet; Eﬀect The
+ravener makes all the choices to determine the targets, destination, and other eﬀects
+of the spell, as though they were the caster.
+Speed 60 feet, ﬂy 180 feet
+Melee Ȱɵ jaws +39 (ﬁre, magical, reach 20 feet), Damage 4d10+17 piercing plus 3d6 ﬁre
+and 2d6 negative
+Melee Ȱɵ claw +39 (agile, magical, reach 15 feet), Damage 4d8+17 slashing plus 2d6 negative
+Melee Ȱɵ tail +37 (magical, reach 25 feet), Damage 4d10+15 slashing plus 2d6 negative
+Melee Ȱɵ wing +37 (agile, magical, reach 20 feet), Damage 3d8+15 slashing plus 2d6 negative
+Arcane Innate Spells DC 44; 8th wall of ﬁre (at will); 4th suggestion (at will); Cantrips
+(9th) detect magic, read aura
+Consume Soul Ȳ˓ DC 44
+Manipulate Flames Ȱɵ (arcane, concentrate, transmutation) The ravener attempts to take
+control of a magical ﬁre or a ﬁre spell within 100 feet. If it succeeds at a counteract
+check (counteract level 10, counteract modiﬁer +34), the original caster loses control
+of the spell or magical ﬁre, control is transferred to the ravener, and this action counts
+as the ravener having Sustained the Spell with the action (if applicable). The ravener
+can choose to end the spell instead of taking control, if they choose.
+Ravenous Breath Weapon ʚʖ (arcane, evocation, ﬁre) The ravener breathes a blast of
+ﬂame that deals 20d6 ﬁre damage plus 4d6 persistent negative damage (DC 44 basic
+Reﬂex save). A creature that fails its save is also drained 1 (or drained 2 on a critical
+failure). If a creature is drained by the ravener’s Ravenous Breath Weapon, the ravener’s
+soul ward gains 5 HP. The ravener can’t use Breath Weapon again for 1d4 rounds.
+Vicious Criticals
+RAVENER HUSK
+Raveners require a steady diet of souls, and a ravener that’s unable to feed for too
+long eventually cannibalizes their own soul. Should a ravener’s soul ward ever be
+reduced to 0 Hit Points by hunger while the ravener has more than 1 Hit Point (see
+Soul Ward on page 223), they lose all traces of their former identity and descend into
+a feral, nearly mindless state. Even if a ravener husk later consumes soul energy, the
+transformation can be reversed only via Ravenous Repast.
+
+================================================================================
+# RAVENER HUSK
+================================================================================
+
+(9th) detect magic, read aura
+Consume Soul Ȳ˓ DC 44
+Manipulate Flames Ȱɵ (arcane, concentrate, transmutation) The ravener attempts to take
+control of a magical ﬁre or a ﬁre spell within 100 feet. If it succeeds at a counteract
+check (counteract level 10, counteract modiﬁer +34), the original caster loses control
+of the spell or magical ﬁre, control is transferred to the ravener, and this action counts
+as the ravener having Sustained the Spell with the action (if applicable). The ravener
+can choose to end the spell instead of taking control, if they choose.
+Ravenous Breath Weapon ʚʖ (arcane, evocation, ﬁre) The ravener breathes a blast of
+ﬂame that deals 20d6 ﬁre damage plus 4d6 persistent negative damage (DC 44 basic
+Reﬂex save). A creature that fails its save is also drained 1 (or drained 2 on a critical
+failure). If a creature is drained by the ravener’s Ravenous Breath Weapon, the ravener’s
+soul ward gains 5 HP. The ravener can’t use Breath Weapon again for 1d4 rounds.
+Vicious Criticals
+RAVENER HUSK
+Raveners require a steady diet of souls, and a ravener that’s unable to feed for too
+long eventually cannibalizes their own soul. Should a ravener’s soul ward ever be
+reduced to 0 Hit Points by hunger while the ravener has more than 1 Hit Point (see
+Soul Ward on page 223), they lose all traces of their former identity and descend into
+a feral, nearly mindless state. Even if a ravener husk later consumes soul energy, the
+transformation can be reversed only via Ravenous Repast.
+RAVENER HUSK
+CREATURE 14
+RARE
+CE
+GARGANTUAN
+DRAGON
+UNDEAD
+Perception +26; darkvision, soulsense 60 feet
+
+================================================================================
+PAGE 226
+================================================================================
+
+RAVENER TREASURE
+Because they change lairs more often
+than living dragons, raveners prefer
+treasure that is compact and easily
+transported. Instead of sprawling
+mountains of coins, they tend to
+prefer precious gems, art objects, and
+especially magic items, particularly
+magic items they are capable of using.
+Skills Acrobatics +22, Athletics +28
+Str +8, Dex +0, Con +6, Int –5, Wis +4, Cha +4
+AC 35; Fort +28, Ref +22, Will +26
+HP 325, negative healing; Immunities death eﬀects, disease, paralyzed, poison, sleep;
+Weaknesses good 10
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 31
+Boneshatter Ǻȓ Trigger The ravener husk takes any amount of bludgeoning damage;
+Eﬀect The ravener’s brittle bones shatter, spraying bone shards everywhere. Every
+creature within a 10-foot emanation of the ravener husk takes 7d6 piercing damage
+(DC 31 basic Reﬂex save).
+Speed 60 feet, ﬂy 180 feet
+Melee Ȱɵ jaws +30 (magical, reach 15 feet), Damage 3d8+16 piercing plus 2d6 negative
+Melee Ȱɵ claw +30 (agile, magical, reach 10 feet), Damage 3d4+16 slashing plus 2d6 negative
+Breath Weapon ʚʖ (divine, evocation, negative) The ravener husk breathes a torrent
+of negative energy that deals 16d6 negative damage in a 40-foot cone (DC 34 basic
+Reﬂex save). They can’t use Breath Weapon again for 1d4 rounds.
+Ravenous Repast ̂ˬ (divine, necromancy) Frequency once per day; Eﬀect The ravener
+husk makes a jaws Strike against a deceased creature that has been dead no longer
+than 1 minute, was good aligned, and was at least level 15 in life. The ravener attempts
+a DC 5 ﬂat check; if successful, they transform back into a ravener with 1 Hit Point in
+their soul ward.
+
+================================================================================
+PAGE 227
+================================================================================
+
+Bestiary 2
+OTHER RAYS
+Stingrays and manta rays are among
+the most common species of these
+ﬁsh, but others dwell in more remote
+areas. The dangerous blood ray is
+an ambush predator that dwells in
+murky swamp waters and drains
+creature’s blood after paralyzing them
+with its sting, while the immense
+leviathan ray is a deep-ocean predator
+that has a deadly mouth capable of
+swallowing small ships whole.
+Ray
+Rays are an unusual type of ﬁsh with wide, sail-like ﬁns and long tails, giving them
+an almost kite-like shape as they swim gracefully through the water. All rays have
+a rudimentary form of electrolocation, allowing them to detect the faint electrical
+charges that emanate naturally from nearby living creatures, a sense akin to scent
+in its accuracy.
+STINGRAY
+Found in salt or fresh water, stingrays are normally passive creatures, but when
+threatened or cornered, they lash out with their tails to lance foes with their
+toxic stingers. Stingrays often bury themselves in mud, sand, or sea grass, and
+unfortunately for those wading in shallow waters, stepping on an unseen stingray
+is a sureﬁre way to receive a painful sting.
+
+================================================================================
+# REVENANT
+================================================================================
+
+
+EXCEPTIONS TO EVIL
+While most undead are evil, revenants
+are not—these unusual stalkers rise
+not out of a sense of cruelty or hatred
+of the living, but spontaneously from
+the need for vengeance following
+a deep betrayal. One can avoid a
+revenant’s wrath by simply getting
+out of its way—unless you happen to
+be its reason for unlife!
+Revenant
+Revenants are obsessed, undead stalkers who arise from their own murders and
+are driven by only one thing: revenge against their killers. The common wisdom
+is that revenants arise only from individuals who have been utterly betrayed or
+abandoned to die a grueling death, but even then such victims might not rise
+from their graves. In other cases, revenants might even rise from what might
+legitimately be considered an accident if the revenant doesn’t understand the full
+circumstances of their demise. In such cases, it doesn’t matter that the “murderer”
+may not have intended to kill, for revenants understands no pity and can never
+forgive. Revenants have little memory of their lives other than anything they
+might need to recall in order to achieve their goal of vengeance.
+REVENANT
+CREATURE 6
+LN
+MEDIUM
+UNDEAD
+Perception +14; darkvision, sense murderer
+Languages any one spoken in life by their murderer (typically Common)
+Skills Athletics +15, Intimidation +14
+Str +5, Dex +3, Con +4, Int +0, Wis +3, Cha +2
+Sense Murderer (divination, occult, scrying) A revenant knows the
+direction of their murderer (as long as both are on the same plane), but
+not the distance.
+AC 23; Fort +14, Ref +13, Will +17
+HP 115, negative healing; Immunities death eﬀects, disease,
+paralyzed, poison, sleep; Resistances physical 5 (except slashing)
+Self-Loathing (emotion, mental, visual) If a revenant sees their own
+reﬂection or any object that was important to them in life, they
+must attempt a DC 25 Will save.
+Critical Success The revenant is unaﬀected and can no
+longer be aﬀected by that reﬂection or object in this way.
+Success The revenant is distracted by self-loathing and
+becomes slowed 1 for 1 round.
+Failure The revenant becomes fascinated by the source that triggered
+their self-loathing and does everything they can to destroy it until the end of
+the revenant’s next turn.
+Critical Failure The revenant becomes immobilized as long as the source of their
+self-loathing is apparent, until they’re attacked, or until they see their murderer.
+Undying Vendetta (emotion, necromancy, occult) If the revenant’s murderer
+dies, the revenant is immediately destroyed. A revenant that can’t sense their
+murderer must attempt a DC 11 ﬂat check once every 24 hours to avoid becoming
+immobilized and prone; they immediately rise again once they can sense their
+murderer. A murderer who becomes undead does not trigger the revenant’s
+destruction until the murderer is ﬁnally destroyed. The revenant gains a +2
+status bonus to checks and DCs against their murderer.
+Speed 25 feet
+Melee Ȱɵ claw +17 (agile), Damage 2d8+5 slashing plus Grab
+Baleful Shriek ʚʖ (auditory, emotion, fear, incapacitation, mental) The revenant
+wails horribly. Each creature within a 60-foot burst must attempt a DC 23
+Will save. Regardless of the outcome of their saving throw, aﬀected creatures
+are then immune to Baleful Shriek for 1 hour. The revenant’s murderer never
+improves their degree of success due to this ability’s incapacitation trait. The
+revenant can’t use Baleful Shriek again for 1d4 rounds.
+Critical Success The creature is unaﬀected.
+Success The creature is frightened 2.
+Failure The creature is frightened 2 and paralyzed for 1 round.
+Critical Failure The creature is frightened 3 and paralyzed for
+1d4 rounds.
+Constrict Ȱɵ 2d6+5 bludgeoning, DC 24
+
+================================================================================
+PAGE 229
+================================================================================
+
+Bestiary 2
+RHINOCEROS HORNS
+While some species have only a
+single horn, many rhinos, including
+woolly rhinos, have a second,
+smaller horn on their brow directly
+behind the larger one. Despite their
+appearance and durability, rhino
+horns aren’t bone or ivory, but rather
+are composed of the same substance
+as hooves and toenails. A rhino’s
+horn continues to grow as it ages,
+enabling a rhino to slowly regrow
+a broken horn. While some value
+rhino horns as trophies, the horns
+themselves have no intrinsic value.
+Rhinoceros
+This hefty animal is easily recognizable by the distinctive upward-thrusting horn
+on its snout. Rhinoceroses are herbivorous and, in spite of their hulking size, can
+run at considerable speed. While rhinos have good hearing and a keen sense of
+smell, their eyesight is relatively poor.
+RHINOCEROS
+Rhinoceroses are short‑tempered, territorial, and easily startled, and these traits
+combined with their innate ferocity means their natural instinct when disturbed
+is to attack. When intruders disturb or surprise rhinoceroses, the animals
+respond by charging directly at the interlopers and then lashing out with their
+mighty horns.
+
+================================================================================
+# RHINOCEROS
+================================================================================
+
+
+Bestiary 2
+RHINOCEROS HORNS
+While some species have only a
+single horn, many rhinos, including
+woolly rhinos, have a second,
+smaller horn on their brow directly
+behind the larger one. Despite their
+appearance and durability, rhino
+horns aren’t bone or ivory, but rather
+are composed of the same substance
+as hooves and toenails. A rhino’s
+horn continues to grow as it ages,
+enabling a rhino to slowly regrow
+a broken horn. While some value
+rhino horns as trophies, the horns
+themselves have no intrinsic value.
+Rhinoceros
+This hefty animal is easily recognizable by the distinctive upward-thrusting horn
+on its snout. Rhinoceroses are herbivorous and, in spite of their hulking size, can
+run at considerable speed. While rhinos have good hearing and a keen sense of
+smell, their eyesight is relatively poor.
+RHINOCEROS
+Rhinoceroses are short‑tempered, territorial, and easily startled, and these traits
+combined with their innate ferocity means their natural instinct when disturbed
+is to attack. When intruders disturb or surprise rhinoceroses, the animals
+respond by charging directly at the interlopers and then lashing out with their
+mighty horns.
+RHINOCEROS
+CREATURE 4
+N
+LARGE
+ANIMAL
+Perception +9; scent (imprecise) 30 feet
+Skills Athletics +12, Survival +10
+Str +6, Dex +0, Con +4, Int –4, Wis +3, Cha –1
+AC 22; Fort +14, Ref +8, Will +11
+HP 70
+Speed 35 feet
+Melee Ȱɵ horn +14, Damage 2d8+6 piercing
+Melee Ȱɵ foot +12, Damage 2d6+6 bludgeoning
+Rhinoceros Charge ʚʖ The rhinoceros Strides twice, then makes a horn Strike. As long
+as the rhinoceros moved at least 20 feet, the Strike’s damage increases to 3d8+6. A
+Medium or smaller creature struck by this attack must succeed at a DC 21 Reﬂex save
+or be automatically Shoved back 5 feet and knocked prone by the force of the blow.
+Trample ̂ˬ Medium or smaller, foot, DC 18
+WOOLLY RHINOCEROS
+Even bulkier than their non-woolly
+cousins, these rhinoceroses have a
+shaggy pelt of long, thick fur and a
+huge crescent-shaped horn. Woolly
+rhinos inhabit areas of arid tundra
+and cold steppes, spending much of
+their day grazing for sustenance.
+WOOLLY RHINOCEROS CREATURE 6
+N
+LARGE
+ANIMAL
+Perception +11; scent (imprecise) 30 feet
+Skills Athletics +16, Survival +13
+Str +6, Dex +1, Con +5, Int –4, Wis +3, Cha –1
+AC 25; Fort +17, Ref +11, Will +15; +2 status
+to all saves vs. cold
+HP 100
+Cold Adaptation The woolly rhinoceros treats
+environmental cold eﬀects as if they were one
+step less extreme.
+Ferocity Ǻȓ
+Speed 35 feet
+Melee Ȱɵ horn +16 (reach 10 feet), Damage
+2d12+6 piercing
+Melee Ȱɵ foot +16, Damage 2d8+6 bludgeoning
+Rhinoceros Charge ʚʖ As rhinoceros, except 3d12+6
+damage and DC 24.
+Trample ̂ˬ Medium or smaller, foot, DC 21
+
+================================================================================
+PAGE 230
+================================================================================
+
+BLUE WEEK
+Those living in areas where rusalkas
+dwell know well to avoid the water
+during the week-long period in
+early Sarenith when the fey become
+particularly active, a time known in
+many regions as Blue Week. Most
+villages prohibit swimming and
+ﬁshing during this time, though the
+prohibition is diﬃcult to enforce, as it
+takes place during the height of good
+weather. Particularly superstitious
+folk take care to lock their doors
+both from within and without.
+Rusalka
+These androgynous, river-dwelling fey delight in manipulating the emotions of
+those unfortunate enough to fall into their grasp, using humiliation to break
+their victims’ wills. Rusalkas enjoy keeping their broken toys nearby, both for
+continuing entertainment and to aid in the rusalkas’ defense, as the shame their
+captives feel often drives them to become obsessively loyal to these fey.
+
+================================================================================
+# RUSALKA
+================================================================================
+
+
+BLUE WEEK
+Those living in areas where rusalkas
+dwell know well to avoid the water
+during the week-long period in
+early Sarenith when the fey become
+particularly active, a time known in
+many regions as Blue Week. Most
+villages prohibit swimming and
+ﬁshing during this time, though the
+prohibition is diﬃcult to enforce, as it
+takes place during the height of good
+weather. Particularly superstitious
+folk take care to lock their doors
+both from within and without.
+Rusalka
+These androgynous, river-dwelling fey delight in manipulating the emotions of
+those unfortunate enough to fall into their grasp, using humiliation to break
+their victims’ wills. Rusalkas enjoy keeping their broken toys nearby, both for
+continuing entertainment and to aid in the rusalkas’ defense, as the shame their
+captives feel often drives them to become obsessively loyal to these fey.
+RUSALKA
+CREATURE 12
+NE
+MEDIUM
+AQUATIC
+FEY
+WATER
+Perception +22; low-light vision
+Languages Common, Sylvan
+Skills Acrobatics +21, Athletics +22, Deception +25, Diplomacy +21, Nature +21,
+Performance +23 (+25 to sing), Stealth +25
+Str +4, Dex +5, Con +3, Int +1, Wis +3, Cha +7
+AC 33; Fort +21, Ref +25, Will +21
+HP 230; Weaknesses cold iron 15; Resistances ﬁre 10
+Blurred Form A rusalka is concealed while underwater.
+Speed 25 feet, swim 50 feet; water walk
+Melee Ȱɵ tresses +24 (agile, ﬁnesse, reach 15 feet), Damage 3d8+10 bludgeoning plus
+Improved Grab
+Primal Innate Spells DC 35; 5th charm (at will), control water (at
+will); 2nd invisibility (at will), obscuring mist (at will); Constant
+(6th) water walk
+Beckoning Call Ȱɵ (auditory, concentrate, enchantment, incapacitation,
+mental, primal) The rusalka cries out a compelling invitation. Each
+non-fey creature within a 300-foot emanation must attempt a DC 27
+Will save. The eﬀect lasts for 1 round, but if the rusalka uses Beckoning
+Call again on subsequent rounds, the duration extends by 1 round for
+all aﬀected creatures. Once a creature succeeds at any save against
+Beckoning Call, that creature is temporarily immune for 24 hours.
+Success The creature is unaﬀected.
+Failure The creature is fascinated and must spend each of its actions to
+move closer to the rusalka, avoiding obvious dangers. If a beckoned
+creature is adjacent to the rusalka, it stays still and doesn’t act. If
+attacked by the rusalka, the creature is freed from captivation at the
+end of the rusalka’s turn.
+Critical Failure As failure, but if attacked by the rusalka, the creature
+can attempt a new save only at the start of its next turn, rather than
+being freed at the end of the rusalka’s turn.
+Constrict Ȱɵ 2d8+10 bludgeoning, DC 32
+Entangling Tresses A rusalka can have up to eight creatures grabbed within their
+tresses at a time.
+Flowing Hair Ȱɵ The rusalka attempts an Athletics check against each
+grabbed creature’s Fortitude DC. The rusalka moves each creature
+they succeed against up to 10 feet and each creature they critically
+succeed against up to 20 feet. This movement must all be within
+reach of its tresses.
+Shameful Touch Ȱɵ (emotion, enchantment, mental, primal) The rusalka
+touches a creature within 5 feet using their hand, stirring up memories
+of regret and shame. The target must attempt a DC 35
+Will save.
+Critical Success The target is unaﬀected.
+Success The target is sickened 1.
+Failure The creature is sickened 1 and stunned 1.
+Critical Failure The creature is sickened 1 and stunned 1,
+and it must use its ﬁrst action on its next turn to Strike
+itself, automatically hitting.
+
+================================================================================
+PAGE 231
+================================================================================
+
+Bestiary 2
+OTHER DEVILS
+For over a decade, the legend of
+the Sandpoint Devil has persisted
+in western Varisia. Most hold that
+it’s the fantasy of simple folk and
+booze-ﬁlled bellies, but locals insist
+it exists. Other creatures akin to
+the Sandpoint Devil might exist
+elsewhere in the world, with slight
+variations on their innate spells and
+the nature of their Accursed Breath.
+Sandpoint Devil
+While some creatures have been fused to create a new entity that’s graceful and
+beautiful, the Sandpoint Devil is the opposite. It has the hooves and body of a
+powerful horse, but it walks on its hind legs in a perverse parody of a humanoid
+gait. Its equine face has been distorted and elongated with skeletal, yellowed fangs
+and milky eyes. The pox-spotted hide along the creature’s back bears a draconic
+tail with dark, spiny plates and two torn, bat-like wings.
+The legendary Sandpoint Devil appears only on moonless nights when mists
+gather around the coast. Most encounters end with missing livestock or children,
+with little left behind other than oddly placed hoofprints that reek of brimstone.

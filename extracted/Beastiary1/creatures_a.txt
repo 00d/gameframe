@@ -1,0 +1,3518 @@
+# Bestiary - Creatures: A
+# Count: 38 creatures
+
+
+================================================================================
+# ARBITER
+================================================================================
+
+
+Bestiary
+Aeon
+Aeons have always been the caretakers of reality and defenders of the natural
+order of balance. Each type of aeon takes on some form of duality in its
+manifestation and works either to shape the multiverse within the aspects
+of this duality in some way, or to correct imbalances to the perfect order of
+existence. Aeons can bring weal or woe when they appear in a region, and
+their machinations can raise a nation, raze it, or restore it from ruin. Their
+reasons are their own, and they rarely share their motivations with others—
+they simply create the results they insist through their strange envisioning
+communication are necessary to maintain the balance of the multiverse.
+As a result of recent shifts in reality, aeons have begun to reassert a
+presence in the perfect planar city of Axis. To the aeons, this is merely the
+latest in a recurring cycle, albeit one that mortals have not yet borne witness
+to. Once regarded as an independent faction, the living machines known as
+inevitables are now revealed as having been agents of the aeons all along, and
+while inevitables have their own shared themes and features, they are very
+much living but constructed manifestations of the aeons’ war against
+imbalance—particularly with regard to how this war is waged against
+the forces of chaos.
+Aeons have a name for this cyclic return, in which they welcome
+the industrious axiomites back to their fold and bring the inevitables
+once again under their control: the “Convergence.” At the onset of the
+Convergence, a council of pleroma aeons appeared in the Eternal City of
+Axis, where they revealed that axiomites were wayward aeons, split off
+long ago to pursue the act of creation. With the latest cycle of change it
+was time for the axiomites and their creations, the inevitables, to rejoin
+the aeon cause. While most axiomites and inevitables fell in line, realizing
+perhaps on a fundamental level of reality that what the aeons said was the
+truth, some refused to heed the call and waited for the wrath of the aeons­—
+but that wrath has yet to come. The dual-natured aeons have responded
+to those who have declined in confusing ways. With some they treat and
+even bargain, while a handful of others they have destroyed, and a few
+have been exterminated by the axiomites and allied inevitables. But most
+of these quiet insurgents they leave alone, allowing these axiomites to
+continue to create in peace and the inevitables to continue with their
+duties. How—or if—this Convergence will end is as little understood as
+the aeons themselves.
+Arbiter
+These spherical inevitables are scouts and diplomats. Found throughout
+the multiverse, they have traditionally kept watch over on chaos and its
+agents. With the announcement of the Convergence, many arbiters now
+serve as go-betweens among the aeon alliance and its mortal associates.
+ARBITER
+CREATURE 1
+LN
+TINY
+AEON
+INEVITABLE
+MONITOR
+Perception +7; darkvision, detect alignment (chaotic only), locate inevitable
+Languages Celestial, Common, Infernal, Utopian
+Skills Acrobatics +9, Axis Lore +5, Diplomacy +6, Stealth +9
+Str +1, Dex +4, Con +2, Int +0, Wis +2, Cha +1
+Locate Inevitable An arbiter can always sense the direction of the nearest non-arbiter
+inevitable on the plane, but it cannot sense the range of the inevitable.
+Items shortsword
+AC 16; Fort +5, Ref +7, Will +7; +1 status to all saves vs. magic
+HP 22; Immunities death eﬀects, disease, emotion, poison, unconscious; Weaknesses
+chaotic 3; Resistances electricity 3
+Speed 20 feet, ﬂy 40 feet
+AEON DIVINITIES
+Whether the aeons serve an actual
+divinity, a philosophical concept,
+or merely a “supreme oneness” is
+a topic hotly debated by planar
+scholars. The aeons themselves
+are silent, referring to this being or
+concept as the Monad, a “condition
+of all.” Regardless of what the
+Monad actually is, there certainly
+exists another category of powerful
+aeons—the primal inevitables, each
+a unique demigod with its own
+powers and goals. Relatively few
+primal inevitables remain today,
+for nearly three-quarters of their
+irreplaceable kind have fallen in the
+endless battle with the inexorable
+forces of entropy.
+
+================================================================================
+PAGE 10
+================================================================================
+
+Melee Ȱɵ shortsword +9 (agile, ﬁnesse, lawful, magical, versatile S), Damage 1d6+1 piercing
+plus 1d4 lawful
+Divine Innate Spells DC 17; 4th read omens; 1st command, detect alignment (at will,
+chaotic only), mending (×3)
+Electrical Burst ʚʖ (divine, electricity, evocation) The arbiter releases an electrical burst
+from its body that deals 3d6 electricity damage (DC 17 basic Reﬂex save). Following
+such a burst, the arbiter becomes stunned for 24 hours.
+Axiomite
+According to the axiomites, their kind rose from the raw mathematical
+underpinnings of the universe, manifesting as great builders who created the
+ancient, colossal cities of the Outer Planes and gave life to the mechanical
+inevitables. According to the aeons, axiomites are part of the Monad, having
+both risen from and rebelled against it long ago. Since the Convergence, most
+axiomites have recognized this as a fundamental truth, particularly after the aeons
+showed the axiomites how the Utopian language has formed as an amalgam of
+aeon envisioning and formulaic mathematical
+expression. Most axiomites live in the perfect
+city of Axis, which they continually act to improve,
+thus reﬁning the concept of perfection itself.
+A particular axiomite may look like any
+humanoid creature, though the particular form it takes
+on does not affect its abilities. Beneath this assumed form,
+all axiomites are the same—clouds of glowing, crystalline
+dust that constantly swirls and congeals into complex
+tangles of symbols and equations, evincing their existence
+as literal creatures of pure mathematical law.
+Axiomites arise from the souls of lawful neutral mortals, particularly those
+who were, in life, mathematicians, architects, crafters, or philosophers.
+While these souls do not retain any memories of their lives in the transition
+into axiomites, their life skills and experiences nevertheless serve a valuable
+metaphysical resource during formation.
+
+================================================================================
+# AXIOMITE
+================================================================================
+
+chaotic only), mending (×3)
+Electrical Burst ʚʖ (divine, electricity, evocation) The arbiter releases an electrical burst
+from its body that deals 3d6 electricity damage (DC 17 basic Reﬂex save). Following
+such a burst, the arbiter becomes stunned for 24 hours.
+Axiomite
+According to the axiomites, their kind rose from the raw mathematical
+underpinnings of the universe, manifesting as great builders who created the
+ancient, colossal cities of the Outer Planes and gave life to the mechanical
+inevitables. According to the aeons, axiomites are part of the Monad, having
+both risen from and rebelled against it long ago. Since the Convergence, most
+axiomites have recognized this as a fundamental truth, particularly after the aeons
+showed the axiomites how the Utopian language has formed as an amalgam of
+aeon envisioning and formulaic mathematical
+expression. Most axiomites live in the perfect
+city of Axis, which they continually act to improve,
+thus reﬁning the concept of perfection itself.
+A particular axiomite may look like any
+humanoid creature, though the particular form it takes
+on does not affect its abilities. Beneath this assumed form,
+all axiomites are the same—clouds of glowing, crystalline
+dust that constantly swirls and congeals into complex
+tangles of symbols and equations, evincing their existence
+as literal creatures of pure mathematical law.
+Axiomites arise from the souls of lawful neutral mortals, particularly those
+who were, in life, mathematicians, architects, crafters, or philosophers.
+While these souls do not retain any memories of their lives in the transition
+into axiomites, their life skills and experiences nevertheless serve a valuable
+metaphysical resource during formation.
+AXIOMITE
+CREATURE 8
+LN
+MEDIUM
+AEON
+MONITOR
+Perception +19; darkvision
+Languages Abyssal, Celestial, Common, Draconic, Infernal, Utopian
+Skills Acrobatics +16, Axis Lore +17, Craft +21, Diplomacy +15, Occultism +17,
+Religion +17
+Str +5, Dex +4, Con +3, Int +5, Wis +5, Cha +3
+Items sterling artisan’s tools, +1 striking warhammer
+AC 26; Fort +13, Ref +16, Will +18; +1 status to all saves vs. magic
+HP 155; Immunities disease, emotion, fear; Weaknesses chaotic 10,
+Resistances electricity 10, mental 10
+Speed 25 feet
+Melee Ȱɵ warhammer +20 (lawful, magical, shove), Damage 2d8+11
+bludgeoning plus 1d6 lawful
+Melee Ȱɵ ﬁst +17 (agile, lawful, magical), Damage 1d8+5 bludgeoning plus 1d6 lawful
+Divine Innate Spells DC 27, attack +17; 5th telekinetic haul; 4th dispel magic, divine
+wrath (lawful), lightning bolt (×3); 3rd haste (×3), paralyze; 2nd telekinetic maneuver;
+1st true strike (at will); Cantrips (4th) telekinetic projectile
+Crystalline Dust Form Ȱɵ (polymorph) The axiomite shifts between its humanoid form and
+that of a cloud of crystalline dust in which strange symbols and equations ﬂash. In this
+form it gains a ﬂy Speed of 40 feet and can ﬁt through even tiny apertures, similarly
+to gaseous form. It can cast spells, but it can’t make melee or ranged attacks
+in this state. It can return to its humanoid form by using this action while in
+crystalline dust form.
+AXIOMITES IN AXIS
+On the planar metropolis of Axis,
+an axiomite ﬁlls one of three roles:
+construction and maintenance of
+inevitables, building and repairing
+Axis’s buildings, and exploring the
+laws and constants that underlie all
+of reality.
+
+================================================================================
+PAGE 11
+================================================================================
+
+Bestiary
+Kolyarut
+Kolyarut inevitables are enforcers of bargains and punishers of those who fail
+to uphold them. Their humanoid shape, ability to disguise themselves among a
+humanoid population, and diplomatic leanings make them the most approachable
+inevitables, and thus more likely to ally themselves with others. They are among
+the most talkative of all inevitables, naturally possessing a courtly grace and an
+encyclopedic knowledge of social customs, which they use to assist their efforts
+in gathering information on their targets or issuing challenges in a legal manner.
+
+================================================================================
+# ALGHOLLTHU MASTER
+================================================================================
+
+
+Bestiary
+Alghollthu Master (Aboleth)
+Aboleths form the core of alghollthu society, and while they are the “common folk”
+of their own societies, they see themselves as masters of all others. Unlike their
+leaders, who mask their actions using magical disguises, aboleths revel in their
+monstrous forms, appearing as primeval ﬁsh with tentacles. Masters of psychic
+manipulation, they are a species so ancient that they were present in the world when
+it was young, before the gods had turned their attention to the planet. They see all
+other life as something they have the right to control, so the idea that potential
+slaves might have faith in a higher power other than themselves enrages aboleths.
+ALGHOLLTHU MASTER
+ CREATURE 7
+UNCOMMON
+LE
+HUGE
+ABERRATION
+AQUATIC
+Perception +17; darkvision
+Languages Aklo, Alghollthu, Aquan, Common, Undercommon
+Skills Athletics +16, Deception +15, Intimidation +15, Lore (any one subcategory) +14,
+Occultism +16
+Str +5, Dex +1, Con +6, Int +3, Wis +5, Cha +4
+Mucus Cloud (aura, disease) 5 feet. While underwater, an aboleth exudes a cloud of
+transparent slime. An air-breathing creature adjacent to an aboleth must succeed at a
+DC 25 Fortitude save each round or lose the ability to breathe air but gain the ability
+to breathe water for 3 hours.
+AC 23; Fort +15, Ref +10, Will +16
+HP 135
+Speed 10 feet, swim 60 feet
+Melee Ȱɵ tentacle +16 (agile, magical, reach 15 feet), Damage 2d8+10 bludgeoning plus slime
+Occult Innate Spells DC 25; 7th project image (at will), veil (at will); 6th dominate (×3),
+illusory scene (at will); 5th illusory object (at will); 4th hallucinatory terrain (at will);
+3rd hypnotic pattern (at will)
+Slime (curse, occult, virulent) Saving Throw Fortitude DC 25; Stage 1 no ill eﬀect (1 round);
+Stage 2 the victim’s skin softens, inﬂicting drained 1 (1 round); Stage 3 the victim’s
+skin transforms into a clear, slimy membrane, inﬂicting drained 2 until
+the curse ends; every hour this membrane remains dry, the
+creature’s drained condition increases by 1 (permanent).
+A remove disease spell can counteract this curse, but
+immunity to disease oﬀers no protection against it.
+Veiled Master (Vidileth)
+The powerful vidileths are the insidious
+veiled masters of the alghollthus. These
+manipulators of mind and body alike
+lead their species in the open, using
+their ability to change form to walk
+among and deceive humans and
+other sapient species. Many veiled
+masters are even more powerful than
+the typical specimen presented here and can
+use a wide range of arcane or occult spells and rituals.
+While veiled masters command signiﬁcant
+combat prowess and impressive magical skills,
+the greatest danger they pose to others is their
+uncanny ability to inﬁltrate into societies much
+different than their own. The most paranoid of
+adventurers and conspiracy scholars worry that every major city has been
+infested by secret cabals of vidileths, while others dismiss this as hogwash
+and fearmongering. The truth is likely somewhere in between, but it doesn’t
+take many veiled masters pulling the strings behind the scenes to wreak havoc
+upon an entire nation!
+ALGHOLLTHU TREASURE
+Although most alghollthus lack
+the greed that tempts most
+mortals, they do gather wealth
+and magical tools to use in their
+schemes. A given aboleth or
+veiled master might also wear
+magical jewelry and other objects.
+Faceless stalkers and other
+humanoid servants of alghollthus
+use weapons and armor, such as
+the faceless stalker’s sword or
+ulat-kini’s trident, as well as other
+tools. These servitor races can be
+as acquisitive as other humanoids.
+
+================================================================================
+PAGE 16
+================================================================================
+
+
+================================================================================
+# ASTRAL DEVA
+================================================================================
+
+
+their wings to mentor them. Astral devas carry scrolls containing important
+messages and other celestial secrets.
+Astral devas can form spontaneously from the souls of exceptional
+good-aligned mortals, but are also sometimes created from such souls
+intentionally by deities or demigods. In the later cases, astral devas often bear
+physical features that mark them as closely afﬁliated with that deity. An astral
+deva created by Sarenrae, for example, might have hair made of ﬁre, while one
+created by Torag might look more dwarven, and one created by Desna could
+have butterﬂy wings instead of feathered wings. It’s not unusual for astral devas
+created by lawful good or chaotic good deities to share their creators’ alignment.
+ASTRAL DEVA
+CREATURE 14
+NG
+MEDIUM
+ANGEL
+CELESTIAL
+Perception +26; darkvision
+Languages Celestial, Draconic, Infernal; tongues
+Skills Acrobatics +24, Diplomacy +26, Intimidation +28,
+Religion +24
+Str +8, Dex +4, Con +5, Int +4, Wis +4, Cha +6
+Items +2 striking warhammer
+AC 36; Fort +27, Ref +26, Will +22; +1 status to all saves vs. magic
+HP 285; Weaknesses evil 15
+Traveler’s Aura (abjuration, aura, divine) 20 feet. Creatures in the
+astral deva’s aura are protected from ambient environmental
+damage from any plane, including severe and extreme heat and
+cold as well as more exotic dangers. The astral deva
+is never ﬂat-footed to creatures within its aura.
+Messenger’s Amnesty (abjuration, divine) An astral
+deva with a message to deliver is continually
+protected by the eﬀect of sanctuary (DC 32).
+If the deva breaks the sanctuary, the eﬀect
+returns if the deva ceases hostility for
+10 minutes.
+Speed 40 feet, ﬂy 75 feet
+Melee Ȱɵ holy warhammer +30 (good,
+magical,
+shove),
+Damage
+2d8+22
+bludgeoning plus 1d6 good
+Divine Innate Spells DC 36, attack +28;
+7th blade barrier, divine decree,
+divine wrath, heal, remove curse,
+remove disease,
+remove fear;
+4th discern lies (at will); 2nd
+invisibility (at will, self only);
+1st detect alignment (at will,
+evil only); Cantrips (7th) light;
+Constant (5th) tongues
+Divine Rituals DC 36; angelic
+messenger
+Divine Armament (divine,
+evocation) Any weapon
+gains the effect of a
+holy
+property
+rune
+while an astral deva
+wields it.
+Stunning Strike Ȱɵ Requirements The astral deva hit a foe earlier this turn with a weapon
+Strike. Eﬀect The astral deva makes a weapon Strike against the foe. On a success, the
+foe must succeed at a DC 34 Fortitude save or become stunned 1. On a critical failure,
+the foe is stunned 2 instead.
+OTHER ANGELS
+The most powerful angels
+are known as the solars, but
+numerous others can be found
+in Nirvana working their own
+missions or goals. Angels
+generally appear as beautiful,
+often somewhat androgynous
+humanoids, and the most powerful
+often possess two or even four
+sets of feathered wings.
+
+================================================================================
+PAGE 21
+================================================================================
+
+Bestiary
+Animated Object
+Granted a semblance of life through the use of rituals or other strange magic,
+animated objects take many forms and serve a variety of uses. A few examples
+of typical animated objects are listed below. Many of these creatures serve as
+guardians, surprising unsuspecting adventurers when they suddenly attack.
+Others serve as idle distractions for the exceptionally rich, simple servants
+created to handle odd jobs, and the like.
+Animated Broom
+Animated brooms perform menial tasks of cleaning and upkeep, but they can
+step in to defend a room from intrusion if needed. These simple animated
+objects can be found with greater frequency than more complicated and
+costly objects.
+ANIMATED BROOM
+CREATURE –1
+N
+SMALL
+CONSTRUCT
+MINDLESS
+Perception +3; darkvision
+Skills Athletics +5
+Str +0, Dex +1, Con +0, Int –5, Wis +0, Cha –5
+AC 16 (14 when broken); construct armor; Fort +3, Ref +6, Will +3
+HP 6; Hardness 2; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued,
+healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
+Construct Armor Like normal objects, an animated broom has Hardness. This Hardness
+reduces any damage it takes by an amount equal to the Hardness. Once an animated
+broom is reduced to less than half its Hit Points, or immediately upon being damaged
+by a critical hit, its construct armor breaks and its Armor Class is reduced to 14.
+Speed 15 feet
+Melee Ȱɵ bristles +6 (agile, magical, ﬁnesse), Damage 1d4 bludgeoning plus dust
+Dust A creature hit by an animated broom’s bristles must succeed at a DC 15 Fortitude
+save or spend its next action coughing. Even if hit by multiple dust attacks, the
+creature has to spend only 1 action coughing to clear the dust out. A creature that
+doesn’t breathe is immune to this eﬀect.
+Animated Armor
+Suits of animated armor see use both as guardians and as training partners in
+high-end martial academies able to afford the extravagance. They are most often
+found in wizard laboratories and ancient dungeons.
+
+================================================================================
+# ANIMATED ARMOR
+================================================================================
+
+Dust A creature hit by an animated broom’s bristles must succeed at a DC 15 Fortitude
+save or spend its next action coughing. Even if hit by multiple dust attacks, the
+creature has to spend only 1 action coughing to clear the dust out. A creature that
+doesn’t breathe is immune to this eﬀect.
+Animated Armor
+Suits of animated armor see use both as guardians and as training partners in
+high-end martial academies able to afford the extravagance. They are most often
+found in wizard laboratories and ancient dungeons.
+ANIMATED ARMOR
+CREATURE 2
+N
+MEDIUM
+CONSTRUCT
+MINDLESS
+Perception +6; darkvision
+Skills Athletics +9
+Str +3, Dex –3, Con +4, Int –5, Wis +0, Cha –5
+AC 17 (13 when broken); construct armor; Fort +10, Ref +3, Will +4
+HP 20; Hardness 9; Immunities bleed, death eﬀects, disease, doomed,
+drained, fatigued, healing, mental, necromancy, nonlethal attacks,
+paralyzed, poison, sickened, unconscious
+Construct Armor As animated broom, but reduced to AC 13 when broken.
+Speed 20 feet
+Melee Ȱɵ glaive +11 (deadly 1d8, forceful, magical, reach 10 feet), Damage
+1d8+4 slashing
+Melee Ȱɵ gauntlet +9 (agile, free-hand, magical), Damage 1d6+4 bludgeoning
+Animated Statue
+Animated statues are often used to guard crypts, small shrines, or areas in
+government buildings where they can be positioned amid normal statues to
+hide their true nature until an intruder arouses their ire. Adventurers’ suspicions
+ANIMATING OBJECTS
+Most animated objects
+encountered by adventurers are
+permanently animated creatures,
+either created by rituals or given
+life by infusions of positive energy.
+Restless spirits, certain ghosts, and
+other haunting undead inﬂuences
+can also give rise to animated
+objects, although in cases like
+the poltergeist (page 264), what
+appears to be an animated object
+may merely be an evil force using
+its magic to hurl furnishings about
+as weapons.
+
+================================================================================
+PAGE 22
+================================================================================
+
+regarding statues suddenly animating and attacking has led many less scrupulous
+adventurers to automatically attack any statues they encounter, ruining harmless,
+ancient relics.
+
+================================================================================
+# ANIMATED STATUE
+================================================================================
+
+
+regarding statues suddenly animating and attacking has led many less scrupulous
+adventurers to automatically attack any statues they encounter, ruining harmless,
+ancient relics.
+ANIMATED STATUE
+CREATURE 3
+N
+MEDIUM
+CONSTRUCT
+EARTH
+MINDLESS
+Perception +9; darkvision
+Skills Athletics +11
+Str +4, Dex –2, Con +5, Int –5, Wis +0, Cha –5
+AC 19 (15 when broken); construct armor; Fort +12, Ref +5, Will +5
+HP 35; Hardness 6; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued,
+healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
+Construct Armor As animated broom, but reduced to AC 15 when broken.
+Speed 20 feet
+Melee Ȱɵ ﬁst +11 (magical), Damage 1d8+6 bludgeoning plus Grab
+Giant Animated Statue
+As with any humanoid animated statues of Medium size, giant animated statues
+are used to guard locations of importance, but their increased size and power
+make them most useful in large vaults, spacious chambers, or outdoor locations.
+Animated objects of this strength and size are ideal for tasks and responsibilities
+usually performed by golems, and more powerful animated objects are thus all
+but unheard of.
+
+================================================================================
+# ANKHRAV
+================================================================================
+
+
+Bestiary
+Ankhrav
+Ankhravs are immense, burrowing, and insectile predators, considered by
+inhabitants of the rural areas of the world to be an all-too-common plague.
+Ankhrav
+These horse-sized, burrowing monsters generally avoid heavily settled areas like
+cities, but ankhravs’ predilection for livestock and humanoid ﬂesh ensures that
+the creatures do not remain in the deep wilderness for long. Desperate farmers
+whose ﬁelds become infested by ankhravs often have little recourse but to seek
+the aid of adventurers.
+ANKHRAV
+CREATURE 3
+N
+LARGE
+ANIMAL
+Perception +7; darkvision, tremorsense (imprecise) 60 feet
+Skills Acrobatics +6, Athletics +11, Stealth +8
+Str +4, Dex +1, Con +3, Int –4, Wis +0, Cha –2
+AC 20; Fort +12, Ref +8, Will +7
+HP 40
+Speed 25 feet, burrow 20 feet
+Melee Ȱɵ mandibles +13 (acid), Damage 1d8+4 piercing plus 1d6 acid
+Ranged Ȱɵ acid spit +10 (acid, range 30 feet), Damage 3d6 acid
+Armor-Rending Bite ʚʖ The ankhrav makes a mandibles Strike; if the Strike hits, the
+target’s armor takes the damage and the acid damage bypasses the armor’s Hardness.
+Spray Acid ʚʖ (acid) Frequency once per hour; Eﬀect The ankhrav spews acid in a
+30-foot cone, dealing 3d6 acid damage and 1d6 persistent acid damage (DC 20 basic
+Reﬂex save).
+Hive Mother
+Ankhrav hive mothers are fearsome predators that one can easily distinguish
+from the typical ankhrav not only by their greater size, but the presence of a
+large pair of razor-sharp, mantis-like arms.
+
+================================================================================
+# ARBOREAL WARDEN
+================================================================================
+
+
+Bestiary
+Arboreal
+Arboreals are guardians of the forest and representatives of the trees. As longlived as the woods they watch over, arboreals consider themselves parents and
+shepherds of trees rather than their gardeners. Consequently, while arboreals
+tend to be slow and methodical, they are terrifyingly swift when forced to ﬁght
+in defense of the woods. Though they rarely seek out the companionship of
+short-lived folk—even elves are fugacious in the eyes of arboreals—and have
+an inherent distrust of change, arboreals have been known to tolerate those
+who seek to learn from their long-winded, rambling monologues, especially
+if such pupils also express a desire to protect the timberlands. Against those
+who threaten their realm, such as loggers eager to harvest lumber or settlers
+aiming to establish croplands or a town, arboreals’ wrath is unwavering and
+devastating. Perhaps ironically, arboreals are gifted at tearing down what others
+build—a trait that serves vengeful members of their kind well.
+Arboreal Warden
+Arboreal wardens are the rangers of arboreal society. These itinerant
+folk have an innate curiosity about the woodlands in which they
+dwell, and rarely stop to take root and rest in the same part of
+the forest twice. This wanderlust makes wardens ideal forest
+patrollers and scouts. While they are robust combatants, they
+know better than to confront dangerous foes on their
+own. Instead, they report any dangers to arboreal
+regents. In rare cases, large groups of arboreal
+wardens congregate to form a copse. Copses travel
+beyond the boundaries of a forest to investigate the
+hinterlands and gather intelligence on potential threats
+before returning to report their ﬁndings. Arboreal
+wardens do not pretend to understand to other
+creatures’ motives—like most forces of the natural
+world, they are ambivalent about mortal affairs that do
+not involve their forest.
+ARBOREAL WARDEN
+ CREATURE 4
+NG
+LARGE
+PLANT
+Perception +11; low-light vision
+Languages Arboreal, Common, Sylvan
+Skills Athletics +13, Stealth +9 (+14 in forests)
+Str +5, Dex +1, Con +3, Int +1, Wis +3, Cha +1
+Items large bark shield (Hardness 3, Hit Points 20,
+BT 10), stone longsword
+AC 20 (22 with shield raised); Fort +13, Ref +9,
+Will +11
+HP 75; Weaknesses axe vulnerability, ﬁre 10;
+Resistances bludgeoning 5, piercing 5
+Axe Vulnerability An arboreal warden takes 5 additional
+damage from axes.
+Attack of Opportunity Ǻȓ
+Shield Block Ǻȓ
+Speed 25 feet
+Melee Ȱɵ stone longsword +13 (reach 10 feet),
+Damage 1d8+10 bludgeoning
+Melee Ȱɵ shield bash +13, Damage 1d6+10
+bludgeoning
+Shield Push ʚʖ The arboreal warden Strides
+and then makes a shield bash Strike. If the
+attack hits, the target is pushed 10 feet.
+FELLED ARBOREALS
+Arboreals have a great respect for
+dead members of their species. Their
+elaborate burial rituals involve laying
+the fallen arboreal down in a mossy
+bed in the center of a grove of
+saplings. The decomposing arboreal
+nourishes the saplings, ensuring the
+growth of a new generation of trees.
+
+================================================================================
+PAGE 26
+================================================================================
+
+Awakened Tree
+Arboreal regents and other wielders of powerful primal magic grant temporary
+sentience to trees in order to protect the forest. Invested with a workable set of
+instincts and the ability to mobilize and attack, these awakened trees follow the
+commands of their master and ﬁght to protect their home. The statistics below
+work just as well for foliage that has become animate via other methods, such as a
+mystical inﬂuence from another dimension, a capricious fey spirit, or the like.
+
+================================================================================
+# AWAKENED TREE
+================================================================================
+
+
+Awakened Tree
+Arboreal regents and other wielders of powerful primal magic grant temporary
+sentience to trees in order to protect the forest. Invested with a workable set of
+instincts and the ability to mobilize and attack, these awakened trees follow the
+commands of their master and ﬁght to protect their home. The statistics below
+work just as well for foliage that has become animate via other methods, such as a
+mystical inﬂuence from another dimension, a capricious fey spirit, or the like.
+AWAKENED TREE
+ CREATURE 6
+N
+HUGE
+PLANT
+Perception +13; low-light vision
+Languages Arboreal (can’t speak any language)
+Skills Athletics +14, Stealth +9 (+14 in forests)
+Str +6, Dex –1, Con +6, Int –5, Wis +3, Cha +0
+AC 22; Fort +16, Ref +9, Will +13
+HP 100; Weaknesses axe vulnerability, ﬁre 10; Resistances bludgeoning 5, piercing 5
+Axe Vulnerability An awakened tree takes 5 additional damage from axes.
+Speed 20 feet
+Melee Ȱɵ branch +16 (reach 15 feet), Damage 2d8+6 bludgeoning
+Melee Ȱɵ root +16 (trip), Damage 2d6+6 bludgeoning
+Arboreal Regent
+Arboreal regents—also called treants­—are lumbering, solitary creatures
+responsible for guarding an entire forest. They take an especially long view
+of affairs and never act brashly or without much deliberation. They
+occasionally come together in small groups called groves to share
+news and pass their wisdom down to the arboreal wardens that have
+sprouted under their watch. In times of grave danger, all the groves in a
+region may gather for a great months-long meeting to plan and, eventually,
+act upon a threat.
+The typical arboreal regent is 30 feet tall, has a trunk 2 feet in diameter, and
+weighs 4,500 pounds.
+
+================================================================================
+# ARBOREAL REGENT
+================================================================================
+
+Arboreal Regent
+Arboreal regents—also called treants­—are lumbering, solitary creatures
+responsible for guarding an entire forest. They take an especially long view
+of affairs and never act brashly or without much deliberation. They
+occasionally come together in small groups called groves to share
+news and pass their wisdom down to the arboreal wardens that have
+sprouted under their watch. In times of grave danger, all the groves in a
+region may gather for a great months-long meeting to plan and, eventually,
+act upon a threat.
+The typical arboreal regent is 30 feet tall, has a trunk 2 feet in diameter, and
+weighs 4,500 pounds.
+ARBOREAL REGENT
+CREATURE 8
+NG
+HUGE
+PLANT
+Perception +18; low-light vision
+Languages Arboreal, Common, Sylvan; speak with plants
+Skills Athletics +19, Diplomacy +16, Intimidation +16, Nature +18, Stealth +11 (+21
+in forests)
+Str +7, Dex –1, Con +6, Int +1, Wis +4, Cha +2
+AC 26; Fort +20, Ref +11, Will +16
+HP 150; Weaknesses axe vulnerability, ﬁre 10; Resistances bludgeoning 5,
+piercing 5
+Axe Vulnerability The arboreal regent takes 5 additional damage from axes.
+Speed 25 feet
+Melee Ȱɵ branch +19 (reach 15 feet), Damage 2d12+7 bludgeoning
+Melee Ȱɵ root +19 (trip), Damage 2d8+7 bludgeoning
+Ranged Ȱɵ rock +19 (brutal, range increment 120 feet), Damage 2d10+7 bludgeoning
+Primal Innate Spells DC 26; Constant speak with plants
+Awaken Tree ʚʖ (concentrate, primal) The arboreal regent causes a tree within 180
+feet to uproot itself and ﬁght as a minion using the statistics for an awakened tree.
+The arboreal regent can control up to two awakened trees at a time, and it can
+issue commands to both trees as a single action, which has the concentrate and
+auditory traits.
+Sunder Objects When an arboreal regent damages an item or structure, it
+deals an additional 2d10 damage to that item or structure.
+Throw Rock Ȱɵ
+FUNGUS NETWORKS
+Particularly old arboreal regents
+and other powerful arboreals can
+tap into the extensive network of
+fungus that connects the roots
+of all the trees in the forest. By
+doing so, the arboreal can learn
+of threats throughout the entire
+woodland, even from miles away.
+
+================================================================================
+PAGE 27
+================================================================================
+
+Bestiary
+ARCHON DIVINITIES
+As with angels and azatas, the
+most powerful of archons are
+a caste of demigods known
+collectively as empyreal lords.
+Each archon empyreal lord is a
+unique and powerful creature
+that keeps a domain somewhere
+in Heaven and is worshipped on
+Material Plane worlds. Archon
+divinities serve a variety of goals
+and focus on diﬀerent aspects
+of righteousness. Some, such as
+Zohls, hold inﬂuence over the
+pursuit of truth and determined
+investigations, while others,
+like Damerrich, the demigod
+of executions, emphasize the
+punishment of unrepentant
+wrongdoers and seek to obliterate
+evil in all its forms.
+Archon
+Archons are guardians of Heaven and enemies of chaos and evil. They openly
+ﬁght back the spread of ﬁends but also quietly nurture the seeds of virtue within
+mortals, teaching the denizens of the Material Plane how to act with honor and
+integrity, enact just laws, and cast off sin and temptation.
+Archons live in the immense seven-tiered mountain of Heaven. They manifest
+in the Garden at the mountain’s peak from mortal souls who answer a mysterious
+voice. There they swear to forever serve the cause of justice and transform into their
+new archon forms. Intensely orderly in their metamorphosis, new archons begin
+as lantern archons or other lesser forms, transforming into ever-greater archons
+as their virtue and achievements grow. Each archon represents a particular virtue,
+such as hope, charity, justice, or courage, and they gain strength in the presence of
+mortals who exemplify this virtue. Due to their extremely lawful nature, archons
+sometimes ﬁnd themselves at odds with azatas.
+Lantern Archon
+Friendly, curious, and eternally optimistic, lantern archons embody the virtue of
+hope. They are formed of living light given corporeal shape, and they serve as
+beacons, guiding mortals out of their darkest moments and toward the path of
+righteousness. Their luminous bodies can ﬂicker with the subtlety of a candle
+ﬂame or ﬂare up like a torch. Lantern archons can control all aspects of their light
+as easily as other creatures control their facial expressions, leading them to change
+color, twinkle, and otherwise dim and brighten in time
+with their actions and words. While effervescent
+and chipper in conversation, lantern archons are
+impressively stoic mobile support troops and
+guardians in times of conﬂict, and are capable
+of uniting to form powerful warriors of light
+called gestalts.
+
+================================================================================
+# AZURE WORM
+================================================================================
+
+Fast Swallow Ǻȓ Trigger The purple worm Grabs a creature. Eﬀect The worm uses
+Swallow Whole.
+Purple Worm Venom (poison); Saving Throw DC 32 Fortitude, Maximum Duration 6 rounds;
+Stage 1 5d6 poison damage and enfeebled 2 (1 round), Stage 2 6d6 poison damage, and
+enfeebled 2 (1 round); Stage 3 8d6 poison damage and enfeebled 2 (1 round).
+Regurgitate The purple worm can violently regurgitate a creature or boulder it has
+swallowed to make a ranged Strike. The Strike deals bludgeoning damage depending
+on the size of the projectile: Tiny deals 2d6+13, Small 3d6+13, Medium 4d6+13,
+Large 5d6+13, and Huge 6d6+13. A regurgitated creature takes falling damage from
+the height of the target or from 20 feet, whichever is greater.
+Boulders occupy space in the worm’s stomach as a creature of equivalent size, and
+purple worms often have several boulders swallowed. A purple worm can use a single
+action to swallow a new boulder.
+Rock Tunneler A purple worm can burrow through solid stone at a Speed of 20 feet. It
+can leave a tunnel if it desires, and it usually does.
+Swallow Whole Ȱɵ Huge, 3d6+9 bludgeoning, Rupture 24
+Thrash ʚʖ The worm makes a Strike once against each creature in its reach. It can
+Strike up to once with its jaws, up to once with its stinger, and any number of times
+with its body. Each attack counts toward the worm’s multiple attack penalty, but the
+multiple attack penalty doesn’t increase until after it makes all the attacks.
+Azure Worm
+The azure worm is a deep-blue creature that is more at home in ﬂooded tunnels
+than dry caves. While an azure worm is a strong swimmer, it prefers to lie in
+wait within the walls, ﬂoor, or even ceiling of ﬂooded caverns, ready to spring
+out and ambush creatures swimming past its hiding spot. The azure worm is
+particularly hated and feared by Darklands-dwelling cultures, due to the fact
+that an azure worm that burrows into a tunnel often brings with it waters from
+the submerged river or lake it calls home. When it becomes obvious that an
+azure worm is near a Darklands settlement, the inhabitants quickly establishing
+a hunting party to deal with the menace before it can bring ruin.
+AZURE WORM
+CREATURE 15
+UNCOMMON
+N
+GARGANTUAN
+AMPHIBIOUS
+ANIMAL
+Perception +22; darkvision, tremorsense (imprecise) 100 feet
+Skills Athletics +33, Stealth +20 (+25 in water)
+Str +10, Dex –1, Con +8, Int –5, Wis –1, Cha –1
+AC 35; Fort +32, Ref +20, Will +23
+HP 320
+Inexorable As purple worm.
+Shake It Oﬀ Ǻȓ As purple worm.
+
+================================================================================
+PAGE 59
+================================================================================
+
+Bestiary
+Speed 40 feet, burrow 40 feet, swim 60 feet
+Melee Ȱɵ jaws +31 (deadly 2d10, reach 15 feet), Damage 3d12+16 piercing
+plus Improved Grab
+Melee Ȱɵ stinger +31 (agile, poison, reach 15 feet), Damage 4d6+16 piercing plus azure
+worm venom
+Melee Ȱɵ body +29 (reach 15 feet), Damage 2d8+14 bludgeoning
+Azure Worm Venom (poison); Saving Throw DC 37 Fortitude, Maximum Duration
+6 rounds; Stage 1 3d6 poison damage and clumsy 2 (1 round); Stage 2 4d6 poison
+damage and clumsy 2 (1 round); Stage 3 6d6 poison damage and clumsy 2 (1 round)
+Breach ʚʖ The azure worm Swims up to its swim Speed, then Leaps vertically out of
+the water up to 30 feet, making a Strike against a creature at the apex of the jump
+(this lets it attack a creature within 45 feet of the water’s surface). After the Strike,
+the worm splashes back down. It can use Improved Grab on this Strike and follow it
+up with Fast Swallow.
+Fast Swallow Ǻȓ Trigger The worm Grabs a creature. Eﬀect The worm uses Swallow Whole.
+Swallow Whole Ȱɵ Huge, 3d8+10 bludgeoning, Rupture 27
+Thrash ʚʖ As purple worm.
+Crimson Worm
+Among the most dangerous cave worms are the ﬁery crimson worms. In addition
+to being even larger than azure or purple worms, the crimson worm has a penchant
+for burrowing through volcanic regions that, over the generations, have infused
+it with a supernatural link to the Elemental Plane of Fire. The molten heart of an
+active volcano is an attractive lair for a crimson worm, as are the sprawling ﬁelds
+of bubbling magma found in the deepest reaches of the Darklands. Legends from
+ancient peoples, precursor dwarven societies, and colonists of the Elemental
+Planes populated moats of lava with crimson worms likely have some basis in
+truth, although the methods such ancients used to keep these “moat worms”
+contained and prevented them from chewing their way through fortress
+foundations must have been signiﬁcant.
+Crimson worms sometimes frequent areas on the surface where volcanism
+creates hot springs or other geothermal features, but even then they prefer
+to spend most of their time burrowing through the ground in their never-ending
+search for sustenance. Surface lands claimed by crimson worms are notable for
+the mound-shaped burrows these creatures leave behind as they dig.
+NOTORIOUS WORMS
+Some societies view the immense
+cave worms as natural disasters
+or incarnations of wrathful gods.
+Cave worms that have been active
+in a region often become part of
+that area’s local lore. For example,
+in the notorious Cinderlands of
+eastern Varisia, Shoanti have
+long told tales of Cindermaw, an
+immense crimson worm viewed
+by some as worthy of worship,
+and by others as the ultimate test
+of bravery.
+
+================================================================================
+PAGE 60
+================================================================================
+
+
+================================================================================
+# ASTRADAEMON
+================================================================================
+
+
+Not all astradaemons limit their hunt to souls. The most notorious of their kind
+serve the Horsemen themselves as assassins.
+ASTRADAEMON
+CREATURE 16
+NE
+LARGE
+DAEMON
+FIEND
+Perception +28; darkvision, lifesense 30 feet, true seeing
+Languages Common, Daemonic; telepathy 100 feet
+Skills Acrobatics +28, Intimidation +33, Religion +26, Stealth +28, Survival +26
+Str +5, Dex +6, Con +7, Int +2, Wis +4, Cha +7
+AC 39; Fort +27, Ref +30, Will +26; +1 status to all saves vs. magic
+HP 240; Immunities death eﬀects, negative; Weaknesses good 15
+Soul Siphon (aura, divine, force, necromancy) 30 feet. An astradaemon draws power
+from the souls of the recently slain. If a Small or larger living creature dies within its
+aura, the astradaemon gains 5 temporary Hit Points and a +1 status bonus to attack
+and damage rolls for 1 round, unless the creature was slain by an astradaemon’s
+Devour Soul ability. Incorporeal undead and living spirits traveling outside the
+body take 1d8 force damage each round within the daemon’s aura from
+the spiritual pressure as the astradaemon pulls in fragments of their soul.
+Displacement (divine, illusion, visual) An astradaemon bends light, appearing
+shifted from its true position, though still in the same space. Creatures
+targeting the astradaemon must attempt a DC 11 ﬂat check, as if the
+astradaemon were hidden, even though it remains observed. Eﬀects such as the
+Blind-Fight feat and halﬂing’s keen eyes that apply on the ﬂat check against
+hidden creatures also apply against a displaced astradaemon.
+Speed 60 feet, ﬂy 60 feet
+Melee Ȱɵ jaws +32 (evil, magical, reach 10 feet), Damage 3d8+9 piercing plus 1d6
+evil, essence drain, and Grab
+Melee Ȱɵ claw +32 (agile, evil, magical, reach 10 feet), Damage
+3d6+9 slashing plus 1d6 evil and Essence Drain
+Melee Ȱɵ tail +32 (evil, magical, reach 15 feet), Damage
+3d10+9 bludgeoning plus 1d6 evil and Essence Drain
+Divine Innate Spells DC 37; 8th discern location, ﬁnger
+of death; 7th plane shift (×2), 5th dimension door;
+4th dimension door (at will), 1st detect alignment
+(at will; good only); Constant (6th) true seeing
+Devour
+Soul
+Ȱɵ
+(divine,
+incapacitation,
+necromancy) Requirements The astradaemon
+hasn’t used an action with the attack trait yet
+this turn. Eﬀect The astradaemon draws out
+and consumes the soul of a living creature it
+has grabbed. The creature must succeed at
+a DC 35 Fortitude save or instantly die. If it
+dies, the astradaemon gains 10 temporary
+Hit Points and a +2 status bonus to attack
+and damage rolls for 1 minute, or for 1
+day if the victim was 15th level or higher.
+A victim slain in this way can be returned
+to life normally. A creature that survives is
+temporarily immune for 1 minute.
+Essence Drain (divine, necromancy, negative) When an
+astradaemon hits with its claw, jaws, or tail, it drains the target’s spiritual and
+vital essences. The target takes 2d10 negative energy damage and the astradaemon
+regains an equal number of Hit Points. The target must succeed at a DC
+37 Fortitude save or become doomed 1 and drained 1. If
+the target was already drained or doomed, it instead
+increases both conditions’ value by 1, to a maximum
+of 4.
+OTHER DAEMONS
+As many daemons exist as there
+are awful ways to die. The bloody
+sangudaemon personiﬁes death
+by blood loss, while the skeletal
+thanadaemon represents death
+from old age. The most powerful
+daemons are the olethrodaemons,
+who represent the massive deaths
+caused by apocalypses and the end
+of entire worlds.
+
+================================================================================
+PAGE 75
+================================================================================
+
+Bestiary
+Deep Gnome
+These distant cousins to gnomes are reclusive, underground dwellers.
+Svirfneblins, as deep gnomes call themselves, have skin the color of gray or
+brown stone. While deep gnome males are bald, women have thin, pale-gray
+hair, and all have the large, expressive eyes typical among all gnomes. A deep
+gnome is 3 feet tall and weighs approximately 65 pounds. Deep gnomes rarely
+interact with those outside of their small cavern communities, and they are
+slow to trust outsiders, sometimes keeping them imprisoned for years simply to
+prevent them from informing others of the deep gnome settlement.
+The ﬁrst deep gnomes rose in the underground world some time after their
+early gnome ancestors migrated from the First World to Golarion. A group
+of these migrants elected to settle underground instead of on the surface, and
+it was from these gnomes that the svirfneblin came to be. Some believe the
+gnomes chose the Darklands as their home to watch for and stop any evil fey
+who might inﬁltrate the underground region, but much like the exact reasons
+for the gnomes’ relocation, their motivation has been lost to time. Thousands
+of years of living in subterranean caverns with little to no light transformed
+the physical characteristics of the gnomes living there into those of the deep
+gnome of today.
+Though deep gnomes may seem dour and recalcitrant at ﬁrst glance, they
+retain the fey blood of their ancestors. In fact, deep gnomes are sometimes more
+emotionally erratic than their gnome cousins, lashing out violently at what
+seems like the smallest provocation. Such an explosion is often followed by an
+extended period of quiet brooding. Despite this, deep gnome communities are
+close-knit, as each citizen knows when to give the others the space they require
+to process their feelings.
+Many deep gnome settlements have clashed with nearby duergar
+(pages 138–139) communities for myriad reasons: resources, territory, and even
+religion and morality. Over the centuries, some of these disputes have evolved
+into full wars, with many lives lost on both sides. Neither deep gnomes nor
+duergars are particularly proud of these conﬂicts, but both insist they were in
+the right each time. The ferocity with which most duergars ﬁght has left
+a deep impression on the psyches of some deep gnome communities,
+leading them to distrust all dwarves and dwarf-like ancestries even
+more than other strangers. This can result in non-duergar dwarves
+being driven off from deep gnome cities before being able to explain
+themselves. A dwarf and even those traveling with a dwarf require patience
+and tenacity when attempting to deal with deep gnomes holding such views.
+Svirfneblins value crafting and many decorate their cavernous homes with
+paintings on the walls, often incorporating the rock in clever ways. They also
+value crystals and gems, making jewelry and beads that they string through
+their hair.
+Deep Gnome Scout
+Deep gnome scouts patrol the tunnels that lead into their
+settlements. Some scout alone to make the most of their
+stealth, but others form groups for the sake of safety.
+
+================================================================================
+# ANKYLOSAURUS
+================================================================================
+
+Darting Attack Ȱɵ The deinonychus Strides up to 10 feet and then makes a Strike, or
+makes a Strike and then Strides up to 10 feet.
+Predator’s Advantage Bleeding creatures are ﬂat-footed to the deinonychus.
+Ankylosaurus
+Squat, heavily armored quadrupeds, ankylosauruses are stubborn and irascible.
+Although they’re herbivores, they have been known to attack other creatures that
+trespass within territory simply out of ill temper.
+Ankylosauruses have few natural predators, as their bony hides are covered in
+spiked nubs that jut in many different directions to discourage larger creatures
+from biting them. They have mighty tails ending in an immense knot of bone,
+which they use to whip at threats with incredible speed and power. While these
+low-to-the-ground dinosaurs can trample human-sized or smaller foes, their
+relatively squat stance prevents them from doing so against larger targets. An
+ankylosaurus is about 30 feet long, 10 feet tall at the shoulder, and weighs over
+3 tons.
+The ankylosaurus is the largest of the heavily armored dinosaurs called
+ankylosaurids, but smaller versions exist as well. Still Large in size, these smaller
+dinosaurs, such as the 16-foot long pinacosaurus, lack the trample ability and
+are rarely above 4th level. Regardless of size, ankylosaurids tend to be relatively
+muted in coloration, with mixes of black, brown, and gray. When captive, an
+ankylosaurus’s keeper might paint its scales bright colors to signify to others
+that is not a wild creature.
+ANKYLOSAURUS
+CREATURE 6
+N
+HUGE
+ANIMAL
+DINOSAUR
+Perception +12; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +17
+Str +7, Dex +0, Con +4, Int –4, Wis +2, Cha –1
+AC 26; Fort +16, Ref +10, Will +12
+HP 90
+Speed 25 feet
+Melee Ȱɵ tail +17 (backswing, reach 15 feet),
+Damage 2d8+7 bludgeoning
+plus punishing tail
+Melee Ȱɵ foot +17 (reach 10 feet),
+Damage 2d6+7 bludgeoning
+Punishing Tail A creature
+struck by the ankylosaurus’s
+tail must attempt a DC 24
+Fortitude save. On a failure,
+it’s slowed 1 until the end of its
+next turn; on a critical failure, it’s
+stunned until the end of its
+next turn.
+Trample ̂ˬ Medium or
+smaller, foot, DC 24
+
+================================================================================
+PAGE 99
+================================================================================
+
+Bestiary
+Stegosaurus
+The stegosaurus is easily recognized by its twin rows of diamond-shaped dorsal
+plates that run down its spine, and thick tail adorned with four large spikes. This
+strange conﬁguration protects this herbivore from predators, as the stegosaurus
+can hunker down to interpose its dorsal plates between an attacker and its thick
+body. A stegosaurus defends itself by swinging its spiked tail at larger foes and
+trampling smaller opponents underfoot.
+The stegosaurus often inhabits grasslands, where nutritious vegetation is
+plentiful and only its dorsal plates rise above waving ﬁelds of tall grass. The
+stegosaurus is among the most curious of dinosaurs, and hunters often ﬁnd it easy
+to bait them with shiny trinkets or strange noises. A stegosaurus is about 30 feet
+long, 16 feet high at the top of its highest dorsal plate, and weighs between 2 and
+3 tons.
+The stegosaurus is generally more even-tempered and even gentle, despite its
+size, than the ankylosaurus. This combination makes it even more popular as
+a trained pet or guard, but even then one should take care to not annoy the
+dinosaur—an angry or annoyed stegosaurus can lash out with its tail with little
+warning. Often, it’s wiser to train smaller variants, such as the kentrosaurus.
+Regardless, their dorsal plates make this dinosaur a poor choice as a mount.
+
+================================================================================
+# ADULT BLACK DRAGON
+================================================================================
+
+piercing
+Breath Weapon ʚʖ (acid, arcane, evocation); The
+dragon breathes a spray of acid that deals 8d6
+acid damage in a 60-foot line (DC 25 basic
+Reﬂex save). It can’t use Breath Weapon
+again for 1d4 rounds.
+Draconic Frenzy ʚʖ The dragon makes two claw
+Strikes and one horns Strike in any order.
+Draconic Momentum The dragon recharges its
+Breath Weapon whenever it scores a critical hit
+with a Strike.
+ADULT BLACK DRAGON
+CREATURE 11
+CE
+LARGE
+ACID
+AMPHIBIOUS
+DRAGON
+Perception +22; darkvision, scent (imprecise) 60 feet
+Languages Common, Draconic, Jotun
+Skills Acrobatics +18, Arcana +19, Athletics +24,
+Deception +20, Intimidation +20, Stealth +20
+Str +7, Dex +3, Con +5, Int +2, Wis +3, Cha +3
+AC 31; Fort +23, Ref +18, Will +21; +1 status to all saves
+vs. magic
+HP 215; Immunities acid, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet,
+DC 28
+Tail Lash Ǻȓ As young black dragon.
+Speed 50 feet, ﬂy 120 feet, swim 50 feet
+Melee Ȱɵ jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13
+piercing plus 2d6 acid
+
+================================================================================
+PAGE 107
+================================================================================
+
+Bestiary
+BLUE DRAGON
+SPELLCASTERS
+Blue dragon spellcasters tend to
+cast the following spells.
+YOUNG BLUE DRAGON
+Arcane Prepared Spells DC 28,
+attack +21; 4th dimension door,
+hallucinatory terrain; 3rd dream
+message, hypnotic pattern, paralyze;
+2nd dispel magic, invisibility, mirror
+image; 1st alarm, charm, unseen
+servant; Cantrips (4th) detect magic,
+message, read aura, shield, sigil
+ADULT BLUE DRAGON
+Arcane Prepared Spells DC 34,
+attack +27; As young blue dragon,
+plus 6th baleful polymorph, mislead;
+5th chromatic wall, false vision,
+illusory scene; 4th clairvoyance;
+Cantrips (6th) detect magic,
+message, read aura, shield, sigil
+ANCIENT BLUE DRAGON
+Arcane Prepared Spells DC 41,
+attack +35; As adult blue dragon,
+plus 8th disappearance, maze,
+mind blank; 7th paralyze, prismatic
+spray, spell turning; 6th feeblemind;
+Cantrips (8th) detect magic,
+message, read aura, shield, sigil
+Melee Ȱɵ claw +25 (agile, magical), Damage 2d10+13 slashing
+Melee Ȱɵ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+Melee Ȱɵ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing
+Arcane Innate Spells DC 30; 2nd darkness (at will)
+Breath Weapon ʚʖ (acid, arcane, evocation); The dragon breathes a spray of acid that
+deals 12d6 acid damage in an 80-foot line (DC 30 basic Reﬂex save). It can’t use Breath
+Weapon again for 1d4 rounds.
+Corrupt Water Ȱɵ (arcane, concentrate, necromancy); Frequency Once per day; Eﬀect
+The dragon permanently befouls 10 cubic feet of liquid within 90 feet. The liquid
+becomes undrinkable and unable to support water-breathing life. This destroys liquid
+magic or alchemical items if they’re of a lower level than the dragon (a creature can
+attempt a DC 28 Will save to protect liquids in its possession). This doesn’t aﬀect the
+liquids in a creature’s body.
+Draconic Frenzy ʚʖ As young black dragon.
+Draconic Momentum As young black dragon.
+
+================================================================================
+# ANCIENT BLACK DRAGON
+================================================================================
+
+Breath Weapon ʚʖ (acid, arcane, evocation); The dragon breathes a spray of acid that
+deals 12d6 acid damage in an 80-foot line (DC 30 basic Reﬂex save). It can’t use Breath
+Weapon again for 1d4 rounds.
+Corrupt Water Ȱɵ (arcane, concentrate, necromancy); Frequency Once per day; Eﬀect
+The dragon permanently befouls 10 cubic feet of liquid within 90 feet. The liquid
+becomes undrinkable and unable to support water-breathing life. This destroys liquid
+magic or alchemical items if they’re of a lower level than the dragon (a creature can
+attempt a DC 28 Will save to protect liquids in its possession). This doesn’t aﬀect the
+liquids in a creature’s body.
+Draconic Frenzy ʚʖ As young black dragon.
+Draconic Momentum As young black dragon.
+ANCIENT BLACK DRAGON
+CREATURE 16
+UNCOMMON
+CE
+HUGE
+ACID
+AMPHIBIOUS
+DRAGON
+Perception +30; darkvision, scent (imprecise) 60 feet
+Languages Common, Draconic, Goblin, Jotun, Orcish
+Skills Acrobatics +25, Arcana +26, Athletics +32, Deception +29, Intimidation +29,
+Stealth +27
+Str +8, Dex +5, Con +6, Int +4, Wis +5, Cha +5
+AC 39; Fort +30, Ref +27, Will +29; +1 status to all saves vs. magic
+HP 325; Immunities acid, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 35
+Tail Lash Ǻȓ As young black dragon.
+Speed 60 feet, ﬂy 150 feet, swim 60 feet
+Melee Ȱɵ jaws +33 (acid, magical, reach 15 feet), Damage 3d10+14 piercing plus 2d6 acid
+and 2d6 persistent acid
+Melee Ȱɵ claw +33 (agile, magical, reach 10 feet), Damage 3d8+14 slashing
+Melee Ȱɵ tail +31 (magical, reach 20 feet), Damage 3d10+12 bludgeoning
+Melee Ȱɵ horns +31 (magical, reach 15 feet), Damage 2d10+12 piercing
+Arcane Innate Spells DC 37; 2nd darkness (at will)
+Breath Weapon ʚʖ (acid, arcane, evocation); The dragon breathes a spray of acid that
+deals 17d6 acid damage in a 100-foot line (DC 39 basic Reﬂex save). It can’t use Breath
+Weapon again for 1d4 rounds.
+Corrupt Water Ȱɵ (arcane, concentrate, necromancy); As adult black dragon, but
+DC 35.
+Draconic Frenzy ʚʖ As young black dragon.
+Draconic Momentum As young black dragon.
+Blue Dragon
+Blue dragons are the sleek and poised cosmopolitans of the chromatic dragons.
+Their brand of evil is organized, manipulative, and regal. Blue dragons often
+lair near or within cities and set out to bend the population to their will and
+gather hordes of servants. These dragons love spinning webs of conspiracy. A blue
+dragon’s lackeys typically don’t even realize that they serve a dragon, but instead
+think the protection money, tariffs, or taxes they are amassing is treasure for a
+cruel but legitimate master. In some ways, blue dragons even see their servants as
+a living hoard and value them like treasure. These dragons have been known to
+use these tactics even with their own chromatic cousins.
+Not all blue dragons work clandestinely. Some lord over desert tribes and
+hill people like vengeful gods, demanding both tribute and worship. No matter
+how blue dragons manage their underlings, their bearing is regal and their lairs
+palatial; they’re universally intolerant of insubordination, incompetence, and
+embezzlement, and punish perpetrators with murderous efﬁciency.
+
+================================================================================
+PAGE 108
+================================================================================
+
+DEYRUBRUJAN
+Responsible for destroying three
+separate villages in Avistan after
+a lengthy raid to seek hidden
+information, this great wyrm blue
+dragon maintains a fortress lair in
+the desert nation of Thuvia. Called
+Hidden Nest, Deyrubrujan’s lair
+is a factory where Usij cultists
+manufacture all manner of
+potions, drugs, and poisons, while
+ultimately seeking a way to make
+a counterfeit Sun Orchid Elixir.
+Blue dragons are also known for their use and mastery of illusion magic. They
+make use of illusions to augment their manipulations and bewilder their foes in
+battle. Blue dragons also have some control over water, but use this ability to
+destroy water, something quite dangerous for those who encounter them in their
+desert lairs.
+The ideal lair for a blue dragon contains multiple passages, rooms, and
+secret chambers. As social creatures, blue dragons prefer to host guests in
+comfort—but their dwellings should not be so public that just anyone can
+come calling. A force of guards keeps out intruders, and clever illusions
+conceal the ediﬁce from prying eyes. Rather than a pile of coins or gems, a
+blue dragon’s true hoard is the rich furnishings in its citadel—
+expensive art, ornate furniture, and architectural marvels.
+
+================================================================================
+# ADULT BLUE DRAGON
+================================================================================
+
+39, attack +33; As adult green
+dragon, plus 8th mind blank,
+prismatic wall; 7th contingency,
+prismatic spray, spell turning; 6th
+feeblemind, teleport, true seeing;
+Cantrips (8th) dancing lights, detect
+magic, ghost sound, read aura, shield
+ADULT BLUE DRAGON
+CREATURE 13
+LE
+HUGE
+DRAGON
+ELECTRICITY
+Perception +24; darkvision, scent (imprecise) 60 feet
+Languages Auran, Common, Draconic, Jotun
+Skills Acrobatics +22, Arcana +25, Deception +26, Diplomacy +26, Intimidation +24,
+Society +23, Stealth +20, Survival +22
+Str +6, Dex +3, Con +4, Int +4, Wis +3, Cha +5
+Sound Imitation The dragon can mimic any sound it has heard. It must succeed at a
+Deception check with a +4 circumstance bonus to do so.
+AC 34; Fort +24, Ref +23, Will +23; +1 status to all saves vs. magic
+HP 260; Immunities electricity, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 32
+Wing Deﬂection Ǻȓ As young blue dragon.
+Speed 40 feet, burrow 20 feet, ﬂy 150 feet
+Melee Ȱɵ jaws +27 (electricity, magical, reach 15 feet), Damage 3d8+12 piercing plus 1d12
+electricity
+Melee Ȱɵ claw +27 (magical, agile, reach 10 feet), Damage 3d8+12 slashing
+Melee Ȱɵ tail +25 (magical, reach 20 feet), Damage 3d8+10 bludgeoning
+Melee Ȱɵ horns +25 (magical, reach 15 feet), Damage 2d8+10 piercing
+Arcane Innate Spells DC 33; 6th illusory creature, illusory object, ventriloquism (at will);
+1st create water (at will; see desert thirst); Cantrips (6th) ghost sound
+Breath Weapon ʚʖ (arcane, electricity, evocation); The dragon breathes lightning that
+deals 9d12 electricity damage in a 100-foot line (DC 33 basic Reﬂex save). It can’t use
+Breath Weapon again for 1d4 rounds.
+Desert Thirst (arcane, transmutation); As young blue dragon, but DC 32.
+Draconic Frenzy ʚʖ As young blue dragon.
+Draconic Momentum As young blue dragon.
+
+================================================================================
+# ANCIENT BLUE DRAGON
+================================================================================
+
+1st create water (at will; see desert thirst); Cantrips (6th) ghost sound
+Breath Weapon ʚʖ (arcane, electricity, evocation); The dragon breathes lightning that
+deals 9d12 electricity damage in a 100-foot line (DC 33 basic Reﬂex save). It can’t use
+Breath Weapon again for 1d4 rounds.
+Desert Thirst (arcane, transmutation); As young blue dragon, but DC 32.
+Draconic Frenzy ʚʖ As young blue dragon.
+Draconic Momentum As young blue dragon.
+ANCIENT BLUE DRAGON
+CREATURE 18
+UNCOMMON
+LE
+HUGE
+DRAGON
+ELECTRICITY
+Perception +31; darkvision, scent (imprecise) 60 feet
+Languages Auran, Common, Draconic, Jotun, Ignan, Infernal
+Skills Acrobatics +28, Arcana +33, Deception +35, Diplomacy +35, Intimidation +33,
+Society +35, Stealth +28, Survival +29
+Str +7, Dex +4, Con +6, Int +7, Wis +5, Cha +7
+Sound Imitation The dragon can mimic any sound it has heard. To do so, it must succeed
+at a Deception check with a +4 circumstance bonus.
+AC 42; Fort +32, Ref +30, Will +33; +1 status to all saves vs. magic
+HP 370; Immunities electricity, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 39
+Wing Deﬂection Ǻȓ As young blue dragon.
+Speed 50 feet, burrow 30 feet, ﬂy 200 feet
+Melee Ȱɵ jaws +35 (electricity, magical, reach 20 feet), Damage 3d10+15 piercing plus
+2d12 electricity
+Melee Ȱɵ claw +35 (agile, magical, reach 15 feet), Damage 3d10+15 slashing
+Melee Ȱɵ tail +33 (magical, reach 25 feet), Damage 3d10+13 bludgeoning
+Melee Ȱɵ horns +33 (magical, reach 20 feet), Damage 2d10+13 piercing
+Arcane Innate Spells DC 43; 8th hallucinatory terrain (at will), illusory creature (at will),
+illusory object (at will), ventriloquism (at will); 7th project image (see mirage); 1st create
+water (at will; see desert thirst); Cantrips (8th) ghost sound
+Breath Weapon (arcane, electricity, evocation); The dragon breathes lightning that
+deals 12d12 electricity damage in a 120-foot line (DC 40 basic Reﬂex save). It can’t
+use Breath Weapon again for 1d4 rounds.
+Each time the dragon uses Breath Weapon, a 20-foot-radius storm cloud appears
+80 feet above a point of the dragon’s choosing along the Breath Weapon’s path. Clouds
+last for 10 minutes and allow the dragon to use Storm Breath.
+Desert Thirst (arcane, transmutation); As young blue dragon, but DC 37.
+
+================================================================================
+PAGE 110
+================================================================================
+
+ATHERVOX
+As green dragons are
+contemplative and seek scholarly
+endeavors, Athervox is no
+diﬀerent. An astronomer by trade,
+this great wyrm green dragon
+maintains an observatory near
+Senara in the Whisper Woods of
+Cheliax. There, she struck a deal
+with House Thrune where she
+agreed to instruct a handful of
+apprentices. After a few years of
+instruction, these "apprentices"
+vanished one night, taking
+volumes of the dragon’s crucial
+notes—a slight she has not
+forgotten and plans to seek
+vengeance for.
+Draconic Frenzy ʚʖ As young blue dragon.
+Draconic Momentum As young blue dragon.
+Mirage Whenever the dragon uses Breath Weapon while the illusory image from its
+innate project image spell persists, it can cause the Breath Weapon to originate from
+itself or the image.
+Storm Breath Ȱɵ (arcane, concentrate, electricity, evocation); Frequency Once per round;
+Requirement A storm cloud created by Breath Weapon is within 500 feet, and the
+dragon can see the cloud. Eﬀect The dragon calls down a lightning bolt from a storm
+cloud created by its Breath Weapon. This creates a vertical line of lightning to the ground
+that deals 6d12 electricity damage to all enemies in its path (DC 40 basic Reﬂex save).
+Green Dragon
+Green dragons are the most contemplative of the chromatic dragons as well as
+the most approachable. The key to understanding green dragons is to understand
+their obsession with knowledge and self-discipline. Any careful approach that
+takes advantage of a green dragon’s ﬁxations may end in a diplomatic outcome,
+but any misstep or slight can provoke a savage attack. Like most chromatic
+dragons, green dragons do not suffer fools—and the threshold for what they
+consider foolish is very low.
+Though more open than their chromatic cousins to dealing with other creatures
+and dragons, green dragons prefer an isolated and quiet life. They tend to lair in the
+most forbidding parts of a forest, surrounded by tangled thickets, or else at the heart
+of some dismal gulch. If the terrain is suitable, some green dragons make their home
+in natural caves, which they expand to suit their needs.
+Green dragons’ pride leads them to see to the preservation of
+their forest homes. They feel that a verdant and lush forest is
+something that they alone have cultivated. This leads some
+green dragons to follow the path of druidism, though most
+prefer to study the arcane arts and occult lore. Most of
+them delve deeply into one particular ﬁeld of study, and
+correspond with other scholars in the ﬁeld by adopting
+a pen name that hides their true nature. Regardless
+of their chosen focus, green dragons seek to improve
+themselves, and their desire for knowledge makes
+them more likely to deal diplomatically with other
+creatures in order to obtain new information.
+Their hoards are typically well kept,
+organized, and ﬁlled with tomes of lore and
+scrolls of magic along with antiquities they
+collect for their own inscrutable reasons.
+Many of these treasures come from across
+the globe, and many an adventurer has
+survived an encounter with a green dragon
+by stroking its ego and plying it with rare
+artifacts or lost lore from ancient cultures.
+
+================================================================================
+# ADULT GREEN DRAGON
+================================================================================
+
+Breath Weapon ʚʖ (arcane, evocation, poison); The dragon breathes a toxic cloud that
+deals 9d6 poison damage in a 40-foot cone (DC 25 basic Fortitude save). It can’t use
+Breath Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one horn Strike in any order.
+Draconic Momentum The dragon recharges its Breath Weapon whenever it scores a
+critical hit with a Strike.
+Woodland Stride The green dragon ignores diﬃcult terrain and greater diﬃcult terrain
+from non-magical foliage.
+ADULT GREEN DRAGON
+CREATURE 12
+LE
+HUGE
+AMPHIBIOUS
+DRAGON
+Perception +22; darkvision, scent (imprecise) 60 feet
+Languages Common, Draconic, Elven, Sylvan
+Skills Acrobatics +19, Arcana +22, Athletics +24, Deception +19, Diplomacy +23,
+Intimidation +23, Nature +20, Occultism +24, Society +22, Stealth +21
+Str +6, Dex +3, Con +3, Int +4, Wis +4, Cha +5
+AC 34; Fort +20, Ref +22, Will +23; +1 status to all saves vs. magic
+HP 215; Immunities paralyzed, poison, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 31
+Twisting Tail Ǻȓ As young green dragon.
+Speed 40 feet, ﬂy 160 feet, swim 40 feet; trackless step, woodland stride
+Melee Ȱɵ jaws +26 (magical, poison, reach 15 feet), Damage 3d10+12 piercing plus 3d4 poison
+Melee Ȱɵ claw +26 (agile, magical, reach 10 feet), Damage 3d8+12 slashing
+Melee Ȱɵ tail +24 (magical, reach 20 feet), Damage 3d8+10 bludgeoning
+Melee Ȱɵ horn +24 (magical, reach 15 feet), Damage 2d8+10 piercing
+Arcane Innate Spells DC 32; 4th suggestion; 2nd entangle (×2); At Will charm
+Breath Weapon ʚʖ (arcane, evocation, poison) The dragon breathes a toxic cloud that
+deals 13d6 poison damage in a 50-foot cone (DC 31 basic Fortitude save). It can’t use
+Breath Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ As young green dragon.
+Draconic Momentum As young green dragon.
+Trackless Step The green dragon always gains the beneﬁts of Cover Tracks in natural
+surroundings, even while moving at full speed.
+Woodland Stride As young green dragon.
+
+================================================================================
+# ANCIENT GREEN DRAGON
+================================================================================
+
+Breath Weapon ʚʖ (arcane, evocation, poison) The dragon breathes a toxic cloud that
+deals 13d6 poison damage in a 50-foot cone (DC 31 basic Fortitude save). It can’t use
+Breath Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ As young green dragon.
+Draconic Momentum As young green dragon.
+Trackless Step The green dragon always gains the beneﬁts of Cover Tracks in natural
+surroundings, even while moving at full speed.
+Woodland Stride As young green dragon.
+ANCIENT GREEN DRAGON
+CREATURE 17
+UNCOMMON
+LE
+GARGANTUAN
+AMPHIBIOUS
+DRAGON
+Perception +30; darkvision, scent (imprecise) 60 feet
+Languages Abyssal, Common, Draconic, Elven, Jotun, Sylvan
+Skills Acrobatics +25, Arcana +32, Athletics +30, Deception +27, Diplomacy +31,
+Intimidation +31, Nature +28, Occultism +34, Society +31, Stealth +29 (camouﬂage)
+Str +7, Dex +4, Con +5, Int +6, Wis +5, Cha +6
+Camouﬂage The dragon can Hide in natural environments even if it doesn’t have cover.
+AC 41; Fort +30, Ref +29, Will +32; +1 status to all saves vs. magic
+HP 315; Immunities paralyzed, poison, sleep
+
+================================================================================
+PAGE 112
+================================================================================
+
+DARALATHXYL
+Known as the Sixth King of the Five
+Kings Mountains, this red dragon
+has lived in Droskar’s Crag for over
+two millennia. Thankfully, this
+powerful dragon slumbers for long
+periods, but like a restless volcano,
+he is due for a rampage.
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 37
+Miasma (aura, poison); 20 feet. After the dragon uses its Breath Weapon, a cloud of
+poison gas continues to emanate from its body for 1 round. Any creature that ends
+its turn in the miasma takes 4d6 poison damage (DC 37 basic Fortitude save). Any
+creature in the miasma is concealed and treats other creatures as concealed. The
+dragon can see through this concealment.
+Twisting Tail Ǻȓ As young green dragon.
+Speed 50 feet, ﬂy 200 feet, swim 50 feet; trackless step, woodland stride
+Melee Ȱɵ jaws +33 (magical, poison, reach 20 feet), Damage 3d12+15 piercing plus 4d4 poison
+Melee Ȱɵ claw +33 (agile, magical, reach 15 feet), Damage 3d10+15 slashing
+Melee Ȱɵ tail +31 (magical, reach 25 feet), Damage 3d10+13 bludgeoning
+Melee Ȱɵ horn +31 (magical, reach 20 feet), Damage 2d10+13 piercing
+Arcane Innate Spells DC 39; 6th dominate; 4th charm (at will), suggestion; 2nd
+entangle (at will)
+Breath Weapon ʚʖ (arcane, evocation, poison); The dragon breathes a toxic
+cloud that deals 18d6 poison damage in a 60-foot cone (DC 37 basic
+Fortitude save). The Breath Weapon also creates a miasma. The dragon
+can’t use Breath Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ As young green dragon.
+Draconic Momentum As young green dragon.
+Trackless Step As adult green dragon.
+Woodland Stride As young green dragon.
+Red Dragon
+The largest and most powerful of the chromatic dragons,
+red dragons are a menace to civilizations everywhere, and
+their strength is rivaled only by their arrogance. Red dragons
+see themselves as regents and overlords of all dragonkind.
+With their crowns of crimson spikes and their command of
+blistering ﬂame, this is no haughty boast in their eyes—only
+unquestioned fact.
+Red dragons don’t deign to speak with lesser creatures; they
+simply dominate and burn, enslaving weaker creatures to act as
+servants and to look after their lairs while the dragons slumber
+away. They take pleasure in dominating these creatures, and
+they demand tribute from their supplicants. Those who anger or
+disappoint end up eaten or reduced to ash. They command their
+enslaved minions to constantly build onto their lairs, carving
+out new tunnels and designing cunning traps that ensure the
+dragon’s security.
+Driven by their arrogance, red dragons are the most
+likely of the chromatic dragons to ravage settlements.
+They want the world to see them in their rightful
+place as powerful tyrants, and they delight in
+threatening all other creatures. They have no
+qualms about bullying, manipulating, or killing
+to complete their goals—or simply intimidating
+others through a public display of brutality
+and dominance.
+As legendary as the brutishness of red dragons is the magniﬁcence
+of their hoards of gold. Their lairs are often situated in dangerous
+places, with volcanoes being a favorite spot, as they ﬁnd them
+foreboding and the constant warmth is comfortable. No
+matter the locale, red dragons sleep on a litter of coins and
+other treasures, which they zealously guard. Sometimes,
+the dragon’s internal heat causes these precious metals
+to fuse together.
+
+================================================================================
+PAGE 113
+================================================================================
+
+Bestiary
+RED DRAGON
+SPELLCASTERS
+Red dragon spellcasters tend to
+cast the following spells.
+YOUNG RED DRAGON
+Arcane Prepared Spells DC 29,
+attack +23; 4th crushing despair,
+invisibility, stoneskin; 3rd
+grease, haste, mind reading; 2nd
+comprehend language, resist
+energy, see invisibility; 1st charm,
+ray of enfeeblement, true strike;
+Cantrips (4th) chill touch, daze,
+mage hand, message, sigil
+ADULT RED DRAGON
+Arcane Prepared Spells DC 35,
+attack +29; As young red dragon,
+plus 6th dispel magic, teleport,
+wall of force; 5th cloak of colors,
+command, tongues; Cantrips (6th)
+chill touch, daze, mage hand,
+message, sigil
+ANCIENT RED DRAGON
+Arcane Prepared Spells DC 42,
+attack +36; As adult red dragon,
+plus 9th ﬁery body, prismatic
+sphere; 8rd discern location, mind
+blank, prismatic wall; 7th prismatic
+spray, resist energy, reverse
+gravity; Cantrips (9th) chill touch,
+daze, mage hand, message, sigil
+
+================================================================================
+# ADULT RED DRAGON
+================================================================================
+
+Breath Weapon ʚʖ (arcane, evocation, ﬁre) The dragon breathes a blast of ﬂame that
+deals 11d6 ﬁre damage in a 40-foot cone (DC 30 basic Reﬂex save). It can’t use Breath
+Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one wing Strike in any order.
+Draconic Momentum The dragon recharges its Breath Weapon whenever it scores a
+critical hit with a Strike.
+ADULT RED DRAGON
+CREATURE 14
+CE
+HUGE
+DRAGON
+FIRE
+Perception +26; darkvision, scent (imprecise) 60 feet, smoke vision
+Languages Common, Draconic, Dwarven, Orcish
+Skills Acrobatics +23, Arcana +25, Athletics +29, Deception +25, Diplomacy +25,
+Intimidation +27, Stealth +23
+Str +7, Dex +3, Con +6, Int +3, Wis +4, Cha +5
+Smoke Vision As young red dragon.
+AC 37; Fort +28, Ref +25, Will +26; +1 status to all saves vs. magic
+HP 305; Immunities ﬁre, paralyzed, sleep; Weaknesses cold 15
+Dragon Heat (arcane, aura, evocation, ﬁre); 5 feet, 3d6 ﬁre damage (DC 30 basic Reﬂex)
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 33
+Attack of Opportunity Ǻȓ Jaws only.
+Speed 50 feet, ﬂy 150 feet
+Melee Ȱɵ jaws +29 (ﬁre, magical, reach 15 feet), Damage 3d12+15 piercing plus 2d6 ﬁre
+Melee Ȱɵ claw +29 (agile, magical, reach 10 feet), Damage 3d10+15 slashing
+Melee Ȱɵ tail +27 (magical, reach 20 feet), Damage 3d12+13 slashing
+Melee Ȱɵ wing +27 (agile, magical, reach 15 feet), Damage 2d10+13 slashing
+Arcane Innate Spells DC 35; 4th suggestion; Cantrips (6th) detect magic, read aura
+Breath Weapon ʚʖ (arcane, evocation, ﬁre); The dragon breathes a blast of ﬂame that
+deals 15d6 ﬁre damage in a 50-foot cone (DC 36 basic Reﬂex save). It can’t use Breath
+Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ As young red dragon.
+Draconic Momentum As young red dragon.
+
+================================================================================
+# ANCIENT RED DRAGON
+================================================================================
+
+Breath Weapon ʚʖ (arcane, evocation, ﬁre); The dragon breathes a blast of ﬂame that
+deals 15d6 ﬁre damage in a 50-foot cone (DC 36 basic Reﬂex save). It can’t use Breath
+Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ As young red dragon.
+Draconic Momentum As young red dragon.
+ANCIENT RED DRAGON
+CREATURE 19
+UNCOMMON
+CE
+HUGE
+DRAGON
+FIRE
+Perception +35; darkvision, scent (imprecise) 60 feet, smoke vision
+Languages Abyssal, Common, Draconic, Dwarven, Jotun, Orcish
+Skills Acrobatics +30, Arcana +35, Athletics +37, Deception +35, Diplomacy +35,
+Intimidation +37, Stealth +33
+
+================================================================================
+PAGE 114
+================================================================================
+
+DAHAK
+Dahak, the Endless Destruction, is
+an ancient dragon god spawned by
+the righteous Apsu. Dahak is the
+god of destruction, evil dragons,
+and greed. After his birth, Dahak
+made his way to Hell where he
+roamed for ages before returning
+to the Material Plane to ﬁght
+against his father and siblings,
+reveling in destruction and
+pledging to destroy the world.
+Str +9, Dex +5, Con +8, Int +5, Wis +6, Cha +7
+Smoke Vision As young red dragon.
+AC 45; Fort +35, Ref +32, Will +35; +1 status to all saves vs. magic
+HP 425; Immunities ﬁre, paralyzed, sleep; Weaknesses cold 20
+Dragon Heat (arcane, aura, evocation, ﬁre); 10 feet, 4d6 ﬁre damage (DC 39 basic Reﬂex)
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 40
+Attack of Opportunity Ǻȓ Jaws only.
+Redirect Fire Ǻȓ (abjuration, arcane); Trigger A creature within 100 feet casts a ﬁre spell,
+or a ﬁre spell otherwise comes into eﬀect from a source within 100 feet. Eﬀect The
+dragon makes all the choices to determine the targets, destination, or other eﬀects of
+the spell, as though it were the caster.
+Speed 60 feet, ﬂy 180 feet
+Melee Ȱɵ jaws +37 (ﬁre, magical, reach 20 feet), Damage 4d10+17 piercing plus 3d6 ﬁre
+Melee Ȱɵ claw +37 (agile, magical, reach 15 feet), Damage 4d8+17 slashing
+Melee Ȱɵ tail +35 (magical, reach 25 feet), Damage 4d10+15 slashing
+Melee Ȱɵ wing +35 (agile, magical, reach 20 feet), Damage 3d8+15 slashing
+Arcane Innate Spells DC 42; 8th, wall of ﬁre (at will); 4th suggestion (at will);
+Cantrips (9th) detect magic, read aura
+Breath Weapon ʚʖ (arcane, evocation, ﬁre) The dragon breathes a blast of ﬂame that
+deals 20d6 ﬁre damage in a 60-foot cone (DC 42 basic Reﬂex save). It can’t use Breath
+Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ As young red dragon.
+Draconic Momentum As young red dragon.
+Manipulate Flames Ȱɵ (arcane, concentrate, transmutation); The red dragon attempts
+to take control of a magical ﬁre or a ﬁre spell within 100 feet. If it succeeds at a
+counteract check (counteract level 10, counteract modiﬁer +32), the original caster
+loses control of the spell or magic ﬁre, control is transferred to the dragon, and the
+dragon counts as having Sustained the Spell with this action (if applicable). The dragon
+can choose to end the spell instead of taking control, if it chooses.
+White Dragon
+The most feral and least intelligent of all the chromatic dragons, white dragons
+are brutish, predatory, and chieﬂy motivated by self-preservation. Nearly all
+other dragons look down on white dragons as hopelessly hotheaded and dull,
+though this does not make them any less dangerous—in fact, it may mean
+the opposite. It’s nearly impossible to treat with white dragons, not because
+they lack the capacity to do so, but because they just don’t care to. They are
+as difﬁcult to deal with as they are quick to anger, and they become incensed
+at almost anything. When a white dragon does speak, it spews threats, inane
+jokes, and incoherent babbling as a prelude to attacking—and when the attack
+comes, it’s bloody and relentless.
+Thankfully, white dragons prefer very cold, remote locations that are far from
+people. Dwelling on glacial mountaintops or in ice caverns beneath forbidding
+tundra, they treat the lands around them as their own personal hunting grounds.
+They ﬂy out to feed or terrorize other creatures, especially those who trespass
+near the dragon’s territory, then bring any treasure back to be displayed in icy
+niches in their lairs. They collect all kinds of valuables, with a slight preference
+for items with high utility—such as tools, trade goods, and ﬁne food—over coins
+or jewels. The ability to shape ice lets white dragons rearrange their lairs exactly
+to their speciﬁcations, and they take great pride in how they’ve decorated their
+homes over the years.
+
+================================================================================
+# ADULT WHITE DRAGON
+================================================================================
+
+Breath Weapon ʚʖ (arcane, cold, evocation) The dragon breathes a cloud of frost that
+deals 7d6 cold damage in a 30-foot cone (DC 24 basic Reﬂex save). It can’t use Breath
+Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one tail Strike in any order.
+Draconic Momentum When the dragon scores a critical hit with a Strike, it recharges its
+Breath Weapon.
+Ice Climb A white dragon can climb on ice as though it had the listed climb Speed. It
+ignores diﬃcult terrain and greater diﬃcult terrain from ice and snow and doesn’t risk
+falling when crossing ice.
+Ground Slam Ȱɵ The dragon slams into the ground. It can do this if it’s on the ground or
+Flying within 10 feet of the ground. Each creature on the ground within 10 feet must
+succeed at a DC 24 Reﬂex save or fall prone and take 2d6 bludgeoning damage. The
+dragon can then Step.
+Shape Ice ʚʖ (arcane, transmutation, water) The dragon reshapes a cube of ice or snow
+it touches, up to 10 feet across. Any creature standing atop the ice must succeed at a
+DC 15 Reﬂex save or Acrobatics check. On a failure, the creature falls prone atop the
+ice; on a critical failure, it falls oﬀ the ice entirely and is also prone.
+ADULT WHITE DRAGON
+CREATURE 10
+CE
+LARGE
+COLD
+DRAGON
+Perception +20; darkvision, scent (imprecise) 60 feet, snow vision
+Languages Common, Draconic
+Skills Acrobatics +16, Arcana +15, Athletics +23, Intimidation +19, Stealth +18
+Str +7, Dex +2, Con +5, Int +1, Wis +2, Cha +1
+Snow Vision As young white dragon.
+AC 29; Fort +22, Ref +19, Will +17; +1 status to all saves vs. magic
+HP 215; Immunities cold, paralyzed, sleep; Weaknesses ﬁre 10
+Dragon Chill (arcane, aura, cold, evocation); 5 feet, 2d6 cold damage (DC 27 basic Reﬂex)
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 27
+Freezing Blood Ǻȓ (arcane, cold); As young white dragon, but 2d6 cold damage.
+Speed 30 feet, ﬂy 120 feet; ice climb 30 feet
+Melee Ȱɵ jaws +23 (cold, magical, reach 10 feet), Damage 2d10+13 piercing plus 2d6 cold
+Melee Ȱɵ claw +23 (agile, magical), Damage 2d8+13 slashing
+Melee Ȱɵ tail +22 (magical, reach 15 feet), Damage 2d6+11 bludgeoning
+Arcane Innate Spells DC 27; 2nd obscuring mist (at will); 1st gust of wind (at will)
+Breath Weapon ʚʖ (arcane, cold, evocation); The dragon breathes a cloud of frost that
+deals 11d6 cold damage in a 40-foot cone (DC 29 basic Reﬂex save). It can’t use Breath
+Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ As young white dragon.
+Draconic Momentum As young white dragon.
+Ground Slam Ȱɵ As young white dragon, but DC 29 and 3d6 bludgeoning damage.
+Ice Climb As young white dragon.
+Shape Ice ʚʖ (arcane, transmutation, water) As young white dragon.
+
+================================================================================
+PAGE 116
+================================================================================
+
+LOGRIVICH
+When Queen Elvanna still ruled
+Irrisen, she appointed the young
+white dragon, Logrivich, to the
+Winter Guard, the force that
+maintains order in the nation’s
+capital of Whitethrone. He resided
+in a clock tower, though he hasn’t
+been seen in a few years, leading
+some to think that he either moved
+away or was killed by adventurers
+during the city’s recent troubles.
+
+================================================================================
+# ANCIENT WHITE DRAGON
+================================================================================
+
+
+LOGRIVICH
+When Queen Elvanna still ruled
+Irrisen, she appointed the young
+white dragon, Logrivich, to the
+Winter Guard, the force that
+maintains order in the nation’s
+capital of Whitethrone. He resided
+in a clock tower, though he hasn’t
+been seen in a few years, leading
+some to think that he either moved
+away or was killed by adventurers
+during the city’s recent troubles.
+ANCIENT WHITE DRAGON
+CREATURE 15
+UNCOMMON
+CE
+HUGE
+COLD
+DRAGON
+Perception +30; darkvision, scent (imprecise) 60 feet, snow vision
+Languages Common, Draconic, Jotun
+Skills Acrobatics +24, Arcana +23, Athletics +31, Intimidation +28, Stealth +26
+Str +8, Dex +3, Con +7, Int +2, Wis +3, Cha +3
+Snow Vision As young white dragon.
+AC 36; Fort +30, Ref +26, Will +24, +1 status to all saves vs. magic
+HP 330; Immunities cold, paralyzed, sleep; Weaknesses ﬁre 15
+Blizzard (arcane, aura, cold); 50 feet. After the dragon uses its Breath Weapon, a ﬁerce
+blizzard of blinding snow surrounds its body for 1 round. Everything in the aura is
+diﬃcult terrain for other creatures that are on the ground, climbing, or ﬂying. The
+blowing snow also makes all creatures
+in the area concealed. While the blizzard
+rages, the dragon’s dragon chill extends to
+the full area of the blizzard.
+Dragon Chill
+(arcane,
+aura,
+cold,
+evocation); 10 feet, 3d6 cold damage
+(DC 34 basic Reﬂex)
+Frightful Presence (aura, emotion, fear,
+mental) 90 feet, DC 34
+Freezing Blood Ǻȓ (arcane, cold); As young
+white dragon, but 3d6 cold damage.
+Speed 40 feet, ﬂy 160 feet; ice climb 40 feet
+Melee Ȱɵ jaws +31 (cold, magical, reach
+15 feet), Damage 3d12+16 piercing plus
+3d6 cold
+Melee Ȱɵ claw +31 (agile, magical, reach 10
+feet), Damage 3d10+16 slashing
+Melee Ȱɵ tail +29 (magical,
+reach 20 feet), Damage
+2d10+14 bludgeoning
+Arcane
+Innate
+Spells
+DC 36; 6th wall of ice
+(at will); 2nd obscuring mist
+(at will); 1st gust of wind
+(at will)
+Breath Weapon ʚʖ (arcane,
+cold,
+evocation)
+The
+dragon breathes a cloud of
+frost that deals 16d6 cold
+damage in a 50-foot cone
+(DC 36 basic Reﬂex save).
+It can’t use Breath Weapon
+again for 1d4 rounds.
+Draconic Frenzy ʚʖ As young
+white dragon.
+Draconic Momentum As young
+white dragon.
+Ground Slam Ȱɵ As young white
+dragon, but DC 37 and 5d6
+bludgeoning damage.
+Ice Climb As young white
+dragon.
+Shape
+Ice
+ʚʖ
+(arcane,
+transmutation, water) As
+young white dragon.
+
+================================================================================
+PAGE 117
+================================================================================
+
+Bestiary
+Dragon, Metallic
+Paragons of virtue, nobility, and grace, metallic dragons are benevolent entities
+revered as mythic beings akin to gods in both their power and majesty. Few have
+ever seen a metallic dragon ﬁrsthand, but tales of their intervention in mortals’
+lives—and of their passing—always spread far and wide. Named for the way
+their scales resemble the shining metals humanoids use in commerce, warfare,
+and industry, these immense beings are diverse in their interests and abilities, and
+they don’t seem to mind being associated with such mundane materials. After all,
+to compare a gold dragon to a gold coin is like comparing an ocean to a glass of
+water—though they may seem similar at ﬁrst glance, the raw power, breadth, and
+grandeur of one simply overwhelms the other.
+In addition to metallic dragons and their chromatic counterparts
+(page 104–115), other types of dragons roam the world and the rest of the
+multiverse. In the legendary lands of Tian Xia on the other side of the globe
+are the imperial dragons, serpentine beings who protect the cosmic balance and
+defend their ancient homeland. Outside the Material Plane, primal dragons such
+as the domineering brine dragon and reclusive cloud dragon shape the nature
+and goings-on of the Elemental Planes. Countless other types of dragons are sure
+to exist, including dragons on far-ﬂung planes of existence and, it is rumored,
+primeval dragons who soar between the stars.
+Shape-Changing Dragons
+Some dragons can take humanoid form, allowing them to inﬁltrate settlements or
+inﬂuence others without revealing their true nature. They gain the following ability:
+Change Shape Ȱɵ (arcane, concentrate, polymorph, transmutation); The dragon takes on
+the appearance of any Small or Medium humanoid. This doesn’t change its Speed or
+attack and damage modiﬁers with its Strikes, but might change the damage type its
+Strikes deal (typically to bludgeoning).
+Metallic Dragon Spellcasters
+Each type of metallic dragon features a sidebar on spellcasting dragons of that
+kind. To make a metallic dragon spellcaster, remove the dragon’s Draconic
+Frenzy and Draconic Momentum abilities, and give it the spells outlined in
+its sidebar. You can swap out any number of these with other arcane spells,
+provided you keep the same number of spells for each level. You might also
+want to increase the dragon’s Intelligence, Wisdom, or Charisma modiﬁer by 1
+or 2 to reﬂect its mastery of magic.
+Metallic Dragons on Golarion
+Metallic dragons are found throughout the Inner Sea region, especially in pockets
+of wilderness where they can carve a hideout and then take action on political
+and social issues, both in their local area and on a wider scale. Their everlasting
+war with chromatic dragons keeps them in close proximity to their evil brethren;
+in regions where metallic and chromatic dragons’ territories intersect, humanoid
+settlements get caught in the crossﬁre, and villagers and city-dwellers alike
+rightfully fear for their own safety.
+Silver dragons lair in abundance around the cold wastes west of Mendev, as a
+consequence of the days when they joined thousands of crusaders who marched
+headlong into the demon-infested Worldwound. Bronze dragons are abundant
+in Taldor, and many copper dragons lair in the wilds of Andoran, where they
+wage war alongside other freedom ﬁghters to overthrow devils in the neighboring
+empire of Cheliax. Perhaps the most extreme example of a metallic dragon taking
+part in human affairs is on the island nation of Hermea, where Mengkare—an
+ancient gold wyrm—has begun a grand social experiment he calls “the Glorious
+Endeavor.” Ostensibly intended to create a future utopia on Golarion, this highly
+controversial experiment is instead regarded by many as a cruel and unusual form
+of eugenics.
+BRASS DRAGON
+SPELLCASTERS
+Brass dragon spellcasters tend to
+cast the following spells.
+YOUNG BRASS DRAGON
+Arcane Prepared Spells DC 25,
+attack +18; 3rd earthbind, paralyze;
+2nd humanoid form, mirror image,
+resist energy; 1st alarm, sleep,
+ventriloquism; Cantrips (3rd)
+dancing lights, detect magic, mage
+hand, prestidigitation, read aura
+ADULT BRASS DRAGON
+Arcane Prepared Spells DC 30,
+attack +24; As young brass
+dragon, plus 5th hallucination,
+tongues; 4th confusion,
+dimensional anchor, dimension
+door; 3rd locate; Cantrips (5th)
+dancing lights, detect magic, mage
+hand, prestidigitation, read aura
+ANCIENT BRASS DRAGON
+Arcane Prepared Spells DC 37,
+attack +32; As adult brass dragon,
+plus 7th power word blind, project
+image, reverse gravity; 6th
+dominate, teleport, true seeing; 5th
+mind probe; Cantrips (7th) dancing
+lights, detect magic, mage hand,
+prestidigitation, read aura
+
+================================================================================
+PAGE 118
+================================================================================
+
+Brass Dragon
+Brass dragons are whimsical tricksters who delight in humor and play. They
+particularly enjoy conversations with humans and other civilized humanoids,
+delighting in the naive customs of these diminutive races without showing them
+haughtiness or scorn. While they may seem merely curious, brass dragons engage
+in this sort of conversation with the goal of keeping up to date on regional politics
+so they can anticipate future conﬂicts. Along the way, they create extensive
+information networks that begin with their own allies but stretch across all
+levels of humanoid society—networks which the brass dragon then uses to subtly
+assist settlements near their lair. Unlike the schemes and manipulations of blue
+dragons, brass dragons use their informant networks to establish justice
+and equality.
+These carefree dragons value independence and feel that all
+creatures deserve to live as they please, provided they don’t harm
+others. They are emotional creatures and tend to have short
+attention spans, sometimes falling victim to depression in their
+twilight years. To combat this, some brass dragons keep pets
+and houseplants that they can care for.
+Though they may seem childlike in their curiosity
+concerning mortal affairs, a brass dragon’s prowess in
+battle is no laughing matter. A brass dragon whose
+territory or allies are threatened is a terrifying foe
+indeed, quick to shed their innocent guise and
+unleash their terrifying might upon evildoers.
+Most brass dragons live in desert climates, and
+while they keep their lairs hidden, they often
+build near humanoid settlements.
+
+================================================================================
+# ADULT BRASS DRAGON
+================================================================================
+
+
+Bestiary
+line that deals 8d6 ﬁre damage (DC 26 basic Reﬂex save). The dragon can’t use Breath
+Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one jaws Strike in any order.
+Draconic Momentum When the dragon scores a critical hit with a Strike, it recharges
+Breath Weapon.
+ADULT BRASS DRAGON
+CREATURE 11
+CG
+LARGE
+DRAGON
+FIRE
+Perception +21; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 30 feet
+Languages Auran, Common, Draconic, Gnome, Halﬂing, Sylvan; speak with animals
+Skills Acrobatics +20, Athletics +23, Deception +20, Diplomacy +20, Society +19
+Str +6, Dex +3, Con +5, Int +2, Wis +4, Cha +3
+AC 31, Fort +22, Ref +20, Will +21; +1 status to all saves vs. magic
+HP 215; Immunities ﬁre, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 28
+Wing Deﬂection Ǻȓ As young brass dragon.
+Speed 50 feet, burrow 30 feet, ﬂy 120 feet
+Melee Ȱɵ jaws +24 (ﬁre, magical, reach 10 feet), Damage 2d10+12 piercing plus 2d6 ﬁre
+Melee Ȱɵ claw +24 (agile, magical), Damage 2d10+12 slashing
+Melee Ȱɵ wing +22 (magical, reach 10 feet), Damage 1d12+10 slashing
+Arcane Innate Spells DC 30; Constant (2nd) speak with animals
+Breath Weapon ʚʖ (arcane, evocation, ﬁre); The brass dragon breathes ﬁre in an 80-foot
+line that deals 12d6 ﬁre damage (DC 32 basic Reﬂex save). The dragon can’t use Breath
+Weapon again for 1d4 rounds.
+Desert Wind ʚʖ (air, arcane, concentrate, evocation) Frequency three times per day.
+Eﬀect The dragon calls upon the desert wind. This has the same eﬀect as gust of wind
+(DC 30 Fortitude) but in a 60-foot cone. A creature that fails its save is also blinded
+until the end of its next turn (or for 1 minute on a critical failure).
+Draconic Frenzy ʚʖ As young brass dragon.
+Draconic Momentum As young brass dragon.
+
+================================================================================
+# ANCIENT BRASS DRAGON
+================================================================================
+
+Breath Weapon ʚʖ (arcane, evocation, ﬁre); The brass dragon breathes ﬁre in an 80-foot
+line that deals 12d6 ﬁre damage (DC 32 basic Reﬂex save). The dragon can’t use Breath
+Weapon again for 1d4 rounds.
+Desert Wind ʚʖ (air, arcane, concentrate, evocation) Frequency three times per day.
+Eﬀect The dragon calls upon the desert wind. This has the same eﬀect as gust of wind
+(DC 30 Fortitude) but in a 60-foot cone. A creature that fails its save is also blinded
+until the end of its next turn (or for 1 minute on a critical failure).
+Draconic Frenzy ʚʖ As young brass dragon.
+Draconic Momentum As young brass dragon.
+ANCIENT BRASS DRAGON
+CREATURE 16
+UNCOMMON
+CG
+HUGE
+DRAGON
+FIRE
+Perception +30; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 60 feet
+Languages Auran, Common, Draconic, Gnome, Halﬂing, Sphinx, Sylvan; speak with animals
+Skills Acrobatics +27, Athletics +31, Deception +27, Diplomacy +29, Society +28
+Str +7, Dex +5, Con +6, Int +4, Wis +4, Cha +5
+AC 39; Fort +30, Ref +29, Will +30; +1 status to all saves vs. magic
+HP 325; Immunities ﬁre, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 35
+Wing Deﬂection Ǻȓ As young brass dragon.
+Speed 50 feet, burrow 40 feet, ﬂy 150 feet
+Melee Ȱɵ jaws +32 (ﬁre, magical, reach 15 feet), Damage 3d10+15 piercing plus 3d6 ﬁre
+and 2d6 persistent ﬁre
+Melee Ȱɵ claw +32 (agile, magical, reach 10 feet), Damage 3d10+15 slashing
+Melee Ȱɵ wing + 30 (magical, reach 15 feet), Damage 2d12+13 slashing
+Arcane Innate Spells DC 37; Constant (2nd) speak with animals
+Breath Weapon ʚʖ The brass dragon breathes in one of two ways. The dragon can’t use
+Breath Weapon again for 1d4 rounds.
+• Flame (arcane, evocation, ﬁre) The dragon breathes ﬁre in a 100-foot line that
+deals 16d6 ﬁre damage (DC 39 basic Reﬂex save).
+• Sleep Gas (arcane, enchantment, incapacitation, sleep); The dragon breathes an
+80-foot cone of sleep gas. Each creature within the cone must succeed at a DC 39
+Fortitude save or fall unconscious for 1d6 rounds, or 1 minute on a critical failure.
+Desert Wind ʚʖ (air, arcane, concentrate, evocation) As adult brass dragon, but DC 37.
+Draconic Frenzy ʚʖ As young brass dragon.
+Draconic Momentum As young brass dragon.
+OTHER DRACONIC
+CREATURES
+The creatures that appear in
+this section are considered true
+dragons, but a multitude of other
+draconic creatures populate
+Golarion and beyond. Among
+these are the powerful and deadly
+linnorms (pages 224–227), a
+wide range of drakes (pages
+130–135), whimsical faerie dragons
+(page 157) and pseudodragons, the
+cruel and deceitful azis, and the
+sinister undead raveners.
+
+================================================================================
+PAGE 120
+================================================================================
+
+Bronze Dragon
+Bronze dragons are among the most common of metallic dragons and the most
+likely to ally with mortals on worthy quests. However, they are naturally scholarly
+creatures who would rather remain in their lairs studying esoteric lore than go off
+on a wild adventure. These aloof and stoic dragons also act as preservationists,
+guarding storehouses of ancient lore from destruction or perversion. Bronze
+dragons are principled and protective, but while their silver cousins are quick to
+crusade for justice, bronze dragons prefer to ﬁnd an important location worthy of
+their protection and guard it against any attack or unwelcome intrusion.
+Bronze dragons’ mastery over water and afﬁnity for electricity means they are
+a boon to sailors caught in thunderstorms. A bronze dragon’s enemies quickly
+discover neither cloudy sky nor turbulent sea provides shelter from their wrath.
+Bronze dragons lair along shorelines, often in partially submerged sea caves.
+While all dragons keep hoards of treasure, the hoard of a bronze dragon more
+resembles a vast library—with the shelves kept carefully above the waterline,
+of course. In addition to their collections of esoteric lore, bronze dragons
+keep treasures associated with the sea, such as beautiful scrimshaw, ﬂawless
+pearls, and equipment inlaid with mother-of-pearl and abalone shell.
+
+================================================================================
+# ADULT BRONZE DRAGON
+================================================================================
+
+
+Bestiary
+For up to 30 minutes per day, the dragon, along with allied creatures and vessels
+within 50 feet, can move at double their normal Speed in water.
+ADULT BRONZE DRAGON
+CREATURE 13
+LG
+HUGE
+AMPHIBIOUS
+DRAGON
+WATER
+Perception +23; darkvision, scent (imprecise) 60 feet
+Languages Aquan, Common, Draconic, Dwarven, Elven, Gnomish; speak with animals
+Skills Acrobatics +22, Arcana +28, Athletics +24, Diplomacy +23, Intimidation +23,
+Occultism +24, Stealth +22
+Str +7, Dex +3, Con +4, Int +5, Wis +4, Cha +4
+AC 34; Fort +24, Ref +23, Will +26; +1 status to all saves vs. magic
+HP 260; Immunities electricity, paralyzed, sleep
+Electricity Aura (aura, electricity) 10 feet, 1d12 electricity damage. The bronze dragon
+can turn this aura on or oﬀ using a single action, which has the concentrate trait,
+and it can choose to not aﬀect allies with the aura.
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 31
+Attack of Opportunity Ǻȓ Jaws only.
+Speed 40 feet, ﬂy 140 feet, swim 50 feet
+Melee Ȱɵ jaws +28 (electricity, magical, reach 15 feet), Damage 2d12+15 piercing plus
+1d12 electricity
+Melee Ȱɵ claw +28 (agile, magical, reach 10 feet), Damage 2d10+15 slashing
+Melee Ȱɵ tail +26 (magical, reach 15 feet), Damage 1d10+13 bludgeoning
+Arcane Innate Spells DC 33; 2nd obscuring mist (at will); Constant (2nd) speak with animals
+Breath Weapon ʚʖ As young bronze dragon, but an 80-foot line, DC 33, and the dragon’s
+lightning deals 8d12 electricity damage.
+Draconic Frenzy ʚʖ As young bronze dragon.
+Draconic Momentum As young bronze dragon.
+Water Mastery As young bronze dragon, but for up to 60 minutes per day.
+
+================================================================================
+# ANCIENT BRONZE DRAGON
+================================================================================
+
+Breath Weapon ʚʖ As young bronze dragon, but an 80-foot line, DC 33, and the dragon’s
+lightning deals 8d12 electricity damage.
+Draconic Frenzy ʚʖ As young bronze dragon.
+Draconic Momentum As young bronze dragon.
+Water Mastery As young bronze dragon, but for up to 60 minutes per day.
+ANCIENT BRONZE DRAGON
+CREATURE 18
+UNCOMMON
+LG
+GARGANTUAN
+AMPHIBIOUS
+DRAGON
+WATER
+Perception +32; darkvision, scent (imprecise) 100 feet
+Languages Aquan, Common, Draconic, Dwarven, Elven, Gnomish; speak with animals
+Skills Acrobatics +28, Arcana +35, Athletics +34, Diplomacy +32, Intimidation +32,
+Occultism +33, Society +33, Stealth +28
+Str +8, Dex +4, Con +6, Int +7, Wis +6, Cha +6
+AC 43; Fort +32, Ref +30, Will +34; +1 status to all saves vs. magic
+HP 360; Immunities electricity, paralyzed, sleep
+Electricity Aura (aura, electricity) 15 feet. As adult bronze dragon, but 2d12 electricity.
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 38
+Vortex (aura, water); 40 feet. Water in the aura that is also in the same body of water as
+the dragon is diﬃcult terrain for Swimming creatures that don’t have the water trait.
+Attack of Opportunity Ǻȓ Jaws only.
+Vortex Pull Ǻȓ (water); Trigger A creature in the dragon’s vortex uses a Swim action.
+Eﬀect The dragon creates a current of water, forcing the triggering creature to attempt
+a DC 40 Athletics check to Swim. If the creature fails, it’s pulled 30 feet toward the
+dragon and the triggering action is lost. If it succeeds, it can Swim normally (using the
+result of that roll if it doesn’t have a Swim speed).
+Speed 60 feet, ﬂy 200 feet, swim 60 feet
+Melee Ȱɵ jaws +35 (electricity, magical, reach 20 feet), Damage 3d12+16 piercing plus 2d12
+electricity
+Melee Ȱɵ claw +35 (agile, magical, reach 15 feet), Damage 3d10+16 slashing
+Melee Ȱɵ tail +33 (magical, reach 20 feet), Damage 2d10+14 bludgeoning
+Arcane Innate Spells DC 40; 5th control water (at will); 2nd obscuring mist (at will);
+Constant (2nd) speak with animals
+Breath Weapon ʚʖ As young bronze dragon, but a 100-foot line, DC 40, and the dragon’s
+lightning deals 12d12 electricity damage.
+BRONZE DRAGON
+SPELLCASTERS
+Bronze dragon spellcasters tend to
+cast the following spells.
+YOUNG BRONZE DRAGON
+Arcane Prepared Spells DC 28,
+attack +21; 4th dimension door, solid
+fog; 3rd dispel magic, mind reading,
+slow; 2nd comprehend language,
+mirror image, resist energy; 1st
+alarm, hydraulic push, true strike;
+Cantrips (4th) detect magic, light,
+message, read aura, shield
+ADULT BRONZE DRAGON
+Arcane Prepared Spells DC 33,
+attack +27; As young bronze
+dragon, plus 6th mislead, true
+seeing; 5th control water, illusory
+scene, tongues; 4th suggestion;
+Cantrips (6th) detect magic, light,
+message, read aura, shield
+ANCIENT BRONZE DRAGON
+Arcane Prepared Spells DC 40,
+attack +35; As adult bronze dragon,
+plus 8th disappearance, mind blank,
+polar ray; 7th prismatic spray, spell
+turning, suggestion; 6th teleport;
+Cantrips (8th) detect magic, light,
+message, read aura, shield
+
+================================================================================
+PAGE 122
+================================================================================
+
+Draconic Frenzy ʚʖ As young bronze dragon.
+Draconic Momentum As young bronze dragon.
+Water Mastery As young bronze dragon, but up to 120 minutes per day.
+Copper Dragon
+Capricious and always eager to share a good laugh, copper dragons are among the
+wiliest of the metallic dragons, but this by no means interferes with their mission to
+spread freedom in oppressive lands. Copper dragons are hedonists who are quick to
+indulge in simple pleasures, but they’re also sympathetic to other creatures, slow to
+pass judgment, and careful to always examine a situation from as many perspectives
+as possible. This philosophy has its drawbacks, however, as copper dragons are
+susceptible to negative inﬂuences and prone to forgiving the less serious evil acts
+performed by their chromatic cousins and other cruel creatures. Copper dragons also
+have a difﬁcult time keeping their temper in check once they are roused to anger.
+Copper dragons tend to lair in warm or temperate hills, but due to
+their nature, they move their lairs every few years. They sometimes
+live among other people, especially any dwarves who reside nearby.
+Some copper dragons even worship gods typically worshipped
+only by humanoids. Among these dragons, worship of
+Cayden Cailean is most popular, as they see his love of
+freedom and penchant for alcohol aligning with the typical
+copper dragon mindset.
+A copper dragon’s combat tactics are
+as unorthodox as its sense of humor,
+as it is more likely to use mockery and
+tricks than outright strength to win
+its battles. As a copper dragon ages, it
+perfects jokes capable of rendering its
+foes helpless with laughter.
+YOUNG COPPER DRAGON CREATURE 8
+CG
+LARGE
+DRAGON
+EARTH
+Perception +16; darkvision, scent
+(imprecise) 60 feet
+Languages Common, Draconic, Gnomish
+Skills Acrobatics +17, Athletics +17,
+Crafting +14, Deception +15, Performance
++16, Society +16, Stealth +17
+Str +5, Dex +3, Con +2, Int +2, Wis +2, Cha +3
+AC 27; Fort +16, Ref +17, Will +16; +1 status to
+all saves vs. magic
+HP 150; Immunities acid, paralyzed, sleep
+Frightful Presence (aura, emotion, fear,
+mental) 90 feet, DC 23
+Twisting Tail Ǻȓ Trigger A creature within
+reach of the copper dragon’s tail uses a move
+action or leaves a square during a move action
+it’s using. Eﬀect The dragon makes a tail Strike
+at the creature with a –2 penalty. If it hits, the
+dragon disrupts the triggering action.
+Speed 30 feet, ﬂy 120 feet; climb stone 30 feet
+Melee Ȱɵ jaws +20 (acid, reach 10 feet),
+Damage 2d8+8 piercing plus 1d8 acid
+Melee Ȱɵ claw +20 (agile), Damage 2d6+8
+slashing
+Melee Ȱɵ tail +18 (reach 15 feet), Damage
+1d8+7 bludgeoning
+ROKIERE
+Considered humorless for a copper
+dragon, Rokiere keeps her lair
+in the hills on Motaku Isle in the
+Shackles. It’s rumored that she
+knows where vast amounts of
+nearby treasure are located, and
+she will divulge the location of this
+hidden wealth to anyone who can
+make her laugh.
+
+================================================================================
+PAGE 123
+================================================================================
+
+Bestiary
+Arcane Innate Spells DC 27; 1st grease (at will)
+Breath Weapon ʚʖ The copper dragon breathes in one of two ways. The dragon can’t
+use Breath Weapon again for 1d4 rounds.
+• Acid (acid, arcane, evocation); The dragon breathes acid in a 60-foot line that
+deals 8d6 acid damage (DC 26 basic Fortitude save).
+• Slowing Gas (arcane, transmutation); The dragon breathes a 60-foot line of
+slowing gas. Each creature in the area must succeed at a DC 26 Fortitude save
+or be slowed 1 for 1 round (or slowed 2 on a critical failure).
+Climb Stone The dragon’s climb speed functions only when climbing stone surfaces.
+Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one tail Strike in any order.
+Draconic Momentum When the dragon scores a critical hit with a Strike, it recharges
+Breath Weapon.
+
+================================================================================
+# ADULT COPPER DRAGON
+================================================================================
+
+Breath Weapon ʚʖ The copper dragon breathes in one of two ways. The dragon can’t
+use Breath Weapon again for 1d4 rounds.
+• Acid (acid, arcane, evocation); The dragon breathes acid in a 60-foot line that
+deals 8d6 acid damage (DC 26 basic Fortitude save).
+• Slowing Gas (arcane, transmutation); The dragon breathes a 60-foot line of
+slowing gas. Each creature in the area must succeed at a DC 26 Fortitude save
+or be slowed 1 for 1 round (or slowed 2 on a critical failure).
+Climb Stone The dragon’s climb speed functions only when climbing stone surfaces.
+Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one tail Strike in any order.
+Draconic Momentum When the dragon scores a critical hit with a Strike, it recharges
+Breath Weapon.
+ADULT COPPER DRAGON
+CREATURE 12
+CG
+LARGE
+DRAGON
+EARTH
+Perception +23; darkvision, scent (imprecise) 60 feet
+Languages Common, Draconic, Elven, Gnomish
+Skills Acrobatics +21, Athletics +24, Crafting +22, Deception +21, Performance +23,
+Society +22, Stealth +21
+Str +6, Dex +3, Con +4, Int +4, Wis +3, Cha +5
+AC 33; Fort +23, Ref +22, Will +22; +1 status to all saves vs. magic
+HP 235; Immunities acid, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 29
+Twisting Tail Ǻȓ As young copper dragon.
+Speed 40 feet, ﬂy 140 feet; climb stone 40 feet
+Melee Ȱɵ jaws +26 (acid, magical, reach 10 feet), Damage 3d8+12 piercing plus 2d8 acid
+Melee Ȱɵ claw +26 (agile, magical), Damage 3d8+12 slashing
+Melee Ȱɵ tail +24 (magical, reach 15 feet), Damage 2d8+10 bludgeoning
+Arcane Innate Spells DC 33; 4th hideous laughter (at will), shape stone; 1st grease
+(at will)
+Breath Weapon ʚʖ As young copper dragon, but an 80-foot line, DC 32, and the dragon’s
+acid deals 13d6 acid damage.
+Climb Stone As young copper dragon.
+Draconic Frenzy ʚʖ As young copper dragon.
+Draconic Momentum As young copper dragon.
+
+================================================================================
+# ANCIENT COPPER DRAGON
+================================================================================
+
+(at will)
+Breath Weapon ʚʖ As young copper dragon, but an 80-foot line, DC 32, and the dragon’s
+acid deals 13d6 acid damage.
+Climb Stone As young copper dragon.
+Draconic Frenzy ʚʖ As young copper dragon.
+Draconic Momentum As young copper dragon.
+ANCIENT COPPER DRAGON
+CREATURE 17
+UNCOMMON
+CG
+HUGE
+DRAGON
+EARTH
+Perception +30; darkvision, scent (imprecise) 60 feet
+Languages Common, Draconic, Dwarven, Elven, Gnomish
+Skills Acrobatics +30, Athletics +31, Crafting +31, Deception +29, Performance +31,
+Society +29, Stealth +30
+Str +8, Dex +5, Con +5, Int +6, Wis +5, Cha +6
+AC 41; Fort +30, Ref +32, Will +32; +1 status to all saves vs. magic
+HP 345; Immunities acid, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 35
+Slow Aura (arcane, aura, enchantment) 10 feet. Each creature that ends its turn in the
+aura must succeed at a DC 37 Will saving throw or be slowed 1 for 1 round (or slowed 2
+on a critical failure). The copper dragon can turn this aura on or oﬀ with a single action,
+which has the concentrate trait, and can choose not to aﬀect allies within the aura.
+Twisting Tail Ǻȓ As young copper dragon.
+Speed 50 feet, ﬂy 200 feet; climb stone 50 feet,
+Melee Ȱɵ jaws +33 (acid, magical, reach 15 feet), Damage 3d10+16 piercing plus 3d8 acid
+Melee Ȱɵ claw +33 (agile, magical, reach 10 feet), Damage 3d10+16 slashing
+Melee Ȱɵ tail +31 (magical, reach 20 feet), Damage 2d10+14 bludgeoning
+Arcane Innate Spells DC 39; 5th hideous laughter (at will), wall of stone; 4th shape stone
+(at will); 1st grease (at will)
+COPPER DRAGON
+SPELLCASTERS
+Copper dragon spellcasters tend to
+cast the following spells.
+YOUNG COPPER DRAGON
+Arcane Prepared Spells DC 27,
+attack +20; 3rd dispel magic, haste,
+meld into stone; 2nd glitterdust,
+invisibility, see invisibility; 1st ﬂeet
+step, illusory object, magic aura;
+Cantrips (3rd) detect magic, ghost
+sound, message, read aura
+ADULT COPPER DRAGON
+Arcane Prepared Spells DC 33,
+attack +26; As young copper
+dragon, plus 5th false vision,
+hallucination, tongues; 4th
+confusion, creation, stoneskin;
+Cantrips (5th) detect magic, ghost
+sound, message, read aura
+ANCIENT COPPER DRAGON
+Arcane Prepared Spells DC 39,
+attack +33; As adult copper
+dragon, plus 8th maze, prismatic
+wall; 7th prismatic spray, project
+image, reverse gravity; 6th mislead,
+phantasmal calamity, teleport;
+Cantrips (8th) detect magic, ghost
+sound, message, read aura
+
+================================================================================
+PAGE 124
+================================================================================
+
+Breath Weapon ʚʖ As young copper dragon, but a 100-foot line, DC 38, and the dragon’s
+acid deals 18d6 acid damage.
+Climb Stone As young copper dragon.
+Draconic Frenzy ʚʖ As young copper dragon.
+Draconic Momentum As young copper dragon.
+Mass Laughter ʚʖ (arcane, emotion, enchantment, mental); Frequency once per
+day. Eﬀect The copper dragon tells a fantastic joke. Each creature in a 100-foot
+emanation must succeed at a DC 39 Will save or suﬀer the eﬀects of a 9th-level
+hideous laughter spell for 1 minute.
+Gold Dragon
+Gold dragons are the epitome of metallic dragonkind, unrivaled in their
+strength as well as their wisdom. They command the unwavering reverence
+of all other metallic dragons, who view gold dragons as their leaders and
+counselors. Golds rival the raw power of even red dragons, much to the chagrin
+of their chromatic cousins, and the two races are often regarded as bitter rivals.
+But despite their incredible power, gold dragons are fond of discourse and
+prefer to talk through solutions to problems rather than
+rely upon brute strength. Long-lived as they are,
+they necessarily take a wide view of all situations
+and never act without considering all possible
+options and outcomes. Because of this, gold
+dragons willingly converse with any
+creature that seeks them out, even evil
+chromatic dragons. Mortals might
+ﬁnd this behavior strange, considering the longstanding war between chromatic and metallic
+dragons, but dragons know all too well
+that desperate situations sometimes call
+for drastic alliances. And although gold
+dragons might consider brief truces with
+their chromatic brethren in the case
+of world-ending threats, they also
+know when such alliances have run
+their course.
+When another metallic dragon
+faces a quandary or a foe beyond its
+own ability to overcome, its best
+option is often to seek the counsel
+of the eternally wise and gloriously
+righteous gold dragons. Locating
+these legendary beings is no easy
+task, however, for gold dragons are
+notoriously reclusive. Their intellect
+and wisdom is such that they prefer
+to ponder the great questions of life
+in seclusion, where they strive to
+formulate solutions to the world’s
+most pressing problems. As a
+result, gold dragons are sometimes
+absent when metallic dragons gather
+together, or are missing from tribunals
+where
+their
+counsel
+would
+be
+beneﬁcial. Impatient dragons sometimes
+begrudge gold dragons for this apparent
+unreliability, but such aspersions are
+usually a result of jealousy rather than
+PARNONERYX
+This adult gold dragon had a long
+and tragic existence. Formerly an
+ally of Iomedae, he was defeated
+by a powerful white dragon and
+imprisoned in ice. Though freed by
+the Glorious Reclamation, he was
+soon slain by evil adventurers who
+used his head to create a powerful
+weapon known as a tathlum—
+which was used to lift the siege of
+Citadel Rivad and end the Glorious
+Reclamation.
+
+================================================================================
+PAGE 125
+================================================================================
+
+Bestiary
+any true criticism; in their hearts, other dragons know that few gold dragons
+purposefully exclude themselves from truly important matters.
+A gold dragon’s incredible foresight and unparalleled enlightenment means
+they are unlikely to interfere in the business of individual mortals, though the
+rare person who captures the attention of a gold dragon is fortunate indeed, for
+there are few beings in the cosmos who can offer such prudent and considerate
+advice. Rulers and individuals in stations of high power have an easier time of
+garnering the aid of a gold dragon; entire wars have been avoided thanks to a
+gold dragon’s last-minute intermediation.
+Gold dragons are often found in warm grasslands and savannas, lands
+where they can enjoy long, meditative ﬂights without attracting the attention
+of potential enemies. They tend to sleep either out in the open in a barren,
+remote place, or within a heavily secreted or fortiﬁed lair, such as a forgotten
+sink hole or in the labyrinthine caverns of a terrestrial chasm. Gold dragons
+may enlist trusted servants and allies to guard their lairs, though many live
+truly solitary lives, preferring to protect their hoards with nonlethal traps and
+magical wards.
+
+================================================================================
+# ADULT GOLD DRAGON
+================================================================================
+
+Breath Weapon ʚʖ The gold dragon breathes in one of two ways. The dragon can’t use
+Breath Weapon again for 1d4 rounds.
+• Flame (arcane, evocation, ﬁre); The dragon breathes a blast of ﬂame in a 30-foot
+cone that deals 11d6 ﬁre damage (DC 31 basic Reﬂex save).
+• Weakening Gas (arcane, necromancy); The dragon breathes a blast of weakening
+gas. Each creature within a 30-foot cone must succeed at a DC 31 Fortitude save
+or become enfeebled 1 for 1 minute (or enfeebled 2 on a critical failure).
+Draconic Frenzy ʚʖ The gold dragon makes two claw Strikes and one horns Strike in
+any order.
+Draconic Momentum When the gold dragon scores a critical hit with a Strike, it recharges
+Breath Weapon.
+ADULT GOLD DRAGON
+CREATURE 15
+LG
+HUGE
+DRAGON
+FIRE
+Perception +29; darkvision, scent (imprecise) 60 feet
+Languages Common, Draconic, Dwarven, Elven, Sylvan
+Skills Acrobatics +22, Arcana +24, Athletics +28, Diplomacy +29, Medicine +27,
+Religion +29, Society +26
+Str +7, Dex +3, Con +6, Int +5, Wis +6, Cha +4
+AC 38; Fort +28, Ref +25, Will +28; +1 status to all saves vs. magic
+HP 330; Immunities ﬁre, paralyzed, sleep; Weaknesses cold 15
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 33
+GOLD DRAGON
+SPELLCASTERS
+Gold dragon spellcasters tend to
+cast the following spells. Unlike
+most dragons, they cast divine spells
+instead of arcane.
+YOUNG GOLD DRAGON
+Divine Prepared Spells DC 29,
+attack +24; 4th discern lies, heal,
+restoration; 3rd dispel magic, haste,
+heal; 2nd restoration, resist energy,
+see invisibility, silence; 1st alarm,
+mending, protection, spirit link;
+Cantrips (4th) daze, detect magic,
+forbidding ward, prestidigitation,
+read aura
+ADULT GOLD DRAGON
+Divine Prepared Spells DC 35,
+attack +30; As young gold dragon,
+plus 6th blade barrier, heal, true
+seeing; 5th banishment, breath of
+life, sending; Cantrips (6th) daze,
+detect magic, forbidding ward,
+prestidigitation, read aura
+ANCIENT GOLD DRAGON
+Divine Prepared Spells DC 41,
+attack +38; As adult gold dragon, plus
+9th foresight, heal, overwhelming
+presence; 8rd discern location, divine
+aura, heal; 7th dimensional lock,
+energy aegis, spell turning; Cantrips
+(9th) daze, detect magic, forbidding
+ward, prestidigitation, read aura
+
+================================================================================
+PAGE 126
+================================================================================
+
+Attack of Opportunity Ǻȓ Jaws only.
+Golden Luck Ǻȓ Trigger The gold dragon fails a saving throw. Eﬀect The dragon improves
+its result by one degree of success, turning a failure into a success or a critical failure
+into a normal failure. The dragon can’t use this ability again for 1d4 rounds.
+Speed 50 feet, ﬂy 180 feet, swim 50 feet
+Melee Ȱɵ jaws +30 (ﬁre, magical, reach 15 feet), Damage 3d12+15 piercing plus 3d6 ﬁre
+Melee Ȱɵ claw +30 (agile, magical, reach 10 feet), Damage 3d10+15 slashing
+Melee Ȱɵ tail +28 (magical, reach 20 feet), Damage 3d10+13 slashing
+Melee Ȱɵ horns +28 (agile, magical, reach 15 feet), Damage 2d12+13 piercing
+Arcane Innate Spells DC 35; 7th sunburst; 3rd locate (gems only), 1st detect alignment
+(evil only)
+Breath Weapon ʚʖ As young gold dragon, but a 40-foot cone, DC 37, the dragon’s
+ﬂame deals 15d6 ﬁre damage, and the dragon’s weakening gas causes enfeebled 2
+(enfeebled 3 on a critical failure).
+Draconic Frenzy ʚʖ As young gold dragon.
+Draconic Momentum As young gold dragon.
+
+================================================================================
+# ANCIENT GOLD DRAGON
+================================================================================
+
+(evil only)
+Breath Weapon ʚʖ As young gold dragon, but a 40-foot cone, DC 37, the dragon’s
+ﬂame deals 15d6 ﬁre damage, and the dragon’s weakening gas causes enfeebled 2
+(enfeebled 3 on a critical failure).
+Draconic Frenzy ʚʖ As young gold dragon.
+Draconic Momentum As young gold dragon.
+ANCIENT GOLD DRAGON
+CREATURE 20
+UNCOMMON
+LG
+GARGANTUAN
+DRAGON
+FIRE
+Perception +36; darkvision, scent (imprecise) 80 feet
+Languages Common, Draconic, Dwarven, Elven, Gnomish, Jotun, Sylvan
+Skills Acrobatics +29, Arcana +31, Athletics +35, Diplomacy +35, Medicine +36,
+Religion +36, Society +35
+Str +9, Dex +5, Con +8, Int +7, Wis +8, Cha +5
+AC 46; Fort +37, Ref +34, Will +39; +1 status to all saves vs. magic
+HP 450; Immunities ﬁre, paralyzed, sleep; Weaknesses cold 20
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 39
+Attack of Opportunity Ǻȓ Jaws only.
+Extra Reaction The dragon gains 2 reactions at the start of its turn each round.
+Golden Luck Ǻȓ As adult gold dragon.
+Speed 60 feet, ﬂy 200 feet, swim 60 feet
+Melee Ȱɵ jaws +38 (ﬁre, magical, reach 20 feet), Damage 4d12+17 piercing plus 4d6 ﬁre
+Melee Ȱɵ claw +38 (agile, magical, reach 15 feet), Damage 4d10+17 slashing
+Melee Ȱɵ tail +36 (magical, reach 25 feet), Damage 4d10+15 slashing
+Melee Ȱɵ horns +36 (agile, magical, reach 20 feet), Damage 2d12+15 piercing
+Arcane Innate Spells DC 41; 10th sunburst; 3rd locate (gems only); 1st detect alignment
+(evil only)
+Breath Weapon ʚʖ As a young gold dragon, but a 50-foot cone, DC 44, the dragon’s
+ﬂame deals 20d6 ﬁre damage, and the dragon’s weakening gas causes enfeebled 3
+(enfeebled 4 on a critical failure).
+Draconic Frenzy ʚʖ As young gold dragon.
+Draconic Momentum As young gold dragon.
+Silver Dragon
+Silver dragons are among the most chivalrous of all dragonkind; they wield frost
+and cold as weapons, can walk on clouds, and dwell high upon snowy mountain
+peaks or deep in steep, misty valleys. Although they typically make their lairs
+among the highlands, the pursuit of justice leads silver dragons to travel far
+and wide—often into the very heart of realms overrun by evil. These exemplars
+of righteousness are ceaseless in their determination to help the weak, spread
+honor, and stamp out evil.
+Silver dragons are sleek and sinuous. Their hides resemble nothing so much
+as a suit of gleaming armor, lending further credence to the popular myth that
+silver dragons are the paladins of dragonkind. The zeal with which they seek
+out, confront, and defeat evil is unsurpassed even among their metallic cousins,
+and they adhere to strict codes of honor usually passed down from parent to
+hatchling. On occasion, they instead learn these codes from trusted mentors,
+APSU
+Apsu, the Waybringer, is the god
+of good dragons, leadership, and
+peace. According to draconic lore,
+Apsu spawned the dragon-gods
+who created the world. One of his
+sons is the destructive draconic
+god Dahak. Thus, Apsu is not only
+seen as a god and creator to good
+dragons, but he also serves as an
+immortal father ﬁgure.
+
+================================================================================
+PAGE 127
+================================================================================
+
+Bestiary
+usually other silver dragons or gold dragons. As they age, they become even
+more dedicated to their codes, often adding new and even more restrictive
+clauses to the systems that guide their behavior.
+Silver dragons are incredibly altruistic and regularly consort with the citizens
+of goodly societies, of which they consider themselves protectors and guides.
+In addition to responding to evil threats, silver dragons work to prevent evil
+from taking root in the ﬁrst place, and they ensure mortals under their care are
+well fed, educated, and treated with dignity. Although silver dragons can seem
+overzealous or even eager to join the ﬁght against evil, they know that the best
+way to rid the world of corruption is to stamp out strife and disillusionment
+at their source, not to passively sit back and watch it grow into an unsolvable
+problem. Silver dragons can be vindictive, but they can also be forgiving; for
+evildoers who seek to atone for their sins and turn over a new leaf, the support
+of a silver dragon is both unwavering and invaluable.
+Many silver dragons are also drawn to religious endeavors, venerating
+deities such as Iomedae, Sarenrae, and other deities concerned with justice,
+virtue, and redemption.
+
+================================================================================
+# ADULT SILVER DRAGON
+================================================================================
+
+Breath Weapon ʚʖ The silver dragon breathes in one of two ways. The dragon can’t use
+Breath Weapon again for 1d4 rounds.
+• Frost (arcane, cold, evocation); The dragon breathes a cloud of frost in a 30-foot cone
+that deals 10d6 cold damage (DC 29 basic Reﬂex save).
+• Paralyzing Gas (arcane, enchantment, incapacitation); The dragon breathes a
+blast of paralyzing gas. Each creature within a 30-foot cone must succeed at a
+DC 29 Fortitude save or be slowed 1 for 1 round (or paralyzed for 1 round on a
+critical failure).
+Cloud Walk The silver dragon can tread on clouds or fog as though on solid ground.
+Draconic Frenzy ʚʖ The silver dragon makes two claw Strikes and one tail Strike in
+any order.
+Draconic Momentum When the silver dragon scores a critical hit with a Strike, it
+recharges its Breath Weapon.
+ADULT SILVER DRAGON
+CREATURE 14
+LG
+HUGE
+COLD
+DRAGON
+Perception +26; darkvision, fog vision, scent (imprecise) 60 feet
+Languages Auran, Common, Draconic, Dwarven
+Skills Acrobatics +21, Athletics +27, Diplomacy +25, Intimidation +27, Medicine +24,
+Religion +24, Society +20
+SILVER DRAGON
+SPELLCASTERS
+Silver dragon spellcasters tend to
+cast the following spells. Unlike
+most dragons, they cast divine
+spells instead of arcane.
+YOUNG SILVER DRAGON
+Divine Prepared Spells
+DC 28, attack +23; 4th freedom
+of movement, read omens,
+restoration; 3rd heal, paralyze,
+wall of wind; 2nd augury, calm
+emotions, restoration, see
+invisibility; 1st alarm, bless,
+protection, true strike; Cantrips
+(4th) detect magic, light, message,
+read aura, stabilize
+ADULT SILVER DRAGON
+Divine Prepared Spells DC 33,
+attack +29; As young silver
+dragon, plus 6th repulsion, true
+seeing, zealous conviction; 5th
+banishment, heal, sending; Cantrips
+(6th) detect magic, light, message,
+read aura, stabilize
+ANCIENT SILVER DRAGON
+Divine Prepared Spells DC 40,
+attack +36; As adult silver dragon,
+plus 8rd discern location, divine
+decree, heal; 7th divine decree,
+energy aegis, plane shift; Cantrips
+(8th) detect magic, light, message,
+read aura, stabilize
+
+================================================================================
+PAGE 128
+================================================================================
+
+Str +7, Dex +3, Con +4, Int +3, Wis +4, Cha +5
+Fog Vision As young silver dragon.
+AC 37; Fort +26, Ref +23, Will +28; +1 status to all saves vs. magic
+HP 295; Immunities cold, paralyzed, sleep; Weaknesses ﬁre 10
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 33
+Wing Deﬂection Ǻȓ As young silver dragon.
+Speed 50 feet, ﬂy 140 feet; cloud walk
+Melee Ȱɵ jaws +29 (cold, magical, reach 15 feet), Damage 3d10+13
+piercing plus 3d6 cold
+Melee Ȱɵ claw +29 (agile, magical, reach 10 feet), Damage 3d8+13 slashing
+Melee Ȱɵ tail +27 (magical, reach 20 feet), Damage 2d10+11 bludgeoning
+Arcane Innate Spells DC 33; 1st detect alignment (evil only)
+Breath Weapon ʚʖ As young silver dragon, but a 40-foot cone, DC
+35, the dragon’s frost deals 15d6 cold damage, and the dragon’s
+paralyzing gas makes the creature slowed 2 for 1 round (or paralyzed
+for 2 rounds on a critical failure).
+Cloud Walk As young silver dragon.
+Draconic Frenzy ʚʖ As young silver dragon.
+Draconic Momentum As young silver dragon.
+
+================================================================================
+# ANCIENT SILVER DRAGON
+================================================================================
+
+Breath Weapon ʚʖ As young silver dragon, but a 40-foot cone, DC
+35, the dragon’s frost deals 15d6 cold damage, and the dragon’s
+paralyzing gas makes the creature slowed 2 for 1 round (or paralyzed
+for 2 rounds on a critical failure).
+Cloud Walk As young silver dragon.
+Draconic Frenzy ʚʖ As young silver dragon.
+Draconic Momentum As young silver dragon.
+ANCIENT SILVER DRAGON
+CREATURE 19
+UNCOMMON
+LG
+GARGANTUAN
+COLD
+DRAGON
+Perception +32; darkvision, fog vision, scent (imprecise)
+60 feet
+Languages Auran, Common, Draconic, Dwarven, Sylvan
+Skills Acrobatics +27, Athletics +38, Diplomacy +34, Intimidation +37,
+Medicine +33, Religion +32, Society +30
+Str +9, Dex +4, Con +5, Int +5, Wis +5, Cha +7
+Fog Vision As young silver dragon.
+AC 45; Fort +34, Ref +31, Will +34; +1 status to all saves vs. magic
+HP 410; Immunities cold, paralyzed, sleep; Weaknesses ﬁre 15
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 40
+Cold Aura (cold, aura) 15 feet, 3d6 cold damage. The silver
+dragon can turn this aura on or oﬀ as a single action, which
+has the concentrate trait, and can choose not to aﬀect allies
+within the aura.
+Reﬂect Spell Ǻȓ Trigger The silver dragon critically succeeds
+at a saving throw against a spell, or a caster trying to target
+the dragon critically fails their attack roll. Eﬀect The spell is
+reﬂected back upon the caster, with the eﬀect of spell turning.
+Wing Deﬂection Ǻȓ As young silver dragon.
+Speed 60 feet, ﬂy 180 feet; cloud walk
+Melee Ȱɵ jaws +37 (cold, magical, reach 20 feet), Damage
+4d10+17 piercing plus 4d6 cold
+Melee Ȱɵ claw +37 (agile, magical, reach 15 feet), Damage
+4d8+17 slashing
+Melee Ȱɵ tail +35 (magical, reach 25 feet), Damage
+3d10+15 bludgeoning
+Arcane Innate Spells DC 40; 1st detect alignment
+(evil only)
+Breath Weapon ʚʖ As young silver dragon, but
+a 50-foot cone, DC 42, the frost deals 20d6 cold
+damage, and the paralyzing gas makes the creature
+paralyzed for 1 round (or 3 rounds on a critical failure).
+Cloud Walk As young silver dragon.
+Draconic Frenzy ʚʖ As young silver dragon.
+Draconic Momentum As young silver dragon.
+
+================================================================================
+PAGE 129
+================================================================================
+
+Bestiary
+Dragon Turtle
+When sailors warn others of the terrible threats of the open sea, they seldom
+forget to mention dragon turtles—immense aquatic dragons with rocky
+shells similar to those of tortoises and ﬂippers powerful enough to overturn
+hardy vessels. These fearsome creatures enjoy being considered as dangerous
+as storms or natural disasters by seafaring folk. Dragon turtles delight in
+amassing treasure, although most prefer to receive tribute from passing sailors
+and often store their hoards in the shipwrecks of vessels once crewed by those
+unwilling to surrender their valuables. Dragon turtles are solitary creatures
+and hunt in regions encompassing a hundred square miles or more. Although
+they normally eat large ﬁsh, they are omnivorous and also eat seaweed or even
+foolhardy dragon hunters. Experienced sailors keep a keen eye out for dragon
+turtles, preparing to ﬂee should one approach or offer it treasure in exchange
+for safe passage.
+Most dragon turtles are at least 20 feet wide and 50 feet long, although
+some can grow substantially larger. These massive, ancient dragon turtles are
+somnolent, and resemble rocky islands from a distance; their prodigious hoards
+can be a source of truly ancient sea lore. Legends persist of truly immense
+dragon turtles who spend centuries drifting on the surface of the ocean, far from
+established shipping lanes or charted waters, with shells that serve as islands
+capable of supporting entire ecosystems and even, some claim, small settlements
+whose inhabitants know nothing of land that doesn’t drift across the sea.
+
+================================================================================
+# AIR MEPHIT
+================================================================================
+
+
+Bestiary
+CONJURING MEPHITS
+Mephits are a favorite target for
+low-level spellcasters to summon,
+both because they have several
+useful abilities and because they
+are relatively easy to command
+and manipulate. Still, care must
+be taken when using mephits as
+minions, because if left unwatched
+or unattended for too long, they
+can cause all sorts of mischief.
+Elemental, Mephit
+Mephits—sometimes known as elemental scamps—are little bipedal critters
+with bat-like wings who serve stronger elementals on the Elemental Planes or
+neophyte spellcasters who summon them to the Material Plane. All mephits
+have an inkling of magical power as well as a breath weapon.
+Air Mephit
+Air mephits are capricious and ﬂighty relative to their kin; they are as likely to
+ﬂy blindly into battle as they are to whine in terror at a loud noise. They are pale
+blue in coloration and have thin wings that trail small puffs of vapor as they ﬂy
+through the skies.
+AIR MEPHIT
+CREATURE 1
+N
+SMALL
+AIR
+ELEMENTAL
+Perception +3; darkvision
+Languages Auran
+Skills Acrobatics +7, Stealth +7
+Str +1, Dex +4, Con +0, Int –2, Wis +0, Cha +0
+AC 16; Fort +3, Ref +19, Will +7
+HP 12, fast healing 2 (in open air); Immunities bleed, paralyzed, poison, sleep
+Speed 20 feet, ﬂy 40 feet
+Melee Ȱɵ claw +9 (agile, ﬁnesse), Damage 1d6+1 slashing
+Arcane Innate Spells DC 17; 2nd blur; 1st gust of wind
+Breath Weapon ʚʖ (air, arcane) The air mephit breathes sand and grit in a 15-foot cone
+that deals 2d6 slashing damage to each creature within the area (DC 17 basic Reﬂex
+save). The air mephit can’t use Breath Weapon again for 1d4 rounds.
+Earth Mephit
+Earth mephits are humorless and trudge about their tasks with little enthusiasm.
+They are somewhat more stout than other mephits, and their dark-brown or
+gray bodies are always coated with layers of dirt and ﬁlth. An earth mephit
+can ﬂy, just as any other mephit, but the act of ﬂight is uncomfortable and
+unnerving to them—they rarely ascend higher than 5 feet off the ground if
+they can help it.
+
+================================================================================
+# ALCHEMICAL GOLEM
+================================================================================
+
+Berserk Slam Ȱɵ Requirement The ﬂesh golem is berserk. Eﬀect The ﬂesh golem Strikes
+with its ﬁst at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and
+knocks the target prone.
+Alchemical Golem
+This golem is a walking alchemical nightmare capable of inﬂicting all
+manner of painful wounds. Its ability to follow orders is granted
+by the otherwise mindless humanoid brain that ﬂoats in its
+dome-like head. In exceptionally rare cases, the brain used
+in its creation might retain fragments of memories or
+even actual intellect, resulting in an alchemical golem
+with a personality and agenda of its own.
+ALCHEMICAL GOLEM
+CREATURE 9
+UNCOMMON
+N
+LARGE
+ALCHEMICAL
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +15; darkvision
+Skills Athletics +22
+Str +6, Dex +4, Con +3, Int –5, Wis +0, Cha –5
+AC 27; Fort +20, Ref +19, Will +15
+HP 150; Immunities acid, bleed, death eﬀects, disease, doomed, drained, fatigued,
+healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison,
+sickened, unconscious; Resistances physical 12 (except adamantine or bludgeoning)
+Alchemical Chambers An alchemical golem’s body contains six alchemical chambers ﬁlled
+with diﬀerent substances. When an alchemical golem ability calls upon a randomly
+determined alchemical eﬀect, roll 1d6 and consult the following (if you roll the result of
+a chamber that was shattered, there is no alchemical eﬀect):
+1 acid damage; 2 cold damage; 3 electricity damage; 4 ﬁre damage; 5 poison damage;
+6 sickness: DC 26 Fortitude save or sickened 1 (sickened 2 on a critical failure)
+
+================================================================================
+PAGE 187
+================================================================================
+
+Bestiary
+CLAY GOLEMS
+The remains of clay golems are
+worth more to archaeologists
+and scholars than to merchants.
+The magniﬁcent treasures
+often guarded by these ancient
+wardens, however, are another
+matter entirely.
+Alchemical Rupture When an alchemical golem takes physical damage from a critical hit
+or is aﬀected by a shatter spell, one glass chamber within its body shatters, spewing
+alchemical liquid in a 5-foot emanation. Roll on the alchemical chambers list (see
+above) to determine which one shatters—on a roll of 1–5, creatures in the area take
+10d6 damage of the appropriate type (DC 28 basic Reﬂex). On a roll of 6, creatures
+must instead save against the sickness eﬀect.
+Golem Antimagic harmed by sonic (5d8, 2d6 from areas or persistent damage); healed
+by acid (area 2d4 HP); slowed by cold
+Vulnerable to Shatter Casting a shatter spell on an alchemical golem aﬀects the golem
+normally, but also causes an alchemical rupture (see above).
+Speed 25 feet
+Melee Ȱɵ syringe +22 (magical, reach 10 feet), Damage 2d10+6 piercing plus
+alchemical injection
+Ranged Ȱɵ bomb +20 (magical, thrown 20 feet), Damage see Generate Bomb
+Alchemical Injection When an alchemical golem hits a creature with a syringe Strike,
+roll 1d6 on the alchemical chambers list to determine the additional eﬀect of the
+attack. The syringe deals an additional 2d6 damage of the appropriate type (or
+exposes the target to the sickness eﬀect, as appropriate).
+Generate Bomb Ȱɵ (manipulate) The golem ﬁlls an empty vial from one of its alchemical
+chambers to create a bomb and then makes a bomb Strike. Determine the type of bomb
+created by rolling 1d6 on the alchemical chambers list above. On a roll of 1–4, it creates
+the corresponding greater alchemical bomb: an acid ﬂask from chamber 1, a frost vial
+from chamber 2, bottled lightning from chamber 3, or alchemist’s ﬁre from chamber 4.
+On a roll of 5, it creates a poisonous bomb that deals 3d10 poison damage and 3 poison
+splash damage with no other eﬀects. On a roll of 6, it creates a sickness bomb, which
+exposes the target and all creatures in the splash radius to the sickness eﬀect; creatures
+hit by only the splash receive a +2 circumstance bonus to their Fortitude saves.
+Clay Golem
+Traditionally, clay golems are crafted in the image of a deity and used as
+guardians of tombs or sacred crypts. Clay golems have the power to lay curses
+upon their victims as punishment for intrusion, leading many to believe that
+these oft-ancient constructs have a touch of the divine to them. While
+this idea has little basis in reality, superstitious folk still tread lightly
+around statues that resemble clay golems even in the slightest.
+The animating force within a clay golem is unusually unstable,
+making the golem prone to entering a berserk frenzy when
+damaged. Entire treasuries have been totally ruined as a result of a
+rampaging clay golem, so crafters do well to make sure their golems
+are maintained and in good working order—or otherwise place them on the other
+side of the door from the treasures they wish to protect.
+
+================================================================================
+# ADAMANTINE GOLEM
+================================================================================
+
+
+ADAMANTINE GOLEMS
+The incredible amount of
+adamantine necessary to create
+a single adamantine golem is
+worth more than many nations’
+treasuries. The powerful heart
+of an adamantine golem can be
+turned into a legendary forge for
+blacksmithing.
+ADAMANTINE GOLEM
+CREATURE 18
+RARE
+N
+HUGE
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +26; darkvision
+Skills Athletics +38
+Str +9, Dex –1, Con +9, Int –5, Wis +0, Cha –5
+AC 42; Fort +33, Ref +27, Will +29
+HP 255, repair mode; Immunities bleed, death eﬀects, disease, doomed, drained,
+fatigued, ﬁre, healing, magic (see below), mental, necromancy, nonlethal attacks,
+paralyzed, poison, sickened, unconscious; Resistances physical 20 (except vorpal
+adamantine)
+Golem Antimagic harmed by acid (9d10, 2d10 from areas or persistent damage);
+healed by ﬁre (area 2d10 HP); slowed by electricity
+Repair Mode When the adamantine golem is at 0 HP, it isn’t destroyed. Instead,
+it enters repair mode, during which it is slowed 1, can’t take reactions, and can
+take only the Self-Repair action. Once it has more than 30 HP, it can use any type
+of action and can use reactions, though it remains slowed 1 and can’t take any
+reactions until the start of its next turn. If a critical hit with an adamantine vorpal
+weapon reduces the golem to 0 HP, or if such a weapon hits it while it’s already at
+0 HP, then the golem is destroyed.
+Vulnerable to Dispelling The golem can be targeted by disjunction and dispel magic.
+If targeted by such a spell of 9th level or higher, the golem has its resistance to
+physical damage lowered to 15 and is slowed 1 (or slowed 2 if in repair mode) for
+1d4 rounds. During this time, if the golem is reduced to 0 HP while
+already in repair mode, it is destroyed.
+Speed 30 feet
+Melee Ȱɵ fist +35 (deadly 3d12, magical, reach 15 feet),
+Damage 3d10+17 bludgeoning plus destructive
+strike
+Destructive Strike On a critical hit, the adamantine
+golem’s fist Strike breaks the target’s armor,
+if any, in addition to dealing damage to the
+target. If the target has a shield raised,
+the golem breaks the shield instead.
+Inexorable March Ȱɵ The adamantine
+golem Strides up to its Speed,
+pushing back each creature
+whose space it moves into and
+damaging them if they try to
+stop its movement. A creature can
+try to bar the way by attempting a DC 45
+Fortitude save.
+Critical Success The creature takes no damage
+and its armor takes no damage.
+Success The golem halts its movement and
+cannot enter the creature’s square.
+Failure The resisting creature is damaged
+and its armor takes damage as if hit by
+the adamantine golem’s ﬁst.
+Self-Repair
+Ȱɵ
+(manipulate)
+The
+golem repairs itself, regaining 30
+Hit Points.
+Vent Ȱɵ (fire) The golem vents a 30foot cone of superheated steam from
+its internal forge. This deals 15d6 fire
+damage to all creatures in the cone (DC
+40 basic Reflex). The golem can't use Vent
+again for 1d6 rounds.
+
+================================================================================
+PAGE 191
+================================================================================
+
+Bestiary
+INFAMOUS
+GRAVEKNIGHTS
+Several of Golarion’s most
+notorious villains are graveknights.
+The following examples are
+among the world’s most infamous
+graveknights at large, and may
+inspire or serve as villains in your
+own games.
+Lictor Shokneir: Once the
+Hellknight leader of the notorious
+Order of the Crux, Lictor Shokneir
+was disgraced when he refused
+a royal order to disband his
+army of butchers. The other
+Hellknights surrounded him
+and razed his castle, Citadel
+Gheisteno, to the ground. However,
+Shokneir’s determination sustains
+his now-undead form, and he and
+his undead legions have rebuilt the
+citadel in all its haunting glory.
+The Black Prince: Although the
+graveknight known simply as
+the Black Prince was redeemed
+centuries ago as part of Iomedae’s
+11 Acts, it is said that the prince’s
+armor remains intact—and that
+vile forces conspire to reclaim it.
+If the armor is donned by one of
+the Black Prince’s descendants,
+the Inner Sea will be beset by a
+terrible villain indeed.
+Graveknight
+Graveknights are undead warriors granted unlife by a cursed suit of armor.
+Creating Graveknights
+You can turn an existing, living creature into a graveknight by completing the
+following steps. It’s best to build a graveknight from scratch, but if you don’t have
+the time, simply apply the template. A creature should be at least level 5 before
+being converted to a graveknight.
+Increase the creature’s level by 1 and change its statistics as follows.
+• Increase its attack rolls, AC, saving throws, Perception, and skills by 1, its HP
+by 5, and its Strike damage by 1.
+GRAVEKNIgHT ABILITIES
+A graveknight gains the undead and graveknight traits, and its alignment is usually
+adjusted to evil. It loses any abilities that come from it being a living creature and
+any traits that represent its life, such as human and humanoid.
+Darkvision
+Negative Healing
+Rejuvenation (divine, necromancy) When a graveknight is destroyed, its armor rebuilds
+its body over the course of 1d10 days—or more quickly if the armor is worn by a living
+host (see Graveknight Armor, below). If the body is destroyed before then, the process
+restarts. A graveknight can only be permanently destroyed by obliterating its armor
+(such as with disintegrate), transporting it to the Positive Energy Plane, or throwing it
+into the heart of a volcano.
+Immunities death eﬀects, disease, paralyzed, poison, precision, unconscious, plus one
+energy type (the same chosen for ruinous weapons below).
+Sacrilegious Aura (abjuration, aura, divine, evil) 30 feet. When a creature in the aura
+uses a positive spell or ability, the graveknight automatically attempts to counteract
+it, with the listed counteract modiﬁer.
+Devastating Blast ʚʖ (arcane, evocation) The graveknight unleashes a 30-foot cone of
+energy. Creatures in the area take 1d12 damage, plus an additional 1d12 damage for
+every two levels the graveknight has (basic Reﬂex save). The graveknight can use
+this ability once every 1d4 rounds. This energy damage is of the same type as that of
+its ruinous weapons (see below); Devastating Blast gains the associated energy trait.
+Phantom Mount ̂ˬ (arcane, conjuration, summon) The graveknight summons a
+supernatural mount as per phantom steed, heightened to a level equal to half the
+graveknight’s level. Unlike phantom steed, the steed’s AC and saving throw bonuses
+are all 4 lower than the graveknight’s, and the steed has one-third the graveknight’s
+Hit Points (rounded down). If the steed is destroyed, the graveknight must wait 1 hour
+before using this ability again.
+Ruinous Weapons At the time of its creation, a graveknight chooses one of the following
+energy types that was relevant to its life or death: acid, cold, electricity, or ﬁre. Any
+weapon the graveknight wields gains the eﬀects of the caustic, frost, shock, or ﬂaming
+weapon rune, respectively, in addition to a +1 striking weapon rune. If the graveknight
+is 14th level or higher, its weapons instead gain the eﬀects of the greater versions of
+both of these runes.
+Weapon Master The graveknight has access to the critical specialization eﬀects of any
+weapons it wields.
+ALTERNATE GRAVEKNIgHT ABILITIES
+Although the abilities listed above are standard for a graveknight, you can create a
+more unusual graveknight by substituting one of the aforementioned abilities (except
+for its rejuvenation ability) with one of the following.
+Betrayed Reviviﬁcation The graveknight died after being deeply betrayed. Instead
+of being immune to a type of energy damage, it is immune to mental damage, its
+weapons deal 1d6 additional mental damage, and its Devastating Blast deals mental
+damage with a Will saving throw instead of Reﬂex.
+
+================================================================================
+PAGE 192
+================================================================================
+
+Create Grave Squire The graveknight can gift a piece of its armor to a willing ally, which
+becomes its grave squire. The graveknight can communicate telepathically with its
+squire at any distance, see through the squire’s senses, and cast suggestion as a divine
+innate spell through the telepathic link at will; the squire treats its degree of success
+as one step worse. If the graveknight’s main armor is destroyed, the squire’s piece
+expands to cover the squire’s body over 1d10 days, after which point it becomes the
+graveknight’s new body. The graveknight can have only one squire at a time, and
+must recover the gifted piece of armor if it wishes to create a new squire.
+Dark Deliverance The graveknight has positive resistance equal to its level.
+Graveknight Armor
+Wearing graveknight armor is very risky, for the graveknight’s
+essence rapidly parasitizes the new wearer, accelerating the
+graveknight’s rejuvenation. This agonizing transformation inevitably kills the
+host, transforming their ﬂesh into the graveknight’s new body. Removing the
+curse allows a character to remove the armor, but if it ever wears the armor
+again, the curse returns. If the wearer dies from another cause while
+wearing the armor, or if the graveknight’s rejuvenation
+completes before the wearer dies from the curse, the wearer
+immediately progresses to stage 3.
+Graveknight’s Curse (arcane, curse, necromancy) This curse aﬀects anyone
+who wears a graveknight’s armor for at least 1 hour. Saving
+Throw Will save; Onset 1 hour; Stage 1 doomed 1 and cannot
+remove the armor (1 day); Stage 2 doomed 2, hampered
+10, and cannot remove the armor (1 day); Stage 3
+dies and transforms into the armor’s graveknight.
+GRAVEKNIGHT
+LEVEL 10
+LE
+MEDIUM
+UNDEAD
+Perception +19; darkvision
+Languages Common, Necril
+Skills Athletics +23, Intimidation
++22, Religion +19, Warfare Lore +20
+Str +7, Dex +4, Con +4, Int +2, Wis +3,
+Cha +5
+Items composite longbow (20 arrows),
++1 resilient full plate, greatsword
+AC 31; Fort +21, Ref +19, Will +18
+HP
+175,
+negative
+healing,
+rejuvenation; Immunities cold,
+death, disease, paralyzed, poison,
+unconscious
+Sacrilegious Aura 30 feet. +17
+Attack of Opportunity Ǻȓ
+Speed 25 feet
+Melee Ȱɵ frost greatsword +24 (cold,
+magical, versatile P), Damage
+2d12+10 slashing plus 1d6 cold
+Melee Ȱɵ ﬁst +23 (agile, cold),
+Damage 2d6+10 bludgeoning plus 1d6 cold
+Ranged Ȱɵ frost composite longbow +21 (cold, deadly 1d10,
+magical, range increment 100 feet, reload 0, volley 30 feet),
+Damage 2d8+6 piercing plus 1d6 cold
+Devastating Blast ʚʖ (arcane, cold, evocation) 6d12 cold, DC 29
+Graveknight’s Curse DC 33
+Phantom Mount ̂ˬ (arcane, conjuration) HP 58; AC 27, Fort +17, Ref +15, Will +14.
+Weapon Master
+
+================================================================================
+PAGE 193
+================================================================================
+
+Bestiary
+GREMLIN BELLS
+Superstitious societies sometimes
+hang tiny bells made of
+semiprecious metals in the belief
+that such bells will dissuade
+gremlins from destroying an
+aﬃxed object or infesting a home.
+Strangely enough, most gremlins
+believe this superstition as well,
+and even when a gremlin bell
+hasn’t been magically enhanced,
+a gremlin usually won’t risk
+tinkering with objects that seem to
+be protected in such a manner.
+Gremlin
+Gremlins are cruel fey tricksters and saboteurs who have fully acclimated to life
+on the Material Plane, ﬁnding distinct niches for their inventive destructiveness.
+All gremlins delight in ruining or breaking things, whether it’s something physical
+like a device or vehicle or something intangible such as an alliance or relationship.
+A gremlin’s greatest joy is watching the collapse of complex creations, preferably
+after the lightest and slightest, carefully targeted push from the gremlin. Gremlins
+tend to denigrate, bully, or even slaughter their lesser kin, particularly mitﬂits,
+whom gremlins (and many others) derisively call “mites.”
+Mitflit
+Mitﬂits, also known as mites, are self-loathing and pitiful cowards, easily bullied
+into servitude by other creatures or even slightly more powerful mitﬂit leaders.
+They tame insects, spiders, and other such creatures to serve as faithful allies.
+Mitﬂits have lost most of their ancestral gremlin magic, leaving these incomplete
+beings full of doubt and insecurity. Mitﬂits ﬁnd companionship in the other base
+creatures of the world, and forge bonds of friendship with vermin, the only other
+beings that seem willing to accept them. A social structure, even one in which they
+are bullied, partially ﬁlls the hole within mitﬂits’ personalities, and they rarely
+rebel or rail out unless their rage hits a breaking point.
+MITFLIT
+CREATURE –1
+LE
+SMALL
+FEY
+GREMLIN
+Perception +4; darkvision, scent (imprecise) 30 feet
+Languages Undercommon
+Skills Acrobatics +5, Diplomacy +1 (+7 vs. arthropods), Nature +3, Stealth +5, Thievery +5
+Str –1, Dex +3, Con +0, Int –1, Wis +1, Cha –1
+Self-Loathing (emotion, mental) A mitﬂit’s self-loathing makes it easy to inﬂuence. It
+takes a –4 penalty to its Will DC against checks to Coerce, Demoralize, Make an
+Impression, and Request.
+Vermin Empathy Mitﬂits can use Diplomacy to Make an Impression on and Request things
+of arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals). Most
+arthropods have a starting attitude of indiﬀerent to mitﬂits.
+Items dart (10), shortsword
+AC 15; Fort +2, Ref +7, Will +4
+HP 10; Weaknesses cold iron 2
+Speed 20 feet; climb 20 feet
+Melee Ȱɵ shortsword +8 (agile, ﬁnesse, versatile S),
+Damage 1d6–1 piercing
+Ranged Ȱɵ dart +8 (agile, range increment 20 feet,
+thrown), Damage 1d4–1 piercing
+Primal Innate Spells DC 16; 2nd speak with animals (at will;
+arthropods only); 1st bane; Cantrips (1st) prestidigitation
+Vengeful Anger (emotion, mental) As long as it isn’t frightened, a
+mitﬂit gains a +2 status bonus to damage rolls against a creature that
+has previously damaged or tormented it.
+Pugwampi
+Mean, dog-faced, and craven, pugwampis take disproportionate
+enjoyment from the accidents and missteps of other creatures—something
+that happens often due to the supernatural aura of ill fortune these gremlins
+project. They enjoy preparing pranks involving spikes, excrement, pits full of
+spiders, and the like. Pugwampis are somewhat deaf and thus often yell
+loudly to each other when not hiding. Many pugwampis worship
+gnolls as gods and aspire to be more like gnolls, although gnolls
+hate pugwampis even more than most creatures do, due to their
+sycophantic fawning.
+
+================================================================================
+PAGE 194
+================================================================================
+
+GREMLIN “TREASURE”
+All gremlins are hoarders, and their
+nests are cluttered with objects
+both valuable and worthless.
+Sorting through a gremlin nest can
+reveal unexpected treasures like
+pieces of jewelry or minor magic
+items, but care must also be taken
+to avoid being cut on rusty shards
+of metal, picking up cursed items,
+or disturbing a hidden nest of
+venomous vermin.
+
+================================================================================
+# ANNIS HAG
+================================================================================
+
+
+Bestiary
+THE NATURE OF HAGS
+Some believe that hags possess
+no true form or body of their
+own, but instead manifest from
+society’s fear of aging. That no
+known male hags exist has also
+puzzled scholars, but perhaps
+this is but another way in which
+hags mock society—by presenting
+themselves as awful stereotypes
+of elderly women.
+ANNIS HAG
+CREATURE 6
+CE
+LARGE
+HAG
+HUMANOID
+Perception +15; darkvision
+Languages Aklo, Common, Jotun
+Skills Acrobatics +10, Athletics +14 (+16 to Grapple), Deception +11, Diplomacy +9,
+Intimidation +11, Stealth +14
+Str +6, Dex +4, Con +4, Int +1, Wis +4, Cha +3
+Coven An annis hag adds earthbind, passwall, and spellwrack to her coven’s spells.
+AC 24; Fort +16, Ref +12, Will +14, +1 status to all saves vs. magic
+HP 85; Resistances physical 5 (except bludgeoning)
+Speed 40 feet
+Melee Ȱɵ claw +16 (agile, cold iron, magical, reach 10 feet), Damage 2d8+6 slashing
+plus Grab
+Bonds of Iron ʚʖ (attack, conjuration, occult) Once per day, an annis
+hag can cause a cage built of cold iron ﬁngernails to spring out of
+nothingness at a range of up to 30 feet, attempting an Athletics
+check to Grapple against the target’s Fortitude DC; if the target has a
+weakness to cold iron, the annis hag gains a +2 circumstance bonus
+to this check. Unlike a normal Grapple, the annis hag doesn’t need
+to be within reach and can move as she pleases, and a successful
+attempt lasts until the creature escapes (DC 24), causing the cage to
+crumble into rust. Any creature can attempt to destroy the cage by
+attacking it. It has an AC of 19, Hardness 10, and 40 Hit Points.
+Change Shape Ȱɵ (concentrate, occult, polymorph, transmutation) The
+hag can take on the appearance of any Medium female humanoid. This
+doesn’t change her Speed or her attack and damage bonuses with her
+Strikes but might change the damage type her Strikes deal (typically to
+bludgeoning).
+Rend Ȱɵ claw
+Night Hag
+Night hags are thieves and merchants of mortal souls.
+These foul creatures collect souls in dark gems or
+crystalline jars to sell in ﬁendish markets, and are
+themselves empowered by potent magic jewels known
+as heartstones. They haunt the Ethereal Plane, where
+they prey upon mortals in their dreams, debilitating
+them with horriﬁc nightmares as they rest. A night
+hag may ﬁnd a particular target and haunt them
+continuously over the course of weeks, slowly and
+cruelly breaking down the victim’s will and ability to
+resist, until their soul is forfeit.
+A night hag is a canny mastermind and soul broker, willing to
+consider any deal as long as she is convinced she has the upper hand.
+Although a night hag ﬁnds it easy to travel the Ethereal Plane and
+prey upon helpless souls that can’t ﬁght back, these souls are also the
+least desirable to the evil outsiders the night hag bargains with, and
+so a night hag gathers allies and minions that allow her to prey on
+more potent souls without personally risking herself. Their favored
+minions are nightmares, with whom they share a special bond.
+Above all, night hags avoid ﬁghting foes that can harry them on the Ethereal
+Plane, picking ﬁghts only when they are certain they can escape.
+
+================================================================================
+# AASIMAR REDEEMER
+================================================================================
+
+Ghost Hunter The duskwalker’s weapons have the beneﬁts of the ghost touch property
+rune on attacks against incorporeal undead.
+Hunt Prey Ȱɵ The duskwalker designates as its prey a single creature that it can see
+and hear or that it is Tracking. It gains a +2 circumstance bonus to Perception
+checks when it Seeks its prey and a +2 circumstance bonus to Survival checks
+when it Tracks its prey. It also ignores the penalty for making ranged attacks within
+its second range increment against its prey.
+Lastly, it gains a +2 circumstance bonus to Deception checks, Intimidation checks,
+and Stealth checks against its prey and to any check to Recall Knowledge about
+its prey, as well as a +1 circumstance bonus to AC against its prey’s attacks. The
+duskwalker can have only one prey designated at a time.
+Hunted Shot Ȱɵ Frequency Once per round; Eﬀect The duskwalker makes two
+longbow Strikes against its hunted prey. If both Strikes hit, combine their
+damage for the purpose of resistances and weaknesses.
+Aasimar
+Mortals whose ancestry has been inﬂuenced by celestials are known as
+aasimars, and angelkin, who have blood of angels coursing through their
+veins, are among the most common type of them. Many angelkin seek
+adventure as a means of doing good in the world.
+AASIMAR REDEEMER
+CREATURE 5
+NG
+MEDIUM
+AASIMAR
+HUMAN
+HUMANOID
+Perception +11; darkvision
+Languages Celestial, Common
+Skills Athletics +11, Diplomacy +12, Medicine +9, Religion +11, Society +7
+Str +4, Dex +1, Con +3, Int +0, Wis +2, Cha +3
+Items crossbow (10 bolts), half plate, steel shield (Hardness 5, 20 HP, BT 10), longsword
+AC 23 (25 with shield raised); Fort +12, Ref +8, Will +11: +1 status to all saves vs.
+disease (against diseases, critical failures become failures)
+HP 73
+Divine Grace Ǻȓ Trigger The angelkin is targeted by a spell that allows a saving throw.
+Eﬀect The scion gains a +2 circumstance bonus to the saving throw.
+Glimpse of Redemption Ǻȓ Trigger An enemy damages one of the angelkin’s allies. Both
+the enemy and ally must be within 15 feet of the angelkin. Eﬀect The angelkin causes
+its foe to hesitate under the weight of its sins as visions of possible redemption play
+out in its mind’s eye. The foe chooses one of two options:
+• The ally is completely unharmed by the triggering damage.
+• The ally gains resistance 7 to all damage against the triggering damage. After the
+damaging eﬀect resolves, the enemy becomes enfeebled 2 until the end of its
+next turn.
+Shield Block Ǻȓ
+Speed 20 feet
+Melee Ȱɵ longsword +15 (versatile P), Damage 1d8+7 slashing
+Ranged Ȱɵ crossbow +12 (range increment 120 feet, reload 1), Damage 1d8+3 piercing
+Divine Innate Spells DC 20; Cantrips (3rd) light
+Champion Devotion Spells DC 20; 3rd (1 Focus Point) lay on hands (Core Rulebook 387)
+
+================================================================================
+PAGE 265
+================================================================================
+
+Bestiary
+POLTERGEIST TREASURE
+A poltergeist needs items to
+hurl as weapons, and over the
+centuries of use, only durable
+objects survive its rampages.
+Silver dinnerware, hatchets, and
+books might all be found in a
+poltergeist’s collection.
+Poltergeist
+When a creature dies, and for whatever reason its spirit is unable or unwilling
+to leave the site of its death, that spirit may manifest as a poltergeist: a restless
+invisible spirit that is still able to manipulate physical objects. Many poltergeists
+perished in a way that resulted from or has led to extreme emotional trauma.

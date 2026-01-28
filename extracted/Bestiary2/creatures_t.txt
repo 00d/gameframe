@@ -1,0 +1,1781 @@
+# Bestiary - Creatures: T
+# Count: 17 creatures
+
+
+================================================================================
+# THELETOS
+================================================================================
+
+
+Bestiary 2
+Aeon
+Aeons are paragons of law above all else. True aeons embody opposing concepts
+or forces and are tasked with maintaining balance between those two things,
+while inevitables are living constructs that enforce laws both mortal and divine.
+THELETOS
+Theletoses maintain the balance between fate and free will. A theletos is a roughly
+spherical mass of crystals from which emerge four limbs, each split at the elbow
+and ending in three-ﬁngered hands. A pair of crystalline tentacles also emerges
+from its body. Those who have been damaged by a theletos’s tentacles describe a
+disorienting dilemma as they simultaneously feel forced to make a single choice
+while also being overwhelmed by the endless options available to choose from.
+Theletoses are more likely than most aeons to interfere in non-aeon societies,
+particularly in regions with draconian laws. Their involvement is twofold; a
+theletos concerns itself with both the freedom of individuals and the laws that
+restrict these individuals, even (or especially) when the two are in opposition.
+THELETOS
+CREATURE 7
+LN
+MEDIUM
+AEON
+MONITOR
+Perception +18; darkvision
+Languages envisioning
+Skills Arcana +16, Intimidation +16, Religion +18, Stealth +15
+Str +4, Dex +4, Con +3, Int +3, Wis +5, Cha +3
+Envisioning When a theletos conveys information, it does so wordlessly through psychic
+projections. This acts as telepathy with a range of 100 feet but is understandable to all
+creatures regardless of whether they have a language. The meaning to non-aeons can be
+vague and is often mysterious. A theletos can use this ability to communicate ﬂawlessly
+with any other aeon on the same plane.
+AC 25; Fort +16, Ref +13, Will +18; +1 status to all saves vs. magic
+HP 125; Weaknesses chaotic 5
+Speed 25 feet, ﬂy 25 feet
+Melee Ȱɵ ﬁst +17 (lawful, magical),
+Damage 2d10+4 bludgeoning plus 1d6
+lawful
+Melee Ȱɵ tentacle +17 (agile,
+lawful,
+magical),
+Damage
+2d8+4 slashing plus 1d6 lawful
+and fate drain
+Divine Innate Spells DC 25, attack
++17; 4th augury (at will), charm,
+dispel magic, enthrall, outcast’s curse,
+remove curse, suggestion, touch of idiocy
+Rituals DC 25; geas
+Fate Drain (curse, divine, mental) A creature
+damaged by the theletos’s tentacle must
+succeed at a DC 22 Will save or become
+stupeﬁed 1. As long as the creature is stupeﬁed, it can
+no longer beneﬁt from fortune eﬀects. If the target fails additional
+saves against this ability, the condition value increases by 1 (to a
+maximum of stupeﬁed 4). This condition value decreases by 1
+every 24 hours.
+Wrath of Fate ʚʖ (curse, divine, mental, misfortune) The
+theletos releases a 60-foot cone of energy from its center.
+Creatures in the cone become overwhelmed with
+the knowledge of various fates that destiny has in
+store for them and lack of clear pathways to
+these potential futures. They must succeed at
+MAINTAINING THE BALANCE
+Theletoses care little for the individuals
+and societies they manipulate, only
+that balance between freedom and
+fate is maintained. A theletos might
+help a creature who has lost their
+freedom escape, but it may also force
+those who swore to perform an unjust
+duty to stick to their word. If its plans
+are thwarted, a theletos doesn’t seek
+revenge, but instead looks for other
+ways to redress the balance.
+
+================================================================================
+PAGE 10
+================================================================================
+
+a DC 26 Will save or be slowed 1 indeﬁnitely. An aﬀected creature can choose to roll
+twice when it attempts an attack, saving throw, or skill check and take the lower result.
+Regardless of the outcome, that creature is no longer slowed after that roll. The theletos
+can’t use Wrath of Fate again for 1d4 rounds.
+ZELEKHUT
+A zelekhut is a bounty hunter and executioner. The zelekhut resembles a mechanical
+centaur crafted from silvery metal with golden clockwork wings adorning its back.
+Instead of hands, the zelekhut’s arms end in long, barbed chains that crackle with
+electricity. Whether sent by the powers of Axis or summoned by mortal authorities,
+the zelekhut seeks out those who continually evade justice—either through active
+ﬂight, or by abusing their power and station—so as to bring justice to the multiverse’s
+most notorious fugitives and criminals. Indeed, many a zelekhut’s quarry are as
+famous for their ability to evade capture as for the crimes they commit.
+Though the zelekhut is implacable and unrelenting in
+enforcing sentences, it does not pass judgments of its own
+or take the initiative in pursuing targets of opportunity. While
+hunting a condemned serial killer or notorious thief across half a
+dozen planes, the zelekhut wouldn’t shift a single hoof to capture a
+corrupt ruler whose offenses are far greater. All zelekhuts understand
+that laws can and must differ from place to place, and it is not the
+zelekhut’s job to moralize, merely to obey its rightful assignments
+and track down those who seek to ﬂee their punishment.
+
+================================================================================
+# TRUMPET ARCHON
+================================================================================
+
+
+INSTRUMENTS OF WAR
+A trumpet archon’s magical
+instrument is no mere piece of
+brass; each of these immaculately
+crafted horns is said to be crafted
+in Heaven’s blessed forges and
+infused with the voices of a thousand
+angels. Only archons can truly
+play such trumpets—mortals lack
+the power necessary to create
+trumpet archons’ iconic clarion
+calls, but can still play them as
+virtuoso instruments.
+TRUMPET ARCHON
+Trumpet archons are messengers, emissaries, and storytellers­—embodiments of
+the virtue of kindness. They use stories and allegories to prevent bloodshed, and
+among all archons they are the most likely to work together with angels, perhaps
+leading to the similarities in their forms. When diplomacy is impossible, trumpet
+archons rally the righteous to battle—one reassuring glance from a trumpet archon
+is often all it takes to instill a shaken ally with resounding courage once again.
+TRUMPET ARCHON
+CREATURE 14
+LG
+MEDIUM
+ARCHON
+CELESTIAL
+Perception +26; darkvision
+Languages Celestial, Draconic, Infernal; tongues
+Skills Acrobatics +25, Diplomacy +29, Intimidation +28, Nature +23, Religion
++23, Performance +31, Stealth +25
+Str +7, Dex +5, Con +5, Int +3, Wis +6, Cha +8
+Items +2 striking bastard sword, +1 resilient full plate, virtuoso trumpet
+AC 36; Fort +24, Ref +24, Will +27; +1 status to all saves vs. magic
+HP 285; Resistances sonic 15; Weaknesses evil 15
+Retributive Strike Ǻȓ
+Speed 35 feet, ﬂy 60 feet
+Melee Ȱɵ bastard sword +29 (good, magical, versatile P),
+Damage 2d12+13 slashing plus 2d6 sonic and 1d6 good
+Divine Innate Spells DC 34; 7th heal (×2), sound burst;
+6th heroism, zealous conviction; 5th banishment,
+breath of life; 4th dimension door (at will); 3rd circle
+of protection (against evil only; ×2); Cantrips (6th)
+message; Constant (5th) tongues
+Archon’s Door As hound archon.
+Kind Word Ȱɵ (auditory, divine, emotion, enchantment,
+linguistic, mental) The trumpet archon oﬀers an
+ally praise or encouragement. The archon attempts
+to counteract one emotion eﬀect on the ally (with a
+counteract modiﬁer of +24), and the archon and the
+ally both gain a +1 status bonus to attack rolls and
+saving throws for 1 round.
+Trumpet Blast Ȱɵ (auditory, divine, emotion, enchantment,
+mental) The trumpet archon blows mightily on their
+horn, creating a tone of such beauty and grandeur
+those who hear it are paralyzed in awe. Non-archons
+within 100 feet must attempt a DC 34 Fortitude save.
+They are temporarily immune for 10 minutes.
+Critical Success The creature is unaﬀected.
+Success The creature is ﬂat-footed.
+Failure The creature is stunned 1 and
+ﬂat-footed as long as it’s stunned.
+Critical Failure The creature is
+paralyzed for 1 round.
+STAR ARCHON
+Embodiments of the virtue of prudence, star
+archons serve as philosophers and administrators,
+and in times of war as the tacticians, strategists, and
+generals of archon armies. Star archons burn with the glory
+and intensity of a sun, and their sense of duty and desire to defeat evil are
+as indefatigable as the light of the stars. While their dazzling intellects and
+unmatched strategic cunning make them most useful in war rooms rather
+than on battleﬁelds, star archons are ﬁerce opponents when motivated to enter
+
+================================================================================
+PAGE 25
+================================================================================
+
+Bestiary 2
+HEAVENLY MOUNTAIN
+Archons reside in Heaven, a plane that
+appears as a single massive mountain.
+Heaven is broken into seven tiers, with
+most archons occupying the second
+level and base of army operations,
+Proelera, or the sixth level, Iudica, the
+administrative heart of Heaven.
+the fray. Those who witness the self-sacriﬁce of a star archon and live to tell the
+tale describe the experience in terms that might beﬁt the sight of a supernova at
+the instant the star collapses in on itself.
+
+================================================================================
+# TITAN CENTIPEDE
+================================================================================
+
+Undulate Ȱɵ The giant whiptail centipede Strides **or Steps. During this movement, it
+can pass through spaces as narrow as 5 feet without Squeezing.
+Whiptail Centipede Venom (poison); Saving Throw DC 19 Fortitude; Maximum
+Duration 6 rounds; Stage 1 1d10 poison damage and clumsy 1 (1 round);
+Stage 2 2d10 poison damage and clumsy 1 (1 round); Stage 3 2d10 poison
+damage and clumsy 2 (1 round)
+TITAN CENTIPEDE
+These colossal, solitary centipedes claim vast hunting grounds.
+TITAN CENTIPEDE
+CREATURE 9
+N
+GARGANTUAN
+ANIMAL
+Perception +18; darkvision
+Skills Acrobatics +16, Athletics +21
+Str +8, Dex +1, Con +5, Int –5, Wis +5, Cha –4
+AC 28; Fort +20, Ref +16, Will +18
+HP 155
+Speed 50 feet, climb 50 feet
+Melee Ȱɵ mandibles +21 (reach 20 feet), Damage 2d10+12 piercing plus
+titan centipede venom
+Melee Ȱɵ foot +19, Damage 2d8+10 bludgeoning
+Impaling Critical When a titan centipede scores a critical hit with its
+mandibles, the target is painfully pierced with barbed spines and bristles,
+taking 1d6 persistent bleed damage and becoming ﬂat-footed as long as
+the bleed damage continues.
+Titan Centipede Venom (poison); Saving Throw DC 28
+Fortitude; Maximum Duration 6 rounds; Stage 1 2d6
+poison damage and clumsy 2 (1 round); Stage 2 2d8
+poison damage, clumsy 2, and slowed 1 (1 round);
+Stage 3 2d10 poison damage, clumsy 2, and
+slowed 2 (1 round)
+Trample ̂ˬ Huge or smaller, foot, DC 28
+Undulate Ȱɵ The titan centipede
+Strides up to its Speed or Steps.
+During this movement, it can
+pass through spaces as narrow as
+10 feet without Squeezing.
+
+================================================================================
+PAGE 52
+================================================================================
+
+CHOKER TRINKETS
+A choker’s nest is small and conﬁned,
+as the choker prefers. It doesn’t tidy
+its nest, so everything from animal
+bones to valuable treasures might
+be within, compacted into one mass.
+A choker in the wilderness might
+have a few remnants of society taken
+from victims who wandered through.
+These remnants can include candles,
+maps, or animal traps. Chokers in
+cities have stolen goods appropriate
+to their location: books and scrolls if
+a library or wizard’s college is nearby,
+steins and pillows near a tavern, or
+ﬁshhooks and shipping manifests near
+a dock, for example. Chokers almost
+never have edible or drinkable items,
+as they prefer to consume these
+“delicacies” themselves—even magical
+potions and alchemical items.
+Choker
+With long, cartilaginous limbs and gray skin, chokers easily hide in stony alcoves,
+rocky ﬁssures, and darkened staircases to ambush their prey. The strange little
+aberrations prefer to pick off weak and solitary creatures, especially those that
+wander off from their packs or communities. A choker’s long, spongy arms are
+ﬂexible but deceptively strong. The ﬁngers can tighten rapidly and are ridged with
+spiky, tooth-like structures that provide an incredible grip. A choker typically
+strangles its prey to death, then drags the body off or dismembers it using crude
+tools if the body is too big to carry. If confronted or outnumbered, a choker
+tries to escape, often compressing into a tight passage to get away. Chokers that
+encounter humanoids exhibit intense curiosity about their culture, society, and the
+products of art and industry. This interest isn’t very deep—it just results in chokers
+that like killing people and collecting any of their items that seem sophisticated,
+such as jewelry, nice clothing, or written texts.
+Chokers sometimes gather in settlements, usually sticking to slums or abandoned
+structures. These chokers stalk at night, ﬂopping across rooftops, tapping at
+windows, and scuttling through sewers, gutters, and chimneys to get at prey. An
+urban choker that ﬁnds prey early on its hunt—a wandering pet, a person who
+is out alone—might spend the rest of the night indulging its curiosity about the
+products of society. A curious choker might abscond with all sorts of odd items,
+from tavern signs to library books to roof tiles. A choker usually pilfers only one
+item at a time, but as its collection grows, it might need to ﬁnd a larger nest to
+accommodate its collection, then move its pieces one by one to the new home.
+
+================================================================================
+# THANADAEMON
+================================================================================
+
+
+STYX PASSAGE FEES
+Gliding with eerie ease along the
+murky River Styx, thanadaemons
+are only too happy to oﬀer mortals
+passage aboard their dilapidated
+skiﬀs—for a price. Gold is typically
+an acceptable payment for a
+thanadaemon’s services, though these
+ﬁends are well-known for altering the
+details of arrangements after the fact,
+and may just as likely demand a favor
+or some esoteric good, such as a soul
+gem, instead of coin.
+THANADAEMON
+CREATURE 13
+NE
+MEDIUM
+DAEMON
+FIEND
+Perception +26; darkvision, true seeing
+Languages Common, Daemonic; telepathy 100 feet
+Skills Arcana +22, Deception +26, Intimidation +26, Religion +22, Styx Lore +24
+Str +6, Dex +6, Con +4, Int +3, Wis +5, Cha +7
+Items +1 striking bo staﬀ, soul gem (2)
+AC 34; Fort +21, Ref +23, Will +26; +1 status to all saves vs. magic
+HP 270; Immunities death eﬀects; Weaknesses good 10
+Terrifying Gaze (aura, divine, emotion, enchantment, fear, mental, visual) 30 feet. When a
+creature ends its turn in the aura, it must attempt a DC 30 Will save. If the creature fails,
+it becomes frightened 2. The creature is then temporarily immune to terrifying gaze (but
+not Focus Gaze) for 24 hours.
+Speed 25 feet; air walk
+Melee Ȱɵ bo staﬀ +28 (evil, magical, parry, reach 10 feet, trip), Damage 3d8+14 bludgeoning
+plus 1d6 negative, 1d6 evil, and draining strike
+Melee Ȱɵ claw +27 (agile, evil, ﬁnesse, magical), Damage 3d6+14
+slashing plus 1d6 evil and draining strike
+Divine Innate Spells DC 34; 7th ﬁnger of death, plane shift (at
+will; self plus skiﬀ and passengers only; Astral, Ethereal, and
+evil planes only), teleport; 6th slow, vampiric exsanguination (×2);
+5th dimension door; 4th dimension door (at will); 1st detect alignment
+(good only; at will); Constant (7th) air walk, true seeing
+Rituals DC 34; animate dead
+Draining Strike (divine, necromancy) When a thanadaemon
+damages a living creature with a melee Strike, the
+creature must succeed at a DC 33 Fortitude save or
+become drained 1. Further damage dealt by the
+thanadaemon increases the drained condition value
+by 1 on a failed save, to a maximum of drained 4.
+Focus Gaze Ȱɵ (concentrate, divine, fear, visual) The
+thanadaemon glares at a single creature they can
+see within 30 feet. The target must immediately
+attempt a DC 33 Will save against the thanadaemon’s
+terrifying gaze. If the target was already frightened,
+a failed save causes it to become ﬂeeing for 1d4
+rounds. After attempting its save, the creature is
+temporarily immune to this ability until the start of
+the thanadaemon’s next turn.
+Soul Crush ʚʖ (manipulate) Requirements The
+thanadaemon has a soul gem; Eﬀect The thanadaemon
+crushes the soul gem in one hand and gains fast healing
+15 for 1 minute.
+PURRODAEMON (WAR DAEMON)
+Few creatures embody war’s sheer amount of bloodshed
+and loss of life as deeply as the purrodaemons, deacons
+of war. These giant humanoid daemons are bedecked
+in black, unholy armor, with weapons piercing their
+ﬂesh at every opening. Far from wounds, however,
+these weapons are the purrodaemon’s arsenal. A
+purrodaemon can, with frightening swiftness
+and nauseating ease, extract a weapon from its
+own ﬂesh as though drawing a sword from a
+sheath, and their blood is so tainted with evil
+that weapons steeped in it become
+powerful tools of war.
+
+================================================================================
+PAGE 63
+================================================================================
+
+Bestiary 2
+DAEMONIC DEACONS
+Each of the four Horsemen is
+served by a speciﬁc category
+of servitor daemons known as
+deacons. Leukodaemons serve
+as deacons to the Horseman of
+Pestilence. Meladaemons serve as
+deacons to the Horseman of Famine,
+while thanadaemons serve as
+deacons to the Horseman of Death.
+Purrodaemons are currently the most
+powerful of the deacons, and serve
+the Horseman of War—yet over time,
+which category of deacon is the most
+powerful can wax and wane.
+
+================================================================================
+# TAIGA GIANT
+================================================================================
+
+
+Bestiary 2
+TAIGA GIANT CLANS
+Each taiga giant clan links its identity
+to the deeds of their most famous
+ancestors and heroes. Names such
+as Cliﬀsmiter and Mountainripper
+hint at legendary accomplishments,
+though the stories are rarely shared
+with outsiders.
+TAIGA GIANT
+Taiga giants prefer a nomadic lifestyle, both to keep from depleting any one
+area’s resources while satiating their massive appetites and to satisfy a constant
+wanderlust. They are deeply spiritual and frequently commune with their
+ancestors’ spirits for guidance and knowledge. Taiga giants are happiest when
+they are left alone to live out their traditional lives, and their impressive size and
+strength are enough to persuade all but the most dangerous foes to do so.
+Taiga giants subsist on migratory herds of aurochs, mammoths, and elk. They
+occasionally raid humanoid villages, but such cases are opportunistic rather than
+malicious, with a focus on stealing away livestock for food rather than people.
+Nevertheless, the arrival of a group of taiga giants is a potentially devastating
+event to any town or village, so many communities attempt to placate the giants
+by creating a yearly offering at those times when they know the giants are
+scheduled to come close.
+Most taiga giants venerate their ancestors and seek to honor their works in
+everything they do. This deep connection makes them ferociously proud of
+those legacies, and little can compel taiga giants to go to war more swiftly
+than insulting their ancestors. Merely mentioning the false rumors that
+ancient taiga giant spellcasters were responsible for the creation of the
+ﬁrst rune giants is a sureﬁre way to earn a taiga giant’s unending wrath.
+A taiga giant stands 20 feet tall and weighs 10,000 pounds.
+TAIGA GIANT
+CREATURE 12
+CN
+HUGE
+GIANT
+HUMANOID
+Perception +23; low-light vision, see invisibility
+Languages Common, Jotun
+Skills Athletics +22, Genealogy Lore +16, Religion +20, Stealth +10
+(+22 in undergrowth), Survival +25
+Str +7, Dex +1, Con +5, Int +1, Wis +4, Cha +2
+Items +1 striking longspear, sack with 5 rocks
+See Invisibility A taiga giant can see invisible creatures and objects as
+translucent shapes, and they are concealed to the taiga giant.
+AC 32; Fort +25, Ref +20, Will +22; +2 status to all saves vs. enchantment
+and illusion eﬀects
+HP 230; Immunities controlled
+Catch Rock Ǻȓ
+Guardian Spirit Ǻȓ Trigger The taiga giant has Ancestral Guardian active
+and would take energy or mental damage; Eﬀect The taiga giant’s ancestral
+spirits intervene and protect the giant from taking up to 20 energy damage
+or 30 mental damage. The giant takes any remaining damage; if it does, the
+spirits depart and the giant is no longer protected by the ancestors.
+Speed 30 feet
+Melee Ȱɵ longspear +26 (magical, reach 20 feet), Damage 2d8+15 piercing
+Melee Ȱɵ ﬁst +25 (agile, reach 15 feet), Damage 3d6+15 bludgeoning
+Ranged Ȱɵ rock +25 (brutal, range increment 120 feet), Damage 2d10+15
+bludgeoning
+Ancestral Guardian Ȱɵ (concentrate) Requirements The taiga giant must
+be protected by the ancestors; Eﬀect The taiga giant calls upon their
+ancestors’ spirits to rise up and protect them, causing a cloak of
+spectral faces to shimmer and swirl around them. The taiga giant’s AC
+increases to 34 until the start of its next turn.
+Protected by the Ancestors (divine) A taiga giant’s prayers to their
+ancestors grant them spiritual protection. If a taiga giant loses this
+protection (such as by taking too much damage when using Guardian
+Spirit, or if the ancestors are counteracted by dispel magic), it loses
+its immunity to the controlled condition and its status bonus to saving
+throws against enchantment and illusion eﬀects. A taiga giant can once again be
+
+================================================================================
+PAGE 128
+================================================================================
+
+SHADOW GIANT LOCATIONS
+Some shadow giants travel to the
+Material Plane to serve as agents
+in Nidal’s Umbral Court. Rumors of
+these massive shock troops deployed
+by the court’s mysterious members
+are common, and such rumors often
+place them in the mountains near
+Cheliax and Molthune.
+Protected by the Ancestors by performing a 10-minute prayer as an activity that has
+the concentrate trait.
+Throw Rock Ȱɵ
+SHADOW GIANT
+Shadow giants are ﬁerce natives of the Shadow Plane, where they have dwelled in
+perpetual twilight for millennia. Their cultures vary greatly depending on whether
+the giants reside in their land of origin or have relocated to the Material Plane. On
+the Shadow Plane, they live in familiar groups and uphold a nomadic way of life
+as they roam across ancestral lands between shadowy forests and misty chasms.
+These hunter-gatherers pass down lore through oral histories, conduct pilgrimages
+to unholy ziggurats of black stone, and bathe in the blood of their long-standing
+foes, including rival shadow giant clans and velstracs intent on enslaving their
+kind. On the Material Plane, conversely, they are secretive and isolationist,
+keeping apart from other peoples in forbidding structures of black stone in
+high, isolated mountain valleys.
+Standing 15 feet tall, with gray skin and hair only a shade lighter,
+shadow giants are fearsome foes with a well-earned reputation as zealous
+warmongers and ruthless combatants. They rarely interact with
+outsiders, though they may treat with proven warriors
+who show the giants the respect and deference they feel
+they deserve. Only a small subset of shadow giants
+worship Zon-Kuthon, and most of these Kuthites are
+so ﬁrmly entrenched in the culture of Nidal that their
+Shadow Plane-dwelling kin would hardly recognize
+them. Most shadow giants instead practice an ancient
+religion, unique to their people, with its own bloody themes
+of sacriﬁce and self-mutilation.
+
+================================================================================
+# TAIGA LINNORM
+================================================================================
+
+
+RARER LINNORMS
+While the linnorms presented here
+and in the ﬁrst Bestiary constitute the
+majority of these creatures, others
+exist, particularly in the remote
+regions of the First World. It may be
+that these rare linnorms simply ﬁnd
+the Material Plane too constraining
+for their might!
+Cairn Linnorm Venom (acid, poison) Saving Throw DC 41 Fortitude; Maximum Duration
+10 rounds; Stage 1 6d6 acid damage and drained 1 (1 round); Stage 2 8d6 acid damage
+and drained 2 (1 round)
+TAIGA LINNORM
+Taiga linnorms are covered in hundreds of quill-like black spines as sharp as spears.
+Wise hunters native to linnorm-infested lands know to watch for spines stuck in
+the bark of conifers—a sure sign that a taiga linnorm has recently passed through.
+Sometimes this means of tracking isn’t enough to avoid an encounter, however; taiga
+linnorms, like their tarn and tor brethren, are skilled stalkers. They prefer to lurk
+in half-frozen bogs or swampy marshlands with their heads poking just above the
+water’s surface, ever watchful for unwary prey.
+TAIGA LINNORM
+CREATURE 19
+UNCOMMON
+CE
+GARGANTUAN
+DRAGON
+Perception +33; darkvision, scent (imprecise) 60 feet, true seeing
+Languages Aklo, Draconic, Sylvan
+Skills Acrobatics +33, Athletics +37, Stealth +35
+Str +10, Dex +6, Con +8, Int –2, Wis +6, Cha +7
+AC 44; Fort +35, Ref +31, Will +29; +1 status to all saves vs. magic
+HP 385, regeneration 15 (deactivated by cold iron); Immunities
+curse, electricity, paralyzed, sleep; Weaknesses cold iron 15
+Curse of Endless Storms (curse, electricity, primal)
+When a creature slays a taiga linnorm, it must
+succeed at a DC 46 Will save or permanently
+gain weakness 20 to electricity.
+Spines Any creature that makes a melee attack
+against a taiga linnorm is stabbed by the taiga linnorm’s spines and takes 1d6
+piercing damage per attack. A melee weapon with reach protects the user
+against these spines.
+Attack of Opportunity Ǻȓ Tail only.
+Speed 40 feet, ﬂy 100 feet, swim 50 feet; freedom of movement
+Melee Ȱɵ jaws +37 (magical, reach 25 feet), Damage 4d12+18 piercing plus taiga
+linnorm venom
+Melee Ȱɵ claw +37 (agile, magical, reach 25 feet), Damage 4d8+18 slashing
+Melee Ȱɵ tail +37 (agile, magical, reach 30 feet), Damage 5d6+18 bludgeoning plus
+Improved Grab
+Primal Innate Spells DC 41; Constant (9th) freedom
+of movement; (8th) true seeing
+Breath Weapon ʚʖ (electricity, evocation,
+primal) The taiga linnorm breathes
+a 60‑foot cone of electriﬁed vapor,
+dealing 20d6 electricity damage to
+creatures in the area (DC 41 basic
+Reﬂex save). The electriﬁed mist
+persists for 1d4 rounds, dealing
+6d6 electricity damage (DC 41
+basic Reﬂex save) to each creature
+that ends its turn in the mist. The taiga
+linnorm can’t use Breath Weapon again for
+1d4 rounds.
+Taiga Linnorm Venom (electricity, poison)
+Saving Throw DC 42 Fortitude;
+Maximum Duration 10 rounds; Stage
+1 7d6 electricity damage and drained
+1 (1 round); Stage 2 10d6 electricity
+damage and drained 2 (1 round)
+
+================================================================================
+PAGE 169
+================================================================================
+
+Bestiary 2
+LIZARD LOCATIONS
+Giant lizards can be found in all
+temperate or tropical climates, often
+in relatively close proximity to smaller
+villages or rural regions where they
+can be a dangerous threat to livestock
+or travelers. The two lizards presented
+here tend to dwell in warmer regions—
+jungles for giant chameleons, and
+savannas for megalanias.
+Lizard
+Giant lizards come in a wide variety of species, but they all tend to be voracious
+hunters and quick to anger—particularly when they’re molting.
+GIANT CHAMELEON
+Giant chameleons are legendary for their ability to change their skin color in
+response to their surroundings. Their eyes are capable of peering in different
+directions independently, making them almost as difﬁcult to sneak up on as they
+are to notice in the ﬁrst place.
+
+================================================================================
+# THULGANT
+================================================================================
+
+
+QLIPPOTH LORDS
+The most powerful qlippoth are
+quasi-deities themselves, ancient
+entities only rarely worshipped by nonqlippoth. Of these monstrous divinities,
+the Polymorph Plague, Yamasoth, is
+the most well-known. Others include
+Chavazvug the Crawling Inferno,
+Isph-Aun-Vuln the Feaster Within, and
+Thuskchoon the Everglutton.
+Abyss, thulgants amuse themselves with a variety of diversions, such as maintaining
+galleries of petriﬁed mortals or building massive, hive-like lairs ﬁlled with enslaved
+minions. Each of these qlippoth is a horriﬁc tangle of limbs, with spiderlike legs,
+writhing tentacles emerging from the top of its head, and three scorpion-like stingers.
+THULGANT
+CREATURE 18
+UNCOMMON
+CE
+LARGE
+FIEND
+QLIPPOTH
+Perception +30; greater darkvision, true seeing
+Languages Abyssal; telepathy 100 feet
+Skills Acrobatics +32, Athletics +35, Occultism +33, Stealth +32
+Str +9, Dex +6, Con +6, Int +5, Wis +6, Cha +9
+AC 42; Fort +30, Ref +28, Will +32
+HP 305, fast healing 10; Immunities controlled, fear; Weaknesses lawful 15; Resistances
+mental 15, physical 15 (except cold iron)
+Speed 30 feet, climb 30 feet, ﬂy 50 feet; freedom of movement
+Melee Ȱɵ stinger +35 (reach 10 feet), Damage 3d12+17 piercing plus 3d6 mental, 1d6
+chaotic, and thulgant venom
+Melee Ȱɵ tentacle +35 (agile, reach 10 feet), Damage 3d8+17 bludgeoning plus 2d6 acid,
+1d6 chaotic, and Grab
+Occult Innate Spells DC 40; 9th ﬂesh to stone (×3), phantasmal calamity; 8th dispel magic,
+divine aura (chaotic only), divine decree (chaotic only), phantom pain (×3); 7th plane shift;
+Cantrips (9th) daze, detect magic; Constant (6th) true seeing, (4th) freedom of movement
+Rituals DC 40; imprisonment (9th)
+Demon Hunter Ȱɵ (divination, occult) The thulgant causes a demon within 30 feet to
+suﬀer the eﬀect of its sinful vulnerability.
+Greater Constrict Ȱɵ 2d6+17 bludgeoning and 1d6 acid, DC 40
+Mind-Rending Sting Ȱɵ Requirement The thulgant hits the same
+enemy with two consecutive sting Strikes in the same round;
+Eﬀect The thulgant deals 3d12+17 mental damage to the
+enemy. If the enemy is aﬀected by thulgant venom, that
+poison gains the virulent trait.
+Stunning Display ʚʖ (concentrate, emotion,
+enchantment, fear, incapacitation, mental,
+occult, visual) The thulgant rises up on
+its twitching limbs and presents its
+numerous tentacles and stingers in
+a horrifying display of awfulness.
+Creatures in a 30-foot emanation
+must attempt a DC 40 Will save, after
+which they are temporarily immune to
+further Stunning Displays for 1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature is stunned 1.
+Failure The creature is stunned 4.
+Critical Failure The creature is stunned 8.
+Thulgant Venom (poison) Saving Throw Fortitude
+DC 40; Maximum Duration 6 rounds; Stage 1 3d6
+poison damage and the victim gains one of the
+following at random: clumsy 1, enfeebled 1,
+or stupeﬁed 1 (1 round); Stage 2 6d6 poison
+damage and the victim gains two of the
+following at random: clumsy 2, enfeebled 2,
+or stupeﬁed 2 (1 round); Stage 3 9d6
+poison damage and the victim gains
+all three of the following: clumsy
+3, enfeebled 3, and stupeﬁed 3
+(1 round)
+
+================================================================================
+PAGE 219
+================================================================================
+
+Bestiary 2
+QUICKLING PRANKS
+Quicklings consider cruelty to
+be the pinnacle of pranking. As
+a relatively minor example, a
+quickling may spend an entire day
+constantly moving food out of reach
+of a starving man. More commonly,
+however, a quickling prefers to cause
+pain and injury directly, such as by
+suddenly replacing a dinner fork with
+a red-hot knife as it’s picked up, or
+slashing the legs of a traveler moving
+through tall grass.
+Quickling
+Few creatures can match a quickling’s speed. These malicious fey creatures delight in
+striking with blinding speed and accuracy, racing in to stab and slash at foes before
+scampering away for cover with maddening­—even frightening—swiftness. Stories
+of people simply doubling over, bleeding from what appear to be spontaneously
+opening wounds, are often eyewitness accounts of quickling attacks.
+Quicklings actively hate the “slow-paced dullards” they encounter every day,
+delighting in inﬂicting suffering and pain on creatures they deem too sluggish to
+matter. While they are related to kinder fey such as brownies and pixies, quicklings
+care only for their own merriment. They see their own cruel pranks as the height of
+humor and have full conﬁdence that their speed and invisibility will keep them safe
+from harm. They occasionally form gangs of up to a dozen individuals, although
+the group usually devolves very quickly into mayhem, as they inevitably perform
+increasingly deadly pranks against each other.
+
+================================================================================
+# TATZLWYRM
+================================================================================
+
+
+Bestiary 2
+OTHER TATZLWYRMS
+People in some regions claim to have
+seen creatures that are just like
+tatzlwyrms in most respects—a long
+body, two arms, and a head—except
+that they have traits that are not
+of reptilian origin. Travelers on a
+savanna should beware a furry,
+lion-headed tatzlwyrm protecting its
+cubs, while those in the mountains
+might be attacked by a feathered
+(but wingless) variant with the head
+of an eagle.
+Tatzlwyrm
+Tatzlwyrms resemble human-sized snakes with two arms and a dragon’s head.
+Distant relatives of true dragons, tatzlwyrms possess only a meager level of
+intelligence. They can speak Draconic (with a thick, hissing accent), but their
+ability to reason is limited and they can’t use magic. They do possess a level of
+cunning, however, and some have been known to build rudimentary traps and
+even lairs. They are not treasure-hoarders, though, so don’t expect to ﬁnd a
+tatzlwyrm sitting atop a bed of coins.
+Some tatzlwyrms have managed to forge working relationships with dragons,
+though it’s a rare occurrence. From time to time, dragons have used them as
+messengers (because they can speak their language, however crudely), scouts (due
+to their smaller size), guides (when they’re familiar with a particular mountain),
+and even muscle (harassing foes not worthy of a dragon’s direct attention).
+Tatzlwyrms don’t work with kobolds, though—tatzlwyrms eat kobolds.
+Tatzlwyrms hibernate in cold weather, and when they feel winter approaching they
+seek out underground lairs, mountain crevices, or even hay lofts. On one notable
+occasion, townsfolk reported being brieﬂy overrun by tatzlwyrms after a conﬂict
+between spellcasters in the nearby hills caused a sudden blizzard. Local scholars still
+debate whether the cause of the inﬂux was the sudden change in weather or if the
+creatures were drawn to one of the other magic users staying in town who were part
+of the same pilgrimage as those doing battle.
+When confronted, tatzlwyrms are more likely to attack than retreat. Indeed,
+they sometimes lie in wait on purpose, taking advantage of their scales’ natural
+camouﬂage and awaiting the chance to unleash their signature move: belching
+poisonous vapor into an opponent’s face. Since this breath attack doesn’t have
+much range, the wyrms usually need to grab their foes ﬁrst and bring them close
+to their mouth.
+TATZLWYRM
+CREATURE 2
+N
+MEDIUM
+DRAGON
+Perception +8; darkvision
+Languages Draconic
+Skills Acrobatics +7, Athletics +8, Crafting +4, Intimidation +6, Stealth
++7
+Str +4, Dex +1, Con +3, Int –3, Wis +2, Cha +0
+Natural Camouﬂage A tatzlwyrm’s green, gray, and brown scales provide
+it natural camouﬂage. In areas of dense undergrowth, a tatzlwyrm can
+move at its full Speed when Sneaking, and it gains a +4 circumstance
+bonus to Hide.
+AC 18; Fort +11, Ref +5, Will +8
+HP 30; Immunities paralyzed, sleep
+Speed 30 feet, climb 30 feet
+Melee Ȱɵ jaws +10 (magical), Damage 1d8+6 piercing
+Melee Ȱɵ claw +10 (agile, magical), Damage 1d6+6 slashing
+Poison Gasp Ȱɵ The tatzlwyrm belches a puﬀ of poisonous vapor into the face of an
+adjacent creature, which must attempt a DC 15 Fortitude save; the creature
+takes a –2 circumstance penalty to this save if it’s grabbed or
+ﬂat-footed. The tatzlwyrm can’t use Poison Gasp again for
+2 rounds.
+Critical Success The target is unaﬀected.
+Success The target is sickened 1.
+Failure The target takes 2d6 poison
+damage and is enfeebled 1 for
+1 round.
+Critical Failure The target takes
+4d6 poison damage and is
+enfeebled 1 for 1 minute.
+
+================================================================================
+PAGE 258
+================================================================================
+
+TENDRICULOS LACQUER
+Objects coated with tendriculos
+lacquer gain resistance 5 to acid.
+Making and applying tendriculos
+lacquer requires a 5th-level formula,
+the Alchemical Crafting skill feat,
+and the ﬂuid from the stomach of a
+tendriculos. A successful DC 20 Craft
+check and 4 days of work are enough
+to protect 1 Bulk of items with no
+other cost in materials, but the ﬂuid is
+used up even on a failed check.
+Tendriculos
+These strange amalgams of plant and fungus with animal tendencies form where
+the natural world is corrupted by foul magic or frayed planar boundaries.
+Tendriculoses are instinctive ambush predators who seek out lightly traveled
+forest paths and lie in wait in the undergrowth. A tendriculos swallows its prey
+as quickly as possible and lets its paralytic digestive juices ﬁnish the meal, while
+swiftly restoring itself with the nourishment provided by the trapped creature.
+When collected, neutralized, and reﬁned, the digestive ﬂuids of a tendriculos
+form a lacquer that retains some of the tendriculos’s acid resistance.
+A tendriculos comes into being with a rudimentary understanding of the
+Sylvan language, but in some cases it might manifest knowing a different
+tongue, such as Aklo, Draconic, or even Necril. Regardless, tendriculoses have
+little patience for chattering from potential meals, though some determined
+fey and primal spellcasters have been known to form alliances or even
+closer bonds with tendriculoses. Befriending a tendriculos requires great
+patience and plentiful food—and these the gifts of food must be alive
+when handed over.
+When it has ﬁnished feeding and is out of combat, a tendriculos slips into
+a quiescent state for a full day, one of the few times it is safe to approach.
+Upon rousing, it seeks the deep forest to regurgitate the less digestible
+portions of its meal. These remains may contain valuables that survived
+digestion and indicate that a tendriculos’s hunting grounds lie nearby.
+Tendriculoses dwell in deep woods and jungles. Those too near
+populated areas soon draw unwanted attention with their ravenous
+appetites. Well-fed tendriculoses develop fruiting bodies that cast
+forth millions of spores. Spores that
+happen to alight on carrion grow into
+new tendriculoses.
+
+================================================================================
+# TENDRICULOS
+================================================================================
+
+
+TENDRICULOS LACQUER
+Objects coated with tendriculos
+lacquer gain resistance 5 to acid.
+Making and applying tendriculos
+lacquer requires a 5th-level formula,
+the Alchemical Crafting skill feat,
+and the ﬂuid from the stomach of a
+tendriculos. A successful DC 20 Craft
+check and 4 days of work are enough
+to protect 1 Bulk of items with no
+other cost in materials, but the ﬂuid is
+used up even on a failed check.
+Tendriculos
+These strange amalgams of plant and fungus with animal tendencies form where
+the natural world is corrupted by foul magic or frayed planar boundaries.
+Tendriculoses are instinctive ambush predators who seek out lightly traveled
+forest paths and lie in wait in the undergrowth. A tendriculos swallows its prey
+as quickly as possible and lets its paralytic digestive juices ﬁnish the meal, while
+swiftly restoring itself with the nourishment provided by the trapped creature.
+When collected, neutralized, and reﬁned, the digestive ﬂuids of a tendriculos
+form a lacquer that retains some of the tendriculos’s acid resistance.
+A tendriculos comes into being with a rudimentary understanding of the
+Sylvan language, but in some cases it might manifest knowing a different
+tongue, such as Aklo, Draconic, or even Necril. Regardless, tendriculoses have
+little patience for chattering from potential meals, though some determined
+fey and primal spellcasters have been known to form alliances or even
+closer bonds with tendriculoses. Befriending a tendriculos requires great
+patience and plentiful food—and these the gifts of food must be alive
+when handed over.
+When it has ﬁnished feeding and is out of combat, a tendriculos slips into
+a quiescent state for a full day, one of the few times it is safe to approach.
+Upon rousing, it seeks the deep forest to regurgitate the less digestible
+portions of its meal. These remains may contain valuables that survived
+digestion and indicate that a tendriculos’s hunting grounds lie nearby.
+Tendriculoses dwell in deep woods and jungles. Those too near
+populated areas soon draw unwanted attention with their ravenous
+appetites. Well-fed tendriculoses develop fruiting bodies that cast
+forth millions of spores. Spores that
+happen to alight on carrion grow into
+new tendriculoses.
+TENDRICULOS
+CREATURE 7
+N
+HUGE
+FUNGUS
+PLANT
+Perception +15; low-light vision
+Languages Sylvan (can’t speak any language)
+Skills Athletics +17, Stealth +14 (+16 in
+undergrowth)
+Str +7, Dex +2, Con +5, Int –2,
+Wis +3, Cha +0
+AC 25; Fort +17, Ref +12, Will +13
+HP 120; Immunities acid; Weaknesses ﬁre 5;
+Resistances piercing 5, slashing 5
+Attack of Opportunity Ǻȓ Tentacle only.
+Speed 20 feet
+Melee Ȱɵ bite +18 (reach 10 feet), Damage 2d10+11 piercing plus Grab
+Melee Ȱɵ tentacle +18 (agile, reach 15 feet), Damage 2d6+11
+bludgeoning plus Grab
+Rampant Growth Ȱɵ Requirements A
+creature the tendriculos has Swallowed
+Whole has taken damage since the end
+of the tendriculos’s last turn, and the
+tendriculos hasn’t used any other actions
+this turn; Eﬀect The tendriculos regains 3d8
+HP and recovers from the fatigued and slowed conditions. It reduces any
+enfeebled value it has by 2.
+Swallow Whole Ȱɵ (attack) Large, 2d10+7 acid plus tendriculos venom, Rupture 14
+Tendriculos Venom (incapacitation, poison); Saving Throw DC 21 Fortitude; Maximum
+Duration 6 rounds; Stage 1 clumsy 2 (1 round); Stage 2 clumsy 2 and slowed 2 (1
+round); Stage 3 paralyzed (1 round)
+
+================================================================================
+PAGE 259
+================================================================================
+
+Bestiary 2
+OTHER TANE
+Originally engineered by the Eldest
+as living weapons, the Tane are a
+group of mythical creatures whose
+might is capable of bringing entire
+cities to heel. The jabberwock and
+the sard are two other examples
+of the Tane in this book, but
+others include creatures like the
+bandersnatch, the jubjub bird, and
+arguably the most powerful of them
+all, the unique monster known
+as Leviathan.
+Thrasfyr
+As bizarre in appearance as they are ferocious, thrasfyrs resemble six-limbed bears
+with bull-like horns, draconic scales, and a ﬁre-breathing serpent for a tail. Every
+thrasfyr is wrapped in animated chains psychically linked to the creature’s mind.
+
+================================================================================
+# THRASFYR
+================================================================================
+
+
+Bestiary 2
+OTHER TANE
+Originally engineered by the Eldest
+as living weapons, the Tane are a
+group of mythical creatures whose
+might is capable of bringing entire
+cities to heel. The jabberwock and
+the sard are two other examples
+of the Tane in this book, but
+others include creatures like the
+bandersnatch, the jubjub bird, and
+arguably the most powerful of them
+all, the unique monster known
+as Leviathan.
+Thrasfyr
+As bizarre in appearance as they are ferocious, thrasfyrs resemble six-limbed bears
+with bull-like horns, draconic scales, and a ﬁre-breathing serpent for a tail. Every
+thrasfyr is wrapped in animated chains psychically linked to the creature’s mind.
+THRASFYR
+CREATURE 17
+RARE
+CE
+HUGE
+BEAST
+FIRE
+TANE
+Perception +31; darkvision, see invisibility
+Languages Aklo, Sylvan
+Skills Athletics +34, Intimidation +31
+Str +9, Dex +5, Con +9, Int –3, Wis +6, Cha +6
+Planar Acclimation The thrasfyr always treats the plane it is located on as its home plane.
+AC 40; Fort +35, Ref +28, Will +27; +1 status to all saves vs. magic
+HP 350, regeneration 25 (deactivated by acid or cold); Immunities ﬁre; Weaknesses cold
+15, cold iron 15; Resistances physical 15 (except cold iron)
+Speed 40 feet, climb 40 feet; air walk
+Melee Ȱɵ chain +34 (magical, reach 15 feet), Damage 3d10+17 bludgeoning plus Improved
+Knockdown
+Melee Ȱɵ jaws +32 (magical, reach 10 feet), Damage 3d6+15 piercing plus 3d6 ﬁre
+Melee Ȱɵ claw +32 (agile, magical, reach 10 feet), Damage 3d8+15 slashing
+Melee Ȱɵ horn +32 (fatal d12, magical, reach 10 feet), Damage 3d12+15 piercing
+Primal Innate Spells DC 37; 9th teleport (self and rider only); Constant (4th) air walk;
+(2nd) see invisibility
+Breath Weapon ʚʖ The thrasfyr’s serpent tail breathes a blast of
+ﬂame in a 50‑foot cone, dealing 10d12 ﬁre damage (DC 40 basic
+Reﬂex save). It can’t use Breath Weapon again for 1d4 rounds.
+Rider’s Bond Ȱɵ (divination, mental, primal) The thrasfyr
+designates one creature as its rider by touching the
+rider with its claw. The thrasfyr and rider
+can communicate with each other
+telepathically at any range
+on the same plane and
+are aware of each
+other’s present state,
+direction from each
+other,
+distance
+from each other,
+and any conditions
+aﬀecting either.
+Tangling
+Chains
+ʚʖ
+(incapacitation,
+primal,
+transmutation) The thrasfyr
+thrashes its chains in all
+directions. Each creature in a
+15-foot emanation takes 18d6
+bludgeoning damage (DC 38
+basic Reﬂex save); creatures that
+fail are immobilized until the start of
+the thrasfyr’s next turn. The thrasfyr
+can’t use Tangling Chains or make chain
+Strikes for 1d4 rounds.
+Whirling Frenzy ʚʖ The thrasfyr makes a
+jaws Strike, a horn Strike, and two claw
+Strikes, each against a diﬀerent target.
+Each attack counts toward the thrasfyr’s
+multiple attack penalty, but the penalty doesn’t
+increase until after all the attacks.
+
+================================================================================
+PAGE 260
+================================================================================
+
+THUNDER AND FIRE
+Thunderbirds have a complex
+relationship with phoenixes, whom
+they regard as too kindly and patient
+with human civilizations, even as
+they admire phoenixes’ beauty
+and mastery over elements that
+thunderbirds cannot control. Often,
+encounters with phoenixes escalate
+into violent arguments, but it’s rare
+for one of these meetings to end
+in a thunderbird’s death, and even
+rarer for a phoenix to be signiﬁcantly
+threatened by the upstart challenger.
+Thunderbird
+Thunderbirds bring storms on their wings. In times of drought, they are welcomed.
+Other times, they are offered gifts in hopes they might leave before ﬂooding begins.
+When angered, they call down hurricanes and lay waste to entire villages, so many
+settlements conduct extensive rites to appease and honor local thunderbirds.
+Thunderbird parents carry their newly hatched offspring to hidden mountaintop
+nests, where the young are struck by their ﬁrst bolts of lightning and learn the
+mysteries of the storm.
+
+================================================================================
+# THUNDERBIRD
+================================================================================
+
+
+THUNDER AND FIRE
+Thunderbirds have a complex
+relationship with phoenixes, whom
+they regard as too kindly and patient
+with human civilizations, even as
+they admire phoenixes’ beauty
+and mastery over elements that
+thunderbirds cannot control. Often,
+encounters with phoenixes escalate
+into violent arguments, but it’s rare
+for one of these meetings to end
+in a thunderbird’s death, and even
+rarer for a phoenix to be signiﬁcantly
+threatened by the upstart challenger.
+Thunderbird
+Thunderbirds bring storms on their wings. In times of drought, they are welcomed.
+Other times, they are offered gifts in hopes they might leave before ﬂooding begins.
+When angered, they call down hurricanes and lay waste to entire villages, so many
+settlements conduct extensive rites to appease and honor local thunderbirds.
+Thunderbird parents carry their newly hatched offspring to hidden mountaintop
+nests, where the young are struck by their ﬁrst bolts of lightning and learn the
+mysteries of the storm.
+THUNDERBIRD
+CREATURE 11
+UNCOMMON
+N
+GARGANTUAN
+AIR
+BEAST
+ELECTRICITY
+Perception +22; darkvision, stormsight
+Languages Auran, Common
+Skills Acrobatics +22, Athletics +23, Intimidation +20, Nature +20
+Str +8, Dex +3, Con +7, Int +3, Wis +5, Cha +3
+Stormsight Wind, precipitation, and clouds don’t impair a thunderbird’s vision; it ignores
+the concealed condition from storms, mist, precipitation, and the like.
+AC 31; Fort +24, Ref +20, Will +22
+HP 200; Immunities electricity; Resistances sonic 10
+Storm Aura (air, aura, evocation, primal, water) 100 feet. The thunderbird is surrounded
+by a cyclone of wind and driving rain. This area is greater diﬃcult terrain for ﬂying
+creatures, who must successfully Maneuver in Flight (DC 27) or be blown 30 feet
+away from the thunderbird. Creatures on the ground must succeed at a DC 27 Reﬂex
+save to perform any move action and are knocked prone on a critical failure. The
+driving rain in the storm aura imposes a –2 circumstance penalty on Perception
+checks and extinguishes smaller ﬂames. A thunderbird can deactivate or
+activate the storm aura as a free action with the concentrate trait.
+Reactive Shock Ǻȓ Trigger A creature
+enters the thunderbird’s reach or
+uses a move action within their
+reach; Eﬀect A lightning bolt
+dancing on the thunderbird’s
+body leaps onto the creature,
+dealing 8d6 electricity damage
+(DC 30 basic Reﬂex save).
+Speed 25 feet, ﬂy 80 feet
+Melee Ȱɵ beak +24, Damage
+2d6+12 piercing plus 3d6
+electricity
+Melee Ȱɵ talon +24 (agile),
+Damage 2d8+12 slashing
+Ranged
+Ȱɵ
+thunderbolt
++23
+(range 200 feet), Damage 3d6
+electricity and 3d6 sonic plus
+thunderstrike
+Rituals DC 30; control weather (does not
+require secondary casters)
+Lightning Blast ʚʖ (evocation, primal)
+The thunderbird spreads their wings and
+blasts their foe with thunderous bolts of lightning.
+Each creature in a 30-foot emanation takes 6d6 electricity
+damage and 6d6 sonic damage (DC 30 basic Reﬂex save). The
+thunderbird can’t use Lightning Blast for 1d4 rounds.
+Stormﬂight A thunderbird can move in wind with ease. They don’t treat wind as
+diﬃcult terrain or need to Maneuver in Flight in high winds.
+Thunderstrike A creature that takes damage from a thunderbird’s thunderbolt Strike
+must succeed at a DC 28 Fortitude save or be knocked prone and deafened for 1 round.
+
+================================================================================
+PAGE 261
+================================================================================
+
+Bestiary 2
+TICK DISEASES
+Giant ticks and tick swarms can
+potentially inﬂict diseases other than
+tick fever. Drawing from the list on
+pages 118–119 of the Gamemastery
+Guide, potential diseases that a
+tick could spread include blinding
+sickness, bubonic plague, malaria, or
+scarlet fever. The saving throw DC
+should be adjusted to DC 17 (for giant
+ticks) or DC 27 (for tick swarms).
+Tick
+These blood-sucking parasites are common vectors for disease and other
+infections. Ticks infest all parts of the world, save for the most remote and frigid
+locales, and have evolved to feed on just about every kind of creature.
+GIANT TICK
+This grotesque tick is the size of a dog and scurries with surprising speed.
+
+================================================================================
+# TICK SWARM
+================================================================================
+
+Attach When the giant tick Strikes a creature larger than itself, its barbed hypostome
+attaches it to that creature. This is similar to Grabbing the creature, but the giant tick
+moves with that creature rather than holding it in place. The giant tick is ﬂat-footed
+while attached. If the giant tick is killed or pushed away while attached to a creature on
+which it has used Blood Drain, that creature takes 1 persistent bleed damage. Escaping
+the attachment or removing the giant tick in other ways doesn’t cause bleed damage.
+Blood Drain Ȱɵ Requirements The giant tick is attached to a creature; Eﬀect The giant
+tick uses its hypostome to drain blood from the creature it’s attached to. This deals 1d4
+damage, and the giant tick gains temporary Hit Points equal to the damage dealt. A
+creature that has its blood drained by a giant tick is drained 1 until it receives healing
+(of any kind or amount).
+Tick Fever (disease); Saving Throw DC 17 Fortitude; Onset 1 day; Stage 1 enfeebled (1
+day); Stage 2 enfeebled 2 (1 day).
+TICK SWARM
+This swarm of thousands of ﬁst-sized ticks forms a moving carpet
+of bloated insects—a nauseating and intimidating sight.
+TICK SWARM
+CREATURE 9
+N
+LARGE
+ANIMAL
+SWARM
+Perception +18; darkvision
+Skills Athletics +16, Stealth +19
+Str +1, Dex +6, Con +4, Int –5, Wis +3, Cha –5
+AC 28; Fort +19, Ref +19, Will +14
+HP 130; Immunities precision, swarm
+mind; Weaknesses area damage 10, splash
+damage 10; Resistances bludgeoning 5,
+piercing 10, slashing 10
+Cling Ǻȓ Trigger A creature leaves the swarm’s
+space; Eﬀect The swarm takes 1d6 damage
+as ticks cling to the creature and continue
+biting, dealing 3d6 persistent piercing
+damage. Immersion in water reduces the
+DC of the ﬂat check to end this persistent
+damage to 5, and any area damage dealt to
+the creature destroys these clinging ticks.
+Speed 25 feet, climb 25 feet
+Swarming Bites Ȱɵ Each enemy in the swarm’s space takes 3d6 piercing
+damage (DC 28 basic Reﬂex save) plus Cling and exposure to tick fever.
+Tick Fever (disease) As giant tick but DC 27.
+
+================================================================================
+PAGE 262
+================================================================================
+
+FROGS AND TOADS
+While they might look similar
+in appearance, toads and frogs
+are quite diﬀerent creatures,
+particularly some of their oversized
+variants. Frogs tend to dwell in
+swampy or marshy areas, while
+toads are found in drier regions
+like forests, plains, grasslands, and
+deserts. Monstrous toads also skew
+to a larger size overall.
+Toad
+Most giant toads live in dry environments, particularly deserts, and eagerly
+eat almost any creature smaller than themselves. They’re known to eat giant
+rats, then take over the rats’ burrows as homes. Giant toads have large poison
+glands behind their eyes that enable them to coat their skin with poison. This
+leads to them having very few natural predators, and populations can quickly
+explode if left unchecked. While most consider giant toads dangerous pests,
+some groups of ogres and hill giants cultivate them to collect their poison for
+recreational use.
+
+================================================================================
+# TOTENMASKE
+================================================================================
+
+
+Bestiary 2
+FLESH SCULPTORS
+Some totenmaskes craft macabre
+“art” by shaping the ﬂesh of their
+victims, spending hours, days, or
+even weeks molding a victim’s skin,
+or even fusing multiple creatures
+together into one piece. The
+horrifying results of this process can
+take the form of furniture made from
+ﬂesh that still lives and breathes,
+“sculptures” that in no way resemble
+the human form, and even more
+twisted and depraved things.
+Totenmaske
+Spawned by the same unnatural and self-destructive obsessions that drove them
+when they were alive, totenmaskes are the undead remnants of the most selfindulgent and sinful among us. Though unable to sate their perverse desires, these
+foul undead can drain the very ﬂesh from their victims so as to wrap themselves
+in a perverse mockery of life that allows them to pursue their base wants.
+Totenmaskes’ speciﬁc longings vary—one might be obsessed with food or drink,
+while another might be vain and desirous of an attractive form to marvel at in a
+mirror, while yet another could simply long for the scent of blood. Whatever the
+sensation the totenmaske seeks, it is always a vice taken to extreme, for this sin is
+what helped condemn it to unlife in the ﬁrst place. A totenmaske obsessed with
+food, for example, might ﬁnd itself assaulting bakeries or breweries, while a vain
+totenmaske obsessed with glamor could quickly grow bored of each new look and
+switch its victims out daily, or even hourly.
+TOTENMASKE
+CREATURE 7
+NE
+MEDIUM
+UNDEAD
+Perception +15, darkvision
+Languages Common, Necril
+Skills Acrobatics +15, Deception +17, Stealth +17, Thievery +15
+Str +4, Dex +6, Con +2, Int +1, Wis +2, Cha +3
+AC 25; Fort +15, Ref +17, Will +13
+HP 128, negative healing; Immunities death eﬀects, disease, paralyzed, poison, unconscious
+Speed 40 feet
+Melee Ȱɵ jaws +18 (ﬁnesse), Damage 2d6+7 piercing plus 2d6 negative
+Melee Ȱɵ claw +18 (agile, ﬁnesse), Damage 2d8+7 slashing
+Drink Flesh Ȱɵ (divine, necromancy) Requirement The totenmaske hit the same
+enemy with two claw Strikes this turn and is still adjacent to it; Eﬀect
+The totenmaske drains ﬂesh from the creature’s body. The creature
+becomes sickened 2 and drained 1 unless it succeeds at a DC 25
+Fortitude save (sickened 2 and drained 2 on a critical failure).
+Living Form Ȱɵ (concentrate, divine, polymorph, transmutation)
+The totenmaske takes the appearance of a Medium or
+smaller humanoid creature. This is either its form
+from before it became undead, or the form of
+the last creature it successfully hit with Drink
+Flesh. This doesn’t change the totenmaske’s
+Speed or the attack and damage bonuses for its
+Strikes, but might change the damage type its
+Strikes deal (typically to bludgeoning).
+Shape Flesh (curse, divine, necromancy) After spending
+1 minute in contact with a paralyzed, unconscious,
+or willing creature, a totenmaske can reshape the
+target’s face, causing ﬂesh to cover vital features.
+The target can attempt a DC 25 Fortitude save
+to resist; a critical success grants temporary
+immunity to Shape Flesh for 24 hours. Each
+time the totenmaske Shapes Flesh, it chooses
+one feature: ears (target becomes deafened),
+eyes (target becomes blinded), mouth (target
+can’t speak or eat), or nose (target can’t
+smell). A creature with both its nose and mouth
+sealed can’t breathe and begins to suﬀocate (Core
+Rulebook 478). Changes are permanent until reversed
+by removing this curse, or the sealed ﬂesh can be
+surgically opened with a DC 25 Medicine check that takes
+1d4 rounds and deals 1d6 slashing damage per round.
+
+================================================================================
+PAGE 264
+================================================================================
+
+TRITON CONCH TRUMPETS
+Tritons use a conch shell as a focus
+to summon aquatic allies. Some
+specialize in diﬀerent uses of the
+conch, such as frightening foes (as
+the fear spell) or using water for
+attacks (as the spell hydraulic push).
+Triton conch shells in the hands
+of non-tritons do not produce any
+magical eﬀects, but have inspired
+other crafters to build magical
+triton’s conches (Core Rulebook 576).
+Triton
+While sometimes understandably mistaken for merfolk—both species live
+underwater and have a blend of features from both humans and ﬁsh—tritons
+have two legs instead of a tail. This gives tritons the ability to operate on land,
+though they are neither as comfortable nor as skilled above water as below.
+The arms and legs of a triton feature ﬁns that assist in swimming, and their
+entire body is covered in ﬁne scales that range in color from silver to cerulean
+blue to seaweed green. Their amphibious nature shows in the webbing between
+the digits of their feet and hands, as well as the fact that they have both gills and
+a human-shaped nose and mouth. Triton hair grows in wide strands like seagrass,
+commonly green in shade but in some cases blue or white. Their eyes range in
+color from sea blue to golden.
+Many tritons see themselves as defenders of the deep, dedicating their lives to
+protecting the inhabitants of the seas from evil creatures and intruders—whether
+they come from underwater or the surface world. Primary among triton foes are
+sea devils and alghollthu, both of whom have amphibious forces that tritons
+have had to ﬁght underwater and on land.
+In their quest to ﬁght underwater evil, tritons sometimes ally with dolphins
+and sea turtles (both of which make excellent mounts), water elementals, and
+sometimes even sharks and sea serpents. Tritons can summon such allies using
+a conch shell as a trumpet. When it comes to other intelligent undersea
+species, however, tritons take pride in their self-sufﬁciency, rarely trading
+with other underwater peoples such as merfolk, and even more rarely
+forming established alliances.
+Tritons live in natural-grown villages on the sea ﬂoor,
+forging dwellings out of colorful coral reefs, in rift valleys
+heated by volcanic activity, and even in underwater canyons—
+though they avoid settling in extreme depths due to
+the risk of encountering krakens or worse. They
+like to decorate their homes with aquatic plants,
+bioluminescent ﬁsh, and attractive trinkets recovered
+from shipwrecks.
+
+================================================================================
+# TRITON
+================================================================================
+
+
+TRITON CONCH TRUMPETS
+Tritons use a conch shell as a focus
+to summon aquatic allies. Some
+specialize in diﬀerent uses of the
+conch, such as frightening foes (as
+the fear spell) or using water for
+attacks (as the spell hydraulic push).
+Triton conch shells in the hands
+of non-tritons do not produce any
+magical eﬀects, but have inspired
+other crafters to build magical
+triton’s conches (Core Rulebook 576).
+Triton
+While sometimes understandably mistaken for merfolk—both species live
+underwater and have a blend of features from both humans and ﬁsh—tritons
+have two legs instead of a tail. This gives tritons the ability to operate on land,
+though they are neither as comfortable nor as skilled above water as below.
+The arms and legs of a triton feature ﬁns that assist in swimming, and their
+entire body is covered in ﬁne scales that range in color from silver to cerulean
+blue to seaweed green. Their amphibious nature shows in the webbing between
+the digits of their feet and hands, as well as the fact that they have both gills and
+a human-shaped nose and mouth. Triton hair grows in wide strands like seagrass,
+commonly green in shade but in some cases blue or white. Their eyes range in
+color from sea blue to golden.
+Many tritons see themselves as defenders of the deep, dedicating their lives to
+protecting the inhabitants of the seas from evil creatures and intruders—whether
+they come from underwater or the surface world. Primary among triton foes are
+sea devils and alghollthu, both of whom have amphibious forces that tritons
+have had to ﬁght underwater and on land.
+In their quest to ﬁght underwater evil, tritons sometimes ally with dolphins
+and sea turtles (both of which make excellent mounts), water elementals, and
+sometimes even sharks and sea serpents. Tritons can summon such allies using
+a conch shell as a trumpet. When it comes to other intelligent undersea
+species, however, tritons take pride in their self-sufﬁciency, rarely trading
+with other underwater peoples such as merfolk, and even more rarely
+forming established alliances.
+Tritons live in natural-grown villages on the sea ﬂoor,
+forging dwellings out of colorful coral reefs, in rift valleys
+heated by volcanic activity, and even in underwater canyons—
+though they avoid settling in extreme depths due to
+the risk of encountering krakens or worse. They
+like to decorate their homes with aquatic plants,
+bioluminescent ﬁsh, and attractive trinkets recovered
+from shipwrecks.
+TRITON
+CREATURE 2
+NG
+MEDIUM
+AMPHIBIOUS
+HUMANOID
+Perception +8; darkvision
+Languages Aquan, Common
+Skills Athletics +8, Crafting +4, Diplomacy +6, Nature +6,
+Stealth +9
+Str +4, Dex +3, Con +1, Int +0, Wis +2, Cha +0
+Items conch shell, shell armor (hide armor), trident
+AC 18; Fort +5, Ref +11, Will +8
+HP 30
+Speed 5 feet, swim 35 feet
+Melee Ȱɵ trident +10, Damage 1d8+6 piercing
+Ranged Ȱɵ trident +9 (thrown 20 feet), Damage 1d8+6 piercing
+Defender of the Seas Ȱɵ The triton Interacts to raise their trident, gaining a +1
+circumstance bonus to AC until the start of their next turn. During this time,
+any of their allies also gains the bonus while adjacent to the triton.
+Summon Aquatic Ally ̂ˬ (conjuration, primal) Frequency once per
+day; Effect The triton blows into a conch shell, casting a 2ndlevel summon animal spell. The triton can summon only
+an aquatic creature, such as a dolphin (page 84), octopus
+(page 187), ray (page 226), sea snake (page 245), or electric
+eel (Bestiary 142). This creature remains until it is slain, the
+triton Dismisses it, or the triton summons another ally.
+
+================================================================================
+PAGE 265
+================================================================================
+
+Bestiary 2
+DEATHLESS FROST
+Historically isolated in the remote
+frozen wilderness of the Saga Lands,
+frost trolls have increasingly been
+encountered in more temperate
+climates on Golarion. It’s unclear
+what’s driving these ice-hearted
+trolls southward, but some suspect
+the machinations of a wrathful
+demon lord are at play.
+Troll
+Towering brutes with slavering jaws and razor-sharp claws, trolls are voracious
+predators. They are nigh invulnerable and single-minded in their pursuit, so they
+throw themselves against prey with reckless abandon. Wounds that would cripple
+or kill most other creatures regenerate into healthy troll ﬂesh within seconds.
+Trolls don’t mark their hunting grounds with claw marks or urine as beasts
+do. After gorging upon their kill, they suspend any meat, bones, or other bodily
+detritus that remain from tree branches to mark their domains. Unfortunately,
+trolls tend to treat these borders as approximations. Before a hapless traveler
+even spots such a grisly marker and realizes that they have wandered into troll
+territory, the trolls are already preparing to attack.
+These pages present lesser-known varieties beyond the common troll.
+FROST TROLL
+Frost trolls are nightmarish frozen monsters of rime-stained claws and hoarfrost
+teeth. Possessing wits superior to those of common trolls, frost trolls often hunt in
+packs of three—one attacking their quarry openly while the remaining two pause to
+assess weaknesses before moving in for the kill. Frost trolls relish the taste of human
+ﬂesh and adjust their hunting grounds seasonally to remain in close proximity
+to their favorite prey. Of slighter frame than common trolls, a typical frost
+troll stands 11 feet tall when not hunched and weighs 900 pounds. Their
+sickly, cracked ﬂesh is of an icy, cerulean pallor. Frost trolls often adorn
+themselves with trophies of bone and hide ﬂayed from their kills.
+
+================================================================================
+# TWO-HEADED TROLL
+================================================================================
+
+
+Bestiary 2
+MOTHER OF TROLLS
+Trolls and ettins do not normally
+seek one another as mates, but this
+pairing is the source of the original
+two-headed trolls—such couplings
+were engineered and arranged by
+the cult of Lamashtu in ages past.
+Oblivious to their origin, two-headed
+trolls tend to give no deference to
+the Mother of Monsters.
+TWO-HEADED TROLL
+CREATURE 8
+UNCOMMON
+CE
+LARGE
+GIANT
+TROLL
+Perception +18; darkvision
+Skills Athletics +18, Intimidation +17
+Languages Jotun
+Str +6, Dex +1, Con +6, Int –2, Wis +4, Cha +3
+Independent Brains Each of a two-headed troll’s heads rolls their own initiative and has
+their own turn. Neither head can Delay. At the start of a head’s turn, that head gets 2
+actions and 1 reaction. Each brain controls one of the troll’s arms, but both can move the
+legs. Any ability that would sever a two-headed troll’s head (such as the vorpal weapon
+property) doesn’t cause the two-headed troll to die if they still have their other head,
+but does cause them to lose the turns, actions, and reactions of the severed head.
+Mental eﬀects that target a single creature aﬀect only one of the troll’s heads.
+Items club
+AC 24; Fort +20, Ref +15, Will +14
+HP 190, regeneration 25 (deactivated by acid or ﬁre); Weaknesses ﬁre 10
+Head Regrowth A two-headed troll’s regeneration can regrow a severed head. After
+regaining Hit Points from regeneration, the two-headed troll attempts a DC 10 ﬂat
+check. On a success, the missing head is fully restored. If a two-headed troll
+loses their last remaining head, they die immediately.
+Attack of Opportunity Ǻȓ
+Speed 30 feet
+Melee Ȱɵ jaws +18 (reach 10 feet), Damage 2d12+8 piercing
+Melee Ȱɵ claw +18 (agile, reach 10 feet), Damage 2d8+8 slashing
+Melee Ȱɵ club +18 (reach 10 feet), Damage 2d6+8 bludgeoning
+Ranged Ȱɵ club +13 (thrown 10 feet), Damage 2d6+8 bludgeoning
+Reactive Chomp Ȱɵ Requirements One of the troll’s heads hit the
+same enemy with two consecutive claw Strikes in the same
+round; Eﬀect The other head uses their reaction to make a
+jaws Strike against the creature that was hit.
+JOTUND TROLL
+Jotund
+trolls
+are
+gigantic,
+nine-headed
+horrors who prowl frigid moors, marshes,
+and wastelands, always alone and always
+enraged. While each of the jotund troll’s nine
+heads possess their own brains and senses,
+they work much more in tandem than the
+dual-minded nature of the two-headed
+troll. Despite this, the heads often argue and
+bicker, particularly over which head gets to
+eat. The fact that all nine maws lead to the
+same shared stomach makes little difference
+in such culinary disagreements.
+Prevailing wisdom holds that the jotund
+troll represents a primordial, if not
+original, shape and design for the ﬁrst
+trolls to plague the world, arising from a
+mythical realm in the Great Beyond known
+as Jotungard. This sprawling domain, said to be
+nestled in a remote reach of Elysium, is the legendary
+home of the deities of giant-kind. Whether the
+jotund troll was created in Jotungard to plague
+the Material Plane as punishment or challenge,
+or if it’s merely an evocative legend told
+by scholars, is unknown. In any case, the
+jotund trolls themselves likely care little.
+
+================================================================================
+PAGE 268
+================================================================================
+
+RAVENOUS MUTANTS
+Jotund trolls on the world of Golarion
+are found in two particular regions
+with greater frequency: the magicwarped reaches of the Mana Wastes,
+and the radiation-wracked badlands
+of Numeria. In both places, the
+presence of life-altering magic or
+science seems to have had the same
+eﬀect in bolstering the presence of
+these lumbering monstrosities.
+
+================================================================================
+# TROLLHOUND
+================================================================================
+
+
+Bestiary 2
+TROLLHOUND GENESIS
+The ﬁrst trollhounds were the
+unexpected result of occult
+experimentation on wargs with
+alchemically prepared troll blood in
+the hope of creating an ooze with
+limited regeneration. Most of the
+wargs died during the trials; the
+few survivors lost their cunning
+and intelligence in exchange for
+a troll’s voracious appetite and
+ability to regenerate. Successive
+generations of trollhounds often hunt
+alongside trolls, understanding on an
+instinctual level the bonds they share
+with these lumbering giants.
+Trollhound
+Trollhounds are squat, slavering beasts akin to trolls in canine form. Requiring
+vast quantities of meat to fuel their regenerative metabolisms, packs of wild
+trollhounds prowl the foothills of regions where trolls dwell, their voracious
+hunger driving them to slaughter and consume any prey they encounter. In some
+regions, trolls breed trollhounds as pets, utilizing the trollhounds’ keen sense of
+smell to aid in the hunt.
+Covered in fetid, weeping sores, trollhounds are carriers of a debilitating
+contagion known as bloodﬁre fever. Creatures that contract the disease through
+the bite of a trollhound experience deep internal pain, as if their blood were on
+ﬁre. Additional symptoms include loss of muscle coordination, pus-ﬁlled blisters,
+and overall lethargy and fatigue. Other than suffering from skin irritation, both
+trolls and trollhounds are immune to the major effects of the disease.
+Trollhounds are fearless on the hunt and in combat, relying on their ability to
+regenerate to carry them through. Not even the threat of ﬁre is enough to repel
+them, as the beasts don’t recognize the danger it represents. Nevertheless, ﬁre is
+one of the most effective tools in combating trollhounds; canny hunters know to
+burn every last remnant of a supposedly slain trollhound, for their regenerative
+powers are potent indeed.
+While trolls themselves have had great success in domesticating, training, and
+even befriending trollhounds, the same cannot be said for other would-be masters.
+Whether impeded by constant exposure to trollhounds’ diseased slobber, their
+ravenous hunger that never seems to be fully sated, or simply their foul personality
+and quick-to-bite temperament, most attempts to use trollhounds in place of more
+reliable guardians end in pain, misery, and a pack of feral trollhounds escaping
+into the hinterlands. Left to their own devices, a pack of escaped trollhounds
+can breed relatively quickly, and it can take less than a year for a small pack to
+multiply into a signiﬁcant threat to the countryside. Best to leave the trollhounds
+to the trolls, as they say!
+TROLLHOUND
+CREATURE 3
+N
+MEDIUM
+BEAST
+TROLL
+Perception +6; darkvision, scent (imprecise) 30 feet
+Skills Acrobatics +6, Athletics +11, Stealth +8,
+Survival +6
+Str +4, Dex +1, Con +5, Int –4, Wis +1,
+Cha –2
+AC 17; Fort +14, Ref +8, Will +6
+HP 65, regeneration 15 (deactivated
+by acid or ﬁre); Weaknesses
+ﬁre 10
+Speed 35 feet
+Melee Ȱɵ jaws +11, Damage 1d12+4
+piercing plus Knockdown and
+bloodﬁre fever
+Bloodﬁre Fever (disease); Saving
+Throw DC 18 Fortitude; Stage 1
+carrier with no ill eﬀect (1 day);
+Stage 2 enfeebled 1 (1 day); Stage
+3 enfeebled 1 and clumsy 1 (1 day);
+Stage 4 enfeebled 2 and clumsy
+2 (1 day); Stage 5 enfeebled 2,
+clumsy 2, and fatigued (1 day)
+Pack Attack The trollhound deals an
+extra 1d6 damage to any creature
+within reach of at least two of the
+trollhound’s allies.
+
+================================================================================
+PAGE 270
+================================================================================
+
+BUILDING WITH SHELLS
+The shell of a giant snapping turtle
+is over 20 feet long and is sturdy,
+naturally curved, and waterproof,
+making it a useful building material.
+While boggards seldom have
+advanced construction techniques,
+they use giant snapping turtle shells
+as roofs and rafts when available.
+Boggards also incorporate smaller
+turtle shells into their armor.
+Turtle
+These generally mild-mannered and docile creatures prefer to be left alone, but the
+ill-tempered snapping turtle is a notably violent exception to this rule.
+SNAPPING TURTLE
+Snapping turtles are freshwater reptiles with a long ﬂexible neck, a sharp piercing
+beak, and a confrontational temperament that doesn’t prevent some spellcasters
+from choosing these creatures as familiars. They weigh about 20 pounds and have
+shells around 18 inches in length.
+SNAPPING TURTLE
+CREATURE –1
+N
+TINY
+ANIMAL
+Perception +3, low-light vision, scent (imprecise) 30 feet
+Skills Athletics +5, Stealth +3 (+5 in water)
+Str +1, Dex –1, Con +4, Int –4, Wis +1, Cha –2
+Deep Breath The snapping turtle can hold its breath for 30 minutes.
+AC 16; Fort +8, Ref +1, Will +3
+HP 9
+Speed 10 feet, swim 20 feet
+Melee jaws +6, Damage 1d4+2 piercing
+Clench Jaws Ȱɵ Requirements The snapping turtle damaged a creature with a jaws
+Strike in its previous action; Eﬀect The snapping turtle clenches its jaws down and
+automatically deals an additional 1d4 bludgeoning damage to the creature it just bit.
+Shell Defense Ȱɵ The snapping turtle retracts its limbs and head into its shell and ends
+its turn. This increases its AC to 18, but it can’t act except to reemerge, which it can
+do as a single action.
+GIANT SNAPPING TURTLE
+If the regular-sized snapping turtle is foul-tempered, then the giant snapping turtle
+seems to be willfully violent toward anything that dares intrude upon its domain.
+Measuring over 20 feet long and weighing thousands of pounds, this creature is
+capable of swallowing a humanoid whole. Swamp-dwelling societies, particularly
+boggards and lizardfolk, have often tried to domesticate giant snapping turtles to
+serve as powerful guardians, but in most cases the casualties pile up quickly. Those
+unfortunate enough to be swallowed whole by a giant snapping turtle ﬁnd that even
+the creature’s stomach is somewhat armored, making it difﬁcult to cut through.
+
+================================================================================
+# TWIGJACK
+================================================================================
+
+TWIGJACK
+CREATURE 3
+CE
+TINY
+FEY
+PLANT
+Perception +9; darkvision
+Languages Common, Sylvan
+Skills Acrobatics +11, Athletics +9, Nature +7, Stealth +11
+Str +2, Dex +4, Con +2, Int +0, Wis +2, Cha +1
+AC 19; Fort +9, Ref +11, Will +7
+HP 50; Weaknesses ﬁre 5
+Speed 25 feet
+Melee Ȱɵ claw +11 (agile, ﬁnesse), Damage 1d10+4 slashing
+Ranged Ȱɵ splinter +11 (deadly 1d6, range increment 30 feet), Damage 1d6+4
+piercing
+Bramble Jump ̂ˬ (conjuration, plant, primal, teleportation) Requirements The
+twigjack is in undergrowth; Eﬀect The twigjack scrambles into the undergrowth
+and instantly teleports to a square of undergrowth within 60 feet. This
+movement doesn’t trigger reactions.
+Splinter Spray ʚʖ The twigjack sprays a barrage of splinters and brambles
+from its body in a 15-foot cone, dealing 4d6 piercing damage (DC 20 basic
+Reﬂex save). It can’t use Splinter Spray again for 1d4 rounds.
+
+================================================================================
+PAGE 272
+================================================================================
+
+UMONLEE FABLES
+While they’re immense, violent,
+and frightening, umonlees aren’t
+inherently evil creatures. As such,
+there are stories of youths, gnomes,
+or other small-statured creatures
+who encounter umonlees in the wild
+and manage to befriend them, so that
+at some later point in the tale when
+the pint-sized protagonists are in
+peril, their enormous ally can arrive,
+bursting from a nearby glacier to
+play the role of overwhelming savior.
+Whether or not these tales have any
+basis in truth is unknown.
+Umonlee
+Those who dwell in the coldest climates of Golarion tell of a brutal beast that
+swims through the ice and snow and can devastate entire villages in minutes.
+Ancient Erutaki who made their homes in the frozen polar expanse called the
+Crown of the World named this monster the umonlee.
+Umonlees are bestial predators who constantly hunt, rarely resting in service
+of a hunger that is never fully sated. Despite this animalistic drive, umonlees are
+semi-intelligent creatures who often select and stalk their prey. However, they are
+not terribly bright and often keep their hunting grounds in sparsely-trafﬁcked
+areas. It is rare for an umonlee to attack a village, but one might attack a sparse
+group, such as a hunting or scouting party. Many caravans traversing the Path
+of Aganhei—the trade route between the continents of Avistan and Tian Xia that
+crosses the Crown of the World—have had their expeditions abruptly ended by
+an encounter with one of these monstrosities.
+Those who study monsters posit that umonlees are related to chuuls, as
+the creatures exhibit some similarities. Both are semi-intelligent, crustacean
+predators that use ambush tactics to kill and eat their prey. Even though they
+can talk, umonlees typically only speak Aklo, which also gives credence to
+this theory. This would also lend to the theory that chuuls are products of
+alghollthu manipulation, meaning that umonlees are also the results of these
+alien designs. However, the fact that these creatures aren’t evil argues well
+against such a theory.

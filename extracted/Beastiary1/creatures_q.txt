@@ -1,0 +1,336 @@
+# Bestiary - Creatures: Q
+# Count: 4 creatures
+
+
+================================================================================
+# QUASIT
+================================================================================
+
+
+Bestiary
+DEMONIC DEITIES
+The most powerful demons are
+known as demon lords (the term
+is gender neutral in this case).
+Of these divinities, Lamashtu is
+the most powerful. Countless
+other demon lords exist, including
+Abraxas, Cyth-V’sug, Kabriri,
+and Zura.
+Demon
+When a sinful mortal soul is judged and sent on to the Abyss, it can become a
+deadly ﬁend—a demon. Demons are living incarnations of sin—be they classic
+sins like wrath or gluttony, or more “specialized” depravities like an obsession
+with torture or the act of treason or treachery. Once formed, a demon’s driving
+goals are twofold—the amassing of personal power, and the corruption of mortal
+souls to cause them to become tainted by sin. In this way demons ensure a neverending supply of new demons to bolster their ever-growing ranks in the Abyss.
+Quasit
+Unlike other demons, quasits are formed when a mortal spellcaster sheds a portion
+of their own sinful soul to create a familiar or companion. When these quasits outlive
+their creators, they become free willed and seek methods of returning to the Abyss,
+a task that requires pledging servitude to more powerful demons, so many quasits
+instead opt to remain on the Material Plane to promote evil and hope for chance and
+luck to someday provide them with a method of reaching the Abyss on their own.
+QUASIT
+CREATURE 1
+CE
+TINY
+DEMON
+FIEND
+Perception +7; darkvision
+Languages Abyssal, Common; telepathy (touch)
+Skills Acrobatics +7, Arcana +4, Deception +7, Intimidation +5, Religion +5, Stealth +7
+Str –1, Dex +4, Con +0, Int +1, Wis +2, Cha +2
+Abyssal Knowledge When a quasit oﬀers Aid for an Arcana or Religion check, it gets the
+critical success result on any success and gets the critical failure result on any failure.
+AC 17; Fort +4, Ref +10, Will +7
+HP 25; Weaknesses cold iron 3, good 3
+Virtue Aversion The quasit’s link to a mortal soul gave it birth, but it presents a
+vulnerability. Once per round, a creature can present an object related to something
+virtuous or good in the life of the quasit’s creator (such as a beloved daughter’s doll) as
+an Interact action to automatically deal the quasit 2d6 mental damage.
+Speed 15 feet, ﬂy 35 feet
+Melee Ȱɵ claw +9 (agile, evil, ﬁnesse, magical, poison), Damage 1d6–1 slashing plus 1d4
+evil and quasit venom
+Divine Innate Spells DC 17; 4th read omens; 2nd detect alignment (at will; good only),
+invisibility (at will, self only); 1st fear; Cantrips (1st) detect magic
+Abyssal Healing Ȱɵ (concentrate, divine, healing, necromancy) Frequency once per
+round; Eﬀect The quasit restores 1d6 HP to itself.
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation)
+• Bat echolocation 40 feet; Speed 15 feet, ﬂy Speed 30 feet; Melee fangs +7, Damage
+1d4–1 piercing; Melee wing +7 (agile), Damage 1d4–1 bludgeoning
+• Centipede Speed 10 feet, climb 10 feet; Melee mandibles +7 (poison), Damage 1
+piercing plus 1d4 poison
+• Toad scent (imprecise) 30 feet; Speed 5 feet; Melee jaws +7, Damage 1 bludgeoning
+• Wolf size Medium; scent (imprecise) 30 feet; Speed 40 feet, climb 10 feet; Melee
+jaws +7, Damage 1d10–1 piercing plus Knockdown
+Quasit Venom (poison) Saving Throw DC 17 Fortitude; Maximum Duration 6 rounds; Stage 1
+1d6 poison (1 round); Stage 2 As stage 1; Stage 3 1d6 poison and slowed 1 (1 round)
+
+================================================================================
+PAGE 78
+================================================================================
+
+THE NATURE OF CHAOS
+Some say that the nature of chaos
+inherently precludes cooperation
+and subtlety, but demons are
+proof of the fallacy of this claim.
+Succubus (Lust Demon)
+Succubi are manifestations of the sin of destructive lust, and they are the most
+attractive of all demons—as beﬁts their role in seducing mortals to fall to sin. The
+concept of gender is ﬂuid to a succubus, as they can adopt countless humanoid
+forms of any gender to aid in their goals. Most succubi have a feminine true form
+(incubi, which usually have a masculine true form, are a different kind of demon),
+but regardless of gender, a lust demon is supernaturally beautiful or handsome,
+but with curving horns, bat wings, sharp claws, and a sinuous tail.
+When disguised as a mortal humanoid on the Material Plane, a succubus
+whispers into the ears of mortals, urging them to pursue their darkest and
+most destructive desires and pushing them into depravity, using magic only if
+persuasion fails. While mortals often ﬁxate on succubi’s application of sexual
+lust, these demons are can easily exploit lust for power, knowledge, fame, or
+any other desire as easily as more carnal appetites. Their ability to inﬁltrate
+societies makes them excellent spies, assassins, and political saboteurs as
+well. Ultimately, the succubus enjoys all means of upending mortal culture.
+
+================================================================================
+# QUATOID
+================================================================================
+
+
+MONSTROUS ELEMENTALS
+Some elementals are more than
+living incarnations of air, earth,
+ﬁre, or water. Creatures like the
+genie (pages 162–165), the uthul
+(page 317), or the zaramuun (page
+339) have their own complex
+ecologies and societies. While
+these creatures originally hail
+from an Elemental Plane, they can
+often be found on the Material
+Plane as well.
+QUATOID
+CREATURE 7
+LN
+SMALL
+AQUATIC
+ELEMENTAL
+WATER
+Perception +18; darkvision
+Languages Aquan, Common
+Skills Athletics +15, Diplomacy +12, Elemental Lore +17, Occultism +17, Society +17,
+Stealth +13
+Str +4, Dex +2, Con +0, Int +4, Wis +3, Cha +1
+AC 25; Fort +13, Ref +15, Will +18
+HP 120; Immunities bleed, paralyzed, poison, sleep; Resistances bludgeoning 5, ﬁre 5
+Calming Bioluminescence (aura, emotion, mental, visual) 30 feet. The aura sheds dim light.
+Creatures in the emanation gain a +2 circumstance bonus to saving throws against
+emotion eﬀects. The quatoid can activate or deactivate its calming bioluminescence as a
+single action, which has the concentrate trait.
+Speed 25 feet, swim 25 feet
+Melee Ȱɵ tentacle +16 (reach 10 feet), Damage 2d12+6 bludgeoning plus Grab
+Primal Innate Spells DC 27, attack +17; 2nd hydraulic push (at will)
+Constrict Ȱɵ 1d12+6 bludgeoning, DC 25
+Tidal Master
+Tidal masters use their power over waves and water to drown their enemies.
+
+================================================================================
+# QUETZALCOATLUS
+================================================================================
+
+Swoop ʚʖ The pteranodon Flies up to its Speed and makes one beak Strike
+at any point during that movement.
+Quetzalcoatlus
+Quetzalcoatlus are the largest ﬂying members of the
+pterosaur family and are often mistaken for dragons due
+to their immense size and 40-foot wingspans.
+Quetzalcoatlus are carnivorous, feeding on a variety
+of reptiles, mammals, large ﬁsh, amphibians, and other
+invertebrates. They are not inherently aggressive
+creatures and are happy to scavenge for food, but
+when presented with live prey they readily attack
+almost any creature smaller than themselves.
+QUETZALCOATLUS
+CREATURE 7
+N
+HUGE
+ANIMAL
+Perception
++15;
+low-light
+vision,
+scent
+(imprecise) 30 feet
+Skills Acrobatics +14, Athletics +17
+Str +6, Dex +4, Con +3, Int –4, Wis +2, Cha –1
+AC 25; Fort +16, Ref +17, Will +12
+HP 110
+Speed 15 feet, ﬂy 50 feet
+Melee Ȱɵ beak +17 (deadly 1d10, reach 10
+feet), Damage 2d10+10 piercing plus 1d8
+persistent bleed
+Melee Ȱɵ talon +17, Damage 2d8+10
+piercing plus Grab
+Snatch A quetzalcoatlus can move at half
+Speed while it has a single creature grabbed
+or restrained. Both its talons are occupied
+while it does this.
+Swoop ʚʖ The quetzacoaltus
+Flies up to its Speed and
+makes one beak or talon
+Strike at any point during that movement.
+
+================================================================================
+PAGE 274
+================================================================================
+
+OTHER QUELAUNTS
+Perhaps the most frightening tales
+of quelaunts attribute them with
+abilities beyond those detailed
+here, suggesting that quelaunts
+might be an entire category
+of alien menace that has only
+recently turned its awful attention
+to humanity.
+Quelaunt
+This three-armed, three-legged monster has no discernible eyes, nose, ears, or mouth
+or no visible means of ingesting food. Its limbs are distributed so evenly across its
+body that it is all but impossible to tell which way the creature is oriented at any
+given time. Few who witness the quelaunt linger on its alien looks for long though,
+as the most pressing concern quickly becomes the invasion of their minds, as the
+quelaunt sows doubt, sorrow, and rage. This monstrosity not only delights in the
+negative emotions of its prey, but feeds on them, gaining strength and sustenance
+from their dismay. For the quelaunt, no act is too terrible or cruel to inﬂict on its
+victims, since the more a creature suffers, the more the quelaunt feasts.
+Quelaunts are known to associate with other aberrant horrors, including brain
+collectors and other creatures associated with the Dominion of the Black. However,
+the more prevalent theory paints them as more alien—perhaps invasive beings from
+another dimension of pure thought and feeling—and claims that in their natural
+state they have no physical bodies at all. Few dare speculate further; the only known
+autopsy of a quelaunt resulted in the researcher’s suicide just days afterward and all
+the notes were mysteriously destroyed. Whatever secrets
+there are to be unlocked in the anatomy of these bizarre
+monsters are apparently important enough to warrant
+great protection from quelaunts, even after death.
+
+================================================================================
+# QUELAUNT
+================================================================================
+
+
+OTHER QUELAUNTS
+Perhaps the most frightening tales
+of quelaunts attribute them with
+abilities beyond those detailed
+here, suggesting that quelaunts
+might be an entire category
+of alien menace that has only
+recently turned its awful attention
+to humanity.
+Quelaunt
+This three-armed, three-legged monster has no discernible eyes, nose, ears, or mouth
+or no visible means of ingesting food. Its limbs are distributed so evenly across its
+body that it is all but impossible to tell which way the creature is oriented at any
+given time. Few who witness the quelaunt linger on its alien looks for long though,
+as the most pressing concern quickly becomes the invasion of their minds, as the
+quelaunt sows doubt, sorrow, and rage. This monstrosity not only delights in the
+negative emotions of its prey, but feeds on them, gaining strength and sustenance
+from their dismay. For the quelaunt, no act is too terrible or cruel to inﬂict on its
+victims, since the more a creature suffers, the more the quelaunt feasts.
+Quelaunts are known to associate with other aberrant horrors, including brain
+collectors and other creatures associated with the Dominion of the Black. However,
+the more prevalent theory paints them as more alien—perhaps invasive beings from
+another dimension of pure thought and feeling—and claims that in their natural
+state they have no physical bodies at all. Few dare speculate further; the only known
+autopsy of a quelaunt resulted in the researcher’s suicide just days afterward and all
+the notes were mysteriously destroyed. Whatever secrets
+there are to be unlocked in the anatomy of these bizarre
+monsters are apparently important enough to warrant
+great protection from quelaunts, even after death.
+QUELAUNT
+CREATURE 15
+CE
+LARGE
+ABERRATION
+Perception +29; tremorsense (imprecise) 60 feet
+Languages Aklo (can't speak any language); telepathy
+100 feet
+Skills Deception +30, Intimidation +30, Occultism +27
+Str +6, Dex +5, Con +4, Int +5, Wis +6, Cha +8
+AC 36; Fort +27, Ref +26, Will +31 (+33 vs. emotion)
+HP 305; Resistances mental 15
+Speed 40 feet; air walk
+Melee Ȱɵ claw +30 (agile, magical, reach 10 feet), Damage 3d8+12 slashing
+Emotional Focus The quelaunt can cast the following cleric domain spells as 8th-level
+occult innate spells at will without spending Focus Points: blind ambition (Core
+Rulebook 389), captivating adoration (Core Rulebook 389), and delusional pride
+(Core Rulebook 391).
+Emotional Frenzy ̂ˬ The quelaunt casts up to three spells chosen from its
+at-will innate spells and its emotional focus spells.
+Feed on Emotion Ȱɵ (attack, emotion, incapacitation, mental); Frequency once per
+round; Eﬀect The quelaunt feeds on the emotional unrest of a single creature
+within 30 feet that’s under a harmful emotion eﬀect. The target must succeed
+at a DC 37 Will save or take 4d10 mental damage and be stunned for
+1 round. If the target fails its saving throw, the quelaunt regains the same
+number of Hit Points and Feed on Emotion does not cost the quelaunt an
+action, allowing it to use another action this turn.
+Occult Innate Spells DC 39; 7th crushing despair (×3); 3rd fear (at will);
+2nd hideous laughter; Constant (4th) air walk
+Rapid Strikes ʚʖ (attack) The quelaunt makes three melee Strikes, each
+against a diﬀerent target within reach. The multiple attack penalty
+applies to each attack, but increases only after all the
+attacks have been made.
+Spiral of Despair Ȳ˓ (emotion, mental); Trigger A
+creature fails a saving throw to resist one of the quelaunt's innate spells or emotional
+focus spells. Eﬀect As the quelaunt invades the triggering creature's mind and plants
+the seeds of negative emotions, it also strips away the target’s feelings of hope or
+positivity. The quelaunt can immediately end a single emotion eﬀect
+from which the triggering creature is beneﬁting.
+
+================================================================================
+PAGE 275
+================================================================================
+
+Bestiary
+RAKSHASA IMMORTALS
+Above all rakshasas rule the
+rakshasa immortals, powerful
+unique entities who deem
+themselves deities. These beings
+include Aksha of the Second
+Breath, Bundha the Singing
+Butcher, Dradjit the Godslayer,
+Kunkarna the Dream Warrior,
+Mursha the Beastmaster,
+Otikaya the Spirit Archer,
+Surpa the Avenger,
+Zabha the Desecrator,
+and untold others.
+Rakshasa
+Rakshasas are evil spirits that cloak themselves in the guises of humanoid
+creatures, that they might walk unseen among their prey. They embody what
+is taboo among most societies, and in the shape of those they seek to deﬁle,
+rakshasas gorge themselves on these hideous acts. A wide range of rakshasas
+exist; presented below are the diminutive, sinister dandasuka rakshasa and the
+infamous raja rakshasa, who are the most widespread and commonly encountered
+of these ﬁends.
+Dandasuka
+Known as “biters” among the more powerful rakshasa castes, dandasukas serve
+as spies and assassins for rakshasa clans or powerful spellcasters who have
+found methods to bind one of these ﬁends to their will. Born to manipulate and
+murder, these half-sized terrors revel in their work and delight in the sight of
+blood. They often dress in extravagant clothes dyed with ostentatious colors
+and wear numerous elaborate accessories, whether in their true form or in
+disguise as human children, halﬂing merchants, or anything else that helps them
+blend into their targeted society.
+A dandasuka rakshasa is constantly haunted by a monstrous hunger that
+gnaws at its hyperactive body, forcing it to feed often. In combat, a dandasuka
+might pause to lick a bloody blade or lap at a pool of spilled blood on the ﬂoor.
+These creatures settle for other meat when they must, but much prefer the taste
+of mortal humanoid ﬂesh. Regular offers of such victuals can keep a dandasuka
+loyal to anyone willing to provide frequent meals, but care must be taken in
+keeping a dandasuka, for many stories tell of them being overly eager to serve
+an adored benefactor, taking off-hand remarks too literally, and
+performing services of violence that were never intended.

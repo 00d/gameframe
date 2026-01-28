@@ -1,0 +1,1626 @@
+# Bestiary - Creatures: M
+# Count: 17 creatures
+
+
+================================================================================
+# MARUT
+================================================================================
+
+
+Bestiary 2
+MARUT
+A marut is tasked with hunting mortals who cheat death by artiﬁcially extending
+their lifespans. This includes those who seek undeath, such as liches and
+vampires, but also includes those who use powerful magic to cling to their youth,
+use divination to discover and avoid an appointed death, or call too often on
+the power of resurrection. Once the marut has selected its target, the inevitable
+pursues its quarry without surcease or deviation until either it or the target
+is dead.
+Maruts seem to be carved from stone and clad in golden armor, yet they move
+with the deliberate grace of a creature made of ﬂesh and bone. A marut never
+rushes, but its thunderous footfalls are relentless as it pursues its target. Though
+able to speak any language, the marut is taciturn even among inevitables.
+MARUT
+CREATURE 15
+LN
+LARGE
+AEON
+INEVITABLE
+MONITOR
+Perception +26; darkvision, true seeing
+Languages Celestial, Infernal, Utopian; truespeech
+Skills Athletics +31, Axis Lore +22, Diplomacy +27, Intimidation +29, Religion +26,
+Survival +28
+Str +8, Dex +4, Con +6, Int +1, Wis +5, Cha +6
+Truespeech As zelekhut.
+AC 37; Fort +27, Ref +25, Will +26; +2 status to all saves vs. magic
+HP 230, regeneration 15 (deactivated by chaotic); Immunities death eﬀects, disease,
+emotion, poison, unconscious; Weaknesses chaotic 15
+Attack of Opportunity Ǻȓ
+Speed 25 feet; air walk
+Melee Ȱɵ ﬁst +30 (lawful, magical, reach 10 feet), Damage 3d8+11 bludgeoning plus
+1d6 lawful and ﬁsts of thunder and lightning
+Divine Innate Spells DC 37; 8th chain lightning, dispel magic, earthquake,
+harm; 7th fear, plane shift, wall of force; 5th command, locate; 4th
+dimension door (at will); Constant (8th) air walk, true seeing
+Rituals DC 36; geas
+Final End The marut is anathema to beings that unnaturally
+extend their existence, including undead. Its ﬁsts bypass such
+creatures’ resistances to damage and apply the creatures’ highest weakness to
+damage. If a marut kills a creature that rejuvenates, like a lich or ghost, it always
+knows that the creature isn’t fully defeated.
+Fists of Thunder and Lightning (divine, evocation, incapacitation) Each time the
+marut makes a ﬁst Strike, it chooses either lightning or thunder. If it chooses
+lightning, the attack deals an additional 2d12 electricity damage and the
+target must succeed at a DC 33 Fortitude save or be blinded for 1 minute. If it
+chooses thunder, the attack deals an additional 3d8 sonic damage and the target
+must succeed at a DC 36 Fortitude save or be deafened for 1 minute.
+BYTHOS
+The bythos is a guardian of space and time, and at all times seeks out
+those who misuse planar and temporal magic. A bythos is a roughly
+humanoid creature with four arms and a body made of swirling clouds
+and mist. Despite its appearance, its body feels like dry stone. A bythos
+seeks out paradoxes caused by irresponsible planar or dimensional
+travelers and repairs breaches where the barriers between planes have
+become thin or damaged. If the mortals responsible remain in the area
+and cannot be convinced to cease their activities, the bythos has no
+qualms about removing them. Using its ability to manipulate time, a
+bythos might cause an opponent to quickly die of old age as time
+speeds up around them, or cause a target to disappear from
+time and space.
+PSYCHOPOMP ALLIES
+The mandate of marut inevitables
+is similar to that of psychopomps.
+Generally, the practical psychopomps
+are content to let an unyielding
+marut complete its mission and
+swoop in afterward to ensure the
+work has been done, but occasionally,
+they may work together.
+
+================================================================================
+PAGE 12
+================================================================================
+
+
+================================================================================
+# MOVANIC DEVA
+================================================================================
+
+
+Bestiary 2
+Angel
+Angels are benevolent messengers who aid good forces in the ﬁght against evil.
+Each angel has a special aura that assists in their individual tasks, and each angel
+delivers certain types of messages and performs other duties for the angelic
+hosts. While most angels live in the enlightened realm of Nirvana, some serve
+the forces of Heaven and Elysium, especially in the case of the angel empyreal
+lords within those two realms. Angels organize themselves into choirs depending
+on their ranks and roles.
+MOVANIC DEVA (GUARDIAN ANGEL)
+Movanic devas are stewards of the ﬂow of good creatures’ souls through the cycle
+of life and death, from the point a creature is born to the day it dies. These angels
+arise from the souls of stalwart nurturers and protectors, and share a speciﬁc
+connection with a creature’s vital essence—its life force. Movanic devas are most
+concerned with guiding and protecting good creatures during their mortal lives,
+so once a soul has passed into the River of Souls, the movanic deva
+leaves its protection to the soul angels, or monadic devas. As part of
+their stewardship over good creatures, movanic devas can waken within
+animals a level of sapience to allow them to become kindly and benevolent
+as well, thus increasing the ﬂow of goodness into the afterlife. They also
+spend time patrolling the Positive Energy Plane and Negative Energy
+Plane, seeking to contain signiﬁcant threats to life.
+MOVANIC DEVA
+CREATURE 10
+NG
+MEDIUM
+ANGEL
+CELESTIAL
+Perception +22; darkvision
+Skills Athletics +20, Diplomacy +22, Intimidation +22, Nature +22,
+Religion +19, Stealth +17, Survival +17
+Languages Celestial, Draconic, Infernal; tongues
+Str +6, Dex +4, Con +4, Int +4, Wis +5, Cha +5
+Items +1 striking bastard sword
+AC 30; Fort +21, Ref +17, Will +19; +1 to all saves vs. magic
+HP 195; Immunities negative; Weaknesses evil 10
+Aura of Vitality (abjuration, aura, divine) 20 feet. Allies in the
+movanic deva’s aura gain a +1 status bonus to all saving
+throws, resistance 10 to positive and negative damage,
+and are unharmed by the eﬀects of a plane’s positive and
+negative traits. Animals in the aura of 12th level or lower
+don’t attack the movanic deva or the deva’s allies unless
+they are controlled or otherwise forced to attack.
+Speed 30 feet, ﬂy 40 feet
+Melee Ȱɵ ﬂaming bastard sword +23 (good, magical, two-hand
+d12), Damage 2d8+9 slashing plus 1d6 ﬁre and 1d6 good
+Divine Innate Spells DC 29; 5th divine wrath, remove curse,
+remove disease, remove fear; 4th create food, heal (×3); 2nd
+invisibility (at will, self only); 1st detect alignment (at will, evil
+only); Constant (5th) tongues
+Rituals DC 29; angelic messenger, awaken animal
+Dispelling Field ʚʖ (divine, transmutation) Frequency once per
+day; Eﬀect The movanic deva attempts to unravel unwelcome
+magic eﬀects on allies within its aura of vitality to protect them
+from malevolent forces. The movanic deva attempts a counteract
+check against as many spell eﬀects aﬀecting allies in the area as it
+wishes with a +19 counteract modiﬁer and a counteract level of 4,
+rolling once for the selected eﬀects.
+Flaming Armaments (divine, transmutation) When a movanic deva wields
+a weapon, that weapon gains the eﬀect of a ﬂaming rune.
+THE GIFT OF SAPIENCE
+When a movanic deva awakens an
+animal, the animal becomes neutral
+good and is well-disposed toward
+the deva, but the deva understands
+that free will is an important part of
+life. While the deva provides enough
+support and guidance to the animal
+to help it adjust to its newly sapient
+world view, not all animals awakened
+in this way remain on the path of good.
+
+================================================================================
+PAGE 16
+================================================================================
+
+WHAT IS A DEVA?
+Three types of devas exist among
+the angelic host, all of which serve
+as angelic “ﬁeld agents.” Of the types
+of angels, devas are the ones most
+likely to be encountered dwelling
+somewhere other than Nirvana, as
+these angels focus their work on
+cultivating and protecting goodness
+in mortal souls, be they living or dead.
+MONADIC DEVA (SOUL ANGEL)
+Monadic devas stand vigil along the River of Souls as it passes from the mortal
+realm into the Ethereal Plane. Those who seek to ﬁsh souls out for their own use
+stalk this metaphysical river, and it is against these predators that monadic devas
+ﬁght. At other times, monadic devas work to guide newcomers to the River of
+Souls who might be in danger of drifting from the current and lingering as ghosts.
+Monadic devas often ﬁnd their tasks place them in alliances with psychopomps,
+and they work well with the monitors despite the philosophical divide between
+their views on a soul’s inherent goodness. A monadic deva is 7 feet tall and weighs
+220 pounds.
+
+================================================================================
+# MONADIC DEVA
+================================================================================
+
+
+WHAT IS A DEVA?
+Three types of devas exist among
+the angelic host, all of which serve
+as angelic “ﬁeld agents.” Of the types
+of angels, devas are the ones most
+likely to be encountered dwelling
+somewhere other than Nirvana, as
+these angels focus their work on
+cultivating and protecting goodness
+in mortal souls, be they living or dead.
+MONADIC DEVA (SOUL ANGEL)
+Monadic devas stand vigil along the River of Souls as it passes from the mortal
+realm into the Ethereal Plane. Those who seek to ﬁsh souls out for their own use
+stalk this metaphysical river, and it is against these predators that monadic devas
+ﬁght. At other times, monadic devas work to guide newcomers to the River of
+Souls who might be in danger of drifting from the current and lingering as ghosts.
+Monadic devas often ﬁnd their tasks place them in alliances with psychopomps,
+and they work well with the monitors despite the philosophical divide between
+their views on a soul’s inherent goodness. A monadic deva is 7 feet tall and weighs
+220 pounds.
+MONADIC DEVA
+CREATURE 12
+NG
+MEDIUM
+ANGEL
+CELESTIAL
+Perception +25; darkvision
+Skills Arcana +25, Diplomacy
++24,
+Intimidation
++22,
+Occultism +20, Religion
++25, Survival +22
+Languages
+Celestial,
+Draconic,
+Infernal; tongues
+Str +7, Dex +4, Con +5, Int +4, Wis +4, Cha +5
+Items +1 striking mace
+AC 33; Fort +24, Ref +21, Will +20; +1 to all saves vs. magic
+HP 245; Immunities death eﬀects; Weaknesses evil 10
+Spiritual Warden (abjuration, aura, divine) 20 feet. Allies in the aura
+gain a +2 status bonus to saving throws against death eﬀects and
+eﬀects that target or manipulate their souls.
+Speed 30 feet, ﬂy 60 feet
+Melee Ȱɵ holy mace +28 (good, magical, shove), Damage 2d6+15 bludgeoning
+plus 1d6 force and 1d6 good plus solid blow
+Divine Innate Spells DC 31; 6th divine wrath, heal, paralyze, remove curse, remove
+disease; 5th creation, remove fear; 4th charm; 2nd invisibility (at will, self only);
+1st detect alignment (at will, evil only); Constant (5th) tongues
+Rituals DC 32; angelic messenger
+Holy Armaments (divine, evocation) Any weapon gains the eﬀect of a
+holy property rune while a monadic deva wields it.
+Rebuke Soul Ȱɵ (auditory, divine, enchantment, good, incapacitation)
+The monadic deva speaks a word to cause a creature’s soul to recoil at
+its sins or an undead creature to recoil at its lack of a soul. One non-good living or undead
+target within 40 feet takes 5d10 good damage and must attempt a DC 32 Fortitude save.
+Regardless of the outcome, the target is then temporarily immune for 10 minutes.
+Critical Success The target is unaﬀected.
+Success The target takes half damage and is stunned 1.
+Failure The target takes full damage and is stunned 2.
+Critical Failure The target takes double damage and is stunned 4.
+Solid Blow (divine, evocation, force) When a monadic deva hits a target for the second
+time during its turn with its mace, it deals an additional 2d12 force damage as its
+weapon shimmers with ripples of power.
+PLANETAR (JUSTICE ANGEL)
+The beings of righteous fury known as planetars are known to be the least patient
+of angels. They exist to destroy evil that cannot be redeemed, and they often
+leave prolonged dialogue to other angels. Of course, no planetar ignores the
+importance of diplomacy, but they know that others among the angelic
+hosts are better suited to that task, while they focus on the larger picture.
+In angelic armies, planetars serve as commanders or generals. They
+stand at least 9 feet tall and weigh over 500 pounds.
+
+================================================================================
+PAGE 17
+================================================================================
+
+Bestiary 2
+PLANETAR JUSTICE
+Planetars know pathways to travel
+between many planes of existence,
+and they use these frequently to
+deliver messages, warnings, and
+ultimatums to those whose actions
+have attracted angelic concern. If a
+situation can be resolved with swift
+on-the-spot justice, a planetar takes
+that route in hopes of staving oﬀ an
+escalation of violence.
+
+================================================================================
+# MELADAEMON
+================================================================================
+
+
+FORMED IN HIS IMAGE
+Meladaemons have always been
+gaunt and bestial, but they didn’t
+always resemble jackals. When
+Trelmarixian overthrew the previous
+Horseman of Famine, one of his
+ﬁrst acts as a ruler of Abaddon was
+to forcibly twist the appearance of
+his deacon caste to resemble his
+own wicked form. He went on to
+imbue meladaemons with other
+jackal-like aspects as it suited him,
+further warping them and cementing
+their fealty.
+MELADAEMON
+CREATURE 11
+NE
+LARGE
+DAEMON
+FIEND
+Perception +21; darkvision, lifesense (imprecise) 30 feet
+Languages Common, Daemonic; telepathy 100 feet
+Skills Acrobatics +20, Deception +23, Intimidation +23, Religion +20, Stealth +23, Survival +19
+Str +7, Dex +5, Con +6, Int +3, Wis +4, Cha +6
+AC 31; Fort +23, Ref +20, Will +19; +1 status to all saves vs. magic
+HP 225; Immunities death eﬀects; Weaknesses good 10
+Consumptive Aura (aura, divine) 20 feet. A meladaemon emanates an aura of intense
+hunger. Each round a creature begins its turn in the aura, it must attempt a DC 27
+Fortitude save. On a failure, the creature takes 1d6 negative damage (2d6 on a critical
+failure) and becomes fatigued. This fatigue ends as soon as the creature eats any food.
+Withering Opportunity Ǻȓ Trigger The meladaemon is attacked by an adjacent creature
+and the attack misses; Eﬀect The meladaemon swipes at the triggering creature, which
+must immediately attempt a save against the meladaemon’s withering touch.
+Speed 25 feet, ﬂy 50 feet
+Melee Ȱɵ bite +24 (evil, magical, reach 10 feet), Damage 2d12+13 plus 1d6
+evil and daemonic famine
+Melee Ȱɵ claw +24 (agile, evil, magical, reach 10 feet), Damage
+2d8+13 slashing plus 1d6 evil, Grab, and withering touch
+Divine Innate Spells DC 31; 6th phantom pain; 5th dimension
+door, fear, magic missile (at will); 4th dimension door (at
+will); 1st detect alignment (good only; at will)
+Rituals DC 31; blight
+Daemonic Famine (disease) Saving Throw DC 29
+Fortitude; Stage 1 carrier (1 day); Stage 2 enfeebled 1
+(1 day); Stage 3 enfeebled 2 (1 day); Stage 4 as stage 3;
+Stage 5 enfeebled 3 (1 week); Stage 6 dead
+Withering Touch (divine, evil, necromancy) When the
+meladaemon hits with a claw Strike or a creature
+begins its turn grabbed by the meladaemon, the
+creature must attempt a DC 30 Fortitude save.
+On a failure, the creature takes 1d6 negative
+damage and becomes fatigued. This fatigue
+ends when the creature drinks.
+DERGHODAEMON (RAVAGER DAEMON)
+Derghodaemons
+represent
+death
+through
+unfathomable violence and being eaten alive.
+Whether in life a ravenous murderer hacked them to
+bits for stew, a werewolf tore them limb from limb, or they simply succumbed to the
+elements and became worm meat, derghodaemons seek to inﬂict the same twisted
+and bloody ends upon any they come across. Unlike some daemons, derghodaemons
+derive little pleasure from prolonged deaths—to these ﬁends, the quicker they can
+enact a gory demise, the sooner they can turn their attentions to their next victim
+and repeat the violent cycle.
+Derghodaemons look like walking masses of razor-sharp insect claws connected
+to equally menacing chitinous limbs, but few linger on their appearance for long—
+the gaze of a derghodaemon is enough to cause others in the vicinity to experience
+severe visual warping. The derghodaemon’s appearance becomes more and more
+twisted as those who stare at it experience vicious hallucinations and ravenous
+urges to inﬂict harm on and devour others. Perhaps the most horriﬁc attack
+derghodaemons can unleash upon their victims, though, is their swarming
+infestation—the daemons cough up a crawling, buzzing cloud of
+ravenous insects that cling to those targeted and chew them to death,
+provided the mind-numbing, half-whispered threats made by the rasp
+of the insects’ bodies don’t drive them to violent fury ﬁrst!
+
+================================================================================
+PAGE 61
+================================================================================
+
+Bestiary 2
+DAEMON HARBINGERS
+The four Horsemen are the most
+powerful of the daemonic demigods,
+but they are only four of many. Far
+more daemonic harbingers dwell on
+Abaddon, each a unique and powerful
+demigod in their own right that
+enjoys sweeping inﬂuence among
+daemonkind. Jacarkas the Collector
+(ruler of the slave city of Awaiting
+Consumption), Vorasha the Ophidian
+(consort to the Horseman of Famine),
+and Zelishkar the Bitter Flame
+(patron to arsonists and agent of the
+Horseman of War) are but three of
+the dozens of harbingers who rule
+realms in Abaddon.
+
+================================================================================
+# MELODY ON THE WIND
+================================================================================
+
+Noxious Fumes ʚʖ Requirement The belker occupies the same space as a Medium
+or smaller creature; Eﬀect The belker attempts to ﬂow into the creature’s lungs; the
+creature must attempt a DC 23 Fortitude save. On a failure, the creature partially
+inhales the belker and is immobilized by the pain of the smoke rasping in its throat and
+lungs. The creature can attempt to exhale the belker by spending an action coughing
+and succeeding at a DC 23 Fortitude save. Most of the belker remains outside the
+creature, so the belker can still act normally. If the belker moves out of the creature’s
+space or uses Noxious Fumes again, the creature automatically exhales it.
+Smoke Slash Ȱɵ Requirement The belker is partially inhaled by a creature; Eﬀect The
+belker automatically deals its claw damage to the inhaling creature by forming a claw
+to slash and scrape the creature from within.
+MELODY ON THE WIND
+This cloud of song and sound has been caught
+by the wind and carried across the air. While
+the melody on the wind (known by some as a song
+elemental, despite the fact that no such place as a plane of song
+exists in the known multiverse) might enjoy the beauty of music, it is
+by nature a destructive elemental force.
+MELODY ON THE WIND
+CREATURE 10
+N
+HUGE
+AIR
+ELEMENTAL
+Perception +21; darkvision
+Skills Acrobatics +22, Performance +22, Stealth +22
+Languages Auran
+Str +4, Dex +6, Con +2, Int +2, Wis +5, Cha +6
+AC 30; Fort +16, Ref +22, Will +19
+HP 170; Immunities bleed, paralyzed, poison, sleep
+Hostile Duet Ǻȓ Trigger A hostile creature within 30 feet
+creates an eﬀect with the auditory trait that provides bonuses
+to itself or its allies; Eﬀect The melody on the wind recreates the
+auditory eﬀect, gaining the bonuses for itself and its allies as long as the
+original eﬀect persists.
+Retune Ǻȓ Trigger The melody on the wind is targeted by a spell with the
+auditory trait; Eﬀect The melody on the wind attempts to counteract the spell.
+If it succeeds, the spell eﬀect is caught in a blast of wind that sweeps it back to its
+origin, aﬀecting the caster. Targets of the triggering eﬀect other than the melody
+on the wind are still aﬀected normally.
+Speed ﬂy 100 feet; swiftness
+Melee Ȱɵ wind gust +23 (agile, ﬁnesse), Damage 2d10+10 bludgeoning plus Push
+Ranged Ȱɵ solid refrain +23 (range increment 70 feet), Damage 2d8+10 sonic
+Mesmerizing Melody Ȱɵ (auditory, concentrate, enchantment, mental, primal) The
+melody on the wind sings in a sonorous chorus. Any creature in a 30-foot
+emanation must attempt a DC 30 Will save to resist becoming fascinated by
+the melody on the wind. A creature that succeeds at its save is temporarily
+immune for 24 hours.
+Critical Success The creature is unaﬀected.
+Success The creature is fascinated for 1 round.
+Failure The creature is fascinated for 1d4 rounds.
+Swiftness The melody on the wind’s movement doesn’t trigger reactions.
+
+================================================================================
+PAGE 109
+================================================================================
+
+Bestiary 2
+LOOTING EARTH ELEMENTALS
+Earth elementals sometimes have
+valuable gemstones or minerals
+incorporated into their bodies,
+and once they are slain, these
+valuables can be scavenged as
+treasure. Gemstones, precious
+metals such as silver or gold ore,
+or rarer materials such as mithral
+or adamantine can be harvested
+from these creatures, although the
+more expensive finds tend to be
+incorporated into only the most
+powerful earth elementals.
+Elemental, Earth
+Certain earth elementals manifest as speciﬁc types of material, be they boulders,
+sand, or crystals.
+LIVING BOULDER
+Living boulders roll and glide through the Plane of Earth, gathering gemstones
+and metal shards until their surfaces resemble a ship’s hull covered in barnacles.
+Barely more intelligent than many animals, living boulders ﬁll much the same role
+on the Plane of Earth as the great herd animals found on Material Plane worlds.
+
+================================================================================
+# MAGMA SCORPION
+================================================================================
+
+persistent ﬁre
+Burning Rush ʚʖ (evocation, ﬁre, primal) The striding ﬁre Strides up
+to double its Speed in a straight line. Its movement during this
+Stride doesn’t trigger reactions. Any creature the striding
+ﬁre was adjacent to at any point during this Stride must
+attempt a DC 24 basic Reﬂex save. If it critically
+fails, it is knocked prone by a wave of heated
+air. The striding ﬁre can’t use Burning Rush for
+1d4 rounds.
+MAGMA SCORPION
+Whether skittering through Abyssal wastelands
+or basking in the searing sand of the deepest
+deserts, magma scorpions have charred carapaces
+constantly emitting vision-warping waves of heat.
+MAGMA SCORPION
+CREATURE 8
+N
+LARGE
+ELEMENTAL
+FIRE
+Perception +18; darkvision, smoke vision
+Skills Athletics +18
+Str +6, Dex +3, Con +5, Int –4, Wis +4, Cha +0
+Smoke Vision The magma scorpion ignores the
+concealed condition from smoke.
+AC 28; Fort +19, Ref +14, Will +16
+HP 155; Immunities bleed, ﬁre, paralyzed, poison,
+sleep; Weaknesses cold 10
+Speed 40 feet, climb 30 feet
+Melee Ȱɵ pincer +20 (agile, reach 10 feet), Damage 2d6+9
+bludgeoning plus 1d6 persistent ﬁre and Grab
+Melee Ȱɵ tail sting +20 (reach 10 feet), Damage
+1d10+9 piercing plus 1d6 persistent ﬁre and magma
+scorpion venom
+Ranged Ȱɵ magma spit +17 (ﬁre, range increment 40
+feet); Damage 1d6+9 ﬁre plus 1d6 persistent ﬁre
+Magma Scorpion Venom (ﬁre, injury, poison) Saving Throw
+DC 26 Fortitude; Maximum Duration 6 rounds; Stage 1
+2d6 ﬁre damage (1 round) and enfeebled 1; Stage 2 3d6 ﬁre
+damage and enfeebled 2 (1 round)
+
+================================================================================
+PAGE 113
+================================================================================
+
+Bestiary 2
+MEPHIT INTERACTIONS
+Diﬀerent types of mephits that can
+be found on the same elemental
+plane often develop friendly (or, in
+some cases, ﬁerce) rivalries with
+one another. While mephits from
+elementally opposed planes (such
+as ﬁre and water) may have strong
+opinions about the superiority of
+their own element, the fact that they
+rarely see such mephits means that
+when they do encounter them, they
+often get along better than they do
+with their close neighbors.
+Elemental, Mephit
+Mephits are small, weak creatures that serve at the whims of other elemental entities.
+The mephits presented here are less common than air mephits, earth mephits, and the
+like, as they are a blend of two different elements rather than focusing on one alone.
+DUST MEPHIT
+Whining and self-important creatures, dust mephits are known for their tendency
+to pronounce doom and gloom at every opportunity, lamenting every insigniﬁcant
+and minor difﬁculty as though it were an insurmountable obstacle and making
+themselves out to be heroes for struggling valiantly against their cruel fates. They
+tend to be thin and gaunt, with dusky brown and gray skin and wings.
+
+================================================================================
+# MIST STALKER 
+================================================================================
+
+Icicle Ȱɵ (concentrate) Until the next time it acts, the icicle snake appears
+to be an unassuming icicle. It has an automatic result of 27 on Deception
+checks and DCs to pass as an icicle.
+MIST STALKER
+The tentacled mist stalker shrouds itself in a cloak of mist through
+which its single, never-blinking eye can see with clarity, allowing it an
+advantage when stalking its prey.
+MIST STALKER 
+CREATURE 4
+N
+MEDIUM
+AMPHIBIOUS
+ELEMENTAL
+WATER
+Perception +13; darkvision, mist vision
+Languages Aquan
+Skills Athletics +11, Stealth +12
+Str +4, Dex +4, Con +2, Int +1, Wis
++5, Cha +0
+Mist Cloud (aura, conjuration, primal,
+water) 15 feet. The mist stalker is
+surrounded by mist. Creatures in the aura
+are concealed. If wind disperses the aura, it
+returns automatically at the start of the mist
+stalker’s turn. This cloud is suppressed in water.
+Mist Vision The mist stalker ignores the concealed condition from
+mist and fog.
+AC 20; Fort +10, Ref +12, Will +11
+HP 58; Immunities bleed, paralyzed, poison, sleep
+Speed 20 feet, climb 20 feet, swim 30 feet
+Melee Ȱɵ tentacle +14 (ﬁnesse, sweep, reach 10 feet), Damage 2d8+4 bludgeoning
+plus Grab
+Constrict Ȱɵ 1d8+4 bludgeoning, DC 21
+Solidify Mist Ȱɵ (primal, transmutation, water) The mist stalker makes its mist cloud
+congeal, causing the aura to be diﬃcult terrain until the start of the mist stalker’s next turn.
+In addition, the mist stalker can make the mist even thicker around a single Medium or
+smaller creature within the cloud. The creature must succeed at a DC 20 Reﬂex save
+or become immobilized until it Escapes or it is no longer in the mist cloud’s emanation.
+BLIZZARDBORN
+Freezing and thawing in a near-constant loop, blizzardborn resemble humanoid
+forms composed of a mixture of partially melted snow and sleet. These elementals
+
+================================================================================
+PAGE 116
+================================================================================
+
+ELEMENTAL WYRMS
+The icewyrm is the most widely
+encountered elemental wyrm, but
+others exist as well, including the
+blazing ﬁrewyrm, the sleek but
+somewhat smaller sparkwyrm, and
+the largest of them all, the immense
+and acidic sludgewyrm.
+move with crunching strides, their bodies constantly sloshing and sloughing off
+shards of ice. Because of their ability to refreeze, blizzardborn can travel into warmer
+environments safely, though they tend to look more like slush in these areas.
+
+================================================================================
+# MASTODON
+================================================================================
+
+Critical Success The target is unaﬀected.
+Success The target takes half damage.
+Failure The target takes full damage and is knocked prone.
+Critical Failure The target takes double damage, is knocked
+prone, and is pushed 5 feet away from the anancus.
+Trample ̂ˬ Large or smaller, foot, DC 25
+Tusk Sweep ʚʖ The anancus sweeps its long tusks
+back and forth, dealing 4d6
+bludgeoning damage to all
+creatures in a 15-foot cone,
+who must make a DC 27
+basic Reﬂex save.
+MASTODON
+Not to be confused with the
+larger
+mammoth,
+mastodons
+are primeval elephants who dwell
+predominantly in temperate forests.
+There, they travel in close-knit social groups
+and feed on the forest vegetation.
+MASTODON
+CREATURE 9
+N
+HUGE
+ANIMAL
+Perception +17; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +21, Survival +17
+Str +8, Dex +0, Con +5, Int –4, Wis +2, Cha –2
+AC 26; Fort +20, Ref +13, Will +17
+HP 175
+Speed 45 feet
+Melee Ȱɵ tusk +21 (reach 15 feet), Damage 3d8+12 piercing
+Melee Ȱɵ trunk +21 (reach 15 feet), Eﬀect grabbing trunk
+Melee Ȱɵ foot +21 (reach 10 feet), Damage 2d10+12 bludgeoning
+Dual Tusks Ȱɵ The mastodon makes two tusk Strikes, each against a different
+creature. This counts as one attack for the mastodon’s multiple attack
+penalty, and the penalty doesn’t increase until after both
+attacks.
+Grabbing Trunk A Medium or smaller creature hit by the
+mastodon’s trunk is grabbed. If the mastodon moves, it can
+bring the grabbed creature along with it.
+Trample ̂ˬ Large or smaller, foot, DC 27
+
+================================================================================
+PAGE 118
+================================================================================
+
+MASTERS OF ADAPTATION
+Kayals understand that many
+Material Plane cultures view them
+with suspicion or even fear, and
+take pains to adapt to cultures with
+which they seek to establish trade.
+Unfortunately, kayals’ mastery
+at cultural adaptation can often
+backﬁre, leading to fears that the
+so-called “fetchlings” are an invading
+force that seeks to duplicate and
+replace those with whom they
+merely wish to do business.
+Fetchling
+The people known today as fetchlings are a distinct ancestry descended from
+generations of humans who became trapped ages ago on the Shadow Plane. No longer
+human at all, these people, who call themselves kayals, have become monochromatic
+in coloration, with ﬂesh tones and hair colors varying between white, black, and all
+shades of gray. Their limbs are lithe and willowy, and their eyes are generally solid
+yellow, yellow-green, or white, though a rare few have a purple or blue glow.
+Fetchlings have developed their own complex societies in the Shadow Plane,
+often under the tolerance of or in servitude to the strange, malignant creatures
+there, such as the sinister velstracs or the enigmatic d’ziriaks. While individual
+fetchlings can be any alignment, they are all survivors in a harsh environment,
+which leads to a tendency toward pragmatism. Fetchling clothing mimics the
+regions they dwell in, with drab colors tending toward darker shades. When they
+trade with humans or other societies on the Material Plane, they often wear masks
+or concealing clothing to hide their appearance.
+Typical fetchling communities are insular and swiftly close ranks in the
+event of an intruder. Though individual fetchlings don’t mind traveling to and
+blending in with other societies to facilitate trade, they often hide or even react
+defensively if they have their own visitors. When one considers the nature of
+the other denizens of the Shadow Plane, however, this tendency to assume the
+worst of interlopers might make sense to some.
+Fetchlings are not as common on the Material Plane;
+most of those who dwell there are loners by choice who
+have left their home to seek out adventure elsewhere,
+exiles who were banished from their homelands,
+or planar castaways with no ability to return to the
+Shadow Plane. This last category, the lost and stranded,
+are the most likely to be found in larger groups. In cities
+of signiﬁcant size, one can sometimes even ﬁnd a small community of
+a few dozen or more fetchlings living among humans, although they often do so
+subtly by dyeing their hair, wearing brightly colored clothing, and utilizing
+layers of makeup to hide their pallid complexions.
+
+================================================================================
+# MARSH GIANT
+================================================================================
+
+
+GAFFS
+Many marsh giants ﬁght with
+oversized gaﬀs—lengths of wood
+with a single metal spike aﬃxed
+to the tip. Used often by ﬁsherfolk
+to land ﬁsh, marsh giants use their
+gaﬀs as weapons. A gaﬀ sized for
+a Medium creature is a common
+martial weapon in the club group.
+It deals 1d6 bludgeoning damage
+and has 1 Bulk. It requires one
+hand to use and has the trip and
+versatile P weapon traits. Gaﬀs are
+readily available in ﬁshing or coastal
+settlements for 1 gp.
+MARSH GIANT
+Dwellers of brackish coastal salt marshes and fetid bogs and swamps, marsh giants
+are hideous in appearance indeed, with ﬁshlike mouths, slimy gray-green skin, and
+dark, beady eyes. They prefer to eat the ﬂesh of those they slay in battle, but many
+are also cannibals. It is perhaps this vicious behavior that keeps the creatures in
+check, for if a fellow marsh giant becomes too dangerous and powerful, it runs the
+risk of being ambushed and consumed by its clan.
+Marsh giants are insular and mysterious, dedicating much of their lives to
+zealous worship of sea-dwelling deities or stranger entities. While there is no
+central religion followed by all marsh giants, many are known to venerate the
+demon lord Dagon, while others worship even more powerful monstrosities from
+the Elder Mythos, such as distant, dreaming Cthulhu.
+Only rarely do more than a dozen marsh giants settle together in a location,
+but when they do it is often for a religious purpose. Whatever call from the deep
+draws them together also tugs at nearby creatures such as boggards or skum, who
+look upon marsh giants in fear and reverence. The grim, terrifying chants and
+screams coming from such an encampment are a sure sign of terror to come for
+any other residents of the area.
+Barely topping 11 feet tall and 1,000 pounds, marsh giants are small
+for giants but make up for their relatively diminutive stature with
+their zealotry.
+MARSH GIANT
+CREATURE 8
+CE
+LARGE
+AMPHIBIOUS
+GIANT
+HUMANOID
+Perception +16; low-light vision
+Languages Aklo, Common, Jotun
+Skills Athletics +18, Intimidation +15, Religion +17
+Str +6, Dex +3, Con +4, Int +0, Wis +3, Cha +1
+Items +1 striking gaﬀ, sack with 5 rocks
+AC 27; Fort +18, Ref +13, Will +17
+HP 150
+Catch Rock Ǻȓ
+Speed 35 feet, swim 20 feet
+Melee Ȱɵ gaﬀ +20 (magical, reach 10 feet, trip, versatile P),
+Damage 2d6+14 bludgeoning
+Melee Ȱɵ ﬁst +20 (agile, reach 10 feet), Damage 2d6+14
+bludgeoning
+Ranged Ȱɵ rock +20 (brutal, range increment 120 feet),
+Damage 2d6+14 bludgeoning
+Occult Innate Spells DC 23; 5th mariner’s curse; 2nd
+augury, obscuring mist
+Hook Shake Ȱɵ Requirements A creature adjacent to the
+marsh giant is prone in water at least 1 foot deep; Eﬀect The
+marsh giant uses its gaﬀ to shake the creature back and forth and
+hold it underwater. The giant attempts an Athletics check against the
+target’s Fortitude DC.
+Critical Success The target takes 6d6+14 piercing damage and
+loses 5 rounds’ worth of air if they were holding their breath.
+Success The target takes 3d6+14 piercing damage and loses 3
+rounds’ worth of air if they were holding their breath.
+Failure The target is unaﬀected.
+Critical Failure As failure, but the giant drops its gaﬀ as well.
+Throw Rock Ȱɵ
+Twist the Hook ʚʖ The marsh giant makes a melee Strike
+with its gaﬀ. If it hits, it twists and yanks the gaﬀ to
+create an awful wound, dealing 3d6 persistent bleed
+damage to the creature.
+
+================================================================================
+PAGE 127
+================================================================================
+
+Bestiary 2
+TAIGA GIANT CLANS
+Each taiga giant clan links its identity
+to the deeds of their most famous
+ancestors and heroes. Names such
+as Cliﬀsmiter and Mountainripper
+hint at legendary accomplishments,
+though the stories are rarely shared
+with outsiders.
+TAIGA GIANT
+Taiga giants prefer a nomadic lifestyle, both to keep from depleting any one
+area’s resources while satiating their massive appetites and to satisfy a constant
+wanderlust. They are deeply spiritual and frequently commune with their
+ancestors’ spirits for guidance and knowledge. Taiga giants are happiest when
+they are left alone to live out their traditional lives, and their impressive size and
+strength are enough to persuade all but the most dangerous foes to do so.
+Taiga giants subsist on migratory herds of aurochs, mammoths, and elk. They
+occasionally raid humanoid villages, but such cases are opportunistic rather than
+malicious, with a focus on stealing away livestock for food rather than people.
+Nevertheless, the arrival of a group of taiga giants is a potentially devastating
+event to any town or village, so many communities attempt to placate the giants
+by creating a yearly offering at those times when they know the giants are
+scheduled to come close.
+Most taiga giants venerate their ancestors and seek to honor their works in
+everything they do. This deep connection makes them ferociously proud of
+those legacies, and little can compel taiga giants to go to war more swiftly
+than insulting their ancestors. Merely mentioning the false rumors that
+ancient taiga giant spellcasters were responsible for the creation of the
+ﬁrst rune giants is a sureﬁre way to earn a taiga giant’s unending wrath.
+A taiga giant stands 20 feet tall and weighs 10,000 pounds.
+
+================================================================================
+# MEGALANIA
+================================================================================
+
+Tongue Grab If the giant chameleon hits a creature with a
+tongue Strike, that creature becomes grabbed by the
+giant chameleon. The target isn’t immobilized, but it
+can’t move beyond the reach of the giant chameleon’s
+tongue. A creature can sever the tongue with an
+attack that hits AC 15 and deals at least 4 slashing
+damage. Though this doesn’t deal any damage to the
+giant chameleon, it prevents it from using its tongue Strike
+until it regrows its tongue, which takes a week.
+MEGALANIA
+Megalanias, like their smaller cousins the giant
+monitor lizards, strike fast and use their powerful
+bite to grip their prey. They prefer to swallow
+their prey whole rather than risk others getting
+a bite of a hard-won meal.
+MEGALANIA
+CREATURE 7
+N
+HUGE
+ANIMAL
+Perception +15; low-light vision, scent (imprecise)
+60 feet
+Skills Athletics +18, Stealth +15 (+17 in undergrowth)
+Str +7, Dex +2, Con +4, Int –4, Wis +2, Cha –2
+AC 25; Fort +17, Ref +15, Will +13
+HP 125
+Speed 25 feet, swim 25 feet
+Melee jaws +18 (reach 10 feet), Damage
+2d10+9 piercing plus Grab and megalania venom
+Megalania Venom (poison) Saving Throw DC 25
+Fortitude; Maximum Duration 6 rounds; Stage 1
+1d6 poison damage and clumsy 1 (1 round); Stage
+2 2d6 poison damage, clumsy 2, and ﬂat-footed (1
+round); Stage 3 2d6 poison damage, clumsy 3, and
+ﬂat‑footed (1 round)
+Swallow Whole (attack) Large, 2d10+7 bludgeoning, Rupture 16
+
+================================================================================
+PAGE 170
+================================================================================
+
+GREATER RITUAL GATES
+Well-versed and knowledgeable lurkers
+in light can lead groups of their kind in
+a more advanced Ritual Gate to enable
+travel to other planes, rather than
+just summoning. Doing so requires
+the sacriﬁce of a creature of equal or
+greater size to the lurker in light who
+wishes to travel the planes. Multiple
+lurkers in light can travel in this way,
+but this requires multiple sacriﬁces.
+The creation of a greater Ritual Gate is
+a 1-hour activity, at the end of which
+all aﬀected lurkers in light travel to the
+same plane, chosen from the Material
+Plane, one of the Elemental Planes, or
+the First World.
+Lurker in Light
+These malicious and strange fey appear as fairies about 2 feet tall, with insectile
+wings, large eyes, and bulbous heads. They slaughter and cause mischief in
+a pattern only their alien intellect understands, but they’ve been seen to take
+particular umbrage against dwarves, gnomes, and creatures who live in darkness.
+With their grudges and pursuit of their own wicked and sadistic whims, lurkers in
+light deftly overturn the conventional wisdom that creatures associated with light
+are benign and friendly.
+While lurkers in light are fey and have ties to the First World, these creatures are
+often found elsewhere in the Great Beyond. They are particularly fond of invading
+the Shadow Plane to bring light to those who dwell there—not to help, but to
+spread misery and pain among those to whom light is agonizing.
+
+================================================================================
+# MANDRAGORA
+================================================================================
+
+
+Bestiary 2
+MANDRAGORA SUCKLINGS
+Sometimes a mandragora oﬀers its
+services to a spellcaster in exchange
+for sustenance. Tales tell of sorcerers
+or other magical creatures who keep
+mandragora “familiars” whose loyalty
+is sustained by feeding the little beasts
+with their own blood. These tales
+generally have gruesome endings
+wherein the mandragora is overcome
+with bloodlust and, unable to control
+itself, devours its master.
+Mandragora
+A mandragora looks like a freshly pulled tuber that has grown into the malformed
+shape of a child with a grotesque face and hideously bloated body. These insidious
+little plants typically form when a mandrake root is watered with a demon’s
+blood. Upon absorbing the otherworldly properties of the demon’s blood, the
+root animates and is forced to seek out blood to feast from, lest it die of thirst.
+Always famished and in search for sustenance, mandragoras live haunted, pained
+lives and perform vile and desperate acts to acquire the blood they crave. While
+they prefer magically infused blood such as that of unicorns, fey, or sorcerers, and
+they can also feed off of potions, alchemical bombs, and other magical elixirs,
+a mandragora can subsist on the blood of non-magical creatures. They ﬁnd the
+ﬂavor of mundane blood to be bland and bitter, and they do not blanch at voicing
+these complaints to the creatures from which they drink.
+While the typical mandragora is the size of a human child, some of these evil
+plants continue to grow and grow, reaching sizes more comparable to those of
+giants. Sometimes as they grow, they form additional limbs or rudimentary faces,
+eventually transforming into truly hideous mockeries of the human form.
+MANDRAGORA
+CREATURE 4
+CE
+SMALL
+PLANT
+Perception +11; blood scent, low-light vision
+Languages Abyssal, Common
+Skills Acrobatics +10, Athletics +10, Stealth +12 (+20 in vegetation)
+Str +2, Dex +5, Con +3, Int –1, Wis +2, Cha +0
+Blood Scent A mandragora can smell creatures with blood as an imprecise
+sense at a range of 30 feet, and it can smell demons, fey, and sorcerers
+with blood as a precise sense at a range of 30 feet.
+AC 21; Fort +11, Ref +13, Will +8
+HP 60; Weaknesses ﬁre 5; Resistances bludgeoning 5, electricity 5
+Vulnerability to Supernatural Darkness Whenever a mandragora
+begins its turn in an area of magical darkness, it is slowed 1 on
+that turn.
+Speed 30 feet, burrow 10 feet, climb 30 feet
+Melee Ȱɵ jaws +14 (ﬁnesse), Damage 2d8+4 piercing plus Grab
+Melee Ȱɵ thorny vine +14 (agile, ﬁnesse, reach 10 feet), Damage
+2d4+4 slashing plus mandragora venom
+Blood Drain Ȱɵ Requirements The mandragora has a creature
+grabbed; Eﬀect The mandragora drains blood from the creature it
+has grabbed, dealing 2d6 damage. If the creature is a demon, fey, or
+sorcerer, the mandragora gains temporary Hit Points equal to the
+damage dealt. A creature that has its blood drained by a mandragora
+is drained 1 until it receives healing of any kind or amount.
+Mandragora Venom (poison) Saving Throw DC 21 Fortitude;
+Maximum Duration 6 rounds; Stage 1 1d6 poison damage and
+stupeﬁed 1 (1 round); Stage 2 1d6 poison damage, confused, and
+stupeﬁed 1 (1 round); Stage 3 2d6 poison damage, confused, and
+stupeﬁed 1 (1 round)
+Piercing Shriek Ȱɵ (auditory, evocation, mental, primal) Frequency
+once per day; Eﬀect The mandragora emits an unsettling shriek.
+Each non-mandragora creature within 30 feet must attempt a
+DC 25 Will save.
+Critical Success The creature is unaﬀected.
+Success The creature is sickened 1.
+Failure The creature is sickened 2.
+Critical Failure The creature is sickened 2 and slowed 1. As
+long as the creature remains sickened, this slowed condition
+value can’t be reduced below 1.
+
+================================================================================
+PAGE 172
+================================================================================
+
+FEY MANIPULATORS
+Marrmoras exert a strange and
+subtle dominance over other fey.
+The fey under their control are ﬁlled
+with both horror at the destruction
+wrought by marrmoras and
+fascination with their ﬁery power.
+Marrmora
+On the First World, marrmoras dwell in ruined wildlands perpetually scourged
+by ﬁre and rarely, if ever, travel elsewhere. When a wildﬁre devastates a wilderness
+region on the Material Plane and results in the death of other fey, marrmoras
+can be drawn across the planar boundary to revel in the resulting destruction.
+They seek to reignite the ﬁres that beckoned them, to gather up and feed upon
+the charred remains of those who perished within (particularly the bodies of
+dead fey), though they do grow homesick if they spend too much time away
+from the First World. They are burdened by a capricious but persistent rage
+and are unfailingly cruel. While they are capable of negotiation and intelligent
+interaction, they almost never bargain in good faith and typically interact with
+others only as a means to more efﬁciently spread their ﬁery devastation.
+A marmorra’s twisted appearance evokes the look of an arboreal whose bark
+has been burnt down to charcoal. They have nearly featureless faces and hands
+ending in long, sharp claws. Their broken ﬂesh looks like charcoal‑burnt
+wood, riddled with cracks that still glow with an unwholesome heat. They
+trail ash wherever they walk, and wisps of smoke curl off of their bodies.
+Though marrmoras enjoy the sight of any woodland and its inhabitants
+roasting in the ﬂames of their carefully curated ﬁres, there is little that
+brings more pleasure to a marrmora than the sight of good-aligned plant
+creatures cooking to a crisp.
+
+================================================================================
+# MARRMORA
+================================================================================
+
+
+FEY MANIPULATORS
+Marrmoras exert a strange and
+subtle dominance over other fey.
+The fey under their control are ﬁlled
+with both horror at the destruction
+wrought by marrmoras and
+fascination with their ﬁery power.
+Marrmora
+On the First World, marrmoras dwell in ruined wildlands perpetually scourged
+by ﬁre and rarely, if ever, travel elsewhere. When a wildﬁre devastates a wilderness
+region on the Material Plane and results in the death of other fey, marrmoras
+can be drawn across the planar boundary to revel in the resulting destruction.
+They seek to reignite the ﬁres that beckoned them, to gather up and feed upon
+the charred remains of those who perished within (particularly the bodies of
+dead fey), though they do grow homesick if they spend too much time away
+from the First World. They are burdened by a capricious but persistent rage
+and are unfailingly cruel. While they are capable of negotiation and intelligent
+interaction, they almost never bargain in good faith and typically interact with
+others only as a means to more efﬁciently spread their ﬁery devastation.
+A marmorra’s twisted appearance evokes the look of an arboreal whose bark
+has been burnt down to charcoal. They have nearly featureless faces and hands
+ending in long, sharp claws. Their broken ﬂesh looks like charcoal‑burnt
+wood, riddled with cracks that still glow with an unwholesome heat. They
+trail ash wherever they walk, and wisps of smoke curl off of their bodies.
+Though marrmoras enjoy the sight of any woodland and its inhabitants
+roasting in the ﬂames of their carefully curated ﬁres, there is little that
+brings more pleasure to a marrmora than the sight of good-aligned plant
+creatures cooking to a crisp.
+MARRMORA
+CREATURE 15
+NE
+MEDIUM
+FEY
+FIRE
+Perception +27; low-light vision
+Languages Common, Elven, Sylvan
+Skills Acrobatics +25, Athletics +25, Deception +30, Intimidation +30, Nature
++30, Stealth +27, Survival +27
+Str +6, Dex +4, Con +8, Int +4, Wis +6, Cha +8
+AC 37; Fort +29, Ref +25, Will +27
+HP 280; Immunities ﬁre; Weaknesses cold iron 15; Resistances physical 10
+(except slashing)
+Fascination of Flame (aura, emotion, enchantment, mental, primal) 30 feet.
+A creature that enters or begins its turn in this aura’s emanation must
+attempt a DC 33 Will save. Regardless of the result of the saving throw,
+the creature is temporarily immune for 1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature loses any resistance to ﬁre for 1 round.
+Failure The creature loses any resistance to ﬁre for 1 hour.
+Critical Failure The creature loses any resistance to ﬁre for 1
+hour and gains weakness 15 to ﬁre for the same duration.
+Absorb Flame Ǻȓ Trigger The marrmora is targeted by a ﬁre spell
+or eﬀect, or is in the area of a ﬁre eﬀect; Eﬀect The marrmora
+is healed by the ﬁre damage, regaining Hit Points equal to
+half the damage the ﬁre eﬀect would have dealt.
+Speed 30 feet, ﬂy 30 feet
+Melee Ȱɵ claw +29, Damage 3d6+14 slashing plus 3d6 ﬁre and
+1d6 persistent ﬁre
+Ranged Ȱɵ ﬂame jet +29 (ﬁre, range increment 40 feet), Damage 6d6 ﬁre plus 2d6
+persistent ﬁre
+Primal Innate Spells DC 36, attack +28; 8th fire shield, fireball; 7th elemental
+form (ﬁre elemental only), volcanic eruption, wall of fire; 6th fire shield (×3),
+fireball (×3), tree shape (at will; appears as a burnt, dead tree); Cantrips (8th)
+produce flame
+Igniting Assault Ȱɵ Requirement The marrmora is not under the eﬀect of ﬁre
+shield; Eﬀect The marrmora makes a claw Strike. If it hits, it can immediately
+cast one of its available ﬁre shield innate spells as a free action.
+
+================================================================================
+PAGE 173
+================================================================================
+
+Bestiary 2
+INHUMAN MURDERERS
+While it’s true that most mohrgs
+seem to rise from the corpses of
+humanoid killers, the capacity to
+murder is not limited to humanoids.
+Mohrgs of other sorts could certainly
+exist—as long as they come from a
+society that has the capacity not
+only to judge and execute, but also to
+harbor murder within their hearts.
+Mohrg
+The weight of murder wears heavy on the soul. With souls marked by a lifetime
+of dealing death, these killers, whether mass murderers, bloodthirsty soldiers, or
+sadistic executioners, sometimes do not let judgment and lawful execution stanch
+their slaying sprees. When such individuals are brought to justice, they may rise
+after death as mohrgs to continue their ruinous work.
+Drawn to others of their kind, mohrgs prefer to hunt in small groups, occasionally
+in partnership with weaker free-willed undead such as shadows and wights. They
+seek out weak prey and revel in causing drawn-out suffering. Some mohrgs haunt
+locations they favored in life, reenacting old crimes on new victims. They may even
+skulk about in public, wearing rags, cloaks, or freshly harvested skins to hide their
+nature. The most dangerous mohrgs are those who grow powerful enough to no
+longer fear being struck down again and openly assault settlements in an attempt to
+turn living towns into mass graves.
+Since those slain by a mohrg rise soon thereafter as mohrg spawn, the murders of
+a mohrg rarely go unnoticed for long, even when they take extra care to prey only
+on a society’s dregs. Since mohrg spawn remain under a mohrg’s control, a canny
+mohrg might order its spawn to remain in hiding to keep its presence secret until a
+point where it feels conﬁdent unleashing its undead army upon a doomed settlement.
+Mohrgs retain a twisted sentimentality for the crimes of their mortal life, seeking
+out trinkets that remind them of favorite murders. When not out hunting,
+mohrgs arrange their mementos into disturbing shrines. Often, these trinkets are
+valuable objects, and might even provide important clues to ongoing mysteries.
+
+================================================================================
+# MOHRG
+================================================================================
+
+
+Bestiary 2
+INHUMAN MURDERERS
+While it’s true that most mohrgs
+seem to rise from the corpses of
+humanoid killers, the capacity to
+murder is not limited to humanoids.
+Mohrgs of other sorts could certainly
+exist—as long as they come from a
+society that has the capacity not
+only to judge and execute, but also to
+harbor murder within their hearts.
+Mohrg
+The weight of murder wears heavy on the soul. With souls marked by a lifetime
+of dealing death, these killers, whether mass murderers, bloodthirsty soldiers, or
+sadistic executioners, sometimes do not let judgment and lawful execution stanch
+their slaying sprees. When such individuals are brought to justice, they may rise
+after death as mohrgs to continue their ruinous work.
+Drawn to others of their kind, mohrgs prefer to hunt in small groups, occasionally
+in partnership with weaker free-willed undead such as shadows and wights. They
+seek out weak prey and revel in causing drawn-out suffering. Some mohrgs haunt
+locations they favored in life, reenacting old crimes on new victims. They may even
+skulk about in public, wearing rags, cloaks, or freshly harvested skins to hide their
+nature. The most dangerous mohrgs are those who grow powerful enough to no
+longer fear being struck down again and openly assault settlements in an attempt to
+turn living towns into mass graves.
+Since those slain by a mohrg rise soon thereafter as mohrg spawn, the murders of
+a mohrg rarely go unnoticed for long, even when they take extra care to prey only
+on a society’s dregs. Since mohrg spawn remain under a mohrg’s control, a canny
+mohrg might order its spawn to remain in hiding to keep its presence secret until a
+point where it feels conﬁdent unleashing its undead army upon a doomed settlement.
+Mohrgs retain a twisted sentimentality for the crimes of their mortal life, seeking
+out trinkets that remind them of favorite murders. When not out hunting,
+mohrgs arrange their mementos into disturbing shrines. Often, these trinkets are
+valuable objects, and might even provide important clues to ongoing mysteries.
+MOHRG
+CREATURE 8
+CE
+MEDIUM
+UNDEAD
+Perception +17; darkvision
+Languages Common, Necril
+Skills Acrobatics +16, Athletics +18, Intimidation +19, Society +15, Stealth +18
+Str +6, Dex +4, Con +4, Int +1, Wis +3, Cha +5
+AC 28; Fort +18, Ref +16, Will +13
+HP 120, negative healing; Immunities death eﬀects, disease, paralyzed, poison,
+unconscious; Resistances piercing 10, slashing 5
+Mohrg Spawn (occult, necromancy) A living creature slain by a mohrg
+that had a lower level than the mohrg rises as a mohrg spawn after
+1d4 rounds, on its turn. This mohrg spawn is under the command
+of the mohrg that created it. If the creator of the mohrg spawn
+is destroyed, the mohrg spawn is destroyed as well, immediately
+collapsing into a pile of decayed ﬂesh and bones.
+Speed 25 feet
+Melee Ȱɵ claw +20, Damage 2d10+9 slashing plus Grab
+Melee Ȱɵ tongue +20 (agile), Eﬀect paralysis
+Paralysis (occult, incapacitation, necromancy) A living creature hit by a mohrg’s tongue
+Strike must succeed at a DC 26 Fortitude save or become paralyzed. The creature can
+attempt a new save at the end of each of its turns, and the DC cumulatively decreases
+by 1 on each attempt.
+MOHRG SPAWN
+When a creature returns after death as a mohrg spawn, its ﬂesh decays away save
+for its entrails, and it grows a long, awful tongue. The creature gains the undead
+trait and becomes chaotic evil, and it loses any abilities that come from it being a
+living creature. It gains darkvision, negative healing, and the mohrg’s immunities
+and resistances. If the creature had hands, it gains a claw Strike (an unarmed attack
+that deals slashing damage). The creature also gains a tongue Strike, an agile attack
+that causes paralysis, as the mohrg ability; the Fortitude save uses the DC for the
+mohrg spawn’s level (Pathﬁnder Core Rulebook 503). Mohrg spawn cannot
+create mohrg spawn of their own.
+
+================================================================================
+PAGE 174
+================================================================================
+
+DOMINION SEEDLINGS
+Moonflower seeds are tough and
+fibrous, capable of surviving the
+fire of reentry into a planet’s
+atmosphere. They are often
+dropped by agents of the Dominion
+of the Black in orbit above
+unsuspecting worlds.
+Moonflower
+These enormous plants have thick, knotted trunks festooned with fanged
+blossoms. A gaping mouth sits at the top of the trunk, capable of swallowing most
+creatures smaller than the moonﬂower whole. Moonﬂowers can move slowly on
+their powerful roots or use them to attack, but usually they dig them deeply into
+the surrounding ground and remain stationary to await prey.
+Though moonﬂowers can’t speak in the conventional sense, they communicate
+telepathically with other moonﬂowers. Explorers who encounter a single
+moonﬂower can thus be assured that any other moonﬂowers in the vicinity will
+be prepared for them. Those who manage to intercept a moonﬂower’s telepathic
+communications are assaulted by visions of dreadful, primeval jungles ruled over
+by titanic plant life. Whether this is some vision of the past or a dream
+of the future shared by all moonﬂowers is unknown.
+Moonﬂowers are alien life‑forms from a long-dead planet, but
+their proliferation throughout the galaxy has been ensured through the
+machinations of the Dominion of the Black, a sinister, alien organization from
+the dark places between the stars.
+
+================================================================================
+# MOONFLOWER
+================================================================================
+
+
+DOMINION SEEDLINGS
+Moonflower seeds are tough and
+fibrous, capable of surviving the
+fire of reentry into a planet’s
+atmosphere. They are often
+dropped by agents of the Dominion
+of the Black in orbit above
+unsuspecting worlds.
+Moonflower
+These enormous plants have thick, knotted trunks festooned with fanged
+blossoms. A gaping mouth sits at the top of the trunk, capable of swallowing most
+creatures smaller than the moonﬂower whole. Moonﬂowers can move slowly on
+their powerful roots or use them to attack, but usually they dig them deeply into
+the surrounding ground and remain stationary to await prey.
+Though moonﬂowers can’t speak in the conventional sense, they communicate
+telepathically with other moonﬂowers. Explorers who encounter a single
+moonﬂower can thus be assured that any other moonﬂowers in the vicinity will
+be prepared for them. Those who manage to intercept a moonﬂower’s telepathic
+communications are assaulted by visions of dreadful, primeval jungles ruled over
+by titanic plant life. Whether this is some vision of the past or a dream
+of the future shared by all moonﬂowers is unknown.
+Moonﬂowers are alien life‑forms from a long-dead planet, but
+their proliferation throughout the galaxy has been ensured through the
+machinations of the Dominion of the Black, a sinister, alien organization from
+the dark places between the stars.
+MOONFLOWER
+CREATURE 8
+UNCOMMON
+N
+HUGE
+PLANT
+Perception +16; darkvision
+Languages telepathy 1 mile (other moonﬂowers only)
+Skills Athletics +19 (can’t Jump or Swim), Stealth +14 (+18 in thick vegetation)
+Str +7, Dex +0, Con +4, Int –2, Wis +4, Cha +3
+AC 24; Fort +18, Ref +10, Will +16
+HP 120, fast healing 10; Immunities electricity; Weaknesses ﬁre 10;
+Resistances physical 10 (except slashing)
+Speed 20 feet
+Melee Ȱɵ bite +20 (reach 15 feet), Damage 2d10+10 piercing plus Grab
+Melee Ȱɵ root +20 (agile, reach 15 feet), Damage 2d8+10 bludgeoning
+Light Pulse ʚʖ (evocation, light, primal, visual) 50 feet. The moonﬂower
+releases a pulse of bright light. Each non-moonﬂower creature in the
+emanation must attempt a DC 23 Fortitude save. The moonﬂower
+can’t use Light Pulse again for 1d4 rounds.
+Success The creature is unaﬀected.
+Failure The creature is dazzled for 1d4 rounds.
+Critical Failure The creature is blinded for 1d4 rounds.
+Pod Prison Ǻȓ Trigger The moonﬂower has swallowed
+a creature; Eﬀect The swallowed creature is
+wrapped in a tight cocoon and extruded from
+the moonﬂower’s body into an adjacent square.
+The creature continues to be Swallowed Whole.
+It can’t use Acrobatics to Escape a pod, but other
+creatures can attempt to Rupture the pod. The
+cocooned creature takes half damage from any
+damage dealt to the cocoon. Once the cocoon is
+Ruptured, it deﬂates and decays.
+Pod Spawn Should a Small or larger creature die within a
+pod prison, the pod transforms into an adult moonﬂower
+with full Hit Points after 1d4 hours of growth. The
+newly formed moonﬂower has its own consciousness,
+but some aspect of its trunk or blossoms resembles
+the creature that died within. The dead creature’s
+equipment remains inside the new moonﬂower and can
+be retrieved if the moonﬂower is slain.
+Swallow Whole Ȱɵ (attack) Large, 2d10+10 bludgeoning and 2d6
+acid, Rupture 21
+
+================================================================================
+PAGE 175
+================================================================================
+
+Bestiary 2
+MORLOCK MACHINERY
+Morlocks tend toward brutish actions
+and violent traditions and have little
+interest in bettering their societies
+or creating art. However, they have
+a strange obsession with ancient
+machinery and magical items,
+particularly clockwork constructions.
+Their knack for tinkering helps
+keep ancient guardians and traps
+functional, even if their work
+backﬁres now and then.
+Morlock
+Originating from humans long lost from the world of light, morlocks are brutal
+monsters that dwell in the tangled tunnels of the upper reaches of the Darklands.
+Their wiry frames mask the strength of their limbs and their swift reactions, and
+their arms are long enough that they can drop into an uncanny, four‑limbed shufﬂe
+for speed or stealth. They no longer remember the lives their ancestors led on the
+surface, although many morlocks still dwell in the shattered ruins of their ancient
+homes. Some morlocks worship the statues of humans from these bygone eras as
+gods, but others now worship Lamashtu, Rovagug, or other violent deities.
+Morlock young are insatiable and clamor for even the slightest morsel of food,
+even consuming their siblings if no other meal presents itself. Most morlocks
+encourage the practice to ensure their ancestral group as a whole grows stronger.
+A typical morlock stands just over 5 feet tall and weighs roughly 150 pounds.
+
+================================================================================
+# MORLOCK
+================================================================================
+
+
+Bestiary 2
+MORLOCK MACHINERY
+Morlocks tend toward brutish actions
+and violent traditions and have little
+interest in bettering their societies
+or creating art. However, they have
+a strange obsession with ancient
+machinery and magical items,
+particularly clockwork constructions.
+Their knack for tinkering helps
+keep ancient guardians and traps
+functional, even if their work
+backﬁres now and then.
+Morlock
+Originating from humans long lost from the world of light, morlocks are brutal
+monsters that dwell in the tangled tunnels of the upper reaches of the Darklands.
+Their wiry frames mask the strength of their limbs and their swift reactions, and
+their arms are long enough that they can drop into an uncanny, four‑limbed shufﬂe
+for speed or stealth. They no longer remember the lives their ancestors led on the
+surface, although many morlocks still dwell in the shattered ruins of their ancient
+homes. Some morlocks worship the statues of humans from these bygone eras as
+gods, but others now worship Lamashtu, Rovagug, or other violent deities.
+Morlock young are insatiable and clamor for even the slightest morsel of food,
+even consuming their siblings if no other meal presents itself. Most morlocks
+encourage the practice to ensure their ancestral group as a whole grows stronger.
+A typical morlock stands just over 5 feet tall and weighs roughly 150 pounds.
+MORLOCK
+CREATURE 2
+CE
+MEDIUM
+HUMANOID
+Perception +7; darkvision
+Languages Undercommon
+Skills Acrobatics +7, Athletics +8 (+11 Climbing), Crafting
++8 (Repair only), Stealth +9
+Str +4, Dex +3, Con +1, Int –2, Wis +3, Cha +1
+Items club
+Light Blindness
+AC 17; Fort +7, Ref +11, Will +9; +2 status to all saves vs.
+disease and poison
+HP 38
+Speed 30 feet, climb 20 feet
+Melee Ȱɵ club +9, Damage 1d6+4 bludgeoning
+Melee Ȱɵ jaws +9 (agile), Damage 1d4+4 piercing
+Ranged Ȱɵ club +8 (range increment 10 feet), Damage
+1d6+4 bludgeoning
+Instinctual Tinker ʚʖ The morlock tinkers with an adjacent
+construct or mechanical hazard. They attempt a
+Crafting check against the construct’s or
+hazard’s Fortitude DC. The morlock can’t
+succeed if the target’s level is more than
+double the morlock’s.
+Critical Success The target gains 4d6 HP and a
++1 circumstance bonus to attack rolls for 1 minute.
+Success The target gains 2d6 HP.
+Critical Failure The morlock injures
+itself, taking 2d6 damage (typically
+bludgeoning, piercing, or slashing, but
+potentially a diﬀerent type at the GM’s
+discretion).
+Leap Attack ʚʖ The morlock Strides up to twice its
+Speed, during which it attempts a High Jump or
+a Long Jump. At any point during its movement,
+the morlock can make a melee Strike against
+an enemy in its reach. The morlock then can’t
+use Leap Attack for 1 round.
+Sneak Attack A morlock’s Strikes deal an extra 1d6
+precision damage to ﬂat-footed creatures.
+Swarming Stance A morlock can share the same space as
+another morlock, but no more than two morlocks can
+occupy the same space. When morlocks share the same space,
+they gain a +1 circumstance bonus to attack rolls.
+
+================================================================================
+PAGE 176
+================================================================================
+
+MALARIA STRAINS
+This pernicious disease is often
+associated with mosquitoes. The
+most common version of malaria
+is presented on page 118 of the
+Pathﬁnder Gamemastery Guide,
+and while the variants inﬂicted
+by mosquito swarms and giant
+mosquitoes are deadlier, they don’t
+have the chance to recur after
+1d4 months. Pyrexic malaria also
+causes weakness and fevers, while
+septic malaria causes painful and
+infected lesions to form on the
+body. Regardless of the strain you
+contract, you can’t reduce your
+sickened condition while you are
+aﬀected with malaria.
+Mosquito
+While the common mosquito is a pest capable of spreading deadly diseases, their
+giant kin and the ravenous clouds of mosquito swarms are even more dangerous.
+FEN MOSQUITO SWARM
+When deadly fen mosquitoes gather in large numbers, they form into lethal
+swarms capable of draining blood at a truly alarming rate. Fen mosquito swarms
+are typically encountered only in tropical swamps or bogs, but during humid
+months in spring or summer they can drift into riverine areas or even through the
+waterfront reaches of settlements.
+
+================================================================================
+# MUDWRETCH
+================================================================================
+
+
+Bestiary 2
+MUDWRETCH LIFESTYLES
+Mudwretches are rarely encountered
+alone. They inhabit swampy patches
+in small groups, often gathering
+near the ruins of sites that once held
+great signiﬁcance. Mudwretches can
+remain dormant for centuries, always
+eager to lurch up to attack passersby.
+They’re usually more interested
+in defending territory than killing
+intruders, and they won’t pursue
+victims for long if they ﬂee.
+Mudwretch
+In its resting form, a mudwretch looks like a large puddle of thick, dark mud, heaped
+at the center in a slightly drier patch of loam. When a living creature approaches,
+though, the mudwretch lurches upward, piling its muddy ﬂesh upon itself to form
+a roughly humanoid shape, often in vague mockery of the approaching creature’s
+general form in cases where the creature is a humanoid itself.
+Mudwretches possess a low level of intellect, and while they do not form societies
+or cultures of their own, they are attracted to ruins or abandoned settlements. They
+have little need to eat, but without a constant source of moisture, a mudwretch dries
+out, suffering from low throbbing aches until it can resaturate. Often, blood from
+living creatures has to do—a dried mudwretch is more dangerous to intruders than
+one that’s comfortably wallowing on a river bank.
+MUDWRETCH
+CREATURE 2
+N
+MEDIUM
+EARTH
+ELEMENTAL
+WATER
+Perception +9; darkvision
+Languages Terran
+Skills Athletics +8, Stealth +6
+Str +4, Dex +0 Con +3, Int –2, Wis +3, Cha +0
+Muddy Field (aura) 10 feet. The ground in the area
+is diﬃcult terrain for all non-mudwretch creatures.
+AC 16; Fort +11, Ref +4, Will +9
+HP 40; Immunities bleed, critical hits, paralyzed, poison,
+sleep; Weaknesses ﬁre 5; Resistances acid 3, physical
+3 (except bludgeoning)
+Susceptible to Desiccation If a mudwretch takes any
+damage from horrid wilting or a similar eﬀect,
+takes 10 or more ﬁre damage from a single
+eﬀect, or spends more than 24 hours outside
+of a source of suﬃcient hydration (such as
+a swamp, river, well, or recent rainfall), it
+becomes dehydrated. While dehydrated, the
+mudwretch can’t Spew Mud, is sickened 2,
+and is slowed 1 until it either fully immerses
+in water, spends 1 minute in the rain, or
+rehydrates in another way (such as via Gory Hydration).
+Speed 20 feet, swim 20 feet
+Melee Ȱɵ ﬁst +10 (agile), Damage 1d8+4 bludgeoning plus Grab
+Constrict Ȱɵ 1d8+2 bludgeoning, DC 18
+Gory Hydration Ǻȓ Requirements The mudwretch is dehydrated;
+Trigger The mudwretch deals Constrict damage to a living
+creature that has blood; Eﬀect The mudwretch squeezes
+harder, dealing 1d6 persistent bleed damage to the
+target. The mudwretch absorbs this blood, removing
+any penalties it had as a result of being dehydrated.
+Mud Puddle Ȱɵ (concentrate) Until it next acts, the
+mudwretch appears to be an ordinary puddle of mud.
+It has an automatic result of 20 on Deception checks
+to pass as a mud puddle and can make a ﬁst Strike
+against a creature that walks onto the mud puddle
+as a reaction.
+Spew Mud ʚʖ (conjuration, primal) The mudwretch
+spews a 20-foot line of pressurized mud that
+deals 2d10 bludgeoning damage (DC 18 basic
+Reﬂex save). On a critical failure, a creature also
+takes a –10-foot status penalty to its Speeds for 1
+round. The mudwretch can’t Spew Mud again for 1d4 rounds.
+
+================================================================================
+PAGE 178
+================================================================================
+
+NATURAL WARNINGS
+Regions haunted by bog mummies
+lack small animals, insects, and
+other wildlife. A character who is
+Investigating, Searching, or Scouting
+during exploration mode can attempt
+a secret Nature check against the
+bog mummy’s Stealth DC to notice
+something sinister. A critical success
+is enough to speciﬁcally suggest the
+presence of undead in the area.
+Mummy, Bog
+The cultural practice of mummifying the dead is not the only way a body can
+become preserved, nor is it the only route that gives rise to these disease-spreading
+undead monstrosities.
+Bog mummies (also called peat mummies or mire mummies) rarely, if ever,
+leave their marshy realms. Less powerful than their more notorious artiﬁcially
+preserved kin, bog mummies are preserved not by agents introduced during rituals
+but by the natural elements present in the airless, acidic morass of a peat bog or
+muddy swamp. While corpses preserved in this manner can certainly rise from
+the mire as bog mummies as the result of a curse by fell powers or the directed
+inﬂuence of a necromancer, the vast majority of them animate from a seething
+need for vengeance or to pursue some dire agenda left unﬁnished at the time of
+death—often because the creature was slain or otherwise betrayed. The nature of
+this emotional tie to life and the emotional power of the deceased compel unlife
+beyond death, while the preservative qualities of the bog within which the body
+was disposed of does the rest.
+Although most bog mummies are motivated by vengeance, many fulﬁll their
+dark yearnings with general violence. Filled with wrath and hatred for the
+living, they mercilessly attack any living creatures that dare to venture into
+their dismal domains. Their agonized moans echo over their putrid homes,
+driving away most natural life dwelling therein and often alerting travelers to
+the potential danger that lies beneath the surface.
+
+================================================================================
+# MANTA RAY
+================================================================================
+
+Stingray Venom (poison) Saving Throw DC 16 Fortitude; Maximum Duration 4 rounds;
+Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and clumsy 1 (1 round)
+MANTA RAY
+While manta rays might
+appear daunting, they are
+generally docile. Manta rays are
+found in temperate or tropical oceans,
+and they generally stay in the upper reaches
+or at the surface of deeper waters. These rays are
+ﬁlter feeders that subsist on plankton. They can also
+eat larger ﬁsh or aquatic creatures as the need arises, but
+rarely attack anything Small or larger. Many underwater
+cultures, particularly aquatic elves, raise and farm manta
+rays to serve as messengers, beasts of burden, or even pets.
+Manta rays don’t make particularly good mounts, but some
+aquatic civilizations use them to draw underwater carriages.
+MANTA RAY
+CREATURE 1
+N
+LARGE
+ANIMAL
+AQUATIC
+Perception +6; electrolocation (imprecise) 30 feet, low-light vision
+Skills Athletics +8
+Str +3, Dex +3, Con +4, Int –4, Wis +1, Cha –1
+Electrolocation As stingray.
+AC 16; Fort +6, Ref +9, Will +6
+HP 24
+Speed swim 40 feet
+Melee Ȱɵ tail +8 (agile), Damage 1d8+3 bludgeoning
+Straﬁng Rush Ȱɵ The manta ray Swims, making one tail Strike at any point along the
+way. The Strike deals half damage.
+Swift Swimmer ʚʖ The manta ray Swims twice. It has a +10-foot circumstance bonus to
+its Speed during these actions.
+
+================================================================================
+PAGE 228
+================================================================================
+
+EXCEPTIONS TO EVIL
+While most undead are evil, revenants
+are not—these unusual stalkers rise
+not out of a sense of cruelty or hatred
+of the living, but spontaneously from
+the need for vengeance following
+a deep betrayal. One can avoid a
+revenant’s wrath by simply getting
+out of its way—unless you happen to
+be its reason for unlife!
+Revenant
+Revenants are obsessed, undead stalkers who arise from their own murders and
+are driven by only one thing: revenge against their killers. The common wisdom
+is that revenants arise only from individuals who have been utterly betrayed or
+abandoned to die a grueling death, but even then such victims might not rise
+from their graves. In other cases, revenants might even rise from what might
+legitimately be considered an accident if the revenant doesn’t understand the full
+circumstances of their demise. In such cases, it doesn’t matter that the “murderer”
+may not have intended to kill, for revenants understands no pity and can never
+forgive. Revenants have little memory of their lives other than anything they
+might need to recall in order to achieve their goal of vengeance.

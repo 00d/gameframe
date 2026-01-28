@@ -1,0 +1,910 @@
+# Bestiary - Creatures: P
+# Count: 8 creatures
+
+
+================================================================================
+# PLANETAR
+================================================================================
+
+
+Bestiary 2
+PLANETAR JUSTICE
+Planetars know pathways to travel
+between many planes of existence,
+and they use these frequently to
+deliver messages, warnings, and
+ultimatums to those whose actions
+have attracted angelic concern. If a
+situation can be resolved with swift
+on-the-spot justice, a planetar takes
+that route in hopes of staving oﬀ an
+escalation of violence.
+PLANETAR
+CREATURE 16
+UNCOMMON
+NG
+LARGE
+ANGEL
+CELESTIAL
+Perception +28 (+32 to detect illusions); darkvision, true seeing
+Skills Athletics +32, Intimidation +32, Religion +32
+Languages Celestial, Draconic, Infernal; tongues
+Str +8, Dex +3, Con +6, Int +5, Wis +6, Cha +6
+Items +2 greater striking greatsword
+AC 39; Fort +28, Ref +25, Will +28; +1 status to all saves vs. magic
+HP 300, regeneration 15 (deactivated by evil); Weaknesses evil 15
+Aura of Righteousness (aura, divine, evocation) 20 feet. Allies in the planetar’s aura gain
+a +2 status bonus to AC against evil creatures and a +2 status bonus to damage rolls
+against evil creatures. The area in the aura is diﬃcult terrain for
+evil creatures.
+Speed 25 feet, ﬂy 60 feet
+Melee Ȱɵ holy greatsword +32 (good, magical, versatile P), Damage
+3d12+16 slashing plus 1d6 good
+Divine Innate Spells DC 37, attack +29; 8th dispel magic, divine
+wrath, earthquake, heal, power word stun, sunburst; 7th
+charm, plane shift, power word blind, remove fear (at will);
+6th blade barrier, dispel magic (at will); 5th breath of life,
+death ward, freedom of movement, restoration (×3);
+2nd invisibility (at will, self only), remove paralysis;
+Constant (5th) detect alignment (evil only), tongues,
+true seeing
+Rituals DC 37; angelic messenger, call spirit, resurrect
+Blade of Justice ʚʖ The planetar makes a greatsword
+Strike against a target it detects as evil. If the target is
+evil, the Strike deals three extra weapon damage dice
+and deals 1d6 persistent good damage to the target.
+The planetar can convert all the physical damage from
+the attack into good damage.
+Change Shape Ȱɵ (concentrate, divine, polymorph,
+transmutation) The planetar can take on the
+appearance of any Small or Medium humanoid. This
+doesn’t change their Speed or Strikes.
+Holy Armaments (divine, evocation) Any weapon gains
+the eﬀect of a holy property rune while a planetar
+wields it.
+SOLAR (ARCHANGEL)
+Solars are among the greatest of all angels, ranking just
+below empyreal lords. Many solars serve at the right
+hand of a deity or champion a cause that beneﬁts an
+entire world. Most archangels resemble humanoids, but
+not all—they can adopt more unusual forms as needed.
+A typical solar is about 9 feet tall and weighs about 500
+pounds, with a commanding voice that is impossible to
+ignore. Most have silvery or golden skin.
+Solars are legendary trackers; the most masterful of them
+are said to be able to follow the centuries-old passage of a pit
+ﬁend ﬂying through the Astral Plane.
+
+================================================================================
+# POLAR BEAR
+================================================================================
+
+Mauler The black bear gains +1 circumstance bonus to damage rolls against creatures it
+has grabbed.
+POLAR BEAR
+Polar bears are known for their pale fur, with black eyes, lips,
+and toe pads. They are aggressively predatory creatures,
+stalking prey for miles on land or across the icy
+waters of frozen oceans. They are also amazing
+ambush predators, leaping from the water to
+ambush seals resting on ice ﬂoes. If they are
+desperate, polar bears hunt not only other
+animals but also humanoids.
+POLAR BEAR
+CREATURE 5
+N
+LARGE
+ANIMAL
+Perception +12; low-light vision,
+scent (imprecise) 60 feet
+Skills Athletics +14, Stealth +10 (+14 in
+icy or snowy areas), Survival +10
+Str +5, Dex +1, Con +5, Int –4, Wis +1, Cha –1
+AC 22; Fort +14, Ref +10, Will +10
+HP 73
+Speed 35 feet, swim 15 feet
+Melee Ȱɵ jaws +15, Damage 2d8+7
+piercing
+Melee Ȱɵ claw +15 (agile), Damage
+2d6+7 slashing plus Grab
+Sneak Attack The polar bear’s Strikes
+deal an additional 1d6 precision
+damage to ﬂat-footed creatures.
+Mauler The polar bear gains a +3
+circumstance bonus to damage rolls
+against creatures it has grabbed.
+
+================================================================================
+PAGE 38
+================================================================================
+
+ADAPTIVE HUNTERS
+Though it doesn’t happen often due
+to their ability to shift planes, some
+bebiliths ﬁnd themselves trapped on
+other planes either through magical
+binding or subjugation to beings of
+great power. While trapped away
+from their favored prey, a bebilith’s
+hungers can shift. In such cases, the
+creature’s penetrating strikes can
+adapt—a bebilith trapped in Elysium,
+for example, might become a hunter
+of azatas, and its Penetrating Strike
+would count as cold iron and evil
+instead so that it could target
+traditional azata weaknesses.
+Bebilith
+While demons control much of the Abyss, even they are hunted in the wilder
+regions of this horriﬁc plane. The most notorious of these predators—though not
+the deadliest—is the bebilith. These ﬁends resemble elephant-sized spiders with
+glowing eyes, barbed chitin, and a fanged maw dripping caustic ﬂuid.
+Many demons and planar travelers have underestimated bebiliths’ devious
+intellects, believing them to be little more than oversized vermin. Bebiliths take
+advantage of this, ambushing foes with unexpected tactics. While they lash out
+at any creatures they encounter, they take great pleasure in chewing on demonic
+ﬂesh. Qlippoth are the only creatures bebiliths never consume.
+
+================================================================================
+# PISCODAEMON
+================================================================================
+
+
+Bestiary 2
+ABADDON
+Daemons hail from Abaddon, a plane
+of pure evil for only the most corrupt
+souls. If Hell is a realm of torture
+and systematic depravity, Abaddon
+is its twisted cousin—a place where
+one can ﬁnd only misery and
+despair in ample quantities, with
+neither the strictures of Hell nor
+the chaotic freedom of the Abyss.
+For evildoers who seek simply to
+inﬂict their wickedness on others,
+Abaddon is a rich hunting ground
+where one can revel in turpitude,
+though visitors be forewarned: the
+competition is ﬁerce.
+Daemon
+Daemons form from the most despicable souls and personify forms of death.
+PISCODAEMON (VENOM DAEMON)
+Scions of death by poisoning, piscodaemons are cruel even by daemonic standards,
+delighting in slow and painful suffering. To a piscodaemon, death is but the icing on
+a putrescent cake—its true pleasure comes from watching, hearing, smelling, and
+even tasting raw anguish. While poisons and venoms are piscodaemons’ preferred
+tools, their cruel claws are more than capable of tearing enemies asunder if necessary.
+Piscodaemons dwell in fetid swamps and noxious waterways, including the River
+Styx, the Bile Sluice, and the Drowning Court of Charon, Horseman of Death. They
+are often accompanied by cadres of hydrodaemons—representations of death by
+drowning. While they are cunning commanders, piscodaemons are apt to forget
+their station in the heat of battle and slice their way to the center of the fray.
+PISCODAEMON
+CREATURE 10
+NE
+MEDIUM
+AMPHIBIOUS
+DAEMON
+FIEND
+Perception +19; darkvision, see invisibility
+Languages Common, Daemonic; telepathy 100 feet
+Skills Athletics +22, Intimidation +19, Medicine +17, Stealth +22, Survival +19
+Str +6, Dex +4, Con +6, Int +2, Wis +3, Cha +3
+AC 28; Fort +22, Ref +16, Will +19; +1 status to all saves vs. magic
+HP 200; Immunities death eﬀects, poison; Weaknesses good 10
+Attack of Opportunity Ǻȓ
+Enhance Venom Ǻȓ (divine, misfortune, necromancy, poison)
+Trigger A creature within 30 feet attempts a saving
+throw against piscovenom; Eﬀect The creature takes
+an additional 2d8 poison damage even if it succeeds
+at its save.
+Speed 25 feet, swim 40 feet
+Melee Ȱɵ claw +23 (evil, magical), Damage 2d10+12
+slashing plus 1d6 evil and Grab
+Melee Ȱɵ tentacle +23 (agile, evil, magical), Damage
+2d6+12 bludgeoning plus 1d6 evil and piscovenom
+Divine Innate Spells DC 29; 5th dimension door; 4th
+dimension door (at will), stinking cloud (×3); 1st detect
+alignment (at will; good only), detect poison (at will);
+Constant (2nd) see invisibility
+Constrict Ȱɵ 2d10+6 bludgeoning, DC 30
+Gory Rend ʚʖ The piscodaemon makes two claw Strikes
+against the same creature. If both hit, the creature takes
+2d10 persistent bleed damage and is exposed to piscovenom.
+Piscovenom (poison) Saving Throw DC 30 Fortitude; Maximum
+Duration 6 rounds; Stage 1 1d8 poison and enfeebled 1
+(1 round); Stage 2 2d8 poison and enfeebled 1 (1 round);
+Stage 3 4d8 poison and enfeebled 2 (1 round)
+MELADAEMON (FAMINE DAEMON)
+Meladaemons personify death by starvation and thirst,
+and revel in spreading the same despair that brought
+about their mortal demise. When they aren’t blighting
+ﬁelds, massacring livestock, or tainting water supplies,
+they experiment on prisoners to study how long creatures
+can go without sustenance and the deleterious effects that
+result from such deprivation. Fiercely loyal to Trelmarixian,
+Horseman of Famine, they serve no other beings. They work alongside other
+daemons if Trelmarixian wills it, but are notoriously traitorous.
+
+================================================================================
+PAGE 60
+================================================================================
+
+FORMED IN HIS IMAGE
+Meladaemons have always been
+gaunt and bestial, but they didn’t
+always resemble jackals. When
+Trelmarixian overthrew the previous
+Horseman of Famine, one of his
+ﬁrst acts as a ruler of Abaddon was
+to forcibly twist the appearance of
+his deacon caste to resemble his
+own wicked form. He went on to
+imbue meladaemons with other
+jackal-like aspects as it suited him,
+further warping them and cementing
+their fealty.
+
+================================================================================
+# PURRODAEMON
+================================================================================
+
+
+Bestiary 2
+DAEMONIC DEACONS
+Each of the four Horsemen is
+served by a speciﬁc category
+of servitor daemons known as
+deacons. Leukodaemons serve
+as deacons to the Horseman of
+Pestilence. Meladaemons serve as
+deacons to the Horseman of Famine,
+while thanadaemons serve as
+deacons to the Horseman of Death.
+Purrodaemons are currently the most
+powerful of the deacons, and serve
+the Horseman of War—yet over time,
+which category of deacon is the most
+powerful can wax and wane.
+PURRODAEMON
+CREATURE 18
+NE
+LARGE
+DAEMON
+FIEND
+Perception +33; darkvision, true seeing
+Languages Common, Daemonic; telepathy 100 feet
+Skills Athletics +37, Intimidation +35, Religion +30, Stealth +34, Survival +33, Warfare Lore +32
+Str +9, Dex +6, Con +7, Int +4, Wis +7, Cha +7
+Items +2 greater striking glaive, soul gem (2), steeped weapon (7–10)
+AC 43; Fort +33, Ref +30, Will +29; +1 status to all saves vs. magic
+HP 335; Immunities bleed, death eﬀects; Weaknesses good 15; Resistances piercing 15
+Speed 25 feet, ﬂy 50 feet
+Melee Ȱɵ glaive +37 (deadly d8, evil, forceful, magical, reach 15 feet), Damage 3d8+17
+slashing plus 2d6 evil and 4d6 persistent bleed
+Ranged Ȱɵ hurled weapon +35 (deadly 1d10, evil, magical, propulsive, range 120 feet),
+Damage 2d10+12 piercing plus 1d6 evil and 4d6 persistent bleed
+Divine Innate Spells DC 37; 9th bind soul, blade barrier, chain lightning; 7th ﬂame strike,
+teleport; 5th dimension door; 4th dimension door (at will); 1st detect alignment (good
+only; at will); Constant (6th) true seeing
+Hurl Weapon Ȱɵ (divine, evocation) The purrodaemon causes a weapon that has steeped
+in their ﬂesh (see Steep Weapon) to telekinetically launch from their ﬂesh. The
+purrodaemon makes a hurled weapon Strike without using their hands.
+Recall Weapon Ȱɵ (evocation) Requirements A steeped
+weapon that’s no longer sheathed in the
+purrodaemon’s body is within 120 feet of the
+daemon; Eﬀect The steeped weapon swiftly
+ﬂies through the air to resheath itself in the
+purrodaemon’s body. If a creature is along
+this ﬂight path, the purrodaemon can make a
+hurled weapon Strike against the target; if it
+hits, the weapon drops to the ground in a square
+adjacent to the creature.
+Steep Weapon Ȱɵ (manipulate) The
+purrodaemon sheathes a weapon in
+their own ﬂesh. This deals no damage
+to the purrodaemon, which can have up to 10
+weapons sheathed in their body at a time. A steeped
+weapon must be one that deals piercing or slashing
+damage.
+If a purrodaemon Interacts to crush a soul
+gem, one weapon of their choice sheathed in
+their ﬂesh becomes enchanted with the daemon’s
+ﬁendish power and becomes a +2 greater
+striking weapon that can be used in place
+of their glaive or hurled at targets
+(with a +2 item bonus to the hurled
+weapon’s attack modiﬁer and an extra
+d10 of damage). This magical quality fades 24 hours after
+it ceases being sheathed in the daemon’s living body. A
+steeped weapon can be Disarmed.
+Twist the Blade Ǻȓ Requirements The purrodaemon
+has fewer than 10 weapons sheathed in their body;
+Trigger The purrodaemon is hit with a weapon that
+deals piercing damage; Eﬀect The purrodaemon
+seizes the triggering weapon. The weapon’s
+wielder must attempt a DC 40 Reﬂex save. On
+a failure, the weapon is disarmed and falls to an
+adjacent square. On a critical failure, the weapon
+is sheathed in the purrodaemon’s body as though the daemon had used Steep Weapon.
+
+================================================================================
+PAGE 64
+================================================================================
+
+SOUL GEMS AS GEAR
+Daemons often carry soul gems
+either as trophies or for powering
+an ability. Cacodaemons (Pathﬁnder
+Bestiary 70) are the most common
+source for soul gems, but they can
+also be created by spells like bind
+soul. If a daemon crushes a soul gem
+to power an ability, the trapped soul
+is released into the afterlife and can
+be resurrected normally.
+OLETHRODAEMON (APOCALYPSE DAEMON)
+Even daemons fear the most massive and terrifying of their kind, olethrodaemons.
+No single entity could embody the level of evil necessary to manifest one; instead,
+these living war machines are made from the souls of many—or so the story goes.
+Other theories suggest that the four Horsemen of the Apocalypse are responsible for
+creating the olethrodaemons, or that olethrodaemons are merely the seeping run-off
+of an even greater being: a mysterious ﬁfth Horseman.
+Whatever the truth, olethrodaemons are real, and their existence is terrifying
+enough to instill paralyzing existential dread. With dozens of unblinking glowing
+eyes above a drooling maw, two sets of four muscled limbs, and countless horns,
+olethrodaemons resemble no other creature known to mortalkind.
+
+================================================================================
+# PACHYCEPHALOSAURUS
+================================================================================
+
+
+DINOSAUR ABILITIES
+While the real world fossil records
+hold a wealth of inspiration for
+the reconstruction of dinosaurs
+in an RPG, you can also look to
+living creatures for ideas. Giving
+a dinosaur a poisonous bite or
+an unusual attack routine like
+Clobbering Charge ensures that
+dinosaurs are as interesting in
+combat as they are in appearance.
+PACHYCEPHALOSAURUS
+CREATURE 3
+N
+LARGE
+ANIMAL
+DINOSAUR
+Perception +10; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +11, Intimidation +7
+Str +4, Dex +3, Con +4, Int –4, Wis +3, Cha +0
+AC 19; Fort +12, Ref +11, Will +7
+HP 65
+Speed 35 feet
+Melee Ȱɵ skull +11 (forceful, reach 10 feet), Damage 1d10+6 bludgeoning
+Clobbering Charge ʚʖ The pachycephalosaurus Strides up to its Speed. If it ends its
+movement within melee reach of a target, it can make a skull Strike against that
+target. If the pachycephalosaurus critically hits with this Strike, the creature hit is
+stunned 1.
+Sudden Shove Ǻȓ (attack) Trigger The pachycephalosaurus damages a Medium or
+smaller foe with its skull Strike; Eﬀect The pachycephalosaurus digs in and ﬂings
+its head up, shoving its foe away. It attempts an Athletics check against the target’s
+Fortitude DC.
+Critical Success The pachycephalosaurus pushes the opponent up to 10 feet away
+from itself and knocks the target prone.
+Success The pachycephalosaurus pushes the opponent back 5 feet.
+Failure The pachycephalosaurus fails to push the opponent.
+Critical Failure As failure, but the failed attempt leaves the pachycephalosaurus
+ﬂat‑footed for 1 round.
+HADROSAURID
+Hadrosaurids are a broad grouping
+of herbivorous dinosaurs that
+share
+characteristic
+ﬂat
+snouts ﬁlled with rows
+of grinding teeth well
+suited
+for
+feeding
+on vegetation. Also
+known as “duck-billed
+dinosaurs” due to the
+unusual shape of their jaws,
+hadrosaurids
+are
+lumbering
+creatures that can rival an
+elephant for size, although they
+tend to be much less aggressive and
+are prone to ﬂight when confronted
+with danger rather than stubbornly standing
+their ground. Many species of hadrosaurids have
+uniquely shaped crests on their heads that give each
+species its own unusual proﬁle, making them easily
+recognizable even to an amateur dinosaur watcher.
+Giants and other oversized creatures have been known
+to domesticate hadrosaurids to serve as livestock. Despite
+their ability to sprint quickly, they don’t make particularly
+viable mounts due to their timid natures, but in a large group,
+a panicked gathering of hadrosaurids can wreak
+great damage with their trampling.
+A hadrosaurid can walk for short
+distances on its hind legs but prefers
+to graze and travel on all fours. The
+typical hadrosaurid is 20 to 30
+feet long and can weigh up to
+10,000 pounds.
+
+================================================================================
+PAGE 83
+================================================================================
+
+Bestiary 2
+HADROSAURID CRESTS
+The diﬀerent species of hadrosaurids
+all use the same statistics. While
+some species have no cranial crest
+at all, those who do, such as the
+distinctive backward-curling crest
+of the parasaurolophus, are capable
+of vocalizing sonorous and haunting
+calls when they seek the attention
+of a mate or warning their herd of a
+predator’s approach.
+
+================================================================================
+# PELUDA
+================================================================================
+
+
+Bestiary 2
+PELUDA PATRONS
+Occasionally a particularly cunning
+band of humanoids—typically
+lizardfolk or orcs—ﬁnds a way to
+assuage a local peluda’s temper
+and then elevate the dragon to the
+status of a local liege, patron, or even
+object of worship. Although peludas
+rarely have any actual aﬀection
+for such servants, they revel in
+the submission of these weaker
+creatures and the gifts of gold and
+food they bring.
+Peluda
+Peludas are wild and savage dragons that favor reedy marshlands, sparsely
+forested bogs, and river valleys for lairs. A single peluda typically claims a stretch
+of waterways a few miles in length, then systematically drives off any potential
+rivals so that the peluda can despoil the land as they please, leaving clawed
+footprints on muddy riverbanks, toppling trees, and impaling half-eaten corpses
+on their quills as trophies left to rot. They venture beyond their domains to hunt,
+roasting prey with their breath or pulverizing them with their tails, burning and
+killing for cruel sport before slithering, sated, back to their mucky lairs.
+Peludas despise weakness and loathe creatures smaller than themselves,
+especially humanoids, whom they see as fragile and soft, good only for eating or
+breaking. In contrast, peludas have a massive inferiority complex regarding more
+impressive creatures—especially larger and stronger dragons. Peludas will try
+anything to become stronger, including ingesting shiny coins, gems, and jewelry,
+which old folk tales claim will strengthen their quills and ﬁre breath.
+PELUDA
+CREATURE 10
+LE
+LARGE
+DRAGON
+FIRE
+Perception +21; darkvision
+Languages Draconic
+Skills Athletics +23, Intimidation +19
+Str +7, Dex +3, Con +5, Int –2, Wis +5, Cha +3
+AC 30; Fort +21, Ref +17, Will +19; +1 status to all saves vs. magic
+HP 170; Immunities ﬁre, paralyzed, sleep
+Vulnerable Tail If the peluda takes 30 or more slashing damage from a critical
+hit, the attacker severs the peluda’s tail. The peluda takes 2d6 persistent bleed
+damage and can’t make tail attacks until their tail grows back (in about 1 week).
+Quill Thrust Ǻȓ Trigger A creature within 10 feet attempts a melee Strike
+against the peluda; Eﬀect The peluda shifts their position and
+makes a quill Strike against the attacking creature. This Strike
+doesn’t count toward the peluda’s multiple attack penalty, and
+the peluda’s multiple attack penalty doesn’t apply to this Strike.
+Speed 30 feet, swim 30 feet
+Melee Ȱɵ jaws +23 (reach 10 feet), Damage 2d12+13 piercing
+Melee Ȱɵ quill +23 (agile, reach 10 feet), Damage 2d6 piercing plus
+peluda venom
+Melee Ȱɵ tail +23 (reach 15 feet, versatile piercing), Damage
+2d6+13 bludgeoning plus Improved Knockdown
+Breath Weapon ʚʖ (evocation, ﬁre, primal) The peluda breathes a torrent of
+ﬂames that deals 7d10 ﬁre damage in a 60-foot line (DC 29 basic Reﬂex
+save). They can’t use their Breath Weapon again for 1d4 rounds.
+Peluda Venom (poison) Saving Throw DC 29 Fortitude; Maximum
+Duration 6 rounds; Stage 1 2d6 poison and ﬂat-footed (1 round);
+Stage 2 2d6 poison, enfeebled 1, and ﬂat-footed (1 round); Stage
+3 2d6 poison, enfeebled 2, and ﬂat-footed (1 round)
+Quill Barrage ʚʖ The peluda bristles their quills and shakes,
+sending dozens of spear-like barbs in every direction. All
+creatures within 30 feet
+take 11d6 piercing damage
+(DC 29 basic Reﬂex save) and
+are exposed to
+peluda venom
+if
+they
+take
+any damage. The
+peluda can’t use
+Quill Barrage again
+for 1 minute.
+
+================================================================================
+PAGE 198
+================================================================================
+
+PERYTON FLOCKS
+On rare occasions, a peryton ﬂock
+forms at the lead of an alpha female. It
+lasts until the alpha makes a mistake
+that erodes her perceived power. Then
+the rest of the ﬂock tears her apart.
+Peryton
+The peryton is an amalgam of horror, merging the features of a stag, wolf, and
+hawk. They love using shadows to stalk their victims before ripping out their stillbeating hearts and relishing the dying pulse as they swallow them whole, so the
+doomed victims spends their last moments watching as their ﬂesh is consumed.
+Despite perytons’ animalistic appearance and brutal behavior, they are viciously
+cunning and as intelligent as humans. Their preferred tactic is to ﬁnd a lone
+traveler and stalk it from on high. Most perytons are loners who loathe all other
+creatures. These feelings extend to other perytons as well, and adult
+males attack each other on sight as surely as they attack anything else.
+Once per year, perytons mate. The males offer up hearts they have
+collected from humanoids to attract females. Those that manage to
+secure a mate rarely survive long though, as their mating
+ritual is short and violent. Female perytons generally
+abandon their eggs after laying them, so newly hatched
+perytons must fend for themselves from the moment
+they emerge.
+A lone peryton typically builds a nest in a rocky
+overhang or an exceptionally tall and strong tree
+where they can observe nearby lands. Although they
+aren’t particularly interested in wealth, perytons do
+like to collect small objects from their victims. During
+those times between hunts, they sometimes study these
+trophies in order to relive the memories of victims’ last
+moments and the taste of victims’ hearts.
+
+================================================================================
+# PERYTON
+================================================================================
+
+
+PERYTON FLOCKS
+On rare occasions, a peryton ﬂock
+forms at the lead of an alpha female. It
+lasts until the alpha makes a mistake
+that erodes her perceived power. Then
+the rest of the ﬂock tears her apart.
+Peryton
+The peryton is an amalgam of horror, merging the features of a stag, wolf, and
+hawk. They love using shadows to stalk their victims before ripping out their stillbeating hearts and relishing the dying pulse as they swallow them whole, so the
+doomed victims spends their last moments watching as their ﬂesh is consumed.
+Despite perytons’ animalistic appearance and brutal behavior, they are viciously
+cunning and as intelligent as humans. Their preferred tactic is to ﬁnd a lone
+traveler and stalk it from on high. Most perytons are loners who loathe all other
+creatures. These feelings extend to other perytons as well, and adult
+males attack each other on sight as surely as they attack anything else.
+Once per year, perytons mate. The males offer up hearts they have
+collected from humanoids to attract females. Those that manage to
+secure a mate rarely survive long though, as their mating
+ritual is short and violent. Female perytons generally
+abandon their eggs after laying them, so newly hatched
+perytons must fend for themselves from the moment
+they emerge.
+A lone peryton typically builds a nest in a rocky
+overhang or an exceptionally tall and strong tree
+where they can observe nearby lands. Although they
+aren’t particularly interested in wealth, perytons do
+like to collect small objects from their victims. During
+those times between hunts, they sometimes study these
+trophies in order to relive the memories of victims’ last
+moments and the taste of victims’ hearts.
+PERYTON
+CREATURE 4
+CE
+MEDIUM
+BEAST
+Perception +13; darkvision
+Languages Common
+Skills Acrobatics +11, Intimidation +11, Stealth +11
+Str +4, Dex +3, Con +2, Int +0, Wis +5, Cha +3
+AC 21; Fort +8, Ref +11, Will +13
+HP 60
+Speed 25 feet, ﬂy 50 feet
+Melee Ȱɵ antler +14 (deadly d8), Damage 1d12+7 piercing
+Melee Ȱɵ fangs +14 (agile), Damage 1d8+7 slashing
+Heart Ripper Ȱɵ (attack, emotion, fear, visual) The peryton
+rips out the heart of an adjacent corpse with their jaws.
+The creature must have died in the last minute. As the
+peryton rips the heart free and swallows it whole,
+they regain 2d6 HP, and any non-peryton that
+witnesses this event must succeed at a DC 21 Will
+save or become frightened 1 (or frightened 2 on
+a critical failure).
+Mimic Shadow Ȱɵ (necromancy, occult, shadow)
+Requirements The target must be casting a
+shadow; Eﬀect The peryton Flies, going no
+higher than 20 feet over the target creature. The target creature must succeed
+at a DC 21 Will save or the peryton’s shadow changes to match that cast by the
+target creature. With their shadow so transformed, the peryton gains a +2 status
+bonus to attack and damage rolls against that creature. In addition, each time
+the peryton successfully Strikes that creature, the creature must succeed at a DC
+21 Will save or become frightened 1, or increase its frightened condition by 1 if
+it’s already frightened. This is an emotion and fear eﬀect. The shadow remains
+transformed for 1 hour or until the peryton Mimics a Shadow again, whichever
+comes ﬁrst.
+
+================================================================================
+PAGE 199
+================================================================================
+
+Bestiary 2
+OTHER PETITIONERS
+Each plane (save the Negative
+Energy Plane) has its own category
+of petitioner, but not every plane or
+demiplane present in the Pathﬁnder
+setting is listed here. Certainly,
+planes of your own design aren’t
+represented! You can use the wide
+range of petitioner types and
+descriptions here as templates or
+inspiration for creating new types
+of petitioners: each needs a name,
+appearance, alignment, language,
+additional ability, and attack.
+For instance, Desna maintains a
+demiplane called Cynosure that
+straddles the Material Plane and
+Elysium. Petitioners on Cynosure are
+known as the chosen dreamers, and
+they appear as idealized and softly
+glowing versions of their mortal
+selves; they are chaotic good, speak
+Celestial, are immune to confusion
+and stupeﬁed, and deal bludgeoning
+damage with their ﬁsts.
+Petitioner
+When a mortal dies, their soul travels to the Boneyard in the Outer Planes where
+they are judged by Pharasma, the goddess of the dead. Once they have been judged,
+their soul is sent on to their ﬁnal reward or punishment in the afterlife, and in the
+process is transformed into a creature known as a petitioner. This process grants
+the soul a new body, one whose shape is the result of the prevailing philosophical
+forces of the plane to which it is sent. The petitioner’s memories from their life are
+typically wiped nearly clean, allowing them to retain only a few hazy fragments
+akin to half-remembered dreams. Regardless of the petitioner’s size, power, or
+nature in life, they’re a Medium creature in their afterlife.
+Existence as a petitioner can last for eons, but this state is not necessarily
+eternal. Deities, powerful denizens of the Great Beyond, or even the outer planes
+themselves can further change the petitioner’s nature by transforming them
+into raw quintessence, spiritual essence that is then used to expand a plane’s
+physical manifestation, or by transforming the petitioner into a new form of
+supernatural life such as a celestial, monitor, or ﬁend. Should a petitioner die,
+their body breaks down in a process akin to decay, their nature reverting back
+to the quintessence or elements that make up their plane. This represents the
+true end of a soul’s journey: their associated life essence travels back to the heart
+of the Great Beyond to be recycled into the Positive Energy plane, fueling the
+creation of entirely new souls.
+
+================================================================================
+# PETITIONER
+================================================================================
+
+
+Bestiary 2
+OTHER PETITIONERS
+Each plane (save the Negative
+Energy Plane) has its own category
+of petitioner, but not every plane or
+demiplane present in the Pathﬁnder
+setting is listed here. Certainly,
+planes of your own design aren’t
+represented! You can use the wide
+range of petitioner types and
+descriptions here as templates or
+inspiration for creating new types
+of petitioners: each needs a name,
+appearance, alignment, language,
+additional ability, and attack.
+For instance, Desna maintains a
+demiplane called Cynosure that
+straddles the Material Plane and
+Elysium. Petitioners on Cynosure are
+known as the chosen dreamers, and
+they appear as idealized and softly
+glowing versions of their mortal
+selves; they are chaotic good, speak
+Celestial, are immune to confusion
+and stupeﬁed, and deal bludgeoning
+damage with their ﬁsts.
+Petitioner
+When a mortal dies, their soul travels to the Boneyard in the Outer Planes where
+they are judged by Pharasma, the goddess of the dead. Once they have been judged,
+their soul is sent on to their ﬁnal reward or punishment in the afterlife, and in the
+process is transformed into a creature known as a petitioner. This process grants
+the soul a new body, one whose shape is the result of the prevailing philosophical
+forces of the plane to which it is sent. The petitioner’s memories from their life are
+typically wiped nearly clean, allowing them to retain only a few hazy fragments
+akin to half-remembered dreams. Regardless of the petitioner’s size, power, or
+nature in life, they’re a Medium creature in their afterlife.
+Existence as a petitioner can last for eons, but this state is not necessarily
+eternal. Deities, powerful denizens of the Great Beyond, or even the outer planes
+themselves can further change the petitioner’s nature by transforming them
+into raw quintessence, spiritual essence that is then used to expand a plane’s
+physical manifestation, or by transforming the petitioner into a new form of
+supernatural life such as a celestial, monitor, or ﬁend. Should a petitioner die,
+their body breaks down in a process akin to decay, their nature reverting back
+to the quintessence or elements that make up their plane. This represents the
+true end of a soul’s journey: their associated life essence travels back to the heart
+of the Great Beyond to be recycled into the Positive Energy plane, fueling the
+creation of entirely new souls.
+PETITIONER
+CREATURE 1
+VARIES
+MEDIUM
+PETITIONER
+Perception +7, darkvision
+Languages see Planar Incarnation
+Skills Athletics +7, Planar Lore +7
+Str +2, Dex +2, Con +2, Int +2, Wis +2, Cha +2
+AC 15; Fort +7, Ref +7, Will +7
+HP 22
+Speed 25 feet
+Planar Incarnation All petitioners are formed from and personify the nature of the plane
+on which they manifest, and their statistics are adjusted as summarized below. They
+also gain any trait associated with creatures from their plane.
+Abaddon (the Hunted) The hunted appear as Medium sized versions of themselves
+from their prior lives, and they exist to be pursued and consumed by daemons;
+Alignment NE; Language Daemonic; Additional Ability fast healing 5; Melee ﬁst +7,
+Damage 1d8+2 bludgeoning
+Abyss (the Larvae) The larvae appear as maggot-like grubs with the face the petitioners
+had in life; Alignment CE; Language Abyssal; Additional Ability immune to disease
+and poison; Melee jaws +7, Damage 1d8+2 piercing
+Astral Plane (the Untethered) The untethered appear as astrally projected versions of
+their mortal forms, yet they lack a silver cord; Alignment any; Language any one
+spoken in life (such as Common); Additional Ability ﬂy Speed 20 feet; Melee ﬁst +7,
+Damage 1d8+2 bludgeoning
+Axis (the Unmade) The unmade appear as parchment-skinned humanoids covered
+in lines of close black script; Alignment LN; Language Utopian; Additional Ability
+immune to emotion and fear; Melee ﬁst +7, Damage 1d8+2 bludgeoning
+Boneyard (the Dead) The dead appear as animated skeletons of the type of creature
+they were when they were alive; Alignment N; Language Requian; Additional
+Ability resist piercing and slashing 3; Melee claw +7, Damage 1d8+2 slashing
+Dead Vault (the Caged) The caged are sent to Rovagug’s prison plane, the Dead Vault;
+they appear as chained versions of their mortal bodies, save that their faces are
+hideous insectile visages; Alignment CE; Language Abyssal; Additional Ability
+Rend Ȱɵ bite; Melee bite +7, Damage 1d8+2 piercing
+Dimension of Dreams (the Dreamers) The dreamers appear as their ideal appearance,
+age, and gender from their mortal bodies; Alignment any; Language Aklo;
+
+================================================================================
+PAGE 200
+================================================================================
+
+FIRST WORLD PETITIONERS
+A soul sent to the First World does
+not become a petitioner. Rather, they
+immediately reincarnate into a fey
+creature whose temperament and
+role match their mortal personalities.
+This process tends to leave souls
+who incarnate into the First World
+with slightly more fragments of
+memories than most petitioners, yet
+still not enough that they remember
+who they once were.
+Additional Ability +1 circumstance bonus on all saving throws; Melee ﬁst +7,
+Damage 1d8+2 bludgeoning
+Elysium (the Chosen) The chosen appear as idealized versions of their mortal selves
+with glowing eyes; Alignment CG; Language Celestial; Additional Ability immune
+to blindness and dazzled; Melee ﬁst +7, Damage 1d8+2 bludgeoning
+Ethereal Plane (the Terrorized) The terrorized appear as sickly, haunted-looking
+versions of their mortal selves; Alignment any; Language any one spoken in life
+(such as Common); Additional Ability immune to bleed and death eﬀects; Melee
+ﬁst +7, Damage 1d8+2 bludgeoning
+Heaven (the Elect) The elect have golden halos and ghostly wings, but they otherwise
+appear as their mortal forms; Alignment LG; Language Celestial; Additional Ability
+ﬂy Speed 20 feet; Melee wing +7, Damage 1d8+2 bludgeoning
+Hell (the Damned) The damned look like terribly scarred or mutilated versions of their
+mortal selves; Alignment LE; Language Infernal; Additional Ability immune to ﬁre;
+Melee jaws +7, Damage 1d8+2 piercing
+Maelstrom (the Shapeless) The shapeless appear as half-melted reﬂections of their
+former mortal selves; Alignment CN; Language Protean; Additional Ability immune
+to critical hits and precision; Melee ﬁst +7, Damage 1d8+2 bludgeoning
+Material Plane (the Remnants) The remnants are among the rarest of petitioners; they
+appear as plain, bland versions of the ancestry of their mortal lives; Alignment any;
+Language any one spoken in life (such as Common); Additional Ability ferocity;
+Melee ﬁst +7, Damage 1d8+2 bludgeoning
+Nirvana (the Cleansed) The cleansed take on animal forms that match their
+personalities in life; Alignment NG; Language Celestial; Additional Ability speed 35
+feet; Melee claw +7, Damage 1d8+2 slashing
+ Plane of Air (the Air Pneuma) Air pneuma appear as versions of their mortal selves
+composed of air; Alignment any; Language Auran; Additional Ability ﬂy Speed 20
+feet; Melee gust +7 (air), Damage 1d8+2 bludgeoning
+Plane of Earth (the Earth Pneuma) Earth pneuma appear as versions of their mortal
+selves built of earth or stone; Alignment any; Language Terran; Additional Ability
+burrow Speed 20 feet; Melee ﬁst +7 (earth), Damage 1d8+2 bludgeoning
+Plane of Fire (the Fire Pneuma) Fire pneuma appear as versions of their mortal
+selves shaped from ﬂame; Alignment any; Language Ignan; Additional
+Ability immunity to ﬁre; Melee cinder +7 (ﬁre),
+Damage 1d8+2 ﬁre
+Plane of Water (the Water Pneuma) Water
+pneuma appear as versions of their mortal
+selves formed of ﬂowing water; Alignment
+any; Language Aquan; Additional Ability
+amphibious, swim Speed 20 feet; Melee
+current
++7
+(water),
+Damage
+1d8+2
+bludgeoning
+Positive Energy Plane (the Enlightened) The
+enlightened appear as diaphanous, radiant
+versions of their mortal selves; Alignment
+any good; Language Jyoti; Additional
+Ability fast healing 5; Melee glowing
+touch +7, Damage 1d8+2 positive
+Shadow Plane (the Mutilated)
+The
+mutilated appear as they did in
+their mortal lives, yet are covered
+in wounds or partially adorned or
+wrapped in chains; Alignment any
+evil;
+Language
+Shadowtongue;
+Additional Ability immune to bleed
+and fear; Melee chain +7, Damage
+1d8+2 bludgeoning
+
+================================================================================
+PAGE 201
+================================================================================
+
+Bestiary 2
+GENIEKIN PARENTAGE
+Planar scions from the elemental
+planes are known as geniekin because
+they are overwhelmingly born from
+couplings between mortals and
+genies: ifrits are born of efreet, oreads
+of shaitans, sulis of jann, sylphs of
+djinn, and undines of marids. Despite
+this distinguished ancestry, geniekin
+do not display most of their parents’
+exceptional talents, such as their
+ability to grant wishes.
+Planar Scion, Geniekin
+Geniekin are mortals whose ancestry has become entangled with that of genies,
+causing them to exhibit elemental powers drawn from the Elemental Planes. Though
+the geniekin found here are all of human descent and have example alignments,
+geniekin and other planar scions can descend from other ancestries and have any
+alignment. More information on genies can be found on page 162 of the Bestiary.
+IFRIT
+Ifrits’ blood blazes with elemental ﬁre. Most ifrits are second-class citizens who
+serve under the iron heel of the efreeti and their Dominion of Flame, but those
+born outside the efreet hierarchy or who choose to ﬂee it live
+lives of passion in search of fame, glory, and power.
+Ifrits are fond of ﬁre, but this doesn’t mean they all
+embrace ﬁre’s destructive nature. Those who seek
+more productive roles in a society ﬁnd inspiration in
+the way ﬂames ﬂit and dance, and they pride themselves
+in their skills as acrobats or dancers. The church of
+Sarenrae particularly welcomes ifrit ﬁre dancers, both in
+appreciation of their skill and to help ensure these ifrits
+have a safe place apart from their more violent kin.
+But by and large, ifrits are drawn to professions and
+callings that allow them to wallow in the glories of ﬁre.
+Ifrit pyrochemists apply this calling to alchemical
+teachings, seeing purity in every single bomb thrown
+or conﬂagration lit.

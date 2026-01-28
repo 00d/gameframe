@@ -1,0 +1,1364 @@
+# Bestiary - Creatures: V
+# Count: 13 creatures
+
+
+================================================================================
+# VERANALLIA
+================================================================================
+
+
+PRIMORDIAL VERANALLIA
+In the deepest reaches of Elysium,
+the eldest of veranallias roam. These
+beings concern themselves with
+transformations that take place over
+the course of millennia, as well as
+changes in the climates of entire
+worlds. Primordial veranallias have
+an array of unique powers that
+can aﬀect the area for many miles
+around them, from turning deserts
+into glass to triggering earthquakes.
+VERANALLIA (REBIRTH AZATA)
+Veranallias represent the freedom of life to grow, change, and adapt. They rarely
+interact directly with non-azatas, as most other beings ﬁnd their nature hard to
+comprehend, but those who secure their aid ﬁnd them powerful allies. The lower
+half of a veranallia’s body is made of vegetation that constantly repeats a dizzying
+cycle of sprouting, blooming, thriving, and wilting. The upper half of their body
+appears as that of a humanoid of any gender—it is rare for a veranallia to remain
+consistent in their gender for more than a few seasons at a time.
+Veranallias transform the landscape in their wake, bringing creation and
+destruction alike. The world around them overﬂows with an abundance of
+vegetation, with plenty of food for nearby animals, and when they bring destruction,
+they do so without cruelty, as it is sometimes necessary to make room for new life.
+They trigger forest ﬁres in woodlands before dry brush piles up to dangerous levels,
+and bring bitter winters to areas plagued with parasites that thrive in hot weather.
+VERANALLIA
+CREATURE 20
+CG
+MEDIUM
+AZATA
+CELESTIAL
+Perception +38; darkvision, tremorsense (imprecise) 120 feet
+Languages Celestial, Draconic, Infernal; speak with animals, speak with
+plants, tongues
+Skills Athletics +34, Deception +36, Diplomacy +38, Elysium Lore +36,
+Intimidation +36, Medicine +36, Nature +34, Survival +38
+Str +8, Dex +6, Con +8, Int +6, Wis +10, Cha +8
+Items +3 greater striking sickle
+AC 45; Fort +36, Ref +34, Will +38
+HP 475; Weaknesses cold iron 20, evil 20; Resistances
+ﬁre 20, cold 20
+Speed 40 feet, ﬂy 40 feet
+Melee Ȱɵ sickle +39 (agile, ﬁnesse, trip), Damage 3d4+16
+slashing plus 4d6 cold and 1d6 good
+Melee Ȱɵ vine +39 (reach 20 feet) Damage 4d12+16 bludgeoning
+plus 1d6 good and Improved Grab
+Divine Innate Spells DC 42, attack +32; 10th
+cataclysm,
+primal
+phenomenon
+(once
+per year), revival, 9th nature’s enmity,
+regenerate (×3), storm of vengeance,
+tree stride (at will); 8th polar ray (at will),
+sunburst (at will), 6th baleful polymorph
+(at will), tangling creepers (at will); Constant
+(9th) endure elements, speak with animals,
+speak with plants, tongues
+Rituals DC 42; awaken animal, blight, commune with
+nature, consecrate, plant growth, primal call,
+reincarnate
+Alter Weather ̂ˬ Frequency three times
+per day; Eﬀect The veranallia dramatically
+alters weather patterns in the surrounding area,
+producing any of the results of a successful 9th-level
+control weather ritual.
+Rebirth (divine, necromancy) Frequency once per day;
+Eﬀect The veranallia spends a minute to
+encase a creature that has been dead for
+no more than a year in a cocoon. After 24
+hours, the creature is restored to life, and
+the cocoon explodes in a shower of colorful
+blossoms. If the veranallia’s chooses, Rebirth can change the
+creature’s ancestry or heritage, typically into an aasimar.
+
+================================================================================
+PAGE 33
+================================================================================
+
+Bestiary 2
+TRAINED DIGGERS
+Kobolds and others who dwell in
+underground warrens know the
+value of having a few trained giant
+badgers in their lair, since when
+their digging habits are supervised
+and directed, they can excavate new
+tunnels and chambers with ease. Of
+course, the fact that giant badgers
+ﬁnd kobolds and others who dwell
+in underground warrens delicious
+means that relying on such trained
+diggers can be a risky endeavor. A
+giant badger trained for use as a
+digger or a guardian tends to only
+obey the commands of one master,
+and even then they can be prone
+to unpredictable outbursts for no
+reason other than pique.
+Badger
+The burrowing badger is plentiful in most temperate forests. All badgers are naturally
+ﬁerce and tenacious, and their squat stature belies their strength and speed.
+BADGER
+The typical badger has dark, brownish-gray fur highlighted with white markings,
+particularly on the head, giving it a striped mask of fur around its eyes. A
+threatened badger can swiftly become a ferocious combatant that typically ﬁghts
+until slain.
+
+================================================================================
+# VROLIKAI
+================================================================================
+
+
+VROLIKAI NEWCOMERS
+When vrolikais ﬁrst manifest on the
+Abyss, they have no base of power and
+are, despite their abilities, relatively
+defenseless from denizens even more
+powerful than themselves. As a result,
+most rely upon stealth and patience
+for their ﬁrst few centuries while
+they build up a network of minions
+and establish their own Abyssal
+fortiﬁcations before they turn their
+attentions back to the Material Plane.
+VROLIKAI
+CREATURE 19
+UNCOMMON
+CE
+LARGE
+DEMON
+FIEND
+Perception +33; darkvision, true seeing
+Languages Abyssal, Celestial, Draconic, Necril; telepathy 100 feet
+Skills Acrobatics +37, Arcana +33, Deception +35, Intimidation +37, Religion +33, Stealth
++33, Survival +33
+Str +8, Dex +6, Con +9, Int +6, Wis +6, Cha +8
+AC 44; Fort +34, Ref +31, Will +31; +1 to all saves vs. magic
+HP 375; Immunities death eﬀects; Weaknesses cold iron 15, good 15
+Death-Stealing Gaze (aura, divine, necromancy, visual) 30 feet. As nabasu, but with a DC 38
+Fortitude save.
+Speed 35 feet, ﬂy 50 feet
+Melee Ȱɵ jaws +38 (evil, magical, reach 10 feet), Damage 4d12+16 piercing plus 1d6 evil
+Melee Ȱɵ black ﬂame knife +38 (agile, chaotic, evil, magical), Damage 3d4+16 piercing plus
+2d6 negative plus 1d6 evil
+Melee Ȱɵ stinger +38 (evil, magical, reach 15 feet), Damage 4d8+16 piercing
+plus 1d6 evil plus mindwarping
+Divine Innate Spells DC 43; 9th massacre, power word kill, vampiric
+exsanguination; 7th paralyze, regenerate; 5th dimension door (at
+will); Constant true seeing
+Rituals DC 43; Abyssal pact
+Black Flame Knives A vrolikai can manifest
+a dagger-shaped blade of what looks
+like crystallized black ﬂame in each of
+their four hands. These weapons function as
++2 greater striking daggers, although they fade away
+into nothingness 1 minute after a vrolikai no longer carries them.
+Consume Death Ȱɵ (concentrate, divine, necromancy, visual) As
+nabasu, but the vrolikai does not have starvation vulnerability.
+Focused Flames ʚʖ The vrolikai attacks a single target with
+all of its black ﬂame knives. The demon makes a black
+ﬂame knife Strike. On a successful attack, the
+vrolikai deals the damage from a black ﬂame
+knife Strike to the target, plus an additional
+2d6 negative damage for every black ﬂame
+knife they wield beyond the ﬁrst (typically
+6d6 extra damage). Even on a failed attack,
+the vrolikai deals the damage from one black
+ﬂame knife to the target, though they still
+miss completely on a critical failure. On a
+critical hit, the victim becomes drained 2 as
+the focused attack drains pure life essence
+as well as damage. This counts toward the
+vrolikai’s multiple attack penalty as a number
+of attacks equal to the number of black ﬂame
+knives the demon wields.
+Mindwarping (emotion, enchantment, mental)
+The sting of a vrolikai is mind-warping. A creature struck
+must attempt a DC 44 Will save.
+Critical Success The creature is unaﬀected.
+Success The creature becomes stupeﬁed 1 for 1 minute.
+Failure The creature becomes stupeﬁed 1. Further failed
+saves against mindwarping increase the condition value
+by 1, to a maximum of stupeﬁed 4.
+Critical Failure As failure, but the creature also
+becomes confused for 1 minute.
+Stolen Death As nabasu.
+
+================================================================================
+PAGE 71
+================================================================================
+
+Bestiary 2
+LENG
+Known variously as the Nightmare
+Realm or the Terror Beyond Dreams,
+the frozen Plateau of Leng looms
+physically and spiritually above the
+Dreamlands. Both a part of that
+dimension and a corruption of it, Leng
+is a realm inhabited by eldritch horrors
+and ruled by the horrors’ ancient gods.
+Denizen of Leng
+Slavers and raiders from the cold, windswept dimension of Leng, these malevolent
+humanoids range across reality in ominous black ships capable of sailing beyond
+the borders of dimensions and planes. Although most denizens of Leng seek
+slaves and plunder like any pirate, others operate as self-styled ambassadors and
+merchants, sowing discord with far-ranging plots. While the inscrutable denizens
+dress themselves in ﬂowing robes, veils, and broad turbans to appear human, their
+aberrant physiology, when glimpsed, is evident from their crown of stubby horns
+and tentacled jaws to their furry, goat-like legs.
+Above the ﬁerce captains who command the infamous black ships are an even
+higher caste of denizens of Leng. These cultists and musicians serve as high priests,
+laboring to appease the frightening gods who look down upon the Nightmare
+Realm with cold malice.
+
+================================================================================
+# VEXGIT
+================================================================================
+
+
+Bestiary 2
+GREMLIN MINIONS
+Most know better than to employ
+gremlins, so when the fey creatures
+live side-by-side with others, it’s often
+as parasites and unwelcome guests.
+Imaginative and sinister folk who ﬁnd
+themselves infested sometimes catch
+the gremlins and release them in the
+homes of their enemies.
+Gremlin
+The mischievous fey known as gremlins seem to come in endless varieties with
+differing appearances. Preferring to destroy rather than to build, gremlins almost
+never construct their own homes, instead infesting tunnels and abandoned buildings.
+They augment these lairs with cruel traps, and sometimes trained animals (often
+ones considered pests by humanoids). Gremlin lairs are generally near a city or
+village (whether on the surface or in the Darklands) that provides them with a ready
+source of food, trap-building materials, and, of course, victims for entertainment.
+There is little difference in appearance between male and female gremlins, and
+many observers wrongly assume that they are single-gender or genderless. Gremlins
+are proliﬁc breeders, and a handful can quickly become a mob. Young gremlins are
+raised communally—a necessity, as they exhibit the urge to cause mischief from
+birth. They grow quickly and reach full size in a matter of weeks.
+VEXGIT
+These gremlins are covered head-to-toe by a crustacean-like exoskeleton that
+clacks and rattles whenever a vexgit moves. They delight in sabotaging the
+works of other creatures, often turning these works into dangerous traps. An
+individual vexgit might jam a door lock, loosen the wheels on a carriage, or
+remove nails from a boat hull. Buildings infested by vexgits become ﬁlled
+with traps like portcullises descending suddenly, water pipes exploding
+violently, and clock towers disgorging an avalanches of gears.
+Aware of their own physical weakness, vexgits carry hammers and
+other tools to leverage pieces apart or smash whatever they’re unable
+to disassemble. Indeed, a hammer sized for a human becomes a
+maul in the tiny hands of a vexgit.
+Vexgit infestations range from one to a score. Larger
+groups are often led by a more powerful vexgit with
+additional skill in thievery or primal magic. Trained
+giant rats, vipers, and rat swarms are common in
+vexgit lairs.
+VEXGIT
+CREATURE 1
+LE
+TINY
+FEY
+GREMLIN
+Perception +6; darkvision
+Languages Undercommon
+Skills Acrobatics +7, Athletics +6, Crafting +6 (+8 traps), Nature +6, Stealth +5 (see
+clacking exoskeleton), Thievery +7
+Str +1, Dex +4, Con +2, Int +1, Wis +1, Cha +0
+Items maul
+Clacking Exoskeleton A creature that can hear gains a +2 circumstance bonus
+to its Perception DC against a vexgit’s attempts to Sneak.
+AC 16; Fort +5, Ref +9, Will +6
+HP 24; Weaknesses cold iron 2
+Speed 20 feet, climb 20 feet
+Melee Ȱɵ maul +8 (shove), Damage 1d12+1 bludgeoning plus
+Destructive Smash
+Melee Ȱɵ bite +11 (agile, ﬁnesse), Damage 1d6+1 piercing
+Primal Innate Spells DC 17; 1st alarm; Cantrips (1st) prestidigitation
+Destructive Smash A vexgit’s maul Strike against an object deals
+ignores up to 5 of the object’s Hardness.
+Gremlin Snare ̂ˬ (conjuration, primal) Frequency once per
+hour; Eﬀect The vexgit creates a snare of their level or
+lower that normally takes 1 minute to craft at no cost.
+A single vexgit can maintain one gremlin snare at
+a time—if they create a new snare, the previously
+created one vanishes.
+
+================================================================================
+PAGE 136
+================================================================================
+
+GREMLIN FAITH
+Lawful evil gremlins are sometimes
+drawn to the worship of archdevils,
+though not in an orthodox fashion.
+Dispater is revered as the archdevil
+of cities—playgrounds to engage in
+thievery and sabotage. Mammon is
+worshipped as the bringer of wealth
+and protector of gremlin warrens
+that, like his domain of Erebus,
+are dark and trap-ﬁlled. Neutral
+evil gremlins have been known to
+worship Norgorber in his aspect as a
+patron of thieves, but pugwampis in
+particular prefer to worship gnolls (or
+at least, worship whoever the local
+gnolls worship). Chaotic evil gremlins
+often revere Andirifkhu, demon lord
+of illusions, knives, and traps. Those
+that retain a connection to the First
+World may swear allegiance to the
+Lantern King, Eldest of laughter,
+mischief, and transmutation.
+Rusting Grasp ʚʖ (primal, transmutation) Frequency once per hour; Eﬀect The vexgit
+makes a +9 spell attack against a creature or unattended object. If they succeed,
+the vexgit deals 1d6 damage (doubled on a critical hit) to a metal item the target is
+wearing or holding, ignoring its Hardness. If they hit an unattended metal item, the
+item takes this damage automatically. If a creature uses Shield Block with a metal
+shield against this attack, the shield is automatically broken, but no other item is
+rusted on that attack.
+Speedy Sabotage When a vexgit succeeds or critically succeeds at a check to Disable a
+Device, they gain an additional success toward disabling a complex device.
+NUGLUB
+The “towering” hunchbacked nuglubs are among the largest gremlins, though
+they’re not quite three feet tall. Nuglubs have three glowing blue eyes and black,
+oily hair on their head and back that covers them like a cloak. Nuglubs enjoy
+killing with a glee that other gremlins reserve for sabotage. Indeed, they spend
+long hours preparing ambushes for unwary travelers or plotting the murders of
+sleeping villagers. Though less technically inclined than their kin, nuglubs do enjoy
+building traps. They delight in stealthily constructing traps in places their victims
+consider familiar, such as front doors and the ﬂoors around beds. If someone else
+gets blamed for the mayhem the nuglub creates, all the better.
+In combat, nuglubs focus on targets wearing metal armor. Some attribute this to
+envy on the part of the nuglubs, who ﬁnd it difﬁcult to ﬁt armor on their twisted
+bodies. Nuglubs are particularly talented at causing those nearby to stumble over
+them and fall prone. Once an enemy falls to the ground, all the nuglubs descend
+upon the target, biting and scratching until nothing remains.
+Nuglubs rarely gather in groups larger than half a dozen, as quarrels often lead to
+violence and cannibalism. A lone nuglub who bullies a group of smaller gremlins is
+more likely to get their way, and thus less likely to attack their allies.
+
+================================================================================
+# VERDUROUS OOZE
+================================================================================
+
+Constrict Ȱɵ 1d6 bludgeoning plus 1d6 acid, DC 21
+Gray Ooze Acid A gray ooze’s acid damages only metal and organic materials, not stone.
+VERDUROUS OOZE
+Verdurous oozes are found in temperate forests, warm jungles, or other places
+where plant life grows in abundance. Unlike many types of oozes, verdurous oozes
+are not particularly good climbers and have been known to get trapped in natural or
+artiﬁcial chasms. Warlords and wizards sometimes make use of that fact and keep
+verdurous oozes as guardians in pits around the walls of their fortresses or towers.
+VERDUROUS OOZE
+CREATURE 6
+N
+MEDIUM
+MINDLESS
+OOZE
+Perception +8; motion sense 60 feet, no vision
+Skills Athletics +15, Stealth +4 (+10 in tall grass or undergrowth)
+Str +5, Dex –4, Con +5, Int –5, Wis +0, Cha –5
+Motion Sense As amoeba swarm.
+AC 12; Fort +17, Ref +8, Will +10
+HP 157; Immunities acid, critical hits, mental, piercing, precision,
+slashing, unconscious, visual
+Corrosive Surface A creature that hits a verdurous ooze with a
+metal weapon or unarmed attack must attempt a DC 21 Reﬂex
+save. On a failure, the weapon or creature takes 2d4 acid damage
+(after dealing damage to the ooze as normal). Thrown weapons
+take this damage automatically with no save.
+Enliven Foliage (aura, primal, transmutation) 20 feet. The verdurous
+ooze constantly emits supernatural vapors that cause nearby plants
+to grow rapidly and writhe and grasp at anything and everything
+within the emanation. This area becomes diﬃcult terrain for
+non–verdurous ooze creatures. When a creature starts its
+turn in this aura, it must succeed at a DC 21 Reﬂex save
+or take a –10-foot circumstance penalty to its Speeds
+until it leaves the emanation.
+Split When a verdurous ooze that has 10 or more
+HP is hit by an attack that would deal piercing or
+slashing damage, it splits into two identical oozes,
+each with half the original’s HP. One ooze is in the
+same space as the original, and the other is in an adjacent,
+unoccupied space. If no adjacent space is unoccupied, it
+automatically pushes creatures and objects out of the way to ﬁll a
+space (the GM decides if an object or creature is too big or heavy to push).
+Speed 15 feet
+Melee Ȱɵ pseudopod +15, Damage 2d6+7 bludgeoning plus 1d6 acid and Grab
+
+================================================================================
+PAGE 196
+================================================================================
+
+VERDUROUS CONGREGATION
+When verdurous oozes gather in
+suﬃcient number, they can merge
+together into conjoined forms.
+These enlarged blobs develop red
+and white connecting vessels that
+pulse hideously as thick, green ﬂuid
+moves within them. While conjoined,
+the oozes move as one creature.
+Their usual enliven foliage and
+sleep gas auras double in size, and
+they become even more aggressive,
+feeding voraciously on any metal or
+ﬂesh they can ﬁnd.
+Constrict Ȱɵ 2d6 bludgeoning plus 1d6 acid, DC 24
+Sleep Gas ʚʖ (incapacitation, mental, poison, sleep) The verdurous ooze adjusts its aura
+of supernatural vapors to aﬀect living creatures within a 20-foot emanation, forcing
+them to attempt a DC 24 Will save.
+Critical Success The creature is unaﬀected and becomes temporarily immune to Sleep
+Gas for 24 hours.
+Success The creature is stupeﬁed 1 for 1 round.
+Failure The creature falls unconscious. If it’s still unconscious after 1 minute, it wakes
+up automatically.
+Critical Failure The creature falls unconscious. If it’s still unconscious after 1 hour, it
+wakes up automatically.
+Verdurous Ooze Acid A verdurous ooze’s acid damages only metal and ﬂesh—not bone,
+stone, or other materials.
+CARNIVOROUS BLOB
+Carnivorous blobs are the ravenous spawn of shattered worlds far beyond the
+stars, born across the galaxy in inert form until they fall like meteorites onto
+unsuspecting worlds. These massive beings can lie dormant
+for years in desolate caverns or barren wastelands. When
+a carnivorous blob perceives living creatures nearby, it
+lurches to gelatinous life, seeking out and consuming
+every creature it can catch until it is destroyed or until
+it has been unable to locate food for 24 hours, at
+which point it returns to hibernation. Often, keeping
+food away from a carnivorous blob is the safest way
+to defeat it. The blob’s ability to split into smaller
+oozes that might stay hidden after a ﬁght means it can
+be hard to fully eradicate these mindless predators.
+
+================================================================================
+# VANTH
+================================================================================
+
+
+Bestiary 2
+VANTH SCYTHES
+Vanths’ favored weapon is the scythe,
+a choice that even further adds to
+their fearsome appearance and can
+lead to unfortunate associations with
+the Grim Reaper or Urgathoa among
+more superstitious mortals. Vanths
+ﬁnd such comparisons to be ignorant
+at best or insulting at worst. Some
+vanths infuse their scythes with
+diﬀerent qualities, such as cold iron
+or silver, depending on the nature of
+their most common enemies.
+VANTH
+Protecting the Boneyard are the stern and resolute guardians of the dead known as
+vanths, psychopomps who resemble skeletons with raven-like wings and a mask
+resembling a vulture’s skull. Vanths carry black scythes to ﬁght against those who
+would disturb the natural progression of souls, and they consider any visitor to
+the Boneyard a potential troublemaker. When the psychopomp armies go to war,
+vanths serve as front-line soldiers. They rarely speak and even more rarely show any
+emotion other than a grim adherence to duty.
+VANTH
+CREATURE 7
+N
+MEDIUM
+MONITOR
+PSYCHOPOMP
+Perception +15; darkvision, lifesense 60 feet
+Languages Abyssal, Celestial, Infernal, Requian
+Skills Acrobatics +17, Athletics +17, Boneyard Lore +15, Intimidation +15,
+Occultism +13, Religion +13, Stealth +17
+Str +6, Dex +4, Con +2, Int +2, Wis +4, Cha +2
+Items +1 scythe
+AC 27; Fort +15, Ref +13, Will +17; +1 status to all saves
+vs. magic
+HP 105; Immunities death eﬀects, disease;
+Resistances negative 10, poison 10
+Frightful Presence (aura, emotion, fear,
+mental) 20 feet, DC 22
+Attack of Opportunity Ǻȓ
+Speed 25 feet, ﬂy 40 feet
+Melee Ȱɵ scythe +18 (deadly d10,
+magical, trip), Damage 1d10+8
+slashing plus spirit touch
+Melee Ȱɵ jaws +17 (agile),
+Damage 1d6+8 slashing plus
+spirit touch
+Divine Innate Spells DC 22; 5th
+dimension door; 4th dimension
+door (at will); 3rd locate (×3),
+searing light (×3); 2nd invisibility
+(at will, self only)
+Infuse Weapon (divine, evocation)
+A vanth’s scythe is its symbol of
+oﬃce and gains a measure of its
+personal power. This scythe becomes
+a +1 scythe and is treated as if it were
+adamantine while the vanth wields it. A
+vanth whose scythe is taken or destroyed
+can infuse a new one with an hour of work.
+Spirit Touch As esobok, but 2d6.
+Vanth’s Curse ʚʖ (curse, divine, enchantment,
+misfortune) Frequency three times per day; Eﬀect The
+vanth bestows a curse on a creature by touching it with its scythe.
+The creature must attempt a DC 25 Will save.
+Critical Success The target is unaﬀected and is temporarily
+immune to Vanth’s Curse for 24 hours.
+Success The target feels a momentary shudder of doom and is
+stupeﬁed 1 for 1 minute by the distracting sensation.
+Failure The target becomes morose and glum as it accepts its own inevitable fate. For
+1 hour, the target is stupeﬁed 2. Each time the target gains the dying condition, the
+stupeﬁed condition value increases by 1, to a maximum value of stupeﬁed 4.
+Critical Failure As failure, but the eﬀect is permanent.
+
+================================================================================
+PAGE 212
+================================================================================
+
+PSYCHOPOMP COURTS
+Psychopomps rarely oppose
+celestials or ﬁends. In fact, they
+frequently host such creatures in
+the Boneyard, particularly in the
+sprawling psychopomp courts where
+these outsiders petition for one
+soul or another to be remanded to
+their jurisdiction. Complicated cases
+are judged by yamarajes, while the
+thorniest or most politically delicate
+are handed by Pharasma herself.
+YAMARAJ
+The greatest judges among the psychopomps are the massive yamarajes, whose
+wisdom is legendary and whose edicts are unappealable except to ushers or Pharasma
+herself. A yamaraj resembles an immense dragon with dark, feathery scales and an
+emotionless, dispassionate gaze behind a feathered mask. When not serving as the
+senior magistrates, lords, and generals of the Boneyard, yamarajes pursue highly
+individualistic hobbies, such as gardening or literature. They are willing to halt in
+their duties to converse with mortals whose expertise matches their interests.
+
+================================================================================
+# VAMPIRE SQUID
+================================================================================
+
+
+Bestiary 2
+GIANT SQUID TACTICS
+The giant squid attacks by lashing
+out with its longest tentacles and
+then rapidly pulling the prey toward
+itself. While closing the distance
+between them, it attacks again,
+this time closing its smaller arms
+around the prey. Once it has the prey
+thoroughly trapped, the giant squid
+tears and cuts with its beak and the
+teeth-lined saw it has in the place of
+a tongue.
+Squid
+The unusual shape of these swift, voracious predators has prompted many a
+nautical tale.
+VAMPIRE SQUID
+Vampire squid are neither undead nor blood drinkers. Their name is instead
+inspired by their red eyes and the dark, cloak-like webbing between their arms.
+Living in the lightless depths of the ocean, the vampire squid can eject a cloud of
+bioluminescent mucus that nauseates predators.
+VAMPIRE SQUID
+CREATURE 0
+N
+SMALL
+ANIMAL
+AQUATIC
+Perception +7; darkvision
+Skills Athletics +4, Stealth +7
+Str +0, Dex +3, Con +0, Int –4, Wis +3, Cha –2
+AC 16; Fort +4, Ref +8, Will +6
+HP 15; Resistances cold 5
+Speed swim 25 feet
+Melee Ȱɵ beak +7 (ﬁnesse), Damage 1d8 piercing
+Melee Ȱɵ tentacles +7 (agile, ﬁnesse), Damage 1d6 bludgeoning
+Glowing Mucus Ȱɵ Frequency once per day; Requirements The vampire squid is in water;
+Eﬀect The vampire squid ejects a cloud of bioluminescent mucus in a 15-foot cone.
+Non-squid creatures within the cloud must attempt a DC 16 Fortitude save or become
+sickened 1. The glowing mucus remains in the area for 1 minute, and any creature that
+ends its turn in the area must succeed at a DC 13 Fortitude save or become sickened 1.
+GIANT SQUID
+Dwelling deep within the oceans, this huge cephalopod grows up to 45 feet in
+length and can weigh up to 600 pounds. Its arms and tentacles are lined with
+hundreds of hooks and suckers, allowing it to seize its prey with ease.
+
+================================================================================
+# VRYKOLAKAS SPAWN
+================================================================================
+
+
+Bestiary 2
+DEBASED AND DISTORTED
+Vrykolakas are corrupted bestial
+versions of their appearance in life,
+and are emaciated and pockmarked
+with disease. Their spines are bent
+in a perpetual hunch. While some
+vrykolakas can cloak themselves
+in a semblance of living ﬂesh, their
+fragmented memories often cannot
+accurately recreate their former
+appearance or persona. They may not
+recognize former family and friends
+(and vice versa), but those they
+do remember are marked as their
+favored victims.
+reducing it to 0 HP does not. A dominated animal takes a –4 circumstance penalty to
+saving throws against the vrykolakas’s Feral Possession.
+Drink Blood As a typical vrykolakas, but the creature is drained 2 instead of 1.
+VRYKOLAKAS SPAWN
+Vrykolakas unleash their spawn upon the world to spread terror, plague, and
+suffering and to draw attention away from their masters.
+VRYKOLAKAS SPAWN
+CREATURE 6
+NE
+MEDIUM
+UNDEAD
+VAMPIRE
+Perception +14; darkvision
+Skills Acrobatics +14, Athletics +15, Stealth +14, Survival +11
+Languages Common
+Str +5, Dex +4, Con +2, Int –3, Wis +2, Cha +2
+AC 24; Fort +14, Ref +16, Will +12
+HP 99, negative healing; Immunities death eﬀects, disease, paralyze, poison, sleep
+Vrykolakas Vulnerabilities
+Feral Possession Ȳ˓ (divine, incapacitation, mental, necromancy, possession) DC 24
+Speed 40 feet, climb 20 feet
+Melee Ȱɵ fangs +17, Damage 2d8+8 piercing plus Drink Blood
+Melee Ȱɵ claw +17 (agile), Damage 2d6+8 slashing
+Drink Blood Ȱɵ (divine, necromancy) When Drinking Blood, the vrykolakas spawn
+regains 10 HP.
+Rend Ȱɵ claw
+VRYKOLAKAS MASTER
+Vrykolakas masters are sinister shapechangers. They walk undetected
+among the living and prey upon them like a wolf among sheep, often
+leaving the corpses to rise as vrykolakas spawn.
+
+================================================================================
+# VRYKOLAKAS MASTER
+================================================================================
+
+Drink Blood Ȱɵ (divine, necromancy) When Drinking Blood, the vrykolakas spawn
+regains 10 HP.
+Rend Ȱɵ claw
+VRYKOLAKAS MASTER
+Vrykolakas masters are sinister shapechangers. They walk undetected
+among the living and prey upon them like a wolf among sheep, often
+leaving the corpses to rise as vrykolakas spawn.
+VRYKOLAKAS MASTER
+CREATURE 10
+NE
+MEDIUM
+UNDEAD
+VAMPIRE
+Perception +19; darkvision
+Skills Acrobatics +19, Athletics +23, Deception +19, Intimidation
++21, Stealth +21, Survival +17
+Languages Common
+Str +7, Dex +5, Con +3, Int –2, Wis +3, Cha +5
+Children of the Night (divine, enchantment, mental)
+Swift Tracker
+AC 30; Fort +19, Ref +21, Will +17
+HP 190, negative healing; Immunities death eﬀects, disease, paralyze,
+poison, sleep
+Pestilential Aura (aura, divine, necromancy) DC 29
+Vrykolakas Vulnerabilities
+Feral Possession Ȳ˓ (divine, incapacitation, mental, necromancy,
+possession) DC 29
+Speed 40 feet, climb 20 feet
+Melee Ȱɵ fangs +23, Damage 2d12+13 piercing plus
+Drink Blood
+Melee Ȱɵ claw +23 (agile), Damage 2d8+13 slashing
+Divine Innate Spells DC 29; 5th vampiric touch (×3);
+3rd fear (×3)
+Change Shape Ȱɵ (concentrate, divine, polymorph,
+transmutation)
+Create Spawn (divine, downtime, necromancy)
+Dominate Animal Ȱɵ (divine, enchantment, incapacitation, mental)
+DC 29
+
+================================================================================
+PAGE 278
+================================================================================
+
+MYTHOLOGICAL ORIGINS
+The vrykolakas (pronounced
+“vree-KO-la-kahss”) is an undead
+creature from Greek folklore. These
+revenants appear as humans come
+back after death to complete some
+task left undone before they can
+peacefully rest. Many are vengeful
+and murderous, but some are simply
+attempting to return to their former
+lives, like a shoemaker rising from
+the grave to mend his children’s
+shoes, carry water, and chop
+ﬁrewood. The Pathﬁnder version of
+this creature is more associated with
+a feral form of vampire.
+Drink Blood Ȱɵ (divine, necromancy) When Drinking Blood, the vrykolakas master
+regains 19 HP.
+Rend Ȱɵ claw
+VRYKOLAKAS ANCIENT
+Vrykolakas ancients are the sinister overlords of their kind, stealing blood, breath,
+and life to feed their immortal hunger.
+
+================================================================================
+# VRYKOLAKAS ANCIENT
+================================================================================
+
+
+MYTHOLOGICAL ORIGINS
+The vrykolakas (pronounced
+“vree-KO-la-kahss”) is an undead
+creature from Greek folklore. These
+revenants appear as humans come
+back after death to complete some
+task left undone before they can
+peacefully rest. Many are vengeful
+and murderous, but some are simply
+attempting to return to their former
+lives, like a shoemaker rising from
+the grave to mend his children’s
+shoes, carry water, and chop
+ﬁrewood. The Pathﬁnder version of
+this creature is more associated with
+a feral form of vampire.
+Drink Blood Ȱɵ (divine, necromancy) When Drinking Blood, the vrykolakas master
+regains 19 HP.
+Rend Ȱɵ claw
+VRYKOLAKAS ANCIENT
+Vrykolakas ancients are the sinister overlords of their kind, stealing blood, breath,
+and life to feed their immortal hunger.
+VRYKOLAKAS ANCIENT
+CREATURE 13
+UNCOMMON
+NE
+MEDIUM
+UNDEAD
+VAMPIRE
+Perception +23; darkvision
+Skills Acrobatics +24, Athletics +29, Deception +27, Intimidation +27, Religion +19,
+Stealth +26, Survival +23
+Languages Common
+Str +8, Dex +5, Con +4, Int +0, Wis +4, Cha +8
+Children of the Night (divine, enchantment, mental)
+Swift Tracker
+AC 34; Fort +23, Ref +24, Will +21
+HP 250, negative healing; Immunities death eﬀects, disease, paralyze, poison, sleep
+Pestilential Aura (aura, divine, necromancy) DC 33
+Vrykolakas Vulnerabilities
+Feral Possession Ȳ˓ (divine, incapacitation, mental, necromancy, possession) DC 33
+Speed 40 feet, climb 20 feet
+Melee Ȱɵ fangs +27, Damage 3d10+17 piercing plus Drink Blood
+Melee Ȱɵ claw +27 (agile); Damage 3d6+17 slashing
+Divine Innate Spells DC 33; 7th vampiric touch (×3); 3rd fear (×3)
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation)
+Create Spawn (divine, downtime, necromancy)
+Dominate Animal Ȱɵ (divine, enchantment, incapacitation, mental) DC 33
+Drink Blood Ȱɵ (divine, necromancy) When Drinking Blood, the
+vrykolakas ancient regains 25 HP.
+Rend Ȱɵ claw
+Sanguine Mauling Ȱɵ Requirements The vrykolakas ancient’s
+last action was to Drink Blood; Eﬀect The vrykolakas
+ancient makes two claw Strikes. Both count toward its
+multiple attack penalty, but the penalty increases only
+after it makes both attacks. If it hits with both claws,
+the target takes 1d6 persistent bleed damage.
+Steal Breath ʚʖ (manipulate) Requirements The
+vrykolakas ancient is adjacent to an unconscious
+creature; Eﬀect The vrykolakas ancient steals
+the creature’s breath. The unconscious creature
+begins suﬀocating, can’t be awakened for 1
+round, and must attempt a DC 33 Fortitude
+save. If a creature is targeted with this
+ability in consecutive rounds, the save DC
+decreases by 2 each round after the ﬁrst.
+Critical
+Success
+The
+target
+immediately awakens and is then
+temporarily immune to Steal
+Breath for 24 hours.
+Success The target is unaﬀected.
+Failure The target takes
+1d10 damage.
+Critical Failure The target
+is reduced to 0 HP and
+becomes dying 1.
+
+================================================================================
+PAGE 279
+================================================================================
+
+Bestiary 2
+AGENTS OF EMPTY DEATH
+Vampiric mists are linked to the
+will-o’-wisp, another notorious
+swamp-dwelling, vaporous predator,
+in that both of these entities are
+often encountered in areas where
+the Outer God Nhimbaloth has
+brushed close to the world. Often,
+the wounds on a corpse fed upon by
+a vampiric mist bear Nhimbaloth’s
+mark: a cluster of seven perfectly
+spaced punctures through which the
+victim’s blood has been drained.
+Vampiric Mist
+Though they’re often mistaken for vampires in gaseous form or an unusual type
+of air elemental, vampiric mists are in fact strange aberrant life-forms. With an
+amorphous body that consists as much of ﬂuid as it does of air, these creatures
+dwell in swamps or moist underground regions where their vulnerability to heat
+isn’t as much of a concern. Still, they prefer to lair near the fringes of such areas,
+as a vampiric mist needs a constant supply of fresh blood for sustenance. While
+blood drawn from animals is just as nutritious as blood from anything else, these
+sadistic monsters vastly prefer the ﬂavor of blood drawn from thinking creatures.
+Like will-o’-wisps, vampiric mists ﬁnd that fear ﬂavors the blood, though they
+gain no particular advantage by feeding on the frightened.
+Although somewhat intelligent, vampiric mists do not form societies. They
+sometimes group into small gangs, but even then they show little interest in working
+together. Vampiric mists spend most of their time seeking prey—a pursuit they
+approach with great creativity. The mists’ propensity for taking on vague, skeletal
+forms of the creatures whose blood they drink further adds to their mystique and
+fuels rumors that they have connections to the undead. Indeed, many vampiric
+mists enjoy using this common misconception
+to their advantage, leading foes to apply foolish
+tactics—such as tricking spellcasters
+into attempting to use positive
+energy against them as if they
+were undead monsters.
+VAMPIRIC MIST CREATURE 3
+NE
+MEDIUM
+ABERRATION
+Perception +9; darkvision, sense
+blood (imprecise) 60 feet
+Languages Aklo
+Skills Acrobatics +10, Stealth +10
+Str –5, Dex +5, Con +3, Int –1, Wis +2, Cha +0
+Misty Form A vampiric mist’s body is composed of a semisolid red mist similar in
+consistency to thick foam. This enables a vampiric mist to move through spaces as
+narrow as 1 inch in diameter with no reduction to its Speed. However, a vampiric
+mist can’t wear or interact with objects. It also can’t enter water or other ﬂuids, and
+it’s treated as Tiny for the purpose of how wind aﬀects it.
+Sense Blood A vampiric mist can sense creatures that have blood within 60 feet.
+It can sense exposed blood within a mile.
+AC 18; Fort +8, Ref +12, Will +9
+HP 35; Immunities precision; Weaknesses ﬁre 5; Resistances
+physical 5
+Speed ﬂy 40 feet
+Melee Ȱɵ misty tendril +10 (agile, ﬁnesse), Damage 2d6 slashing
+damage plus 1d6 persistent bleed damage and blood siphon
+Blood Siphon When a vampiric mist damages a creature with a misty tendril Strike,
+the creature must attempt a DC 20 Fortitude save. If the Strike was a critical hit, the
+outcome of the creature’s save is one degree worse than the result of the saving throw.
+Any temporary Hit Points the vampiric mist gains from Blood Siphon fade after 1 hour.
+Success The creature is unaﬀected.
+Failure The creature is drained 1, and the vampiric mist gains 5 temporary
+Hit Points.
+Critical Failure The creature is drained 2.
+The vampiric mist gains 10 temporary
+Hit Points and takes on an intense red
+until the end of its next turn. During this time,
+it gains a +2 status bonus to AC and saves and is
+quickened. It can use its extra action only to Strike.
+
+================================================================================
+PAGE 280
+================================================================================
+
+FORBIDDEN ARMOR
+After a devastating battle with a
+vaspercham, many legendary heroes
+have tried to forge armor or weapons
+from the magical shell of the sea
+beast, but all have failed because of
+the powerful curse that suﬀuses the
+opaline material. If one were able to
+dispel the curse of a vaspercham’s
+shell—or somehow twist the curse
+to their own beneﬁt—they would be
+able to craft an incredible suit of
+spell-reﬂecting plate mail.
+Vaspercham
+The darkly intelligent vaspercham, an aquatic horror who delights in violence and
+destruction, lurks in the shallows near shorelines. Once a vaspercham settles on a new
+home, they stubbornly stay there, regardless of any communities dwelling nearby. A
+vaspercham’s physical might and magic-warping abilities make them incredibly hard
+to dislodge once entrenched, and many seaside communities have relocated after a
+vaspercham came calling. The monster responds only to strength, so one must best
+a vaspercham in combat to gain their begrudging cooperation. But once the creature
+recovers their strength, they inevitably betray any temporary alliance.
+
+================================================================================
+# VASPERCHAM
+================================================================================
+
+
+FORBIDDEN ARMOR
+After a devastating battle with a
+vaspercham, many legendary heroes
+have tried to forge armor or weapons
+from the magical shell of the sea
+beast, but all have failed because of
+the powerful curse that suﬀuses the
+opaline material. If one were able to
+dispel the curse of a vaspercham’s
+shell—or somehow twist the curse
+to their own beneﬁt—they would be
+able to craft an incredible suit of
+spell-reﬂecting plate mail.
+Vaspercham
+The darkly intelligent vaspercham, an aquatic horror who delights in violence and
+destruction, lurks in the shallows near shorelines. Once a vaspercham settles on a new
+home, they stubbornly stay there, regardless of any communities dwelling nearby. A
+vaspercham’s physical might and magic-warping abilities make them incredibly hard
+to dislodge once entrenched, and many seaside communities have relocated after a
+vaspercham came calling. The monster responds only to strength, so one must best
+a vaspercham in combat to gain their begrudging cooperation. But once the creature
+recovers their strength, they inevitably betray any temporary alliance.
+VASPERCHAM
+CREATURE 17
+CE
+HUGE
+ABERRATION
+AQUATIC
+Perception +30; darkvision, see invisibility
+Languages Aklo
+Skills Arcana +33, Athletics +33, Deception +31, Intimidation +29, Sea Lore +33
+Str +8, Dex +4, Con +6, Int +8, Wis +5, Cha +6
+AC 41; Fort +31, Ref +25, Will +32; +1 status to all saves vs. magic
+HP 335; Weaknesses ﬁre 15; Resistances cold 10, electricity 10
+Magic-Warping Aura (arcane, aura, transmutation) 30 feet. A vaspercham’s shell distorts
+nearby magic. Any creature in the aura who Casts a Spell must attempt a DC 37 Will save.
+Critical Success The spell is unaﬀected and the caster is temporarily immune to the
+magic‑warping aura for 1 minute.
+Success The spell is unaﬀected, but if the spell allows a saving throw, the vaspercham
+gains a +1 circumstance bonus to save against it.
+Failure If the spell has a target and there are one or more viable targets within its
+range, the spell’s target changes, determined randomly by the GM. If there is no
+other possible target within range or the spell has no target, the spell is disrupted.
+Critical Failure The caster instead Casts another Spell, choosing randomly from their
+spell repertoire, prepared spells, or available focus spells (as appropriate) and
+selecting any targets at random.
+Speed 20 feet, swim 50 feet
+Melee Ȱɵ tentacle +33 (agile, magical, reach 20 feet), Damage 3d10+16 bludgeoning
+plus hallucinatory brine
+Ranged Ȱɵ water blast +33 (brutal,
+magical, range increment 100
+feet, water), Damage 2d8+16
+bludgeoning plus hallucinatory brine
+Arcane Innate Spells DC 41; 9th cone of cold, spell immunity; 8th
+lightning bolt; 7th regenerate; 6th spellwrack (×3); 5th control water
+(at will); Constant (7th) see invisibility
+Hallucinatory Brine (arcane, illusion, mental) A creature hit by the
+vaspercham’s Strikes or Mindwarping Tide must attempt a DC 38
+Fortitude save. On a failure, the creature is overwhelmed with
+phantasmal visions, becoming confused for 1 round (1 minute
+on a critical failure).
+Mindwarping Tide Ȱɵ (concentrate) The vaspercham releases
+an eﬀusion of noxious water from its shell. Creatures within
+a 15-foot emanation must save against the vaspercham’s
+hallucinatory brine.
+Whipping Tentacles ʚʖ The vaspercham
+makes four tentacle Strikes, each against
+a diﬀerent target. These attacks count
+toward the vaspercham’s multiple attack
+penalty, but the multiple attack
+penalty doesn’t increase until
+after the vaspercham makes all of
+their attacks.
+
+================================================================================
+PAGE 281
+================================================================================
+
+Bestiary 2
+A MORTAL NAME
+Some mortals refer to velstracs
+as “kytons,” a misattribution that
+the velstracs tolerate with cold
+amusement. The term “kyton” denotes
+a master or virtuoso among their kind,
+and these ﬁends enjoy being labeled
+as masters of their horrid paths of
+perfection through agony.
+Velstrac
+The search for ultimate sensation through self-mutilation is the horrifying
+preoccupation of the shadow-dwelling ﬁends known as velstracs. They transcend
+their stoic detachment only when inﬂicting pain and terror upon their victims,
+practicing new forms of torture, or when turning their agonizing practices back
+on themselves. Velstracs consider themselves enlightened beings, transcending
+such limitations as morality or mortal taboos, but their victims know them as
+emotionless tormentors who inﬂict sadistic suffering. These ﬁends claim to
+seek perfection in thought, form, and action, although they don’t recognize any
+reﬁnement that doesn’t require the painful excision of the ﬂesh or spirit.
+Velstracs manifest from the souls of the most extreme masochistic or sadistic
+mortals who are judged and sent on to the Shadow Plane. They take on forms that
+suit their vile predilections, ranging from the low-ranking augurs to the maestros
+of suffering and mutilation called eremites. The process of transformation warps
+the soul step by step, with other velstracs conveying their new members through
+untold chambers of pain among the dark reaches of the Shadow Plane.
+AUGUR
+These spherical knots of sinewy muscle, serrated blades, and bloody metal are
+the most common velstracs on the Shadow Plane. Each augur has only a single
+eye, from which they can see the horrors inﬂicted by other velstracs, who train
+the augur to expect and appreciate pain. Augurs are 1 foot in diameter and
+weigh 30 pounds.
+
+================================================================================
+# VIOLET FUNGUS
+================================================================================
+
+
+Bestiary 2
+DEADLY WHIPS
+Canny adventurers can harvest a
+defeated violet fungus’s tentacles and
+use them as whips. The whips inﬂict
+violent rot (with the same eﬀects
+and DC as in the violet fungus’s
+stat block) on anything they touch,
+including the wielder, although metal
+gloves such as gauntlets can protect
+against the poison. Such whips can be
+used for 1 hour before they degrade
+and become useless.
+Violet Fungus
+At a glance, a violet fungus might seem to be little more than an unsightly and
+sickeningly purple mushroom of unusual size. Only once one draws closer—
+once whip-like tentacles dripping with ﬂesh-rotting venom slither out from the
+fungus’s cratered cap—does the terrifying truth of this carnivorous toadstool
+become apparent. Many amateur spelunkers have met untimely ends in the
+clutches of this monstrous fungus’s tentacles, since violet fungi are practically
+synonymous with caverns on Golarion.
+Anyone who has ever braved the world’s caves for an extended period of
+time know the dangers of the deadly violet fungus. Darklands dwellers such as
+drow and duergars often bear the long, whip-like scars of at least one brush
+with this vicious plant’s cruel, poison-infused tentacles. Canny subterranean
+trappers and scouts sometimes make use of cultivated violent fungi to catch
+game in the enormous caverns below the surface world. Some Darklands
+peoples also cultivate violet fungi as a means to defend their territory. Xulgaths
+in particular place violet fungi around the perimeters of their settlements as a
+ﬁrst line of defense.
+VIOLET FUNGUS
+CREATURE 3
+N
+MEDIUM
+FUNGUS
+MINDLESS
+Perception +8; no vision, tremorsense 60 feet
+Skills Stealth +9
+Str +4, Dex +0, Con +3, Int –5, Wis +1, Cha –2
+AC 17; Fort +10, Ref +7, Will +6
+HP 60; Immunities bleed, fatigued, mental, poison, sleep,
+unconscious; Weaknesses fire 5
+Speed 10 feet
+Melee Ȱɵ tentacle +11 (agile, reach 10 feet), Damage 1d10+4
+bludgeoning plus violet rot
+Violet Rot (poison); Saving Throw DC 20 Fortitude;
+Maximum Duration 6 rounds; Stage 1 1d6 poison
+plus enfeebled 1 (1 round); Stage 2 1d6 poison plus
+enfeebled 1 and drained 1 (1 round); Stage 3 2d6 poison
+plus enfeebled 1 and drained 1 (1 round)
+VIOLET VENOM
+Alchemists and poisoners cherish violet fungi for the
+plants’ potent rotting poison, and have perfected an
+effective method of preserving the toxin as violet venom.
+After slaying a violet fungus, a character can extract
+the fungus’s toxin with a successful DC 20 Nature or
+Survival check. Afterward, the extracted venom can be
+Crafted into 1 dose of violet venom with a successful
+DC 18 Crafting check.
+VIOLET VENOM
+ITEM 3
+ALCHEMICAL
+CONSUMABLE
+CONTACT
+POISON
+Price 12 gp
+Usage held in 2 hands; Bulk L
+Activate Ȱɵ Interact
+The delicate process of extracting violet venom from a violet fungus
+leaves it diluted at the best of times. Alchemists are still on the hunt for a truly pure,
+unadulterated version of this highly toxic poison.
+Saving Throw DC 17 Fortitude; Onset 1 minute; Maximum Duration
+6 rounds; Stage 1 1d6 poison plus enfeebled 1 (1 round); Stage 2
+1d6 poison plus drained 1 (1 round); Stage 3 2d6 poison plus
+enfeebled 1 (1 round)
+
+================================================================================
+PAGE 288
+================================================================================
+
+VIPER VINE POLLEN
+While viper vine pollen degrades
+quickly after it is harvested carefully
+from the plant, a character who has
+a set of alchemical tools can gather
+and preserve 1d6 doses of pollen
+with a successful DC 33 Crafting
+or Nature check and 10 minutes
+of work. A single dose of viper
+vine pollen is worth 300 gp as raw
+materials for crafting any alchemical
+or magical item that creates an
+incapacitation eﬀect.
+Viper Vine
+A voracious, ﬂesh-eating carnivore, the viper vine has a single enormous blossom
+arising from a thick, leafy tangle of snake-like vines. When the plant senses the
+approach of suitable prey through its sensitive, shallowly buried root system, it
+rises up like an agitated snake and unfurls its brightly colored bloom, an act that
+releases a cloud of mind-numbing pollen. Persistent stories claim the viper vine
+can lure prey into its clutches by swaying with a hypnotic motion, but this effect
+is in fact created by this invisible, odorless pollen cloud.
+Since a viper vine gains nourishment by consuming creatures rather than
+through ingesting moisture and soil, it has developed rudimentary locomotion
+and can drag itself along the ground with its tentacle-like roots. It even has a form
+of rudimentary sentience, allowing it to not only discern differences in prey and
+make limited tactical decisions, but also to avoid creatures that are particularly
+large or dangerous-looking.
+The area around viper vine hunting grounds is often strewn with the partially
+devoured remains of victims. It’s not unusual to ﬁnd the rotting corpses of wild
+animals, ill-fated adventurers, and even giants in the plant’s immediate vicinity,
+along with a scattering of incidental treasure left behind on the corpses. A
+viper vine rarely returns to the carcass of a creature it killed earlier,
+preferring to hunt fresh meat.
+
+================================================================================
+# VIPER VINE
+================================================================================
+
+
+VIPER VINE POLLEN
+While viper vine pollen degrades
+quickly after it is harvested carefully
+from the plant, a character who has
+a set of alchemical tools can gather
+and preserve 1d6 doses of pollen
+with a successful DC 33 Crafting
+or Nature check and 10 minutes
+of work. A single dose of viper
+vine pollen is worth 300 gp as raw
+materials for crafting any alchemical
+or magical item that creates an
+incapacitation eﬀect.
+Viper Vine
+A voracious, ﬂesh-eating carnivore, the viper vine has a single enormous blossom
+arising from a thick, leafy tangle of snake-like vines. When the plant senses the
+approach of suitable prey through its sensitive, shallowly buried root system, it
+rises up like an agitated snake and unfurls its brightly colored bloom, an act that
+releases a cloud of mind-numbing pollen. Persistent stories claim the viper vine
+can lure prey into its clutches by swaying with a hypnotic motion, but this effect
+is in fact created by this invisible, odorless pollen cloud.
+Since a viper vine gains nourishment by consuming creatures rather than
+through ingesting moisture and soil, it has developed rudimentary locomotion
+and can drag itself along the ground with its tentacle-like roots. It even has a form
+of rudimentary sentience, allowing it to not only discern differences in prey and
+make limited tactical decisions, but also to avoid creatures that are particularly
+large or dangerous-looking.
+The area around viper vine hunting grounds is often strewn with the partially
+devoured remains of victims. It’s not unusual to ﬁnd the rotting corpses of wild
+animals, ill-fated adventurers, and even giants in the plant’s immediate vicinity,
+along with a scattering of incidental treasure left behind on the corpses. A
+viper vine rarely returns to the carcass of a creature it killed earlier,
+preferring to hunt fresh meat.
+VIPER VINE
+CREATURE 13
+N
+LARGE
+PLANT
+Perception +22, low-light vision, tremorsense (imprecise) 60 feet
+Skills Athletics +27, Stealth +24
+Str +8, Dex +5, Con +7, Int –4, Wis +5, Cha –3
+AC 33; Fort +26, Ref +24, Will +22
+HP 270; Resistances poison 15
+Cold Vulnerability When exposed to a cold eﬀect, the viper vine is
+overwhelmed by lethargy, becoming slowed 1 for 1d4 rounds.
+Speed 20 feet
+Melee Ȱɵ jaws +27 (reach 10 feet), Damage 3d6+11 piercing plus
+3d6 poison
+Melee Ȱɵ vine +27 (agile, reach 15 feet), Damage 3d10+11
+bludgeoning plus Grab
+Captivating Pollen Ȱɵ (enchantment, incapacitation, mental,
+poison) The viper vine releases a 60-foot emanation of invisible
+pollen that stays in the air for 5 rounds unless dispersed by a
+moderate or stronger wind. Each creature that enters or starts its
+turn in the area must attempt a DC 33 Will save or be captivated. The
+viper vine can’t use Captivating Pollen for 1d4 rounds.
+Critical Success The creature is unaﬀected and
+is temporarily immune to Captivating Pollen
+for 24 hours.
+Success The creature is sickened 1.
+Failure The creature is fascinated, and
+it must spend each of its actions
+to move closer to the viper vine as
+expediently as possible while avoiding
+obvious dangers. If a captivated creature
+is adjacent to the viper vine, it stays still
+and doesn’t act. It ceases to be fascinated if it’s
+no longer in the pollen aura at the end of
+its turn.
+Critical Failure As failure, plus the creature is
+stupeﬁed 2 for 24 hours.
+Constrict Ȱɵ 3d8+8 bludgeoning, DC 33
+
+================================================================================
+PAGE 289
+================================================================================
+
+Bestiary 2
+NON-EVIL UNDEAD
+Void zombies are unusual in that
+their animating negative force is
+provided by a living parasite that
+survives within their corpses,
+controlling their nervous systems
+for defense and to hunt food. As
+such, the soul of a person who
+succumbs to an akata’s void death
+is not bound to its rotting corpse at
+all and travels on to judgment in the
+Boneyard unimpeded. Nevertheless,
+most worshippers of Pharasma
+and crusaders against undeath
+still consider void zombies to be
+anathema and ﬁght to destroy them.
+Void Zombie
+A void zombie arises when a humanoid dies from an akata’s void death afﬂiction
+(page 13). This walking corpse is animated by a larval akata attached to the
+deceased creature’s brain, using a grotesque feeding tendril that emerges from the
+corpse’s mouth to drink blood from its victims.
+A void zombie typically exists for only a few months before it collapses and
+the larval akata crawls free from the motionless shell. When it feels the natural
+end of its unlife approaching, a void zombie ﬁnds a secluded place to vomit
+forth the nearly mature akata larva, then withers away. The disgorged larva
+metamorphizes into a full-grown akata several hours later, usually eating the
+corpse as its ﬁrst meal.
+The name “void zombie” is something of a misnomer; though still compelled by
+necromantic energies, a void zombie is a host in the life cycle of a parasitic alien,
+not a mindless, reanimated corpse (despite their similar appearances). The fact that
+a typical void zombie shares the neutral alignment of the larval akata
+within, rather than the intrinsically evil nature of other zombies,
+has caused some scholars to push to reclassify them under other
+names. Suggestions have included “void dead,” “akata spawn,”
+or “bloodwalker,” but the visceral and compelling commonplace
+name has proven difﬁcult to shed.
+The driving force behind a void zombie’s violence rises from
+the ravenous hunger of the alien parasite that serves as the channel
+for its animating negative energies. Necromancers have tried often
+to duplicate the void zombie, but without a larval akata hosted
+within, the result is simply a zombie with missing jaws or, at best,
+one that moves faster than normal. Others have compared a
+captive void zombie to a captive yellow musk thrall (page 301)
+in an attempt to discover a potential link between the two—
+after all, both are animated bodies controlled by a parasitic
+outside force. Strangely, a void zombie becomes particularly
+violent when encountering a yellow musk thrall, making direct
+comparisons of the two creatures particularly difﬁcult, or even
+dangerous. The fact that a void zombie, unlike a yellow musk
+thrall, is actually undead may hold some clues as to the source of
+this strange behavior.
+
+================================================================================
+# VOID ZOMBIE
+================================================================================
+
+VOID ZOMBIE
+CREATURE 1
+RARE
+N
+MEDIUM
+UNDEAD
+Perception +3; darkvision
+Skills Athletics +6
+Str +3, Dex −2, Con +2, Int −5, Wis +0, Cha −2
+AC 13; Fort +7, Ref +3, Will +5
+HP 26, negative healing; Immunities death eﬀects, disease, paralyzed,
+poison; Weaknesses salt water 5, slashing 2
+Salt Water Vulnerability Salt water acts as an extremely strong acid on
+the larval akata inside the void zombie. Full immersion in salt water deals
+4d6 acid damage per round. On any round in which the void zombie takes
+damage due to its salt water weakness, the larval akata retreats to the depths
+of the void zombie’s body, causing the void zombie to become slowed 1 until
+the end of its next turn.
+Speed 25 feet
+Melee Ȱɵ ﬁst +8, Damage 1d6+3 bludgeoning
+Melee Ȱɵ feeding tendril +6 (agile), Damage 1d4+3 piercing plus Feed on Blood
+Feed on Blood Ȱɵ Requirements The void zombie’s previous action was a successful
+feeding tendril Strike against the target creature; Eﬀect The void zombie uses its
+feeding tendril to drain blood from the creature struck. The void zombie regains 4 Hit
+Points, and the creature is drained 1 until it receives healing of any kind or amount.
+
+================================================================================
+PAGE 290
+================================================================================
+
+LOCAL ORMS
+People who live by the lakes
+inhabited by legendary water
+orms have a tendency to give local
+lake monsters names that sound
+somewhat homey or even adorable.
+As a result, such creatures are often
+regarded as local mascots or goodluck charms—particularly in lakeside
+settlements that depend on ﬁshing
+as a signiﬁcant income source.
+Water Orm
+Legendary creatures lurking in remote lakes, water orms always ﬁnd their way
+into the tavern tales of lakeside communities. To some travelers, every lake of
+respectable size seems to be surrounded by towns full of ﬁshers claiming to have
+spotted a water orm. These elusive creatures inhabit lakes mainly in cool and
+gloomy regions. Some claim that water orms are an offshoot of sea serpents and
+linnorms, but no credible link between these creatures has been found.
+Water orms have many features that sea serpents do not, such as the ability
+to understand the rudiments of language. Their natural inclination to avoid
+contact and remain hidden often remains at odds with their equally compelling
+curiosity about those they might spy upon the shores of their lakes. Water orm
+sightings usually occur when they can’t help but to rise up to the surface to take
+a peek at someone (or something) particularly unusual on the beach or ﬂoating
+on the water’s surface.
+These creatures are extremely long-lived and can go for decades, or even
+centuries, with very little to eat. This allows water orms to subsist in lakes
+without surfacing for many years, even in bodies of fresh water
+without ample food sources. Water orms might lie in a silty
+lake bed for years, their elusiveness only contributing to
+their mythical reputation. When a pet or child goes
+missing near a lake, rumors might hold that the
+local water orm is responsible, leading to
+folk tales that caution residents against
+venturing out alone near the water.
+While
+most
+water
+orms
+are
+described as serpentine or long-necked
+reptiles, others look similar to bizarrely
+elongated seals or whales, impossibly large sea
+horses, or long-necked creatures with paddles resembling those of elasmosauruses.

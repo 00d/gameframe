@@ -1,0 +1,1513 @@
+# Bestiary - Creatures: L
+# Count: 20 creatures
+
+
+================================================================================
+# LANTERN ARCHON
+================================================================================
+
+LANTERN ARCHON
+CREATURE 1
+LG
+SMALL
+ARCHON
+CELESTIAL
+Perception +6; darkvision
+Languages Celestial, Draconic, Infernal
+Skills Acrobatics +8, Diplomacy +6, Religion +6
+Str –5, Dex +3, Con +1, Int –1, Wis +1, Cha +1
+AC 16; Fort +6, Ref +10, Will +4
+HP 20; Weaknesses evil 3; Resistances fire 3
+Retributive Strike Ǻȓ A lantern archon can also
+make a Retributive Strike with its light ray.
+Speed ﬂy 40 feet
+Ranged Ȱɵ light ray +8 (agile, good, ﬁre, magical,
+range 30 feet), Damage 1d4 ﬁre plus 1d4 good
+Divine Innate Spells DC 17; 4th read omens; 1st detect
+alignment (at will; evil only), heal; Cantrips (1st) light
+Gestalt ̂ˬ (concentrate, divine, transmutation) Nine lantern
+archons can use this activity, all within 1 round of the ﬁrst, to merge together to form
+a composite being for 7 rounds that appears as a glowing warrior of light. The gestalt
+has the base statistics of a legion archon (AC, saving throws, attacks, skills, Speeds,
+and so on) but the spells and special abilities of a lantern archon. Additionally, it has
+a ranged light ray Strike (+18 attack, Damage 3d4 ﬁre and 3d4 good), and the bonus
+from its Lantern of Hope increases to +3. When the gestalt separates, its remaining
+Hit Points are divided evenly among the lantern archons, and if the gestalt had fewer
+than 9 HP, some of the lantern archons die.
+Lantern of Hope Ȱɵ (concentrate, divine, enchantment, mental) The lantern archon
+shines as a beacon of hope. Good allies within 30 feet gain a +1 status bonus to
+damage rolls and to saving throws against crushing despair.
+
+================================================================================
+PAGE 28
+================================================================================
+
+ARCHON LOCATIONS
+While commonly found in Heaven,
+archons can also be encountered
+on the ﬁendish planes in their
+endless crusade against evil. On
+the Material Plane they are usually
+encountered as advisors or saviors
+to those in need.
+Horned Archon
+Horned archons are secretive and tireless sentinels and scouts, patrolling the Outer
+Sphere’s untamed wilds for evil to eliminate and keeping small communities safe from
+demons, devils, and worse. They resemble muscular humans with the head, horns,
+and legs of a stag. When requested to do so by their patrons, especially Erastil, they
+journey to the Material Plane and patrol dangerous frontier areas, secretly performing
+acts of kindness such as leading hunters to food, helping lost children, and driving off
+evil creatures. Because they roam the wilds of Nirvana and Elysium, horned archons
+are among the best at understanding the perspectives of other celestials.
+
+================================================================================
+# LEGION ARCHON
+================================================================================
+
+
+Bestiary
+Legion Archon
+Despite their ﬂaming blades and heavy armor, legion archons are the diplomats of
+peace among the archons, preferring justice via compromise and mutual beneﬁt
+rather than justice by the sword. Nonetheless, when forced to ﬁght against ﬁendish
+powers—especially ﬁends that embody the sin of wrath—legion archons don’t
+hesitate in battle, mounting offensives under divine commanders like Iomedae.
+LEGION ARCHON
+CREATURE 7
+LG
+MEDIUM
+ARCHON
+CELESTIAL
+Perception +15; darkvision
+Languages Celestial, Draconic, Infernal; tongues
+Skills Acrobatics +13, Athletics +14, Diplomacy +16, Intimidation +16, Religion +13,
+Survival +14
+Str +5, Dex +2, Con +4, Int +1, Wis +2, Cha +5
+Items full plate
+AC 27; Fort +17, Ref +11, Will +15; +1 status to all saves vs. magic
+HP 100; Weaknesses evil 10; Resistances ﬁre 15
+Menacing Guardian (aura, divine, enchantment) As horned archon, but DC 23.
+Retributive Strike Ǻȓ A legion archon can also make a Retributive Strike by throwing
+its ﬂame of justice.
+Speed 30 feet, ﬂy 60 feet
+Melee Ȱɵ ﬂame of justice +18 (magical, versatile P), Damage
+2d10+5 slashing plus 1d6 ﬁre and 1d6 good
+Ranged Ȱɵ ﬂame of justice +15 (magical, range
+increment 30 feet, versatile P), Damage 2d10+5
+slashing plus 1d6 ﬁre and 1d6 good
+Divine Innate Spells DC 24; 4th dimension door (at
+will); 1st true strike (×3); Cantrips (4th) light,
+message; Constant (5th) tongues
+Archon’s Door As horned archon.
+Flame of Justice (divine, evocation)
+A
+legion
+archon’s
+spirit
+of
+righteousness manifests in its
+hands as a mighty two-handed
+sword
+called
+the
+ﬂame
+ARCHON AESTHETICS
+While archons do not seek to
+gather or maintain wealth, they
+do appreciate beauty and art, and
+their domains are often decorated
+with valuable crafts and creative
+works. Their armor and weapons
+are similarly ornate, and they
+always clean and polish their gear
+after battle. Archons value order—
+and thus tidiness—in all things.
+of justice. A legion archon can throw its ﬂame of justice as a ranged weapon. If
+disarmed or thrown, the ﬂame of justice vanishes after landing or dealing damage
+and reappears in the legion archon’s hands again instantly. On a critical hit, the ﬁre
+damage from the ﬂame of justice deals maximum damage (6 on the d6) before being
+doubled for the critical hit, and the target takes 1d10 persistent ﬁre damage.
+
+================================================================================
+PAGE 30
+================================================================================
+
+OTHER ARCHONS
+Many other archons than those
+presented here patrol Heaven or
+crusade in the ﬁendish planes,
+including the resolute hound
+archon soldiers and sentinels,
+and the supreme bastion archons,
+who rank among Heaven’s most
+powerful defenders.
+Shield Archon
+Shield archons defend the fortresses of Heaven against ﬁendish incursions. They
+wield their spears and shields in massive formations capable of withstanding any
+onslaught. Beneath their armor, they are sheathed in skin of steel. Given their
+tremendous strength and imposing stature, shield archons are ideal guardians
+of the meek and are sometimes summoned to the Material Plane to ward off the
+attacks of great numbers of evildoers.
+
+================================================================================
+# LYRAKIEN
+================================================================================
+
+LYRAKIEN
+CREATURE 1
+CG
+TINY
+AZATA
+CELESTIAL
+Perception +8; darkvision
+Languages Celestial, Common, Draconic, Infernal
+Skills Acrobatics +9, Diplomacy +6, Performance +8, Religion +6, Stealth +7
+Str –2, Dex +4, Con +1, Int +1, Wis +3, Cha +3
+AC 17; Fort +4, Ref +7, Will +6
+HP 25; Weaknesses cold iron 3, evil 3
+Speed 25 feet, ﬂy 50 feet
+Melee Ȱɵ ﬁst +9 (agile, chaotic, ﬁnesse, good, magical), Damage 1d4–2 bludgeoning
+plus 1 chaotic and 1 good
+Ranged Ȱɵ starlight ray +9 (chaotic, good, light, range 10 feet), Damage 1d4
+chaotic and 1d4 good
+Divine Innate Spells DC 17; 4th read omens; 1st detect alignment (at will; evil
+only), heal, illusory object; Cantrips (1st) dancing lights, daze, detect magic;
+Constant (4th) freedom of movement
+Starlight Blast ʚʖ (chaotic, good, light) The lyrakien unleashes a blast
+of holy starlight in a 5-foot burst centered on itself. Creatures in the
+area take 1d6 chaotic damage and 1d6 good damage (DC 17 basic
+Reﬂex save). The lyrakien can’t use Starlight Blast or its starlight
+ray ranged attack for 1d4 rounds.
+
+================================================================================
+PAGE 32
+================================================================================
+
+WANDERING AZATAS
+While the idyllic realm of Elysium
+is the home plane of azatas, their
+overwhelming curiosity and
+natural wanderlust often lead
+them to travel far from this plane.
+On other planes, they can be
+seeking to right wrongs, looking
+for entertainment, or merely
+exploring to see the sights. More
+than a few azatas, taken by a
+whimsical urge to spread their
+sometimes unwelcome jocosity,
+see it as their duty to tease uptight
+or humorless mortal creatures.
+Gancanagh (Passion Azata)
+Gancanaghs are lovers, revelers, and dashing duelists of Elysium. Embodiments of
+free love, they eagerly throw themselves into courting targets for brief but earnest
+ﬂings until their quicksilver passions change their desires. They serve Cayden
+Cailean as well as other bacchanalian deities and empyreal lords of Elysium
+who understand their desires for love and parties. Gancanaghs hate evil beings
+that profane the spirit of romance and passion, as such creatures (especially the
+demonic tempters known as succubi) reinforce stigmas against open and free love.
+One can give no greater insult to a gancanagh than to mistake him for such a
+creature, and more than one hotheaded gancanagh has challenged a misinformed
+paladin or other champion of good to a duel over such a slight. While they enjoy
+drinking and carousing, gancanaghs can’t stand smoke. Nonetheless, many
+gancanaghs carry whimsical-looking smoking pipes because they think it makes
+them look dapper. They cherish their silver ﬂutes, for they enjoy the beauty of
+ﬂutes’ music and its ability to sway the heart.
+The majority of gancanaghs present themselves as male, but the concept of
+gender to a creature like a gancanagh, which can change its shape freely,
+is much more ﬂuid and open to interpretation than for many mortals.
+Gancanaghs enjoy using this ﬂexibility to confront and test mortals’
+convictions when faced with fear or prejudice, but when encountering
+mortals who themselves are open-minded about sexuality or gender identity,
+they can become lifelong allies. For those who are persecuted for such reasons,
+gancanaghs are tireless defenders and eager supporters, quick to provide safety
+and to punish those who would attempt to impose narrower beliefs upon a
+world that deserves more diversity than it often gets. If possible, a gancanagh
+seeks to educate and redeem those who hold destructive beliefs or prejudices,
+resorting to combat only to defend themself or an endangered mortal, or when
+no other option seems tenable—yet even then, they ﬁght with sadness.
+
+================================================================================
+# LILLEND
+================================================================================
+
+
+Bestiary
+AZATA TREASURES
+While azatas would like to think
+they are above material wealth,
+the truth is that most azatas adore
+ﬁnery and displays of beauty or
+grandeur. They might explain away
+bejeweled weapons as necessary
+tools against the forces of evil,
+or the wild array of jewelry and
+silks they wear as important
+diplomatic tools.
+Lillend (Muse Azata)
+Lillends are tale-tellers, chroniclers, and champions of freedom of expression.
+They are generally peaceful, but are quick to act if a masterful piece of art
+is threatened or free speech is suppressed. They pride themselves on inspiring
+mortals to greater heights of expression and creativity, and more than one bard
+looks to a lillend as their personal inspiration. Lillends sometimes secretly
+follow the adventures of mortal heroes to record their stories as epic poems
+and songs, which they then perform in the packed mead halls of Elysium. When
+pursuing such goals, lillends take pains to use their innate spells to remain in
+hiding, as they would rather observe and record events without “polluting” them
+with their own intervention. Nevertheless, a lillend who sees their charge faced
+with certain death often cannot resist the urge to intervene and save the day.
+Inevitably, this brings a close to the lillend’s chronicles, as their relationship with
+their subject invariably shifts from one of detached observation to friendship
+or more. Yet lillends remain hesitant to involve themselves for
+overlong in a mortal’s life, in part because they fear what sort of
+ﬁendish attention their presence might attract, but mostly out
+of respect for the mortal’s own destiny. A lillend would, all
+things being equal, prefer to let mortals choose their own
+fate rather than run the risk of sending someone down
+a path to which their heart is not set.
+LILLEND
+CREATURE 7
+CG
+LARGE
+AZATA
+CELESTIAL
+Perception +16; darkvision
+Languages Celestial, Draconic, Infernal; speak
+with animals, speak with plants, tongues
+Skills Acrobatics +14, Deception +16, Diplomacy
++18, Nature +14, Performance +20, Religion
++14, Survival +12
+Str +4, Dex +3, Con +5, Int +2, Wis +3,
+Cha +5
+Items +1 longsword, virtuoso harp
+AC 25; Fort +14, Ref +16, Will +16
+HP 145; Weaknesses cold iron 10, evil 10
+Free Expression A lillend’s auditory and
+sonic eﬀects attempt to counteract
+any eﬀect that would directly control,
+manipulate, or prevent them from
+expressing themself freely, such as
+silence. She can also spend an action,
+which has concentrate trait, to speak
+forcefully and counteract such eﬀects.
+Speed 25 feet, ﬂy 45 feet
+Melee Ȱɵ longsword +18 (chaotic,
+magical, versatile P), Damage 1d8+10
+slashing plus 1d6 chaotic and 1d6 good
+Melee Ȱɵ tail +18 (agile, magical, reach 10 feet),
+Damage 2d6+10 bludgeoning plus 1d6 chaotic,
+1d6 good, and Grab
+Divine Innate Spells DC 26; 4th counter
+performance, hallucinatory terrain, heal, inspire
+heroics, sound burst, suggestion; 3rd sleep; 2nd
+darkness, invisibility; 1st charm; Cantrips (4th)
+daze, detect magic, ghost sound, inspire competence,
+inspire courage, light; Constant (5th) tongues; (4th)
+speak with plants; (2nd) speak with animals
+
+================================================================================
+PAGE 34
+================================================================================
+
+OTHER AZATAS
+The wilds of Elysium play host
+to a wide array of azatas, the
+most varied and widespread of
+the celestials. From the foureyed mothlike uinuja to the
+supernaturally verdant and
+beautiful veranallia, whose lower
+body is a wondrous garden of
+wildﬂowers and plant life, azatas
+are nothing if not diverse!
+Ghaele (Crusader Azata)
+Ghaeles are ﬁend-hunting knights of Elysium and champions of the freedom to take
+up arms against oppressors and other evils. Ghaeles rarely engage directly in mortal
+wars, but where ﬁends are involved they make an exception. A ghaele might assume
+the guise of a mortal to ﬁght ﬁends alongside others, hoping to bolster morale and
+teach good tactics against such supernatural foes. Ghaeles serve various deities and
+empyreal lords of Elysium, though many have an afﬁnity for Cayden Cailean in
+his capacity as a champion of freedom and defender of the downtrodden. Among
+azatas, ghaeles are generally the quickest to shift to violence as a method of solving
+problems, but even then they seek to minimize pain and suffering when they can.
+
+================================================================================
+# LEOPARD
+================================================================================
+
+
+Bestiary
+Cat
+Few predators of the natural world can match the cat’s talent for stalking
+and stealth.
+Leopard
+Leopards are among the smallest of the big cats, yet they are still dangerous
+creatures to tangle with. Leopard statistics can also be used for black panthers,
+white-spotted snow leopards, or tawny-coated cougars.
+LEOPARD
+CREATURE 2
+N
+MEDIUM
+ANIMAL
+Perception +7; low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +8, Athletics +7, Stealth +8 (+11 in undergrowth)
+Str +3, Dex +4, Con +2, Int –4, Wis +1, Cha –2
+AC 18; Fort +8, Ref +10, Will +5
+HP 30
+Speed 30 feet, climb 20 feet
+Melee Ȱɵ jaws +10 (ﬁnesse), Damage 1d10+3 piercing plus Grab
+Melee Ȱɵ claw +10 (agile, ﬁnesse); Damage 1d6+3 slashing
+Maul Ȱɵ The leopard makes two claw Strikes against a creature it has grabbed. Both
+count toward its multiple attack penalty, but the penalty increases only after both
+attacks are made.
+Pounce Ȱɵ The leopard Strides and makes a Strike at the end of that movement. If the
+leopard began this action hidden, it remains hidden until after this ability’s Strike.
+Sneak Attack The leopard deals 1d4 extra precision damage to ﬂat-footed creatures.
+Lion
+Lions are cooperative hunters, ambushing dangerous prey in groups of lionesses
+that work in tandem to trap and kill their prey. Male lions are typically larger,
+with long manes, and when they hunt, they tend to do so on their own.
+
+================================================================================
+# LION
+================================================================================
+
+Maul Ȱɵ The leopard makes two claw Strikes against a creature it has grabbed. Both
+count toward its multiple attack penalty, but the penalty increases only after both
+attacks are made.
+Pounce Ȱɵ The leopard Strides and makes a Strike at the end of that movement. If the
+leopard began this action hidden, it remains hidden until after this ability’s Strike.
+Sneak Attack The leopard deals 1d4 extra precision damage to ﬂat-footed creatures.
+Lion
+Lions are cooperative hunters, ambushing dangerous prey in groups of lionesses
+that work in tandem to trap and kill their prey. Male lions are typically larger,
+with long manes, and when they hunt, they tend to do so on their own.
+LION
+CREATURE 3
+N
+LARGE
+ANIMAL
+Perception +9; low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +8, Athletics +11, Stealth +10
+Str +4, Dex +3, Con +2, Int –4, Wis +2, Cha –2
+AC 19; Fort +9, Ref +10, Will +7
+HP 45
+Speed 30 feet
+Melee Ȱɵ jaws +11, Damage 1d10+6 piercing plus Grab
+Melee Ȱɵ claw +11 (agile); Damage 1d8+6 slashing
+Pack Attack The lion deals 1d4 extra damage to any
+creature that’s within reach of at least two of the
+lion’s allies.
+Pounce Ȱɵ The lion Strides and makes a Strike at the
+end of that movement. If the lion began this
+action hidden, it remains hidden until after
+the ability’s Strike.
+Sneak Attack The lion deals 1d6 extra precision
+damage to ﬂat-footed creatures.
+Tiger
+Tigers are solitary and territorial
+hunters, using their striped hides to
+blend into the forests and jungles they
+call home and preferring to attack
+with surprise.
+DOMESTICATING BIG CATS
+While it’s common practice to keep
+a house cat in the home to ward
+oﬀ unwanted rodents, keeping
+a big cat for a pet is a diﬀerent
+matter entirely. Nevertheless,
+up-and-coming merchant lords,
+impetuous princes and princesses,
+and status-obsessed nobles
+have tried to do just that, often
+resulting only in terriﬁed house
+staﬀ and ruined upholstery. Many
+among the idle rich will gladly pay
+for the services of an unscrupulous
+druid or ranger who promises to
+help them achieve their dreams
+of an oversized feline friend, but
+the dire risks of such an endeavor
+are enough to dissuade even the
+greediest would-be animal trainers
+from even attempting the feat.
+
+================================================================================
+PAGE 54
+================================================================================
+
+
+================================================================================
+# LEUKODAEMON
+================================================================================
+
+
+Bestiary
+leukodaemons cooperate with each other and those who conjure them to mortal
+worlds to spread sickness and plague, eschewing personal glory for end results.
+LEUKODAEMON
+CREATURE 9
+NE
+LARGE
+DAEMON
+FIEND
+Perception +20; darkvision, plaguesense 60 feet
+Languages Common, Daemonic; telepathy 100 feet
+Skills Acrobatics +18, Intimidation +18, Medicine +20, Religion +20, Stealth +18, Survival +16
+Str +6, Dex +5, Con +1, Int +3, Wis +5, Cha +3
+Items +1 striking composite longbow (50 arrows)
+Plaguesense A leukodaemon senses any creature with a disease, and it knows the type
+and current stage of all diseases carried by any creature within range.
+AC 28; Fort +15, Ref +21, Will +19; +1 status to all saves vs. magic
+HP 155; Immunities death eﬀects, disease; Weaknesses good 10
+Infectious Aura (aura, disease) 30 feet. Leukodaemons radiate infection. All creatures
+within 30 feet of a leukodaemon take a –2 status penalty to saves against disease
+eﬀects. If a creature within range contracts or progresses a disease, all adjacent
+creatures are exposed to the same disease, at the same DC.
+Speed 25 feet, ﬂy 40 feet
+Melee Ȱɵ jaws +21 (disease, evil, magical, reach 10 feet), Damage 2d12+9 piercing plus
+1d6 evil and daemonic pestilence
+Melee Ȱɵ claw +21 (agile, disease, evil, magical, reach 10 feet), Damage 2d8+9
+slashing plus 1d6 evil and daemonic pestilence
+Ranged Ȱɵ composite longbow +21 (deadly 1d10, disease, evil,
+magical, propulsive, range increment 100 feet, reload 0, volley
+30 feet), Damage 2d8+9 piercing plus 1d6 evil and Daemonic
+Pestilence
+Divine Innate Spells DC 26; 5th dimension door; 4th
+dimension door (at will), dispel magic (×2); 1st detect
+alignment (at will; good only)
+Breath Weapon ʚʖ
+(evocation,
+divine)
+The
+leukodaemon exhales a cloud of corpse-bloated,
+biting black ﬂies in a 20-foot cone. Creatures within
+the cone take 4d8 piercing damage (DC 28 basic Reﬂex save).
+A creature that fails the save becomes sickened 1 (or sickened 2 on a critical failure).
+Daemonic Pestilence (disease) The leukodaemon can telepathically communicate
+with the aﬄicted creature at any distance on the same plane; Saving Throw DC 28
+Fortitude; Stage 1 carrier (1 day); Stage 2 drained 1 (1 day); Stage 3 drained 2 (1 day);
+Stage 4 drained 2 (1 day); Stage 5 drained 3 (1 week); Stage 6 dead
+Quicken Pestilence Ȱɵ (divine, manipulate, necromancy) The leukodaemon coaxes
+a disease into full bloom. It chooses a target in its aura of pestilence that’s
+currently aﬀected by a disease. That creature must attempt a Fortitude
+save against the disease as if the interval for the disease’s current stage
+had passed.
+Astradaemon (Void Daemon)
+These unnerving, almost reptilian daemons represent death by direct assault
+against a soul or life-force—the same numbing death they bring with their fell
+touch. Rarely seen on the Material Plane, astradaemons spend most of their
+time hunting the pathways between the living world and the afterlife. There,
+they capture migrating souls, snatching them from their rightful rewards or
+punishments and dragging them to Abaddon as tribute to their undying masters.
+These horrifying predators of the dead can also be found stalking the banks of
+the River of Souls in the Astral Plane, where they constantly hunt for new victims.
+Psychopomps have a particular hatred of astradaemons as a result, and clashes
+between them and these eerie hunters of the recently departed are indeed the stuff
+of legend.
+THE DAEMONIC PARADOX
+Daemons embody a fundamental
+paradox—while they are
+incarnations of death and seek
+to devour all that lives, they are
+themselves living creatures. Some
+speak of a glorious end time after
+which reality will ﬁnally be free
+of the contagion that is life itself.
+Most daemons give no thought to
+this paradox.
+
+================================================================================
+PAGE 74
+================================================================================
+
+Not all astradaemons limit their hunt to souls. The most notorious of their kind
+serve the Horsemen themselves as assassins.
+
+================================================================================
+# LEMURE
+================================================================================
+
+
+Bestiary
+Devil
+Masters of corruption and architects of conquest, devils seek both to tempt mortal
+life to join in their pursuit of all things profane and to spread tyranny throughout
+all worlds. The temptations they offer mortals range from great powers granted
+by the signing of an infernal contract to twisted favors following a whispered
+pledge to a diabolic patron, or any number of even subtler exchanges. Those who
+succumb to these temptations ﬁnd themselves consigned to an afterlife of endless
+torment in the pits of Hell, wherein the only hope of escape lies in the chance of
+being promoted to become a devil in the infernal ranks. Every devil has a speciﬁc
+role to play in the upkeep of the remorseless bureaucratic machine that is Hell,
+from soldiers and scholars to inquisitors, lawyers, judges, and executioners. Lowly
+lemures and imps perform subservient labor to more powerful and specialized
+devils, such as contract devils and erinyes, while the greatest pit ﬁends command
+entire infernal armies.
+Lemure
+These shapeless masses of quivering ﬂesh are the least of devilkind. Pathetic creatures
+from Hell’s ﬁrst layer, lemures roam alongside damned and suffering souls. Pit
+ﬁends can combine the essence of a mob of lemures to concentrate their collective
+wickedness with a single form, granting it an infernal sentience and transforming it
+into a more powerful devil (see the pit ﬁend’s Devil Shaping ability).
+LEMURE
+CREATURE 0
+LE
+MEDIUM
+DEVIL
+FIEND
+MINDLESS
+Perception +0; greater darkvision
+Skills Athletics +5
+Str +2, Dex +0, Con +3 Int –5, Wis +0, Cha –3
+AC 13; Fort +10, Ref +5, Will +3
+HP 20; Immunities ﬁre, mental; Weaknesses
+good 3; Resistances physical 3 (except
+silver), poison 5
+Speed 20 feet
+Melee Ȱɵ claw +7 (evil, magical), Damage
+1d4+2 slashing plus 1 evil
+Subservience Lemures have little
+drive of their own, but other devils
+can take command of them. A nonlemure devil can issue a command
+to all lemures within 60 feet of it
+with a single action, which has the
+auditory and concentrate traits. The devil
+picks one of the following orders lemures can understand, and the
+lemures follow that order. The command and its eﬀects end once
+the commander is out of the lemure’s sight, a new command is
+issued by the same or another devil, or the lemure dies.
+•
+Kill The lemure attacks one target the commander
+singles out and gains a +1 circumstance bonus to attack
+rolls against the target.
+•
+Defend The lemure circles the commander and
+attacks any creature that comes near. It gains a +1
+circumstance bonus to AC and saves.
+• Fetch The lemure gains a +10–foot circumstance
+bonus to its Speed and attempts to get an object
+or person the commander singles out. It attacks
+anyone and anything that gets in the way.
+•
+Work The lemure performs drudge work
+dictated by the commander.
+DIABOLIC DIVINITIES
+Many unique and powerful devils
+hold positions of power in Hell.
+The most numerous of these are
+the infernal dukes, many of whom
+were promoted to this position
+from already impressive statures
+as pit ﬁends. The supreme ruler of
+Hell itself is Asmodeus, the Prince
+of Darkness. Between these two
+tiers rule the eight archdevils—see
+the sidebar on the facing page.
+
+================================================================================
+PAGE 88
+================================================================================
+
+ARCHDEVILS
+At any one time, eight archdevils
+rule the eight upper layers of Hell,
+while the deepest layer is ruled
+by Asmodeus. Each archdevil is a
+unique demigod with a dedicated
+role in guiding the infernal machine
+forward. Barbatos is the doorwarden
+of Hellʼs uppermost layer, while
+Dispater rules Hellʼs largest city.
+Mammon guards Hellʼs treasuries,
+and Belial designs new weapons
+for Hellʼs legions. Geryon is the
+oldest archdevil and keeper of many
+secrets, while Moloch leads Hellʼs
+armies. Baalzebul is a brooding
+archdevil who has fallen from
+Asmodeusʼs favor, while mighty
+Mephistopheles was formed from
+the plane of Hell itself.
+Imp
+Imps are inﬁltrators and corruptors who, despite their diminutive stature, are
+more than capable of subtly inﬂuencing a weak-willed individual into performing
+increasingly evil acts over time. An imp will often agree to serve a mortal and
+act docile and loyal in a long-term plot to eventually damn its master’s soul to
+Hell. Imps are born directly from Hell itself, rather than from mortal souls, and
+thus they serve outside the usual diabolic hierarchy, granting them leeway to
+pursue their specialties. Despite standing a mere 2-feet tall, imps can be vicious
+combatants, ﬂying out of reach and turning invisible to escape should the odds
+turn against them.
+
+================================================================================
+# LIVING WHIRLWIND
+================================================================================
+
+Circling Attack ʚʖ The zephyr hawk Flies up to half its Speed, makes two wing
+Strikes, then Flies up to half its Speed again to return to its original location. The
+second half of this movement doesn’t trigger reactions. Both attacks count toward
+the zephyr hawk’s multiple attack penalty, but the penalty doesn’t increase until
+after it makes both attacks.
+Living Whirlwind
+A living whirlwind resembles a roughly humanoid-shaped dust devil.
+LIVING WHIRLWIND
+CREATURE 5
+N
+MEDIUM
+AIR
+ELEMENTAL
+Perception +10; darkvision
+Languages Auran
+Skills Acrobatics +16, Stealth +14
+Str +3, Dex +5, Con +2, Int –2, Wis +1, Cha +0
+AC 24; Fort +9, Ref +16, Will +10
+HP 50; Immunities bleed, paralyzed, poison, sleep
+Disperse Ǻȓ Trigger The living whirlwind takes damage from a hostile action.
+Eﬀect The living whirlwind disperses. Until the end of the current turn, it can’t
+be attacked or targeted, doesn’t take up space, and any auras or emanations it has are
+suppressed. At the end of the turn, the living whirlwind reforms in any space in
+which it can ﬁt within 25 feet of where it dispersed and any auras or emanations it
+has are restored as long as their duration didn’t run out while it was dispersed.
+Speed ﬂy 50 feet; swiftness
+Melee Ȱɵ gust +14 (ﬁnesse, reach 10 feet), Damage 2d6+7 bludgeoning plus Push
+5 feet
+Swiftness The living whirlwind’s movement doesn’t trigger reactions.
+Invisible Stalker
+Invisible stalkers have a poor opinion of mortals due to the
+unsavory nature of the violent tasks summoners usually call
+them to the Material Plane to perform.
+
+================================================================================
+# LIVING LANDSLIDE
+================================================================================
+
+Earth Glide The sod hound can Burrow through any earthen
+matter, including rock. When it does so, the sod hound moves at
+its full burrow Speed, leaving no tunnels or signs of its passing.
+Living Landslide
+Living landslides resemble humanoids made of earth
+and gravel.
+LIVING LANDSLIDE
+CREATURE 5
+N
+MEDIUM
+EARTH
+ELEMENTAL
+Perception +12; darkvision, tremorsense (imprecise) 60 feet
+Languages Terran
+Skills Athletics +14, Stealth +8
+Str +5, Dex –1, Con +4, Int –2, Wis +1, Cha –1
+Earthbound When not touching solid ground, the living landslide is
+slowed 1 and can’t use reactions.
+AC 21; Fort +15, Ref +8, Will +10
+HP 90; Immunities bleed, paralyzed, poison, sleep
+Crumble Ǻȓ Trigger The living landslide takes damage from a hostile
+source while atop rock or earth. Eﬀect The living landslide crumbles into
+the ground, Burrowing down 10 feet. This Burrowing does not trigger
+reactions. The living landslide can’t Crumble again for 1d4 rounds.
+Speed 25 feet, burrow 25 feet; earth glide
+Melee Ȱɵ ﬁst +16 (reach 10 feet), Damage 2d8+8 bludgeoning
+Earth Glide As sod hound.
+Xorn
+These squat, rotund elementals have three legs, three arms,
+three eyes, and one massive maw, which they ﬁll with the gems
+and metals they ﬁnd so delicious.
+
+================================================================================
+# LIVING WILDFIRE
+================================================================================
+
+Living Wildfire
+Living wildﬁres appear as humanoids made of living ﬁre.
+LIVING WILDFIRE
+CREATURE 5
+N
+MEDIUM
+ELEMENTAL
+FIRE
+Perception +10; darkvision, smoke vision
+Languages Ignan
+Skills Acrobatics +13
+Str +3, Dex +4, Con +2, Int –2, Wis +3, Cha +0
+Smoke Vision The living wildﬁre ignores the concealed condition from smoke.
+AC 22; Fort +11, Ref +15, Will +10
+HP 80, explosion; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 5
+Explosion (ﬁre) When the living wildﬁre dies, it explodes, dealing 3d6 ﬁre damage
+to each creature in a 10-foot emanation (DC 19 basic Reﬂex save).
+Speed 50 feet
+Melee Ȱɵ tendril +15 (agile, ﬁnesse, reach 10 feet), Damage 2d6+6 ﬁre plus
+2d4 persistent ﬁre
+Ranged Ȱɵ ﬁre mote +15 (range increment 60 feet), Damage 2d6+3 ﬁre
+Salamander
+Salamanders have serpentine lower torsos, but humanoid upper bodies
+with toothy reptilian snouts. Their afﬁnity for cruelty and violence puts
+them in close alliance with the demons of the Abyss.
+
+================================================================================
+# LIVING WATERFALL
+================================================================================
+
+Deep Plunge Ȱɵ The brine shark dives straight down into the water, moving up to twice its
+swim Speed in a straight vertical line. It can use this ability while grabbing a creature.
+Living Waterfall
+Living waterfalls are humanoid-shaped columns of churning water.
+LIVING WATERFALL
+CREATURE 5
+N
+LARGE
+AQUATIC
+ELEMENTAL
+WATER
+Perception +10; darkvision
+Languages Aquan
+Skills Athletics +13, Stealth +12
+Str +4, Dex +3, Con +3, Int –2, Wis +1, Cha +0
+Water-Bound When not touching water, the
+living waterfall is slowed 1 and can’t use
+reactions.
+AC 20; Fort +14, Ref +12, Will +10
+HP 90; Immunities bleed, paralyzed,
+poison, sleep; Resistances ﬁre 5
+Vortex (aura, water) 30 feet.
+Water in the area that is in the
+same body of water as the living
+waterfall is diﬃcult terrain for
+Swimming creatures that don’t
+have the water trait.
+Speed 20 feet, swim 60 feet
+Melee Ȱɵ wave +15 (reach 10
+feet), Damage 2d8+7 bludgeoning
+plus Push or Pull 5 feet
+Drench Ȱɵ (abjuration, primal, water)
+The elemental puts out all ﬁres in a
+5-foot emanation. It extinguishes all
+non-magical ﬁres automatically and
+attempts to counteract magical ﬁres (+14
+counteract modiﬁer).
+Quatoid
+Quatoids are peculiar, mysterious elementals
+native to the Plane of Water that resemble fourtentacled octopuses with eerily humanoid
+faces on their mantles.
+
+================================================================================
+PAGE 154
+================================================================================
+
+MONSTROUS ELEMENTALS
+Some elementals are more than
+living incarnations of air, earth,
+ﬁre, or water. Creatures like the
+genie (pages 162–165), the uthul
+(page 317), or the zaramuun (page
+339) have their own complex
+ecologies and societies. While
+these creatures originally hail
+from an Elemental Plane, they can
+often be found on the Material
+Plane as well.
+
+================================================================================
+# LESSER DEATH
+================================================================================
+
+(6th) true seeing; (3rd) haste; (2nd) see invisibility
+Death Strike (death) A creature critically hit by any of the grim reaper’s attacks or that
+critically fails against any of its spells must succeed at a DC 47 Fortitude save or die.
+Energy Drain When the grim reaper hits and deals damage with its scythe, it regains 20 Hit
+Points, and the target must succeed at a DC 43 Fortitude save or become doomed 1. If the
+target is already doomed, the doomed value increases by 1 (to a maximum of doomed 3).
+Final Death A creature killed by the grim reaper can’t be brought back to life by any
+means short of divine intervention.
+Infuse Weapon (divine, evocation) Any scythe gains the agile trait, can’t be disarmed,
+and becomes a +3 major striking keen scythe while the grim reaper wields it. If the
+grim reaper Strikes a creature with a weakness to any speciﬁc type of damage, the
+scythe’s damage counts as that type of damage, in addition to slashing.
+Lesser Death
+No one is quite sure what lesser deaths are, though some
+claim that they are avatars of the grim reaper. Unlike that
+strange hunter, however, lesser deaths hunt in packs on
+rare occasions. More often than not, they manifest from
+cursed magic items. Other times, they are just the enactors
+of death, hunting in the same way the grim reaper does—
+silently, with neither remorse nor quarter. Rarely, multiple
+lesser deaths work together to cull a large population, their
+scythes cutting through crowds and leaving entire cities
+devoid of life, inspiring (hopefully) false rumors of
+multiple grim reapers.
+LESSER DEATH
+CREATURE 16
+RARE
+NE
+MEDIUM
+UNDEAD
+Perception +32; darkvision, see invisibility,
+status sight, true seeing
+Languages Common, Necril
+Skills Acrobatics +33, Athletics +28, Deception +30,
+Intimidation +32, Religion +30, Society +26, Stealth +35
+Str +6, Dex +9, Con +6, Int +4, Wis +6, Cha +6
+Items scythe
+Death’s Grace As grim reaper.
+Status Sight As grim reaper.
+AC 39; Fort +30, Ref +33, Will +32, +1 status to all saves
+vs. magic
+HP 255, negative healing; Immunities death eﬀects, disease,
+paralyzed, poison, unconscious
+Aura of Misfortune (aura, divination, divine, misfortune) 20 feet.
+As grim reaper.
+Negative Healing A lesser death can choose whether or not it takes
+positive damage.
+Lurking Death Ǻȓ (teleportation) As grim reaper, except the triggering
+creature must be within 60 feet.
+Speed 50 feet, ﬂy 40 feet
+Melee Ȱɵ keen scythe +32 (agile, deadly 2d10, magical, reach 10 feet, trip), Damage
+3d10+14 slashing plus 1d12 negative
+Divine Innate Spells DC 38; Constant (6th) true seeing; (3rd) haste; (2nd) see invisibility
+Infuse Weapon (divine, evocation) Any scythe gains the agile trait, can’t be disarmed,
+and becomes a +2 greater striking keen scythe while the lesser death wields it.
+
+================================================================================
+PAGE 199
+================================================================================
+
+Bestiary
+ELDRITCH GODS
+Gugs don’t traditionally make
+religion and faith a key part of
+their society, but gug cities always
+feature prominent temples to
+obscure gods whose faith has
+passed from view on most mortal
+worlds. Most gugs certainly know
+of entities such as Azathoth,
+Nyarlathotep, and Yog-Sothoth,
+but even among gugs, these
+Outer Gods are more feared and
+respected than prayed to.
+Gug
+A gug’s most horrid feature is its barrel-shaped head, which splits vertically to
+reveal numerous rows of sharp, yellow teeth and an open throat. Its eyes on
+either side of its head-jaw are small but keen. Bony ridges protect its eyes from the
+frantic ﬂailing of its prey, as it prefers meals of raw and writhing meat over fungi
+and molds. It grips said prey with powerful arms that split at the elbow into a pair
+of forearms, giving it four clawed paws. These monstrous brutes are covered with
+shaggy black fur, often crusted with blood and gore.
+Although gugs may seem bestial, they have keen and wicked intellects. Gugs
+lair far underground, but they sometimes come to the surface to hunt during dark
+nights, either alone or in small groups. As they possess voracious appetites, most
+gugs consume the creatures they catch, but some instead kidnap their victims
+and retreat below the surface, leaving only a lingering stench and odd, clawed
+paw-prints. Victims are taken to rancid lairs marked
+with strange runes and sacriﬁced to the gugs’ wicked
+gods of blood, darkness, and nightmares. Dire rumors
+tell of lightless gug cities made of titanic blocks of
+stone far underground, where powerful gug leaders
+preach their vile doctrines to mobs of howling gugs.
+Gugs have a strange relationship with ghouls, which
+seems to date from their shared origin in a distant subterranean
+world. Gugs live in fear of ghouls, despite towering over them;
+however, this strange fear doesn’t apply to ghasts, whom gugs
+consume as voraciously as they do other creatures.
+Gugs stand 16 feet tall and weigh 2,000 pounds,
+although they have an eerie, graceful gait that belies
+their immense size. Their light step and ability
+to squeeze through very small crannies makes
+gugs common bogeymen in tales of strange
+disappearances or bloody massacres.
+Some particularly bloodthirsty gugs gain
+awful powers as gifts from their eldritch
+patrons. These monsters are known as savants,
+are never less than 12th level in power, and gain several occult innate spells.
+Though each savant’s precise mix of spells varies, normally, these spells grant
+invisibility, offer power to manipulate and change rock, or invoke awful and
+destructive energies upon living ﬂesh.
+
+================================================================================
+# LAMIA
+================================================================================
+
+LAMIA
+CREATURE 6
+CE
+LARGE
+BEAST
+Perception +13; darkvision
+Languages Abyssal, Common
+Skills Cult Lore +11, Deception +15, Diplomacy +11, Intimidation +13,
+Stealth +15, Survival +11
+Str +5, Dex +3, Con +2, Int +1, Wis +3, Cha +3
+Items javelin (2), +1 spear
+AC 24; Fort +12, Ref +15, Will +15
+HP 95
+Speed 40 feet
+Melee Ȱɵ spear +17, Damage 1d6+8 piercing
+Melee Ȱɵ claw +17 (agile), Damage 1d6+8 slashing plus Grab
+Ranged Ȱɵ spear +14 (thrown 20 feet, versatile S), Damage 1d4+8 piercing
+Ranged Ȱɵ javelin +15 (thrown 30 feet), Damage 1d6+8 piercing
+Occult Innate Spells DC 25; 4th charm (×3), suggestion; 3rd sleep; 2nd humanoid
+
+================================================================================
+PAGE 218
+================================================================================
+
+OTHER LAMIAS
+Adventurers report encounters
+with other varieties of lamia,
+including immense versions
+with the upper torsos of giants,
+monstrosities driven by insatiable
+hunger, or ﬂying buzzard-like
+beasts with hardly any humanoid
+features, yet all of these variants
+bow to the wisdom and inﬂuence
+of the lamia matriarchs.
+form (at will), mirror image; 1st illusory disguise (at will), illusory object (at will),
+ventriloquism (at will)
+Lamia’s Caress ʚʖ (curse, enchantment, mental, occult) The lamia touches a creature,
+who must succeed at a DC 23 Will save or become stupeﬁed 1. If the target fails
+additional saves against this ability, the condition value increases by 1 (to a maximum
+of stupeﬁed 4). This condition value decreases by 1 every 24 hours.
+Lamia Matriarch
+The brilliant and powerful lamia matriarchs possess boundless ambition, always
+seeking to bring more people and territory into the clutches of their kind.
+Consequently, the become rulers of other lamia. For all their cruelty toward
+other creatures, they’re ﬁerce protectors of other lamia, and consequently they
+quickly come to rule cults or warbands. Regardless of the lamia’s gender, these
+ascended lamias are always known as matriarchs. Rather than leonine limbs,
+a lamia matriarch’s lower body is formed in the winding coils of a giant
+snake. They’re also set apart by the occult power they pursue, and some have
+even have grand designs to break the animalistic curse that transformed
+them. However, every attempt so far has led to the
+matriarch’s fall.
+
+================================================================================
+# LAMIA MATRIARCH
+================================================================================
+
+
+OTHER LAMIAS
+Adventurers report encounters
+with other varieties of lamia,
+including immense versions
+with the upper torsos of giants,
+monstrosities driven by insatiable
+hunger, or ﬂying buzzard-like
+beasts with hardly any humanoid
+features, yet all of these variants
+bow to the wisdom and inﬂuence
+of the lamia matriarchs.
+form (at will), mirror image; 1st illusory disguise (at will), illusory object (at will),
+ventriloquism (at will)
+Lamia’s Caress ʚʖ (curse, enchantment, mental, occult) The lamia touches a creature,
+who must succeed at a DC 23 Will save or become stupeﬁed 1. If the target fails
+additional saves against this ability, the condition value increases by 1 (to a maximum
+of stupeﬁed 4). This condition value decreases by 1 every 24 hours.
+Lamia Matriarch
+The brilliant and powerful lamia matriarchs possess boundless ambition, always
+seeking to bring more people and territory into the clutches of their kind.
+Consequently, the become rulers of other lamia. For all their cruelty toward
+other creatures, they’re ﬁerce protectors of other lamia, and consequently they
+quickly come to rule cults or warbands. Regardless of the lamia’s gender, these
+ascended lamias are always known as matriarchs. Rather than leonine limbs,
+a lamia matriarch’s lower body is formed in the winding coils of a giant
+snake. They’re also set apart by the occult power they pursue, and some have
+even have grand designs to break the animalistic curse that transformed
+them. However, every attempt so far has led to the
+matriarch’s fall.
+LAMIA MATRIARCH
+CREATURE 8
+CE
+LARGE
+BEAST
+Perception +15; darkvision
+Languages Abyssal, Common, Draconic
+Skills Athletics +18, Cult Lore +15, Deception +20, Diplomacy +20, Intimidation
++18, Occultism +17, Stealth +16, Survival +13
+Str +6, Dex +4, Con +3, Int +3, Wis +3, Cha +6
+Items +1 striking scimitar
+AC 27; Fort +13, Ref +18, Will +17; +1 status to all saves vs. magic
+HP 135; Immunities controlled; Resistances mental 10
+Speed 30 feet, climb 30 feet, swim 30 feet
+Melee Ȱɵ scimitar +19 (forceful +2, sweep), Damage 2d6+10 slashing
+Occult Spontaneous Spells DC 28; 3rd (4 slots) dispel magic, enthrall,
+haste, mind reading; 2nd (4 slots) blur, death knell, illusory creature,
+invisibility; 1st (4 slots) bless, magic missile, phantom pain,
+soothe; Cantrips (3rd) daze, detect magic, mage hand,
+prestidigitation, read aura
+Occult Innate Spells DC 28; 4th charm (×3), suggestion (×3), 3rd
+sleep; 2nd illusory disguise (at will), illusory object (at will),
+mirror image; 1st ventriloquism (at will)
+Change Shape Ȱɵ
+(concentrate,
+occult,
+polymorph,
+transmutation) The lamia matriarch can take on the
+appearance of a Medium humanoid. This doesn’t change
+their Speed or their attack and damage modiﬁers with
+their Strikes, but it does prevent them from using their
+cursed touch. Each lamia matriarch has a ﬁxed humanoid form—
+they cannot adopt a diﬀerent appearance each time they use this
+ability, and the appearance resembles that of their upper torso
+when in their true form.
+Dervish Strike ̂ˬ The lamia matriarch makes a scimitar
+attack against each enemy within reach. Each attack counts
+toward their multiple attack penalty, but the penalty does
+not increase until after all the attacks. The ﬁrst enemy she
+damages is subject to matriarch’s caress.
+Matriarch’s Caress ʚʖ (curse, enchantment, mental, occult) As
+Lamia’s Caress, but DC 28, and the creature is stupeﬁed 2 (or has
+its existing stupeﬁed increased by 2) if it critically fails.
+
+================================================================================
+PAGE 219
+================================================================================
+
+Bestiary
+ASSOCIATED MONSTERS
+Because of their relative frailty,
+leaf leshys frequently act as
+liaisons and call upon more
+powerful forest guardians when
+their domains are threatened.
+Nymphs, sprites, and other goodly
+fey may respond to the call of a
+leaf leshy, as do arboreals and
+other plant creatures.
+Leshy
+Leshys are intelligent plant creatures that guard areas of primeval wilderness or
+earthly power. Originally created by powerful fey, they manifest when a skilled
+practitioner of primal magic—typically a druid—combines a nature spirit with
+a body carefully grown from local vegetation. The rites and materials required
+to create a leshy vary depending on the type of leshy. They are typically given
+life in an area of great natural signiﬁcance, such as an arboreal’s grove, a druidic
+circle, a fairy ring, or a great natural wonder.
+Leaf Leshy
+Leaf leshys are diminutive protectors of forests clad in pine cone armor and hats
+of fruit, ﬂowers, or leaves. They enjoy mock battles but act cautiously in real ones.
+
+================================================================================
+# LEAF LESHY
+================================================================================
+
+
+Bestiary
+ASSOCIATED MONSTERS
+Because of their relative frailty,
+leaf leshys frequently act as
+liaisons and call upon more
+powerful forest guardians when
+their domains are threatened.
+Nymphs, sprites, and other goodly
+fey may respond to the call of a
+leaf leshy, as do arboreals and
+other plant creatures.
+Leshy
+Leshys are intelligent plant creatures that guard areas of primeval wilderness or
+earthly power. Originally created by powerful fey, they manifest when a skilled
+practitioner of primal magic—typically a druid—combines a nature spirit with
+a body carefully grown from local vegetation. The rites and materials required
+to create a leshy vary depending on the type of leshy. They are typically given
+life in an area of great natural signiﬁcance, such as an arboreal’s grove, a druidic
+circle, a fairy ring, or a great natural wonder.
+Leaf Leshy
+Leaf leshys are diminutive protectors of forests clad in pine cone armor and hats
+of fruit, ﬂowers, or leaves. They enjoy mock battles but act cautiously in real ones.
+LEAF LESHY
+CREATURE 0
+N
+SMALL
+LESHY
+PLANT
+Perception +4; low-light vision
+Languages Common, Druidic, Sylvan; speak with plants (trees only)
+Skills Acrobatics +4, Nature +4, Stealth +4
+Str –1, Dex +2, Con +2, Int –2, Wis +2, Cha +1
+Items longspear
+AC 18; Fort +6, Ref +6, Will +4
+HP 15, Weaknesses ﬁre 2
+Verdant Burst (healing) When a leaf leshy dies, a burst of primal
+energy explodes from its body, restoring 1d4 Hit Points to each plant
+creature in a 30-foot emanation. This area is ﬁlled with tree saplings,
+becoming diﬃcult terrain. If the terrain is not a viable environment
+for these trees, they wither after 24 hours.
+Speed 25 feet; glide
+Melee Ȱɵ longspear +3 (reach 10 feet), Damage 1d8–1 piercing
+Ranged Ȱɵ seedpod +6 (range increment 30 feet), Damage 1d6
+bludgeoning plus deafening blow
+Primal Innate Spells DC 14; 4th speak with plants
+Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation)
+The leaf leshy transforms into a Small tree. This ability otherwise
+uses the eﬀects of tree shape.
+Deafening Blow When a leaf leshy hits with its seedpod
+Strike, the target must attempt a DC 16 Fortitude save.
+Critical Success The target is unaﬀected and temporarily
+immune for 24 hours.
+Success The target is unaﬀected.
+Failure The target is deafened for 1 round.
+Critical Failure The target is deafened for 1 minute.
+Glide Ȱɵ (move) The leshy glides gently through the air, moving
+5 feet toward the ground and up to 25 feet forward. As long
+as the leshy spends at least 1 action gliding each round, it
+remains in the air at the end of each turn. For the purpose of
+determining damage from falls, a leaf leshy always treats falls
+as if they were 20 feet shorter.
+Gourd Leshy
+Gourd leshys are guardians of ﬁelds, gardens, and
+farms. Many villages beneﬁt from the protection of a
+gourd leshy, even if they are unaware of it.
+
+================================================================================
+# LICH
+================================================================================
+
+
+LICH TREASURE
+The lair of a lich is usually ﬁlled
+with several magical treasures,
+particularly items that the undead
+can use based on its spellcasting
+abilities. Scrolls, wands, and
+staves are quite common,
+as are books of lore and
+tomes containing entirely
+new spells.
+AlTERNaTE LICH ABIlITIES
+Although the abilities on page 220 are standard for a lich, you can create a
+more unusual lich by substituting any one of the following abilities for frightful
+presence, hand of the lich, Drain Phylactery, or paralyzing touch.
+Blasphemous Utterances (arcane, aura, enchantment, mental) 10 feet. The lich is
+accompanied by a constant echo of blasphemous murmurs and tainted whispers. A
+creature in the aura takes a –2 circumstance penalty to saves against mental eﬀects
+and can’t take actions that have the concentrate trait unless they succeed at a DC 10
+ﬂat check. Failing this check wastes the action.
+Cold Beyond Cold The lich’s hand Strike deals cold damage instead of negative, and
+instead of being paralyzed, the target is slowed 2. A successful Fortitude save reduces
+this to slowed 1 (or negates it on a critical success).
+Dark Deliverance The lich has resistance to positive equal to its level.
+Siphon Life Ǻȓ Trigger The lich deals damage with its hand Strike. Eﬀect The lich regains
+Hit Points equal to half the damage dealt.
+Void Shroud (aura, death, necromancy) 30 feet. The lich is surrounded by an aura of death,
+drawing forth souls to be consumed by the lich’s constant hunger. Living creatures in
+the emanation take a –2 status penalty to saves against fear and death eﬀects. In
+addition, any creature that starts its turn in the area gains the doomed 1 condition
+unless it succeeds at a Will save against the lich’s spell DC – 4.
+Lich
+A wizard whose insatiable desire for arcane power eclipsed their
+mortal life, the lich is a truly devious and versatile spellcaster.
+LICH
+CREATURE 12
+RARE
+NE
+MEDIUM
+UNDEAD
+Perception +20; darkvision
+Languages Abyssal, Aklo, Common, Draconic, Elf, Infernal, Necril,
+Undercommon
+Skills Arcana +28, Crafting +24 (can craft magic items), Deception +17,
+Diplomacy +19, Religion +22, Stealth +20
+Str +0, Dex +4, Con +0, Int +6, Wis +4, Cha +3
+Items potion of invisibility, scroll of teleport, greater staﬀ of ﬁre
+AC 31; Fort +17, Ref +21, Will +23; +1 status to all saves vs. positive
+HP 190, negative healing, rejuvenation; Immunities death eﬀects, disease,
+paralyzed, poison, unconscious; Resistances cold 10, physical 10 (except
+magic bludgeoning)
+Frightful Presence (aura, emotion, fear, mental) 60 feet, DC 29
+Counterspell Ǻȓ Trigger A creature casts a spell the lich has prepared. Eﬀect
+The lich expends a prepared spell to counter the triggering creature’s
+casting of that same spell. The lich loses its spell slot as if it had cast the
+triggering spell. The lich then attempts to counteract the triggering spell.
+Speed 25 feet
+Melee Ȱɵ hand +24 (ﬁnesse, magical), Damage 4d8 negative plus
+paralyzing touch
+Arcane Prepared Spells DC 36, attack +26; 6th chain lightning, dominate,
+vampiric exsanguination; 5th cloudkill, cone of cold (×2), wall of ice; 4th
+dimension door, dispel magic, ﬁre shield, ﬂy; 3rd blindness, locate, magic
+missile, vampiric touch; 2nd false life, mirror image, resist energy, see invisibility;
+1st ﬂeet step, ray of enfeeblement (×2), true strike; Cantrips (6th) detect magic,
+mage hand, message, ray of frost, shield
+Drain Phylactery Ȳ˓ 6th level
+Paralyzing Touch (arcane, curse, incapacitation, necromancy) DC 32
+Steady Spellcasting If a reaction would disrupt the lich’s spellcasting
+action, the lich attempts a DC 15 ﬂat check. On a
+success, the action isn’t disrupted.
+
+================================================================================
+PAGE 223
+================================================================================
+
+Bestiary
+UNIQUE LICHDOM
+The exact ritual, ingredients
+for deadly concoctions, and
+magical conditions required to
+become a lich are unique and
+diﬀerent for every living creature.
+Understanding a spellcaster’s path
+to lichdom can help, but is no
+guarantee of success for others.
+LICH PHYLACTERY
+ITEM 12
+RARE
+ARCANE
+NECROMANCY
+NEGATIVE
+Price 1,600 gp
+Usage held in 1 hand; Bulk —
+This item is crafted by a spellcaster who wishes to become a lich. When a lich is
+destroyed, its soul ﬂees to the phylactery. The phylactery then rebuilds the lich’s undead
+body over the course of 1d10 days. Afterward, the lich manifests next to the phylactery,
+fully healed and in a new body (therefore, it lacks any equipment it had on its old body).
+A lich’s phylactery must be destroyed to prevent a lich from returning.
+The standard phylactery is a sealed metal box containing strips of parchment inscribed
+with magical phrases. This box has Hardness 9 and 36 HP, but some liches devise more
+durable or diﬃcult-to-obtain phylacteries. A phylactery might also come in the form of a
+ring, an amulet, or a similar item; the speciﬁcs are up to the creator.
+Demilich
+Demiliches are formed when a lich, through carelessness or by accident, loses its
+phylactery. As years pass, the lich’s body crumbles to dust, leaving only the skull
+as the seat of its necromantic power. The lich enters a sort of torpor, its mind left
+wandering the planes in search of ever greater mysteries. The lich gradually loses
+the ability to cast spells and its magic items slowly subsume into its new form.
+Negative energy concentrates around the skull, causing some of its bones and
+teeth to petrify with power and turn into blight crystals. The resulting lich skull,
+embedded with arcane gemstones and suffused with palpably powerful magic,
+forms a creature called a demilich.
+Despite its near-constant state of inactivity, a demilich grows restless from time
+to time, especially when living creatures draw near. Only then does the demilich’s
+hunger for life stir once more, causing it to lash out with terrifying bursts of power
+in attempts to consume vital energy. Unlike an ordinary lich, should the demilich’s
+skull be destroyed, its bond to the world is permanently severed, although some
+theorize that even then it is not truly slain. Rather, some think that once the
+demilich is destroyed, its foul and tormented mind is ﬁnally free to wander the
+planes and ﬁnd new ways to enact its will. For the short-lived common folk of the
+Material Plane, this is good enough, though eons later a demilich may reappear
+in the region it once inhabited with a new—and even more insidious—agenda.
+
+================================================================================
+# LIZARDFOLK DEFENDER
+================================================================================
+
+
+Bestiary
+LIZARDFOLK RELATIONS
+Though most are neutral in
+alignment, the typical iruxi’s pride
+in their traditions, suspicion of
+others, and need to protect their kin
+can make them seem standoﬃsh or
+even aggressive when encountered.
+However, most are eager to learn
+from visitors, trade stories
+and equipment, and
+forge alliances.
+Lizardfolk
+When human scholars speak of ancient civilizations, they usually turn their
+focus to themselves, researching and lecturing on the ﬁrst human empires.
+When they drift to others, they invariably look to cultures that had conﬂicts
+or alliances with ancient humanity. That the culture of the people called
+lizardfolk often gets ignored or forgotten even by well-meaning researchers is
+thus no surprise, but to the lizardfolk themselves it is no matter. They know
+their history and value its integrity and privacy—if younger ancestries like
+humanity aren’t interested in learning from lizardfolk empires dating back
+to before the ﬁrst human knocked two rocks together to make their ﬁrst
+campﬁre, that’s ﬁne with them.
+The word “lizardfolk” is an excellent example of humanity’s narrowsighted view of this culture. The name of their people is “iruxi,”
+but these reptilian humanoids have patiently and
+good-naturedly accepted the name “lizardfolk” as
+a variant, and they generally resist urges
+to call humans and other mammalians
+similarly derivative names in return.
+Iruxis dwell and thrive in all
+tropical and temperate biomes, but
+they are most at home in swamplands,
+coastal regions, and riverlands, for they
+are talented swimmers, and ﬁsh and
+aquatic plants make up a large part of their
+preferred diets.
+Lizardfolk Defender
+The lizardfolk defender serves as a protector of the young,
+guardian of the settlement, and when no other options are available,
+soldier in time of war. They eagerly rise to the defense of their kin but
+do not revel in battle. An iruxi defender would rather turn back intruders
+and allow them to ﬂee with the knowledge they were beaten, in hopes that
+such word prevents further invasions, but they are not naive. The iruxi
+understand the need for revenge, and when they allow a foe to escape,
+they do not forget.
+LIZARDFOLK DEFENDER
+CREATURE 1
+N
+MEDIUM
+HUMANOID
+LIZARDFOLK
+Perception +7
+Languages Draconic, Iruxi
+Skills Acrobatics +5, Athletics +6, Survival +5
+Str +3, Dex +2, Con +3, Int –1, Wis +2, Cha +0
+Items ﬂail, javelin (3), wooden shield (Hardness 3, HP 12, BT 6)
+AC 16 (18 with shield raised); Fort +8, Ref +7, Will +5
+HP 21
+Attack of Opportunity Ǻȓ
+Shield Block Ǻȓ
+Speed 25 feet, swim 15 feet
+Melee Ȱɵ ﬂail +8 (disarm, sweep, trip), Damage 1d6+3 bludgeoning
+Melee Ȱɵ jaws +8, Damage 1d6+3 piercing
+Melee Ȱɵ tail +8 (agile), Damage 1d4+3 bludgeoning
+Ranged Ȱɵ javelin +7 (thrown 30 feet), Damage 1d6+3 piercing
+Deep Breath A lizardfolk defender can hold their breath for 175 rounds
+(17-1/2 minutes).
+Terrain Advantage Non-lizardfolk creatures in diﬃcult terrain and nonlizardfolk creatures that are in water and lack a swim Speed are ﬂat-footed
+to the lizardfolk defender.
+
+================================================================================
+PAGE 232
+================================================================================
+
+LIZARDFOLK SOCIETY
+Iruxis are, as a general rule,
+quite religious. Those who
+venerate deities typically look to
+Gozreh, but some of them ﬁnd
+the teachings of Desna to be
+compelling. Most iruxis, though,
+instead follow druidic traditions,
+ancestor worship, and astrological
+philosophies in particular.
+Lizardfolk Scout
+Iruxi scouts are the lizardfolk most often encountered by adventurers, for
+these explorers and hunters spend most of their lives on the move, constantly
+patrolling the territories held by their enclave. If intruders are driven off, it is the
+responsibility of the iruxi scouts to track them, observe them, and learn their ways
+and weaknesses so as to report back to the community and aid in the defense
+against potential reprisals.
+
+================================================================================
+# LIZARDFOLK SCOUT
+================================================================================
+
+
+LIZARDFOLK SOCIETY
+Iruxis are, as a general rule,
+quite religious. Those who
+venerate deities typically look to
+Gozreh, but some of them ﬁnd
+the teachings of Desna to be
+compelling. Most iruxis, though,
+instead follow druidic traditions,
+ancestor worship, and astrological
+philosophies in particular.
+Lizardfolk Scout
+Iruxi scouts are the lizardfolk most often encountered by adventurers, for
+these explorers and hunters spend most of their lives on the move, constantly
+patrolling the territories held by their enclave. If intruders are driven off, it is the
+responsibility of the iruxi scouts to track them, observe them, and learn their ways
+and weaknesses so as to report back to the community and aid in the defense
+against potential reprisals.
+LIZARDFOLK SCOUT
+CREATURE 1
+N
+MEDIUM
+HUMANOID
+LIZARDFOLK
+Perception +8
+Languages Common, Draconic, Iruxi
+Skills Acrobatics +6, Athletics +5, Diplomacy +4, Nature +6, Stealth +6, Survival +8
+Str +2, Dex +3, Con +1, Int –1, Wis +3, Cha +1
+Items blowgun (10 darts, 1 of which is coated with giant centipede venom)
+AC 17; Fort +6, Ref +8, Will +6
+HP 17
+Speed 25 feet, swim 20 feet
+Melee Ȱɵ jaws +7, Damage 1d6+2 piercing
+Melee Ȱɵ tail +8 (agile, ﬁnesse), Damage 1d4+2 bludgeoning
+Ranged Ȱɵ blowgun +8 (agile, nonlethal, range increment 20 feet, reload 1), Damage
+1 piercing plus giant centipede venom
+Deep Breath As lizardfolk defender, but 150 rounds (15 minutes).
+Hidden Movement If the lizardfolk scout starts its turn undetected
+by a creature or hidden from it, that creature is ﬂat-footed against the scout’s
+attacks until the end of the scout's turn.
+Giant Centipede Venom (poison); Saving Throw DC 17 Fortitude; Maximum Duration
+6 rounds; Stage 1 1d6 poison damage (1 round); Stage 2 1d8 poison damage and
+ﬂat-footed (1 round); Stage 3 1d12 poison damage, clumsy 1, and ﬂat-footed (1 round)
+Sneak Attack The lizardfolk scout deals an extra 1d6 precision damage to
+ﬂat-footed creatures.
+Terrain Advantage As lizardfolk defender.
+Lizardfolk Stargazer
+The tradition of astrology and looking to the stars for both
+navigation and prognostication is well-established in iruxi society,
+and their wise and observant stargazers are among the people’s
+most respected members. Even the lowliest stargazer, as presented
+here, has a number of useful primal spells to aid their kin; in larger
+iruxi settlements, stargazers wield even greater powers.
+
+================================================================================
+# LIZARDFOLK STARGAZER
+================================================================================
+
+1 piercing plus giant centipede venom
+Deep Breath As lizardfolk defender, but 150 rounds (15 minutes).
+Hidden Movement If the lizardfolk scout starts its turn undetected
+by a creature or hidden from it, that creature is ﬂat-footed against the scout’s
+attacks until the end of the scout's turn.
+Giant Centipede Venom (poison); Saving Throw DC 17 Fortitude; Maximum Duration
+6 rounds; Stage 1 1d6 poison damage (1 round); Stage 2 1d8 poison damage and
+ﬂat-footed (1 round); Stage 3 1d12 poison damage, clumsy 1, and ﬂat-footed (1 round)
+Sneak Attack The lizardfolk scout deals an extra 1d6 precision damage to
+ﬂat-footed creatures.
+Terrain Advantage As lizardfolk defender.
+Lizardfolk Stargazer
+The tradition of astrology and looking to the stars for both
+navigation and prognostication is well-established in iruxi society,
+and their wise and observant stargazers are among the people’s
+most respected members. Even the lowliest stargazer, as presented
+here, has a number of useful primal spells to aid their kin; in larger
+iruxi settlements, stargazers wield even greater powers.
+LIZARDFOLK STARGAZER
+CREATURE 2
+N
+MEDIUM
+HUMANOID
+LIZARDFOLK
+Perception +8
+Languages Draconic, Iruxi
+Skills Diplomacy +4, Iruxi Lore +6, Nature +8, Stealth +6, Survival +8
+Str +2, Dex +2, Con +1, Int +0, Wis +4, Cha +0
+Items staﬀ
+AC 17; Fort +7, Ref +6, Will +10
+HP 30
+Speed 25 feet, swim 20 feet
+Melee Ȱɵ staﬀ +8 (two-hand d8), Damage 1d6+2 bludgeoning
+Melee Ȱɵ jaws +8, Damage 1d6+2 piercing
+Melee Ȱɵ tail +8 (agile, ﬁnesse), Damage 1d4+2 bludgeoning
+Primal Prepared Spells DC 20, attack +10; 1st charm, heal, magic fang, shillelagh,
+summon animal; Cantrips (1st) guidance, know direction, produce ﬂame, stabilize
+Deep Breath As lizardfolk defender, but 200 rounds (20 minutes).
+
+================================================================================
+PAGE 233
+================================================================================
+
+Bestiary
+MANTICORE TREASURE
+A manticore enjoys taking plunder
+from the corpses of its prey as
+trophies that ﬂatter its vanity and
+testify to its strength. It has little
+interest in money, but sometimes
+accepts gold and jewels as tribute.
+Manticore
+The manticore is a monstrous amalgamation of lion, dragon, and human with a
+penchant for feasting on human ﬂesh. Its distinctive tail is festooned with large
+quills like those of a porcupine, which the manticore ﬂings at prey by whipping
+its tail like a sling. These deadly spikes give the manticore the power to slaughter
+even well-armed warriors from the safety of the sky.
+Although the anthropomorphic face of the manticore suggests a keen intellect,
+most creatures of its kind are simple-minded killers. They can be clever liars,
+however, and their voices have a strangely musical sound that has lured many
+unwitting travelers into an ambush. A manticore discovered by uneducated
+humanoids (especially those who are both lawful and evil) can sometimes become
+the center of adoration and even worship; a manticore in this situation swiftly
+gives in to its laziness and allows its acolytes to bring it tribute in the form of
+food and treasure, feasting upon its own followers when offerings become scarce.
+Stronger humanoids who encounter a manticore can cow it through intimidation
+and violence, sometimes even forcing it into service as a mount. As long as the
+manticore is well fed with human ﬂesh and its master leads it to victory, a manticore
+mount can prove surprisingly loyal.
