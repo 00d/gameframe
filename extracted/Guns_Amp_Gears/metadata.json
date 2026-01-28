@@ -1,11 +1,20 @@
 {
   "source_pdf": "pathfinder-2e-guns-amp-gears_compress.pdf",
   "book_name": "Guns_Amp_Gears",
-  "total_sections": 0,
+  "total_sections": 1,
   "extraction_methods": [
     "pymupdf"
   ],
   "total_pages": 239,
   "pages_with_content": 230,
-  "sections": []
+  "sections": [
+    {
+      "type": "full_content",
+      "number": 0,
+      "title": "Full Content (Unsplit)",
+      "start_page": 1,
+      "end_page": 239,
+      "filename": "00_full_content.txt"
+    }
+  ]
 }

@@ -1,11 +1,20 @@
 {
   "source_pdf": "PF2e_Beastiary1-cropped.pdf",
   "book_name": "Beastiary1",
-  "total_sections": 0,
+  "total_sections": 1,
   "extraction_methods": [
     "pymupdf"
   ],
   "total_pages": 362,
   "pages_with_content": 362,
-  "sections": []
+  "sections": [
+    {
+      "type": "full_content",
+      "number": 0,
+      "title": "Full Content (Unsplit)",
+      "start_page": 1,
+      "end_page": 362,
+      "filename": "00_full_content.txt"
+    }
+  ]
 }

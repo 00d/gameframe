@@ -1,11 +1,20 @@
 {
   "source_pdf": "Dungeon_Slimes_Pf2e.pdf",
   "book_name": "Dungeon_Slimes_Pf2e",
-  "total_sections": 0,
+  "total_sections": 1,
   "extraction_methods": [
     "pymupdf"
   ],
   "total_pages": 2,
   "pages_with_content": 2,
-  "sections": []
+  "sections": [
+    {
+      "type": "full_content",
+      "number": 0,
+      "title": "Full Content (Unsplit)",
+      "start_page": 1,
+      "end_page": 2,
+      "filename": "00_full_content.txt"
+    }
+  ]
 }

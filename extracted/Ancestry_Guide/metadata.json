@@ -1,13 +1,21 @@
 {
   "source_pdf": "pathfinder-2e-ancestry-guide.pdf",
   "book_name": "Ancestry_Guide",
-  "total_sections": 2,
+  "total_sections": 3,
   "extraction_methods": [
     "pymupdf"
   ],
   "total_pages": 146,
   "pages_with_content": 144,
   "sections": [
+    {
+      "type": "front_matter",
+      "number": 0,
+      "title": "Front Matter",
+      "start_page": 1,
+      "end_page": 5,
+      "filename": "00_front_matter.txt"
+    },
     {
       "type": "chapter",
       "number": 1,

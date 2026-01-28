@@ -1,2539 +1,1890 @@
-# Chapter 8: the age of lost omens
-# Pages: 17-16
+# Chapter 8: The Age of Lost Omens
+# Pages: 418-443
 
-Chapter 8: the age of lost omens
-The setting of Golarion is described in this chapter,
-including a brief overview of the world and its people,
-followed by a timeline of events. Most importantly,
-characters who venerate a deity should look to this
-chapter to find the rules associated with their faith.
-Chapter 9: Playing the Game
-This important chapter contains the universal rules
-needed to play Pathfinder, including rules for the various
-modes of play, the basic actions that every character can
-perform, the rules for combat, and the rules for death and
-dying. Every player should be familiar with this chapter,
-especially the GM.
-Chapter 10: Game Mastering
-Packed full of guidelines and advice, this chapter helps
-Game Masters tell an interesting and compelling story.
-It also includes advice on creating a fun and encouraging
-game space and guides for empowering players to create
-characters they want to play. This chapter also includes
-rules that are particularly important for the GM to know,
-such as rules dealing with traps, environmental dangers,
-and afflictions (such as curses, diseases, and poisons), as
-well as guidance on setting DCs and handing out rewards
-to player characters.
-Chapter 11: Crafting & Treasure
-The treasures characters find during their adventures
-take many forms, from gold and gemstones to powerful
-magical weapons. This chapter details guidelines for
-distributing treasure to characters, as well as descriptions
-of hundreds of magic items. This chapter also contains
-the rules for alchemical items.
-Appendices
-The back of this book has an appendix with the rules
-for all of the conditions that you will find in the game.
-This section also includes a blank character sheet, and an
-index with a comprehensive glossary of common terms
-and traits that you’ll encounter in the game.
+Chapter 8:
+The Age of Lost Omens
+Ten thousand years ago, the world of Golarion came close to ending. Earthfall, as this
+extinction-level event came to be known, saw the world pummeled by a shower of
+falling stars that sank continents, hollowed out new seas, and destroyed civilizations. It
+took centuries for the world to recover, and centuries more for society to rebuild, but
+recover it did.
+
+================================================================================
+PAGE 419
+================================================================================
+
+Beyond the Inner Sea
+The Inner Sea region consists of the continent of Avistan
+and the northern portion of the continent of Garund,
+but it is only one part of a much larger world. Garund
+itself extends further south, and its southern reaches are
+home to several unique ancestries and cultures. As one
+travels east from the Inner Sea, the vast expanse of the
+continent of Casmaron stretches beyond the horizon.
+With the immense inland Castrovin Sea at its heart,
+Casmaron is the largest of Golarion’s continents and
+home to some of its oldest and most successful empires.
+Farther east of Casmaron lies the continent of Tian Xia,
+a region often called the Dragon Empires. The northern
+section of Tian Xia connects to Golarion’s northernmost
+continent, a frozen reach known as the Crown of the
+World. This continent forms a bridge between Tian Xia
+and Avistan over the north pole. South of Tian Xia lies
+the mysterious continent of Sarusan, of which little is
+known due to the powerful storms and vexing currents
+that shroud its shores. Heading west from the Inner Sea
+region, sailors encounter the shattered remnants of lost
+Azlant, a ruined continent that hosted one of humanity’s
+first empires until it was destroyed during Earthfall.
+Sailing farther west from these ruins eventually leads
+to the shores of Arcadia, a land with unusual magical
+traditions and powerful nations of its own. And beneath
+all of these lands, carved into the planet’s very crust, lie
+the twisting tunnels of the tripartite underground realm
+known collectively as the Darklands, which houses great
+horrors and dangers but equally great opportunities for
+triumph and treasure.
+In addition, Golarion is but one of 11 worlds that
+orbit its sun. To the vast majority of the planet’s
+denizens, the other 11 worlds are little more than points
+of light in the sky, but these worlds are not so distant as
+one might expect. The planets of Akiton and Castrovel
+are Golarion’s closest neighbors. Travelers from both
+have visited and in some cases settled on Golarion,
+most notably elves, who originally hail from Castrovel.
+Even the farthest planet, remote Aucturn, has influenced
+Golarion, with its alien inhabitants exerting a sinister
+touch on the world that recently put the entire planet
+in peril. The wise thus do not discount the dangers
+and wonders that dwell on other planets of Golarion’s
+solar system.
+The Great Beyond
+Countless planets lie beyond Golarion’s solar system, but
+even these myriad worlds of the universe, known as the
+Material Plane, are but a fragment compared to what
+lies in the multiverse beyond. Other planes of existence
+and strange dimensions wrap this reality in a series of
+layered, nested spheres, known collectively as the Great
+Beyond. This model of reality is as much a metaphor
+for concepts that mortal minds have difficulty grasping
+as a physical description, for within the Great Beyond,
+anything is possible.
+Crown of the World
+Arcadia
+Azlant
+Garund
+Avistan
+Casmaron
+Tian Xia
+Sarusan
 Core Rulebook
 
 ================================================================================
-PAGE 18
+PAGE 420
 ================================================================================
 
-Format of Rules Elements
-Throughout this rulebook, you will see formatting standards that might look a
-bit unusual at first. Specifically, the game’s rules are set apart in this text using
-specialized capitalization and italicization. These standards are in place to make
-this book rules elements easier to recognize.
-The names of specific statistics, skills, feats, actions, and some other mechanical
-elements in Pathfinder are capitalized. This way, when you see the statement “a Strike
-targets Armor Class,” you know that both Strike and Armor Class are referring
-to rules.
-If a word or a phrase is italicized, it is describing a spell or a magic item. This way,
-when you see the statement “the door is sealed by lock,” you know that in this case
-the word denotes the lock spell, rather than a physical item.
-Pathfinder also uses many terms that are typically expressed as abbreviations, like
-AC for Armor Class, DC for Difficulty Class, and HP for Hit Points. If you’re ever
-confused about a game term or an abbreviation, you can always turn to the Glossary
-and Index, beginning on page 628, and look it up.
-Understanding Actions
-Characters and their adversaries affect the world of Pathfinder by using actions
-and producing effects. This is especially the case during encounters, when every
-action counts. When you use an action, you generate an effect. This effect might
-be automatic, but sometimes actions necessitate that you roll a die, and the effect is
-based on what you rolled.
-Throughout this book, you will see special icons to denote actions.
-[one-action] Single Actions
-Single actions use this symbol: [one-action]. They’re the simplest, most common type of action.
-You can use three single actions on your turn in an encounter, in any order you see fit.
-[[reaction] ]Reactions
-Reactions use this symbol: [reaction]. These actions can be used even when it’s not your
-turn. You get only one reaction per encounter round, and you can use it only when
-its specific trigger is fulfilled. Often, the trigger is another creature’s action.
-[free-action] ]Free Actions
-Free actions use this symbol: [free-action]. Free actions don’t require you to spend any of
-your three single actions or your reaction. A free action might have a trigger like
-a reaction does. If so, you can use it just like a reaction—even if it’s not your turn.
-However, you can use only one free action per trigger, so if you have multiple free
-actions with the same trigger, you have to decide which to use. If a free action
-doesn’t have a trigger, you use it like a single action, just without spending any of
-your actions for the turn.
-Activities
-Activities are special tasks that you complete by spending one or more of your actions
-together. Usually, an activity uses two or more actions and lets you do more than a
-single action would allow. You have to spend all the actions an activity requires for
-its effects to happen. Spellcasting is one of the most common activities, as most spells
-take more than a single action to cast.
-Activities that use two actions use this symbol: [two-actions]. Activities that use three
-actions use this symbol: [three-actions]. A few special activities, such as spells you can cast in
-an instant, can be performed by spending a free action or a reaction.
-All tasks that take longer than a turn are activities. If an activity is meant to
-be done during exploration, it has the exploration trait. An activity that takes a
-day or more of commitment and that can be done only during downtime has the
-downtime trait.
-[one-action]
-Single Action
-[two-actions]
-Two-Action
-Activity
-[three-actions]
-Three-Action
-Activity
-[[reaction]
-Reaction
-[free-action]
-Free Action
-Introduction
-Introduction
-Ancestries &
-Backgrounds
-Classes
-Skills
-Feats
-Equipment
-Spells
-The Age of
-Lost OMENS
-Playing the
-Game
-Game
-mastering
-Crafting
-& Treasure
-Appendix
+Inner Sphere
+The core of the multiverse is the Inner Sphere. Here, the vast expanse of the Material
+Plane and its countless worlds can be found. The Elemental Planes surround the
+Material Plane like layered shells, with the Plane of Air on the inside, transitioning
+to the Plane of Water, then to the Plane of Earth, and finally to the Plane of Fire,
+in something of a reversal of order in which these elements most often appear on
+habitable planets. The planes of Positive and Negative Energy are also within the
+Inner Sphere, their opposing nodes of life and death, creation and destruction, light
+and dark forming the start and the end of all existence.
+Outer Sphere
+The scope of reality within the Outer Sphere is difficult to grasp. Here the gods dwell
+and the souls of the dead gather to be judged by the goddess of the dead, Pharasma, atop
+the spire in the realm that is her Boneyard. Anything is possible in the Outer Sphere,
+and its realms are as much manifestations of philosophies and belief as anything else.
+From the towering mountain of Heaven to the endless gulfs of the demon-held Abyss,
+be it the agonizing pit of Hell or the boundless wonders of Elysium, all of reality is
+represented within the Outer Sphere. Over time this reality erodes away and is recycled
+back into the raw material of life within the Positive Energy Plane.
+other planes and Dimensions
+Some planes exist in the same physical or metaphysical space as others, overlapping
+these other planes like overlays of reality. They include the ghost world of the
+Ethereal Plane, which overlays the Inner Sphere; the dizzying vastness of the Astral
+Plane, which overlays almost all reality and fills the seemingly endless gulf between
+the Inner Sphere and the Outer Sphere; and the fey-haunted First World and the
+sinister Shadow Plane, which each overlay the Material Plane. Stranger reaches of
+the Great Beyond exist as well; some, such as the Dreamlands, are visited often (if
+accidentally), while others, such as the enigmatic Dimension of Time, are visited
+rarely, if ever. In all cases these dimensions cannot be accessed by normal means, and
+each has their own method of entry and exit.
+The Inner Sea Region
+Although infinite opportunities for adventure await on other continents, worlds, and
+planes, the Inner Sea region is the focus of the Pathfinder campaign setting. With
+dozens of nations, empires, frontiers, and wildlands, this region presents a huge range
+of opportunities for heroism and villainy, exploration and adventure!
+The following pages break down the Inner Sea region into 10 separate regions, each
+with its own themes. Only a brief overview of each region is presented here—enough
+to establish the setting and whet the imagination. If you’re interested in exploring
+Golarion and the Inner Sea region more, see the Pathfinder World Guide, Pathfinder
+Adventures, and Pathfinder Adventure Path volumes. Adventure paths present not only
+in-depth material about the region, but also full-length campaigns whose adventures
+bring a brand-new group of heroes all the way to the height of power!
+The year in the Inner Sea region is 4719 Absalom Reckoning (ar). As the calendar
+advances in the real world, time also progresses for Golarion. The Pathfinder Core
+Rulebook was first published in the year 2019, with the Inner Sea region’s corresponding
+year ending in the same two final digits. Golarion’s history is expansive, but two of the
+most significant events to shape the world occurred in –5293 ar, when Earthfall nearly
+brought an end to the world, and in 4606 ar, when Aroden, the god of humanity, died,
+and prophecies the world over began to fail, beginning the Age of Lost Omens.
+The map on page 416 depicts the Inner Sea region, further subdivided into the 10
+subregions explored on the following pages. The borders of these regions are thematic
+rather than political. For an in-depth exploration of the Inner Sea region and its dozens
+of nations and wildlands, see the Pathfinder Lost Omens World Guide.
+TIME
+Like Earth, Golarion spins on
+its axis once roughly every 24
+hours. A week has 7 days and
+a year has 52 weeks. To keep
+the calendar synchronized
+with the astronomical year, an
+extra leap day is tacked on to
+the second month of the year
+every 4 years.
+MONTHS AND DAYS
+The names of the months of
+the year are as follows in the
+Inner Sea region:
+Abadius ( January)
+Calistril (February)
+Pharast (March)
+Gozran (April)
+Desnus (May)
+Sarenith ( June)
+Erastus ( July)
+Arodus (August)
+Rova (September)
+Lamashan (October)
+Neth (November)
+Kuthona (December)
+The names of the days are as
+follows:
+Moonday (Monday)
+Toilday (Tuesday)
+Wealday (Wednesday)
+Oathday (Thursday)
+Fireday (Friday)
+Starday (Saturday)
+Sunday (Sunday)
+THE AGE OF LOST OMENS
 
 ================================================================================
-PAGE 19
+PAGE 421
 ================================================================================
 
-Reading Rules
-This book contains hundreds of rules elements that
-give characters new and interesting ways to respond to
-situations in the game. All characters can use the basic
-actions found in Chapter 9, but an individual character
-often has special rules that allow them to do things most
-other characters can’t. Most of these options are feats,
-which are gained by making certain choices at character
-creation or when a character advances in level.
-Regardless of the game mechanic they convey, rules
-elements are always presented in the form of a stat block,
-a summary of the rules necessary to bring the monster,
-character, item, or other rules element to life during play.
-Where appropriate, stat blocks are introduced with an
-explanation of their format. For example, the Ancestry
-section of Chapter 2 contains rules for each of the game’s
-six core ancestries, and an explanation of these rules
-appears at the beginning of that chapter.
-The general format for stat blocks is shown below. Entries
-are omitted from a stat block when they don’t apply, so not
-all rule elements have all of the entries given below. Actions,
-reactions, and free actions each have the corresponding icon
-next to their name to indicate their type. An activity that
-can be completed in a single turn has a symbol indicating
-how many actions are needed to complete it; activities that
-take longer to perform omit these icons. If a character must
-attain a certain level before accessing an ability, that level
-is indicated to the right of the stat block’s name. Rules also
-often have traits associated with them (traits appear in the
-Glossary and Index).
-Spells, alchemical items, and magic items use a similar
-format, but their stat blocks contain a number of unique
-elements (see Chapter 7 for more on reading spells, and
-Chapter 11 for more on alchemical and magic items).
-ACTION OR FEAT NAME [one-action]
-LEVEL
-TRAITS
-Prerequisites Any minimum ability scores, feats, proficiency
-ranks, or other prerequisites you must have before you can
-access this rule element are listed here. Feats also have a level
-prerequisite, which appears above.
-Frequency This is the limit on how many times you can use
-the ability within a given time.
-Trigger Reactions and some free actions have triggers that
-must be met before they can be used.
-Requirements Sometimes you must have a certain item or be
-in a certain circumstance to use an ability. If so, it’s listed
-in this section.
-This section describes the effects or benefits of a rule element.
-If the rule is an action, it explains what the effect is or what
-you must roll to determine the effect. If it’s a feat that modifies
-an existing action or grants a constant effect, the benefit is
-explained here.
-Special Any special qualities of the rule are explained in
-this section. Usually this section appears in feats you can select
-more than once, explaining what happens when you do.
+At the heart of the Inner Sea stands the Isle of Kortos,
+raised from the waters thousands of years ago as
+Aroden’s first deific act. This amazing feat marks the
+dawn of the Age of Enthronement and the first year of
+the Absalom Reckoning calendar. The city of Absalom
+itself, the largest in the Inner Sea region, sprawls on the
+southern shore of this isle, and at the city’s heart stands
+the legendary Starstone Cathedral. Within the walls of
+this structure, the Starstone ever waits to test its next
+supplicants—the few mortals who pass this mystic test
+become gods themselves. This has made Absalom an
+oft-besieged metropolis, but in its nearly 5,000 years, it
+has never once fallen.
+Absalom, called by many the City at the Center of the
+World, boasts a population of over 300,000, and its culture
+is a true melting pot in both ancestry and belief. Even the
+city’s architecture reflects this, as one might expect of a
+settlement of its age. From the towering and majestic
+temples of the Ascendant Court to the close-packed
+shops and guildhalls of the Petal District and the sagging
+shanties in the Puddles, Absalom’s neighborhoods never
+fail to present a memorable skyline. Many world-reaching
+organizations were born in Absalom, notably the
+Pathfinder Society (page 436).
+The Isle of Kortos, also known as Starstone Isle, has
+a similarly diverse ecosystem. The verdant forests and
+grasslands of the west provide many of the resources
+Absalom needs, but to the east, the rugged stony desert
+known as the Scrape, the dangerous Riven Hills, and
+the newly formed necromantic wasteland known as the
+Tyrant’s Grasp present far harsher climates. The Isle
+of Erran, just north of Starstone Isle, hosts the secondlargest city in the area, Escadar. A rough seaport with
+more than its share of shady dealings and dangerous
+types, Escadar also hosts large shipyards and maintains
+a strong navy that helps to keep the surrounding waters
+of the Inner Sea safe. A number of smaller islands also
+skirt the coast of the Isle of Kortos—some barren, some
+serving as hideouts for criminals and outcasts.
+Rising from the center of the Isle of Kortos are the
+Kortos Mounts, a short but rugged range of tors that
+have, over the years, been ruled by minotaurs, harpies,
+dragons, and worse. A few treacherous passes allow
+travel through the mountains, but with the northern
+shore of the Isle of Kortos being dominated by the soggy
+tangles of Dunmire, these northern reaches offer little to
+draw anyone other than bandits and adventurers into
+these still-untamed lands.
+Absalom and Starstone Isle
 Core Rulebook
 
 ================================================================================
-PAGE 20
+PAGE 422
 ================================================================================
 
-Character Creation
-Unless you’re the GM, the first thing you need to do when
-playing Pathfinder is create your character. It’s up to you to
-imagine your character’s past experiences, personality, and
-worldview, and this will set the stage for your roleplaying
-during the game. You’ll use the game’s mechanics to
-determine your character’s ability to perform various tasks
-and use special abilities during the game.
-This section provides a step-by-step guide for creating a
-character using the Pathfinder rules, preceded by a guide to
-help you understand ability scores. These scores are a critical
-part of your character, and you will be asked to make choices
-about them during many of the following steps. The steps of
-character creation are presented in a suggested order, but
-you can complete them in whatever order you prefer.
-Many of the steps on pages 21–28 instruct you to fill out
-fields on your character sheet. The character sheet is shown
-on pages 24–25; you can find a copy in the back of this book
-or online as a free pdf. The character sheet is designed to
-be easy to use when you’re actually playing the game—but
-creating a character happens in a different order, so you’ll
-move back and forth through the character sheet as you
-go through the character creation process. Additionally, the
-character sheet includes every field you might need, even
-though not all characters will have something to put in each
-field. If a field on your character sheet is not applicable to
-your character, just leave that field blank.
-All the steps of character creation are detailed on the
-following pages; each is marked with a number that
-corresponds to the sample character sheet on pages 24–25,
-showing you where the information goes. If the field
-you need to fill out is on the third or fourth page of the
-character sheet, which aren’t shown, the text will tell you.
-If you’re creating a higher-level character, it’s a good
-idea to begin with the instructions here, then turn to
-page 29 for instructions on leveling up characters.
-The Six Ability Scores
-One of the most important aspects of your character is
-their ability scores. These scores represent your character’s
-raw potential and influence nearly every other statistic on
-your character sheet. Determining your ability scores is
-not done all at once, but instead happens over several
-steps during character creation.
-Ability scores are split into two main groups: physical
-and mental. Strength, Dexterity, and Constitution are
-physical ability scores, measuring your character’s physical
-power, agility, and stamina. In contrast, Intelligence,
-Wisdom, and Charisma are mental ability scores and
-measure your character’s learned prowess, awareness, and
-force of personality.
-Excellence in an ability score improves the checks and
-statistics related to that ability, as described below. When
-imagining your character, you should also decide what
-ability scores you want to focus on to give you the best
-chance at success.
-Strength
-Strength measures your character’s physical power.
-Strength is important if your character plans to engage in
-hand-to-hand combat. Your Strength modifier gets added
-to melee damage rolls and determines how much your
-character can carry.
-Dexterity
-Dexterity measures your character’s agility, balance, and
-reflexes. Dexterity is important if your character plans
-to make attacks with ranged weapons or use stealth to
-surprise foes. Your Dexterity modifier is also added to
-your character’s AC and Reflex saving throws.
-Constitution
-Constitution measures your character’s overall health
-and stamina. Constitution is an important statistic for
-all characters, especially those who fight in close combat.
-Your Constitution modifier is added to your Hit Points
-and Fortitude saving throws.
-Intelligence
-Intelligence measures how well your character can learn
-and reason. A high Intelligence allows your character to
-analyze situations and understand patterns, and it means
-they can become trained in additional skills and might be
-able to master additional languages.
-Wisdom
-Wisdom measures your character’s common sense,
-awareness, and intuition. Your Wisdom modifier is added
-to your Perception and Will saving throws.
-Charisma
-Charisma measures your character’s personal magnetism
-and strength of personality. A high Charisma score helps
-you influence the thoughts and moods of others.
-Introduction
-Introduction
-Ancestries &
-Backgrounds
-Classes
-Skills
-Feats
-Equipment
-Spells
-The Age of
-Lost OMENS
-Playing the
-Game
-Game
-mastering
-Crafting
-& Treasure
-Appendix
-SPECIAL 1st
-FEATURE 1st
-FEAT 6th
-FEATURE 13th
-BACKGROUND
-FEAT 1st
-FEAT 1st
-FEAT 8th
-FEATURE 15th
-4th
-FEAT 9th
-FEATURE 3rd
-FEAT 10th
-FEATURE 17th
-8th
-16th
-11th
-HERITAGE 1st
-FEATURE 1st
-FEATURE 7th
-FEAT 14th
-2nd
-FEAT 2nd
-FEATURE 9th
-FEAT 16th
-6th
-14th
-7th
-FEAT 13th
-FEAT 4th
-FEATURE 11th
-FEAT 18th
-10th
-18th
-15th
-FEAT 17th
-FEATURE 5th
-FEAT 5th
-FEAT 12th
-FEATURE 19th
-FEAT 20th
-12th
-3rd
-20th
-19th
-READIED ITEMS
-OTHER ITEMS
-BULK
-BULK
-Ancestry Feats and Abilities
-Class Feats and Abilities
-Skill Feats
-General Feats
-Bonus Feats
-Inventory
-WORN ITEMS
-ENCUMBERED
-= 5
-MAXIMUM
-STR
-STR
-=
-BASE
-BASE
-BULK
-INVEST
-(MAX 10)
-Permission granted to photocopy for personal use only.
-CP
-SP
-GP
-PP
-BULK
-CharacterSheet.indd 581
-Hit Points
-Perception
-Skills
-Armor Class
-Saving Throws
-DECEPTION
-PERFORMANCE
-ATHLETICS
-NATURE
-INTIMIDATION
-SOCIETY
-SURVIVAL
-ARCANA
-ACROBATICS
-MEDICINE
-DIPLOMACY
-RELIGION
-CRAFTING
-OCCULTISM
-LORE
-STEALTH
-THIEVERY
-LORE
-RESISTANCES AND IMMUNITIES
-CONDITIONS
-PROF
-ITEM
-E
-L
-T
-M
-MAX HP
-BT
- CURRENT HP
-REFLEX
-ITEM
-DEX
-PROF
-WILL
-ITEM
-WIS
-PROF
-E
-L
-T
-M
-E
-L
-T
-M
-E
-L
-T
-M
-E
-L
-T
-M
-FORTITUDE
-ITEM
-CON
-PROF
-ITEM
-WIS
-PROF
-DYING
-WOUNDED
-CURRENT
-TEMPORARY
-Languages
-Class DC
-DEX
-CAP
-OR
-DC BASE
-=
-E
-L
-T
-M
-ITEM
-KEY
-PROF
-Weapon Proficiencies
-E
-L
-T
-M
-SIMPLE
-E
-L
-T
-M
-OTHER
-E
-L
-T
-M
-OTHER
-E
-L
-T
-M
-MARTIAL
-DC BASE
-=
-STR
-MODIFIER
-STRENGTH
-SCORE
-DEX
-MODIFIER
-DEXTERITY
-SCORE
-CON
-MODIFIER
-CONSTITUTION
-SCORE
-INT
-MODIFIER
-INTELLIGENCE
-SCORE
-WIS
-MODIFIER
-WISDOM
-SCORE
-CHA
-MODIFIER
-CHARISMA
-SCORE
-Melee Strikes
-Weapon
-P
-S
-B
-PROF
-STR
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-STR
-W SPEC
-OTHER
-TRAITS
-Weapon
-P
-S
-B
-PROF
-STR
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-STR
-W SPEC
-OTHER
-TRAITS
-Weapon
-P
-S
-B
-PROF
-STR
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-STR
-W SPEC
-OTHER
-TRAITS
-Weapon
-P
-S
-B
-PROF
-DEX
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-SPECIAL
-W SPEC
-OTHER
-TRAITS
-Weapon
-P
-S
-B
-PROF
-DEX
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-SPECIAL
-W SPEC
-OTHER
-TRAITS
-Weapon
-P
-S
-B
-PROF
-DEX
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-SPECIAL
-W SPEC
-OTHER
-TRAITS
-Ranged Strikes
-SENSES
-NOTES
-speed
-feet
-MOVEMENT TYPES & NOTES
-UNARMORED
-E
-L
-T
-M
-MEDIUM
-E
-L
-T
-M
-LIGHT
-E
-L
-T
-M
-HEAVY
-E
-L
-T
-M
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-STR
-PROF
-ITEM
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-CHA
-PROF
-ITEM
-=
-E
-L
-T
-M
-CHA
-PROF
-ITEM
-=
-E
-L
-T
-M
-CHA
-PROF
-ITEM
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-WIS
-PROF
-ITEM
-=
-E
-L
-T
-M
-WIS
-PROF
-ITEM
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-CHA
-PROF
-ITEM
-=
-E
-L
-T
-M
-WIS
-PROF
-ITEM
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-WIS
-PROF
-ITEM
-=
-E
-L
-T
-M
-DEX
-PROF
-ITEM
-=
-E
-L
-T
-M
-DEX
-PROF
-ITEM
-=
-E
-L
-T
-M
-DEX
-PROF
-ITEM
-Ability Scores
-HARDNESS
-Permission granted to photocopy for personal use only.
-Character
-Sheet
-PROFICIENCY
-Untrained +0
-Trained 2+Level
-Expert 4+Level
-Master 6+Level
-Legendary 8+Level
-[one-action]
- Single Action
-[two-actions]
- Two-Action Activity
-[three-actions]
- Three-Action Activity
-[free-action]
- Free Action
-[reaction]
- Reaction
-Player
-Name
-Experience
-Points (XP)
-Character
-Name
-Shield
-Ancestry and Heritage
-Background
-Class
-Size
-Alignment
-Traits
-Deity
-Level
-Hero Points
-+
-=
-MAX
-AC
-ARMOR
--
-ARMOR
--
-ARMOR
--
-ARMOR
--
+Far to the north of Absalom sprawl the Broken Lands,
+nations and wildernesses united in their shared stature
+as fractured regions—places where life itself has taken
+a blow and the struggle to survive is simply part of
+daily reality. Not all of the Broken Lands are constantly
+fraught with peril, but regardless of where one might
+settle down in these parts’ tumultuous times, danger is
+rarely far from home.
+In some cases, the breaks are political. In the northeast,
+the nation of Brevoy has hung on the edge of civil war
+for many years, as the long-running feud between the
+traditional noble houses of Issia and the mercenary
+swordlords of Rostland maintain an ongoing state of
+tension that may be nearing a breaking point. But in the
+case of the oft-contested River Kingdoms, these political
+breaks have reached something of a draw, for here it is
+said that anyone might become the ruler of a nation—if
+they have the tenacity to seize the reins of rule.
+Elsewhere in the Broken Lands, the fractures are more
+spiritual. Razmiran, for example, is ruled by the living
+god Razmir, who demands the worship of all who dwell
+within his nation’s borders and brooks no competition
+of faith. His priests act as police throughout the land,
+brutally enforcing their deity’s laws. To the north in
+Mendev, these spiritual breaks are less obvious; this
+land struggles to reclaim its heritage in the wake of a
+century of occupation by a crusading force that, until a
+few years ago, stood as a bulwark against the demons
+who ruled the lands across the river to the west.
+These western lands are truly broken, in a physical
+sense, for in the chaotic times at the dawn of the Age
+of Lost Omens, powerful agents of the demon lord
+Deskari tore a hole in reality. The resulting wound in the
+landscape allowed legions of demons to pour through
+and devastate the lands once known as Sarkoris.
+Although heroes of the Fifth Crusade recently defeated
+Deskari and closed the rift, these lands are still known
+as the Worldwound. The main threat has been quelled,
+but demons still inhabit the region, and the blighted
+landscape struggles to return to normal.
+Perhaps the strangest of the Broken Lands lie near
+its heart. The rugged hills and plains of Numeria are
+home to many Kellid clans. However, in the distant
+past, the crash of a scientifically advanced starship
+brought strange aliens, mechanical monstrosities, and
+technological wonders to Golarion, but its fiery arrival
+left large reaches of the surrounding land blighted and
+blasted even to this day.
+Broken Lands
+THE AGE OF LOST OMENS
 
 ================================================================================
-PAGE 21
+PAGE 423
 ================================================================================
 
-Ability Score Overview
-Each ability score starts at 10, representing human
-average, but as you make character choices, you’ll adjust
-these scores by applying ability boosts, which increase a
-score, and ability flaws, which decrease a score. As you
-build your character, remember to apply ability score
-adjustments when making the following decisions.
-Ancestry: Each ancestry provides ability boosts, and
-sometimes an ability flaw. If you are taking any voluntary
-flaws, apply them in this step (see the sidebar on page 24).
-Background: Your character’s background provides two
-ability boosts.
-Class: Your character’s class provides an ability boost to
-the ability score most important to your class, called your
-key ability score.
-Determine Scores: After the other steps, you apply four
-more ability boosts of your choice. Then, determine your
-ability modifiers based on those scores.
-Ability Boosts
-An ability boost normally increases an ability score’s
-value by 2. However, if the ability score to which you’re
-applying an ability boost is already 18 or higher, its value
-increases by only 1. At 1st level, a character can never
-have any ability score that’s higher than 18.
-When your character receives an ability boost, the rules
-indicate whether it must be applied to a specific ability
-score or to one of two specific ability scores, or whether it
-is a “free” ability boost that can be applied to any ability
-score of your choice. However, when you gain multiple
-ability boosts at the same time, you must apply each one to
-a different score. Dwarves, for example, receive an ability
-boost to their Constitution score and their Wisdom score,
-as well as one free ability boost, which can be applied to
-any score other than Constitution or Wisdom.
-Ability Flaws
-Ability flaws are not nearly as common in Pathfinder as
-ability boosts. If your character has an ability flaw—likely
-from their ancestry—you decrease that ability score by 2.
-Ability Modifiers
-Once you’ve finalized your ability scores, you can use them
-to determine your ability modifiers, which are used in most
-other statistics in the game. Find the score in Table 1–1:
-Ability Modifiers to determine its ability modifier.
-TABLE 1–1: ABILITY MODIFIERS
- Ability Score
-Modifier
-Ability Score Modifier
-
-–5
-14–15
-+2
-
-2–3
-–4
-16–17
-+3
-
-4–5
-–3
-18–19
-+4
-
-6–7
-–2
-20–21
-+5
-
-8–9
-–1
-22–23
-+6
-
-10–11
-+0
-24–25
-+7
-
-12–13
-+1
-etc...
-The standard method of generating ability scores that’s
-described above works great if you want to create a perfectly
-customized, balanced character. But your GM may decide to
-add a little randomness to character creation and let the dice
-decide what kind of character the players are going to play. In
-that case, you can use this alternative method to generate your
-ability scores. Be warned—the same randomness that makes
-this system fun also allows it to sometimes create characters
-that are significantly more (or less) powerful than the standard
-ability score system and other Pathfinder rules assume.
-If your GM opts for rolling ability scores, follow these
-alternative steps, ignoring all other instructions and guidelines
-about applying ability boosts and ability flaws throughout the
-character generation process.
-STEP 1: ROLL AND ASSIGN SCORES
-Roll four 6-sided dice (4d6) and discard the lowest die result.
-Add the three remaining results together and record the sum.
-(For example, if you rolled a 2, 4, 5, and 6, you would discard
-the 2 and your total would be 15.) Repeat this process until
-you’ve generated six such values. Decide which value you want
-for each of your ability scores.
-STEP 2: ASSIGN ABILITY BOOSTS AND
-ABILITY FLAWS
-Apply the ability boosts your character gains from their
-ancestry, but your character gets one fewer free ability
-boost than normal. If your character’s ancestry has any
-ability flaws, apply those next. Finally, apply one ability
-boost to one of the ability scores specified in the character’s
-background (you do not get the other free ability boost).
-These ability boosts cannot raise a score above 18. If this
-would happen, you can put the ability boost into another
-ability score instead, as if it were a free ability boost, or you
-can put it into an ability score of 17 to reach 18 and lose the
-excess increase.
-STEP 3: RECORD SCORES AND MODIFIERS
-Record the final scores and assign the ability modifiers
-according to Table 1–1. When your character receives
-additional ability boosts at higher levels, you assign them
-as any character would.
-ALTERNATIVE METHOD: ROLLING ABILITY SCORES
+The heart of the continent of Avistan has rotted.
+This region is dominated by Lake Encarthan, a large
+inland sea that was—until recently—a well-traveled hub
+for trade. To the southwest stands the militaristic nation
+of Molthune, which had long engaged in an intermittent
+war against its northern neighbor, Nirmathas, a wooded
+nation populated by folk who take their freedom
+seriously. An uprising of hobgoblins took advantage of
+this conflict, and while hostilities have since abated, the
+two nations now share their borders with a third: the
+newborn hobgoblin nation Oprak.
+North of these war-torn nations lie two other lands
+equally forged in the crucible of conflict. Until recently,
+the paladins and protectors of the small but strong
+nation of Lastwall stood fast against invasions from
+orcs, undead, and the like. The wild and rugged Hold of
+Belkzen, meanwhile, has long been held by those orcs,
+ever since they were driven up from the Darklands below
+by the dwarves during their Quest for Sky thousands of
+years ago.
+Still farther to the north is the nation of Ustalav,
+a collection of counties each beset with its own
+manifestation of horror and fear, ranging from the
+nightmarishly cosmic to the dreadfully infernal.
+It was from Ustalav that one of the greatest threats to the
+Inner Sea region emerged. The ancient lich Tar-Baphon—
+known as the Whispering Tyrant—has been defeated
+twice in the distant past—once by Aroden and once by
+the heroes of the Shining Crusade, but he has never been
+truly destroyed. When the magical seals that kept him
+imprisoned below the ominous tower of Gallowspire
+were finally sundered in 4719 ar, Tar-Baphon emerged,
+bringing with him devastation on such a scale that
+the one-time nation of Lastwall, which bore the brunt
+of his return to the world, has been utterly scoured. It
+exists now only as the Gravelands—the nation that once
+stood watch over undead uprisings now consigned to an
+undeath of its own. While heroes temporarily thwarted
+the Whispering Tyrant’s immediate plans shortly after he
+emerged, the lich remains an active menace.
+The Whispering Tyrant now rules a kingdom of the
+undead on the aptly named Isle of Terror in the center
+of Lake Encarthan. The nations lining Lake Encarthan’s
+shores have all suffered to varying degrees under the
+Whispering Tyrant’s renewed influence, and some are
+pursuing unlikely alliances to resist him. The lich is
+gathering his resources on the Isle of Terror, and none
+can say where or when he will strike next.
+Eye of Dread
 Core Rulebook
 
 ================================================================================
-PAGE 22
+PAGE 424
 ================================================================================
 
-Step 1
-Create a Concept
-What sort of hero do you want to play? The answer to
-this question might be as simple as “a brave warrior,” or as
-complicated as “the child of elven wanderers, but raised in a
-city dominated by humans and devoted to Sarenrae, goddess
-of the sun.” Consider your character’s personality, sketch out
-a few details about their past, and think about how and why
-they adventure. You’ll want to peruse Pathfinder’s available
-ancestries, backgrounds, and classes. The summaries on
-pages 22–23 might help you match your concept with some
-of these basic rule elements. Before a game begins, it’s also
-a good idea for the players to discuss how their characters
-might know each other and how they’ll work together
-throughout the course of their adventures.
-There are many ways to approach your character concept.
-Once you have a good idea of the character you’d like to
-play, move on to Step 2 to start building your character.
-Ancestry, Background, Class, or Details
-If one of Pathfinder’s character ancestries, backgrounds,
-or classes particularly intrigues you, it’s easy to build a
-character concept around these options. The summaries of
-ancestries and classes on pages 22–23 give a brief overview
-of these options (full details appear in Chapters 2 and 3,
-respectively). Each ancestry also has several heritages that
-might refine your concept further, such as a human with an
-elf or orc parent, or an arctic or woodland elf. Additionally,
-the game has many backgrounds to choose from,
-representing your character’s upbringing, their family’s
-livelihood, or their earliest profession. Backgrounds are
-detailed later in Chapter 2, beginning on page 60.
-Building a character around a specific ancestry,
-background, or class can be a fun way to interact with the
-world’s lore. Would you like to build a typical member
-of your character’s ancestry or class, as described in the
-relevant entry, or would you prefer to play a character
-who defies commonly held notions about their people?
-For example, you could play a dwarf with a wide-eyed
-sense of wonder and a zest for change, or a performing
-rogue capable of amazing acrobatic feats but with little
-interest in sneaking about.
-You can draw your concept from any aspect of a
-character’s details. You can use roleplaying to challenge
-not only the norms of Pathfinder’s fictional world, but
-even real-life societal norms. Your character might
-challenge gender notions, explore cultural identity, have a
-disability, or any combination of these suggestions. Your
-character can live any life you see fit.
-Faith
-Perhaps you’d like to play a character who is a devout
-follower of a specific deity. Pathfinder is a rich world with
-myriad faiths and philosophies spanning a wide range,
-from Cayden Cailean, the Drunken Hero of good-hearted
-adventuring; to Desna, the Song of Spheres and goddess of
-dreaming and the stars; to Iomedae, the Inheritor, goddess
-of honor, justice, and rulership. Pathfinder’s major deities
-appear on pages 437–440. Your character might be so
-drawn to a particular faith that you decide they should be a
-champion or cleric of that deity; they might instead be a lay
-worshipper who applies their faith’s teachings to daily life,
-or simply the child of devout parents.
-Your Allies
-You might want to coordinate with other players when
-forming your character concept. Your characters could
-have something in common already; perhaps they are
-relatives, or travelers from the same village. You might
-discuss mechanical aspects with the other players, creating
-characters whose combat abilities complement each
-other. In the latter case, it can be helpful for a party to
-include characters who deal damage, characters who can
-absorb damage, and characters who can provide healing.
-However, Pathfinder’s classes include a lot of choices, and
-there are many options for building each type of character,
-so don’t let these broad categories restrict your decisions.
-CHARACTER SHEET
-Once you’ve developed your character’s concept, jot down
-a few sentences summarizing your ideas under the Notes
-section on the third page of your character sheet. Record
-any of the details you’ve already decided, such as your
-character’s name, on the appropriate lines on the first page.
-ANCESTRIES AND CLASSES
-Each player takes a different approach to creating a
-character. Some want a character who will fit well into the
-story, while others look for a combination of abilities that
-complement each other mechanically. You might combine
-these two approaches. There is no wrong way!
-When you turn the page, you’ll see a graphical
-representation of ancestries and classes that provide at-aglance information for players looking to make the most of
-their starting ability scores. In the ancestries overview on
-page 22, each entry lists which ability scores it boosts, and
-also indicates any ability flaws the ancestry might have.
-You can find more about ability boosts and ability flaws in
-Ability Scores on page 20.
-The summaries of the classes on pages 22–23 list each
-class’s key ability score—the ability score used to calculate
-the potency of many of their class abilities. Characters
-receive an ability boost in that ability score when you choose
-their class. This summary also lists one or more secondary
-ability scores important to members of that class.
-Keep in mind a character’s background also affects their
-ability scores, though there’s more flexibility in the ability
-boosts from backgrounds than in those from classes. For
-descriptions of the available backgrounds, see pages 60–64.
-Introduction
-Introduction
-Ancestries &
-Backgrounds
-Classes
-Skills
-Feats
-Equipment
-Spells
-The Age of
-Lost OMENS
-Playing the
-Game
-Game
-mastering
-Crafting
-& Treasure
-Appendix
+Trade and travel rule the pathways of the so-called
+Golden Road, known for its shining sands and economic
+strength. Much of this region consists of sprawling desert
+wilderness, but this does not mean that the Golden
+Road is sparse in population. Coastlines and rivers
+serve as the lifeblood of this region, and some caravans
+brave the heat and dangers of the desert to trade across
+northern Garund. Some of the oldest nations in the
+Inner Sea region command this region, and ancient lore
+and valuable treasures can be found amid the shifting
+sands and storied cities.
+The largest of these cities is the cosmopolitan
+Katapesh, where mercantilism is overseen by a strange
+group known as the Pactmasters. Much of the trade
+in Katapesh is in goods that can be freely exported or
+imported from throughout the Inner Sea region, but
+the city does just as much business in avenues normally
+regulated to the black markets of other societies.
+Qadira’s cities may not be as individually large as
+Katapesh, but the nation’s economy is perhaps the
+strongest. It’s certainly the oldest in the region, with
+support from the long-established Padishah Empire of
+Kelesh to the east. This, coupled with the church of
+Sarenrae—perhaps the nation’s most successful cultural
+export to the rest of the Inner Sea region—has secured
+Qadira’s status as one of the most important centers of
+influence on the Golden Road.
+To the west, the five city-states of Thuvia control
+a legendary artifact called the sun orchid elixir, which
+grants near-immortality to those who consume it. This
+treasured commodity is the keystone of Thuvia’s place in
+the Golden Road. Further west, the nation of Rahadoum
+is perhaps the weakest mercantile link, but the fact that
+this society has eschewed the worship of gods to place
+its faith in the industry and talent of mortals alone gives
+the nation its own compelling draw.
+At the center of the Golden Road lies mighty Osirion,
+one of the oldest nations of the Inner Sea region. While
+Osirion was for a time ruled by Qadira, the legacies and
+monuments of its early days still stand tall and are an
+indisputable and iconic source of pride and identity to its
+people. The influence of Osirion’s artisans, philosophers,
+and spellcasters has spread far and wide, particularly via
+the Esoteric Order of the Palatine Eye, far to the north in
+Ustalav, and the faith of Nethys, whose not-so-humble
+beginnings as a mortal wizard can be traced to the very
+beginning of Osirion’s history during the ancient Age
+of Destiny.
+Golden Road
+THE AGE OF LOST OMENS
 
 ================================================================================
-PAGE 23
+PAGE 425
 ================================================================================
 
-Ancestries
+From fleets of pirates united under the Hurricane
+Queen of the Shackles to an ancient, subaquatic empire
+of shapechanging monsters led by the sinister veiled
+masters, the High Seas of Golarion present dangers
+both above and below the waves. Yet they also serve as
+important trade routes, with merchant ships traveling
+the waters to link powerful nations at opposite ends of
+continents. Sea captains brave the dangers of the High
+Seas hoping to partake in the fortunes to be made in
+trade, linking the ports of the Inner Sea itself to those
+on the shores of the Arcadian Ocean from the Mwangi
+Expanse to the Saga Lands.
+Piracy is one of the greatest dangers facing travel on
+the High Seas. The immense volcanic archipelago known
+as the Shackles serves as a haven for these pirates, with
+their Hurricane Queen providing just enough structure
+to keep them from going at each other’s throats. A great
+diversity of monsters and threats populate these islands,
+and the local pirates know which are safe and which to
+avoid. North of the Shackles lies Mediogalti Island. While
+its only significant port, Ilizmagorti, is a known safe
+harbor for pirates, it is the presence of the infamous Red
+Mantis assassins who rule the isle that gives this region
+its greatest infamy.
+Other ports present their own complications. The
+port-city of Promise on the remote isle of Hermea a few
+hundred miles west of Avistan rewards well those who
+can negotiate the privilege of trade, but such honors are
+hard won, for the dragon who rules this closed society
+does not allow just anyone to visit. Rumors of what goes
+on beyond Promise’s dock district range from tales of a
+perfect society to those of an oppressive government that
+affords no free will. Farther to the north, the elves of the
+Mordant Spire are even more closed to visitors, and for
+most sailors, the only thing the Mordant Spire offers is
+an unmistakable landmark for navigation, as the twisting
+spire can be seen for miles.
+Of all the regions along the Avistani and Garundi
+coastlines, though, none are more hazardous to travel
+than the waters tortured by the Eye of Abendego. This
+immense hurricane first formed at the onset of the Age
+of Lost Omens, when storms wracked all of Golarion in
+the wake of Aroden’s death. Unlike those other storms,
+though, this hurricane remained. Its winds and storm
+surge have destroyed several nations and transformed a
+previously key gulf into a navigational nightmare. What
+strange force caused and perpetuates the Eye of Abendego
+has, to date, eluded all investigation.
+High Seas
+Core Rulebook
+
+================================================================================
+PAGE 426
+================================================================================
+
+Magic allows for astounding feats, yet even those
+who consider themselves experts in the magical arts
+pause in wonder before the spectacles to be found in
+the Impossible Lands. What is taken for granted in
+these strange and eclectic nations would be all but
+impossible elsewhere.
+Take Geb as an example. Here, the living are the
+minority, and undeath is the predominant way of life.
+Cruelty, sadism, and violence are the norm in Geb, as
+one might expect of a land ruled by a violent, undead
+dictator. This ghost, for whom the country was named,
+has ruled his nation for thousands of years, although
+for the past several centuries the day-to-day rule of the
+land fell to his queen, Arazni. Her recent disappearance
+(many would instead say “escape”) and abandonment
+of her duties have invigorated the ghost sovereign to
+once again take active leadership of his benighted realm.
+Geb has opposed its northern neighbor, Nex, for the
+entirety of its existence. Also named after its ruler, Nex
+is a cosmopolitan realm where magic is mundane. Nex
+himself has been missing for ages, yet in his absence
+the Arclords have ruled quite effectively. Here, golems
+patrol the streets, and the practice of fleshwarping is an
+accepted and legitimate industry.
+Between these two opposed nations lies a stretch of
+land known as the Mana Wastes, a blasted and blighted
+badland formed by the ancient wars between Nex and
+Geb. The very magic of these lands is damaged—or in
+many reaches dead entirely—and peculiar mutants flop
+and prowl through the ruins in search of prey.
+Only in the duchy of Alkenstar does life approach
+anything approximating normal, but even here the
+assumptions of the rest of the world are turned on
+their head. With magic being unpredictable, Alkenstar’s
+citizens have turned instead to technology. The nation
+is home to metallurgists and machinists, and the art of
+gunsmithing gives them an excellent advantage in this
+part of the world. Exports of firearms have steadily
+increased over the years, and Alkenstar is emerging as a
+significant power of its own as a result.
+Across the waters of the Obari Ocean lies the final realm
+of the Impossible Lands: the island nation of Jalmeray.
+Here it isn’t magic alone that allows for impossibilities
+but also focused self-control and perfection of the spirit.
+The people of Jalmeray have accomplished astounding
+physical feats and achieved remarkable intellectual
+insights using nothing more than ancient traditions of
+mysticism and self-perfection.
+Impossible Lands
+THE AGE OF LOST OMENS
+
+================================================================================
+PAGE 427
+================================================================================
+
+The Mwangi Expanse is home to a wide array of
+civilizations, both past and present, even as it holds the
+largest stretch of wilderness in the Inner Sea region. In
+fact, one of the first civilizations to rise from the ashes
+after Earthfall rose here in this land—the nation of Shory
+and its astounding flying cities, from which many modern
+customs of magic stem.
+Some Mwangi cities and kingdoms were lost far more
+recently than those ancient wonders. When the Eye of
+Abendego formed just over a century ago, its winds and
+waves flooded two significant realms along Garund’s
+west coast. Where once stood the nations of Lirgen and
+Yamasa now stretch only the Sodden Lands, a swath
+of swampland and salt marshes held by rival gangs of
+scavengers and monsters. Even more recently, a powerful
+city-state in the heart of the Mwangi Jungle, Usaro, fell
+when its brutal leader, Ruthazek the Gorilla King, was
+slain by adventurers. Usaro has been without a leader for
+only a few short years, but already its violent inhabitants
+have caused significant damage in their anarchic rioting.
+A long lineage of demonically infused Gorilla Kings has
+ruled Usaro over the centuries, and so a new one will
+likely soon rise to seize control of Usaro, for the moment
+this sinister region lacks a head to focus its wrath.
+Despite these instances of ruin and destruction, the
+Mwangi Expanse hosts a wealth of diverse and powerful
+city-states within its reaches. In Bloodcove, the ruthless
+mercantile league of the Aspis Consortium rules. Farther
+south along the coast stands Senghor, whose stance
+against both piracy and slavery place the city in stark
+contrast to its northern neighbor. The city-state of
+Nantambu lies far upstream from Bloodcove on the Vanji
+River, where its citizens carry on the ancient traditions
+of Old-Mage Jatembe in combining arcane and primal
+magic. Far to the southeast stands Mzali, which lies
+under the oppressive rule of the undead child-king
+Walkena, though a group of dissidents called the Bright
+Lions works to build resistance to the mummy’s reign.
+Then there is the city of Kibwe, where within its walls
+dwell an eclectic mix of people who have journeyed
+from afar to seek trade and companionship.
+Farther south from these independent city-states lies the
+recently freed nation of Vidrian. Originally established as
+the Chelish colony of Sargava, Vidrian has now seized its
+own destiny and cast off its colonial shackles. In so doing,
+the young nation has exposed itself to the predations
+of pirates and worse, yet to its citizens, freedom from
+oppression is well worth that price.
+Mwangi Expanse
+Core Rulebook
+
+================================================================================
+PAGE 428
+================================================================================
+
+Wars several decades ago, House Thrune did little to
+provide aid. As the repercussions of the Whispering
+Tyrant’s return to power send ripples of nervous dread
+through the land, Isger’s people grow fearful that they
+lack not only their own political strength but also that of
+their supposed protector, and as a result, Isger is one of
+the lands in the Inner Sea region most in need of heroes.
+Recently, several uprisings within Cheliax have further
+tested the nation’s resolve. After a devastating nautical
+loss in the Shackles resulted in Vidrian’s independence, a
+new Iomedaean rebellion called the Glorious Reclamation
+threatened Cheliax from within. House Thrune and the
+Asmodean church defeated the Glorious Reclamation, but
+at a price—a simultaneous rebellion was successful, with
+a group of rebels called the Silver Ravens negotiating the
+successful secession of the new nation of Ravounel.
+North of Cheliax, the shadowy nation of Nidal remains
+the diabolic nation’s only real ally. A theocracy ruled by
+the church of Zon-Kuthon, Nidal is the oldest nation on
+Avistan, for its people turned to the Midnight Lord for
+protection during the Age of Darkness after Earthfall.
+Today, pain and dread are comforts to the citizens of
+Nidal, and millennia of rule under a church that revels in
+pain have left them inured to agony and welcoming of loss.
+At its height, the empire of Cheliax had holdings that
+reached from Varisia to Garund and east all the way to
+Galt. Aroden was prophesized to return to the world
+of mortals to usher in a new Age of Glory, and those
+prophecies predicted the Chelish city of Westcrown
+would be the point of his arrival. Instead, his death
+ignited a civil war that lasted for decades. When the
+Thrice-Damned House of Thrune emerged as victor,
+Cheliax had forever changed. Under House Thrune’s
+rule, Cheliax transformed into a nation that viewed Hell
+as a blueprint for government. The church of Asmodeus
+became Cheliax’s official state religion, and diabolism
+its most powerful philosophy. The devil had come home
+to rule, and while the nation’s politicians and leaders
+claimed that they maintained control of their fate­—and
+House Thrune had merely formed an alliance with Hell to
+maintain its power and keep order—the nation’s internal
+and external enemies know better.
+Many of Cheliax’s outlying provinces—such as
+Andoran, Galt, and Vidrian—revolted and became their
+own nations. The nation of Isger remains, at least on paper,
+a thrall. Cheliax values Isger for its important position as
+a trade route to the Lake Encarthan region, but when
+Isger was wracked by the violence of the Goblinblood
+Old Cheliax
+THE AGE OF LOST OMENS
+
+================================================================================
+PAGE 429
+================================================================================
+
+While the opportunity for epic adventure exists throughout
+the world, in recent years it seems the Saga Lands have
+produced the most notorious and legendary tales. These
+sprawling northern reaches feature kingdoms ruled by
+vikings and witches, realms home to mammoth-riding
+Kellid clans, and a frontier land of free cities and
+dangerous wilderness—all of which are steeped in the
+ancient legacy of the long-gone empire of Thassilon.
+Millennia ago, the nation of Thassilon was ruled by
+the sinful, tyrannical runelords. These wizards carved
+out legends intended to last for an eternity, but even
+the mighty runelords succumbed to the devastation
+of Earthfall. The seven reigning runelords of that time
+retreated into the safety of extradimensional domains,
+and for eons they slumbered, until they began to wake
+in 4707 ar.
+The frontier realm of Varisia, once the heart of
+Thassilon, bore the brunt of the wrath of the first
+wakened runelord, an avaricious sadist named Karzoug.
+A band of unlikely heroes emerged from the small
+coastal town of Sandpoint to eventually face and
+defeat Karzoug, yet his wakening soon roused other
+slumbering runelords, and a new band of heroes was
+forced to defeat the risen tyrants.
+While the neighboring Lands of the Linnorm Kings,
+Realms of the Mammoth Lords, and witch-haunted
+Irrisen never faced direct repercussions from the
+runelords, these northern lands hold dangers of their
+own. A long-running cold war between the vikings
+of the Linnorm Kingdoms and the winter witches of
+Irrisen to the east finally came to a sputtering end when
+a daughter of the immortal witch Baba Yaga attempted
+to defy her mother and usurp Irrisen’s traditions of
+rule. While the eternal winter of Irrisen set in place by
+Baba Yaga endures, its new ruler, Anastasia, may prove
+to be the first benevolent presence to sit on the throne
+in centuries. Farther to the east, the Kellid clans of the
+Realm of the Mammoth Lords played their own pivotal
+roles in defying the demons of the Worldwound.
+Recently, a new nation has risen in the Saga Lands.
+After the runelords were defeated, two surviving
+runelords decided to adjust their traditions to fit this
+strange new world they found themselves in. Now the
+fledgling nation of New Thassilon sprawls along the
+northern border of Varisia, and it remains to be seen if
+its rulers will fully adopt a more peaceful path, or if it is
+but a matter of time before the old traditions of sin and
+violence rise once again.
+Saga Lands
+Core Rulebook
+
+================================================================================
+PAGE 430
+================================================================================
+
+The empire of Taldor was historically the heart of the
+Shining Kingdoms. In the early Age of Enthronement,
+Taldor sent several Armies of Exploration to expand
+the nation’s borders and colonize the surrounding lands.
+Today, Taldor is but a shadow of its former glory, but after
+a recent bout of internal strife, a progressive new empress
+has claimed the crown, and Taldor may be on the path to
+recover its old glory for the first time in centuries.
+To the west, the democratic nation of Andoran stands
+as a rising star on the international stage. Ever since the
+province seceded from the nation of Cheliax, Andoran’s
+military has helped to stem the flow of slavery, and its
+heroes have stood tall against all manner of peril to the
+common folk. But the future doesn’t look entirely bright
+for Andoran, for with Cheliax’s recent upsets, rumors
+flow that House Thrune may seek to reclaim control
+of its wayward thrall. Given the looming threat of the
+Whispering Tyrant, an all-out war between these two
+powerful nations could be disastrous.
+Northeast of Andoran sprawls the dwarven city-states
+of the Five Kings Mountains. No strangers to war, both
+against enemies and among themselves, the dwarves of the
+Five Kings remain allies of Andoran but have their own
+troubles that command most of their attention. To the
+west of the dwarven realm, the rich and powerful nation
+of Druma controls nearly half of the lake’s southern
+shoreline and uses its position to bolster its coffers and
+further the teachings of the Prophecies of Kalistrade,
+a philosophy that teaches that wealth can be achieved
+through adherence to strict and abstemious practices.
+Northeast of Druma lie the forested elven lands
+of Kyonin, one of Avistan’s oldest nations. This land
+belonged to the elves long before Earthfall, but for
+thousands of years after that devastation, they left their
+realm abandoned. In that time, a powerful demon named
+Treerazer seized control of the forest’s southern reaches,
+corrupting the terrain into a swampy, desolate mire called
+Tanglebriar. Although the elves have returned, they’ve
+been unable to force Treerazer from their southern border.
+Still farther east is the nation of Galt. Wracked for
+decades by a self-perpetuating series of rebellions and
+revolutions, this land has been torn apart from within
+over and over. Its people are tired and desperate as they
+continue to live what lives they can in the shadow of the
+final blades—powerful magical guillotines that claim the
+souls of those they decapitate. If any of the regions of the
+Shining Kingdoms is poised for significant change in the
+near future, it is surely revolution-wracked Galt.
+Shining Kingdoms
+THE AGE OF LOST OMENS
+
+================================================================================
+PAGE 431
+================================================================================
+
+Human Ethnicities
+A variety of ethnic groups make up the human populace of the continents bordering
+Golarion’s Inner Sea. Many of these groups have origins on distant lands, but the Inner
+Sea region has a diverse population drawn from across the globe. Human characters can
+be from any of these ethnicities, regardless of what land they call home.
+Characters from these ethnicities speak Common if they come from the Inner Sea
+region, and some ethnicities give access to a regional language or another uncommon
+language (page 65). Half-elves and half-orcs arise across all human ethnicities and bear
+the features of both those ethnicities and their non-human parents.
+Garundi
+Garundi span the nations of northern Garund along the shores of the Inner Sea,
+and their clans are known for strength and empathy, treating their neighbors with
+compassion and respect. Their skin tones often range from dark brown to beige, and
+they often have tall statures, broad shoulders, and high cheekbones. Garundi have
+access to the Osiriani language.
+Keleshite
+Tracing their origins to the Keleshite Empire in the eastern deserts, Keleshites often
+have black hair, brown eyes, and dark- to cool-brown skin. Their culture takes pride
+in the empire’s legacy, valuing boldness, wit, and luxury. Fashions tend to incorporate
+flowing fabrics, headdresses, and turbans. Keleshites have access to the Kelish language.
+Kellid
+In the mountains and steppes of northern Avistan, Kellids live hard lives to survive the
+threats of the wild, wary of magic and relying on skill and might when hunting and
+fighting. They are typically a brawny and dark-haired people, tanned and bearing eyes
+that are often black, blue, or gray. Kellids have access to the Hallit language.
+Mwangi
+Spread across the vast continent of Garund, from the parched deserts in the north
+to the dense jungles of the Mwangi Expanse, the Mwangi people are divided into
+four diverse subgroups: Bekyar, Bonuwat, Mauxi, and Zenj. Mwangi skin tones
+range from black to dark-brown to ocher, and they have black or dark-brown hair.
+Mwangi have access to the Mwangi language.
+Nidalese
+Nidalese hail from a culture that escaped destruction during the Earthfall, when a
+swarm of meteoroids carved out the Inner Sea. The ancient Nidalese pledged fealty to
+an evil shadow god to obtain salvation, and the grip of Zon-Kuthon has tainted these
+people ever since. Nidalese tend toward gray, ashy skin tones, with white, gray, or
+black hair. Nidalese have access to the Shadowtongue language.
+Shoanti
+The Shoanti clans called quahs were long ago pushed out of lush territory in the nation
+of Varisia into the harsh badlands of the Storval Plateau. Stalwart and tenacious, they
+remain oath-sworn to someday retake what they’ve lost. Their skin tones typically
+range from sepia to russet, and quah members are easily identified by their shaved
+heads and traditional tattoos. Shoanti have access to the Shoanti language.
+Cultures
+Of course, there’s more to the world of Golarion than its geopolitical borders and wilderness
+regions. It’s the people who dwell in those nations and the creatures that lurk in those wilds
+who bring the world to life.
+GARUNDI
+MWANGI
+NIDALESE
+KELESHITE
+KELLID
+Core Rulebook
+
+================================================================================
+PAGE 432
+================================================================================
+
+Taldan
+Renowned as artisans, scholars, and soldiers, Taldans have spread throughout Avistan,
+as the empire of Taldor once spanned almost half of the northern continent. Taldans
+often have brown hair, pale-white to deep-bronze skin, and green, gray, or amber eyes.
+Their native language, Taldane, is so widespread that it is also called Common.
+Tian
+Few in number in the Inner Sea region, Tians originally come from myriad nations
+in Tian Xia, a continent on the opposite side of the world. They typically have dark
+hair, but their body types, skin tones, and eye colors vary greatly, as “Tian” is in fact
+a general term describing several ethnicities. Tians have access to the Tien language.
+Ulfen
+The coastal raiders of the Ulfen clans are skilled sailors and bodyguards. They’re
+often tall, with pale to ruddy skin and blond, light-brown, or red hair. They typically
+show pride in their appearances by adorning themselves with furs, horn, and ivory.
+Ulfen have access to the Skald language.
+Varisian
+Varisians historically favored a nomadic life of roving caravans, but today many lead
+a settled lifestyle in places like Ustalav and their namesake land. Their skin tones
+typically range from tawny beige to khaki. They have a wide variety of hair colors
+from platinum to red to brown, and their large, expressive eyes range into even rarer
+colors like violet and gold. Varisians have access to the Varisian language.
+Vudrani
+Though the empire of Vudra is far to the east, it has a foothold in the Inner Sea on
+the island of Jalmeray. A widespread belief in reincarnation makes dedication to
+self-improvement a hallmark of Vudrani culture. Vudrani typically have dark eyes
+and skin tones that run from umber to tawny. Their hair is often black and ranges
+in thickness and texture. Piercings, jewelry, and makeup are common adornments
+among Vudrani. Vudrani have access to the Vudrani language.
+Dwarves
+For untold eons, the dwarven people dwelled in the lightless reaches of the Darklands.
+It wasn’t until after Earthfall that the dwarves undertook the legendary Quest for
+Sky, during which the majority of dwarves made a pilgrimage to relocate to the
+surface of Golarion. In doing so, they not only drove the orcs to the surface before
+them, but also established several immense Sky Citadels at each location where
+they emerged from the realm below. Today, three major ethnicities of dwarves exist,
+each associated with one of three altitude bands: the grondaksen dwarves (who
+still dwell in the upper reaches of the Darklands), the ergaksen dwarves (the most
+widespread heritage, and those who dwell on or adjacent to the surface world), and
+the holtaksen dwarves (the least populous—dwarves who dwell only among the
+highest mountain reaches).
+Elves
+Golarion is not the original elven home world, but those elves who dwell here
+today are considered native to the planet. These people first came to Golarion from
+the neighboring planet of Castrovel via a network of portals known as aiudara.
+While elves abandoned Golarion for several thousand years after the devastation of
+Earthfall, they have since returned in force. The most populous elves are the aiudeen,
+elves who have acclimated to temperate forest lands. These are the elves who rule
+the nation of Kyonin and are most often encountered in other societies. To the south,
+the mualijae elves have acclimated to the sweltering jungles of the Mwangi Expanse,
+while far to the north the ilverani elves (known to some as the snowcasters) dwell
+SHOANTI
+VARISIAN
+VUDRANI
+TALDAN
+TIAN
+ULFEN
+THE AGE OF LOST OMENS
+
+================================================================================
+PAGE 433
+================================================================================
+
+in the frozen reaches of Irrisen and beyond in the Crown of the World. The vourinoi
+elves of Garund’s deserts are the most secretive of the elven ethnicities.
+Gnomes
+The first gnomes arrived on Golarion at some point after Earthfall from the
+otherworldly dimension known as the First World, fleeing a terror whose nature
+few can recall. Since that time, gnomes have transitioned fully to creatures of the
+Material Plane, although they all live in fear of the life-threatening condition known
+as bleaching. Feychild gnomes are the most widespread. Glimmer gnomes retain a
+stronger tie to the First World, while others known as fell gnomes have embraced
+the darker traditions of their fey heritage. Keenspark gnomes (jokingly referred to
+as “sour gnomes”) seek to avoid the bleaching by exploring new innovations rather
+than seeking new experiences or exploring the world.
+Goblins
+Although many adventurers might assume a goblin is a goblin, these scrappy and
+creative people are as diverse as any other ancestry. The most widespread are the rasp
+goblins, so named for the large numbers who have traditionally dwelled along the
+rugged coastlines of Varisia’s west coast, a region known as the Rasp. Forest goblins
+tend to be smaller than the other ethnicities and are located mostly in central Avistan.
+Their numbers are only now beginning to recover from the horrors of the Goblinblood
+Wars. The frost goblins of Irrisen’s eternal winter are unusual among their kind for their
+propensity to grow blue fur on their bodies, while the monkey goblins of Mediogalti
+Island are known for their prehensile tails and arboreal habitats.
+Halflings
+Many halflings have lived in the shadow of other societies for as long as they can
+remember, living in much the same way as their neighboring cultures and adding
+their own unique variations over time or as necessity demands. However, numerous
+distinct halfling cultures exist outside of the context of other peoples and nations.
+In some cases, these divisions were fueled by separation and circumstances, such as
+the oppressed halflings of Cheliax who have been forced into slavery, and the Song’o
+halflings of the Mwangi Expanse, who hid from all other cultures to avoid a similar
+fate. Other halflings, such as the jaric, mihrini, othoban, and uhlam halflings, simply
+formed their own traditions without the influence of humans and other creatures.
+Regional Languages
+These languages are uncommon outside the region of their genesis. A character hailing
+from one of the regions listed below automatically has access to that language. In the
+Inner Sea region, the language referred to as Common elsewhere in the rules is the same
+as Taldane—a result of Taldor’s legacy of control and influence over the whole region.
+Nearly every language listed here is spoken on the melting-pot streets of Absalom.
+TABLE 8–1: REGIONAL LANGUAGES
+Language Regions
+Hallit
+Irrisen, Mendev, Numeria, Realm of the Mammoth Lords, Sarkoris, Ustalav
+Kelish
+Katapesh, Kelesh, Osirion, Qadira
+Mwangi
+Mwangi Expanse, the Shackles, Thuvia, Vidrian
+Osiriani
+Geb, Katapesh, Mana Wastes, Nex, Osirion, Rahadoum, Thuvia
+Shoanti
+Hold of Belkzen, Varisia
+Skald
+Irrisen, Lands of the Linnorm Kings
+Tien
+Lands of the Linnorm Kings, Realm of the Mammoth Lords, Tian Xia
+Varisian
+Brevoy, the Gravelands, Nidal, Nirmathas, Ustalav, Varisia
+Vudrani
+Jalmeray, Katapesh, Nex, Vudra
 DWARF
 ELF
 GNOME
-GOBLIN
 HALFLING
-HUMAN
-Dwarves are a
-short, stocky
-people who are
-often stubborn,
-fierce, and devoted.
-Elves are a tall,
-slender, long-lived
-people with a
-strong tradition of
-art and magic.
-Gnomes are
-short and hardy
-folk, with an
-unquenchable
-curiosity and
-eccentric habits.
-Goblins are a
-short, scrappy,
-energetic people
-who have spent
-millennia maligned
-and feared.
-Halflings are a
-short, adaptable
-people who
-exhibit remarkable
-curiosity and
-humor.
-Humans are
-incredibly diverse.
-Some, such as
-half-elves and
-half-orcs, even
-have non-human
-ancestors.
-Ability Boosts
-Constitution,
-Wisdom, free
-Dexterity,
-Intelligence, free
-Constitution,
-Charisma, free
-Dexterity,
-Charisma, free
-Dexterity,
-Wisdom, free
-Two free ability
-boosts
-Ability flaw
-Charisma
-Constitution
-Strength
-Wisdom
-Strength
-—
-Classes
-ALCHEMIST
-BARBARIAN
-BARD
-CHAMPION
-The alchemist throws
-alchemical bombs and
-drinks concoctions of their
-own making.
-The barbarian flies into
-a rage on the battlefield,
-smashing foes with abandon.
-Skilled performances and
-secrets of the occult enable
-the bard to distract foes and
-inspire allies.
-A warrior dedicated to a
-deity, the champion uses
-divine power to enhance their
-abilities and protect allies.
-Key Ability Score*
-Intelligence
-Strength
-Charisma
-Strength
-Secondary Ability Scores
-Constitution, Dexterity
-Constitution, Dexterity
-Constitution, Dexterity
-Charisma, Constitution
+Core Rulebook
+GOBLIN
+HALF-ELF
+HALF-ORC
+
+================================================================================
+PAGE 434
+================================================================================
+
+Listed on these pages are brief descriptions of many
+creatures that have held important cultural, regional,
+or historical roles on Golarion, particularly in the Inner
+Sea region.
+Alghollthus
+Perhaps the oldest intelligent creatures on Golarion,
+the alghollthus ruled vast empires in the depths of the
+world’s oceans for eons before the first humans came
+to be. In fact, according to some of their wall carvings,
+they created the first human beings. Whether or not this
+claim is true is impossible to prove, but these creatures—
+from the sinister aboleths to their shape-changing
+rulers, the veiled masters—have certainly been a part of
+the world for a long, long time. Moreover, their claim
+to have existed on Golarion before the gods themselves
+turned their divine eyes upon the world carries some
+disturbing implications.
+Demons
+Normally bound to the Abyss, demons can be
+found wherever cults or evil spellcasters exist
+to call them to this world. Two notable locations,
+the Worldwound in the north and the Tanglebriar in
+southern Kyonin, deserve special mention, for here the
+demons of the Abyss have established lasting presences.
+Devils
+Although the rulers of Cheliax maintain that Hell is but a
+blueprint and devilkind is just a tool the clever spellcasters
+of House Thrune use to maintain control over their
+nation (as well as their decadent lifestyle), devils have
+an insidious hold over that nation. With the state
+formally devoted to Asmodeus and powerful orders
+of Hellknights serving as mercenary arbiters of law, it
+should come as no surprise that devils are unusually
+common in Cheliax and the neighboring realms.
+Dragons
+Dragons are rightfully counted among the
+most legendary of monsters in the Inner Sea
+region. Most prefer to dwell in remote lairs,
+swooping down to interact with humanity
+only when their violent tempers push them
+to raid. Good dragons may seem less common
+than their evil kin, but only because they have less of an
+urge to mingle with humanoids.
+Genies
+The nation of Qadira has a long history with genies,
+but geniekind’s involvement with the Inner Sea region
+is certainly not limited to that nation. They serve as
+architects and creators of impossibilities on the isle of
+Jalmeray, and in Katapesh they are rumored to be infused
+into the very stone and soil of the land.
+Giants
+Countless tribes and varieties of these
+massive humanoids rule the rugged
+reaches of the world, from volcanic
+mountain ranges and stinking
+marshlands to trackless badlands
+Creatures
+The six humanoid ancestries are far from Golarion’s only inhabitants. Many other
+creatures dwell in the world, some kindly and others cruel, some wild and others
+organized, some anthropomorphic and others completely monstrous. Even creatures
+that are usually foes of civilization, and whom brave adventurers face in battle, can
+sometimes be reasoned with or even befriended. Not all of them are evil, and some are
+actively helpful to their neighbors. And some, of course, simply want to be left alone.
+THE AGE OF LOST OMENS
+
+================================================================================
+PAGE 435
+================================================================================
+
+and steaming jungles. They were used as slaves in ancient
+Thassilon, where they were ruled by magic-infused rune
+giants and forced to erect enormous monuments that
+remain to this day in Varisia, Belkzen, and the Lands of
+the Linnorm Kings. But now the giant tribes of northern
+Avistan are scattered across the land, largely unaware
+they once had a society that was destroyed and reshaped
+by the ancient empire of Thassilon.
+Gnolls
+Hyena-headed gnolls, ever seeking new slaves to perform
+menial labor, make for unreliable mercenaries but excel at
+hunting intelligent prey. Gnolls dwell primarily in northern
+Garund and are particularly common in Osirion, Katapesh,
+and Nex. Indeed, gnolls can be found operating openly as
+bodyguards, mercenaries, and slavers in cities like Katapesh.
+Goblinoids
+Goblins are certainly the most widespread and recognized
+goblinoids, but their taller, more militaristic hobgoblin
+kin rule the new kingdom of Oprak near Lake Encarthan.
+The looming, murderous creatures known as bugbears
+remain loners who eschew social structures, preferring to
+pursue their sadistic hobbies on their own.
+Kobolds
+Industrious and fecund, kobolds thrive anywhere they
+can, often dwelling in narrow confines and twisting
+burrows in the hinterlands of rural regions or spreading
+throughout the sewers of urban centers. These small,
+reptilian humanoids share many traits with dragons—
+but courage, might, and an intimidating presence are
+certainly not among them!
+Leshys
+The first leshys were grown by druids as minions, but over
+time these strange, plantlike creatures have diversified
+and now take many forms. Leshys have yet to organize or
+form nations of their own, but considering how quickly
+their numbers have grown and how swiftly they adapt to
+new regions, a leshy nation seems all but guaranteed in
+the near future.
+Lizardfolk
+Once widespread in Avistan and Garund, the isolationist
+lizardfolk, also known as iruxis, have been forced farther
+and farther into their forests and swamps by climate
+change and the rapid expansion of other humanoids.
+Normally peaceful, lizardfolk can be driven to war by
+encroaching civilization and power-hungry lizardfolk
+leaders—the latter are disturbingly common in the
+Mwangi Expanse and the River Kingdoms.
+Orcs
+Most orcs currently regard the Hold of Belkzen as their
+ancestral land, despite the fact that they once called the
+upper reaches of the Darklands home. After living in a
+violent and brutal culture built on conquest and strength,
+some orcs of the Hold of Belkzen have begun to consider
+other means of securing
+their lands.
+Planar Scions
+A wide variety of planar scions
+dwell in the Inner Sea region, including
+the descendants of celestials and fiends who
+have mixed their bloodlines with those of mortals,
+and other lineages that arose from the influence of the
+Elemental Planes. In Cheliax, those who exhibit diabolic
+influences are particularly despised, as the leaders of that
+nation see them as examples of mortals who succumbed
+to fiendish influence instead of commanding devils as
+minions and slaves.
+Serpentfolk
+Serpentfolk once ruled the second layer of the Darklands
+along with much of the surface of Garund and Avistan.
+Azlant’s expansion into the Inner Sea region long before
+Earthfall led to a terrible war between the two peoples.
+When Azlant proved the victor, the surviving serpentfolk
+fled into the Darklands; they are nearly extinct today.
+Core Rulebook
+KOBOLD
+
+================================================================================
+PAGE 436
+================================================================================
+
+The largest factions compete with lesser sovereign nations
+for wealth, power, and influence, and they sometimes
+rival even larger nations. In some cases, nations take
+the risky step of relying upon these powerful factions,
+making them an extension of government itself (as is the
+case with some Hellknights in Cheliax, for example). In
+other cases, such as that of the Red Mantis, entire nations
+bow to the power of these organizations. Smaller groups,
+while less rich in resources, nonetheless inspire great zeal
+in their members. Those groups that strive to grow in size,
+influence, or wealth frequently attract more dedicated
+and motivated members.
+The factions summarized below represent a sampling
+of those active in the Inner Sea region. Some, like the
+Pathfinder Society and the Aspis Consortium, are
+widespread and powerful; their influence can be found
+throughout the world. Others, such as the Firebrands
+and the Sczarni, are disorganized or regional in scope.
+All encourage adventurers to join their ranks, although
+the benefits each faction can offer an adventurer
+varies widely.
+Aspis Consortium
+The sprawling mercantile concern known
+as the Aspis Consortium is structured to
+ensure that the survival of the faction is
+more important than any single member. Originally
+founded as a private trading endeavor, the Consortium
+has grown to be one of the largest business ventures in the
+Inner Sea region. Most of the group’s members are skilled
+merchants and mercenaries, and the organization has
+made a merciless and bloodthirsty name for itself when it
+comes to ensuring its profits. The Aspis Consortium has
+clashed many times with the Pathfinder Society.
+Bellflower Network
+The unsavory practice of slavery continues
+to be a strong economic force in diabolic
+Cheliax. Here, halflings are particularly
+valued as slaves, for they work hard and take up only
+half the room of a human laborer. It should come as no
+surprise, then, to learn of the Bellflower Network, an
+organization founded by halfling freedom fighters that
+accepts any into its ranks, provided they aid the network
+in its goal of freeing all slaves from servitude and helping
+them escape from oppressive lands like Cheliax.
+Esoteric Order of the
+Palatine Eye
+Based in the nation of Ustalav, the
+scholars and philosophers of this
+semisecret society have long stood
+against the Whispering Way (page 441), but more recent
+events have placed them in opposition to the sinister goals
+of the Night Heralds. When left to their own devices,
+however, members of this faction prefer to explore and
+study dusty secrets hidden in the past, particularly those
+still awaiting rediscovery in the regions of the Golden
+Road—especially in the nation of Osirion.
+Eagle Knights
+The Eagle Knights are the protectors and
+defenders of the people of Andoran. The
+group itself consists of four subfactions—
+the Steel Falcons (who protect Andoran’s
+interests beyond its borders), the Golden Legion
+(Andoran’s defenders and the commanders of its armies),
+the Gray Corsairs (nautical agents who specialize in
+fighting the slave trade), and the Twilight Talons (spies
+and deep cover agents).
+Firebrands
+Not all factions have central bases of
+operation or organized hierarchies of
+command. The loosely affiliated freedom
+fighters,
+swashbuckling
+heroes,
+and
+entertainers known as the Firebrands are one such group.
+They are united by a desire to fight oppression, oppose
+tyrannical regimes, free slaves, rescue the wrongfully
+accused, and engage in jolly cooperation with like-minded
+heroes—all
+while
+building
+their
+own
+individual
+reputations and wealth. This group of defenders has
+proven surprisingly difficult for oppressive governments
+and cruel religions to defeat.
+Free Captains
+To an outside observer or a merchant
+whose ship has been looted or sunk, the
+pirates of the Shackles may seem like
+Factions
+While nations and faiths command vast resources and control entire regions, they must still
+compete for the loyalty of their followers. In addition to being swayed by church and state,
+many people are influenced by societal groups known as factions. These groups vary wildly
+in size and purpose­—from local thieves’ guilds interested only in filling the pockets and
+bellies of their members, to far-reaching, international commercial conglomerates with their
+own private armies.
+THE AGE OF LOST OMENS
+
+================================================================================
+PAGE 437
+================================================================================
+
+a disorganized scourge. But in truth, these pirates are
+bound by a complex code of, if not honor, then a mutual
+recognition that it’s always good to have allies on the
+open seas. The Shackles are ruled by a council of pirate
+lords who call themselves the Free Captains; they sail
+the southern Arcadian Ocean and follow their own code
+of rules when it comes to who can be raided and what
+can be sunk—even if, to their victims, those rules seem
+capricious and arbitrary.
+Hellknights
+Several different orders of the mercenaries
+known collectively as Hellknights operate
+in Avistan, with most of their number
+stationed in the nation of Cheliax. These mercenaries see
+the law of the land as inviolate and offer their services
+as enforcers to any who can pay their prices. They wear
+distinctive suits of intimidating armor and take the
+legends of Hell as inspiration, but they see no one but
+themselves as the true arbiters of law.
+Knights of Lastwall
+For centuries, the nation of Lastwall stood
+as a bulwark against the orcs of Belkzen
+and the lingering threat of the Whispering
+Tyrant. But when the Whispering Tyrant escaped
+his prison, he brought to his enemies in Lastwall a
+devastating apocalypse. Now Lastwall is destroyed,
+and the knights who once served there are without a
+home. In its absence, they have formed a ragtag group
+known as the Knights of Lastwall, and they carry on
+their charge to stand against the undead legions of the
+Whispering Tyrant wherever their skills are needed.
+Lion Blades
+The Lion Blades of Taldor are a secret
+organization committed to protecting the
+interests of Taldor and its ruler. They oppose
+Taldor’s many enemies, foreign and domestic, through
+a program of infiltration, espionage, and assassination.
+One of the major goals of the Lion Blades is to rein in
+corruption within the empire (aside from corruption that
+is useful to them); another is keeping any one faction of
+the imperial court from becoming powerful enough to
+upset the status quo. Through its shadow schools, the
+Lion Blades intensively train new recruits before investing
+them with a high degree of initiative and latitude.
+Magaambya
+Golarion reeled from the disaster of
+Earthfall, and its peoples took long to
+recover. But recover they did, and one
+of the first institutions to rise from the ashes of near
+destruction was the Magaambya, an academy of arcane
+learning founded by the legendary wizard known as OldMage Jatembe. Today, the scholars of Magaambya not
+only preserve ancient magical traditions founded in those
+early days but also protect the learning and culture of the
+Mwangi people as a whole.
+Night Heralds
+The Night Heralds turn to the lure of the
+starlit night for guidance, seeking advice
+and aid from forces far removed from
+Golarion. The sinister aliens of the Dominion of the
+Black hold special importance for the Night Heralds,
+and many Night Heralds worship these inscrutable
+beings almost as gods. Night Heralds seek and collect
+obscure texts and mysterious lore from the ancient past
+and peruse the secrets they find within to unravel larger
+hidden meanings and obscured truths beyond reality.
+Their hope is that when the world inevitably falls to
+alien influence, they will be rewarded for their service by
+the world’s new masters.
+Pathfinder Society
+Many of the greatest explorers and
+adventurers of the modern age have
+recorded their discoveries in an ongoing
+series of chapbooks known as the Pathfinder Chronicles,
+published irregularly by the Pathfinder Society itself.
+This diverse group is devoted to exploring the world,
+supporting its agents in the field, and ensuring the
+discoveries they make are documented. The Society
+often finds itself in conflict with the more mercenary
+Aspis Consortium. The Pathfinder Society’s pursuit of
+discovery often puts its agents in the thick of developing
+plots, forcing them to choose between being heroes or
+villains as events unfold.
+Red Mantis
+It’s easy to know if an assassination is the
+work of the notorious Red Mantis; they
+typically kill with a sacred sawtooth saber,
+have a knack for targeting their victims in public or in
+sanctuaries believed to be safe, and take steps to ensure
+that those they are contracted to kill stay dead. Their
+prices change with each mission, but no matter the offer,
+the Red Mantis never targets rightfully ruling monarchs,
+for their own deity, the mantis god Achaekek, forbids
+the murder of those with a divine mandate to rule.
+Sczarni
+The Sczarni are a collection of Varisian
+bandits, smugglers, and thieves. They are
+organized into tightly knit families, each
+of which has little or nothing in common with Sczarni
+in other locations beyond shared skills, techniques, and
+pursuits. Their crimes focus on thievery, scams, and other
+relatively nonviolent acts, but since these crimes have
+a tendency to spiral out of control, their schemes often
+result in violence anyway.
 Core Rulebook
 
 ================================================================================
-PAGE 24
+PAGE 438
 ================================================================================
 
-Classes
-CLERIC
-DRUID
-FIGHTER
-MONK
-The cleric calls on the power
-of a deity to cast spells that
-can heal allies or harm foes.
-The druid uses the magic of
-the natural world to bolster
-allies and strike down enemies.
-The fighter is a master
-of weapons, martial
-techniques, and powerful
-attack combinations.
-The monk wields the
-secrets of martial arts
-in dazzling displays of
-battlefield prowess.
-Key Ability Score*
-Wisdom
-Wisdom
-Dexterity or Strength
-Dexterity or Strength
-Secondary Ability Scores
-Charisma, Constitution
-Constitution, Dexterity
-Constitution
-Constitution, Wisdom
-Classes
-RANGER
-ROGUE
-SORCERER
-WIZARD
-The ranger is a master of
-using their surroundings,
-traps, and animal allies to
-harry enemies.
-The rogue is a multitalented
-master of skulduggery who
-strikes when enemies least
-expect it.
-The sorcerer’s magical might
-flows from their blood and
-manifests as fantastic spells
-and abilities.
-The wizard is a scholar
-whose reservoirs of arcane
-knowledge powers their
-wondrous spells and abilities.
-Key Ability Score*
-Dexterity or Strength
-Dexterity or other
-Charisma
-Intelligence
-Secondary Ability Scores
-Constitution, Wisdom
-Charisma, Constitution
-Dexterity, Constitution
-Dexterity, Constitution
-* A character receives an ability boost to their class’s key ability score.
-Introduction
-Introduction
-Ancestries &
-Backgrounds
-Classes
-Skills
-Feats
-Equipment
-Spells
-The Age of
-Lost OMENS
-Playing the
-Game
-Game
-mastering
-Crafting
-& Treasure
-Appendix
+Deities
+Anyone can worship a deity, but those who do so devoutly
+should take care to pursue the faith’s edicts (behaviors
+the faith encourages) and avoid its anathemas (actions
+considered blasphemous). Each deity below has their
+alignment listed in parentheses after their name, followed
+by a short description and their edicts, anathemas, and
+the alignments permitted for followers. Following that are
+benefits available to the most ardent devotees of the deities.
+You get these benefits only if you’re a cleric of the deity
+or some other rule specifically gives you a devotee benefit.
+Abadar (LN)
+The Master of the First Vault holds sway over cities,
+the law, merchants, and wealth. Abadar seeks to
+bring civilization to the wild places of the world,
+encourages adherence to law, and promotes commerce and
+trade within civilization. He also encourages cooperation
+among the various ancestries.
+Edicts bring civilization to the frontiers, earn wealth through
+hard work and trade, follow the rule of law
+Anathema engage in banditry or piracy, steal, undermine a
+law-abiding court
+Follower Alignments LG, LN, LE
+Devotee Benefits
+Divine Font harm or heal
+Divine Skill Society
+Favored Weapon crossbow
+Domains cities, earth, travel, wealth
+Cleric Spells 1st: illusory object, 4th: creation, 7th: magnificent
+mansion
+Asmodeus (LE)
+The Prince of Darkness reigns over contracts,
+pride, slavery, and tyranny, and he delights
+in tempting mortals to the path of evil. He
+promotes strict hierarchies where everyone knows their place,
+and he takes advantage of order for his own selfish benefit.
+Edicts negotiate contracts to your best advantage, rule
+tyrannically and torture weaker beings, show subservience
+to your betters
+Anathema break a contract, free a slave, insult Asmodeus by
+showing mercy to your enemies
+Follower Alignments LE
+Devotee Benefits
+Divine Font harm
+Divine Skill Deception
+Favored Weapon mace
+Domains confidence, fire, trickery, tyranny
+Cleric Spells 1st: charm, 4th: suggestion, 6th: mislead
+Calistria (CN)
+The mischievous goddess known as the
+Savored Sting extols the virtues of lust,
+revenge, and trickery. Though Calistria is
+most widely worshipped by elves, members
+of many other ancestries follow her as well.
+Edicts pursue your personal freedom, seek hedonistic thrills,
+take revenge
+Anathema become too consumed by love or a need for
+revenge, let a slight go unanswered
+Follower Alignments CG, CN, CE
+Devotee Benefits
+Divine Font harm or heal
+Divine Skill Deception
+Favored Weapon whip
+Domains pain, passion, secrecy, trickery
+Cleric Spells 1st: charm, 3rd: enthrall, 6th: mislead
+Cayden Cailean (CG)
+The Drunken Hero ascended from mortal life
+on a drunken dare, becoming the god of ale,
+freedom, and wine. Cayden promotes freedom
+and encourages others to find their own path in life. He fights
+for just causes and delights in the best indulgences.
+Edicts drink, free slaves and aid the oppressed, seek glory
+and adventure
+Anathema waste alcohol, be mean or standoffish when drunk,
+own a slave
+Follower Alignments NG, CG, CN
+Devotee Benefits
+Divine Font heal
+Divine Skill Athletics
+Favored Weapon rapier
+Domains cities, freedom, indulgence, might
+Cleric Spells 1st: fleet step, 2nd: touch of idiocy, 5th: hallucination
+Religion
+Selection of a deity is critical for certain classes—like champion and cleric—but most
+characters pay respect to at least one deity to find a focus in life and guide their choices,
+especially in times of hardship or need. Some people instead worship a group of deities
+arranged in a pantheon, follow a nondeific religion like the Green Faith, or adhere to a
+specific philosophy. Note that far more deities, religions, and philosophies exist on any
+world, Golarion included, than those detailed below.
+THE AGE OF LOST OMENS
 
 ================================================================================
-PAGE 25
+PAGE 439
 ================================================================================
 
-Speed, and languages, and contributes to their Hit Points.
-Each also grants ability boosts and ability flaws to represent
-the ancestry’s basic capabilities.
-You’ll make four decisions when you select your
-character’s ancestry:
-• Pick the ancestry itself.
-• Assign any free ability boosts and decide if you are
-taking any voluntary flaws.
-• Select a heritage from those available within that
-ancestry, further defining the traits your character
-was born with.
-• Choose an ancestry feat, representing an ability your
-hero learned at an early age.
-CHARACTER SHEET
-Write your character’s ancestry and heritage in the
-appropriate space at the top of your character sheet’s first
-page. Adjust your ability scores, adding 2 to an ability
-score if you gained an ability boost from your ancestry, and
-subtracting 2 from an ability score if you gained an ability
-flaw from your ancestry. Note the number of Hit Points your
-character gains from their ancestry—you’ll add more to this
-number later. Finally, in the appropriate spaces, record your
-character’s size, Speed, and languages. If your character’s
-ancestry provides them with special abilities, write them
-in the appropriate spaces, such as darkvision in the Senses
-Step 2
-Start Building
-Ability Scores
-At this point, you need to start building your character’s
-ability scores. See the overview of ability scores on pages
-19–20 for more information about these important
-aspects of your character and an overview of the process.
-Your character’s ability scores each start at 10, and as
-you select your ancestry, background, and class, you’ll apply
-ability boosts, which increase a score by 2, and ability flaws,
-which decrease a score by 2. At this point, just note a 10 in
-each ability score and familiarize yourself with the rules for
-ability boosts and flaws on page 20. This is also a good time
-to identify which ability scores will be most important to
-your character. See The Six Ability Scores on page 19 and
-the class summaries on pages 22–23 for more information.
-Step 3
-Select an Ancestry
-Select an ancestry for your character. The ancestry
-summaries on page 22 provide an overview of Pathfinder’s
-core ancestry options, and each is fully detailed in
-Chapter 2. Ancestry determines your character’s size,
-Hit Points
-Perception
-Skills
-Armor Class
-Saving Throws
-DECEPTION
-PERFORMANCE
-ATHLETICS
-NATURE
-INTIMIDATION
-SOCIETY
-SURVIVAL
-ARCANA
-ACROBATICS
-MEDICINE
-DIPLOMACY
-RELIGION
-CRAFTING
-OCCULTISM
-LORE
-STEALTH
-THIEVERY
-LORE
-RESISTANCES AND IMMUNITIES
-CONDITIONS
-PROF
-ITEM
-E
-L
-T
-M
-MAX HP
-BT
- CURRENT HP
-REFLEX
-ITEM
-DEX
-PROF
-WILL
-ITEM
-WIS
-PROF
-E
-L
-T
-M
-E
-L
-T
-M
-E
-L
-T
-M
-E
-L
-T
-M
-FORTITUDE
-ITEM
-CON
-PROF
-ITEM
-WIS
-PROF
-DYING
-WOUNDED
-CURRENT
-TEMPORARY
-Languages
-Class DC
-DEX
-CAP
-OR
-DC BASE
-=
-E
-L
-T
-M
-ITEM
-KEY
-PROF
-Weapon Proficiencies
-E
-L
-T
-M
-SIMPLE
-E
-L
-T
-M
-OTHER
-E
-L
-T
-M
-OTHER
-E
-L
-T
-M
-MARTIAL
-DC BASE
-=
-STR
-MODIFIER
-STRENGTH
-SCORE
-DEX
-MODIFIER
-DEXTERITY
-SCORE
-CON
-MODIFIER
-CONSTITUTION
-SCORE
-INT
-MODIFIER
-INTELLIGENCE
-SCORE
-WIS
-MODIFIER
-WISDOM
-SCORE
-CHA
-MODIFIER
-CHARISMA
-SCORE
-Melee Strikes
-Weapon
-P
-S
-B
-PROF
-STR
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-STR
-W SPEC
-OTHER
-TRAITS
-Weapon
-P
-S
-B
-PROF
-STR
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-STR
-W SPEC
-OTHER
-TRAITS
-Weapon
-P
-S
-B
-PROF
-STR
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-STR
-W SPEC
-OTHER
-TRAITS
-Weapon
-P
-S
-B
-PROF
-DEX
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-SPECIAL
-W SPEC
-OTHER
-TRAITS
-Weapon
-P
-S
-B
-PROF
-DEX
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-SPECIAL
-W SPEC
-OTHER
-TRAITS
-Weapon
-P
-S
-B
-PROF
-DEX
-=
-E
-L
-T
-M
-ITEM
-Damage
-DICE
-SPECIAL
-W SPEC
-OTHER
-TRAITS
-Ranged Strikes
-SENSES
-NOTES
-speed
-feet
-MOVEMENT TYPES & NOTES
-UNARMORED
-E
-L
-T
-M
-MEDIUM
-E
-L
-T
-M
-LIGHT
-E
-L
-T
-M
-HEAVY
-E
-L
-T
-M
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-STR
-PROF
-ITEM
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-CHA
-PROF
-ITEM
-=
-E
-L
-T
-M
-CHA
-PROF
-ITEM
-=
-E
-L
-T
-M
-CHA
-PROF
-ITEM
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-WIS
-PROF
-ITEM
-=
-E
-L
-T
-M
-WIS
-PROF
-ITEM
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-CHA
-PROF
-ITEM
-=
-E
-L
-T
-M
-WIS
-PROF
-ITEM
-=
-E
-L
-T
-M
-INT
-PROF
-ITEM
-=
-E
-L
-T
-M
-WIS
-PROF
-ITEM
-=
-E
-L
-T
-M
-DEX
-PROF
-ITEM
-=
-E
-L
-T
-M
-DEX
-PROF
-ITEM
-=
-E
-L
-T
-M
-DEX
-PROF
-ITEM
-Ability Scores
-HARDNESS
-Permission granted to photocopy for personal use only
-Character
-Sheet
-PROFICIENCY
-Untrained +0
-Trained 2+Level
-Expert 4+Level
-Master 6+Level
-Legendary 8+Level
-[one-action]
- Single Action
-[two-actions]
- Two-Action Activity
-[three-actions]
- Three-Action Activity
-[free-action]
- Free Action
-[reaction]
- Reaction
-Player
-Name
-Experience
-Points (XP)
-Character
-Name
-Shield
-Ancestry and Heritage
-Background
-Class
-Size
-Alignment
-Traits
-Deity
-Level
-Hero Points
-+
-=
-MAX
-AC
-ARMOR
--
-ARMOR
--
-ARMOR
--
-ARMOR
--
+Desna (CG)
+The kindly Song of the Spheres presides over
+dreams, luck, stars, and travelers. An ancient
+goddess, Desna delights in freedom and mystery, and she
+encourages her followers to do the same.
+Edicts aid fellow travelers, explore new places, express yourself
+through art and song, find what life has to offer
+Anathema cause fear or despair, cast nightmare or use similar
+magic to corrupt dreams, engage in bigoted behavior
+Follower Alignments NG, CG, CN
+Devotee Benefits
+Divine Font heal
+Divine Skill Acrobatics
+Favored Weapon starknife
+Domains dreams, luck, moon, travel
+Cleric Spells 1st: sleep, 3rd: dream message, 5th: dreaming
+potential
+Erastil (LG)
+Old Deadeye is god of family, farming,
+hunting, and trade. Long ago he was a horned
+god of the hunt, but his worship evolved to
+focus on rural communities.
+Edicts care for your home and family, fulfill your duties, keep
+the peace, protect the community
+Anathema abandon your home in its time of need, choose
+yourself over your community, tarnish your reputation,
+tell lies
+Follower Alignments LG, NG, LN
+Devotee Benefits
+Divine Font heal
+Divine Skill Survival
+Favored Weapon longbow
+Domains earth, family, nature, wealth
+Cleric Spells 1st: true strike, 3rd: wall of thorns, 5th: tree stride
+Gorum (CN)
+Soldiers call out prayers to Our Lord in Iron,
+god of battle, strength, and weapons. Gorum
+emphasizes strength and power, encouraging his followers to
+seek out war and combat as the ultimate way to worship him.
+Edicts attain victory in fair combat, push your limits, wear
+armor in combat
+Anathema kill prisoners or surrendering foes, prevent conflict
+through negotiation, win a battle through underhanded
+tactics or indirect magic
+Follower Alignments CN, CE
+Devotee Benefits
+Divine Font harm or heal
+Divine Skill Athletics
+Favored Weapon greatsword
+Domains confidence, destruction, might, zeal
+Cleric Spells 1st: true strike, 2nd: enlarge, 4th: weapon storm
+Gozreh (N)
+A deity of two aspects, known as the Wind
+and the Waves, Gozreh rules over nature,
+the sea, and weather. Gozreh is popular with
+druids and those who seek to preserve the wilds.
+Edicts cherish, protect, and respect nature in all its forms
+Anathema bring civilization to intrude on the wild, create
+undead, despoil areas of natural beauty
+Follower Alignments NG, LN, N, CN, NE
+Devotee Benefits
+Divine Font heal
+Divine Skill Survival
+Favored Weapon trident
+Domains air, nature, travel, water
+Cleric Spells 1st: gust of wind, 3rd: lightning bolt, 5th: control
+water
+Iomedae (LG)
+Iomedae is goddess of honor, justice, rulership, and
+valor, and she is called the Inheritor because she
+inherited her mantle when the god of humanity
+perished. Prior to her ascension, Iomedae walked
+the planet as a mortal. Many paladins follow her faith.
+Edicts be temperate, fight for justice and honor, hold valor in
+your heart
+Anathema abandon a companion in need, dishonor yourself,
+refuse a challenge from an equal
+Follower Alignments LG, NG
+Devotee Benefits
+Divine Font heal
+Divine Skill Intimidation
+Favored Weapon longsword
+Domains confidence, might, truth, zeal
+Cleric Spells 1st: true strike, 2nd: see invisibility, 4th: fire shield
+Irori (LN)
+When the Master of Masters attained true
+enlightenment, he became a god of history,
+knowledge, and self-perfection. Irori promotes discipline and
+teaches that one who can master themself finds the greatest
+benefits the world can provide.
+Edicts be humble; help others perfect themselves; hone
+your body, mind, and spirit to a more perfect state;
+practice discipline
+Anathema become addicted to a substance, destroy an important
+historical text, repeatedly fail to maintain self-control
+Follower Alignments LG, LN, LE
+Devotee Benefits
+Divine Font harm or heal
+Divine Skill Athletics
+Favored Weapon fist
+Domains knowledge, might, perfection, truth
+Cleric Spells 1st: jump, 3rd: haste, 4th: stoneskin
 Core Rulebook
 
 ================================================================================
-PAGE 26
+PAGE 440
 ================================================================================
 
-SPECIAL 1st
-FEATURE 1st
-FEAT 6th
-FEATURE 13th
-BACKGROUND
-FEAT 1st
-FEAT 1st
-FEAT 8th
-FEATURE 15th
-4th
-FEAT 9th
-FEATURE 3rd
-FEAT 10th
-FEATURE 17th
-8th
-16th
-11th
-HERITAGE 1st
-FEATURE 1st
-FEATURE 7th
-FEAT 14th
-2nd
-FEAT 2nd
-FEATURE 9th
-FEAT 16th
-6th
-14th
-7th
-FEAT 13th
-FEAT 4th
-FEATURE 11th
-FEAT 18th
-10th
-18th
-15th
-FEAT 17th
-FEATURE 5th
-FEAT 5th
-FEAT 12th
-FEATURE 19th
-FEAT 20th
-12th
-3rd
-20th
-19th
-READIED ITEMS
-OTHER ITEMS
-BULK
-BULK
-Ancestry Feats and Abilities
-Class Feats and Abilities
-Skill Feats
-General Feats
-Bonus Feats
-Inventory
-WORN ITEMS
-ENCUMBERED
-= 5
-MAXIMUM
-STR
-STR
-=
-BASE
-BASE
-BULK
-INVEST
-(MAX 10)
-Permission granted to photocopy for personal use only
-CP
-SP
-GP
-PP
-BULK
-section on the first page and innate spells on the fourth
-page. Write the ancestry feat you selected in the Ancestry
-Feat section on your character sheet’s second page.
-Step 4
-Pick a Background
-Your character’s background might represent their
-upbringing, an aptitude they’ve been honing since their
-youth, or another aspect of their life before they became an
-adventurer. Character backgrounds appear in Chapter 2,
-starting on page 60. They typically provide two ability
-boosts (one that can be applied to either of two specific
-ability scores, and one that is free), training in a specific
-skill, training in a Lore skill, and a specific skill feat.
-CHARACTER SHEET
-Record your character’s background in the space at the
-top of the first page of your character sheet. Adjust
-your ability scores, adding 2 to an ability score if you
-gained an ability boost from your background. Record
-the skill feat the background provides in the Skill Feat
-section of your character sheet’s second page. On the
-first page, check the “T” box next to the name of the
-specific skill and for one Lore skill to indicate your
-character is trained, then write the name of the Lore
-skill granted by your background.
-Step 5
-Choose a Class
-At this point, you need to decide your character’s class.
-A class gives your character access to a suite of heroic
-abilities, determines how effectively they fight, and
-governs how easily they can shake off or avoid certain
-harmful effects. Each class is fully detailed in Chapter 3,
-but the summaries on pages 22–23 provide an overview
-of each and tells you which ability scores are important
-when playing that class.
-You don’t need to write down all of your character’s
-class features yet. You simply need to know which class
-you want to play, which determines the ability scores that
-will be most important for your character.
-CHARACTER SHEET
-Write your character’s class in the space at the top of the
-first page of your character sheet, then write “1” in the
-Level box to indicate that your character is 1st level. Next
-to the ability scores, note the class’s key ability score,
-and add 2 to that ability score from the ability boost the
-Introduction
-Introduction
-Ancestries &
-Backgrounds
-Classes
-Skills
-Feats
-Equipment
-Spells
-The Age of
-Lost OMENS
-Playing the
-Game
-Game
-mastering
-Crafting
-& Treasure
-Appendix
+Lamashtu (CE)
+The Mother of Monsters is goddess of
+aberrance, monsters, and nightmares. She
+seeks to corrupt mortals and populate the
+world with her twisted and monstrous brood.
+Edicts bring power to outcasts and the downtrodden, indoctrinate
+children in Lamashtu’s teachings, make the beautiful
+monstrous, reveal the corruption and flaws in all things
+Anathema attempt to treat a mental illness or deformity,
+provide succor to Lamashtu’s enemies
+Follower Alignments CE
+Devotee Benefits
+Divine Font harm or heal
+Divine Skill Survival
+Favored Weapon falchion
+Domains family, might, nightmares, trickery
+Cleric Spells 1st: magic fang, 2nd: animal form, 4th: nightmare
+Nethys (N)
+The All-Seeing Eye, god of magic, has a dualistic
+nature of destruction and preservation; his ability
+to witness all things has shattered his mind.
+Edicts seek out magical power and use it
+Anathema pursue mundane paths over magical ones
+Follower Alignments NG, LN, N, CN, NE
+Devotee Benefits
+Divine Font harm or heal
+Divine Skill Arcana
+Favored Weapon staff
+Domains destruction, knowledge, magic, protection
+Cleric Spells 1st: magic missile, 2nd: magic mouth, 3rd: levitate,
+4th: blink, 5th: prying eye, 6th: wall of force, 7th: warp mind,
+8th: maze, 9th: disjunction
+Norgorber (NE)
+The god of greed, murder, poison, and
+secrets has four aspects: Blackfingers, ally
+of alchemists and poisoners; the murderous
+Father Skinsaw; the thieving Gray Master; and the secretive
+Reaper of Reputation.
+Edicts keep your true identity secret, sacrifice anyone necessary,
+take every advantage in a fight, work from the shadows
+Anathema allow your true identity to be connected to your
+dark dealings, share a secret freely, show mercy
+Follower Alignments LE, NE, CE, plus N if following the Reaper
+of Reputation
+Devotee Benefits
+Divine Font harm
+Divine Skill Stealth
+Favored Weapon shortsword
+Domains death, secrecy, trickery, wealth
+Cleric Spells 1st: illusory disguise, 2nd: invisibility, 4th:
+phantasmal killer
+Pharasma (N)
+Ancient and powerful beyond even most other
+gods, the Lady of Graves presides over birth,
+death, fate, and prophecy. From her throne in
+the Boneyard, she judges the souls of all who perish, and she
+ensures that the natural cycle of birth and death—the River of
+Souls—is not disrupted.
+Edicts strive to understand ancient prophecies, destroy
+undead, lay bodies to rest
+Anathema create undead, desecrate a corpse, rob a tomb
+Follower Alignments NG, LN, N
+Devotee Benefits
+Divine Font heal
+Divine Skill Medicine
+Favored Weapon dagger
+Domains death, fate, healing, knowledge
+Cleric Spells 1st: mindlink, 3rd: ghostly weapon, 4th:
+phantasmal killer
+Rovagug (CE)
+The Rough Beast is the god of destruction,
+disaster, and wrath. He was long ago
+imprisoned within Golarion’s core at the
+hands of many other deities working in concert, and seeks to
+one day break free and wreak havoc upon the world.
+Edicts destroy all things, free Rovagug from his prison
+Anathema create something new, let material ties restrain
+you, torture a victim or otherwise delay its destruction
+Follower Alignments NE, CE
+Devotee Benefits
+Divine Font harm
+Divine Skill Athletics
+Favored Weapon greataxe
+Domains air, destruction, earth, zeal
+Cleric Spells 1st: burning hands, 2nd: enlarge, 6th: disintegrate
+Sarenrae (NG)
+The Dawnflower is goddess of healing, honesty,
+redemption, and the sun. Once a powerful angel
+and empyreal lord, Sarenrae led the charge to
+imprison Rovagug. She seeks to redeem evil
+where possible, or else destroy it swiftly.
+Edicts destroy the Spawn of Rovagug, protect allies, provide
+aid to the sick and wounded, seek and allow redemption
+Anathema create undead, lie, deny a repentant creature an
+opportunity for redemption, fail to strike down evil
+Follower Alignments LG, NG, CG
+Devotee Benefits
+Divine Font heal
+Divine Skill Medicine
+Favored Weapon scimitar
+Domains fire, healing, sun, truth
+Cleric Spells 1st: burning hands, 3rd: fireball, 4th: wall of fire
+THE AGE OF LOST OMENS
 
 ================================================================================
-PAGE 27
+PAGE 441
 ================================================================================
 
-OPTIONAL:
-VOLUNTARY FLAWS
-Sometimes, it’s fun to play a
-character with a major flaw even
-if you’re not playing an ancestry
-that imposes one. You can elect
-to take two additional ability
-flaws when applying the ability
-boosts and ability flaws from
-your ancestry. If you do, you can
-also apply one additional free
-ability boost. These ability flaws
-can be assigned to any ability
-score you like, but you can’t apply
-more than one ability flaw to the
-same ability score during this
-step unless you apply both of the
-additional ability flaws to a score
-that is already receiving an ability
-boost during this step. In this
-case, the first ability flaw cancels
-the ability boost, and the second
-ability flaw decreases the score
-by 2. Likewise, as an exception
-to the normal rules for ability
-boosts, you can apply two free
-ability boosts to an ability score
-receiving an ability flaw during
-this step; the first ability boost
-cancels the ability flaw, and the
-second ability boost increases the
-score by 2. For example, a dwarf
-normally gets an ability boost to
-Constitution and Wisdom, along
-with an ability flaw to Charisma.
-You could apply one ability flaw
-each to Intelligence and Strength,
-or you could apply both ability
-flaws to Wisdom. You could not
-apply either additional ability flaw
-to Charisma, though, because it is
-already receiving dwarves’ ability
-flaw during this step.
-class provides. Don’t worry about recording the rest of your character’s class features
-and abilities yet—you’ll handle that in Step 7.
-Step 6
-Determine Ability Scores
-Now that you’ve made the main mechanical choices about your character, it’s time
-to finalize their ability scores. Do these three things:
-• First, make sure you’ve applied all the ability boosts and ability flaws you’ve
-noted in previous steps (from your ancestry, background, and class).
-• Then, apply four more ability boosts to your character’s ability scores,
-choosing a different ability score for each and increasing that ability score
-by 2.
-• Finally, record your starting ability scores and ability modifiers, as determined
-using Table 1–1: Ability Modifiers.
-Remember that each ability boost adds 2 to the base score of 10, and each ability
-flaw subtracts 2. You should have no ability score lower than 8 or higher than 18.
-CHARACTER SHEET
-Write your character’s starting ability scores in the box provided for each. Record
-the ability modifier for each ability score in the box to the left of the ability’s name.
-Step 7
-Record Class Details
-Now, record all the benefits and class features that your character receives from the
-class you’ve chosen. While you’ve already noted your key ability score, you’ll want to
-be sure to record the following class features.
-• To determine your character’s total starting Hit Points, add together the
-number of Hit Points your character gains from their ancestry (chosen in
-Step 2) and the number of Hit Points they gain from their class.
-• The Initial Proficiencies section of your class entry indicates your character’s
-starting proficiency ranks in a number of areas. Choose which skills your
-character is trained in and record those, along with the ones set by your class. If
-your class would make you trained in a skill you’re already trained in (typically
-due to your background), you can select another skill to become trained in.
-• See the class advancement table in your class entry to learn the class features
-your character gains at 1st level—but remember, you already chose an
-ancestry and background. Some class features require you to make additional
-choices, such as selecting spells.
-CHARACTER SHEET
-Write your character’s total Hit Points on the first page of your character sheet. Use
-the proficiency fields (the boxes marked “T,” “E,” “M,” and “L”) on your character sheet to
-record your character’s initial proficiencies in Perception, saving throws, and the skills
-granted by their class; mark “T” if your character is trained, or “E” if your character is
-expert. Indicate which additional skills you chose for your character to be trained in
-by marking the “T” proficiency box for each skill you selected. Likewise, record your
-character’s their armor proficiencies in the Armor Class section at the top of the first
-page and their weapon proficiencies at the bottom of the first page. Record all other
-class feats and abilities on the second page. Don’t worry yet about finalizing any values
-for your character’s statistics—you’ll handle that in Step 9.
+Shelyn (NG)
+The Eternal Rose is the goddess of art, beauty,
+love, and music. She seeks to one day redeem
+her corrupted brother, Zon-Kuthon. Shelyn
+promotes peace and love, and she encourages her followers to
+create beauty in a sometimes dark world.
+Edicts be peaceful, choose and perfect an art, lead by example,
+see the beauty in all things
+Anathema destroy art or allow it to be destroyed, unless saving
+a life or pursuing greater art; refuse to accept surrender
+Follower Alignments LG, NG, CG
+Devotee Benefits
+Divine Font heal
+Divine Skill select Crafting or Performance
+Favored Weapon glaive
+Domains creation, family, passion, protection
+Cleric Spells 1st: color spray, 3rd: enthrall, 4th: creation
+Torag (LG)
+The dwarven deity called the Father of Creation
+is god of the forge, protection, and strategy.
+Though most widely worshipped by dwarves,
+those who treasure crafting and creation also follow Torag.
+Edicts be honorable and forthright, keep your word, respect
+the forge, serve your people
+Anathema tell lies or cheat someone, intentionally create
+inferior works, show mercy to the enemies of your people
+Follower Alignments LG, LN
+Devotee Benefits
+Divine Font heal
+Divine Skill Crafting
+Favored Weapon warhammer
+Domains creation, earth, family, protection
+Cleric Spells 1st: mindlink, 3rd: earthbind, 4th: creation
+Urgathoa (NE)
+The amoral Pallid Princess oversees disease,
+gluttony, and undeath.
+Edicts become undead upon death, create or
+protect the undead, sate your appetites
+Anathema deny your appetites, destroy undead, sacrifice
+your life
+Follower Alignments LE, NE, CE
+Devotee Benefits
+Divine Font harm
+Divine Skill Intimidation
+Favored Weapon scythe
+Domains indulgence, magic, might, undeath
+Cleric Spells 1st: goblin pox, 2nd: false life, 7th: mask of terror
+Zon-Kuthon (LE)
+The Midnight Lord is god of darkness, envy, loss,
+and pain. Once a god of art, beauty, and music,
+like Shelyn, he returned from a sojourn in the dark spaces
+between the planes horribly changed.
+Edicts bring pain to the world, mutilate your body
+Anathema create permanent or long-lasting sources of light,
+provide comfort to those who suffer
+Follower Alignments LN, LE, NE
+Devotee Benefits
+Divine Font harm
+Divine Skill Intimidation
+Favored Weapon spiked chain
+Domains ambition, darkness, destruction, pain
+Cleric Spells 1st: phantom pain, 3rd: wall of thorns, 5th:
+shadow walk
+Faiths and Philosophies
+Of course, faith can express itself in more ways than
+venerating a single deity—or a deity at all. A few examples
+of nondeific religions and philosophies are presented
+below. Clerics can work with allied faiths and philosophies,
+but the organizations here turn to other classes—such as
+sorcerers with divine bloodlines, druids, or monks—to
+serve as their leaders. These faiths and philosophies don’t
+have an external godhead that offers benefits to devotees.
+Atheism
+While most concede that the gods exist, some do not view
+them as worthy of worship, and a few even deny their
+presence altogether.
+Edicts pursue your own agenda with faith in your own ability
+to excel
+Anathema offer prayers to a deity
+Follower Alignments all
+Green Faith
+The worshippers of the Green Faith count many
+druids among their number. They view nature
+as divine and draw strength from the knowledge
+of their place in the natural order.
+Edicts guide civilization to grow in harmony
+with nature, preserve areas of natural wilderness, protect
+endangered species
+Anathema cause damage to natural settings, kill animals for
+reasons other than self-defense or sustenance, allow abuse
+of natural resources
+Follower Alignments CN, LN, N, NE, NG
+Prophecies of Kalistrade
+The dream-records of an eccentric mystic teach
+that wealth can be achieved through a strict
+and abstemious code of behavior.
+Edicts accumulate personal wealth, foster and
+aid mercantile pursuits, welcome newcomers
+regardless of gender or ancestry
+Anathema spend money frivolously; offer money to those who
 Core Rulebook
 
 ================================================================================
-PAGE 28
+PAGE 442
 ================================================================================
 
-SPELLS AND
-SPELLCASTING
-Most classes can learn to cast a
-few focus spells, but the bard,
-cleric, druid, sorcerer, and wizard
-all gain spellcasting—the ability
-to cast a wide variety of spells.
-If your character’s class grants
-spells, you should take time
-during Step 7 to learn about the
-spells they know and how to
-cast them. The fourth page of the
-character sheet provides space
-to note your character’s magic
-tradition and their proficiency
-rank for spell attack rolls and
-spell DCs. It also gives ample
-space to record the spells in
-your character’s repertoire or
-spellbook, or that you prepare
-frequently. Each class determines
-which spells a character can
-cast, how they are cast, and how
-many they can cast in a day,
-but the spells themselves and
-detailed rules for spellcasting are
-located in Chapter 7.
-Step 8
-Buy Equipment
-At 1st level, your character has 15 gold pieces (150 silver pieces) to spend on
-armor, weapons, and other basic equipment. Your character’s class lists the types
-of weapons and armor with which they are trained (or better!). Their weapons
-determine how much damage they deal in combat, and their armor influences their
-Armor Class; these calculations are covered in more detail in Step 10. Don’t forget
-essentials such as food and traveling gear! For more on the available equipment and
-how much it costs, see Chapter 6.
-CHARACTER SHEET
-Once you’ve spent your character’s starting wealth, calculate any remaining gp, sp,
-and cp they might still have and write those amounts in Inventory on the second
-page. Record your character’s weapons in the Melee Strikes and Ranged Strikes
-sections of the first page, depending on the weapon, and the rest of their equipment
-in the Inventory section on your character sheet’s second page. You’ll calculate
-specific numbers for melee Strikes and ranged Strikes with the weapons in Step 9
-and for AC when wearing that armor in Step 10.
-Step 9
-Calculate Modifiers
-With most of the big decisions for your character made, it’s time to calculate the
-modifiers for each of the following statistics. If your proficiency rank for a statistic is
-trained, expert, master, and legendary, your bonus equals your character’s level plus
-another number based on the rank (2, 4, 6, and 8, respectively). If your character is
-untrained, your proficiency bonus is +0.
-Perception
-Your character’s Perception modifier measures how alert they are. This modifier is
-equal to their proficiency bonus in Perception plus their Wisdom modifier. For more
-about Perception, see page 448.
-Saving Throws
-For each kind of saving throw, add your character’s Fortitude, Reflex, or Will
-proficiency bonus (as appropriate) plus the ability modifier associated with that
-kind of saving throw. For Fortitude saving throws, use your character’s Constitution
-modifier. For Reflex saving throws, use your character’s Dexterity modifier. For Will
-saving throws, use your character’s Wisdom modifier. Then add in any bonuses or
-penalties from abilities, feats, or items that always apply (but not modifiers, bonuses,
-or penalties that apply only in certain situations). Record this number on the line for
-that saving throw.
-Melee Strikes and Ranged Strikes
-Next to where you’ve written your character’s melee and ranged weapons, calculate
-the modifier to Strike with each weapon and how much damage that Strike deals. The
-modifier for a Strike is equal to your character’s proficiency bonus with the weapon plus
-an ability modifier (usually Strength for melee Strikes and Dexterity for ranged Strikes).
-You also add any item bonus from the weapon and any other permanent bonuses or
-penalties. You also need to calculate how much damage each weapon’s Strike deals.
-Melee weapons usually add your character’s Strength modifier to damage rolls, while
-ranged weapons might add some or all of your character’s Strength modifier, depending
-on the weapon’s traits. See the weapon entries in Chapter 6 for more information.
-Introduction
-Introduction
-Ancestries &
-Backgrounds
-Classes
-Skills
-Feats
-Equipment
-Spells
-The Age of
-Lost OMENS
-Playing the
-Game
-Game
-mastering
-Crafting
-& Treasure
-Appendix
+don’t deserve wealth; overindulge in physical pleasures,
+food, or drink
+Follower Alignments LG, LN, LE
+Whispering Way
+These cultists believe undeath is the truest form
+of existence, and life is meant to be spent in
+preparation for transition to a more glorious
+unlife after death.
+Edicts seek methods to become undead (a lich
+TABLE 8–2: DOMAINS
+
+Domain
+Description
+Domain Spell
+Advanced Domain Spell
+Ambition
+You strive to keep up with and outpace the competition.
+Blind ambition
+Competitive edge
+Air
+You can control winds and the weather.
+Pushing gust
+Disperse into air
+Cities
+You have powers over urban environments and denizens.
+Face in the crowd
+Pulse of the city
+Confidence
+You overcome your fear and project pride.
+Veil of confidence
+Delusional pride
+Creation
+You have divine abilities related to crafting and art.
+Splash of art
+Artistic flourish
+Darkness
+You operate in the darkness and take away the light.
+Cloak of shadow
+Darkened eyes
+Death
+You have the power to end lives and destroy undead.
+Death’s call
+Eradicate undeath
+Destruction
+You are a conduit for divine devastation.
+Cry of destruction
+Destructive aura
+Dreams
+You have the power to enter and manipulate dreams.
+Sweet dream
+Dreamer’s call
+Earth
+You control soil and stone.
+Hurtling stone
+Localized quake
+Family
+You aid and protect your family and community
+Soothing words
+Unity
+
+more effectively.
+Fate
+You see and understand hidden inevitabilities.
+Read fate
+Tempt fate
+Fire
+You control flame.
+Fire ray
+Flame barrier
+Freedom
+You liberate yourself and others from shackles
+Unimpeded stride
+Word of freedom
+
+and constraints.
+Healing
+Your healing magic is particularly potent.
+Healer’s blessing
+Rebuke death
+Indulgence
+You feast mightily and can shake off the effects
+Overstuff
+Take its course
+
+of overindulging.
+Knowledge
+You receive divine insights.
+Scholarly recollection
+Know the enemy
+Luck
+You’re unnaturally lucky and keep out of harm’s way.
+Bit of luck
+Lucky break
+Magic
+You perform the unexpected and inexplicable.
+Magic’s vessel
+Mystic beacon
+Might
+Your physical power is bolstered by divine strength.
+Athletic rush
+Enduring might
+Moon
+You command powers associated with the moon.
+Moonbeam
+Touch of the moon
+Nature
+You hold power over animals and plants.
+Vibrant thorns
+Nature’s bounty
+Nightmares
+You fill minds with horror and dread.
+Waking nightmare
+Shared nightmare
+Pain
+You punish those who displease you with the sharp
+Savor the sting
+Retributive pain
+
+sting of pain.
+Passion
+You evoke passion, whether as love or lust.
+Charming touch
+Captivating adoration
+Perfection
+You strive to perfect your mind, body, and spirit.
+Perfected mind
+Perfected form
+Protection
+You ward yourself and others.
+Protector’s sacrifice
+Protector’s sphere
+Secrecy
+You protect secrets and keep them hidden.
+Forced quiet
+Safeguard secret
+Sun
+You harness the power of the sun and other light
+Dazzling flash
+Positive luminance
+
+sources, and punish undead.
+Travel
+You have power over movement and journeys.
+Agile feet
+Traveler’s transit
+Trickery
+You deceive others and cause mischief.
+Sudden shift
+Trickster’s twin
+Truth
+You pierce lies and discover the truth.
+Word of truth
+Glimpse the truth
+Tyranny
+You wield power to rule and enslave others.
+Touch of obedience
+Commanding lash
+Undeath
+Your magic carries close ties to the undead.
+Touch of undeath
+Malignant sustenance
+Water
+You control water and bodies of water.
+Tidal surge
+Downpour
+Wealth
+You hold power over wealth, trade, and treasure.
+Appearance of wealth
+Precious metals
+Zeal
+Your inner fire increases your combat prowess.
+Weapon surge
+Zeal for battle
+
+if possible), oppose those who seek to destroy undead,
+protect necromantic secrets, serve the Whispering Tyrant
+Anathema destroy necromantic texts (unless they reveal secrets
+of the Whispering Way), teach others of the Whispering Way
+other than by whispering, use positive energy to harm undead
+Domains
+The following domains are used by the primary deities of
+Golarion, as listed on pages 437–440.
+THE AGE OF LOST OMENS
 
 ================================================================================
-PAGE 29
-================================================================================
-
-Skills
-In the second box to the right of each skill name on your
-character sheet, there’s an abbreviation that reminds you
-of the ability score tied to that skill. For each skill in which
-your character is trained, add your proficiency bonus for
-that skill (typically +3 for a 1st-level character) to the
-indicated ability’s modifier, as well as any other applicable
-bonuses and penalties, to determine the total modifier for
-that skill. For skills your character is untrained in, use the
-same method, but your proficiency bonus is +0.
-CHARACTER SHEET
-For Perception and saving throws, write your proficiency
-bonus and the appropriate ability modifier in the boxes
-provided, then record the total modifier in the large space.
-Record the proficiency bonuses, ability modifiers, and total
-modifiers for your melee Strikes and ranged Strikes in the
-box after the name of each weapon, and put the damage
-for each in the space below, along with the traits for that
-attack. For skills, record the relevant ability modifier and
-proficiency bonus in the appropriate box for each skill, and
-then write the total skill modifiers in the spaces to the left.
-If your character has any modifiers, bonuses, or
-penalties from feats or abilities that always apply, add
-them into the total modifiers. For ones that apply only in
-certain situations, note them next to the total modifiers.
-10 Step 10
-Finishing Details
-Now add the following details to your character sheet in
-the appropriate spaces.
-Alignment
-Your character’s alignment is an indicator of their
-morality and personality. There are nine possible
-alignments in Pathfinder, as shown on Table 1–2: The
-Nine Alignments. If your alignment has any components
-other than neutral, your character gains the traits of those
-alignment components. This might affect the way various
-spells, items, and creatures interact with your character.
-Your character’s alignment is measured by two pairs of
-opposed values: the axis of good and evil and the axis of
-law and chaos. A character who isn’t committed strongly
-to either side is neutral on that axis. Keep in mind that
-alignment is a complicated subject, and even acts that might
-be considered good can be used for nefarious purposes, and
-vice versa. The GM is the arbiter of questions about how
-specific actions might affect your character’s alignment.
-If you play a champion, your character’s alignment
-must be one allowed for their deity and cause
-(pages 437–440 and 106–107), and if you play a cleric,
-your character’s alignment must be one allowed for their
-deity (pages 437–440).
-Core Rulebook
-
-================================================================================
-PAGE 30
-================================================================================
-
-Good and Evil
-Your character has a good alignment if they consider the
-happiness of others above their own and work selflessly to
-assist others, even those who aren’t friends and family. They
-are also good if they value protecting others from harm,
-even if doing so puts the character in danger. Your character
-has an evil alignment if they’re willing to victimize others
-for their own selfish gain, and even more so if they enjoy
-inflicting harm. If your character falls somewhere in the
-middle, they’re likely neutral on this axis.
-Law and Chaos
-Your character has a lawful alignment if they value
-consistency, stability, and predictability over flexibility.
-Lawful characters have a set system in life, whether it’s
-meticulously planning day-to-day activities, carefully
-following a set of official or unofficial laws, or strictly
-adhering to a code of honor. On the other hand, if your
-character values flexibility, creativity, and spontaneity over
-consistency, they have a chaotic alignment—though this
-doesn’t mean they make decisions by choosing randomly.
-Chaotic characters believe that lawful characters are too
-inflexible to judge each situation by its own merits or take
-advantage of opportunities, while lawful characters believe
-that chaotic characters are irresponsible and flighty.
-Many characters are in the middle, obeying the law
-or following a code of conduct in many situations, but
-bending the rules when the situation requires it. If your
-character is in the middle, they are neutral on this axis.
-Changing Alignment
-Alignment can change during play as a character’s beliefs
-change, or as you realize that your character’s actions
-reflect a different alignment than the one on your character
-sheet. In most cases, you can just change their alignment
-and continue playing. However, if you play a cleric or
-champion and your character’s alignment changes to one
-not allowed for their deity (or cause, for champions), your
-character loses some of their class abilities until they atone
-(as described in the class).
-Deity
-Write down the deity your character worships, if any.
-Champions and clerics must worship a deity. See pages
-437–440 for more about Pathfinder’s deities.
-Age
-Decide your character’s age and note it on the third page
-of the character sheet. The description for your character’s
-ancestry in Chapter 2 gives some guidance on the age
-ranges of members of that ancestry. Beyond that, you can
-play a character of whatever age you like. There aren’t
-any mechanical adjustments to your character for being
-particularly old, but you might want to take it into account
-when considering your starting ability scores and future
-advancement. Particularly young characters can change
-the tone of some of the game’s threats, so it’s recommended
-that characters are at least young adults.
-Gender and Pronouns
-Characters of all genders are equally likely to become
-adventurers. Record your character’s gender, if applicable,
-and their pronouns on the third page of the character sheet.
-Class DC
-A class DC sets the difficulty for certain abilities granted
-by your character’s class. This DC equals 10 plus their
-proficiency bonus for their class DC (+3 for most 1st-level
-characters) plus the modifier for the class’s key ability score.
-Hero Points
-Your character usually begins each game session with
-1 Hero Point, and you can gain additional Hero Points
-during sessions by performing heroic deeds or devising
-clever strategies. Your character can use Hero Points to
-gain certain benefits, such as staving off death or rerolling
-a d20. See page 467 for more about Hero Points.
-Armor Class (AC)
-Your character’s Armor Class represents how difficult they
-are to hit in combat. To calculate your AC, add 10 plus
-your character’s Dexterity modifier (up to their armor’s
-Dexterity modifier cap; page 274), plus their proficiency
-bonus with their armor, plus their armor’s item bonus to
-AC and any other permanent bonuses and penalties.
-Bulk
-Your character’s maximum Bulk determines how much
-weight they can comfortably carry. If they’re carrying a total
-amount of Bulk that exceeds 5 plus their Strength modifier,
-they are encumbered. A character can’t carry a total amount
-of Bulk that exceeds 10 plus their Strength modifier. The
-Bulk your character is carrying equals the sum of all of their
-items; keep in mind that 10 light items make up 1 Bulk. You
-can find out more about Bulk in Chapter 6: Equipment.
-TABLE 1–2: THE NINE ALIGNMENTS
-Good
-Neutral
-Evil
-Lawful
-Lawful
-Good
-(LG)
-Lawful
-Neutral
-(LN)
-Lawful
-Evil
-(LE)
-Neutral
-Neutral
-Good
-(NG)
-True
-Neutral
-(N)
-Neutral
-Evil
-(NE)
-Chaotic
-Chaotic
-Good
-(CG)
-Chaotic
-Neutral
-(CN)
-Chaotic
-Evil
-(CE)
-Introduction
-Introduction
-Ancestries &
-Backgrounds
-Classes
-Skills
-Feats
-Equipment
-Spells
-The Age of
-Lost OMENS
-Playing the
-Game
-Game
-mastering
-Crafting
-& Treasure
-Appendix
-
-================================================================================
-PAGE 31
-================================================================================
-
-Sample Character
-This step-by-step example illustrates the process of
-creating a Pathfinder character.
-Steps 1 and 2
-Adam is making his first Pathfinder character. After
-talking about it with the rest of the group, he’s decided to
-make a dwarven druid. After jotting down a few ideas, he
-begins by writing down a 10 for each ability score.
-Step 3
-Adam looks up the dwarf entry in Chapter 2. He records
-the ability boosts to his Constitution and Wisdom scores
-(bringing both up to 12). He also applies the ability flaw
-to his Charisma, dropping it to 8. For his free ability
-boost, he chooses Dexterity to boost his defenses, raising
-it to 12 as well. He also records the 10 Hit Points the
-ancestry gives him. Next, he returns to his character
-sheet to record the size, Speed, language, and darkvision
-ability he gets from being a dwarf. Finally, he decides on
-a heritage, writing “rock dwarf” next to dwarf, and he
-picks an ancestry feat, deciding on Rock Runner, to show
-his character’s strong connection to stone.
-Step 4
-Looking through the backgrounds, Adam likes the idea
-of a solitary dwarven druid, and the nomad background
-makes for a good choice. For the first ability boost
-granted by the background, Adam chooses Wisdom, and
-for the free ability boost, he choses Constitution, taking
-both up to 14. On the second page, he writes “Assurance
-(Survival)” in the Skill Feats area, on the Background line.
-Finally, returning to the first page, he writes “cave” next
-to the first Lore skill entry and checks the box under the
-“T” for that skill and Survival.
-Step 5
-Adam writes “druid” on the class line of his character sheet
-and fills in the number 1 in the level box. The druid class
-grants an ability boost to its key ability score, which is
-Wisdom, so Adam’s character has his Wisdom raised to 16.
-Step 6
-Adam applies four more ability boosts to his ability
-scores to determine his starting scores. After giving it
-some thought, he applies them to Wisdom (raising it
-to 18), since that’s the most important ability score for
-his class, and to Strength, Dexterity, and Constitution
-(raising them to 12, 14, and 16, respectively) to make him
-better in combat. He then looks at Table 1–1 to determine
-the ability modifiers for each score and writes all of his
-ability scores and modifiers down on his character sheet.
-Step 7
-As Adam applies his class, he has a number of things to
-figure out. First, he starts by recording all of his initial
-proficiencies, marking the appropriate boxes in the
-Armor Class, Saving Throws, Weapon Proficiencies, Spell
-Attack Roll, and Spell DCs areas of his sheet. Turning to
-skills, he marks Nature as trained and notes that once he
-picks his druid order, he’ll become trained in another skill
-determined by that order. He then gets to choose three
-more skills (if he had a higher Intelligence, he would have
-gotten more). He decides on Athletics, Diplomacy, and
-Medicine, marking all of them as trained. Next, he adds
-the 8 Hit Points from the druid class and his Constitution
-modifier of +3 to the 10 Hit Points from his dwarf
-ancestry for an impressive 21 total Hit Points.
-Moving on to class features, Adam marks down wild
-empathy in the class feats and abilities area, as well as the
-Shield Block feat in the bonus feats area. He makes note of
-the anathema for being a druid and records Druidic in his
-language section. Next, he looks through the druid orders
-and decides upon the wild order, which gives him his final
-trained skill (Intimidation), the ability to cast wild morph,
-as well as the Wild Shape feat, which lets him cast a spell
-to turn into an animal. He writes these spells in the focus
-spell area of his character sheet and also notes that he has
-1 Focus Point to use to cast these spells.
-Finally, a druid can cast a limited number of primal
-spells. Although he can change them every morning, Adam
-is curious, and he turns to Chapter 7: Spells to decide
-what spells he might cast. He jots down five cantrips and
-two 1st-level spells and marks them as prepared.
-Step 8
-Next up, Adam turns to Chapter 6: Equipment. He’s
-trained in medium armor, but since wearing metal armor is
-anathema to druids, he chooses hide armor. For weapons,
-he decides on a spear, but he buys two just in case he wants
-to throw the first one. He writes all of these on the front of
-his character sheet. Adam lists the spear under both melee
-Strikes and ranged Strikes, and he also writes the claws he
-gains from wild morph under his melee Strikes, because
-he’s sure that he’ll be casting that spell a lot. He records the
-rest of his gear in the Inventory section on the second page,
-along with coin left over after buying his starting gear.
-Step 9
-Adam records all of the ability modifiers for Perception,
-saving throws, Strikes, and skills. He then puts a “+3” in
-the box marked Prof to indicate his proficiency bonus
-for each statistic he’s trained in (1 for his level, plus 2 for
-being trained) and "+5" in any that he is an expert. Then,
-he adds up his modifiers for each statistic.
-Step 10
-Finally, Adam fills out the final details of his character,
-noting his neutral alignment and calculating his AC and
-Bulk limits. Last but not least, he fills in some last-minute
-information about his character and decides on a name.
-Gar the dwarf druid is ready for his first adventure!
-Core Rulebook
-
-================================================================================
-PAGE 32
-================================================================================
-
-Leveling Up
-The world of Pathfinder is a dangerous place, and your
-character will face terrifying beasts and deadly traps on
-their journey into legend. With each challenge resolved,
-a character earns Experience Points (XP) that allow
-them to increase in level. Each level grants greater skill,
-increased resiliency, and new capabilities, allowing your
-character to face even greater challenges and go on to
-earn even more impressive rewards.
-Each time your character reaches 1,000 Experience
-Points, their level increases by 1. On your character
-sheet, indicate your character’s new level beside the
-name of their class, and deduct 1,000 XP from their XP
-total. If you have any Experience Points left after this,
-record them—they count toward your next level, so your
-character is already on their way to advancing yet again!
-Next, return to your character’s class entry. Increase
-your character’s total Hit Points by the number indicated
-for your class. Then, take a look at the class advancement
-table and find the row for your character’s new level.
-Your character gains all the abilities listed for that
-level, including new abilities specific to your class and
-additional benefits all characters gain as they level up.
-For example, all characters gain four ability boosts at 5th
-level and every 5 levels thereafter.
-You can find all the new abilities specific to your class,
-including class feats, right in your class entry, though you
-can also use class feats to take an archetype (page 219).
-Your character’s class entry also explains how to apply
-any ability boosts and skill increases your character gains.
-If they gain an ancestry feat, head back to the entry for
-your character’s ancestry in Chapter 2 and select another
-ancestry feat from the list of options. If they gain a skill
-increase, refer to Chapter 4 when deciding which skill
-to apply it to. If they gain a general feat or a skill feat,
-you can choose from the feats listed in Chapter 5. If they
-can cast spells, see the class entry for details on adding
-spell slots and spells. It’s also a good idea to review
-your character’s spells in Chapter 7 and see if there are
-heightened versions they can now cast.
-Once you’ve made all your choices for your
-character’s new level, be sure to go over your character
-sheet and adjust any values that have changed. At a bare
-minimum, your proficiency bonuses all increase by 1
-because you’ve gained a level, so your AC, attack rolls,
-Perception, saving throws, skill modifiers, spell attack
-rolls, and class DC all increase by at least 1. You might
-need to change other values because of skill increases,
-ability boosts, or class features that either increase your
-proficiency rank or increase other statistics at certain
-levels. If an ability boost increases your character’s
-Constitution modifier, recalculate their maximum Hit
-Points using their new Constitution modifier (typically
-this adds 1 Hit Point per level). If an ability boost
-increases your character’s Intelligence modifier, they
-become trained in an additional skill and language.
-Some feats grant a benefit based on your level, such
-as Toughness, and these benefits are adjusted whenever
-you gain a level as well.
-You can perform the steps in the leveling-up process in
-whichever order you want. For example, if you wanted
-to take the skill feat Intimidating Prowess as your skill
-feat at 10th level, but your character’s Strength score
-was only 14, you could first increase their Strength score
-to 16 using the ability boosts gained at 10th level, and
-then take Intimidating Prowess as a skill feat at the
-same level.
-Leveling-Up Checklist
-Every time you gain a level, make sure you do each of
-the following:
-• Increase your level by 1 and subtract 1,000 XP
-from your XP total.
-• Increase your maximum Hit Points by the amount
-listed in your class entry in Chapter 3.
-• Add class features from your class advancement
-table, including ability boosts and skill increases.
-• Select feats as indicated on your class advancement
-table. For ancestry feats, see Chapter 2. For class
-feats, see your class entry in Chapter 3. For general
-feats and skill feats, see Chapter 5.
-• Add spells and spell slots if your class grants
-spellcasting. See Chapter 7 for spells.
-• Increase all of your proficiency bonuses by 1
-from your new level, and make other increases to
-your proficiency bonuses as necessary from skill
-increases or other class features. Increase any
-other statistics that changed as a result of ability
-boosts or other abilities.
-• Adjust bonuses from feats and other abilities that
-are based on your level.
-Introduction
-Introduction
-Ancestries &
-Backgrounds
-Classes
-Skills
-Feats
-Equipment
-Spells
-The Age of
-Lost OMENS
-Playing the
-Game
-Game
-mastering
-Crafting
-& Treasure
-Appendix
-
-================================================================================
-PAGE 33
+PAGE 443
 ================================================================================
 
 Core Rulebook
 
 ================================================================================
-PAGE 34
+PAGE 444
 ================================================================================

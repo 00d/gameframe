@@ -1,13 +1,21 @@
 {
   "source_pdf": "Dark Archive.pdf",
   "book_name": "Dark_Archive",
-  "total_sections": 1,
+  "total_sections": 2,
   "extraction_methods": [
     "pymupdf"
   ],
   "total_pages": 226,
   "pages_with_content": 226,
   "sections": [
+    {
+      "type": "front_matter",
+      "number": 0,
+      "title": "Front Matter",
+      "start_page": 1,
+      "end_page": 154,
+      "filename": "00_front_matter.txt"
+    },
     {
       "type": "appendix",
       "number": 1,

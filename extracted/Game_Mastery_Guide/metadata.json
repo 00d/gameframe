@@ -1,13 +1,21 @@
 {
   "source_pdf": "Pathfinder-2e-Game-Mastery-Guide.pdf",
   "book_name": "Game_Mastery_Guide",
-  "total_sections": 5,
+  "total_sections": 6,
   "extraction_methods": [
     "pymupdf"
   ],
   "total_pages": 258,
   "pages_with_content": 258,
   "sections": [
+    {
+      "type": "front_matter",
+      "number": 0,
+      "title": "Front Matter",
+      "start_page": 1,
+      "end_page": 7,
+      "filename": "00_front_matter.txt"
+    },
     {
       "type": "chapter",
       "number": 1,

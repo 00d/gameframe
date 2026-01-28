@@ -10,7 +10,7 @@ const PORT = 3300;
 const EXTRACTED_ROOT = path.resolve(__dirname, '../extracted');
 const RULES_ROOT = path.resolve(__dirname, '../rules');
 
-app.use(express.static('public'));
+app.use(express.static(path.resolve(__dirname, '../public')));
 
 /**
  * Canonicalize and validate a request path so it stays within an allowed root.
@@ -18,37 +18,48 @@ app.use(express.static('public'));
  */
 function safePath(root: string, reqPath: string): string | null {
   const resolved = path.resolve(root, reqPath);
-  if (!resolved.startsWith(root + path.sep) && resolved !== root) {
+  const rel = path.relative(root, resolved);
+  if (rel.startsWith('..') || path.isAbsolute(rel)) {
     return null;
   }
   return resolved;
 }
 
-/** Build the file tree for the extracted content directory. */
-app.get('/api/files', (req, res) => {
-  const getFiles = (dir: string): Array<{name: string; type: string; children?: Array<any>; path?: string}> => {
-    let entries: string[];
-    try {
-      entries = fs.readdirSync(dir);
-    } catch {
-      return [];
-    }
-    return entries
-      .map(file => {
-        const fullPath = path.join(dir, file);
-        const stat = fs.statSync(fullPath);
-        if (stat.isDirectory()) {
-          return { name: file, type: 'directory', children: getFiles(fullPath) };
-        } else if (file.endsWith('.txt')) {
-          return { name: file, type: 'file', path: path.relative(EXTRACTED_ROOT, fullPath) };
-        }
-        return null;
-      })
-      .filter((item): item is NonNullable<typeof item> => item !== null);
-  };
-
+/** Build the file tree for a given directory, using pathPrefix for client-side paths. */
+function getFiles(dir: string, root: string, pathPrefix: string, ext: string): Array<{name: string; type: string; children?: Array<any>; path?: string}> {
+  let entries: string[];
   try {
-    res.json(getFiles(EXTRACTED_ROOT));
+    entries = fs.readdirSync(dir);
+  } catch {
+    return [];
+  }
+  return entries
+    .map(file => {
+      const fullPath = path.join(dir, file);
+      const stat = fs.statSync(fullPath);
+      if (stat.isDirectory()) {
+        return { name: file, type: 'directory', children: getFiles(fullPath, root, pathPrefix, ext) };
+      } else if (file.endsWith(ext)) {
+        const relPath = path.relative(root, fullPath);
+        return { name: file, type: 'file', path: pathPrefix ? pathPrefix + '/' + relPath : relPath };
+      }
+      return null;
+    })
+    .filter((item): item is NonNullable<typeof item> => item !== null);
+}
+
+/** Serve file tree: extracted/ .txt files + rules/ .md files */
+app.get('/api/files', (req, res) => {
+  try {
+    const tree = getFiles(EXTRACTED_ROOT, EXTRACTED_ROOT, '', '.txt');
+
+    // Append curated rules as a synthetic folder entry
+    const rulesChildren = getFiles(RULES_ROOT, RULES_ROOT, 'rules', '.md');
+    if (rulesChildren.length > 0) {
+      tree.push({ name: 'Rules (Curated)', type: 'directory', children: rulesChildren });
+    }
+
+    res.json(tree);
   } catch {
     res.status(500).json({ error: 'Failed to read content directory' });
   }
@@ -65,6 +76,18 @@ function escapeHtml(text: string): string {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#039;');
+}
+
+/** Strip dangerous HTML from marked() output: script blocks, event handlers, javascript: URLs */
+function sanitizeHtml(html: string): string {
+  // Remove <script>...</script> blocks (case-insensitive, including attributes)
+  let result = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '');
+  // Remove on* event-handler attributes
+  result = result.replace(/\bon\w+\s*=\s*("(?:[^"\\]|\\.)*"|'(?:[^'\\]|\\.)*'|[^\s>]+)/gi, '');
+  // Strip javascript: and vbscript: URLs in href/src/action attributes
+  result = result.replace(/(href|src|action)\s*=\s*"(javascript|vbscript)\s*:/gi, '$1="');
+  result = result.replace(/(href|src|action)\s*=\s*'(javascript|vbscript)\s*:/gi, "$1='");
+  return result;
 }
 
 /** Wrap inline markup: **bold**, *italic*, `code` */
@@ -159,6 +182,7 @@ function tokenize(text: string): Token[] {
   const tokens: Token[] = [];
   let i = 0;
   let inStatBlock = false;
+  let statBlockStart = 0;
 
   while (i < lines.length) {
     const line = lines[i];
@@ -203,6 +227,7 @@ function tokenize(text: string): Token[] {
       }
       tokens.push({ type: 'header', content: headerText, level: mdHeaderMatch[1].length });
       inStatBlock = false;
+      statBlockStart = tokens.length;
       i++;
       continue;
     }
@@ -211,6 +236,7 @@ function tokenize(text: string): Token[] {
     if (isCreatureName(trimmed, lines[i + 1]?.trim())) {
       tokens.push({ type: 'creature-name', content: trimmed });
       inStatBlock = true;
+      statBlockStart = tokens.length - 1;
       i++;
       continue;
     }
@@ -240,6 +266,7 @@ function tokenize(text: string): Token[] {
     // Only treat as stat field if: already in a stat block, OR line has substantial content
     // after the field name (prevents TOC entries like "Skills" alone from triggering)
     if (STAT_FIELD_RE.test(trimmed) && (inStatBlock || trimmed.length > 15)) {
+      if (!inStatBlock) statBlockStart = tokens.length;
       inStatBlock = true;
       let fullField = trimmed;
       // Collect continuation lines
@@ -307,8 +334,10 @@ function tokenize(text: string): Token[] {
       const level = trimmed.length > 10 ? 2 : 3;
       tokens.push({ type: 'header', content: trimmed, level });
       // An all-caps header outside of stat context ends the stat block
-      if (!inStatBlock || tokens.filter(t => t.type === 'stat-field' || t.type === 'ability').length === 0) {
+      const sinceStart = tokens.slice(statBlockStart);
+      if (!inStatBlock || sinceStart.filter(t => t.type === 'stat-field' || t.type === 'ability').length === 0) {
         inStatBlock = false;
+        statBlockStart = tokens.length;
       }
       i++;
       continue;
@@ -342,6 +371,7 @@ function tokenize(text: string): Token[] {
       const lastNonBlank = tokens.slice().reverse().find(t => t.type !== 'blank');
       if (!lastNonBlank || lastNonBlank.type === 'page-marker' || lastNonBlank.type === 'header') {
         inStatBlock = false;
+        statBlockStart = tokens.length;
       }
     }
 
@@ -519,9 +549,32 @@ function textToHtml(text: string): string {
 // Content API endpoints
 // ---------------------------------------------------------------------------
 
+/** Render markdown content safely */
+function renderMarkdown(content: string): string {
+  return sanitizeHtml(marked.parse(content) as string);
+}
+
 /** Serve content - supports both .txt (extracted) and .md (curated) files */
 app.get('/api/content/:path(*)', (req, res) => {
   const reqPath = req.params.path;
+
+  // Explicit rules/ prefix → serve from RULES_ROOT as markdown
+  if (reqPath.startsWith('rules/')) {
+    const rulesRelative = reqPath.slice('rules/'.length);
+    const mdPath = safePath(RULES_ROOT, rulesRelative);
+    if (mdPath && mdPath.endsWith('.md') && fs.existsSync(mdPath)) {
+      try {
+        const content = fs.readFileSync(mdPath, 'utf-8');
+        res.setHeader('Content-Type', 'text/html; charset=utf-8');
+        res.send(renderMarkdown(content));
+      } catch {
+        res.status(500).json({ error: 'Failed to read file' });
+      }
+      return;
+    }
+    res.status(404).json({ error: 'File not found' });
+    return;
+  }
 
   // Security: canonicalize path and ensure it stays within allowed roots
   const extractedPath = safePath(EXTRACTED_ROOT, reqPath);
@@ -536,13 +589,13 @@ app.get('/api/content/:path(*)', (req, res) => {
     return;
   }
 
-  // Fall back to rules directory (md files)
+  // Legacy fallback: .txt→.md in rules directory
   const mdPath = safePath(RULES_ROOT, reqPath.replace(/\.txt$/, '.md'));
   if (mdPath && mdPath.endsWith('.md') && fs.existsSync(mdPath)) {
     try {
       const content = fs.readFileSync(mdPath, 'utf-8');
       res.setHeader('Content-Type', 'text/html; charset=utf-8');
-      res.send(marked(content));
+      res.send(renderMarkdown(content));
     } catch {
       res.status(500).json({ error: 'Failed to read file' });
     }
@@ -562,7 +615,7 @@ app.get('/api/search', (req, res) => {
 
   const results: Array<{ path: string; name: string; snippets: string[] }> = [];
 
-  const searchDir = (dir: string, basePath: string) => {
+  const searchDir = (dir: string, basePath: string, ext: string) => {
     let entries: string[];
     try { entries = fs.readdirSync(dir); } catch { return; }
 
@@ -570,10 +623,10 @@ app.get('/api/search', (req, res) => {
       const full = path.join(dir, entry);
       const stat = fs.statSync(full);
       if (stat.isDirectory()) {
-        searchDir(full, path.join(basePath, entry));
+        searchDir(full, path.join(basePath, entry), ext);
         continue;
       }
-      if (!entry.endsWith('.txt')) continue;
+      if (!entry.endsWith(ext)) continue;
 
       try {
         const content = fs.readFileSync(full, 'utf-8');
@@ -599,7 +652,7 @@ app.get('/api/search', (req, res) => {
         if (snippets.length > 0) {
           results.push({
             path: path.join(basePath, entry),
-            name: entry.replace('.txt', ''),
+            name: entry.replace(/\.\w+$/, ''),
             snippets
           });
         }
@@ -609,7 +662,8 @@ app.get('/api/search', (req, res) => {
     }
   };
 
-  searchDir(EXTRACTED_ROOT, '');
+  searchDir(EXTRACTED_ROOT, '', '.txt');
+  searchDir(RULES_ROOT, 'rules', '.md');
 
   // Sort by match count (most relevant first), limit to 20 results
   results.sort((a, b) => b.snippets.length - a.snippets.length);

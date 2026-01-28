@@ -241,10 +241,10 @@
         </style>
         <!-- Theme toggle -->
         <button id="theme-toggle" class="p-1.5 rounded transition-colors" title="Toggle theme">
-          <svg id="theme-icon-moon" class="w-5 h-5 dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="display:none;">
+          <svg id="theme-icon-moon" class="w-5 h-5 dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3a9 9 0 000 18 9 9 0 000-18z"></path>
           </svg>
-          <svg id="theme-icon-sun" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="display:block;">
+          <svg id="theme-icon-sun" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M12 8a4 4 0 100 8 4 4 0 000-8z"></path>
           </svg>
           <style>
@@ -574,7 +574,7 @@
       showState('loading-indicator');
 
       try {
-        const res = await fetch('/api/content/' + encodeURIComponent(filePath));
+        const res = await fetch('/api/content/' + filePath.split('/').map(encodeURIComponent).join('/'));
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const html = await res.text();
 
@@ -647,7 +647,7 @@
       searchInput.value = '';
       searchEmpty.classList.remove('hidden');
       // Clear previous results
-      const prev = searchResults.querySelectorAll('.search-panel-result');
+      const prev = searchResults.querySelectorAll('.search-panel-result, .search-count');
       prev.forEach(el => el.remove());
       searchInput.focus();
     }
@@ -667,7 +667,7 @@
       const q = searchInput.value.trim();
       if (!q || q.length < 2) {
         // Clear results
-        searchResults.querySelectorAll('.search-panel-result').forEach(el => el.remove());
+        searchResults.querySelectorAll('.search-panel-result, .search-count').forEach(el => el.remove());
         searchEmpty.classList.remove('hidden');
         searchEmpty.textContent = q.length < 2 ? 'Type to search across all rulebook content' : 'No results found';
         return;
@@ -679,7 +679,7 @@
 
     async function performSearch(query) {
       // Show loading state
-      searchResults.querySelectorAll('.search-panel-result').forEach(el => el.remove());
+      searchResults.querySelectorAll('.search-panel-result, .search-count').forEach(el => el.remove());
       searchEmpty.classList.remove('hidden');
       searchEmpty.textContent = 'Searching...';
 
@@ -697,7 +697,7 @@
 
         // Show count
         const countEl = document.createElement('div');
-        countEl.className = 'px-4 py-1.5 text-xs';
+        countEl.className = 'search-count px-4 py-1.5 text-xs';
         countEl.style.color = '#8b949e';
         countEl.textContent = `${data.total} file${data.total !== 1 ? 's' : ''} match`;
         searchResults.appendChild(countEl);
@@ -708,7 +708,7 @@
 
           const nameEl = document.createElement('div');
           nameEl.className = 'text-sm font-medium';
-          nameEl.textContent = result.name.replace(/_/g, ' ');
+          nameEl.textContent = result.name.replace(/\.\w+$/, '').replace(/_/g, ' ');
           card.appendChild(nameEl);
 
           const pathEl = document.createElement('div');
@@ -770,9 +770,14 @@
       localStorage.setItem('pf2e-sidebar-width', sidebar.style.width);
     });
 
-    // Restore sidebar width
+    // Restore sidebar width (validate to prevent tampered/stale values)
     const savedWidth = localStorage.getItem('pf2e-sidebar-width');
-    if (savedWidth) sidebar.style.width = savedWidth;
+    if (savedWidth) {
+      const parsed = parseInt(savedWidth, 10);
+      if (!isNaN(parsed) && parsed >= 180 && parsed <= 520) {
+        sidebar.style.width = parsed + 'px';
+      }
+    }
 
     // --- Mobile sidebar ---
     mobileSidebarToggle.addEventListener('click', () => {

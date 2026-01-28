@@ -1,7 +1,7 @@
 {
   "source_pdf": "Pathfinder-2e-core-Rulebook.pdf",
   "book_name": "Core_Rulebook",
-  "total_sections": 14,
+  "total_sections": 12,
   "extraction_methods": [
     "pymupdf"
   ],
@@ -9,32 +9,27 @@
   "pages_with_content": 642,
   "sections": [
     {
-      "type": "chapter",
-      "number": 1,
-      "title": "Introduction",
-      "start_line": 275,
-      "end_line": 1278,
-      "start_page": 8,
-      "end_page": 16,
-      "filename": "01_chapter_1_introduction.txt"
+      "type": "front_matter",
+      "number": 0,
+      "title": "Front Matter",
+      "start_page": 1,
+      "end_page": 7,
+      "filename": "00_front_matter.txt"
     },
     {
       "type": "chapter",
-      "number": 8,
-      "title": "the age of lost omens",
-      "start_line": 1279,
-      "end_line": 3815,
-      "start_page": 17,
-      "end_page": 16,
-      "filename": "08_chapter_8_the_age_of_lost_omens.txt"
+      "number": 1,
+      "title": "Introduction",
+      "start_page": 8,
+      "end_page": 34,
+      "filename": "01_chapter_1_introduction.txt",
+      "notes": "Includes full chapter overview (pages 8-34). Previously split incorrectly with pages 18-34 in a mislabeled ch8 file."
     },
     {
       "type": "chapter",
       "number": 2,
       "title": "Ancestries & Backgrounds",
-      "start_line": 3816,
-      "end_line": 7077,
-      "start_page": 34,
+      "start_page": 35,
       "end_page": 67,
       "filename": "02_chapter_2_ancestries_backgrounds.txt"
     },
@@ -42,18 +37,23 @@
       "type": "chapter",
       "number": 3,
       "title": "Classes",
-      "start_line": 7078,
-      "end_line": 26329,
       "start_page": 68,
-      "end_page": 233,
+      "end_page": 255,
       "filename": "03_chapter_3_classes.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 4,
+      "title": "Skills",
+      "start_page": 482,
+      "end_page": 531,
+      "filename": "04_chapter_4_skills.txt",
+      "notes": "Non-contiguous pages: 482-483 (exploration/downtime summaries) and 500-531 (main skills reference). Pages 484-498 belong to Chapter 10 (Game Mastering) which is interleaved in the PDF."
     },
     {
       "type": "chapter",
       "number": 5,
       "title": "Feats",
-      "start_line": 26330,
-      "end_line": 28232,
       "start_page": 256,
       "end_page": 271,
       "filename": "05_chapter_5_feats.txt"
@@ -62,8 +62,6 @@
       "type": "chapter",
       "number": 6,
       "title": "Equipment",
-      "start_line": 28233,
-      "end_line": 32097,
       "start_page": 272,
       "end_page": 297,
       "filename": "06_chapter_6_equipment.txt"
@@ -72,8 +70,6 @@
       "type": "chapter",
       "number": 7,
       "title": "Spells",
-      "start_line": 32098,
-      "end_line": 48207,
       "start_page": 298,
       "end_page": 417,
       "filename": "07_chapter_7_spells.txt"
@@ -81,69 +77,31 @@
     {
       "type": "chapter",
       "number": 8,
-      "title": "The Age of Lost Omens Ten thousand years ago, the world of Golarion came close to ending. Earthfall, as this extinction-level event came to be known, saw the world pummeled by a shower of falling stars that sank continents, hollowed out new seas, and destroyed civilizations. It took centuries for the world to recover, and centuries more for society to rebuild, but recover it did. Introduction Ancestries & Backgrounds Classes Skills Feats Equipment Spells The Age of",
-      "start_line": 48208,
-      "end_line": 50316,
+      "title": "The Age of Lost Omens",
       "start_page": 418,
       "end_page": 443,
-      "filename": "08_chapter_8_the_age_of_lost_omens_ten_thousand_years_ago_the_w.txt"
+      "filename": "08_chapter_8_the_age_of_lost_omens.txt"
     },
     {
       "type": "chapter",
       "number": 9,
       "title": "Playing the Game",
-      "start_line": 50317,
-      "end_line": 54347,
       "start_page": 444,
       "end_page": 480,
       "filename": "09_chapter_9_playing_the_game.txt"
     },
     {
       "type": "chapter",
-      "number": 4,
-      "title": "Skills includes numerous additional exploration",
-      "start_line": 54348,
-      "end_line": 54541,
-      "start_page": 481,
-      "end_page": 481,
-      "filename": "04_chapter_4_skills_includes_numerous_additional_exploration.txt"
-    },
-    {
-      "type": "chapter",
-      "number": 4,
-      "title": "Skills includes several downtime activities,",
-      "start_line": 54542,
-      "end_line": 54625,
-      "start_page": 482,
-      "end_page": 483,
-      "filename": "04_chapter_4_skills_includes_several_downtime_activities.txt"
-    },
-    {
-      "type": "chapter",
       "number": 10,
       "title": "Game Mastering",
-      "start_line": 54626,
-      "end_line": 56250,
       "start_page": 484,
       "end_page": 498,
       "filename": "10_chapter_10_game_mastering.txt"
     },
     {
       "type": "chapter",
-      "number": 4,
-      "title": "Skills.",
-      "start_line": 56251,
-      "end_line": 60240,
-      "start_page": 499,
-      "end_page": 531,
-      "filename": "04_chapter_4_skills.txt"
-    },
-    {
-      "type": "chapter",
       "number": 11,
       "title": "Crafting & Treasure",
-      "start_line": 60241,
-      "end_line": 76983,
       "start_page": 532,
       "end_page": 642,
       "filename": "11_chapter_11_crafting_treasure.txt"
