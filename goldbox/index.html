@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Gold Box — Dungeon Raycaster Prototype</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #0a0a0a;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      overflow: hidden;
+    }
+    canvas {
+      display: block;
+      image-rendering: pixelated;
+      width: 960px;
+      height: 720px;
+    }
+    #overlay {
+      position: fixed;
+      top: 12px;
+      left: 16px;
+      color: #c8b070;
+      font-family: monospace;
+      font-size: 13px;
+      opacity: 0.8;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="canvas"></canvas>
+  <div id="overlay">WASD: move &nbsp; C: character &nbsp; I: inventory &nbsp; ESC: menu</div>
+  <script type="module" src="./src/main.ts"></script>
+</body>
+</html>

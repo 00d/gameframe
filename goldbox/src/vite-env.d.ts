@@ -1,0 +1,20 @@
+/// <reference types="vite/client" />
+
+// Declare module types for Vite imports
+
+// JSON module imports
+declare module '*.json' {
+  const value: any;
+  export default value;
+}
+
+// WGSL shader imports (imported as raw strings)
+declare module '*.wgsl?raw' {
+  const content: string;
+  export default content;
+}
+
+declare module '*.wgsl' {
+  const content: string;
+  export default content;
+}
