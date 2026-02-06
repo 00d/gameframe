@@ -475,7 +475,7 @@
 
       const name = document.createElement('span');
       name.className = 'text-sm truncate flex-1';
-      name.textContent = item.name.replace(/_/g, ' ');
+      name.textContent = item.displayName || item.name.replace(/_/g, ' ');
 
       // Item count badge
       const count = item.children ? item.children.length : 0;
@@ -518,6 +518,44 @@
       el.appendChild(childrenContainer);
     }
 
+    /** Convert a filename like "01_chapter_1_introduction.txt" to "Chapter 1: Introduction" */
+    function formatFileName(filename) {
+      let n = filename
+        .replace(/\.\w+$/, '')     // strip extension
+        .replace(/_/g, ' ');       // underscores to spaces
+
+      // Strip leading number prefix: "01 " or "01 chapter N "
+      n = n.replace(/^\d+\s+/, '');
+
+      // Capitalize "chapter N title" → "Chapter N: Title"
+      n = n.replace(/^chapter (\d+)\s+(.+)/i, (_, num, rest) => {
+        const title = rest.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        return 'Ch. ' + num + ': ' + title;
+      });
+
+      // Capitalize "appendix N title" → "Appendix: Title"
+      n = n.replace(/^appendix \d+\s+(.+)/i, (_, rest) => {
+        const title = rest.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        return 'Appendix: ' + title;
+      });
+
+      // Handle special patterns
+      n = n.replace(/^appendix\s+(.+)/i, (_, rest) => {
+        const title = rest.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        return 'Appendix: ' + title;
+      });
+
+      // Capitalize remaining names: "front matter" → "Front Matter"
+      if (!/[A-Z]/.test(n.charAt(0))) {
+        n = n.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+      }
+
+      // Clean up "creatures X" → "Creatures: X"
+      n = n.replace(/^creatures ([a-z])$/i, (_, letter) => 'Creatures: ' + letter.toUpperCase());
+
+      return n;
+    }
+
     function renderFileItem(item, el, level) {
       el.className = 'tree-item flex items-center gap-1.5 py-1.5 rounded cursor-pointer';
       el.style.paddingLeft = (level * 14 + 24) + 'px';
@@ -529,7 +567,7 @@
 
       const name = document.createElement('span');
       name.className = 'text-sm truncate';
-      name.textContent = item.name.replace(/\.\w+$/, '').replace(/_/g, ' ').replace(/^\d+_/, '');
+      name.textContent = formatFileName(item.name);
 
       el.appendChild(icon);
       el.appendChild(name);
@@ -622,7 +660,7 @@
         topRow.innerHTML = '<svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>';
         const nameSpan = document.createElement('span');
         nameSpan.className = 'text-sm truncate';
-        nameSpan.textContent = file.name.replace(/\.\w+$/, '').replace(/_/g, ' ');
+        nameSpan.textContent = formatFileName(file.name);
         topRow.appendChild(nameSpan);
 
         const pathSpan = document.createElement('span');
@@ -708,7 +746,7 @@
 
           const nameEl = document.createElement('div');
           nameEl.className = 'text-sm font-medium';
-          nameEl.textContent = result.name.replace(/\.\w+$/, '').replace(/_/g, ' ');
+          nameEl.textContent = formatFileName(result.name);
           card.appendChild(nameEl);
 
           const pathEl = document.createElement('div');

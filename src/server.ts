@@ -25,27 +25,59 @@ function safePath(root: string, reqPath: string): string | null {
   return resolved;
 }
 
+/** Human-friendly display names for top-level extracted book folders. */
+const BOOK_DISPLAY_NAMES: Record<string, string> = {
+  'Core_Rulebook': 'Core Rulebook',
+  'Advanced_Players_Guide': 'Advanced Player\'s Guide',
+  'Game_Mastery_Guide': 'Game Mastery Guide',
+  'Bestiary1': 'Bestiary 1',
+  'Bestiary2': 'Bestiary 2',
+  'Beastiary1': 'Bestiary 1',
+  'Dark_Archive': 'Dark Archive',
+  'Guns_Amp_Gears': 'Guns & Gears',
+  'Ancestry_Guide': 'Ancestry Guide',
+  'Abomination_Vaults': 'Abomination Vaults',
+  'Dungeon_Slimes_Pf2e': 'Dungeon Slimes',
+};
+
+/** Natural sort comparator: numbers embedded in strings sort numerically. */
+function naturalSort(a: string, b: string): number {
+  return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+}
+
 /** Build the file tree for a given directory, using pathPrefix for client-side paths. */
-function getFiles(dir: string, root: string, pathPrefix: string, ext: string): Array<{name: string; type: string; children?: Array<any>; path?: string}> {
+function getFiles(dir: string, root: string, pathPrefix: string, ext: string, depth = 0): Array<{name: string; displayName?: string; type: string; children?: Array<any>; path?: string}> {
   let entries: string[];
   try {
-    entries = fs.readdirSync(dir);
+    entries = fs.readdirSync(dir).sort(naturalSort);
   } catch {
     return [];
   }
-  return entries
+
+  const items = entries
     .map(file => {
       const fullPath = path.join(dir, file);
       const stat = fs.statSync(fullPath);
       if (stat.isDirectory()) {
-        return { name: file, type: 'directory', children: getFiles(fullPath, root, pathPrefix, ext) };
-      } else if (file.endsWith(ext)) {
+        const children = getFiles(fullPath, root, pathPrefix, ext, depth + 1);
+        if (children.length === 0) return null; // Skip empty directories
+        const displayName = depth === 0 ? BOOK_DISPLAY_NAMES[file] : undefined;
+        return { name: file, ...(displayName ? { displayName } : {}), type: 'directory' as const, children };
+      } else if (file.endsWith(ext) && file !== 'metadata.json') {
         const relPath = path.relative(root, fullPath);
-        return { name: file, type: 'file', path: pathPrefix ? pathPrefix + '/' + relPath : relPath };
+        return { name: file, type: 'file' as const, path: pathPrefix ? pathPrefix + '/' + relPath : relPath };
       }
       return null;
     })
     .filter((item): item is NonNullable<typeof item> => item !== null);
+
+  // Sort: directories first, then files, both in natural order
+  items.sort((a, b) => {
+    if (a.type !== b.type) return a.type === 'directory' ? -1 : 1;
+    return naturalSort(a.name, b.name);
+  });
+
+  return items;
 }
 
 /** Serve file tree: extracted/ .txt files + rules/ .md files */

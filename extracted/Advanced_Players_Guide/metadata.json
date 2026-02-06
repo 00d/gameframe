@@ -1,13 +1,21 @@
 {
   "source_pdf": "Pathfinder-2e-Advanced-Players-Guide.pdf",
   "book_name": "Advanced_Players_Guide",
-  "total_sections": 6,
+  "total_sections": 7,
   "extraction_methods": [
     "pymupdf"
   ],
   "total_pages": 274,
   "pages_with_content": 274,
   "sections": [
+    {
+      "type": "front_matter",
+      "number": 0,
+      "title": "Front Matter",
+      "start_page": 1,
+      "end_page": 7,
+      "filename": "00_front_matter.txt"
+    },
     {
       "type": "chapter",
       "number": 1,

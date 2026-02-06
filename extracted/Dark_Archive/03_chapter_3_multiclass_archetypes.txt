@@ -1,0 +1,153 @@
+# Multiclass Archetypes
+# Pages: 49-51
+
+PAGE 49
+================================================================================
+
+PSYCHIC (ARCHETYPE)
+You’ve awoken the latent abilities of your mind, taking your first steps into wielding psychic magic.
+MULTICLASS PSYCHIC CHARACTERS
+Psychic is a good fit for characters who want a touch of occult
+power. Intelligence-based characters like investigators and
+alchemists, as well as Charisma-based characters like bards,
+can choose the path that best suits their inherent abilities.
+PSYCHIC DEDICATION
+FEAT 2
+ARCHETYPE
+DEDICATION
+MULTICLASS
+Prerequisites Intelligence 14 or Charisma 14
+You feel something awaken within your mind. You become
+trained in Occultism; if you were already trained in Occultism,
+you become trained in a skill of your choice. You cast spells
+like a psychic and gain the Cast a Spell activity; as you don’t
+have a subconscious mind, your thought components are
+simple intentions. Choose a conscious mind. You gain a spell
+repertoire with one standard psi cantrip of your choice from
+your conscious mind, which you cast as a psi cantrip. You gain
+the normal benefits and the amp for this psi cantrip, but not
+any other benefits from the conscious mind. If you don’t have
+one, you gain a focus pool of 1 Focus Point, which you can use
+to amp your psi cantrips, and you can Refocus by meditating on
+your new powers. If you already have a focus pool, increase the
+number of points in your pool by 1. You’re trained in occult spell
+attack rolls and occult spell DCs. Your key spellcasting ability for
+psychic archetype spells is the ability you used to qualify for the
+archetype, and they are occult psychic spells.
+Special You can’t select another dedication feat until you have
+gained two other feats from the psychic archetype.
+BASIC THOUGHTFORM
+FEAT 4
+ARCHETYPE
+Prerequisite Psychic Dedication
+You gain a 1st- or 2nd-level psychic feat of your choice.
+BASIC PSYCHIC SPELLCASTING
+FEAT 4
+ARCHETYPE
+Prerequisite Psychic Dedication
+You gain the basic spellcasting benefits (Core Rulebook 219).
+When you gain a spell slot of a new level from the psychic
+archetype, add a spell of the appropriate spell level to your
+repertoire: a common occult spell, one of the granted spells
+from your conscious mind, or another spell you’ve learned
+or discovered.
+ADVANCED THOUGHTFORM
+FEAT 6
+ARCHETYPE
+Prerequisite Basic Thoughtform
+You gain one psychic feat. For the purpose of meeting its
+prerequisites, your psychic level is equal to half your
+character level.
+Special You can select this feat more than once. Each time
+you select it, you gain another psychic feat.
+PSI DEVELOPMENT
+FEAT 6
+ARCHETYPE
+Prerequisite Psychic Dedication
+You’ve found a new mental form. You gain another psi cantrip
+from your conscious mind: either the standard cantrip you didn’t
+take with Psychic Dedication, or the unique surface psi cantrip.
+You gain the benefits and the amp for this second psi cantrip.
+Increase the number of Focus Points in your focus pool by 1.
+EXPERT PSYCHIC SPELLCASTING
+FEAT 12
+ARCHETYPE
+Prerequisite Basic Psychic Spellcasting
+You gain the expert spellcasting benefits (Core Rulebook 219).
+MASTER PSYCHIC SPELLCASTING
+FEAT 12
+ARCHETYPE
+Prerequisite Expert Psychic Spellcasting
+You gain the master spellcasting benefits (Core Rulebook 219).
+
+================================================================================
+PAGE 50
+================================================================================
+
+Scraps of knowledge have taught you how to exploit the vulnerabilities of creatures and the powers of mystical objects.
+MULTICLASS THAUMATURGE CHARACTERS
+Thaumaturge suits characters who want to glean strange
+knowledge. It’s especially useful for those who tend to fight
+with one-handed weapons, like swashbucklers or rogues,
+since they have their other hand free for an implement.
+THAUMATURGE DEDICATION
+FEAT 2
+ARCHETYPE
+DEDICATION
+MULTICLASS
+Prerequisites Charisma 14
+You’ve uncovered basic thaumaturgy. You become trained in
+thaumaturge class DC. Choose an implement; you can use it to
+Glimpse Vulnerability, but don’t gain its benefits. You also gain a
+few esoterica, allowing you to use esoterica actions (page 32). You
+become trained in your choice of Arcana, Nature, Occultism, or
+Religion; if you were already trained in these, you become trained
+in a skill of your choice. You gain the Glimpse Vulnerability action.
+Glimpse Vulnerability [one-action] (esoterica, manipulate); Frequency
+once per round; Requirement You are holding your implement;
+Effect You glimpse a hidden vulnerability and then strengthen
+it to aid you. Select a creature you can see. Until you Glimpse
+Vulnerability again, that target gains weakness 2 against
+your unarmed and weapon Strikes.
+Special You can’t select another dedication feat until you
+have gained two other feats from the thaumaturge archetype.
+BASIC THAUMATURGY 
+FEAT 4
+ARCHETYPE
+Prerequisite Thaumaturge Dedication
+You gain a 1st- or 2nd-level thaumaturge feat of your choice.
+ADVANCED THAUMATURGY 
+FEAT 6
+ARCHETYPE
+Prerequisite Basic Thaumaturgy
+You gain one thaumaturge feat. For the purpose of meeting
+its prerequisites, your thaumaturge level is equal to half your
+character level.
+Special You can select this feat more than once. Each time
+you select it, you gain another thaumaturge feat.
+IMPLEMENT INITIATE
+FEAT 6
+ARCHETYPE
+Prerequisites Thaumaturge Dedication
+You gain your implement’s initiate benefit. If the benefit
+affects the target of Exploit Vulnerability, for you it affects
+the target of Glimpse Vulnerability instead.
+MAGICAL KNOWLEDGE
+FEAT 8
+ARCHETYPE
+Prerequisites Thaumaturge Dedication, trained in one of
+Arcana, Nature, Occultism, or Religion and expert in another
+Increase your proficiency rank in one of Arcana, Nature,
+Occultism, or Religion from expert to master and in another
+from trained to expert. You gain a skill feat associated with the
+skill you chose.
+RESOLUTE
+FEAT 12
+ARCHETYPE
+Prerequisites Thaumaturge Dedication, expert in Will
+You’ve tempered your mind and become resolute against
+effects that strain your willpower. Your proficiency rank for
+Will saves increases to master.
+
+================================================================================
+PAGE 51

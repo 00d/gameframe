@@ -1,0 +1,556 @@
+# Introduction
+# Pages: 6-13
+
+PAGE 6
+================================================================================
+
+INTRODUCTION
+The Pathfinder Roleplaying Game features a high-fantasy setting where almost any story
+can be told. Where the Core Rulebook provides classic options for play and Secrets of
+Magic provides options for characters to delve deep into the magical mysteries of Golarion,
+Guns & Gears presents the secrets of black powder weapons and clockwork technology,
+combining grit and steampunk to produce a flavor all its own.
+Gears, Guns, or Both
+Guns & Gears is presented as three smaller but
+interconnected “books” bundled inside a single cover. The
+Gears “book” is split into two chapters: Gears Characters
+and Gears Equipment. The first chapter features the
+inventor class and automaton ancestry, along with several
+archetypes that support innovation as a theme. The second
+chapter presents an array of gadgets and vehicles that
+embrace themes of inventiveness. This chapter includes rules
+for clockwork and steam-tech mechanisms as well as other
+more esoteric forms of technology.
+The Guns “book” has also been separated into two
+chapters: Guns Characters and Guns Equipment. The first
+section presents the gunslinger class along with an array of
+archetypes that support exciting combat styles built around
+firearms and crossbows. The second chapter offers a wide
+array of new firearms, from classic black powder weapons
+like the flintlock musket and arquebus to more fantastic
+options like versatile combination weapons or magical beast
+guns. Support for firearms and crossbows goes beyond just
+new weapons and includes other exciting accessories for
+customizing your weapon of choice, like bayonets and
+reinforced stocks to attach a melee option to your guns,
+magical scopes to improve your visual prowess, magical
+bandoliers and holsters, and even replacement barrels and
+firing mechanisms to change your weapon’s parameters.
+The final “book,” The Rotating Gear, offers a standalone
+gazetteer describing different areas of Golarion where black
+powder, clockworks, and other forms of technology are
+likely to be found. This chapter isn’t limited to just the Inner
+Sea. It explores continents like Arcadia, Casmaron, and Tian
+Xia, describing the technological traditions of those regions
+and how they’ve influenced the growth and proliferation of
+technology across the entire planet.
+How To Use This Book
+The options here expand upon the rules contained in the
+Core Rulebook, and that book is required to use Guns &
+Gears. Some rules indicate other material found in this book
+with page references. Other products referencing the rules in
+this book might do so using the superscript citation “G&G.”
+ACCESS ENTRIES
+Most of the rules content in this book is uncommon or
+rare because such technology is unusual in Golarion.
+However, sometimes a stat block for an uncommon rules
+element includes an Access entry that lists specific criteria.
+A character who meets the criteria listed in the Access
+entry, such as hailing from a particular locale, gains
+access to the rules element. This book often groups access
+requirements by section. For example, the introduction to
+the Gears Characters chapter (page 12) details the areas
+of Golarion that grant access to the inventor class and its
+related uncommon weapons and gadgetry, so the areas
+detailed there as granting access serve the role of access
+requirements for most of the section (not including rare
+items and certain other elements called out as needing
+additional approval from the GM, such as vehicles).
+As always, the GM has the final say on who can access
+uncommon or rarer options or whether to allow specific
+options in the game at all. They might decide that a
+character’s upbringing or abilities make sense for a specific
+rules option and grant them access even if the character
+doesn’t automatically qualify, or they might decide those
+same options can’t be taken by anyone.
+World-Building and Tone
+Guns & Gears introduces elements of fantasy that might
+not fit into every game. The world of Golarion has a
+lot in common with the Renaissance period of Earth,
+supplemented with magic and old-fashioned technologies
+that were replaced on Earth before being refined to the point
+they’ve reached in Golarion. This high fantasy world is
+home to pirates with bandoliers of flintlock pistols, reckless
+scientists animating the dead with electric coils, knights in
+shining armor riding mighty griffons, and wizards casting
+spells in tall towers. Each of those character concepts
+has a place in Golarion; it’s just that to find some of the
+technological elements, you need to know where to look.
+For a home campaign, especially in a homebrew
+setting, some GMs might prefer a world that embraces
+the age of piracy and includes cannons and firearms
+with greater frequency than Golarion without the
+presence of steam-powered jetpacks and clockwork
+grappling hooks. Other GMs might prefer a world where
+clockworks and steam engines exist, but guns and other
+black powder weapons are absent. Guns & Gears takes
+steps to facilitate this world-building. As mentioned,
+this tome is divided into three smaller “books.” A GM
+who only wants to allow black powder weaponry
+
+================================================================================
+PAGE 7
+================================================================================
+
+without adding weird science to the game can allow
+their players to use the Guns chapters, eschewing the
+Gears chapters. A GM who wants to create a world of
+clockwork constructs and fantastic inventions unmarred
+by black powder weaponry can instead allow players
+to use the Gears chapters without giving access to the
+Guns chapters. Finally, a GM who remains unsure how
+any of these elements might fit into their game world is
+encouraged to read The Rotating Gear at the back of
+this book to see how these technologies have grown and
+spread through Golarion, and perhaps gain inspiration
+regarding how these elements might fit into their game.
+FUNCTIONALITY AND BALANCE
+Golarion is a world of magic with rune-bedecked swords
+forged out of metal fallen from the sky, full plate armor
+similar to that produced on Earth during the 15th century,
+and other armaments unlike anything the people of Earth
+ever had access to. As such, the black powder weapons
+and technological gadgets presented in this book are
+mechanically balanced to the other options available to
+all characters. Firearms, though capable of devastating
+critical hits, work alongside crossbows and composite
+longbows rather than replace them, in much the same
+way firearms and bows were both actively used in Asia
+for nearly 900 years of human history.
+AREN’T GUNS MORE POWERFUL THAN BOWS?
+The guns presented in this book are representative of fairly
+early firearms with just a few unique twists, as explained
+in the introduction of the Guns Equipment chapter (page
+146). Those old guns, which used black powder that did
+not exhibit the refinements of modern ammunition and
+lacked the rifle barrel technology for increasing range and
+accuracy, were extremely inaccurate and no more lethal
+with a glancing blow than most bows and crossbows;
+however, these firearms’ penetrating power was superior,
+and a wound to a vital area could prove incredibly deadly.
+This lethality is represented mechanically by the fatal
+trait given to most firearms, with a critical hit indicating
+a gunshot to a vital organ or other important body part.
+This mechanic allows a firearm to do far more damage in
+
+================================================================================
+PAGE 8
+================================================================================
+
+ANCESTRIES
+CLASSES
+AUTOMATON
+INVENTOR
+GUNSLINGER
+Automatons are immortal constructs
+infused with living souls who often
+believe they serve a grand purpose.
+The inventor battles enemies with a
+groundbreaking innovation only they
+can use.
+Gunslingers use firearms and
+crossbows to perform trick shots
+and take down their enemies while
+remaining at a safe distance.
+ABILITY BOOSTS
+KEY ABILITY SCORE*
+Strength, Free
+Intelligence
+Dexterity
+ABILITY FLAW
+SECONDARY ABILITY SCORES
+—
+Strength or Dexterity
+Constitution, Strength
+* A character receives an ability boost to their class’s key ability score.
+the correct circumstances than a weapon with a similar
+damage die while still maintaining a balanced gaming
+ecosystem that allows each player to shine.
+ARMOR AND PERSISTENT TECHNOLOGY
+In Golarion, technology has moved much slower than
+on Earth. Many modern conveniences still have yet to be
+invented or discovered. That doesn’t mean technology has
+stood still, however. Because certain types of technology
+persisted for centuries on Golarion instead of being
+replaced as they were on Earth, many fantastic innovations
+remain prevalent since competing technologies developed
+more slowly or didn’t spread as quickly.
+While clockwork dragons and alchemical boots that
+rocket their wearer through the sky are manifestations
+of less frequent technological replacement, many other,
+more subtle examples are scattered throughout the
+game. At its height in the 16th century, a suit of full
+plate could stop even the penetrating power, if not the
+full force, of a shot from a firearm, though its expense
+and weight made it impractical for all but the wealthiest
+of individuals. Golarion, on the other hand, is a fantasy
+world where dragons and other supernatural monsters
+with destructive power akin to or in excess of a firearm
+are relatively common, and where adventurers accrue
+great wealth that they constantly reinvest into better
+arms and armor. Moreover, Golarion’s armaments can
+be enhanced with magical runes that elevate them far
+beyond anything that could be replicated on Earth
+without the application of advanced technology from
+beyond the age of swords and plate armor.
+Similarly for lighter armors, on Earth, techniques for
+incorporating silk that can stop bullets from penetrating
+into armor and other techniques for creating bullet-resistant
+armaments, such as painting layers of paper with lacquer to
+create a rudimentary analogue to modern-day Kevlar, have
+existed for a very long time, but didn’t often come into
+popular use before evolving into a form that is no longer
+recognizable. Several nations in Tian Xia have techniques
+for creating black powder weapons, like the hand cannon
+and fire lance, and lacquered armor. The intersection of
+these technologies means it’s not unlikely to find variants
+of studded leather armor or chainmail lined with layers
+of such early bulletproofing. In Avistan and the Inner Sea,
+knights who have encountered firearms imported or stolen
+from Alkenstar likely know armorers who know techniques
+to craft layered plates and silk surcoats or undergarments
+that provide additional protection from bullets.
+ALCHEMY’S INFLUENCE ON TECHNOLOGY
+Considering that certain technologies have seen more
+refinement or followed divergent development paths
+
+================================================================================
+PAGE 9
+================================================================================
+
+on Golarion in comparison to Earth, the influence of
+alchemy on Golarion’s technology can’t be understated.
+In addition to enabling the creation of elemental weapons,
+such as alchemist’s fire and bottled lightning, alchemical
+techniques have often been applied to a variety of other
+fields and industries. Alchemical treatments for armor
+can create stronger materials; alchemical distillations
+allow for a variety of different forms and potencies in
+black powder; alchemy and the people who practice it
+even influence the most basic of needs, like preserving
+volatile substances for transport.
+Much like firearms, alchemy is something of an
+everyman’s tool, usable by most anyone who can get
+their hands on its components without requiring the
+specialized training or unique bloodlines of wizards and
+sorcerers. A single alchemist who makes their home in
+a community can quickly improve the quality of
+life for everyone there, reducing death by
+disease, improving the community’s ability
+to defend itself from outside threats,
+and providing other benefits both
+large and small. While it stands
+as a distinct science of its own,
+alchemy inextricably has ties
+to black powder weapons and
+other technologies of Golarion,
+enabling the development of
+sturdier metals and more volatile
+explosives to allow creations on a grand
+scale. For example, while steam technology is
+extremely new on Golarion, steam engines
+are much more likely to use alchemically
+derived heat sources than the coal
+furnaces used in our world.
+TECHNOLOGY IN GOLARION
+TODAY
+Over the last two decades,
+Golarion, and especially the
+Inner Sea region comprised
+of
+the
+continent
+of
+Avistan and the northern
+portion of the continent
+of Garund, have been beset by
+catastrophe after catastrophe. Armies
+of demons pouring forth from a wound
+in the world itself, time‑displaced wizards
+inciting chaos to restore their faded glory,
+armies of giants and hobgoblins, and an
+evil lich leading undead hordes have all
+assaulted the people of Golarion and set
+them reeling time and time again. While
+these events have delayed certain
+technological
+advancements,
+they
+have
+spurred
+others.
+Firearms are more prevalent in Golarion than they’ve
+ever been before, and artificers in Varisia, Absalom,
+and northern Garund constantly create new devices
+both wondrous and terrible. Golarion stands on a cusp,
+with alchemy prominent, clockworks poised to expand,
+and steam-powered technology just entering its early
+days of exciting innovation. These technologies may be
+limited in their spread now but are positioned to bring
+great change and advancement to Golarion. That isn’t a
+guarantee, however. These advancements might all come
+crashing down if the forces that seek the dissolution of
+science and social cohesion have their way. Fortunately,
+Golarion is also a world where heroes inevitably rise
+up to face such challenges and take action to secure a
+future of limitless possibility.
+MODULARITY
+As mentioned at the beginning of this introduction, Guns
+& Gears has been organized so that you can use as
+much, or as little, of the book as
+is appropriate for your game
+world. While some obvious
+elements can help make this
+intent apparent, such as the border art
+changing between the Gears “book,” Guns
+“book,” and The Rotating Gear “book,”
+we’ve taken other steps as well that might not
+be immediately obvious. Vehicles and siege
+weapons, which can be fun and engaging
+rules but might not be an appropriate fit for
+all campaigns, each have their own separate
+section. The firearms section is divided
+between “Classic Firearms” and “Fantasy
+Firearms,” so that if your preferred
+setting has smooth-bore black powder
+weapons as the technological “ceiling,”
+you can allow only the classic firearms
+in your campaign. If your high fantasy
+setting blends the highlights of Earth’s
+renaissance with fantastical or outright
+magical
+technology,
+like
+firearms
+that
+transform into swords or axes, or gun-like
+weapons made from the taxidermic bodies
+of supernatural creatures, you can add
+those fantasy firearms to your game as well.
+With all the possible permutations of a
+fantasy world, we’ve endeavored to create
+a book that speaks to as many people and
+settings as possible, allowing people to
+include the storytelling elements they most
+enjoy without feeling overly pressured
+to
+include
+those
+that
+negatively
+impact their immersion or gaming
+experience. Whether you want to play
+a swashbuckling pirate with a black
+powder pistol or a ysoki engineer
+with a tesla coil backpack that
+Alkenstar Scout
+
+================================================================================
+PAGE 10
+================================================================================
+
+disrupts magical energy and a grappling hook with a
+retractable clockwork cord, this book is for you. Feel
+free to use the elements of this book that align strongly
+with your vision for the characters, adventures, and game
+world you create while leaving the rest behind!
+BORDERS AND CHANGE
+When constructing a fantasy world or playing in a
+world like Golarion where wizards live next door
+to gunslingers and even the most magical of realms
+might have technological clockwork soldiers and other
+scientific discoveries that simulate, enhance, or even
+replace magic—it can become hard to picture how all
+these disparate elements coexist alongside each other.
+Why don’t firearms get adopted by other nearby
+nations? Why would someone spend vast troves of gold
+to build a clockwork dragon when they could teleport
+an egg away from a nest and get the real thing much
+more cheaply?
+There are quite a few possible answers to these
+questions, and figuring out those answers can help
+make your campaign setting more vibrant and relatable.
+To start, we’ll talk about some of the ways in which
+Golarion answers these questions before diving into ways
+to integrate these kinds of themes deeper into your own
+original setting.
+Dongun Hold and Alkenstar are strong examples of
+areas in Golarion that can have a technology level that’s
+significantly above the average technology level for the
+rest of the world, without undermining or significantly
+changing the general dynamics of Golarion and nearby
+regions. Wedged between two warring nations ruled
+by wizard kings, Alkenstar and Dongun Hold have no
+significant ports of their own and are surrounded by a
+wasteland filled with mutants and monsters. Moreover,
+the ancient magical wars that scarred the Mana Wastes
+also created pockets of unstable magic or magical dead
+zones where magic remains unreliable at best and
+virtually nonexistent at worst. As a
+result, it makes sense that the hearty
+smiths of Dongun Hold craft firearms
+as the primary method to protect
+themselves from dangerous creatures and
+threats, as does the fact that the weapons
+have remained available only in this
+small region of the Inner Sea until
+quite recently.
+In your homebrew world, you
+can use similar levers to partition the
+different countries and regions you create
+according to similar circumstances, or you
+can use completely different options
+as appropriate. For example, if your
+campaign world is one in which
+firearms exist but are limited to a very
+specific part of the world, ask yourself why these weapons
+have been restricted. Is there a powerful organization
+that relies on its stranglehold over the secrets of firearm
+production to protect its interests? Perhaps magic is
+so prevalent that only a rare, aberrant individual who
+lacks a talent for magic would be interested in pursuing
+technological advancements. Maybe the dynamics of the
+world itself comes into play; for example, some element
+in the atmosphere or properties of the metals
+drawn from below the surface resist being
+shaped and manipulated to the degree
+necessary for creating firearms or other
+technological weapons and gadgets,
+so the only way to obtain such items
+is to purchase them from extraplanar
+merchants who import them from
+distant planes. The possibilities are
+endless, and it doesn’t matter so much
+what reason you decide on, as long
+as you have some understanding of
+how the world you create weaves
+together.
+Of course, your world could also be
+a wild and boundless convergence of planar
+nexuses, where gunslingers fight alongside
+sword-swinging knights and psychic snakes.
+Anything is possible and only needs to make
+as much sense as is required for you and your
+friends to enjoy yourselves and tell the kinds of
+stories you want!
+WHAT ABOUT NUMERIA?
+The nation of Numeria is known to have technology levels
+that greatly exceed those of the rest of Golarion. With a
+crashed spaceship from a distant planet thrust into the
+middle of its landscape, Numeria has lasers, artificial
+intelligences, and other technology that transcend
+steampunk or clockwork influences and approach the
+realm of science fiction. Numeria and its technology
+aren’t represented in this book, as those themes and
+mechanics are better reserved for a presentation that can
+give them the focus they deserve.
+Some players might want to play a character from
+Numeria, however, perhaps envisioning a ysoki inventor
+who didn’t have access to technology from the crashed
+spaceship and instead innovated based on what they
+saw, using clockworks and steam engines to emulate the
+functionality, if not the technological level, of weapons
+and devices scavenged in the region. GMs who allow
+access to the inventor class would be fully justified in also
+giving characters from Numeria access to the inventor
+and its gadgets, though with a clear understanding that
+the technology level represented by the inventor is very
+different from the highly advanced equipment normally
+associated with the region.
+Whirp
+
+================================================================================
+PAGE 11
+================================================================================
+
+
+================================================================================
+PAGE 12
+================================================================================
+
+
+================================================================================
+PAGE 13
+================================================================================
+
+In the world of Golarion, technology moves at its own
+unusual pace. The widespread use of magic advanced
+the ability for certain developments and discoveries, as
+spells provided a natural way to discover new data or
+solve a technological issue that required generations of
+innovation on Earth. However, magic has been equally
+a hindrance in the development of other technologies,
+as the relative advancement and availability of low-level
+magic meant it simply wasn’t worth the development
+cost and time it would take to devote resources to
+expanding other technologies whose benefits were easily
+replicable by magic.
+Another influencing factor in the development of
+technology has been the many horrific cataclysms that
+have befallen the planet of Golarion as a whole, and
+various regions and nations in turn. Sometimes, a
+technology discovered in ancient times is lost to Golarion
+for millennia, only to resurface much later. For instance,
+Xin, the first emperor of the ancient empire of Thassilon,
+mastered the creation of clockworks over 10,000 years
+ago, only to see his palace sink to the bottom of the ocean
+and his discoveries lost to the ages.
+Across much of Golarion, the options presented in this
+chapter are uncommon at best, and some of them, like
+Stasian technology, are rare or even unique in the world.
+If you’re playing in a different setting than Golarion, your
+group should decide if some or all of the technologies in
+this chapter are more widely available, or if they aren’t
+available at all.
+Lands of Gears
+In some corners of Golarion, these options are more
+available than in others. Whether it’s due to discoveries
+of ancient technology, the determination of a few
+obsessed visionaries, or a storied history of innovation,
+these tech-friendly locations, nations, and regions are
+places where an enterprising player character looking
+for technology might find that which they seek... and
+possibly more than they bargained for as well.
+CLOCKWORK
+Absalom, the “City at the Center of the World,” naturally,
+has access to engineering techniques from across the world,
+and its famed Clockwork Cathedral (page 203) is a center
+of learning for clockwork technologies. Meanwhile, many
+inhabitants of the nation of New Thassilon, which recently
+returned to the world after spending centuries displaced in
+time, still remember some of First Emperor Xin’s secrets
+regarding clockworks. These people tend to eagerly
+explore new innovations that were created during their
+GEARS CHARACTERS
+The scorch marks on the wall made it clear: dragon breath. From what our wizard
+said, that would probably make our adversary a red dragon. It wouldn’t have been
+hard for a creature so greedy, powerful, and proud to beat us into these ancient ruins,
+recently unsealed by a massive earthquake. Though something still didn’t seem right.
+Most of the scorch marks weren’t fresh at all and were covered by ancient dust. When
+we exited the tunnel into the great ruined chamber, we saw a gleaming metal dragon
+made of thousands of clockwork parts, its fangs and claws tapering off into a dark
+black metal. Adamantine, maybe? How could this be? The ruins were sealed for ages,
+and I’d only ever seen a creature like this once before in Absalom. I remember hearing
+the one from Absalom was cutting edge, too, but its design was much more rudimentary.
+This shouldn’t be possible! But then the gears began to click and whir, and the dragon
+construct’s mouth snapped open. A wave of flame arose from deep within its mechanical
+body, licking from its maw in tongues of fire. Fortunately, this dragon wasn’t the only one
+with a few tricks up its chassis. Sparks flew from my experimental armor as I activated
+the new, if somewhat unstable, feature I created for situations just like this. When the
+smoke cleared, I was barely singed, thanks to the heat-dispersing properties of my armor.
+Our wizard wasn’t in the best of shape, though, and a pouch of my medicinal herbs had
+caught fire. Thinking quickly, I finished what the dragon had started and vaporized
+the herbs in an explosion, delivering much-needed relief to the wounded wizard. As I
+pounded my fists together, electricity sparking between my two armored gauntlets, I
+turned to face the dragon anew.
+—Eliara Sparkwright, Inventor Extraordinaire

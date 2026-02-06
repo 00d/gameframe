@@ -105,13 +105,99 @@ All noise categories have been addressed by `scripts/clean_extracted.py`. Six cl
 
 ### Priority 1: Strip Noise — DONE ✓
 ### Priority 2: Fix Chapter Boundaries — DONE ✓
+### Priority 3: Complete Chapter Splitting — DONE ✓
+### Priority 4: Fix Metadata — DONE ✓
 
-### Priority 3: Continue Verification
-- Verify remaining Core Rulebook chapters (Equipment pp272–297, Playing the Game pp444–480, Crafting & Treasure pp532–642)
-- Verify Bestiary 2 creature entries
-- Verify Advanced Players Guide classes and archetypes
-- Verify Abomination Vaults adventure content
-- Verify Game Mastery Guide NPC gallery
+---
+
+## Phase 2 Work (2026-02-05)
+
+Comprehensive extraction completion and cleanup performed by `scripts/split_and_fix.py`, `scripts/fix_core_rulebook.py`, and `scripts/fix_metadata.py`.
+
+### Dark Archive — SPLIT ✓
+Previously had only 2 files (front_matter + appendix). Now properly split into 6 files:
+
+| File | Pages | Title |
+|---|---|---|
+| `00_front_matter.txt` | 1–7 | Front Matter |
+| `01_chapter_1_psychic.txt` | 8–31 | Psychic (class) |
+| `02_chapter_2_thaumaturge.txt` | 32–48 | Thaumaturge (class) |
+| `03_chapter_3_multiclass_archetypes.txt` | 49–51 | Multiclass Archetypes |
+| `04_chapter_4_the_stolen_casefiles.txt` | 52–154 | The Stolen Casefiles |
+| `appendix_1_supporting_evidence...txt` | 155–226 | Supporting Evidence (appendix) |
+
+Watermark noise (355/356 N patterns) cleaned during split.
+
+### Guns & Gears — SPLIT ✓
+Previously had only 1 unsplit file (23,050 lines). Now properly split into 8 files:
+
+| File | Pages | Title |
+|---|---|---|
+| `00_front_matter.txt` | 1–5 | Front Matter |
+| `01_introduction.txt` | 6–13 | Introduction |
+| `02_chapter_1_gears_characters.txt` | 14–61 | Gears Characters (Inventor class) |
+| `03_chapter_2_gears_equipment.txt` | 62–103 | Gears Equipment |
+| `04_chapter_3_guns_characters.txt` | 104–149 | Guns Characters (Gunslinger class) |
+| `05_chapter_4_guns_equipment.txt` | 150–185 | Guns Equipment |
+| `06_chapter_5_the_rotating_gear.txt` | 186–230 | The Rotating Gear (world gazetteer) |
+| `07_glossary_and_index.txt` | 231–239 | Glossary and Index |
+
+Sidebar nav labels ("Glossary And Index Guns &") cleaned during split.
+
+### Core Rulebook — FIXED ✓
+Skills chapter (04) had leaked content from pages 256 (Feats) and pages 500-532 (Appendix + Crafting). Fixed:
+- Skills now correctly covers pages 234–255 only (2,353 lines)
+- New file `10b_appendix_conditions.txt` created for pages 499–531 (3,627 lines)
+- Total structure now 13 files (was 12)
+
+### Abomination Vaults — FILENAMES FIXED ✓
+8 chapter files renamed from truncated full-text titles to clean short names:
+- `01_chapter_1_a_light_in_the_fog_when_the_fog_is_creeping_and_th.txt` → `01_chapter_1_a_light_in_the_fog.txt`
+- (similar pattern for all 8 files)
+
+### Bestiary1 — RENAMED ✓
+- Folder renamed from `Beastiary1` (typo) to `Bestiary1`
+- Book-level metadata added (was only creature-split data)
+
+### Bestiary2 — METADATA FIXED ✓
+- Book-level metadata structure added (source_pdf, extraction_methods, etc.)
+- Front matter entry added to sections
+
+### Noise Cleanup — PASS 2 ✓
+Additional 835 noise lines removed across all books:
+- Duplicate consecutive lines from PDF scanning
+- Sidebar navigation label blocks
+- Watermark number patterns
+
+### Metadata — ALL FIXED ✓
+- All 10 books now have consistent metadata.json with `source_pdf`, `book_name`, `sections`
+- All front_matter.txt files referenced in metadata
+- No stale file references
+
+### Web App — UPDATED ✓
+- Server: Added `BOOK_DISPLAY_NAMES` mapping for clean folder titles in file tree
+- Server: Added natural sort for file ordering
+- Server: Empty directories filtered from tree
+- Frontend: Added `formatFileName()` for clean chapter display names (e.g., "Ch. 1: Psychic")
+- Frontend: Creature files show as "Creatures: A", "Creatures: B", etc.
+- Frontend: Folder display uses `displayName` from server when available
+- TypeScript builds cleanly
+
+### Final Inventory
+
+| Book | Files | Lines | Pages |
+|---|---|---|---|
+| Abomination Vaults | 11 | 25,171 | 258 |
+| Advanced Player's Guide | 7 | 27,793 | 274 |
+| Ancestry Guide | 3 | 12,120 | 146 |
+| Bestiary 1 | 27 | 39,418 | 362 |
+| Bestiary 2 | 27 | 35,558 | 362 |
+| Core Rulebook | 13 | 71,313 | 642 |
+| Dark Archive | 6 | 22,479 | 226 |
+| Dungeon Slimes | 1 | 156 | 2 |
+| Game Mastery Guide | 6 | 27,066 | 258 |
+| Guns & Gears | 8 | 22,581 | 239 |
+| **Total** | **109** | **283,655** | **2,769** |
 
 ---
 

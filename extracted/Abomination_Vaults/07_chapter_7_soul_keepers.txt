@@ -1788,10 +1788,8 @@ PAGE 145
 ================================================================================
 
 LEVEL 8: FARM
-LEVEL 8: FARM
 1 SQUARE = 5 FEET
 1 SQUARE = 5 FEET
-TO I22
 TO I22
 H21
 H21a
@@ -1892,10 +1890,7 @@ H46
 H37
 H37
 TO G1
-TO G1
 TO I27
-TO I27
-TO G3
 TO G3
 S
 S

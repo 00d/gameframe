@@ -1710,7 +1710,6 @@ PAGE 37
 B4
 B4
 LEVEL 2: SERVANTS’ QUARTERS
-LEVEL 2: SERVANTS’ QUARTERS
 1 SQUARE = 5 FEET
 1 SQUARE = 5 FEET
 B3
@@ -1784,19 +1783,11 @@ B7
 T
 T
 TO C7
-TO C7
 TO A21
-TO A21
-TO C10
-TO C10
-TO C10
 TO C10
 T
 TO C1
-TO C1
 TO A12
-TO A12
-TO C22
 TO C22
 a
 b
@@ -1804,7 +1795,6 @@ c
 e
 d
 T
-= TRAP
 = TRAP
 
 ================================================================================

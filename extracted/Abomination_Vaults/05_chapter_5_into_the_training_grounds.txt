@@ -347,10 +347,8 @@ short walk through the forest, north of an abandoned
 heavy cargo, this cave once saw a lot of use from
 smugglers moving lighter goods. They hid their loot in
 SMUGGLER’S REFUGE
-SMUGGLER’S REFUGE
 1 SQUARE = 5 FEET
 1 SQUARE = 5 FEET
-TO E7
 TO E7
 
 ================================================================================
@@ -2247,7 +2245,6 @@ PAGE 107
 ================================================================================
 
 LEVEL 6: LABORATORIES
-LEVEL 6: LABORATORIES
 1 SQUARE = 5 FEET
 1 SQUARE = 5 FEET
 F1
@@ -2303,20 +2300,11 @@ F25
 F26
 F26
 TO G1
-TO G1
-TO E1
 TO E1
 TO E9
-TO E9
-TO E21
 TO E21
 TO E25
-TO E25
 TO G12
-TO G12
-TO E26
-TO E26
-TO E26
 TO E26
 
 ================================================================================

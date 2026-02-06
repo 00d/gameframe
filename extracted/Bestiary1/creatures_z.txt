@@ -1020,7 +1020,6 @@ Boggards
 Caligni
 Calignis
 Cyclops
-Cyclops
 Daemonic
 Daemons
 Iruxi
@@ -1271,7 +1270,6 @@ Duergar
 Humanoid
 Common
 Homunculus
-Homunculus
 Construct
 Common
 Leaf leshy
@@ -1355,7 +1353,6 @@ Elemental, mephit
 Elemental
 Common
 Ghoul
-Ghoul
 Undead
 Common
 Giant gecko
@@ -1366,7 +1363,6 @@ Goblin commando
 Goblin
 Humanoid
 Common
-Goblin dog
 Goblin dog
 Animal
 Common
@@ -1394,7 +1390,6 @@ Hunting spider
 Spider
 Animal
 Common
-Hyena
 Hyena
 Animal
 Common
@@ -1467,7 +1462,6 @@ Rat
 Animal
 Common
 Reefclaw
-Reefclaw
 Aberration
 Common
 Riding dog
@@ -1479,7 +1473,6 @@ Horse
 Animal
 Common
 Sewer ooze
-Ooze
 Ooze
 Common
 Vampire bat swarm
@@ -1503,7 +1496,6 @@ Elemental, mephit
 Elemental
 Common
 Wolf
-Wolf
 Animal
 Common
 Xulgath warrior
@@ -1514,7 +1506,6 @@ Animated armor
 Animated object
 Construct
 Common
-Boar
 Boar
 Animal
 Common
@@ -1530,7 +1521,6 @@ Caligni creeper
 Caligni
 Humanoid
 Common
-Crocodile
 Crocodile
 Animal
 Common
@@ -1558,7 +1548,6 @@ Duergar taskmaster
 Duergar
 Humanoid
 Common
-Faerie dragon
 Faerie dragon
 Dragon
 Uncommon
@@ -1615,7 +1604,6 @@ Sea devil
 Humanoid
 Common
 Sinspawn
-Sinspawn
 Aberration
 Common
 Skeletal champion
@@ -1627,14 +1615,11 @@ Skeleton
 Undead
 Common
 Slurk
-Slurk
 Animal
 Common
 Soulbound doll
-Soulbound doll
 Construct
 Common
-Tengu
 Tengu
 Humanoid
 Common
@@ -1642,7 +1627,6 @@ War horse
 Horse
 Animal
 Common
-Warg
 Warg
 Beast
 Common
@@ -1669,7 +1653,6 @@ Animated object
 Construct
 Common
 Ankhrav
-Ankhrav
 Animal
 Common
 Boggard swampseer
@@ -1685,10 +1668,8 @@ Bugbear
 Humanoid
 Common
 Bunyip
-Bunyip
 Animal
 Common
-Centaur
 Centaur
 Beast
 Common
@@ -1705,7 +1686,6 @@ Elemental, ﬁre
 Elemental
 Common
 Cockatrice
-Cockatrice
 Beast
 Common
 Dero strangler
@@ -1716,7 +1696,6 @@ Dire wolf
 Wolf
 Animal
 Common
-Doppelganger
 Doppelganger
 Humanoid
 Uncommon
@@ -1729,7 +1708,6 @@ Nymph
 Fey
 Common
 Gelatinous cube
-Ooze
 Ooze
 Common
 Giant eagle
@@ -1765,7 +1743,6 @@ Fleshwarp
 Aberration
 Common
 Hell hound
-Hell hound
 Fiend
 Common
 Hyaenodon
@@ -1781,14 +1758,12 @@ Ogre
 Giant
 Common
 Pegasus
-Pegasus
 Beast
 Common
 River drake
 Drake
 Dragon
 Common
-Rust monster
 Rust monster
 Aberration
 Common
@@ -1813,10 +1788,8 @@ Planar scion
 Humanoid
 Common
 Unicorn
-Unicorn
 Fey
 Common
-Web lurker
 Web lurker
 Aberration
 Common
@@ -1824,7 +1797,6 @@ Werewolf
 Werecreature
 Humanoid
 Common
-Wight
 Wight
 Undead
 Common
@@ -1840,7 +1812,6 @@ Arboreal warden
 Arboreal
 Plant
 Common
-Barghest
 Barghest
 Fiend
 Common
@@ -1864,7 +1835,6 @@ Gancanagh
 Azata
 Celestial
 Common
-Gargoyle
 Gargoyle
 Beast
 Common
@@ -1894,7 +1864,6 @@ PAGE 354
 ================================================================================
 
 Griﬀon
-Griﬀon
 Animal
 Common
 Hobgoblin archer
@@ -1910,10 +1879,8 @@ Genie
 Elemental
 Common
 Mimic
-Mimic
 Aberration
 Common
-Minotaur
 Minotaur
 Humanoid
 Common
@@ -1922,10 +1889,8 @@ Ogre
 Giant
 Common
 Otyugh
-Otyugh
 Aberration
 Common
-Owlbear
 Owlbear
 Beast
 Common
@@ -1934,14 +1899,12 @@ Sprite
 Fey
 Common
 Poracha
-Poracha
 Beast
 Uncommon
 Ratfolk grenadier
 Ratfolk
 Humanoid
 Common
-Satyr
 Satyr
 Fey
 Common
@@ -1953,7 +1916,6 @@ Sea devil brute
 Sea devil
 Humanoid
 Common
-Shadow
 Shadow
 Undead
 Common
@@ -1982,14 +1944,11 @@ Devil
 Fiend
 Common
 Basilisk
-Basilisk
 Beast
 Common
 Cloaker
-Cloaker
 Aberration
 Common
-Cyclops
 Cyclops
 Giant
 Uncommon
@@ -2010,7 +1969,6 @@ Genie
 Elemental
 Uncommon
 Ether spider
-Ether spider
 Ethereal
 Common
 Flame drake
@@ -2026,10 +1984,8 @@ Eel
 Animal
 Common
 Gibbering mouther
-Gibbering mouther
 Aberration
 Common
-Harpy
 Harpy
 Humanoid
 Common
@@ -2051,17 +2007,13 @@ Elemental
 Common
 Ochre jelly
 Ooze
-Ooze
 Common
-Poltergeist
 Poltergeist
 Undead
 Common
 Redcap
-Redcap
 Fey
 Common
-Troll
 Troll
 Giant
 Common
@@ -2069,7 +2021,6 @@ Winter wolf
 Warg
 Beast
 Common
-Yeti
 Yeti
 Humanoid
 Uncommon
@@ -2102,10 +2053,8 @@ Fleshwarp
 Aberration
 Common
 Elananx
-Elananx
 Fey
 Common
-Ettin
 Ettin
 Giant
 Common
@@ -2117,7 +2066,6 @@ Hobgoblin general
 Hobgoblin
 Humanoid
 Common
-Hydra
 Hydra
 Beast
 Common
@@ -2132,10 +2080,8 @@ Drake
 Dragon
 Common
 Lamia
-Lamia
 Beast
 Common
-Manticore
 Manticore
 Beast
 Common
@@ -2144,14 +2090,12 @@ Mummy
 Undead
 Common
 Nightmare
-Nightmare
 Fiend
 Common
 Sea devil baron
 Sea devil
 Humanoid
 Common
-Shambler
 Shambler
 Plant
 Common
@@ -2164,10 +2108,8 @@ Vampire
 Undead
 Common
 Will-o’-wisp
-Will-o’-wisp
 Aberration
 Common
-Wraith
 Wraith
 Undead
 Common
@@ -2189,9 +2131,7 @@ Aberration
 Uncommon
 Black pudding
 Ooze
-Ooze
 Common
-Chuul
 Chuul
 Aberration
 Common
@@ -2200,10 +2140,8 @@ Naga
 Aberration
 Uncommon
 Dullahan
-Dullahan
 Undead
 Uncommon
-Elephant
 Elephant
 Animal
 Common
@@ -2221,7 +2159,6 @@ Fiend
 Uncommon
 Hill giant
 Giant
-Giant
 Common
 Invisible stalker
 Elemental, air
@@ -2235,7 +2172,6 @@ Lillend
 Azata
 Celestial
 Common
-Medusa
 Medusa
 Humanoid
 Common
@@ -2259,7 +2195,6 @@ Quetzalcoatlus
 Pterosaur
 Animal
 Common
-Remorhaz
 Remorhaz
 Beast
 Uncommon
@@ -2308,14 +2243,11 @@ Angel
 Celestial
 Common
 Brain collector
-Brain collector
 Aberration
 Uncommon
 Bulette
-Bulette
 Animal
 Common
-Chimera
 Chimera
 Beast
 Uncommon
@@ -2344,7 +2276,6 @@ Ankhrav
 Animal
 Uncommon
 Krooth
-Krooth
 Animal
 Common
 Lamia matriarch
@@ -2361,11 +2292,9 @@ PAGE 356
 ================================================================================
 
 Sphinx
-Sphinx
 Beast
 Common
 Stone giant
-Giant
 Giant
 Common
 Triceratops
@@ -2389,10 +2318,8 @@ Crocodile
 Animal
 Common
 Dragon turtle
-Dragon turtle
 Dragon
 Common
-Drakauthix
 Drakauthix
 Fungus
 Common
@@ -2405,7 +2332,6 @@ Elemental, ﬁre
 Elemental
 Common
 Frost giant
-Giant
 Giant
 Common
 Leukodaemon
@@ -2481,11 +2407,9 @@ Devil
 Fiend
 Common
 Dezullon
-Dezullon
 Plant
 Common
 Fire giant
-Giant
 Giant
 Common
 Ghost mage
@@ -2496,7 +2420,6 @@ Giant ﬂytrap
 Flytrap
 Plant
 Common
-Graveknight
 Graveknight
 Undead
 Common
@@ -2513,10 +2436,8 @@ Elephant
 Animal
 Common
 Nilith
-Nilith
 Aberration
 Common
-Ofalth
 Ofalth
 Aberration
 Common
@@ -2524,7 +2445,6 @@ Raja rakshasa
 Rakshasa
 Fiend
 Common
-Roper
 Roper
 Aberration
 Uncommon
@@ -2557,7 +2477,6 @@ Dragon, metallic
 Dragon
 Common
 Cloud giant
-Giant
 Giant
 Common
 Deadly mantis
@@ -2611,14 +2530,11 @@ Dragon, chromatic
 Dragon
 Common
 Cauthooj
-Cauthooj
 Beast
 Common
 Gimmerling
-Gimmerling
 Fey
 Uncommon
-Gogiteth
 Gogiteth
 Aberration
 Common
@@ -2631,18 +2547,14 @@ Aeon
 Monitor
 Common
 Lich
-Lich
 Undead
 Rare
-Sea serpent
 Sea serpent
 Animal
 Uncommon
 Shuln
-Shuln
 Beast
 Rare
-Shining child
 Shining child
 Astral
 Common
@@ -2680,7 +2592,6 @@ Beast
 Common
 Storm giant
 Giant
-Giant
 Common
 Adult red dragon
 Dragon, chromatic
@@ -2699,14 +2610,12 @@ Linnorm
 Dragon
 Uncommon
 Grikkitog
-Grikkitog
 Aberration
 Common
 Veiled master
 Alghollthu
 Aberration
 Rare
-Uthul
 Uthul
 Elemental
 Common
@@ -2731,18 +2640,14 @@ Psychopomp
 Monitor
 Common
 Mukradi
-Mukradi
 Beast
 Common
-Phoenix
 Phoenix
 Beast
 Rare
 Quelaunt
-Quelaunt
 Aberration
 Common
-Wemmuth
 Wemmuth
 Plant
 Common
@@ -2764,18 +2669,15 @@ Undead
 Rare
 Rune giant
 Giant
-Giant
 Uncommon
 Shemhazian
 Demon
 Fiend
 Common
 Warsworn
-Warsworn
 Undead
 Uncommon
  Zaramuun
-Zaramuun
 Elemental
 Common
 Ancient copper dragon
@@ -2786,7 +2688,6 @@ Ancient green dragon
 Dragon, chromatic
 Dragon
 Uncommon
-Banshee
 Banshee
 Undead
 Uncommon
@@ -2802,7 +2703,6 @@ Marilith
 Demon
 Fiend
 Common
-Wendigo
 Wendigo
 Beast
 Uncommon
@@ -2828,18 +2728,14 @@ PAGE 358
 ================================================================================
 
 Kraken
-Kraken
 Beast
 Uncommon
-Shoggoth
 Shoggoth
 Aberration
 Rare
 Simurgh
-Simurgh
 Beast
 Rare
-Skulltaker
 Skulltaker
 Undead
 Uncommon
@@ -2852,10 +2748,8 @@ Dragon, metallic
 Dragon
 Uncommon
 Guthallath
-Guthallath
 Construct
 Rare
-Terotricus
 Terotricus
 Fungus
 Rare
@@ -2867,7 +2761,6 @@ Balor
 Demon
 Fiend
 Common
-Baomal
 Baomal
 Aberration
 Common
@@ -2884,10 +2777,8 @@ Linnorm
 Dragon
 Uncommon
 Grim Reaper
-Grim Reaper
 Undead
 Unique
-Mu spore
 Mu spore
 Fungus
 Common
@@ -2895,7 +2786,6 @@ Tor linnorm
 Linnorm
 Dragon
 Uncommon
-Treerazer
 Treerazer
 Fiend
 Unique

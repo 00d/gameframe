@@ -1,13 +1,21 @@
 {
   "source_pdf": "Pathfinder-2e-core-Rulebook.pdf",
   "book_name": "Core_Rulebook",
-  "total_sections": 11,
+  "total_sections": 13,
   "extraction_methods": [
     "pymupdf"
   ],
   "total_pages": 642,
   "pages_with_content": 642,
   "sections": [
+    {
+      "type": "front_matter",
+      "number": 0,
+      "title": "Front Matter",
+      "start_page": 1,
+      "end_page": 7,
+      "filename": "00_front_matter.txt"
+    },
     {
       "type": "chapter",
       "number": 1,
@@ -46,24 +54,7 @@
       "end_line": 26329,
       "start_page": 234,
       "end_page": 255,
-      "filename": "04_chapter_4_skills.txt",
-      "subsections": [
-        {
-          "type": "chapter",
-          "number": 4,
-          "title": "Skills (continued)",
-          "start_line": 56251,
-          "end_line": 60240,
-          "start_page": 499,
-          "end_page": 531,
-          "filename": ""
-        }
-      ],
-      "all_page_ranges": [
-        "234-255",
-        "499-531"
-      ],
-      "notes": "Non-contiguous content merged from 2 page ranges"
+      "filename": "04_chapter_4_skills.txt"
     },
     {
       "type": "chapter",
@@ -124,6 +115,14 @@
       "start_page": 484,
       "end_page": 531,
       "filename": "10_chapter_10_game_mastering.txt"
+    },
+    {
+      "type": "appendix",
+      "number": 0,
+      "title": "Conditions & Game Mastering Tables",
+      "start_page": 499,
+      "end_page": 531,
+      "filename": "10b_appendix_conditions.txt"
     },
     {
       "type": "chapter",

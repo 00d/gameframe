@@ -1,7 +1,7 @@
 {
   "source_pdf": "pathfinder-2e-guns-amp-gears_compress.pdf",
   "book_name": "Guns_Amp_Gears",
-  "total_sections": 1,
+  "total_sections": 8,
   "extraction_methods": [
     "pymupdf"
   ],
@@ -9,12 +9,73 @@
   "pages_with_content": 230,
   "sections": [
     {
-      "type": "full_content",
+      "type": "front_matter",
       "number": 0,
-      "title": "Full Content (Unsplit)",
+      "title": "Front Matter",
       "start_page": 1,
+      "end_page": 5,
+      "filename": "00_front_matter.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 0,
+      "title": "Introduction",
+      "start_page": 6,
+      "end_page": 13,
+      "filename": "01_introduction.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 1,
+      "title": "Gears Characters",
+      "start_page": 14,
+      "end_page": 61,
+      "filename": "02_chapter_1_gears_characters.txt",
+      "notes": "Inventor class, Automaton ancestry, backgrounds, gears archetypes"
+    },
+    {
+      "type": "chapter",
+      "number": 2,
+      "title": "Gears Equipment",
+      "start_page": 62,
+      "end_page": 103,
+      "filename": "03_chapter_2_gears_equipment.txt",
+      "notes": "Combat gear, gadgets, siege weapons, Stasian tech, vehicles"
+    },
+    {
+      "type": "chapter",
+      "number": 3,
+      "title": "Guns Characters",
+      "start_page": 104,
+      "end_page": 149,
+      "filename": "04_chapter_3_guns_characters.txt",
+      "notes": "Gunslinger class, backgrounds, gun archetypes"
+    },
+    {
+      "type": "chapter",
+      "number": 4,
+      "title": "Guns Equipment",
+      "start_page": 150,
+      "end_page": 185,
+      "filename": "05_chapter_4_guns_equipment.txt",
+      "notes": "Firearms, ammunition, siege weapons, accessories"
+    },
+    {
+      "type": "chapter",
+      "number": 5,
+      "title": "The Rotating Gear",
+      "start_page": 186,
+      "end_page": 230,
+      "filename": "06_chapter_5_the_rotating_gear.txt",
+      "notes": "World gazetteer: Dongun Hold, Alkenstar, Absalom, Arcadia, Jistka, Shackles, Tian Xia, Ustalav"
+    },
+    {
+      "type": "appendix",
+      "number": 1,
+      "title": "Glossary and Index",
+      "start_page": 231,
       "end_page": 239,
-      "filename": "00_full_content.txt"
+      "filename": "07_glossary_and_index.txt"
     }
   ]
 }

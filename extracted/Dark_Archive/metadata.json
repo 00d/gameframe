@@ -1,7 +1,7 @@
 {
   "source_pdf": "Dark Archive.pdf",
   "book_name": "Dark_Archive",
-  "total_sections": 1,
+  "total_sections": 6,
   "extraction_methods": [
     "pymupdf"
   ],
@@ -9,11 +9,50 @@
   "pages_with_content": 226,
   "sections": [
     {
+      "type": "front_matter",
+      "number": 0,
+      "title": "Front Matter",
+      "start_page": 1,
+      "end_page": 7,
+      "filename": "00_front_matter.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 1,
+      "title": "Psychic",
+      "start_page": 8,
+      "end_page": 31,
+      "filename": "01_chapter_1_psychic.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 2,
+      "title": "Thaumaturge",
+      "start_page": 32,
+      "end_page": 48,
+      "filename": "02_chapter_2_thaumaturge.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 3,
+      "title": "Multiclass Archetypes",
+      "start_page": 49,
+      "end_page": 51,
+      "filename": "03_chapter_3_multiclass_archetypes.txt"
+    },
+    {
+      "type": "chapter",
+      "number": 4,
+      "title": "The Stolen Casefiles",
+      "start_page": 52,
+      "end_page": 154,
+      "filename": "04_chapter_4_the_stolen_casefiles.txt",
+      "notes": "Contains 8 themed casefiles: Cryptids, Secret Societies, Deviant Abilities, Mirrors & Imposters, Cults, Curses & Pacts, Temporal Anomalies, Mindscapes"
+    },
+    {
       "type": "appendix",
       "number": 1,
-      "title": "Supporting Evidence. The interview terminated",
-      "start_line": 18287,
-      "end_line": 26983,
+      "title": "Supporting Evidence",
       "start_page": 155,
       "end_page": 226,
       "filename": "appendix_1_supporting_evidence_the_interview_terminated.txt"
