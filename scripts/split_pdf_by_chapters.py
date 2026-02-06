@@ -948,10 +948,11 @@ def split_by_chapters(pdf_path: str, output_dir: str, dry_run: bool = False) -> 
     return splitter.split_pdf(pdf_path, dry_run=dry_run)
 
 
-def process_pathfinder_books(output_dir: str = "pathfinder_2e_extracted",
+def process_pathfinder_books(output_dir: str = "extracted",
                              dry_run: bool = False,
                              resume: bool = False,
-                             pattern: str = "*.pdf") -> None:
+                             pattern: str = "*.pdf",
+                             input_dir: str = "pdf") -> None:
     """
     Process all PDF files matching pattern.
 
@@ -960,13 +961,20 @@ def process_pathfinder_books(output_dir: str = "pathfinder_2e_extracted",
         dry_run: If True, preview without creating files
         resume: If True, skip already processed books
         pattern: Glob pattern for PDF files
+        input_dir: Directory containing source PDFs
     """
     # Find all matching PDFs
-    pdf_files = sorted(Path('.').glob(pattern))
+    search_root = Path(input_dir)
+    if not search_root.exists() or not search_root.is_dir():
+        logger.error(f"Input directory not found or not a directory: {input_dir}")
+        return
+
+    pdf_files = sorted(search_root.glob(pattern))
 
     total_pdfs = len(pdf_files)
     logger.info(f"\n{'='*80}")
     logger.info(f"Found {total_pdfs} PDF(s) matching '{pattern}'")
+    logger.info(f"Input directory: {search_root}")
     logger.info(f"Output directory: {output_dir}")
     if dry_run:
         logger.info("DRY RUN MODE - No files will be created")
@@ -1061,10 +1069,10 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Process all PDFs in current directory
+  # Process all PDFs in ./pdf into ./extracted
   python split_pdf_by_chapters.py
 
-  # Process specific PDF file
+  # Process specific PDF file (looks in --input-dir if relative path)
   python split_pdf_by_chapters.py -i "Dark Archive.pdf"
 
   # Process all PDFs matching a pattern
@@ -1090,8 +1098,11 @@ Examples:
                         default='*.pdf',
                         help='Glob pattern for PDFs (default: *.pdf)')
     parser.add_argument('-o', '--output',
-                        default='pathfinder_2e_extracted',
-                        help='Output directory (default: pathfinder_2e_extracted)')
+                        default='extracted',
+                        help='Output directory (default: extracted)')
+    parser.add_argument('--input-dir',
+                        default='pdf',
+                        help='Directory containing PDFs for batch mode (default: pdf)')
     parser.add_argument('--dry-run', action='store_true',
                         help='Preview structure without creating files')
     parser.add_argument('--resume', action='store_true',
@@ -1113,15 +1124,26 @@ Examples:
 
     # Process single file or batch
     if args.input:
+        input_path = Path(args.input)
+        if not input_path.exists():
+            candidate = Path(args.input_dir) / args.input
+            if candidate.exists():
+                input_path = candidate
+            else:
+                logger.error(f"Input PDF not found: {args.input}")
+                logger.error(f"Also checked: {candidate}")
+                sys.exit(1)
+
         splitter = DocumentSplitter(output_dir=args.output)
-        stats = splitter.split_pdf(args.input, dry_run=args.dry_run)
+        stats = splitter.split_pdf(str(input_path), dry_run=args.dry_run)
         sys.exit(0 if stats['success'] else 1)
     else:
         process_pathfinder_books(
             output_dir=args.output,
             dry_run=args.dry_run,
             resume=args.resume,
-            pattern=args.pattern
+            pattern=args.pattern,
+            input_dir=args.input_dir
         )
 
 

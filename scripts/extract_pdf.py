@@ -274,6 +274,16 @@ class BaseExtractor(ABC):
 
         return pages
 
+    def _page_error(self, page_num: int, error: Exception) -> PageContent:
+        """Create a standardized failed-page record."""
+        logger.warning(f"Error extracting page {page_num + 1}: {error}")
+        return PageContent(
+            page_number=page_num + 1,
+            text="",
+            method_used=self.method_name,
+            warnings=[str(error)]
+        )
+
 
 class PyMuPDFExtractor(BaseExtractor):
     """Extract text using PyMuPDF (fitz)."""
@@ -290,29 +300,50 @@ class PyMuPDFExtractor(BaseExtractor):
         with self.fitz.open(pdf_path) as doc:
             return len(doc)
 
+    def _extract_page_from_doc(self, doc: Any, page_num: int) -> PageContent:
+        page = doc[page_num]
+
+        # Extract text with layout preservation
+        text = page.get_text("text")
+
+        # Check for images
+        image_list = page.get_images(full=True)
+        has_images = len(image_list) > 0
+
+        # If no text but has images, might need OCR
+        warnings = []
+        if not text.strip() and has_images:
+            warnings.append("Page contains images but no extractable text - may need OCR")
+
+        return PageContent(
+            page_number=page_num + 1,
+            text=text,
+            method_used=self.method_name,
+            has_images=has_images,
+            warnings=warnings
+        )
+
     def extract_page(self, pdf_path: str, page_num: int) -> PageContent:
         with self.fitz.open(pdf_path) as doc:
-            page = doc[page_num]
+            return self._extract_page_from_doc(doc, page_num)
 
-            # Extract text with layout preservation
-            text = page.get_text("text")
+    def extract_all(self, pdf_path: str,
+                    progress_callback: Optional[Callable[[int, int], None]] = None
+                    ) -> List[PageContent]:
+        """Extract all pages while keeping the document open once."""
+        pages: List[PageContent] = []
+        with self.fitz.open(pdf_path) as doc:
+            total_pages = len(doc)
+            for page_num in range(total_pages):
+                try:
+                    pages.append(self._extract_page_from_doc(doc, page_num))
+                except Exception as e:
+                    pages.append(self._page_error(page_num, e))
 
-            # Check for images
-            image_list = page.get_images(full=True)
-            has_images = len(image_list) > 0
+                if progress_callback:
+                    progress_callback(page_num + 1, total_pages)
 
-            # If no text but has images, might need OCR
-            warnings = []
-            if not text.strip() and has_images:
-                warnings.append("Page contains images but no extractable text - may need OCR")
-
-            return PageContent(
-                page_number=page_num + 1,
-                text=text,
-                method_used=self.method_name,
-                has_images=has_images,
-                warnings=warnings
-            )
+        return pages
 
     def extract_page_with_blocks(self, pdf_path: str, page_num: int) -> Tuple[str, List[Dict]]:
         """Extract text with block information for layout analysis."""
@@ -353,38 +384,59 @@ class PdfPlumberExtractor(BaseExtractor):
         with self.pdfplumber.open(pdf_path) as pdf:
             return len(pdf.pages)
 
+    def _extract_page_from_pdf(self, pdf: Any, page_num: int) -> PageContent:
+        page = pdf.pages[page_num]
+
+        # Extract text
+        text = page.extract_text() or ""
+
+        # Check for tables
+        tables = page.extract_tables()
+        has_tables = len(tables) > 0
+
+        # If tables found, format them
+        if has_tables:
+            table_text = self._format_tables(tables)
+            if table_text and table_text not in text:
+                text = text + "\n\n" + table_text
+
+        # Check for images
+        has_images = len(page.images) > 0
+
+        warnings = []
+        if not text.strip() and has_images:
+            warnings.append("Page contains images but no extractable text")
+
+        return PageContent(
+            page_number=page_num + 1,
+            text=text,
+            method_used=self.method_name,
+            has_images=has_images,
+            has_tables=has_tables,
+            warnings=warnings
+        )
+
     def extract_page(self, pdf_path: str, page_num: int) -> PageContent:
         with self.pdfplumber.open(pdf_path) as pdf:
-            page = pdf.pages[page_num]
+            return self._extract_page_from_pdf(pdf, page_num)
 
-            # Extract text
-            text = page.extract_text() or ""
+    def extract_all(self, pdf_path: str,
+                    progress_callback: Optional[Callable[[int, int], None]] = None
+                    ) -> List[PageContent]:
+        """Extract all pages while keeping the PDF file open once."""
+        pages: List[PageContent] = []
+        with self.pdfplumber.open(pdf_path) as pdf:
+            total_pages = len(pdf.pages)
+            for page_num in range(total_pages):
+                try:
+                    pages.append(self._extract_page_from_pdf(pdf, page_num))
+                except Exception as e:
+                    pages.append(self._page_error(page_num, e))
 
-            # Check for tables
-            tables = page.extract_tables()
-            has_tables = len(tables) > 0
+                if progress_callback:
+                    progress_callback(page_num + 1, total_pages)
 
-            # If tables found, format them
-            if has_tables:
-                table_text = self._format_tables(tables)
-                if table_text and table_text not in text:
-                    text = text + "\n\n" + table_text
-
-            # Check for images
-            has_images = len(page.images) > 0
-
-            warnings = []
-            if not text.strip() and has_images:
-                warnings.append("Page contains images but no extractable text")
-
-            return PageContent(
-                page_number=page_num + 1,
-                text=text,
-                method_used=self.method_name,
-                has_images=has_images,
-                has_tables=has_tables,
-                warnings=warnings
-            )
+        return pages
 
     def _format_tables(self, tables: List) -> str:
         """Format extracted tables as text."""
@@ -417,6 +469,16 @@ class PyPDF2Extractor(BaseExtractor):
         reader = self.PdfReader(pdf_path)
         return len(reader.pages)
 
+    def _extract_page_from_reader(self, reader: Any, page_num: int) -> PageContent:
+        page = reader.pages[page_num]
+        text = page.extract_text() or ""
+
+        return PageContent(
+            page_number=page_num + 1,
+            text=text,
+            method_used=self.method_name
+        )
+
     def extract_page(self, pdf_path: str, page_num: int) -> PageContent:
         reader = self.PdfReader(pdf_path)
 
@@ -432,14 +494,43 @@ class PyPDF2Extractor(BaseExtractor):
                     warnings=[f"Encrypted PDF, decryption failed: {e}"]
                 )
 
-        page = reader.pages[page_num]
-        text = page.extract_text() or ""
+        return self._extract_page_from_reader(reader, page_num)
 
-        return PageContent(
-            page_number=page_num + 1,
-            text=text,
-            method_used=self.method_name
-        )
+    def extract_all(self, pdf_path: str,
+                    progress_callback: Optional[Callable[[int, int], None]] = None
+                    ) -> List[PageContent]:
+        """Extract all pages while keeping the reader initialized once."""
+        pages: List[PageContent] = []
+        reader = self.PdfReader(pdf_path)
+
+        # Handle encrypted PDFs once up front.
+        if reader.is_encrypted:
+            try:
+                reader.decrypt('')
+            except Exception as e:
+                logger.warning(f"Encrypted PDF, decryption failed: {e}")
+                total_pages = len(reader.pages)
+                return [
+                    PageContent(
+                        page_number=page_num + 1,
+                        text="",
+                        method_used=self.method_name,
+                        warnings=[f"Encrypted PDF, decryption failed: {e}"]
+                    )
+                    for page_num in range(total_pages)
+                ]
+
+        total_pages = len(reader.pages)
+        for page_num in range(total_pages):
+            try:
+                pages.append(self._extract_page_from_reader(reader, page_num))
+            except Exception as e:
+                pages.append(self._page_error(page_num, e))
+
+            if progress_callback:
+                progress_callback(page_num + 1, total_pages)
+
+        return pages
 
 
 class OCRExtractor(BaseExtractor):
@@ -468,45 +559,85 @@ class OCRExtractor(BaseExtractor):
         with self.fitz.open(pdf_path) as doc:
             return len(doc)
 
+    def _extract_page_from_doc(self, doc: Any, page_num: int, dpi: int = 300) -> PageContent:
+        page = doc[page_num]
+
+        # Render page to image
+        mat = self.fitz.Matrix(dpi / 72, dpi / 72)
+        pix = page.get_pixmap(matrix=mat)
+
+        # Convert to PIL Image
+        img = self.Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+
+        # Run OCR
+        text = self.pytesseract.image_to_string(img, lang=self.lang)
+
+        # Get confidence data
+        try:
+            data = self.pytesseract.image_to_data(
+                img, lang=self.lang, output_type=self.pytesseract.Output.DICT
+            )
+            confidences = [int(c) for c in data['conf'] if int(c) > 0]
+            avg_confidence = sum(confidences) / len(confidences) / 100 if confidences else 0.5
+        except Exception:
+            avg_confidence = 0.5
+
+        return PageContent(
+            page_number=page_num + 1,
+            text=text,
+            method_used=self.method_name,
+            has_images=True,
+            confidence=avg_confidence,
+            warnings=[] if avg_confidence > 0.7 else ["Low OCR confidence"]
+        )
+
     def extract_page(self, pdf_path: str, page_num: int, dpi: int = 300) -> PageContent:
         """Extract text from a page using OCR."""
         with self.fitz.open(pdf_path) as doc:
-            page = doc[page_num]
+            return self._extract_page_from_doc(doc, page_num, dpi=dpi)
 
-            # Render page to image
-            mat = self.fitz.Matrix(dpi / 72, dpi / 72)
-            pix = page.get_pixmap(matrix=mat)
+    def extract_pages(self, pdf_path: str, page_nums: List[int], dpi: int = 300
+                      ) -> Dict[int, PageContent]:
+        """
+        Extract multiple pages with OCR while keeping the PDF open once.
 
-            # Convert to PIL Image
-            img = self.Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+        Args:
+            pdf_path: Path to PDF file
+            page_nums: Zero-based page numbers to OCR
+            dpi: Render DPI for OCR
 
-            # Run OCR
-            text = self.pytesseract.image_to_string(img, lang=self.lang)
+        Returns:
+            Mapping of zero-based page number -> PageContent
+        """
+        results: Dict[int, PageContent] = {}
+        if not page_nums:
+            return results
 
-            # Get confidence data
-            try:
-                data = self.pytesseract.image_to_data(
-                    img, lang=self.lang, output_type=self.pytesseract.Output.DICT
-                )
-                confidences = [int(c) for c in data['conf'] if int(c) > 0]
-                avg_confidence = sum(confidences) / len(confidences) / 100 if confidences else 0.5
-            except Exception:
-                avg_confidence = 0.5
+        unique_pages = sorted(set(page_nums))
+        with self.fitz.open(pdf_path) as doc:
+            total_pages = len(doc)
+            for page_num in unique_pages:
+                if page_num < 0 or page_num >= total_pages:
+                    continue
+                try:
+                    results[page_num] = self._extract_page_from_doc(doc, page_num, dpi=dpi)
+                except Exception as e:
+                    results[page_num] = self._page_error(page_num, e)
 
-            return PageContent(
-                page_number=page_num + 1,
-                text=text,
-                method_used=self.method_name,
-                has_images=True,
-                confidence=avg_confidence,
-                warnings=[] if avg_confidence > 0.7 else ["Low OCR confidence"]
-            )
+        return results
 
 
 class PDFExtractor:
     """
     Main PDF extraction engine with intelligent method selection and fallback.
     """
+
+    METHOD_PREFERENCE = [
+        ExtractionMethod.PYMUPDF.value,
+        ExtractionMethod.PDFPLUMBER.value,
+        ExtractionMethod.PYPDF2.value,
+        ExtractionMethod.OCR.value,
+    ]
 
     def __init__(self, method: ExtractionMethod = ExtractionMethod.AUTO,
                  use_ocr_fallback: bool = True,
@@ -571,6 +702,18 @@ class PDFExtractor:
 
         raise RuntimeError("No extraction methods available")
 
+    def _ordered_methods(self, methods: List[str]) -> List[str]:
+        """Return methods in deterministic preference order."""
+        ordered: List[str] = []
+        normalized = {m.lower() for m in methods if m}
+        for preferred in self.METHOD_PREFERENCE:
+            if preferred in normalized:
+                ordered.append(preferred)
+        for method in sorted(normalized):
+            if method not in ordered:
+                ordered.append(method)
+        return ordered
+
     def extract(self, pdf_path: str,
                 progress_callback: Optional[Callable[[int, int, str], None]] = None
                 ) -> ExtractionResult:
@@ -603,47 +746,59 @@ class PDFExtractor:
             total_pages = extractor.get_page_count(pdf_path)
             logger.info(f"Total pages: {total_pages}, using {extractor.method_name}")
 
-            pages: List[PageContent] = []
-            methods_used = set()
-            all_warnings = []
-
-            for page_num in range(total_pages):
+            def extraction_progress(current: int, total: int) -> None:
                 if progress_callback:
-                    progress_callback(page_num + 1, total_pages, "extracting")
+                    progress_callback(current, total, "extracting")
 
-                # Try primary extractor
-                page_content = extractor.extract_page(pdf_path, page_num)
-                methods_used.add(extractor.method_name)
+            pages = extractor.extract_all(pdf_path, progress_callback=extraction_progress)
 
-                # OCR fallback if no text extracted and page has images
-                if (self.use_ocr_fallback and
-                        not page_content.text.strip() and
-                        ExtractionMethod.OCR in self.extractors):
-
-                    logger.debug(f"Page {page_num + 1}: No text, trying OCR")
+            # OCR fallback for image-based pages that extracted no text.
+            # Restricting to has_images avoids running OCR on genuinely blank pages.
+            if self.use_ocr_fallback and ExtractionMethod.OCR in self.extractors:
+                ocr_candidates = [
+                    idx for idx, page in enumerate(pages)
+                    if not page.text.strip() and page.has_images
+                ]
+                if ocr_candidates:
                     ocr_extractor = self.extractors[ExtractionMethod.OCR]
-                    ocr_content = ocr_extractor.extract_page(pdf_path, page_num)
+                    logger.info(
+                        f"Running OCR fallback on {len(ocr_candidates)} page(s) with images but no text"
+                    )
 
-                    if ocr_content.text.strip():
-                        page_content = ocr_content
-                        methods_used.add("ocr")
+                    if hasattr(ocr_extractor, "extract_pages"):
+                        ocr_results = ocr_extractor.extract_pages(pdf_path, ocr_candidates)
+                        for page_num in ocr_candidates:
+                            ocr_content = ocr_results.get(page_num)
+                            if ocr_content and ocr_content.text.strip():
+                                pages[page_num] = ocr_content
+                    else:
+                        for page_num in ocr_candidates:
+                            logger.debug(f"Page {page_num + 1}: No text, trying OCR")
+                            ocr_content = ocr_extractor.extract_page(pdf_path, page_num)
+                            if ocr_content.text.strip():
+                                pages[page_num] = ocr_content
+
+            methods_used = set()
+            all_warnings: List[str] = []
+
+            for idx, page_content in enumerate(pages, 1):
+                methods_used.add(page_content.method_used)
 
                 # Clean text if enabled
                 if self.clean_text and page_content.text:
                     page_content.text = TextCleaner.clean(page_content.text)
 
-                pages.append(page_content)
                 all_warnings.extend(page_content.warnings)
 
                 # Progress logging
-                if (page_num + 1) % 10 == 0 or page_num + 1 == total_pages:
-                    logger.info(f"Processed {page_num + 1}/{total_pages} pages")
+                if idx % 10 == 0 or idx == total_pages:
+                    logger.info(f"Processed {idx}/{total_pages} pages")
 
             return ExtractionResult(
                 pdf_path=pdf_path,
                 total_pages=total_pages,
                 pages=pages,
-                extraction_methods=list(methods_used),
+                extraction_methods=self._ordered_methods(list(methods_used)),
                 warnings=all_warnings,
                 success=True
             )
@@ -885,6 +1040,8 @@ Examples:
     # Auto-find PDF if not specified
     if not args.input:
         pdf_files = list(Path('.').glob('*.pdf'))
+        if not pdf_files and Path('pdf').exists():
+            pdf_files = list(Path('pdf').glob('*.pdf'))
         if pdf_files:
             args.input = str(pdf_files[0])
             logger.info(f"No input specified, using: {args.input}")

@@ -17,6 +17,10 @@ import os
 import re
 import shutil
 import sys
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+
+from clean_extracted import clean_file
 
 EXTRACTED_ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'extracted')
 
@@ -486,8 +490,8 @@ def fix_bestiary1():
 # Clean noise across all books
 # ============================================================================
 
-def clean_all_books():
-    """Apply noise cleaning to all extracted text files."""
+def clean_all_books(workers: int = 4):
+    """Apply robust noise cleaning to all extracted text files."""
     print("\n=== CLEANING NOISE ACROSS ALL BOOKS ===")
 
     total_cleaned = 0
@@ -498,21 +502,29 @@ def clean_all_books():
         if not os.path.isdir(book_path):
             continue
 
-        for filename in sorted(os.listdir(book_path)):
-            if not filename.endswith('.txt'):
-                continue
+        txt_files = sorted(
+            os.path.join(book_path, filename)
+            for filename in os.listdir(book_path)
+            if filename.endswith('.txt')
+        )
+        if not txt_files:
+            continue
 
-            filepath = os.path.join(book_path, filename)
-            content = read_file(filepath)
-            original_lines = content.split('\n')
-            cleaned_lines = clean_noise_lines(original_lines)
+        def process_file(filepath: str):
+            orig, removed, _ = clean_file(Path(filepath), book_dir, dry_run=False)
+            return filepath, orig, removed
 
-            removed = len(original_lines) - len(cleaned_lines)
+        if workers > 1 and len(txt_files) > 1:
+            with ThreadPoolExecutor(max_workers=max(workers, 1)) as executor:
+                results = list(executor.map(process_file, txt_files))
+        else:
+            results = [process_file(filepath) for filepath in txt_files]
+
+        for filepath, _orig, removed in results:
             if removed > 0:
-                write_file(filepath, '\n'.join(cleaned_lines))
                 total_cleaned += 1
                 total_lines_removed += removed
-                print(f"  Cleaned {filename}: removed {removed} noise lines")
+                print(f"  Cleaned {os.path.basename(filepath)}: removed {removed} noise lines")
 
     print(f"\n  Total: cleaned {total_cleaned} files, removed {total_lines_removed} noise lines")
 

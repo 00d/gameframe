@@ -27,6 +27,8 @@ import os
 import re
 import sys
 import json
+from functools import partial
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import List, Tuple, Set, FrozenSet
 
@@ -583,6 +585,8 @@ def main():
     parser = argparse.ArgumentParser(description="Strip noise from extracted PDF text files")
     parser.add_argument('--apply', action='store_true', help="Apply changes (default: dry run)")
     parser.add_argument('--folder', help="Only process a specific folder")
+    parser.add_argument('--workers', type=int, default=1,
+                        help="Parallel workers for file processing (default: 1)")
     args = parser.parse_args()
 
     dry_run = not args.apply
@@ -611,11 +615,20 @@ def main():
         folder_removed = 0
         all_reasons: List[str] = []
 
-        for txt_file in txt_files:
-            orig, removed, reasons = clean_file(txt_file, folder, dry_run)
-            folder_original += orig
-            folder_removed += removed
-            all_reasons.extend(reasons)
+        if args.workers > 1 and len(txt_files) > 1:
+            with ThreadPoolExecutor(max_workers=max(args.workers, 1)) as executor:
+                clean_one = partial(clean_file, book=folder, dry_run=dry_run)
+                results = list(executor.map(clean_one, txt_files))
+            for orig, removed, reasons in results:
+                folder_original += orig
+                folder_removed += removed
+                all_reasons.extend(reasons)
+        else:
+            for txt_file in txt_files:
+                orig, removed, reasons = clean_file(txt_file, folder, dry_run)
+                folder_original += orig
+                folder_removed += removed
+                all_reasons.extend(reasons)
 
         total_original += folder_original
         total_removed += folder_removed
