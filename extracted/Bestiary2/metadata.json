@@ -5,15 +5,15 @@
   "extraction_methods": [
     "pymupdf"
   ],
-  "total_pages": 362,
-  "pages_with_content": 362,
+  "total_pages": 322,
+  "pages_with_content": 322,
   "sections": [
     {
       "type": "front_matter",
       "number": 0,
       "title": "Front Matter",
       "start_page": 1,
-      "end_page": 8,
+      "end_page": 9,
       "filename": "00_front_matter.txt"
     },
     {
@@ -21,7 +21,7 @@
       "number": 1,
       "title": "Creature Entries (A-Z)",
       "start_page": 9,
-      "end_page": 362,
+      "end_page": 322,
       "split_by": "creature_letter",
       "total_creatures": 326,
       "note": "Split into creatures_a.txt through creatures_z.txt"

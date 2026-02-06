@@ -1,0 +1,20 @@
+{
+  "source_pdf": "RemasterPlayerCoreCharacterSheet.pdf",
+  "book_name": "RemasterPlayerCoreCharacterSheet",
+  "total_sections": 1,
+  "extraction_methods": [
+    "pymupdf"
+  ],
+  "total_pages": 4,
+  "pages_with_content": 4,
+  "sections": [
+    {
+      "type": "content",
+      "number": 0,
+      "title": "Full Content",
+      "start_page": 1,
+      "end_page": 4,
+      "filename": "00_full_content.txt"
+    }
+  ]
+}

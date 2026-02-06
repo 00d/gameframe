@@ -113,6 +113,8 @@
     /* ---- Page markers ---- */
     .dark .content-view .page-marker { display: inline-block; background: #21262d; color: #8b949e; font-size: 0.7rem; padding: 0.1rem 0.45rem; border-radius: 3px; margin: 1rem 0 0.4rem; font-weight: 500; letter-spacing: 0.02em; }
     :not(.dark) .content-view .page-marker { display: inline-block; background: #eaeef0; color: #57606a; font-size: 0.7rem; padding: 0.1rem 0.45rem; border-radius: 3px; margin: 1rem 0 0.4rem; font-weight: 500; letter-spacing: 0.02em; }
+    .content-view .page-marker.page-jump-target { outline: 2px solid #58a6ff; outline-offset: 2px; }
+    .content-view .page-stream-status { font-size: 0.75rem; text-align: center; padding: 0.75rem 0; color: #8b949e; }
 
     /* ---- Stat blocks ---- */
     .dark .content-view .stat-block {
@@ -171,7 +173,7 @@
 
     /* ---- File tree transitions ---- */
     .tree-item { transition: background-color 0.15s ease; }
-    .children-container { overflow: hidden; transition: max-height 0.25s ease-out; }
+    .children-container { display: none; }
 
     /* ---- Search results ---- */
     .search-result-snippet { font-size: 0.78rem; }
@@ -380,8 +382,11 @@
 
     // --- State ---
     let allFiles = [];
+    let treeData = [];
     let currentPath = null;
     let searchDebounce = null;
+    let activePagedSession = null;
+    let loadRequestToken = 0;
 
     // --- DOM refs ---
     const fileTree = document.getElementById('file-tree');
@@ -425,6 +430,7 @@
         const response = await fetch('/api/files');
         if (!response.ok) throw new Error('Failed to fetch file list');
         const files = await response.json();
+        treeData = files;
         allFiles = flattenFiles(files);
         renderTree(files, fileTree, 0);
       } catch (err) {
@@ -492,7 +498,7 @@
 
       const childrenContainer = document.createElement('div');
       childrenContainer.className = 'children-container';
-      childrenContainer.style.maxHeight = '0';
+      childrenContainer.style.display = 'none';
 
       let isOpen = false;
       header.addEventListener('click', () => {
@@ -502,9 +508,9 @@
           if (childrenContainer.children.length === 0) {
             renderTree(item.children, childrenContainer, level + 1);
           }
-          childrenContainer.style.maxHeight = childrenContainer.scrollHeight + 'px';
+          childrenContainer.style.display = 'block';
         } else {
-          childrenContainer.style.maxHeight = '0';
+          childrenContainer.style.display = 'none';
         }
       });
 
@@ -596,7 +602,115 @@
       if (target) target.classList.remove('hidden');
     }
 
-    async function loadContent(filePath, treeElement) {
+    function findTreeElementByPath(filePath) {
+      return Array.from(document.querySelectorAll('[data-path]')).find(el => el.dataset.path === filePath) || null;
+    }
+
+    function encodePathForApi(filePath) {
+      return filePath.split('/').map(encodeURIComponent).join('/');
+    }
+
+    function isPagedExtractedFile(filePath) {
+      return filePath.endsWith('.txt') && !filePath.startsWith('rules/');
+    }
+
+    function clearPagedSession() {
+      if (!activePagedSession) return;
+      if (activePagedSession.observer) activePagedSession.observer.disconnect();
+      activePagedSession = null;
+    }
+
+    function scrollToPage(pageNum) {
+      const pageMarker = document.getElementById('page-' + pageNum);
+      if (!pageMarker) return;
+      pageMarker.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      pageMarker.classList.add('page-jump-target');
+      setTimeout(() => pageMarker.classList.remove('page-jump-target'), 1300);
+    }
+
+    function appendPageHtml(session, page, html) {
+      if (session.loadedPages.has(page)) return;
+      session.loadedPages.add(page);
+      const wrapper = document.createElement('section');
+      wrapper.dataset.page = String(page);
+      wrapper.innerHTML = html;
+      if (session.sentinel && session.sentinel.parentNode === contentDisplay) {
+        contentDisplay.insertBefore(wrapper, session.sentinel);
+      } else {
+        contentDisplay.appendChild(wrapper);
+      }
+    }
+
+    async function fetchPageChunk(session, startPage = null, endPage = null) {
+      if (session.loading || session.done) return;
+      session.loading = true;
+      try {
+        const params = new URLSearchParams();
+        if (startPage !== null && startPage !== undefined) params.set('start', String(startPage));
+        if (endPage !== null && endPage !== undefined) params.set('end', String(endPage));
+        const qs = params.toString();
+        const url = '/api/content-pages/' + encodePathForApi(session.filePath) + (qs ? '?' + qs : '');
+        const res = await fetch(url);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        if (activePagedSession !== session) return;
+
+        for (const page of data.pages || []) {
+          appendPageHtml(session, page.page, page.html);
+        }
+
+        session.nextPage = data.nextPage;
+        session.done = !data.hasMore;
+        if (session.sentinel) {
+          session.sentinel.textContent = session.done ? 'End of document' : 'Loading more pages...';
+        }
+      } finally {
+        session.loading = false;
+      }
+    }
+
+    function setupPagedObserver(session) {
+      const sentinel = document.createElement('div');
+      sentinel.className = 'page-stream-status';
+      sentinel.textContent = session.done ? 'End of document' : 'Loading more pages...';
+      contentDisplay.appendChild(sentinel);
+      session.sentinel = sentinel;
+
+      const observer = new IntersectionObserver((entries) => {
+        if (!entries.some(e => e.isIntersecting)) return;
+        if (session.nextPage === null || session.nextPage === undefined) return;
+        void fetchPageChunk(session, session.nextPage, null);
+      }, {
+        root: mainContent,
+        rootMargin: '600px 0px'
+      });
+      observer.observe(sentinel);
+      session.observer = observer;
+    }
+
+    async function loadPagedContent(filePath, targetPage, requestToken) {
+      clearPagedSession();
+      const session = {
+        filePath,
+        loadedPages: new Set(),
+        nextPage: null,
+        done: false,
+        loading: false,
+        observer: null,
+        sentinel: null
+      };
+      activePagedSession = session;
+
+      const initialStart = (targetPage !== null && targetPage !== undefined) ? Math.max(1, targetPage - 2) : null;
+      const initialEnd = (targetPage !== null && targetPage !== undefined) ? targetPage + 9 : null;
+      await fetchPageChunk(session, initialStart, initialEnd);
+      if (activePagedSession !== session || requestToken !== loadRequestToken) return;
+
+      setupPagedObserver(session);
+    }
+
+    async function loadContent(filePath, treeElement, targetPage = null) {
+      const requestToken = ++loadRequestToken;
       currentPath = filePath;
 
       // Highlight active file
@@ -604,23 +718,32 @@
         el.style.background = '';
         el.style.color = '#8b949e';
       });
-      if (treeElement) {
-        treeElement.style.background = document.documentElement.classList.contains('dark') ? '#21262d' : '#eaeef0';
-        treeElement.style.color = document.documentElement.classList.contains('dark') ? '#58a6ff' : '#0969da';
+      const activeEl = treeElement || findTreeElementByPath(filePath);
+      if (activeEl) {
+        activeEl.style.background = document.documentElement.classList.contains('dark') ? '#21262d' : '#eaeef0';
+        activeEl.style.color = document.documentElement.classList.contains('dark') ? '#58a6ff' : '#0969da';
       }
 
       showState('loading-indicator');
+      contentDisplay.innerHTML = '';
+      clearPagedSession();
+      mainContent.scrollTop = 0;
 
       try {
-        const res = await fetch('/api/content/' + filePath.split('/').map(encodeURIComponent).join('/'));
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const html = await res.text();
-
-        contentDisplay.innerHTML = html;
+        if (isPagedExtractedFile(filePath)) {
+          await loadPagedContent(filePath, targetPage, requestToken);
+          if (requestToken !== loadRequestToken) return;
+        } else {
+          const res = await fetch('/api/content/' + encodePathForApi(filePath));
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          const html = await res.text();
+          if (requestToken !== loadRequestToken) return;
+          contentDisplay.innerHTML = html;
+        }
         showState('content-display');
-
-        // Scroll content to top
-        mainContent.scrollTop = 0;
+        if (targetPage !== null && targetPage !== undefined) {
+          setTimeout(() => scrollToPage(targetPage), 0);
+        }
 
         // Close mobile sidebar
         sidebar.classList.remove('open');
@@ -635,7 +758,7 @@
     fileFilter.addEventListener('input', (e) => {
       const q = e.target.value.toLowerCase().trim();
       if (!q) {
-        loadFiles();
+        renderTree(treeData, fileTree, 0);
         return;
       }
 
@@ -752,7 +875,10 @@
           const pathEl = document.createElement('div');
           pathEl.className = 'text-xs';
           pathEl.style.color = '#8b949e';
-          pathEl.textContent = result.path;
+          const pageInfo = (result.bestPage !== null && result.bestPage !== undefined)
+            ? ' • Page ' + result.bestPage
+            : '';
+          pathEl.textContent = result.path + pageInfo;
           card.appendChild(pathEl);
 
           // Show first snippet with highlight
@@ -765,8 +891,8 @@
 
           card.addEventListener('click', () => {
             closeSearch();
-            // Find the file in the tree and load it
-            loadContent(result.path, null);
+            const bestPage = result.bestPage ?? (result.snippetDetails && result.snippetDetails[0] ? result.snippetDetails[0].page : null);
+            loadContent(result.path, null, bestPage);
           });
 
           searchResults.appendChild(card);
@@ -848,7 +974,7 @@
         }
         if (fileFilter.value) {
           fileFilter.value = '';
-          loadFiles();
+          renderTree(treeData, fileTree, 0);
         }
       }
     });

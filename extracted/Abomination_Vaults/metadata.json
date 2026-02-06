@@ -13,86 +13,86 @@
       "number": 0,
       "title": "Front Matter",
       "start_page": 1,
-      "end_page": 2,
+      "end_page": 22,
       "filename": "00_front_matter.txt"
     },
     {
       "type": "chapter",
       "number": 1,
       "title": "A Light in the Fog",
-      "start_page": 22,
-      "end_page": 37,
+      "start_page": 23,
+      "end_page": 38,
       "filename": "01_chapter_1_a_light_in_the_fog.txt"
     },
     {
       "type": "chapter",
       "number": 2,
       "title": "The Forgotten Dungeon",
-      "start_page": 38,
-      "end_page": 53,
+      "start_page": 39,
+      "end_page": 54,
       "filename": "02_chapter_2_the_forgotten_dungeon.txt"
     },
     {
       "type": "chapter",
       "number": 3,
       "title": "Cult of the Canker",
-      "start_page": 54,
-      "end_page": 71,
+      "start_page": 55,
+      "end_page": 72,
       "filename": "03_chapter_3_cult_of_the_canker.txt"
     },
     {
       "type": "chapter",
       "number": 4,
       "title": "Long Dream the Dead",
-      "start_page": 72,
-      "end_page": 85,
+      "start_page": 73,
+      "end_page": 86,
       "filename": "04_chapter_4_long_dream_the_dead.txt"
     },
     {
       "type": "chapter",
       "number": 5,
       "title": "Into the Training Grounds",
-      "start_page": 86,
-      "end_page": 107,
+      "start_page": 87,
+      "end_page": 108,
       "filename": "05_chapter_5_into_the_training_grounds.txt"
     },
     {
       "type": "chapter",
       "number": 6,
       "title": "Experiments in Flesh",
-      "start_page": 108,
-      "end_page": 127,
+      "start_page": 109,
+      "end_page": 128,
       "filename": "06_chapter_6_experiments_in_flesh.txt"
     },
     {
       "type": "chapter",
       "number": 7,
       "title": "Soul Keepers",
-      "start_page": 128,
-      "end_page": 145,
+      "start_page": 129,
+      "end_page": 146,
       "filename": "07_chapter_7_soul_keepers.txt"
     },
     {
       "type": "chapter",
       "number": 8,
       "title": "Decaying Gardens",
-      "start_page": 146,
-      "end_page": 167,
+      "start_page": 147,
+      "end_page": 168,
       "filename": "08_chapter_8_decaying_gardens.txt"
     },
     {
       "type": "chapter",
       "number": 9,
       "title": "On the Hunt",
-      "start_page": 168,
-      "end_page": 195,
+      "start_page": 169,
+      "end_page": 196,
       "filename": "09_chapter_9_on_the_hunt.txt"
     },
     {
       "type": "chapter",
       "number": 10,
       "title": "To Draw the Baleful Glare",
-      "start_page": 196,
+      "start_page": 197,
       "end_page": 258,
       "filename": "10_chapter_10_to_draw_the_baleful_glare.txt"
     }

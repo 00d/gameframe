@@ -203,12 +203,7 @@ Additional 835 noise lines removed across all books:
 
 ## Verification Script
 
-`scripts/verify_extraction.py` — re-extracts PDF pages and compares against existing files.
+As of 2026-02-06, source PDFs were intentionally removed to reduce storage size.
+PDF re-extraction/verification scripts were removed with them.
 
-```bash
-# Verify a specific book
-python3 scripts/verify_extraction.py Core_Rulebook --pages 298-320 --summary
-
-# List available books
-python3 scripts/verify_extraction.py --list
-```
+Current validation is based on the finalized extracted outputs in `extracted/`.

@@ -13,7 +13,7 @@
       "number": 0,
       "title": "Front Matter",
       "start_page": 1,
-      "end_page": 7,
+      "end_page": 8,
       "filename": "00_front_matter.txt"
     },
     {
@@ -22,8 +22,8 @@
       "title": "GAMEMASTERY BASICS",
       "start_line": 340,
       "end_line": 4953,
-      "start_page": 8,
-      "end_page": 55,
+      "start_page": 9,
+      "end_page": 56,
       "filename": "01_chapter_1_gamemastery_basics.txt"
     },
     {
@@ -32,8 +32,8 @@
       "title": "TOOLS",
       "start_line": 4954,
       "end_line": 16822,
-      "start_page": 56,
-      "end_page": 147,
+      "start_page": 57,
+      "end_page": 148,
       "filename": "02_chapter_2_tools.txt"
     },
     {
@@ -42,8 +42,8 @@
       "title": "SUBSYSTEMS",
       "start_line": 16823,
       "end_line": 20170,
-      "start_page": 148,
-      "end_page": 181,
+      "start_page": 149,
+      "end_page": 182,
       "filename": "03_chapter_3_subsystems.txt"
     },
     {
@@ -52,8 +52,8 @@
       "title": "VARIANT RULES",
       "start_line": 20171,
       "end_line": 22338,
-      "start_page": 182,
-      "end_page": 203,
+      "start_page": 183,
+      "end_page": 204,
       "filename": "04_chapter_4_variant_rules.txt"
     },
     {
@@ -62,7 +62,7 @@
       "title": "NPC GALLERY",
       "start_line": 22339,
       "end_line": 27058,
-      "start_page": 204,
+      "start_page": 205,
       "end_page": 258,
       "filename": "05_chapter_5_npc_gallery.txt"
     }

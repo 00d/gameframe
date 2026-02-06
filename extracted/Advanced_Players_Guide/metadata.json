@@ -13,7 +13,7 @@
       "number": 0,
       "title": "Front Matter",
       "start_page": 1,
-      "end_page": 7,
+      "end_page": 8,
       "filename": "00_front_matter.txt"
     },
     {
@@ -22,8 +22,8 @@
       "title": "ANCESTRIES & BACKGROUNDS",
       "start_line": 370,
       "end_line": 4811,
-      "start_page": 8,
-      "end_page": 53,
+      "start_page": 9,
+      "end_page": 54,
       "filename": "01_chapter_1_ancestries_backgrounds.txt"
     },
     {
@@ -32,8 +32,8 @@
       "title": "CLASSES",
       "start_line": 4812,
       "end_line": 14638,
-      "start_page": 54,
-      "end_page": 149,
+      "start_page": 55,
+      "end_page": 150,
       "filename": "02_chapter_2_classes.txt"
     },
     {
@@ -42,8 +42,8 @@
       "title": "ARCHETYPES",
       "start_line": 14639,
       "end_line": 19420,
-      "start_page": 150,
-      "end_page": 201,
+      "start_page": 151,
+      "end_page": 202,
       "filename": "03_chapter_3_archetypes.txt"
     },
     {
@@ -52,8 +52,8 @@
       "title": "FEATS",
       "start_line": 19421,
       "end_line": 20626,
-      "start_page": 202,
-      "end_page": 211,
+      "start_page": 203,
+      "end_page": 212,
       "filename": "04_chapter_4_feats.txt"
     },
     {
@@ -62,8 +62,8 @@
       "title": "SPELLS",
       "start_line": 20627,
       "end_line": 25090,
-      "start_page": 212,
-      "end_page": 247,
+      "start_page": 213,
+      "end_page": 248,
       "filename": "05_chapter_5_spells.txt"
     },
     {
@@ -72,7 +72,7 @@
       "title": "ITEMS",
       "start_line": 25091,
       "end_line": 29142,
-      "start_page": 248,
+      "start_page": 249,
       "end_page": 274,
       "filename": "06_chapter_6_items.txt"
     }

@@ -13,7 +13,7 @@
       "number": 0,
       "title": "Front Matter",
       "start_page": 1,
-      "end_page": 7,
+      "end_page": 8,
       "filename": "00_front_matter.txt"
     },
     {
@@ -22,8 +22,8 @@
       "title": "Introduction",
       "start_line": 275,
       "end_line": 3815,
-      "start_page": 8,
-      "end_page": 33,
+      "start_page": 9,
+      "end_page": 34,
       "filename": "01_chapter_1_introduction.txt"
     },
     {
@@ -32,8 +32,8 @@
       "title": "Ancestries & Backgrounds",
       "start_line": 3816,
       "end_line": 7077,
-      "start_page": 34,
-      "end_page": 67,
+      "start_page": 35,
+      "end_page": 68,
       "filename": "02_chapter_2_ancestries_backgrounds.txt"
     },
     {
@@ -42,8 +42,8 @@
       "title": "Classes",
       "start_line": 7078,
       "end_line": 23664,
-      "start_page": 68,
-      "end_page": 233,
+      "start_page": 69,
+      "end_page": 234,
       "filename": "03_chapter_3_classes.txt"
     },
     {
@@ -52,7 +52,7 @@
       "title": "Skills",
       "start_line": 23665,
       "end_line": 26329,
-      "start_page": 234,
+      "start_page": 235,
       "end_page": 255,
       "filename": "04_chapter_4_skills.txt"
     },
@@ -63,7 +63,7 @@
       "start_line": 26330,
       "end_line": 28232,
       "start_page": 256,
-      "end_page": 271,
+      "end_page": 272,
       "filename": "05_chapter_5_feats.txt"
     },
     {
@@ -72,8 +72,8 @@
       "title": "Equipment",
       "start_line": 28233,
       "end_line": 32097,
-      "start_page": 272,
-      "end_page": 297,
+      "start_page": 273,
+      "end_page": 298,
       "filename": "06_chapter_6_equipment.txt"
     },
     {
@@ -82,8 +82,8 @@
       "title": "Spells",
       "start_line": 32098,
       "end_line": 48207,
-      "start_page": 298,
-      "end_page": 417,
+      "start_page": 299,
+      "end_page": 418,
       "filename": "07_chapter_7_spells.txt"
     },
     {
@@ -92,8 +92,8 @@
       "title": "The Age of Lost Omens Ten thousand years",
       "start_line": 48208,
       "end_line": 50316,
-      "start_page": 418,
-      "end_page": 443,
+      "start_page": 419,
+      "end_page": 444,
       "filename": "08_chapter_8_the_age_of_lost_omens_ten_thousand_years.txt"
     },
     {
@@ -102,8 +102,8 @@
       "title": "Playing the Game",
       "start_line": 50317,
       "end_line": 54625,
-      "start_page": 444,
-      "end_page": 483,
+      "start_page": 445,
+      "end_page": 484,
       "filename": "09_chapter_9_playing_the_game.txt"
     },
     {
@@ -112,8 +112,8 @@
       "title": "Game Mastering",
       "start_line": 54626,
       "end_line": 60240,
-      "start_page": 484,
-      "end_page": 531,
+      "start_page": 485,
+      "end_page": 498,
       "filename": "10_chapter_10_game_mastering.txt"
     },
     {

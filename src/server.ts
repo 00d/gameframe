@@ -38,6 +38,7 @@ const BOOK_DISPLAY_NAMES: Record<string, string> = {
   'Ancestry_Guide': 'Ancestry Guide',
   'Abomination_Vaults': 'Abomination Vaults',
   'Dungeon_Slimes_Pf2e': 'Dungeon Slimes',
+  'RemasterPlayerCoreCharacterSheet': 'Remaster Player Core Character Sheet',
 };
 
 /** Natural sort comparator: numbers embedded in strings sort numerically. */
@@ -45,52 +46,103 @@ function naturalSort(a: string, b: string): number {
   return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
 }
 
+type FileTreeItem = {
+  name: string;
+  displayName?: string;
+  type: 'directory' | 'file';
+  children?: FileTreeItem[];
+  path?: string;
+};
+
+const FILE_TREE_CACHE_MS = 30_000;
+let fileTreeCache: FileTreeItem[] | null = null;
+let fileTreeBuiltAt = 0;
+let fileTreePromise: Promise<FileTreeItem[]> | null = null;
+
 /** Build the file tree for a given directory, using pathPrefix for client-side paths. */
-function getFiles(dir: string, root: string, pathPrefix: string, ext: string, depth = 0): Array<{name: string; displayName?: string; type: string; children?: Array<any>; path?: string}> {
-  let entries: string[];
+async function getFilesAsync(
+  dir: string,
+  root: string,
+  pathPrefix: string,
+  ext: string,
+  depth = 0
+): Promise<FileTreeItem[]> {
+  let entries: fs.Dirent[];
   try {
-    entries = fs.readdirSync(dir).sort(naturalSort);
+    entries = await fs.promises.readdir(dir, { withFileTypes: true });
+    entries.sort((a, b) => naturalSort(a.name, b.name));
   } catch {
     return [];
   }
 
-  const items = entries
-    .map(file => {
-      const fullPath = path.join(dir, file);
-      const stat = fs.statSync(fullPath);
-      if (stat.isDirectory()) {
-        const children = getFiles(fullPath, root, pathPrefix, ext, depth + 1);
-        if (children.length === 0) return null; // Skip empty directories
-        const displayName = depth === 0 ? BOOK_DISPLAY_NAMES[file] : undefined;
-        return { name: file, ...(displayName ? { displayName } : {}), type: 'directory' as const, children };
-      } else if (file.endsWith(ext) && file !== 'metadata.json') {
-        const relPath = path.relative(root, fullPath);
-        return { name: file, type: 'file' as const, path: pathPrefix ? pathPrefix + '/' + relPath : relPath };
-      }
-      return null;
-    })
-    .filter((item): item is NonNullable<typeof item> => item !== null);
+  const items: FileTreeItem[] = [];
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      const children = await getFilesAsync(fullPath, root, pathPrefix, ext, depth + 1);
+      if (children.length === 0) continue; // Skip empty directories
+      const displayName = depth === 0 ? BOOK_DISPLAY_NAMES[entry.name] : undefined;
+      items.push({
+        name: entry.name,
+        ...(displayName ? { displayName } : {}),
+        type: 'directory',
+        children
+      });
+      continue;
+    }
+
+    if (entry.isFile() && entry.name.endsWith(ext) && entry.name !== 'metadata.json') {
+      const relPath = path.relative(root, fullPath);
+      const normalized = relPath.split(path.sep).join('/');
+      items.push({
+        name: entry.name,
+        type: 'file',
+        path: pathPrefix ? `${pathPrefix}/${normalized}` : normalized
+      });
+    }
+  }
 
   // Sort: directories first, then files, both in natural order
   items.sort((a, b) => {
     if (a.type !== b.type) return a.type === 'directory' ? -1 : 1;
     return naturalSort(a.name, b.name);
   });
-
   return items;
 }
 
-/** Serve file tree: extracted/ .txt files + rules/ .md files */
-app.get('/api/files', (req, res) => {
-  try {
-    const tree = getFiles(EXTRACTED_ROOT, EXTRACTED_ROOT, '', '.txt');
+async function buildFileTree(): Promise<FileTreeItem[]> {
+  const tree = await getFilesAsync(EXTRACTED_ROOT, EXTRACTED_ROOT, '', '.txt');
+  const rulesChildren = await getFilesAsync(RULES_ROOT, RULES_ROOT, 'rules', '.md');
+  if (rulesChildren.length > 0) {
+    tree.push({ name: 'Rules (Curated)', type: 'directory', children: rulesChildren });
+  }
+  return tree;
+}
 
-    // Append curated rules as a synthetic folder entry
-    const rulesChildren = getFiles(RULES_ROOT, RULES_ROOT, 'rules', '.md');
-    if (rulesChildren.length > 0) {
-      tree.push({ name: 'Rules (Curated)', type: 'directory', children: rulesChildren });
+async function getCachedFileTree(): Promise<FileTreeItem[]> {
+  const now = Date.now();
+  if (fileTreeCache && (now - fileTreeBuiltAt) < FILE_TREE_CACHE_MS) {
+    return fileTreeCache;
+  }
+  if (fileTreePromise) return fileTreePromise;
+
+  fileTreePromise = (async () => {
+    try {
+      const tree = await buildFileTree();
+      fileTreeCache = tree;
+      fileTreeBuiltAt = Date.now();
+      return tree;
+    } finally {
+      fileTreePromise = null;
     }
+  })();
+  return fileTreePromise;
+}
 
+/** Serve file tree: extracted/ .txt files + rules/ .md files */
+app.get('/api/files', async (_req, res) => {
+  try {
+    const tree = await getCachedFileTree();
     res.json(tree);
   } catch {
     res.status(500).json({ error: 'Failed to read content directory' });
@@ -198,6 +250,34 @@ function isAbilityLine(line: string): boolean {
   return false;
 }
 
+/** Remove non-printable control chars that occasionally leak from OCR/PDF text extraction. */
+function stripControlChars(line: string): string {
+  return line.replace(/[\u0000-\u0008\u000B-\u001F\u007F]/g, '');
+}
+
+/** Repeated running headers from PDF pages (not meaningful content). */
+function isRunningHeaderLine(line: string): boolean {
+  return /^Bestiary\s+\d+$/i.test(line);
+}
+
+/** Heuristic for short title-case headings like "Ahuizotl", followed by prose. */
+function isLikelyTitleHeading(line: string, nextLine: string | undefined): boolean {
+  if (!nextLine) return false;
+  if (line.length < 2 || line.length > 64) return false;
+  if (/[.!?;:]$/.test(line)) return false;
+  if (STAT_FIELD_RE.test(line)) return false;
+  if (isAllCapsHeader(line)) return false;
+  if (ALIGNMENT_TOKENS.has(line) || SIZE_TOKENS.has(line)) return false;
+  if (!/^[A-Z][A-Za-z'’\-()]+(?:\s+[A-Z][A-Za-z'’\-()]+){0,5}$/.test(line)) return false;
+
+  // Next line should look like normal prose rather than another heading/stat field.
+  if (STAT_FIELD_RE.test(nextLine) || isAllCapsHeader(nextLine) || /^#{1,4}\s/.test(nextLine)) return false;
+  if (!/^[A-Z"“‘'(]/.test(nextLine)) return false;
+  if (!/[a-z]/.test(nextLine)) return false;
+  if (nextLine.split(/\s+/).length < 4) return false;
+  return true;
+}
+
 interface Token {
   type: string;
   content: string;
@@ -211,13 +291,14 @@ interface Token {
  */
 function tokenize(text: string): Token[] {
   const lines = text.split('\n');
+  const getTrimmed = (idx: number): string => stripControlChars(lines[idx] ?? '').trim();
   const tokens: Token[] = [];
   let i = 0;
   let inStatBlock = false;
   let statBlockStart = 0;
 
   while (i < lines.length) {
-    const line = lines[i];
+    const line = stripControlChars(lines[i]);
     const trimmed = line.trim();
 
     // Empty lines
@@ -247,11 +328,17 @@ function tokenize(text: string): Token[] {
       continue;
     }
 
+    // Repeated running page headers like "Bestiary 2"
+    if (isRunningHeaderLine(trimmed)) {
+      i++;
+      continue;
+    }
+
     // Markdown-style headers: # Title
     // Also skip metadata lines like "# Pages: 8-16"
     const mdHeaderMatch = trimmed.match(/^(#{1,4})\s+(.+)$/);
     if (mdHeaderMatch) {
-      const headerText = mdHeaderMatch[2];
+      const headerText = stripControlChars(mdHeaderMatch[2]).trim();
       // Skip metadata-style headers (Pages: N-N, etc.)
       if (/^Pages:\s*\d/.test(headerText)) {
         i++;
@@ -264,8 +351,17 @@ function tokenize(text: string): Token[] {
       continue;
     }
 
+    // Short title-case heading followed by prose (e.g., "Ahuizotl")
+    if (isLikelyTitleHeading(trimmed, getTrimmed(i + 1))) {
+      tokens.push({ type: 'header', content: trimmed, level: 3 });
+      inStatBlock = false;
+      statBlockStart = tokens.length;
+      i++;
+      continue;
+    }
+
     // Creature name + CREATURE N pattern → start stat block
-    if (isCreatureName(trimmed, lines[i + 1]?.trim())) {
+    if (isCreatureName(trimmed, getTrimmed(i + 1))) {
       tokens.push({ type: 'creature-name', content: trimmed });
       inStatBlock = true;
       statBlockStart = tokens.length - 1;
@@ -303,12 +399,12 @@ function tokenize(text: string): Token[] {
       let fullField = trimmed;
       // Collect continuation lines
       while (i + 1 < lines.length) {
-        const nextTrimmed = lines[i + 1].trim();
+        const nextTrimmed = getTrimmed(i + 1);
         if (nextTrimmed === '' || /^={10,}$/.test(nextTrimmed) || /^PAGE \d+$/.test(nextTrimmed)) break;
         if (isOcrNoise(nextTrimmed)) { i++; continue; }
         if (STAT_FIELD_RE.test(nextTrimmed)) break;
         if (isAllCapsHeader(nextTrimmed)) break;
-        if (isCreatureName(nextTrimmed, lines[i + 2]?.trim())) break;
+        if (isCreatureName(nextTrimmed, getTrimmed(i + 2))) break;
         // Stop continuation if this looks like an ability description
         if (isAbilityLine(nextTrimmed)) break;
         fullField += ' ' + nextTrimmed;
@@ -324,12 +420,12 @@ function tokenize(text: string): Token[] {
       let fullAbility = trimmed;
       // Collect continuation lines
       while (i + 1 < lines.length) {
-        const nextTrimmed = lines[i + 1].trim();
+        const nextTrimmed = getTrimmed(i + 1);
         if (nextTrimmed === '' || /^={10,}$/.test(nextTrimmed) || /^PAGE \d+$/.test(nextTrimmed)) break;
         if (isOcrNoise(nextTrimmed)) { i++; continue; }
         if (STAT_FIELD_RE.test(nextTrimmed)) break;
         if (isAllCapsHeader(nextTrimmed)) break;
-        if (isCreatureName(nextTrimmed, lines[i + 2]?.trim())) break;
+        if (isCreatureName(nextTrimmed, getTrimmed(i + 2))) break;
         if (isAbilityLine(nextTrimmed)) break;
         fullAbility += ' ' + nextTrimmed;
         i++;
@@ -378,21 +474,23 @@ function tokenize(text: string): Token[] {
     // Regular paragraph - merge consecutive continuation lines
     let paraText = trimmed;
     while (i + 1 < lines.length) {
-      const nextTrimmed = lines[i + 1].trim();
+      const nextTrimmed = getTrimmed(i + 1);
       if (nextTrimmed === '') break;
       if (/^={10,}$/.test(nextTrimmed)) break;
       if (/^PAGE \d+$/.test(nextTrimmed)) break;
       if (isOcrNoise(nextTrimmed)) { i++; continue; }
+      if (isRunningHeaderLine(nextTrimmed)) { i++; continue; }
       if (/^#{1,4}\s/.test(nextTrimmed)) break;
       if (/^[•\-*+]\s/.test(nextTrimmed)) break;
       if (/^\d+[.)]\s/.test(nextTrimmed)) break;
       if (STAT_FIELD_RE.test(nextTrimmed)) break;
       if (isAllCapsHeader(nextTrimmed)) break;
-      if (isCreatureName(nextTrimmed, lines[i + 2]?.trim())) break;
+      if (isCreatureName(nextTrimmed, getTrimmed(i + 2))) break;
       if (/^CREATURE\s+[\d\-]+$/.test(nextTrimmed)) break;
       if (ALIGNMENT_TOKENS.has(nextTrimmed)) break;
       if (SIZE_TOKENS.has(nextTrimmed)) break;
       if (inStatBlock && isAbilityLine(nextTrimmed)) break;
+      if (isLikelyTitleHeading(nextTrimmed, getTrimmed(i + 2))) break;
       paraText += ' ' + nextTrimmed;
       i++;
     }
@@ -586,36 +684,310 @@ function renderMarkdown(content: string): string {
   return sanitizeHtml(marked.parse(content) as string);
 }
 
+type ContentKind = 'txt' | 'md';
+type RenderCacheEntry = { mtimeMs: number; html: string };
+const renderedContentCache = new Map<string, RenderCacheEntry>();
+const PAGE_CHUNK_SIZE_DEFAULT = 12;
+
+type PagedContentCacheEntry = {
+  mtimeMs: number;
+  orderedPages: number[];
+  pageText: Map<number, string>;
+  pageHtml: Map<number, string>;
+};
+const pagedContentCache = new Map<string, PagedContentCacheEntry>();
+
+async function renderCached(fullPath: string, kind: ContentKind): Promise<string> {
+  const cacheKey = `${kind}:${fullPath}`;
+  const stat = await fs.promises.stat(fullPath);
+  const cached = renderedContentCache.get(cacheKey);
+  if (cached && cached.mtimeMs === stat.mtimeMs) {
+    return cached.html;
+  }
+
+  const content = await fs.promises.readFile(fullPath, 'utf-8');
+  const html = kind === 'txt' ? textToHtml(content) : renderMarkdown(content);
+  renderedContentCache.set(cacheKey, { mtimeMs: stat.mtimeMs, html });
+  return html;
+}
+
+function parsePagedText(content: string): { orderedPages: number[]; pageText: Map<number, string> } {
+  const pageText = new Map<number, string>();
+  const orderedPages: number[] = [];
+  let currentPage: number | null = null;
+
+  for (const rawLine of content.split('\n')) {
+    const trimmed = rawLine.trim();
+    const pageMatch = trimmed.match(/^PAGE\s+(\d+)\s*$/);
+    if (pageMatch) {
+      currentPage = parseInt(pageMatch[1], 10);
+      if (!pageText.has(currentPage)) {
+        pageText.set(currentPage, '');
+        orderedPages.push(currentPage);
+      }
+      continue;
+    }
+    if (currentPage === null) continue;
+    if (/^={10,}$/.test(trimmed)) continue;
+
+    const previous = pageText.get(currentPage) ?? '';
+    pageText.set(currentPage, previous ? `${previous}\n${rawLine}` : rawLine);
+  }
+
+  return { orderedPages, pageText };
+}
+
+async function getPagedContentCache(fullPath: string): Promise<PagedContentCacheEntry> {
+  const stat = await fs.promises.stat(fullPath);
+  const existing = pagedContentCache.get(fullPath);
+  if (existing && existing.mtimeMs === stat.mtimeMs) {
+    return existing;
+  }
+
+  const content = await fs.promises.readFile(fullPath, 'utf-8');
+  const parsed = parsePagedText(content);
+  const nextEntry: PagedContentCacheEntry = {
+    mtimeMs: stat.mtimeMs,
+    orderedPages: parsed.orderedPages.sort((a, b) => a - b),
+    pageText: parsed.pageText,
+    pageHtml: new Map<number, string>()
+  };
+  pagedContentCache.set(fullPath, nextEntry);
+  return nextEntry;
+}
+
+function renderCachedPageHtml(entry: PagedContentCacheEntry, page: number): string {
+  const cached = entry.pageHtml.get(page);
+  if (cached) return cached;
+
+  const body = entry.pageText.get(page) ?? '';
+  const html = textToHtml(`PAGE ${page}\n${body}`);
+  entry.pageHtml.set(page, html);
+  return html;
+}
+
+type IndexedFile = {
+  absPath: string;
+  path: string;
+  name: string;
+  kind: ContentKind;
+};
+
+type SearchLine = {
+  text: string;
+  lower: string;
+  lineNumber: number;
+  page: number | null;
+};
+
+type SearchDocument = {
+  id: number;
+  path: string;
+  name: string;
+  kind: ContentKind;
+  lines: SearchLine[];
+};
+
+type SearchSnippet = {
+  text: string;
+  page: number | null;
+  line: number;
+};
+
+const SEARCH_INDEX_CACHE_MS = 60_000;
+let searchDocs: SearchDocument[] = [];
+let tokenToDocIds = new Map<string, Set<number>>();
+let searchIndexBuiltAt = 0;
+let searchIndexPromise: Promise<void> | null = null;
+
+function normalizeClientPath(p: string): string {
+  return p.split(path.sep).join('/');
+}
+
+function tokenizeForSearch(text: string): string[] {
+  return text.toLowerCase().match(/[a-z0-9]{2,}/g) ?? [];
+}
+
+function pageFromLine(line: string): number | null {
+  const match = line.match(/^PAGE\s+(\d+)\s*$/);
+  return match ? parseInt(match[1], 10) : null;
+}
+
+function intersectSets(a: Set<number>, b: Set<number>): Set<number> {
+  const out = new Set<number>();
+  const [small, large] = a.size <= b.size ? [a, b] : [b, a];
+  for (const value of small) {
+    if (large.has(value)) out.add(value);
+  }
+  return out;
+}
+
+async function collectFiles(dir: string, basePath: string, ext: string, kind: ContentKind): Promise<IndexedFile[]> {
+  const out: IndexedFile[] = [];
+  let entries: fs.Dirent[];
+  try {
+    entries = await fs.promises.readdir(dir, { withFileTypes: true });
+    entries.sort((a, b) => naturalSort(a.name, b.name));
+  } catch {
+    return out;
+  }
+
+  for (const entry of entries) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      const nextBase = basePath ? `${basePath}/${entry.name}` : entry.name;
+      out.push(...(await collectFiles(full, nextBase, ext, kind)));
+      continue;
+    }
+    if (!entry.isFile() || !entry.name.endsWith(ext)) continue;
+    if (entry.name === 'metadata.json') continue;
+    const p = basePath ? `${basePath}/${entry.name}` : entry.name;
+    out.push({
+      absPath: full,
+      path: normalizeClientPath(p),
+      name: entry.name.replace(/\.\w+$/, ''),
+      kind
+    });
+  }
+
+  return out;
+}
+
+async function buildSearchIndex(): Promise<void> {
+  const files = [
+    ...(await collectFiles(EXTRACTED_ROOT, '', '.txt', 'txt')),
+    ...(await collectFiles(RULES_ROOT, 'rules', '.md', 'md'))
+  ];
+
+  const nextDocs: SearchDocument[] = [];
+  const nextTokenMap = new Map<string, Set<number>>();
+
+  for (const file of files) {
+    const content = await fs.promises.readFile(file.absPath, 'utf-8');
+    const rawLines = content.split('\n');
+    const lines: SearchLine[] = [];
+    const docTokens = new Set<string>();
+    let currentPage: number | null = null;
+
+    for (let idx = 0; idx < rawLines.length; idx++) {
+      const raw = rawLines[idx];
+      const maybePage = pageFromLine(raw.trim());
+      if (maybePage !== null) {
+        currentPage = maybePage;
+        continue;
+      }
+
+      const trimmed = raw.trim();
+      if (!trimmed) continue;
+      const lower = trimmed.toLowerCase();
+      lines.push({
+        text: trimmed,
+        lower,
+        lineNumber: idx + 1,
+        page: file.kind === 'txt' ? currentPage : null
+      });
+
+      for (const token of new Set(tokenizeForSearch(lower))) {
+        docTokens.add(token);
+      }
+    }
+
+    const docId = nextDocs.length;
+    nextDocs.push({
+      id: docId,
+      path: file.path,
+      name: file.name,
+      kind: file.kind,
+      lines
+    });
+
+    for (const token of docTokens) {
+      let ids = nextTokenMap.get(token);
+      if (!ids) {
+        ids = new Set<number>();
+        nextTokenMap.set(token, ids);
+      }
+      ids.add(docId);
+    }
+  }
+
+  searchDocs = nextDocs;
+  tokenToDocIds = nextTokenMap;
+  searchIndexBuiltAt = Date.now();
+}
+
+async function ensureSearchIndex(): Promise<void> {
+  const now = Date.now();
+  if ((now - searchIndexBuiltAt) < SEARCH_INDEX_CACHE_MS && searchDocs.length > 0) {
+    return;
+  }
+  if (searchIndexPromise) return searchIndexPromise;
+
+  searchIndexPromise = (async () => {
+    try {
+      await buildSearchIndex();
+    } finally {
+      searchIndexPromise = null;
+    }
+  })();
+  return searchIndexPromise;
+}
+
+function buildSnippet(doc: SearchDocument, idx: number): SearchSnippet {
+  const start = Math.max(0, idx - 1);
+  const end = Math.min(doc.lines.length - 1, idx + 1);
+  const text = doc.lines.slice(start, end + 1)
+    .map(l => l.text)
+    .filter(Boolean)
+    .join(' ')
+    .slice(0, 220);
+  return {
+    text,
+    page: doc.lines[idx]?.page ?? null,
+    line: doc.lines[idx]?.lineNumber ?? 0
+  };
+}
+
 /** Serve content - supports both .txt (extracted) and .md (curated) files */
-app.get('/api/content/:path(*)', (req, res) => {
+app.get('/api/content/:path(*)', async (req, res) => {
   const reqPath = req.params.path;
 
   // Explicit rules/ prefix → serve from RULES_ROOT as markdown
   if (reqPath.startsWith('rules/')) {
     const rulesRelative = reqPath.slice('rules/'.length);
     const mdPath = safePath(RULES_ROOT, rulesRelative);
-    if (mdPath && mdPath.endsWith('.md') && fs.existsSync(mdPath)) {
-      try {
-        const content = fs.readFileSync(mdPath, 'utf-8');
-        res.setHeader('Content-Type', 'text/html; charset=utf-8');
-        res.send(renderMarkdown(content));
-      } catch {
-        res.status(500).json({ error: 'Failed to read file' });
-      }
+    if (!mdPath || !mdPath.endsWith('.md')) {
+      res.status(404).json({ error: 'File not found' });
       return;
     }
-    res.status(404).json({ error: 'File not found' });
+    try {
+      const html = await renderCached(mdPath, 'md');
+      res.setHeader('Content-Type', 'text/html; charset=utf-8');
+      res.send(html);
+    } catch (err) {
+      const e = err as NodeJS.ErrnoException;
+      if (e.code === 'ENOENT') {
+        res.status(404).json({ error: 'File not found' });
+        return;
+      }
+      res.status(500).json({ error: 'Failed to read file' });
+    }
     return;
   }
 
   // Security: canonicalize path and ensure it stays within allowed roots
   const extractedPath = safePath(EXTRACTED_ROOT, reqPath);
-  if (extractedPath && extractedPath.endsWith('.txt') && fs.existsSync(extractedPath)) {
+  if (extractedPath && extractedPath.endsWith('.txt')) {
     try {
-      const content = fs.readFileSync(extractedPath, 'utf-8');
+      const html = await renderCached(extractedPath, 'txt');
       res.setHeader('Content-Type', 'text/html; charset=utf-8');
-      res.send(textToHtml(content));
-    } catch {
+      res.send(html);
+    } catch (err) {
+      const e = err as NodeJS.ErrnoException;
+      if (e.code === 'ENOENT') {
+        res.status(404).json({ error: 'File not found' });
+        return;
+      }
       res.status(500).json({ error: 'Failed to read file' });
     }
     return;
@@ -623,12 +995,17 @@ app.get('/api/content/:path(*)', (req, res) => {
 
   // Legacy fallback: .txt→.md in rules directory
   const mdPath = safePath(RULES_ROOT, reqPath.replace(/\.txt$/, '.md'));
-  if (mdPath && mdPath.endsWith('.md') && fs.existsSync(mdPath)) {
+  if (mdPath && mdPath.endsWith('.md')) {
     try {
-      const content = fs.readFileSync(mdPath, 'utf-8');
+      const html = await renderCached(mdPath, 'md');
       res.setHeader('Content-Type', 'text/html; charset=utf-8');
-      res.send(renderMarkdown(content));
-    } catch {
+      res.send(html);
+    } catch (err) {
+      const e = err as NodeJS.ErrnoException;
+      if (e.code === 'ENOENT') {
+        res.status(404).json({ error: 'File not found' });
+        return;
+      }
       res.status(500).json({ error: 'Failed to read file' });
     }
     return;
@@ -637,70 +1014,175 @@ app.get('/api/content/:path(*)', (req, res) => {
   res.status(404).json({ error: 'File not found' });
 });
 
-/** Search endpoint: full-text search across extracted content */
-app.get('/api/search', (req, res) => {
+/** Paged content endpoint for large extracted txt files. */
+app.get('/api/content-pages/:path(*)', async (req, res) => {
+  const reqPath = req.params.path;
+  const extractedPath = safePath(EXTRACTED_ROOT, reqPath);
+  if (!extractedPath || !extractedPath.endsWith('.txt')) {
+    res.status(404).json({ error: 'File not found' });
+    return;
+  }
+
+  try {
+    const entry = await getPagedContentCache(extractedPath);
+    const orderedPages = entry.orderedPages;
+    if (orderedPages.length === 0) {
+      res.json({
+        path: reqPath,
+        totalPages: 0,
+        firstPage: null,
+        lastPage: null,
+        startPage: null,
+        endPage: null,
+        nextPage: null,
+        hasMore: false,
+        pages: []
+      });
+      return;
+    }
+
+    const firstPage = orderedPages[0];
+    const lastPage = orderedPages[orderedPages.length - 1];
+    const startQuery = parseInt((req.query.start as string) || '', 10);
+    const endQuery = parseInt((req.query.end as string) || '', 10);
+
+    const candidateStart = Number.isFinite(startQuery) ? startQuery : firstPage;
+    let startIndex = orderedPages.findIndex(p => p >= candidateStart);
+    if (startIndex === -1) startIndex = orderedPages.length - 1;
+
+    let endIndex: number;
+    if (Number.isFinite(endQuery)) {
+      endIndex = startIndex;
+      while (endIndex + 1 < orderedPages.length && orderedPages[endIndex + 1] <= endQuery) {
+        endIndex++;
+      }
+    } else {
+      endIndex = Math.min(startIndex + PAGE_CHUNK_SIZE_DEFAULT - 1, orderedPages.length - 1);
+    }
+
+    const chunkPages = orderedPages.slice(startIndex, endIndex + 1);
+    const nextPage = endIndex < orderedPages.length - 1 ? orderedPages[endIndex + 1] : null;
+    res.json({
+      path: reqPath,
+      totalPages: orderedPages.length,
+      firstPage,
+      lastPage,
+      startPage: chunkPages[0] ?? null,
+      endPage: chunkPages[chunkPages.length - 1] ?? null,
+      nextPage,
+      hasMore: nextPage !== null,
+      pages: chunkPages.map(page => ({
+        page,
+        html: renderCachedPageHtml(entry, page)
+      }))
+    });
+  } catch (err) {
+    const e = err as NodeJS.ErrnoException;
+    if (e.code === 'ENOENT') {
+      res.status(404).json({ error: 'File not found' });
+      return;
+    }
+    res.status(500).json({ error: 'Failed to read file' });
+  }
+});
+
+/** Search endpoint: indexed full-text search with page-aware snippets */
+app.get('/api/search', async (req, res) => {
   const query = (req.query.q as string || '').trim().toLowerCase();
   if (!query || query.length < 2) {
     res.json({ results: [], total: 0 });
     return;
   }
 
-  const results: Array<{ path: string; name: string; snippets: string[] }> = [];
+  try {
+    await ensureSearchIndex();
 
-  const searchDir = (dir: string, basePath: string, ext: string) => {
-    let entries: string[];
-    try { entries = fs.readdirSync(dir); } catch { return; }
+    const queryTokens = Array.from(new Set(tokenizeForSearch(query)));
+    if (queryTokens.length === 0) {
+      res.json({ results: [], total: 0 });
+      return;
+    }
 
-    for (const entry of entries) {
-      const full = path.join(dir, entry);
-      const stat = fs.statSync(full);
-      if (stat.isDirectory()) {
-        searchDir(full, path.join(basePath, entry), ext);
-        continue;
+    let candidateIds: Set<number> | null = null;
+    for (const token of queryTokens) {
+      const ids = tokenToDocIds.get(token);
+      if (!ids) {
+        res.json({ results: [], total: 0 });
+        return;
       }
-      if (!entry.endsWith(ext)) continue;
+      candidateIds = candidateIds ? intersectSets(candidateIds, ids) : new Set(ids);
+    }
 
-      try {
-        const content = fs.readFileSync(full, 'utf-8');
-        const lines = content.split('\n');
-        const snippets: string[] = [];
+    if (!candidateIds || candidateIds.size === 0) {
+      res.json({ results: [], total: 0 });
+      return;
+    }
 
-        for (let j = 0; j < lines.length; j++) {
-          if (lines[j].toLowerCase().includes(query)) {
-            const start = Math.max(0, j - 1);
-            const end = Math.min(lines.length - 1, j + 1);
-            const snippet = lines.slice(start, end + 1)
-              .map(l => l.trim())
-              .filter(l => l.length > 0)
-              .join(' ')
-              .substring(0, 200);
-            if (snippet && !snippets.includes(snippet)) {
-              snippets.push(snippet);
-            }
-            if (snippets.length >= 3) break;
+    const ranked: Array<{
+      path: string;
+      name: string;
+      snippets: string[];
+      snippetDetails: SearchSnippet[];
+      bestPage: number | null;
+      score: number;
+    }> = [];
+
+    for (const docId of candidateIds) {
+      const doc = searchDocs[docId];
+      if (!doc) continue;
+
+      let score = 0;
+      const snippets: SearchSnippet[] = [];
+      const snippetKeys = new Set<string>();
+
+      for (let j = 0; j < doc.lines.length; j++) {
+        const line = doc.lines[j];
+        const hasPhrase = line.lower.includes(query);
+
+        let tokenHits = 0;
+        for (const token of queryTokens) {
+          if (line.lower.includes(token)) tokenHits++;
+        }
+        if (!hasPhrase && tokenHits === 0) continue;
+
+        score += hasPhrase ? 6 : tokenHits;
+        const strongMatch = hasPhrase || tokenHits === queryTokens.length || tokenHits >= 2;
+        if (strongMatch && snippets.length < 3) {
+          const snippet = buildSnippet(doc, j);
+          const key = `${snippet.page}:${snippet.text}`;
+          if (snippet.text && !snippetKeys.has(key)) {
+            snippetKeys.add(key);
+            snippets.push(snippet);
           }
         }
-
-        if (snippets.length > 0) {
-          results.push({
-            path: path.join(basePath, entry),
-            name: entry.replace(/\.\w+$/, ''),
-            snippets
-          });
-        }
-      } catch {
-        // Skip unreadable files
       }
+
+      if (score <= 0 || snippets.length === 0) continue;
+      ranked.push({
+        path: doc.path,
+        name: doc.name,
+        snippets: snippets.map(s => s.text),
+        snippetDetails: snippets,
+        bestPage: snippets.find(s => s.page !== null)?.page ?? null,
+        score
+      });
     }
-  };
 
-  searchDir(EXTRACTED_ROOT, '', '.txt');
-  searchDir(RULES_ROOT, 'rules', '.md');
+    ranked.sort((a, b) => {
+      if (b.score !== a.score) return b.score - a.score;
+      if (b.snippets.length !== a.snippets.length) return b.snippets.length - a.snippets.length;
+      return naturalSort(a.name, b.name);
+    });
 
-  // Sort by match count (most relevant first), limit to 20 results
-  results.sort((a, b) => b.snippets.length - a.snippets.length);
-  res.json({ results: results.slice(0, 20), total: results.length });
+    res.json({ results: ranked.slice(0, 20), total: ranked.length });
+  } catch {
+    res.status(500).json({ error: 'Search failed' });
+  }
 });
+
+// Warm common caches in the background to make first interaction faster.
+void getCachedFileTree().catch(() => undefined);
+void ensureSearchIndex().catch(() => undefined);
 
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
