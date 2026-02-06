@@ -1,0 +1,140 @@
+A creature becomes a receptacle for pure magical energy sent
+by your deity. The target gains a +1 status bonus to saving
+throws. Each time you Cast a Spell from your spell slots, you
+automatically Sustain this Spell and grant its target resistance
+to damage from spells until the start of your next turn. This
+resistance is equal to the level of the spell you cast.
+MALIGNANT SUSTENANCE
+FOCUS 4
+UNCOMMON
+CLERIC
+NECROMANCY
+NEGATIVE
+Domain undeath
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 willing undead creature
+Duration 1 minute
+You embed a seed of negative energy in an undead creature,
+restoring its unnatural vigor. The target gains fast healing 7.
+This healing comes from negative energy, so it heals the
+undead rather than damaging it.
+Heightened (+1) The fast healing increases by 2.
+MOONBEAM
+FOCUS 1
+UNCOMMON
+ATTACK
+CLERIC
+EVOCATION
+FIRE
+LIGHT
+Domain moon
+Cast [two-actions] somatic, verbal
+Range 120 feet; Targets 1 creature or object
+You shine a ray of moonlight. Make a spell attack roll. The beam
+of light deals 1d6 fire damage. Moonbeam deals silver damage
+for the purposes of weaknesses, resistances, and the like.
+Critical Success The beam deals double damage, and the
+target is dazzled for 1 minute.
+Success The beam deals full damage, and the target is dazzled
+for 1 round.
+Heightened (+1) The ray’s damage increases by 1d6.
+MYSTIC BEACON
+FOCUS 4
+UNCOMMON
+CLERIC
+EVOCATION
+Domain magic
+Cast [one-action] somatic
+Range 30 feet; Targets 1 willing creature
+Duration until the start of your next turn
+The next damaging or healing spell the target casts before the
+start of your next turn deals damage or restores Hit Points
+as if the spell were heightened 1 level higher than its actual
+level. The spell otherwise functions at its actual level. Once the
+target casts the spell, mystic beacon ends.
+NATURE’S BOUNTY
+FOCUS 4
+UNCOMMON
+CLERIC
+CONJURATION
+PLANT
+POSITIVE
+Domain nature
+Cast [one-action] somatic
+Requirements You have a free hand.
+A palm-sized raw fruit or vegetable appears in your open hand.
+You choose the specific type of food. A creature can consume
+the food with an Interact action to regain 3d10+12 Hit Points
+and be nourished as if it had eaten a meal. If uneaten, the food
+rots and crumbles to dust after 1 minute.
+Heightened (+1) The Hit Points restored increase by 6.
+OVERSTUFF
+FOCUS 1
+UNCOMMON
+CLERIC
+TRANSMUTATION
+Domain indulgence
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 living creature
+Saving Throw Fortitude
+Huge amounts of food and drink fill the target. It receives a full
+meal’s worth of nourishment and must attempt a Fortitude save.
+Critical Success The target is unaffected.
+Success The target is sickened 1, but if it spends an action to
+end the condition, it succeeds automatically.
+Failure The target is sickened 1.
+Critical Failure The target is sickened 2.
+A target sickened by this spell takes a –10-foot status penalty
+to its Speed until it’s no longer sickened.
+PERFECTED FORM
+FOCUS 4
+UNCOMMON
+ABJURATION
+CLERIC
+FORTUNE
+Domain perfection
+Cast [reaction] somatic
+Trigger You fail a saving throw against a morph, petrification,
+or polymorph effect.
+Reroll the saving throw and use the better result.
+PERFECTED MIND
+FOCUS 1
+UNCOMMON
+ABJURATION
+CLERIC
+Domain perfection
+Cast [one-action] verbal
+You meditate upon perfection to remove all distractions
+from your mind. Attempt a new Will save against one mental
+effect currently affecting you that required a Will save. Use
+the result of this new save to determine the outcome of the
+mental effect, unless the new save would have a worse result
+than the original save, in which case nothing happens. You can
+use perfected mind against a given effect only once.
+POSITIVE LUMINANCE
+FOCUS 4
+UNCOMMON
+CLERIC
+LIGHT
+NECROMANCY
+POSITIVE
+Domain sun
+Cast [one-action] somatic
+Duration 1 minute
+Drawing life force into yourself, you become a beacon of
+positive energy. You glow with bright light in a 10-foot
+emanation, and you gain an internal pool of light called a
+luminance reservoir, which begins with a value of 4. At the
+start of each of your turns, you can use a free action to
+increase the luminance reservoir by 4. If you do, the radius of
+your light increases by 10 feet.
+If an undead creature damages you with an attack or spell
+while it’s within the area of your light, that creature takes
+positive damage equal to half your luminance reservoir value.
+It takes this damage only the first time it damages you in
+a round.
+You can Dismiss this Spell. When you do, you can target
+a creature within your light and direct the positive energy
+into it. The target must be a willing living creature or an
+Core Rulebook
+394

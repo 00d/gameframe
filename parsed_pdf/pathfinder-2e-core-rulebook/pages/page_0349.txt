@@ -1,0 +1,122 @@
+KNOW DIRECTION
+CANTRIP 1
+CANTRIP
+DETECTION
+DIVINATION
+Traditions divine, occult, primal
+Cast [two-actions] somatic, verbal
+In your mind’s eye, you see a path northward. You immediately
+know which direction is north (if it exists at your current location).
+Heightened (7th) You can instead know the direction to a
+familiar location, such as a previous home or a favorite tavern.
+LEVITATE
+SPELL 3
+EVOCATION
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 unattended object or willing creature
+Duration 5 minutes
+You defy gravity and levitate the target 5 feet off the ground.
+For the duration of the spell, you can move the target up or
+down 10 feet with a single action, which has the concentrate
+trait. A creature floating in the air from levitate takes a –2
+circumstance penalty to attack rolls. A floating creature can
+spend an Interact action to stabilize itself and negate this
+penalty for the remainder of its turn. If the target is adjacent to
+a fixed object or terrain of suitable stability, it can move across
+the surface by climbing (if the surface is vertical, like a wall) or
+crawling (if the surface is horizontal, such as a ceiling). The GM
+determines which surfaces can be climbed or crawled across.
+LIGHT
+CANTRIP 1
+CANTRIP
+EVOCATION
+LIGHT
+Traditions arcane, divine, occult, primal
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 unattended, non-magical object of 1
+Bulk or less
+Duration until the next time you make your daily preparations
+The object glows, casting bright light in a 20-foot radius (and
+dim light for the next 20 feet) like a torch. If you cast this spell
+again on a second object, the light spell on the first object ends.
+Heightened (4th) The object sheds bright light in a 60-foot
+radius (and dim light for the next 60 feet).
+LIGHTNING BOLT
+SPELL 3
+ELECTRICITY
+EVOCATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Area 120-foot line
+Saving Throw basic Reflex
+A bolt of lightning strikes outward from your hand, dealing
+4d12 electricity damage.
+Heightened (+1) The damage increases by 1d12.
+LOCATE
+SPELL 3
+UNCOMMON
+DETECTION
+DIVINATION
+Traditions arcane, divine, occult
+Cast 10 minutes (material, somatic, verbal)
+Range 500 feet; Targets 1 specific object or type of object
+Duration sustained
+You learn the direction to the target (if you picked a specific
+object, such as “my mother’s sword”) or the nearest target (if
+you picked a type of object, such as “swords”). If the target is
+a specific object, you must have observed it directly with your
+own senses. If it’s a type of object, you still need to have an
+accurate mental image of the type of object. If there’s lead or
+running water between you and the target, this spell can’t
+locate the object. This means you might find a type of object
+farther away if the nearest one is behind lead or running water.
+Heightened (5th) You can target a specific creature or ancestry
+instead of an object, but you must have met or seen up close
+the creature or ancestry you want to target.
+LOCK
+SPELL 1
+ABJURATION
+Traditions arcane, divine, occult
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 lock, or a door or container with a latch
+Duration 1 day
+The target’s latch mechanism clinks shut, held fast by unseen
+magical restraints. When you magically lock a target, you set
+an Athletics and Thievery DC to open it equal to your spell DC
+or the base lock DC with a +4 status bonus, whichever is higher.
+Any key or combination that once opened a lock affected by
+this spell does not do so for the duration of the spell, though
+the key or combination does grant a +4 circumstance bonus to
+checks to open the door.
+If the target is opened, the spell ends. Assuming the target
+is not barred or locked in some additional way, you can unlock
+and open it with an Interact action during which you touch the
+target. This does not end the spell. You can Dismiss this spell
+at any time and from any distance.
+Heightened (2nd) The duration increases to unlimited, but you
+must expend 6 gp worth of gold dust as an additional cost.
+LONGSTRIDER
+SPELL 1
+TRANSMUTATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Duration 1 hour
+You lengthen your stride beyond what should be possible. You
+gain a +10-foot status bonus to your Speed.
+Heightened (2nd) The duration increases to 8 hours.
+MAGE ARMOR
+SPELL 1
+ABJURATION
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Duration until the next time you make your daily preparations
+You ward yourself with shimmering magical energy, gaining
+a +1 item bonus to AC and a maximum Dexterity modifier
+of +5. While wearing mage armor, you use your unarmored
+proficiency to calculate your AC.
+Heightened (4th) You gain a +1 item bonus to saving throws.
+Heightened (6th) The item bonus to AC increases to +2, and
+you gain a +1 item bonus to saving throws.
+Core Rulebook
+348

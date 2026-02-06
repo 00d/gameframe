@@ -1,0 +1,86 @@
+Success The creature is dazzled for 1 round.
+Failure The creature is stunned 1, blinded for 1 round, and
+dazzled for 1 minute.
+Critical Failure The creature is stunned for 1 round and blinded
+for 1 minute.
+COMMAND
+SPELL 1
+AUDITORY
+ENCHANTMENT
+LINGUISTIC
+MENTAL
+Traditions arcane, divine, occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration until the end of the target’s next turn
+You shout a command that’s hard to ignore. You can command
+the target to approach you, run away (as if it had the fleeing
+condition), release what it’s holding, drop prone, or stand in
+place. It can’t Delay or take any reactions until it has obeyed
+your command. The effects depend on the target’s Will save.
+Success The creature is unaffected.
+Failure For the first action on its next turn, the creature must
+use a single action to do as you command.
+Critical Failure The target must use all its actions on its next
+turn to obey your command.
+Heightened (5th) You can target up to 10 creatures.
+COMPREHEND LANGUAGE
+SPELL 2
+DIVINATION
+Traditions arcane, divine, occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Duration 1 hour
+The target can understand the meaning of a single language
+it is hearing or reading when you cast the spell. This doesn’t
+let it understand codes, language couched in metaphor, and the
+like (subject to GM discretion). If the target can hear multiple
+languages and knows that, it can choose which language to
+understand; otherwise, choose one of the languages randomly.
+Heightened (3rd) The target can also speak the language.
+Heightened (4th) You can target up to 10 creatures, and
+targets can also speak the language.
+CONE OF COLD
+SPELL 5
+COLD
+EVOCATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Area 60-foot cone
+Saving Throw basic Reflex
+Icy cold rushes forth from your hands. You deal 12d6 cold
+damage to creatures in the area.
+Heightened (+1) The damage increases by 2d6.
+CONFUSION
+SPELL 4
+EMOTION
+ENCHANTMENT
+MENTAL
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration 1 minute
+You befuddle your target with strange impulses, causing it to
+act randomly. The effects are determined by the target’s Will
+save. You can Dismiss the spell.
+Critical Success The target is unaffected.
+325
+7
+SPELLS
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

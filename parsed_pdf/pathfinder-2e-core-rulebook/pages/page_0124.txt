@@ -1,0 +1,135 @@
+into your foe. Make a melee Strike and add the spell’s damage
+to the Strike’s damage. This is negative damage if you expended
+a harm spell or positive damage if you expended a heal spell.
+The spell is expended with no effect if your Strike fails or
+hits a creature that isn’t damaged by that energy type (such as
+if you hit a non-undead creature with a heal spell).
+COMMAND UNDEAD [one-action]
+FEAT 4
+CLERIC
+CONCENTRATE
+METAMAGIC
+Prerequisites harmful font, evil alignment
+You grasp the animating force within an undead creature and
+bend it to your will. If the next action you use is to cast harm
+targeting one undead creature, you transform the effects of
+that harm spell. Instead of harm’s normal effects, the target
+becomes controlled by you if its level is equal to or lower than
+your level – 3. It can attempt a Will saving throw to resist being
+controlled by you. If the target is already under someone else’s
+command, the controlling creature also rolls a saving throw,
+and the undead uses the better result.
+Critical Success The target is unaffected and is temporarily
+immune for 24 hours.
+Success The target is unaffected.
+Failure The undead creature becomes a minion under your
+control. The spell gains a duration of 1 minute, but it is
+dismissed if you or an ally attacks the minion undead.
+Critical Failure As failure, but the duration is 1 hour.
+DIRECTED CHANNEL
+FEAT 4
+CLERIC
+You can shape the energy you channel in a single direction,
+reaching farther and in a more directed fashion. When you
+cast a version of harm or heal that has an area, you can make
+its area a 60-foot cone instead of a 30-foot emanation.
+IMPROVED COMMUNAL HEALING
+FEAT 4
+CLERIC
+Prerequisites Communal Healing
+You can direct excess channeled energy outward to benefit
+an ally. You can grant the Hit Points you would regain from
+Communal Healing to any one creature within the range of
+your heal spell instead of yourself. You can also use Communal
+Healing when you target only yourself with a heal spell,
+though if you do, you must grant the additional healing to
+someone other than yourself.
+NECROTIC INFUSION [one-action]
+FEAT 4
+CLERIC
+CONCENTRATE
+METAMAGIC
+Prerequisites harmful font, evil alignment
+You pour negative energy into your undead subject to
+empower its attacks. If the next action you use is to cast harm
+to restore Hit Points to a single undead creature, the target
+then deals an additional 1d6 negative damage with its melee
+weapons and unarmed attacks until the end of its next turn.
+If the harm spell is at least 5th level, this damage increases
+to 2d6, and if the harm spell is at least 8th level, the damage
+increases to 3d6.
+6TH LEVEL
+CAST DOWN [one-action]
+FEAT 6
+CLERIC
+CONCENTRATE
+METAMAGIC
+Prerequisites harmful font or healing font
+The sheer force of your faith can bring a foe crashing down. If
+the next action you use is to cast harm or heal to damage one
+creature, the target is knocked prone if it takes any damage from
+the spell. If the target critically fails its save against the spell, it
+also takes a –10-foot status penalty to its Speed for 1 minute.
+DIVINE WEAPON [free-action]
+FEAT 6
+CLERIC
+Frequency once per turn
+Trigger You finish Casting a Spell using one of your divine
+spell slots on your turn.
+You siphon residual spell energy into a weapon you’re
+wielding. Until the end of your turn, the weapon deals an
+additional 1d4 force damage. You can instead deal an additional
+1d6 damage of an alignment type that matches one of your
+deity’s alignment components. As usual for aligned damage,
+this can damage only creatures of the opposite alignment.
+SELECTIVE ENERGY
+FEAT 6
+CLERIC
+As you call down divine power, you can prevent some enemies
+from benefiting or some allies from being hurt. When you cast
+a version of harm or heal that has an area, you can designate
+a number of creatures equal to your Charisma modifier
+(minimum 1) that are not targeted by the spell.
+STEADY SPELLCASTING
+FEAT 6
+CLERIC
+Confident in your technique, you don’t lose spells easily. If a
+reaction would disrupt your spellcasting action, attempt a DC
+15 flat check. If you succeed, your action isn’t disrupted.
+8TH LEVEL
+ADVANCED DOMAIN
+FEAT 8
+CLERIC
+Prerequisites Domain Initiate
+Your studies or prayers have unlocked deeper secrets of your
+deity’s domain. You gain an advanced domain spell from one
+CONTROLLING UNDEAD
+Controlled undead gain the minion trait. Minions can use 2
+actions per turn and can’t use reactions. A minion acts on your
+turn in combat when you spend an action to issue it verbal
+commands (this action has the auditory and concentrate
+traits). If given no commands, undead minions use no actions
+except to defend themselves or to escape obvious harm.
+If left unattended for at least 1 minute, mindless undead
+minions don’t act, and intelligent ones act as they please. You
+can’t have more than four undead minions at a time.
+123
+3
+CLASSES
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

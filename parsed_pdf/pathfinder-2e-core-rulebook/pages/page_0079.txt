@@ -1,0 +1,78 @@
+SAMPLE ALCHEMIST
+ENDURING ALCHEMY
+FEAT 4
+ALCHEMIST
+You’ve learned how to make your personal energy last just
+a little bit longer when quickly brewing ad hoc concoctions.
+When using Quick Alchemy to create an alchemical tool or
+elixir, that tool or elixir remains potent until the end of your
+next turn, instead of losing its potency at the start of your
+next turn.
+6TH LEVEL
+COMBINE ELIXIRS [free-action]
+FEAT 6
+ADDITIVE 2
+ALCHEMIST
+Frequency once per round
+Trigger You use Quick Alchemy to craft an alchemical item
+that has the elixir trait and is at least 2 levels lower than
+your advanced alchemy level.
+You’ve discovered how to mix two elixirs into a single hybrid
+concoction. You can spend 2 additional batches of infused
+reagents to add a second elixir to the one you’re crafting.
+The second elixir must also be at least 2 levels lower than
+your advanced alchemy level, and the combination elixir is
+an alchemical item two levels higher than the higher of the
+two elixirs’ levels. When this combination elixir is consumed,
+both the constituent elixirs take effect. For example, you can
+combine two elixirs of life to create a combined elixir that
+heals twice the normal amount, or you can combine a lesser
+darkvision elixir with a lesser eagle-eye elixir to both gain
+darkvision and find secret doors.
+DEBILITATING BOMB [free-action]
+FEAT 6
+ADDITIVE 2
+ALCHEMIST
+Frequency once per round
+Trigger You use Quick Alchemy to craft an alchemical
+bomb that is at least 2 levels lower than your advanced
+alchemy level.
+Your bombs impose additional effects on your enemies.
+You mix a substance into the bomb that causes one of the
+following: dazzled, deafened, flat-footed, or a –5-foot status
+penalty to Speeds. If the attack with that bomb hits, the
+target must succeed at a Fortitude saving throw or suffer
+that effect until the start of your next turn. Use your class
+DC for this saving throw (even if someone else throws
+the bomb).
+DIRECTIONAL BOMBS
+FEAT 6
+ALCHEMIST
+You can lob bombs with great force and a precise trajectory to
+angle the splash in a cone spraying in a single direction. When
+throwing an alchemical bomb with the splash trait, instead of
+splashing all squares adjacent to the target, you can treat the
+target’s space as the first affected square of a 15-foot cone
+directed away from you, potentially allowing you to avoid
+allies and splash deeper into enemy lines. If the target takes
+up more than a single square, the target’s square closest to
+you is the first affected square of the cone.
+BOMBER
+You can mix an explosive out of just about anything!
+ABILITY SCORES
+Prioritize Intelligence and Dexterity. Constitution helps
+you survive explosions gone wrong, and Wisdom
+prevents you from bombing the wrong target.
+SKILLS
+Acrobatics, Arcana, Crafting, Deception, Intimidation,
+Society, Stealth, Thievery
+RESEARCH FIELD
+Bomber
+STARTING FEAT
+Quick Bomber
+HIGHER-LEVEL FEATS
+Smoke Bomb (2nd), Calculated Splash (4th), Directional
+Bombs (6th), Sticky Bomb (8th), Expanded Splash (10th),
+Mega Bomb (20th)
+Core Rulebook
+78

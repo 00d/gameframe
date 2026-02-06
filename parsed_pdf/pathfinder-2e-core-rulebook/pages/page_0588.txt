@@ -1,0 +1,140 @@
+The shield has Hardness 6, HP 24, and BT 12.
+Type high-grade mithral shield; Level 16; Price 8,800 gp; Craft
+Bulk 1; Requirements at least 4,400 gp of mithral
+The shield has Hardness 8, HP 32, and BT 16.
+ORICHALCUM SHIELD
+ITEM 17+
+RARE
+Usage varies by shield
+Orichalcum shields’ time-bending properties are particularly
+useful for keeping them intact. The first time each day an
+orichalcum shield would be destroyed, it is instead left with 1
+Hit Point and the broken condition.
+Type high-grade orichalcum buckler; Level 17; Price 12,000 gp;
+Bulk L; Craft Requirements orichalcum worth at least 6,000 gp
+The shield has Hardness 14, HP 56, and BT 28.
+Type high-grade orichalcum shield; Level 17; Price 13,200
+gp; Bulk 1; Craft Requirements orichalcum worth at least
+6,600 gp
+The shield has Hardness 16, HP 64, and BT 32.
+SILVER SHIELD
+ITEM 2+
+Usage varies by shield
+Silver shields don’t typically have an additional effect, though
+when used for a shield bash, they are silver weapons.
+Type low-grade silver buckler; Level 2; Price 30 gp; Bulk L;
+Craft Requirements silver worth at least 15 sp
+The shield has Hardness 1, HP 4, and BT 2.
+Type low-grade silver shield; Level 2; Price 34 gp; Bulk 1; Craft
+Requirements silver worth at least 17 sp
+The shield has Hardness 3, HP 12, and BT 6.
+Type standard-grade silver buckler; Level 7; Price 300 gp;
+Bulk L; Craft Requirements silver worth at least 375 sp
+The shield has Hardness 3, HP 12, BT 6.
+Type standard-grade silver shield; Level 7; Price 340 gp; Bulk
+1; Craft Requirements silver worth at least 425 sp
+The shield has Hardness 5, HP 20, and BT 10.
+Type high-grade silver buckler; Level 15; Price 5,000 gp; Bulk
+L; Craft Requirements silver worth at least 2,500 gp
+The shield has Hardness 6, HP 24, and BT 12.
+Type high-grade silver shield; Level 15; Price 5,500 gp; Bulk 1;
+Craft Requirements silver worth at least 2,750 gp
+The shield has Hardness 8 HP 32, and BT 16.
+Specific Shields
+These shields have unique abilities that differentiate them
+from their typical counterparts.
+ARROW-CATCHING SHIELD
+ITEM 11
+ABJURATION
+ MAGICAL
+Price 1,350 gp
+Usage held in 1 hand; Bulk 1
+This wooden shield (Hardness 6, HP 24, BT 12) is carved with
+images of overlapping fletched arrows.
+Activate [reaction] Interact; Trigger A ranged weapon Strike targets
+a creature within 15 feet of you when you have this shield
+raised, and the attacker has not yet rolled their attack; Effect
+The triggering Strike targets you instead of its normal target.
+If it hits, you gain the effects of the Shield Block reaction.
+DRAGONSLAYER’S SHIELD
+ITEM 9
+UNCOMMON
+ ABJURATION
+ MAGICAL
+Price 670 gp
+Usage held in 1 hand; Bulk 1
+A dragonslayer’s shield is a steel shield covered with
+dragonhide from a certain type of dragon, which distinguishes
+each shield from the others. While raised, this steel shield
+(Hardness 8, HP 32, BT 16) grants its circumstance bonus to
+Reflex saves against area effects (as well as to AC, as normal).
+While you hold the shield, it also grants you a +2 circumstance
+bonus to Will saves against a dragon’s frightful presence
+ability. The shield has resistance 10 against the damage type
+corresponding to the type of dragon whose hide was used in
+its creation (see dragonhide on page 579); this applies after
+reducing the damage for Hardness, so when you use Shield
+Block, the dragonslayer’s shield takes 18 less damage from
+attacks of that damage type. You can use Shield Block against
+attacks that deal damage of that type.
+Craft Requirements The initial raw materials must include at
+least 30 gp of dragonhide.
+FLOATING SHIELD
+ITEM 11+
+UNCOMMON
+ MAGICAL
+Usage strapped to 1 hand; Bulk L
+A floating shield is usually carved with wing motifs. This
+buckler (Hardness 6, HP 24, BT 12) can protect you on its own.
+Activate [one-action] Interact; Frequency once per day; Effect The
+shield magically releases itself and floats off your arm into
+the air next to you, granting you its bonus automatically, as
+if you had Raised the Shield. Because you’re not wielding the
+shield, you can’t use reactions such as Shield Block with the
+shield, but you gain its benefits even when using both of your
+hands. After 1 minute, the shield drops to the ground, ending
+its floating effect. While the shield is adjacent to you, you can
+Interact to grasp it, ending its floating effect early.
+Type floating shield; Level 11; Price 1,250 gp
+Type greater floating shield; Level 16; Price 9,000 gp
+You can activate the shield any number of times per day.
+FORCE SHIELD
+ITEM 9
+UNCOMMON
+ EVOCATION
+ FORCE
+ MAGICAL
+Price 650 gp
+Usage held in 1 hand; Bulk L
+The edges of this elaborately engraved steel shield (Hardness 8,
+HP 32, BT 16) bear tiny glass tiles set in mosaic patterns.
+Activate [one-action] command; Frequency once per day; Effect The
+shield surrounds you with a bubble of force that protects you
+from harm, granting you resistance 5 to physical damage for 1
+minute. The bubble disappears if you cease holding the shield.
+FORGE WARDEN
+ITEM 10
+UNCOMMON
+ ABJURATION
+ MAGICAL
+Price 975 gp
+587
+11
+Crafting & Treasure
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

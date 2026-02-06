@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# PLANETAR
+# PLANETAR
 ================================================================================
 
 
@@ -19,7 +19,7 @@ situation can be resolved with swift
 on-the-spot justice, a planetar takes
 that route in hopes of staving oﬀ an
 escalation of violence.
-PLANETAR
+PLANETAR
 CREATURE 16
 UNCOMMON
 NG
@@ -118,6 +118,32 @@ against creatures it has grabbed.
 PAGE 38
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868535
+4425047
+A-C
+A-C
+37
+37
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ADAPTIVE HUNTERS
 Though it doesn’t happen often due
 to their ability to shift planes, some
@@ -144,93 +170,97 @@ intellects, believing them to be little more than oversized vermin. Bebiliths ta
 advantage of this, ambushing foes with unexpected tactics. While they lash out
 at any creatures they encounter, they take great pleasure in chewing on demonic
 ﬂesh. Qlippoth are the only creatures bebiliths never consume.
-
-================================================================================
-# PISCODAEMON
-================================================================================
-
-
-Bestiary 2
-ABADDON
-Daemons hail from Abaddon, a plane
-of pure evil for only the most corrupt
-souls. If Hell is a realm of torture
-and systematic depravity, Abaddon
-is its twisted cousin—a place where
-one can ﬁnd only misery and
-despair in ample quantities, with
-neither the strictures of Hell nor
-the chaotic freedom of the Abyss.
-For evildoers who seek simply to
-inﬂict their wickedness on others,
-Abaddon is a rich hunting ground
-where one can revel in turpitude,
-though visitors be forewarned: the
-competition is ﬁerce.
-Daemon
-Daemons form from the most despicable souls and personify forms of death.
-PISCODAEMON (VENOM DAEMON)
-Scions of death by poisoning, piscodaemons are cruel even by daemonic standards,
-delighting in slow and painful suffering. To a piscodaemon, death is but the icing on
-a putrescent cake—its true pleasure comes from watching, hearing, smelling, and
-even tasting raw anguish. While poisons and venoms are piscodaemons’ preferred
-tools, their cruel claws are more than capable of tearing enemies asunder if necessary.
-Piscodaemons dwell in fetid swamps and noxious waterways, including the River
-Styx, the Bile Sluice, and the Drowning Court of Charon, Horseman of Death. They
-are often accompanied by cadres of hydrodaemons—representations of death by
-drowning. While they are cunning commanders, piscodaemons are apt to forget
-their station in the heat of battle and slice their way to the center of the fray.
-PISCODAEMON
+BEBILITH
 CREATURE 10
-NE
-MEDIUM
-AMPHIBIOUS
-DAEMON
+CE
+HUGE
+BEAST
 FIEND
-Perception +19; darkvision, see invisibility
-Languages Common, Daemonic; telepathy 100 feet
-Skills Athletics +22, Intimidation +19, Medicine +17, Stealth +22, Survival +19
-Str +6, Dex +4, Con +6, Int +2, Wis +3, Cha +3
-AC 28; Fort +22, Ref +16, Will +19; +1 status to all saves vs. magic
-HP 200; Immunities death eﬀects, poison; Weaknesses good 10
+Perception +21; darkvision, scent demons 60 feet, scent (imprecise) 30 feet
+Languages Abyssal (can’t speak any language); telepathy 100 feet
+Skills Acrobatics +19, Athletics +23, Intimidation +21, Stealth +19
+Str +7, Dex +3, Con +6, Int +3, Wis +5, Cha +5
+Scent Demons A bebilith can smell demons as a precise sense.
+AC 30; Fort +22, Ref +19, Will +19
+HP 200; Weaknesses good 10
 Attack of Opportunity Ǻȓ
-Enhance Venom Ǻȓ (divine, misfortune, necromancy, poison)
-Trigger A creature within 30 feet attempts a saving
-throw against piscovenom; Eﬀect The creature takes
-an additional 2d8 poison damage even if it succeeds
-at its save.
-Speed 25 feet, swim 40 feet
-Melee Ȱɵ claw +23 (evil, magical), Damage 2d10+12
-slashing plus 1d6 evil and Grab
-Melee Ȱɵ tentacle +23 (agile, evil, magical), Damage
-2d6+12 bludgeoning plus 1d6 evil and piscovenom
-Divine Innate Spells DC 29; 5th dimension door; 4th
-dimension door (at will), stinking cloud (×3); 1st detect
-alignment (at will; good only), detect poison (at will);
-Constant (2nd) see invisibility
-Constrict Ȱɵ 2d10+6 bludgeoning, DC 30
-Gory Rend ʚʖ The piscodaemon makes two claw Strikes
-against the same creature. If both hit, the creature takes
-2d10 persistent bleed damage and is exposed to piscovenom.
-Piscovenom (poison) Saving Throw DC 30 Fortitude; Maximum
-Duration 6 rounds; Stage 1 1d8 poison and enfeebled 1
-(1 round); Stage 2 2d8 poison and enfeebled 1 (1 round);
-Stage 3 4d8 poison and enfeebled 2 (1 round)
-MELADAEMON (FAMINE DAEMON)
-Meladaemons personify death by starvation and thirst,
-and revel in spreading the same despair that brought
-about their mortal demise. When they aren’t blighting
-ﬁelds, massacring livestock, or tainting water supplies,
-they experiment on prisoners to study how long creatures
-can go without sustenance and the deleterious effects that
-result from such deprivation. Fiercely loyal to Trelmarixian,
-Horseman of Famine, they serve no other beings. They work alongside other
-daemons if Trelmarixian wills it, but are notoriously traitorous.
+Speed 35 feet, climb 15 feet
+Melee Ȱɵ jaws +23 (magical, reach 10 feet), Damage 2d10+13 piercing plus
+Abyssal rot
+Melee Ȱɵ claw +23 (agile, magical, reach 15 feet), Damage 2d8+13
+slashing
+Ranged Ȱɵ web +23 (range increment 60 feet), Eﬀect dimensional
+tether
+Divine Innate Spells DC 29; 7th plane shift (self only)
+Abyssal Rot (disease, necromancy) The drained
+condition from Abyssal rot is cumulative, to
+a maximum of drained 4; Saving Throw DC
+29 Fortitude; Maximum Duration 6 rounds;
+Stage 1 3d6 negative damage (1 round);
+Stage 2 3d6 negative damage and
+drained 1 (1 round); Stage 3 3d6
+negative damage and drained 2
+(1 round)
+Dimensional Tether A creature
+hit by the bebilith’s web Strike
+is restrained and tethered to
+the bebilith, preventing it from
+moving further away from the
+bebilith. The restrained creature
+is also under the eﬀects of a
+dimensional anchor spell (DC 29)
+with a duration that lasts as long as
+the creature remains tethered. The
+bebilith can have only one creature
+tethered at a time. The DC to Escape
+or Force Open the tether is 29. The
+tether can be severed with a Strike
+(AC 20, Hardness 2, HP 20); this ends
+the dimensional anchor eﬀect but does
+not free the restrained creature.
+Penetrating Strike Against demons, a bebilith’s
+Strikes count as cold iron and good.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868535
+4425047
 
-================================================================================
 PAGE 60
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868557
+4425069
+D
+59
+59
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 FORMED IN HIS IMAGE
 Meladaemons have always been
 gaunt and bestial, but they didn’t
@@ -244,95 +274,111 @@ own wicked form. He went on to
 imbue meladaemons with other
 jackal-like aspects as it suited him,
 further warping them and cementing
-their fealty.
-
-================================================================================
-# PURRODAEMON
-================================================================================
-
-
-Bestiary 2
-DAEMONIC DEACONS
-Each of the four Horsemen is
-served by a speciﬁc category
-of servitor daemons known as
-deacons. Leukodaemons serve
-as deacons to the Horseman of
-Pestilence. Meladaemons serve as
-deacons to the Horseman of Famine,
-while thanadaemons serve as
-deacons to the Horseman of Death.
-Purrodaemons are currently the most
-powerful of the deacons, and serve
-the Horseman of War—yet over time,
-which category of deacon is the most
-powerful can wax and wane.
-PURRODAEMON
-CREATURE 18
+their fealty.
+MELADAEMON
+CREATURE 11
 NE
 LARGE
 DAEMON
 FIEND
-Perception +33; darkvision, true seeing
+Perception +21; darkvision, lifesense (imprecise) 30 feet
 Languages Common, Daemonic; telepathy 100 feet
-Skills Athletics +37, Intimidation +35, Religion +30, Stealth +34, Survival +33, Warfare Lore +32
-Str +9, Dex +6, Con +7, Int +4, Wis +7, Cha +7
-Items +2 greater striking glaive, soul gem (2), steeped weapon (7–10)
-AC 43; Fort +33, Ref +30, Will +29; +1 status to all saves vs. magic
-HP 335; Immunities bleed, death eﬀects; Weaknesses good 15; Resistances piercing 15
+Skills Acrobatics +20, Deception +23, Intimidation +23, Religion +20, Stealth +23, Survival +19
+Str +7, Dex +5, Con +6, Int +3, Wis +4, Cha +6
+AC 31; Fort +23, Ref +20, Will +19; +1 status to all saves vs. magic
+HP 225; Immunities death eﬀects; Weaknesses good 10
+Consumptive Aura (aura, divine) 20 feet. A meladaemon emanates an aura of intense
+hunger. Each round a creature begins its turn in the aura, it must attempt a DC 27
+Fortitude save. On a failure, the creature takes 1d6 negative damage (2d6 on a critical
+failure) and becomes fatigued. This fatigue ends as soon as the creature eats any food.
+Withering Opportunity Ǻȓ Trigger The meladaemon is attacked by an adjacent creature
+and the attack misses; Eﬀect The meladaemon swipes at the triggering creature, which
+must immediately attempt a save against the meladaemon’s withering touch.
 Speed 25 feet, ﬂy 50 feet
-Melee Ȱɵ glaive +37 (deadly d8, evil, forceful, magical, reach 15 feet), Damage 3d8+17
-slashing plus 2d6 evil and 4d6 persistent bleed
-Ranged Ȱɵ hurled weapon +35 (deadly 1d10, evil, magical, propulsive, range 120 feet),
-Damage 2d10+12 piercing plus 1d6 evil and 4d6 persistent bleed
-Divine Innate Spells DC 37; 9th bind soul, blade barrier, chain lightning; 7th ﬂame strike,
-teleport; 5th dimension door; 4th dimension door (at will); 1st detect alignment (good
-only; at will); Constant (6th) true seeing
-Hurl Weapon Ȱɵ (divine, evocation) The purrodaemon causes a weapon that has steeped
-in their ﬂesh (see Steep Weapon) to telekinetically launch from their ﬂesh. The
-purrodaemon makes a hurled weapon Strike without using their hands.
-Recall Weapon Ȱɵ (evocation) Requirements A steeped
-weapon that’s no longer sheathed in the
-purrodaemon’s body is within 120 feet of the
-daemon; Eﬀect The steeped weapon swiftly
-ﬂies through the air to resheath itself in the
-purrodaemon’s body. If a creature is along
-this ﬂight path, the purrodaemon can make a
-hurled weapon Strike against the target; if it
-hits, the weapon drops to the ground in a square
-adjacent to the creature.
-Steep Weapon Ȱɵ (manipulate) The
-purrodaemon sheathes a weapon in
-their own ﬂesh. This deals no damage
-to the purrodaemon, which can have up to 10
-weapons sheathed in their body at a time. A steeped
-weapon must be one that deals piercing or slashing
-damage.
-If a purrodaemon Interacts to crush a soul
-gem, one weapon of their choice sheathed in
-their ﬂesh becomes enchanted with the daemon’s
-ﬁendish power and becomes a +2 greater
-striking weapon that can be used in place
-of their glaive or hurled at targets
-(with a +2 item bonus to the hurled
-weapon’s attack modiﬁer and an extra
-d10 of damage). This magical quality fades 24 hours after
-it ceases being sheathed in the daemon’s living body. A
-steeped weapon can be Disarmed.
-Twist the Blade Ǻȓ Requirements The purrodaemon
-has fewer than 10 weapons sheathed in their body;
-Trigger The purrodaemon is hit with a weapon that
-deals piercing damage; Eﬀect The purrodaemon
-seizes the triggering weapon. The weapon’s
-wielder must attempt a DC 40 Reﬂex save. On
-a failure, the weapon is disarmed and falls to an
-adjacent square. On a critical failure, the weapon
-is sheathed in the purrodaemon’s body as though the daemon had used Steep Weapon.
+Melee Ȱɵ bite +24 (evil, magical, reach 10 feet), Damage 2d12+13 plus 1d6
+evil and daemonic famine
+Melee Ȱɵ claw +24 (agile, evil, magical, reach 10 feet), Damage
+2d8+13 slashing plus 1d6 evil, Grab, and withering touch
+Divine Innate Spells DC 31; 6th phantom pain; 5th dimension
+door, fear, magic missile (at will); 4th dimension door (at
+will); 1st detect alignment (good only; at will)
+Rituals DC 31; blight
+Daemonic Famine (disease) Saving Throw DC 29
+Fortitude; Stage 1 carrier (1 day); Stage 2 enfeebled 1
+(1 day); Stage 3 enfeebled 2 (1 day); Stage 4 as stage 3;
+Stage 5 enfeebled 3 (1 week); Stage 6 dead
+Withering Touch (divine, evil, necromancy) When the
+meladaemon hits with a claw Strike or a creature
+begins its turn grabbed by the meladaemon, the
+creature must attempt a DC 30 Fortitude save.
+On a failure, the creature takes 1d6 negative
+damage and becomes fatigued. This fatigue
+ends when the creature drinks.
+DERGHODAEMON (RAVAGER DAEMON)
+Derghodaemons
+represent
+death
+through
+unfathomable violence and being eaten alive.
+Whether in life a ravenous murderer hacked them to
+bits for stew, a werewolf tore them limb from limb, or they simply succumbed to the
+elements and became worm meat, derghodaemons seek to inﬂict the same twisted
+and bloody ends upon any they come across. Unlike some daemons, derghodaemons
+derive little pleasure from prolonged deaths—to these ﬁends, the quicker they can
+enact a gory demise, the sooner they can turn their attentions to their next victim
+and repeat the violent cycle.
+Derghodaemons look like walking masses of razor-sharp insect claws connected
+to equally menacing chitinous limbs, but few linger on their appearance for long—
+the gaze of a derghodaemon is enough to cause others in the vicinity to experience
+severe visual warping. The derghodaemon’s appearance becomes more and more
+twisted as those who stare at it experience vicious hallucinations and ravenous
+urges to inﬂict harm on and devour others. Perhaps the most horriﬁc attack
+derghodaemons can unleash upon their victims, though, is their swarming
+infestation—the daemons cough up a crawling, buzzing cloud of
+ravenous insects that cling to those targeted and chew them to death,
+provided the mind-numbing, half-whispered threats made by the rasp
+of the insects’ bodies don’t drive them to violent fury ﬁrst!
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868557
+4425069
 
-================================================================================
 PAGE 64
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868561
+4425073
+D
+63
+63
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 SOUL GEMS AS GEAR
 Daemons often carry soul gems
 either as trophies or for powering
@@ -355,95 +401,86 @@ Whatever the truth, olethrodaemons are real, and their existence is terrifying
 enough to instill paralyzing existential dread. With dozens of unblinking glowing
 eyes above a drooling maw, two sets of four muscled limbs, and countless horns,
 olethrodaemons resemble no other creature known to mortalkind.
+OLETHRODAEMON
+CREATURE 20
+NE
+GARGANTUAN
+DAEMON
+FIEND
+Perception +33; darkvision, tremorsense (imprecise) 120 feet, true seeing
+Languages Common, Daemonic; telepathy 100 feet
+Skills Athletics +40, Intimidation +38, Religion +34
+Str +10, Dex +6, Con +7, Int +2, Wis +6, Cha +8
+Items soul gem (4)
+AC 44; Fort +35, Ref +32, Will +34; +1 status to all saves vs. magic
+HP 450; Immunities death eﬀects; Weaknesses good 20
+Aura of Doom (aura, death, divine) 60 feet. Any creature that begins its turn in the aura is
+doomed 1 for as long as it remains in the aura and for 1 hour thereafter.
+Speed 35 feet, burrow 35 feet, ﬂy 40 feet
+Melee Ȱɵ jaws +38 (evil, magical, reach 10 feet), Damage 4d12+17 piercing plus
+1d6 evil and Grab
+Melee Ȱɵ claw +38 (agile, evil, magical, reach 15 feet), Damage 4d8+17
+slashing plus 1d6 evil and Grab
+Divine Innate Spells DC 42, attack +34; 10th cataclysm,
+massacre; 9th disintegrate (×3), disjunction, wail of the
+banshee; 5th dimension door; 4th dimension door (at will);
+1st detect alignment (good only; at will); Constant (10th)
+true seeing
+Rituals DC 42; control weather (9th)
+Apocalypse Breath ʚʖ or ̂ˬ (divine, negative) The
+daemon expels a shrieking black cloud of smoke
+from its mouth in a 120-foot line or a 60-foot cone.
+(or both a line and a cone in the same direction if it
+spends 3 actions). Living creatures in the area take
+24d6 negative damage (DC 45 basic Reﬂex save).
+The olethrodaemon can’t use Apocalypse Breath
+again for 1d4 rounds.
+Soul Crush ʚʖ (manipulate) Requirement The
+olethrodaemon has a soul gem; Eﬀect The
+olethrodaemon crushes the soul gem in one
+hand and regains the use of Apocalypse
+Breath or any one of its innate spells.
+Swallow Whole Ȱɵ (attack) Huge, 4d10+10
+bludgeoning and drained 2, Rupture 43. An
+olethrodaemon has numerous stomachs
+connected by labyrinthine digestive
+organs. Swallowed creatures cannot
+Escape, but can attempt to cut their way
+out with a 1d6 roll. On a roll of 1–3, the
+creature cuts into yet another stomach.
+On a roll of 4–6, the creature manages to
+cut its way out of the olethrodaemon.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868561
+4425073
 
-================================================================================
-# PACHYCEPHALOSAURUS
-================================================================================
-
-
-DINOSAUR ABILITIES
-While the real world fossil records
-hold a wealth of inspiration for
-the reconstruction of dinosaurs
-in an RPG, you can also look to
-living creatures for ideas. Giving
-a dinosaur a poisonous bite or
-an unusual attack routine like
-Clobbering Charge ensures that
-dinosaurs are as interesting in
-combat as they are in appearance.
-PACHYCEPHALOSAURUS
-CREATURE 3
-N
-LARGE
-ANIMAL
-DINOSAUR
-Perception +10; low-light vision, scent (imprecise) 30 feet
-Skills Athletics +11, Intimidation +7
-Str +4, Dex +3, Con +4, Int –4, Wis +3, Cha +0
-AC 19; Fort +12, Ref +11, Will +7
-HP 65
-Speed 35 feet
-Melee Ȱɵ skull +11 (forceful, reach 10 feet), Damage 1d10+6 bludgeoning
-Clobbering Charge ʚʖ The pachycephalosaurus Strides up to its Speed. If it ends its
-movement within melee reach of a target, it can make a skull Strike against that
-target. If the pachycephalosaurus critically hits with this Strike, the creature hit is
-stunned 1.
-Sudden Shove Ǻȓ (attack) Trigger The pachycephalosaurus damages a Medium or
-smaller foe with its skull Strike; Eﬀect The pachycephalosaurus digs in and ﬂings
-its head up, shoving its foe away. It attempts an Athletics check against the target’s
-Fortitude DC.
-Critical Success The pachycephalosaurus pushes the opponent up to 10 feet away
-from itself and knocks the target prone.
-Success The pachycephalosaurus pushes the opponent back 5 feet.
-Failure The pachycephalosaurus fails to push the opponent.
-Critical Failure As failure, but the failed attempt leaves the pachycephalosaurus
-ﬂat‑footed for 1 round.
-HADROSAURID
-Hadrosaurids are a broad grouping
-of herbivorous dinosaurs that
-share
-characteristic
-ﬂat
-snouts ﬁlled with rows
-of grinding teeth well
-suited
-for
-feeding
-on vegetation. Also
-known as “duck-billed
-dinosaurs” due to the
-unusual shape of their jaws,
-hadrosaurids
-are
-lumbering
-creatures that can rival an
-elephant for size, although they
-tend to be much less aggressive and
-are prone to ﬂight when confronted
-with danger rather than stubbornly standing
-their ground. Many species of hadrosaurids have
-uniquely shaped crests on their heads that give each
-species its own unusual proﬁle, making them easily
-recognizable even to an amateur dinosaur watcher.
-Giants and other oversized creatures have been known
-to domesticate hadrosaurids to serve as livestock. Despite
-their ability to sprint quickly, they don’t make particularly
-viable mounts due to their timid natures, but in a large group,
-a panicked gathering of hadrosaurids can wreak
-great damage with their trampling.
-A hadrosaurid can walk for short
-distances on its hind legs but prefers
-to graze and travel on all fours. The
-typical hadrosaurid is 20 to 30
-feet long and can weigh up to
-10,000 pounds.
-
-================================================================================
 PAGE 83
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868580
+4425092
 Bestiary 2
+82
+82
 HADROSAURID CRESTS
 The diﬀerent species of hadrosaurids
 all use the same statistics. While
@@ -455,93 +492,110 @@ of vocalizing sonorous and haunting
 calls when they seek the attention
 of a mate or warning their herd of a
 predator’s approach.
+HADROSAURID
+CREATURE 4
+N
+HUGE
+ANIMAL
+DINOSAUR
+Perception +13, low-light vision, scent (imprecise) 30 feet
+Skills Athletics +12, Stealth +10
+Str +6, Dex +2, Con +3, Int –4, Wis +1, Cha +0
+AC 21; Fort +12, Ref +10, Will +11
+HP 60
+Speed 30 feet
+Melee tail +14 (reach 15 feet), Damage 2d6+8 bludgeoning
+Melee foot +12 (reach 15 feet), Damage 2d4+8 bludgeoning
+Sprint ʚʖ Frequency once per minute; Eﬀect The hadrosaurid Strides twice. It has a
++20-foot circumstance bonus to its Speed during these Strides.
+Trample ̂ˬ Large or smaller, foot, DC 21
+IGUANODON
+Iguanodons are large, herbivorous dinosaurs that inhabit swamps and forests
+where they browse on the abundant vegetation. The iguanodon is capable of
+moving on two feet or on four, quickly switching from one stance to the other
+depending on whether it needs to move through dense foliage or to reach
+delectable morsels hanging up in the canopy.
+Although iguanodons are herbivores, they are notoriously quick to anger.
+Their thumb spikes make their claws particularly devastating weapons. A
+well‑placed blow from one of these claws can turn a hungry predator into a
+cowering beast with one swift strike. Iguanodons are 30 feet long and weigh
+6,000 pounds.
+IGUANODON
+CREATURE 6
+N
+HUGE
+ANIMAL
+DINOSAUR
+Perception +14; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +15
+Str +7, Dex +4, Con +4, Int –4,
+Wis +4, Cha +0
+AC 24; Fort +16, Ref +12,
+Will +14
+HP 95
+Speed 25 feet
+Melee Ȱɵ thumb spike +17
+(deadly d10, reach 10 feet),
+Damage 2d8+9 piercing
+Melee Ȱɵ tail +15 (reach 15 feet), Damage 2d10+9
+bludgeoning
+Gouging Lunge ʚʖ The iguanodon makes a thumb spike
+Strike at an adjacent foe and then Strides up to 15 feet,
+dragging its thumb spike across the foe to gouge out a brutal
+wound. If this Strike hits, it deals an extra 1d8 points of slashing
+damage and the following Stride does not trigger reactions from the
+creature struck. This thumb spike Strike counts as two attacks when
+calculating the iguanodon’s multiple attack penalty.
+SPINOSAURUS
+The spinosaurus is more than just one of the largest carnivorous
+dinosaurs—it’s also one of the most unusual in appearance,
+with a large, sail-like ﬁn running along its spine. Often
+quite colorful, this sail allows the spinosaurus to
+attract mates, aids in swimming, and makes it
+appear to be even larger than it actually is.
+A swimming spinosaurus can also use the
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868580
+4425092
 
-================================================================================
-# PELUDA
-================================================================================
-
-
-Bestiary 2
-PELUDA PATRONS
-Occasionally a particularly cunning
-band of humanoids—typically
-lizardfolk or orcs—ﬁnds a way to
-assuage a local peluda’s temper
-and then elevate the dragon to the
-status of a local liege, patron, or even
-object of worship. Although peludas
-rarely have any actual aﬀection
-for such servants, they revel in
-the submission of these weaker
-creatures and the gifts of gold and
-food they bring.
-Peluda
-Peludas are wild and savage dragons that favor reedy marshlands, sparsely
-forested bogs, and river valleys for lairs. A single peluda typically claims a stretch
-of waterways a few miles in length, then systematically drives off any potential
-rivals so that the peluda can despoil the land as they please, leaving clawed
-footprints on muddy riverbanks, toppling trees, and impaling half-eaten corpses
-on their quills as trophies left to rot. They venture beyond their domains to hunt,
-roasting prey with their breath or pulverizing them with their tails, burning and
-killing for cruel sport before slithering, sated, back to their mucky lairs.
-Peludas despise weakness and loathe creatures smaller than themselves,
-especially humanoids, whom they see as fragile and soft, good only for eating or
-breaking. In contrast, peludas have a massive inferiority complex regarding more
-impressive creatures—especially larger and stronger dragons. Peludas will try
-anything to become stronger, including ingesting shiny coins, gems, and jewelry,
-which old folk tales claim will strengthen their quills and ﬁre breath.
-PELUDA
-CREATURE 10
-LE
-LARGE
-DRAGON
-FIRE
-Perception +21; darkvision
-Languages Draconic
-Skills Athletics +23, Intimidation +19
-Str +7, Dex +3, Con +5, Int –2, Wis +5, Cha +3
-AC 30; Fort +21, Ref +17, Will +19; +1 status to all saves vs. magic
-HP 170; Immunities ﬁre, paralyzed, sleep
-Vulnerable Tail If the peluda takes 30 or more slashing damage from a critical
-hit, the attacker severs the peluda’s tail. The peluda takes 2d6 persistent bleed
-damage and can’t make tail attacks until their tail grows back (in about 1 week).
-Quill Thrust Ǻȓ Trigger A creature within 10 feet attempts a melee Strike
-against the peluda; Eﬀect The peluda shifts their position and
-makes a quill Strike against the attacking creature. This Strike
-doesn’t count toward the peluda’s multiple attack penalty, and
-the peluda’s multiple attack penalty doesn’t apply to this Strike.
-Speed 30 feet, swim 30 feet
-Melee Ȱɵ jaws +23 (reach 10 feet), Damage 2d12+13 piercing
-Melee Ȱɵ quill +23 (agile, reach 10 feet), Damage 2d6 piercing plus
-peluda venom
-Melee Ȱɵ tail +23 (reach 15 feet, versatile piercing), Damage
-2d6+13 bludgeoning plus Improved Knockdown
-Breath Weapon ʚʖ (evocation, ﬁre, primal) The peluda breathes a torrent of
-ﬂames that deals 7d10 ﬁre damage in a 60-foot line (DC 29 basic Reﬂex
-save). They can’t use their Breath Weapon again for 1d4 rounds.
-Peluda Venom (poison) Saving Throw DC 29 Fortitude; Maximum
-Duration 6 rounds; Stage 1 2d6 poison and ﬂat-footed (1 round);
-Stage 2 2d6 poison, enfeebled 1, and ﬂat-footed (1 round); Stage
-3 2d6 poison, enfeebled 2, and ﬂat-footed (1 round)
-Quill Barrage ʚʖ The peluda bristles their quills and shakes,
-sending dozens of spear-like barbs in every direction. All
-creatures within 30 feet
-take 11d6 piercing damage
-(DC 29 basic Reﬂex save) and
-are exposed to
-peluda venom
-if
-they
-take
-any damage. The
-peluda can’t use
-Quill Barrage again
-for 1 minute.
-
-================================================================================
 PAGE 198
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868695
+4425207
+O-R
+O-R
+197
+197
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 PERYTON FLOCKS
 On rare occasions, a peryton ﬂock
 forms at the lead of an alpha female. It
@@ -550,43 +604,8 @@ that erodes her perceived power. Then
 the rest of the ﬂock tears her apart.
 Peryton
 The peryton is an amalgam of horror, merging the features of a stag, wolf, and
-hawk. They love using shadows to stalk their victims before ripping out their stillbeating hearts and relishing the dying pulse as they swallow them whole, so the
-doomed victims spends their last moments watching as their ﬂesh is consumed.
-Despite perytons’ animalistic appearance and brutal behavior, they are viciously
-cunning and as intelligent as humans. Their preferred tactic is to ﬁnd a lone
-traveler and stalk it from on high. Most perytons are loners who loathe all other
-creatures. These feelings extend to other perytons as well, and adult
-males attack each other on sight as surely as they attack anything else.
-Once per year, perytons mate. The males offer up hearts they have
-collected from humanoids to attract females. Those that manage to
-secure a mate rarely survive long though, as their mating
-ritual is short and violent. Female perytons generally
-abandon their eggs after laying them, so newly hatched
-perytons must fend for themselves from the moment
-they emerge.
-A lone peryton typically builds a nest in a rocky
-overhang or an exceptionally tall and strong tree
-where they can observe nearby lands. Although they
-aren’t particularly interested in wealth, perytons do
-like to collect small objects from their victims. During
-those times between hunts, they sometimes study these
-trophies in order to relive the memories of victims’ last
-moments and the taste of victims’ hearts.
-
-================================================================================
-# PERYTON
-================================================================================
-
-
-PERYTON FLOCKS
-On rare occasions, a peryton ﬂock
-forms at the lead of an alpha female. It
-lasts until the alpha makes a mistake
-that erodes her perceived power. Then
-the rest of the ﬂock tears her apart.
-Peryton
-The peryton is an amalgam of horror, merging the features of a stag, wolf, and
-hawk. They love using shadows to stalk their victims before ripping out their stillbeating hearts and relishing the dying pulse as they swallow them whole, so the
+hawk. They love using shadows to stalk their victims before ripping out their still-
+beating hearts and relishing the dying pulse as they swallow them whole, so the
 doomed victims spends their last moments watching as their ﬂesh is consumed.
 Despite perytons’ animalistic appearance and brutal behavior, they are viciously
 cunning and as intelligent as humans. Their preferred tactic is to ﬁnd a lone
@@ -628,7 +647,7 @@ The creature must have died in the last minute. As the
 peryton rips the heart free and swallows it whole,
 they regain 2d6 HP, and any non-peryton that
 witnesses this event must succeed at a DC 21 Will
-save or become frightened 1 (or frightened 2 on
+save or become frightened 1 (or frightened 2 on
 a critical failure).
 Mimic Shadow Ȱɵ (necromancy, occult, shadow)
 Requirements The target must be casting a
@@ -642,65 +661,37 @@ the peryton successfully Strikes that creature, the creature must succeed at a D
 it’s already frightened. This is an emotion and fear eﬀect. The shadow remains
 transformed for 1 hour or until the peryton Mimics a Shadow again, whichever
 comes ﬁrst.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868695
+4425207
 
-================================================================================
 PAGE 199
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868696
+4425208
 Bestiary 2
-OTHER PETITIONERS
-Each plane (save the Negative
-Energy Plane) has its own category
-of petitioner, but not every plane or
-demiplane present in the Pathﬁnder
-setting is listed here. Certainly,
-planes of your own design aren’t
-represented! You can use the wide
-range of petitioner types and
-descriptions here as templates or
-inspiration for creating new types
-of petitioners: each needs a name,
-appearance, alignment, language,
-additional ability, and attack.
-For instance, Desna maintains a
-demiplane called Cynosure that
-straddles the Material Plane and
-Elysium. Petitioners on Cynosure are
-known as the chosen dreamers, and
-they appear as idealized and softly
-glowing versions of their mortal
-selves; they are chaotic good, speak
-Celestial, are immune to confusion
-and stupeﬁed, and deal bludgeoning
-damage with their ﬁsts.
-Petitioner
-When a mortal dies, their soul travels to the Boneyard in the Outer Planes where
-they are judged by Pharasma, the goddess of the dead. Once they have been judged,
-their soul is sent on to their ﬁnal reward or punishment in the afterlife, and in the
-process is transformed into a creature known as a petitioner. This process grants
-the soul a new body, one whose shape is the result of the prevailing philosophical
-forces of the plane to which it is sent. The petitioner’s memories from their life are
-typically wiped nearly clean, allowing them to retain only a few hazy fragments
-akin to half-remembered dreams. Regardless of the petitioner’s size, power, or
-nature in life, they’re a Medium creature in their afterlife.
-Existence as a petitioner can last for eons, but this state is not necessarily
-eternal. Deities, powerful denizens of the Great Beyond, or even the outer planes
-themselves can further change the petitioner’s nature by transforming them
-into raw quintessence, spiritual essence that is then used to expand a plane’s
-physical manifestation, or by transforming the petitioner into a new form of
-supernatural life such as a celestial, monitor, or ﬁend. Should a petitioner die,
-their body breaks down in a process akin to decay, their nature reverting back
-to the quintessence or elements that make up their plane. This represents the
-true end of a soul’s journey: their associated life essence travels back to the heart
-of the Great Beyond to be recycled into the Positive Energy plane, fueling the
-creation of entirely new souls.
-
-================================================================================
-# PETITIONER
-================================================================================
-
-
-Bestiary 2
+198
+198
 OTHER PETITIONERS
 Each plane (save the Negative
 Energy Plane) has its own category
@@ -782,14 +773,51 @@ Ability resist piercing and slashing 3; Melee claw +7, Damage 1d8+2 slashing
 Dead Vault (the Caged) The caged are sent to Rovagug’s prison plane, the Dead Vault;
 they appear as chained versions of their mortal bodies, save that their faces are
 hideous insectile visages; Alignment CE; Language Abyssal; Additional Ability
-Rend Ȱɵ bite; Melee bite +7, Damage 1d8+2 piercing
+Rend Ȱɵ bite; Melee bite +7, Damage 1d8+2 piercing
 Dimension of Dreams (the Dreamers) The dreamers appear as their ideal appearance,
 age, and gender from their mortal bodies; Alignment any; Language Aklo;
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868696
+4425208
 
-================================================================================
 PAGE 200
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868697
+4425209
+O-R
+O-R
+199
+199
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 FIRST WORLD PETITIONERS
 A soul sent to the First World does
 not become a petitioner. Rather, they
@@ -866,12 +894,37 @@ Shadowtongue;
 Additional Ability immune to bleed
 and fear; Melee chain +7, Damage
 1d8+2 bludgeoning
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868697
+4425209
 
-================================================================================
 PAGE 201
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868698
+4425210
 Bestiary 2
+200
+200
 GENIEKIN PARENTAGE
 Planar scions from the elemental
 planes are known as geniekin because
@@ -908,3 +961,50 @@ callings that allow them to wallow in the glories of ﬁre.
 Ifrit pyrochemists apply this calling to alchemical
 teachings, seeing purity in every single bomb thrown
 or conﬂagration lit.
+IFRIT PYROCHEMIST
+CREATURE 1
+LE
+MEDIUM
+HUMAN
+HUMANOID
+IFRIT
+Perception +3
+Languages Common, Ignan
+Skills Acrobatics +6, Crafting +6, Intimidation +4,
+Nature +3, Survival +3, Thievery +6
+Str +0, Dex +3, Con +2, Int +3, Wis +0, Cha +1
+Items alchemist’s tools, dagger, ﬂint and steel, formula book,
+studded leather
+Infused Items An ifrit pyrochemist carries the following
+infused items, which last for 24 hours or until the next time
+the pyrochemist makes their daily preparations: lesser
+alchemist’s ﬁre (5), lesser elixir of life (2), lesser smokestick.
+AC 18; Fort +5, Ref +6, Will +3
+HP 18; Resistances ﬁre 1
+Speed 25 feet
+Melee Ȱɵ dagger +8 (agile, ﬁnesse, thrown 10 feet, versatile S),
+Damage 1d4 piercing
+Ranged Ȱɵ lesser alchemist’s ﬁre +8 (range increment 30 feet), Damage 1d8
+ﬁre plus 1 persistent ﬁre damage and 1 ﬁre splash damage
+Primal Innate Spells DC 16, attack +8; Cantrips (1st) produce ﬂame
+Quick Bomber Ȱɵ The ifrit pyrochemist draws an alchemical bomb with an Interact
+action and throws it as a ranged Strike.
+OREAD
+Elemental earth laces through the bones of oreads, who appear similar to stone
+statues of their mortal ancestry, with delicate crystals in place of hair, fur, or
+scales. Oreads are stoic and slow to plan but are of steadfast resolve and
+unwavering in their convictions.
+The typical oread cherishes quiet seclusion. Yet as they age, many
+oreads ﬁnd themselves inexplicably drawn to some far-ﬂung location
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868698
+4425210

@@ -1,0 +1,116 @@
+REPEATING CROSSBOW
+ITEM 0
+UNCOMMON
+This crossbow has an internal chamber that can be loaded
+with up to five bolts. An automated catch mechanism at the
+top of the flight groove, just in front of the latch, locks the
+bowstring and launches bolts with the pull of a trigger.
+REPEATING HAND CROSSBOW
+ITEM 0
+UNCOMMON
+This handheld crossbow features an ingeniously designed
+catch mechanism at the top of the flight groove, just in
+front of the latch, which automatically loads a bolt from a
+magazine and resets the string each time the weapon is
+fired. A typical repeating hand crossbow magazine holds
+five bolts.
+REPEATING HEAVY CROSSBOW
+ITEM 0
+UNCOMMON
+This large crossbow has an internal chamber that
+can be loaded with up to five bolts. While it uses
+the same automated catch mechanism as other
+repeating crossbows, a repeating heavy crossbow’s
+design has significant trade-offs. It has increased
+range and damage and is easier to learn how to use, but
+requires a small amount of effort to reload.
+UMBRELLA INJECTOR
+ITEM 0
+UNCOMMON
+This umbrella’s ferrule is a hollow-tipped blade three
+to four inches in length and often overlooked as decorative.
+A receptacle inside the umbrella’s shaft can be loaded with
+a single dose of injury poison and injected into a damaged
+target with the pull of a sliding trigger. Reinforced ribs
+enable you to parry and deflect blows with the umbrella’s
+tear-resistant canopy.
+Combat Gear
+The following pieces of combat gear aren’t weapons
+themselves, though several
+enable you to deploy other
+weapons in innovative ways.
+BLADE LAUNCHER
+ITEM 1
+UNCOMMON
+Price 18 gp
+Usage held in 2 hands; Bulk 1
+A blade launcher has a bow-like assembly mounted on a
+handled frame. The frame can be configured to fire either
+a dagger, dart, shuriken, or starknife. Configuring a blade
+launcher requires three Interact actions. Once properly
+configured, loading an appropriate thrown weapon into a
+blade launcher requires a single Interact action. A blade
+launcher can’t fire weapons for which it’s not currently
+configured. A weapon fired with a blade launcher loses the
+agile, monk, thrown, and versatile traits, if it has them, and
+has a range increment of 40 feet. Due to losing the thrown
+weapon trait, returning and most other effects that allow a
+weapon to return don’t function; even if a launched weapon
+did return, you’d still need to load it into the blade launcher
+with an Interact action to fire the blade launcher again.
+BOMB LAUNCHER
+ITEM 1
+UNCOMMON
+Price 20 gp
+Usage held in 2 hands; Bulk 1
+This long, hollow tube is held in two hands and braced over
+the shoulder. Inside, it contains a small metal basket sized
+to hold alchemical bombs. A chute in the top delivers an
+alchemical bomb into the internal basket, while a lever
+on the underside pulls the basket back and locks it
+in place. Loading an alchemical bomb into a bomb
+launcher requires a single Interact action. With a pull
+of a trigger, the basket speeds forward, allowing you
+to Strike with the loaded alchemical bomb over long
+distances. Bombs fired with a bomb launcher have
+a range increment of 60 feet.
+DEPLOYABLE COVER
+ITEM 1+
+UNCOMMON
+Usage held in 2 hands; Bulk 1
+This thick mat of canvas, foliage, and wood is mounted on a
+tripod of flexible metal struts, folded into a baton-
+like shape, and clamped shut. You can rapidly
+deploy it on the ground with an Interact action to
+create cover. Deployable cover is large enough to Take Cover
+behind, allowing you (and others) to gain standard cover when
+you use the Take Cover action. Before it can be used again,
+deployable cover must be carefully folded and clamped shut,
+which takes 1 minute.
+Type deployable cover; Level 1; Price 15 gp
+Type ballistic cover; Level 2; Price 35 gp
+Specially crafted to protect against bullet fire, a ballistic cover
+also works against other physical projectiles, such
+as arrows, bolts, and thrown weapons. While
+a creature has cover from Taking Cover
+behind a ballistic cover, it gains resistance 2
+to piercing damage from ranged weapons
+and ranged unarmed attacks.
+GRAPPLING GUN
+ITEM 0+
+UNCOMMON
+Usage held in 2 hands; Bulk 1
+This wooden, pistol-like device features a large reel coiled with
+100 feet of thin metal cord and can fire a grappling hook up
+to 100 feet. To reload the grappling gun, you must manually
+recoil the cord by turning the reel’s crank, and then lock in
+the grappling hook. Reloading a grappling gun takes 1 minute.
+Type grappling gun; Level 0; Price 3 gp
+Type clockwork grappling gun; Level 1; Price 15 gp
+Clockwork controls the reel on this grappling gun, reeling the
+grappling hook back in when you pull a lever. Reloading a
+clockwork grappling gun takes three Interact actions.
+64
+64
+Umbrella Injector
+Grappling Gun

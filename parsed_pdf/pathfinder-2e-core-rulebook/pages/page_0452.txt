@@ -1,0 +1,120 @@
+damage roll, and again you apply only the greatest penalty
+of a specific type but apply all untyped penalties together.
+Use the formulas below.
+Melee damage roll = damage die of weapon or
+unarmed attack + Strength modifier + bonuses +
+penalties
+Ranged damage roll = damage die of weapon +
+Strength modifier for thrown weapons + bonuses
++ penalties
+Spell (and similar effects) damage roll = damage
+die of the effect + bonuses + penalties
+Once your damage die is rolled, and you’ve applied any
+modifiers, bonuses, and penalties, move on to Step 2. Though
+sometimes there are special considerations, described below.
+Increasing Damage
+In some cases, you increase the number of dice you roll
+when making weapon damage rolls. Magic weapons
+etched with the striking rune can add one or more weapon
+damage dice to your damage roll. These extra dice are the
+same die size as the weapon’s damage die. At certain levels,
+most characters gain the ability to deal extra damage from
+the weapon specialization class feature.
+Persistent Damage
+Persistent damage is a condition that causes damage to recur
+beyond the original effect. Unlike with normal damage,
+when you are subject to persistent damage, you don’t take
+it right away. Instead, you take the specified damage at the
+end of your turns, after which you attempt a DC 15 flat
+check to see if you recover from the persistent damage.
+See the Conditions Appendix on pages 618–623 for the
+complete rules regarding the persistent damage condition.
+Doubling and Halving Damage
+Sometimes you’ll need to halve or double an amount of
+damage, such as when the outcome of your Strike is a
+critical hit, or when you succeed at a basic Reflex save
+against a spell. When this happens, you roll the damage
+normally, adding all the normal modifiers, bonuses,
+and penalties. Then you double or halve the amount as
+appropriate (rounding down if you halved it). The GM
+might allow you to roll the dice twice and double the
+modifiers, bonuses, and penalties instead of doubling
+the entire result, but this usually works best for single-
+target attacks or spells at low levels when you have a
+small number of damage dice to roll. Benefits you gain
+specifically from a critical hit, like the flaming weapon
+rune’s persistent fire damage or the extra damage die
+from the fatal weapon trait, aren’t doubled.
+Step 2: Determine The Damage Type
+Once you’ve calculated how much damage you deal,
+you’ll need to determine the damage type. There are many
+types of damage and sometimes certain types are applied
+in different ways. The smack of a club deals bludgeoning
+damage. The stab of a spear deals piercing damage. The
+staccato crack of a lightning bolt spell deals electricity
+damage. Sometimes you might apply precision damage,
+dealing more damage for hitting a creature in a vulnerable
+spot or when the target is somehow vulnerable. The
+damage types are described on page 452.
+Damage Types and Traits
+When an attack deals a type of damage, the attack action
+gains that trait. For example, the Strikes and attack
+actions you use wielding a sword when its flaming rune is
+active gain the fire trait, since the rune gives the weapon
+the ability to deal fire damage.
+Step 3: Apply the Target’s Immunities,
+Weaknesses, and Resistances
+Defenses against certain types of damage or effects are
+called immunities or resistances, while vulnerabilities are
+called weaknesses. Apply immunities first, then weaknesses,
+and resistances third. Immunity, weakness, or resistance to
+an alignment applies only to damage of that type, not to
+damage from an attacking creature of that alignment.
+Immunity
+When you have immunity to a specific type of damage, you
+ignore all damage of that type. If you have immunity to a
+specific condition or type of effect, you can’t be affected by
+that condition or any effect of that type. If you have immunity
+to effects with a certain trait (such as death effects, poison,
+or disease) you are unaffected by any effect with that trait.
+Often, an effect can be both a trait and a damage type (this is
+especially true in the case of energy damage types). In these
+cases, the immunity applies to the entire effect, not just the
+damage. You can still be targeted by an ability with an effect
+you are immune to; you just don’t apply the effect. However,
+some complex effects might have parts that affect you even
+if you’re immune to one of the effect’s traits; for instance, a
+spell that deals both fire and acid damage can still deal acid
+damage to you even if you’re immune to fire.
+Immunity to critical hits works a little differently. When
+a creature immune to critical hits is critically hit by a Strike
+or other attack that deals damage, it takes normal damage
+instead of double damage. This does not make it immune
+to any other critical success effects of other actions that
+have the attack trait (such as Grapple and Shove).
+Another exception is immunity to nonlethal attacks. If
+you are immune to nonlethal attacks, you are immune to
+all damage from attacks with the nonlethal trait, no matter
+what other type the damage has. For instance, a stone
+golem has immunity to nonlethal attacks. This means
+that no matter how hard you hit it with your fist, you’re
+451
+9
+PLAYING THE GAME
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

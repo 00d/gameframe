@@ -1,0 +1,97 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668875
+4425032
+Bestiary
+22
+Ankhrav
+Ankhravs are immense, burrowing, and insectile predators, considered by
+inhabitants of the rural areas of the world to be an all-too-common plague.
+Ankhrav
+These horse-sized, burrowing monsters generally avoid heavily settled areas like
+cities, but ankhravs’ predilection for livestock and humanoid ﬂesh ensures that
+the creatures do not remain in the deep wilderness for long. Desperate farmers
+whose ﬁelds become infested by ankhravs often have little recourse but to seek
+the aid of adventurers.
+ANKHRAV
+CREATURE 3
+N
+LARGE
+ANIMAL
+Perception +7; darkvision, tremorsense (imprecise) 60 feet
+Skills Acrobatics +6, Athletics +11, Stealth +8
+Str +4, Dex +1, Con +3, Int –4, Wis +0, Cha –2
+AC 20; Fort +12, Ref +8, Will +7
+HP 40
+Speed 25 feet, burrow 20 feet
+Melee Ȱɵ mandibles +13 (acid), Damage 1d8+4 piercing plus 1d6 acid
+Ranged Ȱɵ acid spit +10 (acid, range 30 feet), Damage 3d6 acid
+Armor-Rending Bite ʚʖ The ankhrav makes a mandibles Strike; if the Strike hits, the
+target’s armor takes the damage and the acid damage bypasses the armor’s Hardness.
+Spray Acid ʚʖ (acid) Frequency once per hour; Eﬀect The ankhrav spews acid in a
+30-foot cone, dealing 3d6 acid damage and 1d6 persistent acid damage (DC 20 basic
+Reﬂex save).
+Hive Mother
+Ankhrav hive mothers are fearsome predators that one can easily distinguish
+from the typical ankhrav not only by their greater size, but the presence of a
+large pair of razor-sharp, mantis-like arms.
+HIVE MOTHER
+CREATURE 8
+UNCOMMON
+N
+HUGE
+ANIMAL
+Perception +16; darkvision, tremorsense (imprecise) 90 feet
+Skills Acrobatics +13, Athletics +20, Stealth +11, Survival +16
+Str +6, Dex +1, Con +4, Int –4, Wis +2, Cha –2
+AC 29; Fort +18, Ref +15, Will +14
+HP 120
+Attack of Opportunity Ǻȓ
+Speed 25 feet, burrow 20 feet
+Melee Ȱɵ mandibles +20 (acid), Damage 2d8+6 piercing plus 2d6 acid
+Ranged Ȱɵ acid spit +17 (acid, range 30 feet), Damage 5d6 acid
+Armor-Rending Bite ʚʖ The hive mother makes a
+mandibles Strike; if the Strike hits, the target’s armor
+takes the damage and the acid damage bypasses the
+armor’s Hardness.
+Frenzy Pheromone ʚʖ The hive mother unleashes a
+pheromone that causes all other ankhravs within a 100-foot
+emanation to become quickened 1 until the start of the hive
+mother’s next turn, and they can use the extra action only
+for Burrow, Stride, or Strike actions. The hive mother
+can’t unleash the pheromone again for 1d4 rounds.
+Spray Acid ʚʖ (acid) The hive mother spews acid
+in a 60-foot cone, dealing 8d6 acid damage and 1d6
+persistent acid damage (DC 26 basic Reﬂex save). It
+can’t spew acid again for 1d4 rounds.
+ANKHRAV BURROWS
+As if the appearance of a hungry
+ankhrav in a stretch of farmland
+isn’t bad enough, it almost always
+indicates the proximity of an
+ankhrav hive nearby. A disturbing
+number of ankhravs can infest
+a lair. However, adventurers
+brave enough to crawl through
+the tangled burrows are often
+rewarded with large amounts of
+treasure as ankhravs have a habit
+of dragging their victims back
+to the deepest corners of their
+den to feast, usually discarding
+the remains with most of the
+gear intact.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668875
+4425032

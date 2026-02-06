@@ -1,0 +1,76 @@
+Gamemastery Guide
+210
+210
+BURGLAR
+Burglars specialize in breaking and entering to rob homes and businesses. These
+criminals focus on gaining access to secure buildings and bypassing traps and other
+security measures while remaining undetected all the while.
+BURGLAR
+CREATURE 4
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +10 (+11 to find traps)
+Languages Common
+Skills Acrobatics +10, Athletics +8, Deception +7, Society +7, Stealth +12, Thievery +12 (can
+Disable traps that require master proficiency), Underworld Lore +7
+Str +2, Dex +4, Con +1, Int +1, Wis +2, Cha +1
+Items climbing kit, composite shortbow (10 arrows), lesser darkvision elixir, leather armor,
+sap, thieves’ tools
+AC 21 (22 vs. traps); Fort +7, Ref +12, Will +10; +1 circumstance to all saves vs. traps
+HP 60
+Deny Advantage The burglar isn’t flat-footed to creatures of 4th level or lower that
+are hidden, undetected, flanking, or using surprise attack.
+Nimble Dodge  Trigger The burglar is targeted with a melee or ranged attack
+by an attacker it can see; Effect The burglar gains a +2 circumstance bonus to AC
+against the triggering attack.
+Speed 30 feet
+Melee [one-action] shortsword +14 (agile, finesse, versatile S), Damage
+1d6+6 piercing
+Melee [one-action] sap +12 (agile, nonlethal), Damage 1d6+4 bludgeoning
+Ranged [one-action] composite shortbow +14 (deadly 1d10, propulsive, range
+increment 60 feet, reload 0), Damage 1d6+4 piercing
+Mobility When the burglar Strides half their Speed or less, that
+movement does not trigger reactions.
+Sneak Attack The burglar deals an extra 1d6 precision damage to flat-
+footed creatures.
+Surprise Attack On the first round of combat, if the burglar rolls Deception
+or Stealth for initiative, creatures that haven’t acted are flat-footed to them.
+FENCE
+The longer criminals hold on to stolen loot, the greater the chance they will get
+caught. Fences make themselves indispensable in the underworld by paying
+for stolen goods in order to resell them later, whether through a seemingly
+legitimate business or to a closed group of elite buyers.
+FENCE
+CREATURE 5
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +11
+Languages Common
+Skills Accounting Lore +13, Acrobatics +10, Crafting +13, Deception +13,
+Diplomacy +11, Intimidation +11, Society +11, Stealth +10, Thievery +10, Underworld
+Lore +15
+Str +0, Dex +3, Con +0, Int +4, Wis +2, Cha +4
+Items dagger (10), lesser darkvision elixir, disguise kit, bird feather token, lesser
+smokestick (2), shortsword, thieves’ tools
+Fence’s Eye Fences live by their ability to recognize a viable trade. They can use
+Underworld Lore to identify an item’s value and Identify Magic on an item.
+They gain a +2 circumstance bonus to Underworld Lore checks when doing
+so, and to Underworld Lore checks to determine whether an item was stolen,
+whether a stolen item would be too recognizable to easily move, and who would be
+interested in purchasing such an item.
+FANTASY CRIMES
+While many crimes in Pathfinder
+are similar to crimes in the real
+world, certain crimes are possible
+only in a world of magic. These
+include using magic to win a wager,
+malicious uses of curses, violating
+autonomy with enchantment
+magic, falsifying divinations,
+violating privacy with divinations,
+or trespassing via teleportation.
+BURGLAR

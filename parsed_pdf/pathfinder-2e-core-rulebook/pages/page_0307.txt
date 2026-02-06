@@ -1,0 +1,52 @@
+does, as does a successful Stealth check to Hide (against
+the spell’s DC). For auditory detection, line of sight isn’t
+necessary, though the sound must be audible at the spell’s
+origin point. A Stealth check to Sneak can fool the sensor.
+Walls
+Spells that create walls list the depth, length, and height of
+the wall, also specifying how it can be positioned. Some
+walls can be shaped; you can manipulate the wall into a
+form other than a straight line, choosing its contiguous path
+square by square. The path of a shaped wall can’t enter the
+same space more than once, but it can double back so one
+section is adjacent to another section of the wall.
+Reading Spells
+Each spell uses the following format. Entries appear only
+when applicable, so not all spells will have every entry
+described here. The spell’s name line also lists the type of
+spell if it’s a cantrip or focus spell, as well as the level.
+SPELL NAME
+SPELL (LEVEL)
+TRAITS
+Tradition This entry lists the magical traditions the spell
+belongs to. Some feats or other abilities might add a spell to
+your spell list even if you don’t follow the listed traditions.
+Cast The number of actions required to Cast the Spell are listed
+here. Spells that can be cast during a single turn have the
+appropriate icon, as do those that can be cast as a free action
+or a reaction. Spells that take longer to cast list the time
+required, such as “1 minute.” After this, the spell’s components
+are listed. If Casting the Spell has a cost, requirements, or a
+trigger, that information is also listed in this section. A cost
+includes any money, valuable materials, or other resources
+that must be expended to cast the spell.
+Range, Area, and Targets This entry lists the range of the spell,
+the area it affects, and the targets it can affect, if any. If none
+of these entries are present, the spell affects only the caster.
+Saving Throw and Duration If a spell allows the target to attempt
+a saving throw, the type of save appears here. Any details on
+the particular results and timing of the save appear in the text
+unless the entry specifies a basic saving throw, which follows
+the rules found on page 449. If the spell requires a save only
+under certain circumstances or at a certain time, this entry
+is omitted, since the text needs to explain it in more detail. A
+spell that doesn’t list a duration takes place instantaneously,
+and anything created by it persists after the spell.
+A horizontal line follows saving throws and duration, and the
+effects of the spell are described after this line. This section
+might also detail the possible results of a saving throw: critical
+success, success, failure, and critical failure.
+Heightened (level) If the spell can be heightened, the effects
+of heightening it appear at the end of the stat block.
+Core Rulebook
+306

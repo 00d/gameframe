@@ -1,0 +1,131 @@
+BREATH OF LIFE
+SPELL 5
+HEALING
+NECROMANCY
+POSITIVE
+Traditions divine
+Cast [reaction] verbal; Trigger A living creature within range would die.
+Range 60 feet; Targets the triggering creature
+Your blessing revives a creature at the moment of its death.
+You prevent the target from dying and restore Hit Points to the
+target equal to 4d8 plus your spellcasting ability modifier. You
+can’t use breath of life if the triggering effect was disintegrate
+or a death effect.
+BURNING HANDS
+SPELL 1
+EVOCATION
+FIRE
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Area 15-foot cone
+Saving Throw basic Reflex
+Gouts of flame rush from your hands. You deal 2d6 fire
+damage to creatures in the area.
+Heightened (+1) The damage increases by 2d6.
+CALM EMOTIONS
+SPELL 2
+EMOTION
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+Traditions divine, occult
+Cast [two-actions] somatic, verbal
+Range 120 feet; Area 10-foot burst
+Saving Throw Will; Duration sustained up to 1 minute
+You forcibly calm creatures in the area, soothing them into a
+nonviolent state; each creature must attempt a Will save.
+Critical Success The creature is unaffected.
+Success Calming urges impose a –1 status penalty to the
+creature’s attack rolls.
+Failure Any emotion effects that would affect the creature
+are suppressed and the creature can’t use hostile actions.
+If the target is subject to hostility from any other creature,
+it ceases to be affected by calm emotions.
+Critical Failure As failure, but hostility doesn’t end the effect.
+CATACLYSM
+SPELL 10
+ACID
+AIR
+COLD
+EARTH
+ELECTRICITY
+EVOCATION
+FIRE
+WATER
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 1,000 feet; Area 60-foot burst
+Saving Throw basic Reflex
+You call upon the unimaginable power of world-ending
+cataclysms, ripping a small piece of each cataclysm and
+combining them together into one horrifically powerful attack.
+The following effects come down upon all creatures in the
+area. Treat the resistances of creatures in the area as if they
+were 10 lower for the purpose of determining the cataclysm’s
+damage. Each creature attempts one basic Reflex save that
+applies to all six types of damage.
+•	 Flesh-dissolving acid rain deals 3d10 acid damage.
+•	 A roaring earthquake shakes and bludgeons creatures
+on the ground, dealing 3d10 bludgeoning damage.
+•	 A blast of freezing wind deals 3d10 cold damage.
+•	 Incredible lightning lashes the area, dealing 3d10
+electricity damage.
+•	 Beating winds churn across the sky, dealing 3d10
+bludgeoning damage to creatures flying in the area.
+•	 An instant tsunami sweeps over creatures in the area,
+dealing 3d10 bludgeoning damage with the water trait
+(doubled for creatures swimming in the area).
+•	 A massive wildfire burns in a sudden inferno, dealing
+3d10 fire damage.
+CHAIN LIGHTNING
+SPELL 6
+ELECTRICITY
+EVOCATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 500 feet; Targets 1 creature, plus any number of
+additional creatures
+Saving Throw Reflex
+You discharge a powerful bolt of lightning at the target, dealing
+8d12 electricity damage. The target must attempt a basic
+Reflex save. The electricity arcs to another creature within 30
+feet of the first target, jumps to another creature within 30
+feet of that target, and so on. You can end the chain at any
+point. You can’t target the same creature more than once, and
+you must have line of effect to all targets. Roll the damage
+only once, and apply it to each target (halving or doubling as
+appropriate for its saving throw outcome). The chain ends if
+any one of the targets critically succeeds at its save.
+Heightened (+1) The damage increases by 1d12.
+CHARM
+SPELL 1
+EMOTION
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+Traditions arcane, occult, primal
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration 1 hour
+To the target, your words are honey and your visage seems
+bathed in a dreamy haze. It must attempt a Will save, with a +4
+circumstance bonus if you or your allies recently threatened it
+or used hostile actions against it.
+You can Dismiss the spell. If you use hostile actions against
+the target, the spell ends. When the spell ends, the target
+doesn’t necessarily realize it was charmed unless its friendship
+with you or the actions you convinced it to take clash with
+its expectations, meaning you could potentially convince the
+target to continue being your friend via mundane means.
+Critical Success The target is unaffected and aware you tried
+to charm it.
+Success The target is unaffected but thinks your spell was
+something harmless instead of charm, unless it identifies
+the spell (usually with Identify Magic).
+Failure The target’s attitude becomes friendly toward you. If it
+was friendly, it becomes helpful. It can’t use hostile actions
+against you.
+Critical Failure The target’s attitude becomes helpful toward
+you, and it can’t use hostile actions against you.
+Core Rulebook
+322

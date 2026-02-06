@@ -1,0 +1,87 @@
+SMITH
+Most smaller communities have at least one smithy where locals and travelers can
+have horses shod or equipment repaired. Larger settlements and cities often have
+a variety of smiths, many specializing in blacksmithing, weapon smithing, armor
+smithing, or even smelting coins in a mint. The smith is a 6th-level challenge when
+competing with smithing or other crafting tasks.
+SMITH
+CREATURE 3
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +5
+Languages Common
+Skills Athletics +8, Crafting +15, Diplomacy +5, Smithy Lore +15, Society +8
+Str +3, Dex +1, Con +2, Int +3, Wis +0, Cha +0
+Items artisan’s tools, leather apron (functions as padded armor), light hammer
+AC 17; Fort +9, Ref +8, Will +5
+HP 50
+Speed 25 feet
+Melee  light hammer +10 (agile), Damage 1d6+3 bludgeoning plus smith’s fury
+Ranged  light hammer +8 (agile, thrown 20 feet), Damage 1d6+3 bludgeoning plus
+smith’s fury
+Smith’s Fury The smith deals an additional 1d6 damage when they hit with a weapon
+they created.
+GUILDMASTER
+In cities, artisans working in a common trade often form
+guilds to set standards of quality, establish common
+prices, engage in collective bargaining with business
+owners, and lobby local governments for favorable
+laws. The guildmaster—often a master artisan in
+their own right—also acts as an administrator and
+politician, advocating for artisans in their trade. The
+guildmaster is a 12th-level challenge when competing in
+crafting or their area of expertise (architecture in the
+example below).
+GUILDMASTER
+CREATURE 8
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +16
+Languages Common
+Skills Architecture Lore +25, Athletics +13, Bureaucracy Lore +19, Crafting +25,
+Diplomacy +24, Intimidation +22, Society +21
+Str +3, Dex +1, Con +1, Int +4, Wis +2, Cha +3
+Items artisan’s tools, construction schematics, guildmaster’s uniform (functions as
+hide armor), +1 striking light hammer, tax ledgers
+AC 26; Fort +14, Ref +14, Will +17
+HP 135
+Speed 25 feet
+Melee  light hammer +16 (agile), Damage 2d6+5 bludgeoning
+Ranged  light hammer +14 (agile, magical, thrown 20 feet), Damage 2d6+5 bludgeoning
+Call to Action  (auditory, concentrate, emotion, mental) The guildmaster gives a
+speech to inspire themself and all guild‑member allies within 60 feet, granting them
+a +1 status bonus to attack and damage rolls until the start of the guildmaster’s
+next turn.
+Sworn Duty While within the guild or presiding over guild business, the guildmaster
+gains a +2 circumstance bonus to weapon attack rolls and deals an additional
+2d6 damage on a successful weapon attack.
+MORE ARTISAN GUILDS
+Physicians and apothecaries
+Potion brewers
+Potters
+Scroll keepers
+Shipwrights and sailmakers
+Skinners and tanners
+Wagonmakers and wheelwrights
+Weaponsmiths
+Wandcrafters
+Weavers
+Woodcarvers and coopers
+5
+NPC Gallery
+245
+245
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+GUILDMASTER

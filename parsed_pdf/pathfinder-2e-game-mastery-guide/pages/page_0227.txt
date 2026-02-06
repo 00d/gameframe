@@ -1,0 +1,73 @@
+MERCENARIES
+A broad category that includes those wielding arms, spells, or even guile and
+cunning, mercenaries hire themselves and their expertise to those with the gold
+to pay for it.
+BODYGUARD
+Hired to protect someone famous or powerful, bodyguards use intimidation,
+quick wits, and martial skill to keep their charges safe. Such mercenaries might
+be auxiliaries to a noble’s own guards, but with special directives to safeguard
+their patrons.
+BODYGUARD
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +8
+Languages Common
+Skills Athletics +7, Intimidation +6, Society +2
+Str +4, Dex +2, Con +3, Int –1, Wis +1, Cha +0
+Items greatclub, sap, studded leather
+AC 16; Fort +8, Ref +7, Will +4
+HP 25
+Speed 25 feet
+Melee  greatclub +7 (backswing, shove), Damage 1d10+4 bludgeoning
+Melee  sap +7 (agile, nonlethal), Damage 1d6+4 bludgeoning
+Bodyguard’s Defense  The bodyguard selects one creature they can see
+and hear within 30 feet. That creature gains a +2 circumstance bonus to AC
+as long as the bodyguard is adjacent to the chosen creature and can act; this
+bonus lasts until the start of the bodyguard’s next turn.
+MAGE FOR HIRE
+Not all mercenaries sell brawn and intimidating glares. Some sell their
+magical talents to earn a living. While there are many types of mages for
+hire, some of the sneakiest are specialized in divination, using their skills
+for infiltration and sabotage.
+MAGE FOR HIRE
+CREATURE 3
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +7
+Languages Common
+Skills Arcana +11, Society +9, Stealth +7, Thievery +9
+Str +0, Dex +2, Con +1, Int +4, Wis +1, Cha +1
+Items invisibility potion, spellbook, staff, thieves’ tools
+AC 17; Fort +8, Ref +9, Will +10
+HP 31
+Speed 25 feet
+Melee  staff +7 (two-hand d8), Damage 1d4 bludgeoning
+Arcane Prepared Spells DC 20, attack +12; 2nd flaming sphere, knock, see
+invisibility; 1st grease, mage armor, magic missile, true strike; Cantrips (2nd)
+dancing lights, daze, detect magic, electric arc, mage hand, message, shield
+Wizard School Spell 1 Focus Point, DC 20; 2nd diviner’s sight (Core Rulebook 406)
+BOUNTY HUNTER
+Bounty hunters are constantly on the move, whether within city walls or
+the wilderness, trailing their fugitive quarries for capture… or disposal. Often
+relying on stealth or deception as much as martial skill, bounty hunters employ
+a vast array of talents to accomplish their goals, not to mention to collect
+the hefty payout that follows.
+BRIBING MERCENARIES
+Unless a mercenary prides themself
+on their name or reputation, the
+PCs might be able to bribe them to
+switch sides, or at least stand aside.
+You can estimate a bribe by taking
+roughly 5% of the Party Currency
+value from the row corresponding
+to the NPC’s level on Table 10–9 on
+page 509 of the Core Rulebook.
+Gamemastery Guide
+226
+226
+MAGE FOR HIRE

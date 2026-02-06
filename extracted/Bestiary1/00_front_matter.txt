@@ -8,52 +8,98 @@
 PAGE 1
 ================================================================================
 
+p
+g
+ggyj ggyj
+g
+19668853
+4425010
 Second Edition
 Bestiary
 Logan Bonner, Jason Bulmahn,
 Stephen Radney-MacFarland, and Mark Seifter
+p
+g
+ggyj ggyj
+g
+19668853
+4425010
 
-================================================================================
 PAGE 2
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668854
+4425011
 BESTIARY
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668854
+4425011
 
-================================================================================
 PAGE 3
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668855
+4425012
 Paizo Inc.
 7120 185th Ave NE, Ste 120
 Redmond, WA 98052-0577
 paizo.com
 Table of Contents
 Introduction
+5
 Monsters A-Z
+8
 Appendix
+342
 
 Ability Glossary
+342
 
 Creature Traits
+344
 
 New Rituals
+347
 
 New Languages
+348
 
 Creatures by Type
+348
 
 Creatures by Level
+350
 GAME DESIGNERS
 Logan Bonner, Jason Bulmahn,
 Stephen Radney-MacFarland, and Mark Seifter
 ADDITIONAL DESIGN
 Alexander Augunas, John Compton,
-Paris Crenshaw, Adam Daigle, Eleanor Ferron,
+Paris Crenshaw, Adam Daigle, Eleanor Ferron,
 Leo Glass, Thurston Hillman, James Jacobs,
 Jason Keeley, Lyz Liddell, Ron Lundeen,
 Robert G. McCreary, Tim Nightengale, Alex Riggs,
-David N. Ross, Michael Sayre, Chris S. Sims,
-Jeﬀrey Swank, Jason Tondro, Tonya Woldridge,
+David N. Ross, Michael Sayre, Chris S. Sims,
+Jeﬀrey Swank, Jason Tondro, Tonya Woldridge,
 and Linda Zayas-Palmer
 DEVELOPMENT LEADS
 Adam Daigle, James Jacobs, and Patrick Renie
@@ -67,23 +113,23 @@ Lacy Pellazar, Patrick Renie, and Jason Tondro
 COVER ARTIST
 Wayne Reynolds
 INTERIOR ARTISTS
-Klaher Baklaher, Helge C. Balzer, Luca Bancone,
-Enrique Barajas, Giorgio Baroni, Diana Campos,
-Yanis Cardin, Javier Charro, Sergio Cosmai,
-Emile Denis, Michele Esposito, Mirko Faloni,
+Klaher Baklaher, Helge C. Balzer, Luca Bancone,
+Enrique Barajas, Giorgio Baroni, Diana Campos,
+Yanis Cardin, Javier Charro, Sergio Cosmai,
+Emile Denis, Michele Esposito, Mirko Faloni,
 Jorge Fares, Michele Giorgi,
-Miguel Regodón Harkness, Matthias Kinnigkeit,
+Miguel Regodón Harkness, Matthias Kinnigkeit,
 Ksenia Kozhevnikova, Josef Kucera,
 Víctor Manuel Leza Moreno, Raph Lomotan,
 David Melvin, Mark Molnar, Johnny Morrow,
-Andrea Tentori Montalto, Will O’Brien,
+Andrea Tentori Montalto, Will O’Brien,
 Mirco Paganessi, Mary Jane Pajaron,
 Mikhail Palamarchuk, Angelo Peluso,
 Anna Podedworna, Scott Purdy, Maichol Quinto,
-Wayne Reynolds, Kiki Moch Rizky, Riccardo Rullo,
-Henrik Rosenborg, Bryan Sola, Firat Solhan,
-Yasen Stoilov, Matias Tapia, Allison Theus,
-Brian Valeza, and Ben Wootten
+Wayne Reynolds, Kiki Moch Rizky, Riccardo Rullo,
+Henrik Rosenborg, Bryan Sola, Firat Solhan,
+Yasen Stoilov, Matias Tapia, Allison Theus,
+Brian Valeza, and Ben Wootten
 ART DIRECTION AND GRAPHIC DESIGN
 Sarah E. Robinson and Sonja Morris
 CREATIVE DIRECTOR
@@ -96,436 +142,911 @@ Daniel Solis, Jonathan Tweet, Skip Williams, and
 all the participants in the Pathﬁnder Playtest
 Alphabetical Listing Of Monsters
 Aasimar Redeemer (planar scion)
+263
 Adamantine Golem
+188
 Adult Black Dragon
+105
 Adult Blue Dragon
+108
 Adult Brass Dragon
+118
 Adult Bronze Dragon
+120
 Adult Copper Dragon
+122
 Adult Gold Dragon
+124
 Adult Green Dragon
+110
 Adult Red Dragon
+112
 Adult Silver Dragon
+126
 Adult White Dragon
+114
 Air Mephit
+150
 Alchemical Golem
+185
 Alghollthu Master
+14
 Ancient Black Dragon
+106
 Ancient Blue Dragon
+108
 Ancient Brass Dragon
+118
 Ancient Bronze Dragon
+120
 Ancient Copper Dragon
+122
 Ancient Gold Dragon
+125
 Ancient Green Dragon
+110
 Ancient Red Dragon
+112
 Ancient Silver Dragon
+127
 Ancient White Dragon
+115
 Animated Armor
+20
 Animated Broom
+20
 Animated Statue
+20
 Ankhrav
+22
 Ankylosaurus (dinosaur)
+97
 Annis Hag
+201
 Arbiter (aeon)
+8
 Arboreal Regent
+25
 Arboreal Warden
+24
 Astradaemon (daemon)
+72
 Astral Deva (angel)
+18
 Awakened Tree
+25
 Axiomite (aeon)
+9
 Azure Worm
+57
 Balisse (angel)
+18
 Ball Python (snake)
+302
 Balor (demon)
+82
 Banshee
+34
 Baomal
+35
 Barbazu (devil)
+88
 Barghest
+36
 Basilisk
+38
 Black Pudding (ooze)
+255
 Bloodseeker
+42
 Boar
+43
 Boggard Scout
+44
 Boggard Swampseer
+45
 Boggard Warrior
+44
 Brain Collector
+46
 Brine Shark (water elemental)
+152
 Brontosaurus (dinosaur)
+99
 Bugbear Thug
+47
 Bugbear Tormentor
+47
 Bulette
+48
 Bunyip
+49
 Cacodaemon (daemon)
+70
 Caligni Creeper
+50
 Caligni Dancer
+50
 Caligni Stalker
+51
 Cassisian (angel)
+16
 Catfolk Pouncer
+54
 Cauthooj
+55
 Cave Bear
+40
 Centaur
+60
 Centipede Swarm
+61
 Ceustodaemon (daemon)
+71
 Changeling Exile (changeling)
+62
 Chimera
+63
 Choral (angel)
+17
 Chuul
+64
 Cinder Rat (ﬁre elemental)
+148
 Clay Golem
+186
 Cloaker
+65
 Cloud Giant
+173
 Cockatrice
+66
 Crag Linnorm
+224
 Crimson Worm
+58
 Crocodile
+67
 Cyclops
+68
 Daeodon (boar)
+43
 Dandasuka (rakshasa)
+274
 Dark Naga
+242
 Deadly Mantis
+233
 Deep Gnome Rockwarden
+75
 Deep Gnome Scout
+74
 Deep Gnome Warrior
+75
 Deinosuchus (crocodile)
+67
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668855
+4425012
 
-================================================================================
 PAGE 4
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668856
+4425013
 BESTIARY
 Deinonychus (dinosaur)
+96
 Demilich
+222
 Dero Magister
+85
 Dero Stalker
+84
 Dero Strangler
+85
 Desert Drake
+135
 Dezullon
+94
 Dhampir Wizard (dhampir)
+95
 Dire Wolf
+334
 Djinni (genie)
+163
 Doppelganger
+103
 Dragon Turtle
+128
 Drakauthix
+129
 Drider (ﬂeshwarp)
+159
 Drow Fighter
+136
 Drow Priestess
+137
 Drow Rogue
+137
 Dryad (nymph)
+246
 Dryad Queen (nymph)
+249
 Duergar Bombardier
+138
 Duergar Sharpshooter
+138
 Duergar Taskmaster
+139
 Dullahan
-Duskwalker Ghost Hunter (planar scion) 262
+140
+Duskwalker Ghost Hunter (planar scion)	262
 Eagle
+141
 Earth Mephit
+150
 Efreeti (genie)
+164
 Elananx
+143
 Electric Eel
+142
 Elemental Avalanche
+147
 Elemental Hurricane
+145
 Elemental Inferno
+149
 Elemental Tsunami
+153
 Elephant
+154
 Erinys (devil)
+89
 Ether Spider
+155
 Ettin
+156
 Faceless Stalker (alghollthu)
+13
 Faerie Dragon
+157
 Fire Giant
+172
 Fire Mephit
+150
 Firewyrm (ﬁre elemental)
+149
 Flame Drake
+131
 Flash Beetle
+41
 Flesh Golem
+184
 Frost Drake
+134
 Frost Giant
+171
 Fungus Leshy
+219
 Gancanagh (azata)
+31
 Gargoyle
+161
 Gelatinous Cube (ooze)
+254
 Gelugon (devil)
+91
 Ghaele (azata)
+33
 Ghast (ghoul)
+169
 Ghost Commoner
+167
 Ghost Mage
+167
 Ghoul
+169
 Giant Anaconda (snake)
+303
 Giant Animated Statue
+21
 Giant Bat
+39
 Giant Centipede
+61
 Giant Eagle
+141
 Giant Flytrap
+160
 Giant Frilled Lizard
+229
 Giant Gecko (lizard)
+228
 Giant Mantis
+233
 Giant Monitor Lizard
+228
 Giant Moray Eel
+142
 Giant Octopus
+250
 Giant Rat
+276
 Giant Scorpion
+285
 Giant Stag Beetle
+41
 Giant Tarantula (spider)
+307
 Giant Viper (snake)
+303
 Giant Wasp
+324
 Gibbering Mouther
+176
 Gimmerling
+177
 Glabrezu (demon)
+79
 Gnoll Cultist
+179
 Gnoll Hunter
+178
 Gnoll Sergeant
+179
 Goblin Commando
+180
 Goblin Dog
+182
 Goblin Pyro
+181
 Goblin War Chanter
+181
 Goblin Warrior
+180
 Gogiteth
+183
 Goliath Spider
+307
 Gorilla (ape)
+23
 Gourd Leshy
+218
 Graveknight
+191
 Great Cyclops
+69
 Great White Shark
+291
 Greater Barghest
+37
 Greater Nightmare
+244
 Greater Shadow
+289
 Green Hag
+201
 Griﬀon
+194
 Grig (sprite)
+308
 Grikkitog
+195
 Grim Reaper
+196
 Grizzly Bear
+40
 Grothlut (ﬂeshwarp)
+158
 Guard Dog
+102
 Guardian Naga
+243
 Gug
+198
 Guthallath
+199
 Harpy
+204
 Hell Hound
+205
 Hill Giant
+170
 Hive Mother (ankhrav)
+22
 Hobgoblin Archer
+207
 Hobgoblin General
+207
 Hobgoblin Soldier
+206
 Homunculus
+208
 Horned Archon
+27
 Hunting Spider
+306
 Hyaenodon (hyena)
+211
 Hydra
+210
 Hyena
+211
 Ice Linnorm
+225
 Imp (devil)
+87
 Invisible Stalker (air elemental)
+144
 Iron Golem
+188
 Janni (genie)
+162
 Jinkin (gremlin)
+193
 Jungle Drake
+132
 Kapoacinth (gargoyle)
+161
 Keketar (protean)
+268
 Kobold Dragon Mage
+213
 Kobold Scout
+213
 Kobold Warrior
+212
 Kolyarut (aeon)
+10
 Kraken
+214
 Krooth
+215
 Lamia
+216
 Lamia Matriarch
+217
 Lantern Archon
+26
 Leaf Leshy
+218
 Legion Archon
+28
 Lemure (devil)
+86
 Leopard (cat)
+52
 Lesser Death (grim reaper)
+197
 Leukodaemon (daemon)
+71
 Lich
+221
 Lillend (azata)
+32
 Lion (cat)
+52
 Living Landslide (earth elemental)
-Living Waterfall (water elemental) 152
+146
+Living Waterfall (water elemental)	 152
 Living Whirlwind (air elemental)
+144
 Living Wildﬁre (ﬁre elemental)
+148
 Lizardfolk Defender
+230
 Lizardfolk Scout
+231
 Lizardfolk Stargazer
+231
 Lyrakien (azata)
+30
 Mammoth (elephant)
+154
 Manticore
+232
 Marid (genie)
+165
 Marilith (demon)
+81
 Medusa
+234
 Megalodon (shark)
+291
 Megaprimatus (ape)
+23
 Merfolk Warrior
+235
 Merfolk Wavepriest
+235
 Mimic
+236
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668856
+4425013
 
-================================================================================
 PAGE 5
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668857
+4425014
 Bestiary
+4
 Minotaur
+237
 Mitﬂit (gremlin)
+192
 Morrigna (psychopomp)
+270
 Mu Spore
+238
 Mukradi
+239
 Mummy Guardian
+240
 Mummy Pharaoh
+240
 Naiad (nymph)
+246
 Naiad Queen (nymph)
+248
 Naunet (protean)
+267
 Nessian Warhound (hell hound)
+205
 Night Hag
+202
 Nightmare
+244
 Nilith
+245
 Nosoi (psychopomp)
+270
 Ochre Jelly (ooze)
+254
 Ofalth
+251
 Ogre Boss
+253
 Ogre Glutton
+252
 Ogre Warrior
+252
 Orc Brute
+256
 Orc Warchief
+257
 Orc Warrior
+257
 Otyugh
+258
 Owlbear
+259
 Pegasus
+260
 Phoenix
+261
 Phistophilus (devil)
+89
 Pit Fiend (devil)
+92
 Pixie (sprite)
+309
 Plague Zombie
+340
 Pleroma (aeon)
+10
 Poltergeist
+264
 Poracha
+265
 Pteranodon (pterosaur)
+272
 Pugwampi (gremlin)
+192
 Purple Worm
+56
 Quasit (demon)
+76
 Quatoid (water elemental)
+152
 Quelaunt
+273
 Quetzalcoatlus (pterosaur)
+272
 Raja Rakshasa
+275
 Rat Swarm
+276
 Ratfolk Grenadier
+277
 Redcap
+278
 Reefclaw
+279
 Remorhaz
+280
 Riding Dog
+102
 Riding Horse
+209
 Riding Pony (horse)
+209
 River Drake
+131
 Roc
+281
 Roper
+282
 Rune Giant
+174
 Rust Monster
+283
 Salamander (ﬁre elemental)
+148
 Satyr
+284
 Scorpion Swarm
+285
 Sea Devil Baron
+287
 Sea Devil Brute
+287
 Sea Devil Scout
+286
 Sea Hag
+200
 Sea Serpent
+288
 Sewer Ooze
+254
 Shadow
+289
 Shaitan (genie)
+163
 Shambler
+290
 Shemhazian (demon)
+80
 Shield Archon
+29
 Shining Child
+292
 Shoggoth
+293
 Shuln
+294
 Simurgh
+295
 Sinspawn
+296
 Skeletal Champion
+298
 Skeletal Giant
+299
 Skeletal Horse
+299
 Skeletal Hulk
+299
 Skeleton Guard
+298
 Skulltaker
+300
 Skum (alghollthu)
+12
 Slurk
+301
 Smilodon (cat)
+53
 Snapping Flytrap
+160
 Sod Hound (earth elemental)
+146
 Soulbound Doll
+304
 Sphinx
+305
 Spider Swarm
+306
 Sprite
+308
 Stegosaurus (dinosaur)
+98
 Stone Giant
+170
 Stone Golem
+187
 Stone Mauler (earth elemental)
+147
 Storm Giant
+173
 Storm Lord (air elemental)
+145
 Succubus (demon)
+77
 Tarn Linnorm
+226
 Tengu Sneak
+310
 Terotricus
+311
 Tidal Master (water elemental)
+153
 Tieﬂing Adept (planar scion)
+262
 Tiger (cat)
+52
 Tor Linnorm
+227
 Treerazer
+312
 Triceratops (dinosaur)
+98
 Troll
+314
 Troll King
+314
 Tyrannosaurus (dinosaur)
+100
 Unicorn
+316
 Uthul
+317
 Vampire Bat Swarm
+39
 Vampire Count
+320
 Vampire Mastermind
+321
 Vampire Spawn Rogue
+320
 Veiled Master (alghollthu)
+15
 Velociraptor (dinosaur)
+96
 Viper (snake)
+302
 Voidworm (protean)
+266
 Vrock (demon)
+78
 War Horse
+209
 War Pony (horse)
+209
 Warg
+322
 Warsworn
+323
 Wasp Swarm
+324
 Water Mephit
+151
 Web Lurker
+325
 Wemmuth
+326
 Wendigo
+327
 Werebear
+330
 Wererat
+329
 Werewolf
+330
 Wight
+332
 Will-O’-Wisp
+333
 Winter Wolf (warg)
+322
 Wolf
+334
 Wraith
+335
 Wyvern (drake)
+133
 Xorn (earth elemental)
+146
 Xulgath Leader
+337
 Xulgath Skulker
+337
 Xulgath Warrior
+336
 Yeti
+338
 Young Black Dragon
+105
 Young Blue Dragon
+107
 Young Brass Dragon
+117
 Young Bronze Dragon
+119
 Young Copper Dragon
+121
 Young Gold Dragon
+124
 Young Green Dragon
+109
 Young Red Dragon
+112
 Young Silver Dragon
+126
 Young White Dragon
+113
 Zaramuun
+339
 Zephyr Hawk (air elemental)
+144
 Zombie Brute
+341
 Zombie Hulk
+341
 Zombie Shambler
+340
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668857
+4425014
 
-================================================================================
 PAGE 6
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668858
+4425015
+5
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Welcome to the Pathﬁnder Bestiary! Inside this tome of
 creatures, you’ll ﬁnd haughty celestials and ravenous
 ﬁends, ﬁerce animals and strange moving plants, new
@@ -602,11 +1123,11 @@ listed here, followed by any special communication abilities.
 If a creature lacks this entry, it cannot communicate with or
 understand another creature through language.
 Skills The creature is trained or better in these skills. For
-untrained skills, use the corresponding ability modiﬁer.
+untrained skills, use the corresponding ability modiﬁer.
 Ability Modiﬁers The creature’s ability modiﬁers are listed here.
 Items Any signiﬁcant gear the creature carries is listed here.
 Interaction Abilities Special abilities that aﬀect how a creature
-perceives and interacts with the world are listed here.
+perceives and interacts with the world are listed here.
 AC, followed by any special bonuses to AC; Saving Throws A
 special bonus to a speciﬁc save appears in parentheses after
 that save’s bonus. Any special bonuses to all three saving
@@ -634,14 +1155,32 @@ Ranged Ȱɵ As Melee, but also lists range or range increment
 with traits, Damage as Melee.
 Spells The entry starts with the magical tradition and
 whether the spells are prepared or spontaneous, followed
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668858
+4425015
 
-================================================================================
 PAGE 7
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668859
+4425016
 Bestiary
+6
 by the DC (and attack modiﬁer if any spells require spell
-attack rolls). Spells are listed by level, followed by cantrips.
+attack rolls). Spells are listed by level, followed by cantrips.
 A spell prepared multiple times lists the number of times
 in parentheses—for example, “(×2).” Spontaneous spells list
 the number of spell slots after the spell level.
@@ -655,7 +1194,7 @@ the end, separated by level. Rules for constant and at-will
 spells appear on page 342 in the Ability Glossary.
 Focus Spells If a creature has focus spells, this entry lists the
 spells’ level, the Focus Points in the creature’s focus pool, the
-DC, and those spells.
+DC, and those spells.
 Rituals Any rituals the creature can cast appear here.
 Oﬀensive or Proactive Abilities Any actions, activities, or
 abilities that automatically aﬀect the creature’s oﬀense, as
@@ -679,7 +1218,7 @@ hand”) and as complex as determining motivations, hopes,
 and dreams for an individual creature. Understanding a
 creature you’re playing also informs what tactics they’ll
 use, as well as whether they are willing to surrender or ﬂee
-when things don’t go their way.
+when things don’t go their way.
 Adjusting Creatures
 Sometimes you might need to customize a creature based
 on the needs of your story or the narrative circumstances as
@@ -707,47 +1246,51 @@ a level –1 creature gives you one closer to 1st level, and
 applying weak adjustments to a 1st-level creature gives
 you one whose level is closer to –1.
 Creatures that cast spells or rely on noncombat abilities
-typically need speciﬁc adjustments to those spells or abilities.
+typically need speciﬁc adjustments to those spells or abilities.
 ELITe ADJUSTMeNTS
 Sometimes you’ll want a creature that’s just a bit more
 powerful than normal so that you can present a challenge
 that would otherwise be trivial, or show that one enemy
 is stronger than its kin. To do this quickly and easily,
 apply the elite adjustments to its statistics as follows:
-• Increase the creature’s AC, attack modiﬁers, DCs,
+•	 Increase the creature’s AC, attack modiﬁers, DCs,
 saving throws, Perception, and skill modiﬁers by 2.
-• Increase the damage of its Strikes and other offensive
+•	 Increase the damage of its Strikes and other offensive
 abilities by 2. If the creature has limits on how many
 times or how often it can use an ability (such as a
 spellcaster’s spells or a dragon’s Breath Weapon),
 increase the damage by 4 instead.
-• Increase the creature’s Hit Points based on its starting
+•	 Increase the creature’s Hit Points based on its starting
 level (see the table below).
 
 Starting Level
 HP Increase
 
 1 or lower
+10
 
 2–4
+15
 
 5–19
+20
 
 20+
+30
 WeaK ADJUSTMeNTS
 Sometimes you’ll want a creature that’s weaker than
 normal so you can use a creature that would otherwise
 be too challenging, or show that one enemy is weaker
 than its kin. To do this quickly and easily, apply the weak
 adjustments to its statistics as follows.
-• Decrease the creature’s AC, attack modiﬁers, DCs,
+•	 Decrease the creature’s AC, attack modiﬁers, DCs,
 saving throws, and skill modiﬁers by 2.
-• Decrease the damage of its Strikes and other offensive
+•	 Decrease the damage of its Strikes and other offensive
 abilities by 2. If the creature has limits on how many
 times or how often it can use an ability (such as a
 spellcaster’s spells or a dragon’s Breath Weapon),
 decrease the damage by 4 instead.
-• Decrease the creature’s HP based on its starting level.
+•	 Decrease the creature’s HP based on its starting level.
 
 Starting Level
 HP Decrease
@@ -763,11 +1306,39 @@ HP Decrease
 
 21+
 –30
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668859
+4425016
 
-================================================================================
 PAGE 8
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668860
+4425017
+7
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Languages
 The languages listed in a creature’s entry are what a typical
 creature of that type knows. However, you might want to
@@ -804,7 +1375,7 @@ for the creature that most closely matches the substitute,
 reduce the attack modiﬁer by 2, and use the damage
 dice for the new Strike. If the creature needs to make an
 unarmed attack and doesn’t have one listed in its stat
-block, it uses the statistics for a ﬁst (Core Rulebook 280).
+block, it uses the statistics for a ﬁst (Core Rulebook 280).
 If the creature loses a weapon with a weapon potency
 rune, you usually should reduce the attack modiﬁer by 2
 plus the bonus granted by the weapon’s potency rune for
@@ -837,7 +1408,7 @@ level and legendary proﬁciency around 13th level.
 At your discretion, creatures with world-class aptitude at
 a particular skill or in Perception, such as a doppelganger
 with Deception, might have a higher rank in that skill
-or Perception.
+or Perception.
 Sidebar Icons
 Each sidebar in a creature section is marked with an icon
 identifying the type of information it contains.
@@ -846,7 +1417,115 @@ Related Creatures
 Additional Lore
 Treasure and Rewards
 Locations
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668860
+4425017
 
-================================================================================
 PAGE 9
 ================================================================================
+
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668861
+4425018
+Bestiary
+8
+Aeon
+Aeons have always been the caretakers of reality and defenders of the natural
+order of balance. Each type of aeon takes on some form of duality in its
+manifestation and works either to shape the multiverse within the aspects
+of this duality in some way, or to correct imbalances to the perfect order of
+existence. Aeons can bring weal or woe when they appear in a region, and
+their machinations can raise a nation, raze it, or restore it from ruin. Their
+reasons are their own, and they rarely share their motivations with others—
+they simply create the results they insist through their strange envisioning
+communication are necessary to maintain the balance of the multiverse.
+As a result of recent shifts in reality, aeons have begun to reassert a
+presence in the perfect planar city of Axis. To the aeons, this is merely the
+latest in a recurring cycle, albeit one that mortals have not yet borne witness
+to. Once regarded as an independent faction, the living machines known as
+inevitables are now revealed as having been agents of the aeons all along, and
+while inevitables have their own shared themes and features, they are very
+much living but constructed manifestations of the aeons’ war against
+imbalance—particularly with regard to how this war is waged against
+the forces of chaos.
+Aeons have a name for this cyclic return, in which they welcome
+the industrious axiomites back to their fold and bring the inevitables
+once again under their control: the “Convergence.” At the onset of the
+Convergence, a council of pleroma aeons appeared in the Eternal City of
+Axis, where they revealed that axiomites were wayward aeons, split off
+long ago to pursue the act of creation. With the latest cycle of change it
+was time for the axiomites and their creations, the inevitables, to rejoin
+the aeon cause. While most axiomites and inevitables fell in line, realizing
+perhaps on a fundamental level of reality that what the aeons said was the
+truth, some refused to heed the call and waited for the wrath of the aeons­—
+but that wrath has yet to come. The dual-natured aeons have responded
+to those who have declined in confusing ways. With some they treat and
+even bargain, while a handful of others they have destroyed, and a few
+have been exterminated by the axiomites and allied inevitables. But most
+of these quiet insurgents they leave alone, allowing these axiomites to
+continue to create in peace and the inevitables to continue with their
+duties. How—or if—this Convergence will end is as little understood as
+the aeons themselves.
+Arbiter
+These spherical inevitables are scouts and diplomats. Found throughout
+the multiverse, they have traditionally kept watch over on chaos and its
+agents. With the announcement of the Convergence, many arbiters now
+serve as go-betweens among the aeon alliance and its mortal associates.
+ARBITER
+CREATURE 1
+LN
+TINY
+AEON
+INEVITABLE
+MONITOR
+Perception +7; darkvision, detect alignment (chaotic only), locate inevitable
+Languages Celestial, Common, Infernal, Utopian
+Skills Acrobatics +9, Axis Lore +5, Diplomacy +6, Stealth +9
+Str +1, Dex +4, Con +2, Int +0, Wis +2, Cha +1
+Locate Inevitable An arbiter can always sense the direction of the nearest non-arbiter
+inevitable on the plane, but it cannot sense the range of the inevitable.
+Items shortsword
+AC 16; Fort +5, Ref +7, Will +7; +1 status to all saves vs. magic
+HP 22; Immunities death eﬀects, disease, emotion, poison, unconscious; Weaknesses
+chaotic 3; Resistances electricity 3
+Speed 20 feet, ﬂy 40 feet
+AEON DIVINITIES
+Whether the aeons serve an actual
+divinity, a philosophical concept,
+or merely a “supreme oneness” is
+a topic hotly debated by planar
+scholars. The aeons themselves
+are silent, referring to this being or
+concept as the Monad, a “condition
+of all.” Regardless of what the
+Monad actually is, there certainly
+exists another category of powerful
+aeons—the primal inevitables, each
+a unique demigod with its own
+powers and goals. Relatively few
+primal inevitables remain today,
+for nearly three-quarters of their
+irreplaceable kind have fallen in the
+endless battle with the inexorable
+forces of entropy.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668861
+4425018

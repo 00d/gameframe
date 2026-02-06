@@ -134,6 +134,8 @@ Weapon Traits
 Sword cane
 5 gp
 1d6 P
+1
+1
 Sword
 Agile, concealable, finesse
 Uncommon Martial Weapons Price Damage Bulk Hands Group
@@ -142,23 +144,28 @@ Claw blade
 2 gp
 1d4 S
 L
+1
 Knife
 Agile, catfolk, deadly d8, disarm, finesse, versatile P
 Khakkara
 2 gp
 1d6 B
+1
+1
 Club
 Shove, two-hand d10, versatile P
 Tengu gale blade
 4 gp
 1d6 S
 L
+1
 Sword
 Agile, disarm, finesse, tengu
 Wakizashi
 1 gp
 1d4 S
 L
+1
 Sword
 Agile, deadly d8, finesse, versatile P
 TABLE 6–2: RANGED WEAPONS
@@ -173,6 +180,7 @@ Bola
 20 ft.
 —
 L
+1
 Sling
 Nonlethal, ranged trip, thrown
 Uncommon Advanced Weapons
@@ -185,6 +193,7 @@ Daikyu
 1d8 P
 80 ft.
 —
+2
 1+
 Bow
 —
@@ -196,26 +205,35 @@ Hands
 Brass ear
 1 gp
 —
+1
 Concealed sheath (level 3)
 25 gp
 —
 —
 Detective’s kit (level 3)
 25 gp
+1
+2
 Dueling cape
 5 sp
 L
+1
 Net
 1 gp
+1
+2
 Parrying scabbard
 5 sp
 L
+1
 Periscope (level 2)
 25 gp
 L
+2
 Advanced Player's Guide
+248
+248
 
-================================================================================
 PAGE 250
 ================================================================================
 
@@ -264,7 +282,8 @@ that requires two hands; if used without being refolded,
 Grapple checks made with the net take a –2 penalty.
 When the net is unattached, you can attempt a ranged
 attack roll against a Medium or smaller creature within
-20 feet. On a hit, the target is flat-footed and takes a –10foot circumstance penalty to its Speeds until it Escapes,
+20 feet. On a hit, the target is flat-footed and takes a –10-
+foot circumstance penalty to its Speeds until it Escapes,
 and on a critical hit, it’s also immobilized until it Escapes.
 The Escape DC is 16. A creature adjacent to the target
 can Interact to remove the net.
@@ -319,8 +338,20 @@ you might purchase with your leftover money to fit your character. Note than an 
 in each kit, is 1 Bulk and contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’
 rations, soap, 5 torches, and a waterskin.
 Items
+6
+249
+249
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 251
 ================================================================================
 
@@ -339,43 +370,56 @@ Page
 Blight bomb, lesser
 Bomb
 3 gp
+252
 Dread ampoule, lesser
 Bomb
 3 gp
+253
 Ghost charge, lesser
 Bomb
 3 gp
+253
 Shielding salve
 Consumable
 4 gp
+259
 Drakeheart mutagen,
 Elixir
 4 gp
+253
 lesser
 Oil of unlife, minor
 Oil
 4 gp
+258
 Gecko potion
 Potion
 3 gp
+257
 Potion of expeditious retreat
 Potion
 3 gp
+258
 Potion of retaliation, minor
 Potion
 4 gp
+259
 Potion of shared memories
 Potion
 4 gp
+259
 Ration tonic
 Potion
 3 gp
+259
 Forensic dye
 Tool
 3 gp
+254
 Ghost ink
 Tool
 3 gp
+255
 1st-Level Permanent Items
 Category
 Price
@@ -383,9 +427,11 @@ Page
 Predictable silver piece
 Held
 3 gp
+262
 Walking cauldron
 Held
 12 gp
+264
 2nd-Level Consumables
 Category
 Price
@@ -393,21 +439,27 @@ Page
 Antler arrow
 Ammunition
 7 gp
+256
 Focus cathartic, lesser
 Elixir
 5 gp
+253
 Sinew-shock serum, lesser
 Elixir
 5 gp
+254
 Flare snare
 Snare
 5 gp
+256
 Bloodhound mask, lesser
 Tool
 6 gp
+254
 Origin unguent
 Tool
 6 gp
+255
 2nd-Level Permanent Items
 Category
 Price
@@ -415,6 +467,7 @@ Page
 Glamorous buckler
 Shield
 35 gp
+261
 3rd-Level Consumables
 Category
 Price
@@ -422,25 +475,32 @@ Page
 Blight bomb, moderate
 Bomb
 10 gp
+252
 Dread ampoule, moderate
 Bomb
 10 gp
+253
 Ghost charge, moderate
 Bomb
 10 gp
+253
 Drakeheart mutagen,
 Elixir
 12 gp
+253
 moderate
 Olfactory obfuscator
 Elixir
 9 gp
+254
 Oil of unlife, lesser
 Oil
 12 gp
+258
 Potion of retaliation, lesser
 Potion
 12 gp
+259
 3rd-Level Permanent Items
 Category
 Price
@@ -448,6 +508,7 @@ Page
 Rope of climbing, lesser
 Held
 45 gp
+262
 4th-Level Consumables
 Category
 Price
@@ -455,19 +516,24 @@ Page
 Crystal shards, moderate
 Bomb
 16 gp
+252
 Focus cathartic, moderate
 Elixir
 15 gp
+253
 Sinew-shock serum,
 Elixir
 15 gp
+254
 moderate
 Leadenleg
 Poison
 15 gp
+254
 Timeless salts
 Tool
 14 gp
+255
 4th-Level Permanent Items
 Category
 Price
@@ -475,21 +541,26 @@ Page
 Sleeves of storage
 Worn
 100 gp
+263
 5th-Level Consumables
 Category
 Price
 Page
 Freezing ammunition
 Ammunition 25 gp
+257
 Oil of revelation
 Oil
 25 gp
+258
 Potion of disguise, lesserU
 Potion
 30 gp
+258
 Universal solvent, moderate
 Tool
 21 gp
+255
 5th-Level Permanent Items
 Category
 Price
@@ -497,34 +568,43 @@ Page
 Rope of climbing, moderate
 Held
 125 gp
+262
 Fearsome
 Rune
 160 gp
+260
 Exploding shield
 Shield
 25 gp
+260
 Infiltrator’s accessory
 Weapon
 150 gp
+261
 6th-Level Consumables
 Category
 Price
 Page
 Terrifying ammunition
 Ammunition 50 gp
+259
 Oil of unlife, moderate
 Oil
 50 gp
+258
 Potion of retaliation,
 Potion
 50 gp
+259
 moderate
 Nauseating snare
 Snare
 40 gp
+256
 Bloodhound mask,
 Tool
 40 gp
+254
 moderate
 6th-Level Permanent Items
 Category
@@ -533,32 +613,41 @@ Page
 Ready
 Rune
 200 gp
+262
 Staff of impossible visionsU
 Staff
 230 gp
+263
 Staff of providence
 Staff
 230 gp
+264
 Wand of hopeless night 2nd
 Wand
 250 gp
+265
 7th-Level Consumables
 Category
 Price
 Page
 Corrosive ammunition
 Ammunition 70 gp
+257
 Candle of revealing
 Consumable 60 gp
+257
 Ration tonic, greater
 Potion
 55 gp
+259
 Skinstitch salve
 Tool
 55 gp
+255
 Sovereign glue
 Tool
 55 gp
+255
 7th-Level Permanent Items
 Category
 Price
@@ -566,24 +655,30 @@ Page
 Rope of climbing, greater
 Held
 300 gp
+262
 Wand of the spider 2nd
 Wand
 360 gp
+265
 Spellguard blade
 Weapon
 320 gp
+263
 8th-Level Consumables
 Category
 Price
 Page
 Dust of corpse animationU
 Consumable 100 gp
+257
 Oil of object animationU
 Oil
 85 gp
+258
 Potion of disguise,
 Potion
 100 gp
+258
 moderateU
 8th-Level Permanent Items
 Category
@@ -592,13 +687,16 @@ Page
 Wand of crackling
 Wand
 500 gp
+265
 lightning 3rd
 Spiritsight crossbowU
 Weapon
 450 gp
+263
 Lover’s gloves
 Worn
 500 gp
+261
 9th-Level Consumables
 Category
 Price
@@ -606,6 +704,7 @@ Page
 Basilisk eye
 Talisman
 150 gp
+256
 9th-Level Permanent Items
 Category
 Price
@@ -613,21 +712,27 @@ Page
 Victory plateU
 Armor
 675 gp
+264
 Earthsight boxU
 Held
 575 gp
+260
 Urn of ashes
 Held
 700 gp
+264
 Wand of overflowing life 3rd
 Wand
 700 gp
+265
 Mask of the banshee
 Worn
 700 gp
+261
 Sleeves of storage, greater
 Worn
 600 gp
+263
 10th-Level Consumables
 Category
 Price
@@ -635,12 +740,15 @@ Page
 Olfactory obfuscator, greater
 Elixir
 225 gp
+254
 Snagging hook snare
 Snare
 180 gp
+256
 Advanced Player's Guide
+250
+250
 
-================================================================================
 PAGE 252
 ================================================================================
 
@@ -651,19 +759,24 @@ Page
 Staff of nature’s vengeance
 Staff
 900 gp
+263
 Staff of providence, greater
 Staff
 900 gp
+264
 Wand of crackling
 Wand
 1,000 gp
+265
 lightning 4th
 Wand of hopeless night 4th
 Wand
 1,000 gp
+265
 Fire-jump ringU
 Worn
 940 gp
+260
 11th-Level Consumables
 Category
 Price
@@ -671,21 +784,27 @@ Page
 Blight bomb, greater
 Bomb
 250 gp
+252
 Dread ampoule, greater
 Bomb
 300 gp
+253
 Ghost charge, greater
 Bomb
 250 gp
+253
 Drakeheart mutagen, greater
 Elixir
 300 gp
+253
 Potion of disguise, greaterU
 Potion
 300 gp
+258
 Bloodhound mask, greater
 Tool
 250 gp
+254
 11th-Level Permanent Items
 Category
 Price
@@ -693,15 +812,19 @@ Page
 Ready, greater
 Rune
 1,200 gp
+262
 Wand of overflowing life 4th
 Wand
 1,400 gp
+265
 Wand of the spider 4th
 Wand
 1,400 gp
+265
 Envisioning mask
 Worn
 1,200 gp
+260
 12th-Level Consumables
 Category
 Price
@@ -709,26 +832,34 @@ Page
 Crystal shards, greater
 Bomb
 350 gp
+252
 Incense of distilled death
 Consumable 350 gp
+257
 Focus cathartic, greater
 Elixir
 325 gp
+254
 Sinew-shock serum, greater
 Elixir
 325 gp
+254
 Oil of unlife, greater
 Oil
 400 gp
+258
 Potion of retaliation, greater
 Potion
 400 gp
+259
 Balisse feather
 Talisman
 400 gp
+256
 Universal solvent, greater
 Tool
 325 gp
+255
 12th-Level Permanent Items
 Category
 Price
@@ -736,13 +867,16 @@ Page
 Fearsome, greater
 Rune
 2,000 gp
+260
 Staff of impossible visions,
 Staff
 1,800 gp
+263
 greaterU
 Four-ways dogslicerU
 Weapon
 1,700 gp
+261
 13th-Level Consumables
 Category
 Price
@@ -750,6 +884,7 @@ Page
 Time shield potion
 Potion
 600 gp
+259
 13th-Level Permanent Items
 Category
 Price
@@ -757,18 +892,23 @@ Page
 Slates of distant letters
 Held
 2,450 gp
+262
 Medusa’s scream
 Shield
 3,000 gp
+261
 Winged
 Rune
 2,500 gp
+265
 Wand of overflowing life 5th
 Wand
 3,000 gp
+265
 Hellfire boots
 Worn
 3,000 gp
+261
 14th-Level Consumables
 Category
 Price
@@ -776,6 +916,7 @@ Page
 Engulfing snare
 Snare
 900 gp
+256
 14th-Level Permanent Items
 Category
 Price
@@ -783,17 +924,21 @@ Page
 Staff of nature’s vengeance,
 Staff
 4,000 gp
+263
 greater
 Staff of providence, major
 Staff
 4,100 gp
+264
 Wand of crackling
 Wand
 4,500 gp
+265
 lightning 6th
 Wand of the snowfields 5th
 Wand
 4,500 gp
+265
 15th-Level Permanent Items
 Category
 Price
@@ -801,27 +946,34 @@ Page
 Victory plate, greaterU
 Armor
 5,500 gp
+264
 Wand of overflowing life 6th
 Wand
 6,500 gp
+265
 Earthglide cloak
 Worn
 6,500 gp
+260
 16th-Level Consumables
 Category
 Price
 Page
 Candle of invocationU
 Consumable 2,000 gp
+256
 Cerulean scourge
 Poison
 1,450 gp
+254
 Dust of corpse animation,
 Consumable 1,500 gp
+257
 greaterU
 Oil of object animation, greaterU
 Oil
 1,400 gp
+258
 16th-Level Permanent Items
 Category
 Price
@@ -829,9 +981,10 @@ Page
 Medusa’s scream, greater
 Shield
 9,000 gp
+262
 Staff of impossible visions,
 Staff
-10,000 gp 263
+10,000 gp  263
 majorU
 17th-Level Consumables
 Category
@@ -840,22 +993,26 @@ Page
 Blight bomb, major
 Bomb
 2,500 gp
+252
 Dread ampoule, major
 Bomb
 3,000 gp
+253
 Ghost charge, major
 Bomb
 2,500 gp
+253
 Drakeheart mutagen, major
 Elixir
 3,000 gp
+253
 17th-Level Permanent Items
 Category
 Price
 Page
 Wand of overflowing life 7th
 Wand
-15,000 gp 265
+15,000 gp  265
 18th-Level Consumables
 Category
 Price
@@ -863,63 +1020,81 @@ Page
 Crystal shards, major
 Bomb
 4,000 gp
+253
 Focus cathartic, major
 Elixir
 3,250 gp
+254
 Sinew-shock serum, major
 Elixir
 3,250 gp
+254
 Oil of unlife, major
 Oil
 5,000 gp
+258
 Potion of retaliation, major
 Potion
 5,000 gp
+259
 Universal solvent, major
 Tool
 3,250 gp
+255
 18th-Level Permanent Items
 Category
 Price
 Page
 Staff of nature’s vengeance,
 Staff
-24,000 gp 263
+24,000 gp  263
 major
 Wand of crackling
 Wand
-24,000 gp 265
+24,000 gp  265
 lightning 8th
 Wand of the snowfields 7th
 Wand
-24,000 gp 265
+24,000 gp  265
 19th-Level Permanent Items
 Category
 Price
 Page
 Winged, greater
 Rune
-35,000 gp 265
+35,000 gp  265
 Wand of overflowing life 8th
 Wand
-40,000 gp 265
+40,000 gp  265
 Mask of the banshee, greater
 Worn
-35,000 gp 261
+35,000 gp  261
 20th-Level Permanent Items Category
 Price
 Page
 Rod of cancellationR
 Held
-75,000 gp 262
+75,000 gp  262
 Staff of impossible visions, trueU Staff
-70,000 gp 263
+70,000 gp  263
 Staff of providence, true
 Staff
-64,000 gp 264
+64,000 gp  264
 Items
+6
+251
+251
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 253
 ================================================================================
 
@@ -934,92 +1109,178 @@ TABLE 6–5: ALCHEMICAL ITEMS BY LEVEL
 Level
 Item
 Category Page
+1
 Blight bomb, lesser
 Bomb
+252
+1
 Dread ampoule, lesser
 Bomb
+253
+1
 Ghost charge, lesser
 Bomb
+253
+1
 Drakeheart mutagen, lesser
 Elixir
+253
+1
 Forensic dye
 Tools
+254
+1
 Ghost ink
 Tools
+255
+2
 Focus cathartic, lesser
 Elixir
+253
+2
 Sinew-shock serum, lesser
 Elixir
+254
+2
 Bloodhound mask, lesser
 Tools
+254
+2
 Origin unguent
 Tools
+255
+3
 Blight bomb, moderate
 Bomb
+252
+3
 Dread ampoule, moderate
 Bomb
+253
+3
 Ghost charge, moderate
 Bomb
+253
+3
 Drakeheart mutagen, moderate
 Elixir
+253
+3
 Olfactory obfuscator
 Elixir
+254
+4
 Crystal shards, moderate
 Bomb
+252
+4
 Focus cathartic, moderate
 Elixir
+253
+4
 Sinew-shock serum, moderate
 Elixir
+254
+4
 Leadenleg
 Poison
+254
+4
 Timeless salts
 Tools
+255
+5
 Universal solvent, moderate
 Tools
+255
+6
 Bloodhound mask, moderate
 Tools
+254
+7
 Skinstitch salve
 Tools
+255
+7
 Sovereign glue
 Tools
+255
+10
 Olfactory obfuscator, greater
 Elixir
+254
+11
 Blight bomb, greater
 Bomb
+252
+11
 Dread ampoule, greater
 Bomb
+253
+11
 Ghost charge, greater
 Bomb
+253
+11
 Drakeheart mutagen, greater
 Elixir
+253
+11
 Bloodhound mask, greater
 Tools
+254
+12
 Crystal shards, greater
 Bomb
+252
+12
 Focus cathartic, greater
 Elixir
+253
+12
 Sinew-shock serum, greater
 Elixir
+254
+12
 Universal solvent, greater
 Tools
+255
+16
 Cerulean scourge
 Poison
+254
+17
 Blight bomb, major
 Bomb
+252
+17
 Dread ampoule, major
 Bomb
+253
+17
 Ghost charge, major
 Bomb
+253
+17
 Drakeheart mutagen, major
 Elixir
+253
+18
 Crystal shards, major
 Bomb
+253
+18
 Focus cathartic, major
 Elixir
+254
+18
 Sinew-shock serum, major
 Elixir
+254
+18
 Universal solvent, major
 Tools
+255
 ALCHEMICAL BOMBS
 Alchemical bombs are martial thrown weapons with
 a range increment of 20 feet. See page 544 of the Core
@@ -1087,8 +1348,9 @@ Type greater; Level 12; Price 350 gp
 The item bonus is +2. The bomb deals 3d4 piercing damage
 and 5 piercing splash damage.
 Advanced Player's Guide
+252
+252
 
-================================================================================
 PAGE 254
 ================================================================================
 
@@ -1222,8 +1484,20 @@ The serum has a +6 counteract modifier.
 Type moderate; Level 4; Price 15 gp
 The serum has a +8 counteract modifier.
 Items
+6
+253
+253
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 255
 ================================================================================
 
@@ -1238,7 +1512,8 @@ CONSUMABLE
 ELIXIR
 Usage held in 1 hand; Bulk L
 Activate [one-action] Interact
-This frothing fluid causes the drinker’s body to exude trace odorabsorbing oils. For the listed duration after drinking this elixir,
+This frothing fluid causes the drinker’s body to exude trace odor-
+absorbing oils. For the listed duration after drinking this elixir,
 your scent is nearly unnoticeable. Creatures with imprecise
 scent don’t detect you with that sense unless they Seek for
 you, and you are concealed from creatures that perceive you
@@ -1351,8 +1626,9 @@ minutes, during which time you can spend 1 minute to brush
 it onto a single object of up to 1 Bulk or across the ground in a
 single 5-foot square. Where the dye comes in contact with an
 Advanced Player's Guide
+254
+254
 
-================================================================================
 PAGE 256
 ================================================================================
 
@@ -1477,8 +1753,20 @@ The serum has a counteract modifier of +19.
 Type major; Level 18; Price 3,250 gp
 The serum has a counteract modifier of +28.
 Items
+6
+255
+255
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 257
 ================================================================================
 
@@ -1622,8 +1910,9 @@ Price 2,000 gp
 Usage held in 1 hand; Bulk —
 Activate [one-action] Interact
 Advanced Player's Guide
+256
+256
 
-================================================================================
 PAGE 258
 ================================================================================
 
@@ -1755,8 +2044,20 @@ creatures, including incorporeal undead, gain
 fast healing 4 while in the area; though this
 healing comes from negative energy, it doesn’t
 Items
+6
+257
+257
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 259
 ================================================================================
 
@@ -1891,8 +2192,9 @@ Usage held in 1 hand; Bulk L
 Activate [one-action] Interact
 The stopper for a potion of expeditious retreat is crafted to
 Advanced Player's Guide
+258
+258
 
-================================================================================
 PAGE 260
 ================================================================================
 
@@ -2030,8 +2332,20 @@ determine that other changes that occurred while you were
 outside of time (such as the ground beneath you crumbling)
 also affect you upon your return.
 Items
+6
+259
+259
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 261
 ================================================================================
 
@@ -2169,8 +2483,9 @@ reemerge from any of those fires, either within the fire
 or adjacent to it. If you end your movement in the fire, it
 affects you as normal.
 Advanced Player's Guide
+260
+260
 
-================================================================================
 PAGE 262
 ================================================================================
 
@@ -2238,7 +2553,8 @@ MAGICAL
 Price 150 gp
 Usage held in 1 hand; Bulk 1
 This elegant +1 striking sword cane serves equally well as a
-fashionable accessory and hidden weapon suitable for highsociety events where weapons aren’t typically permitted.
+fashionable accessory and hidden weapon suitable for high-
+society events where weapons aren’t typically permitted.
 Activate [one-action] Interact; Effect You twist the sword cane’s hilt,
 magically merging the blade into the cane. While
 the blade is merged, it can’t be drawn and gains the
@@ -2306,8 +2622,20 @@ this steel shield (Hardness 13, HP 52, BT 26). The shield comes
 with a thick leather cover to conceal the head.
 Activate [two-actions] Interact (visual); Frequency once per day;
 Items
+6
+261
+261
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 263
 ================================================================================
 
@@ -2430,8 +2758,9 @@ Activate [two-actions] Interact; Frequency
 once per hour; Effect You use a
 piece of chalk to write up to 25
 Advanced Player's Guide
+262
+262
 
-================================================================================
 PAGE 264
 ================================================================================
 
@@ -2561,8 +2890,20 @@ Type major staff of nature’s vengeance; Level 18; Price
 • 7th sunburst, volcanic eruption
 • 8th earthquake, punishing winds
 Items
+6
+263
+263
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 265
 ================================================================================
 
@@ -2693,8 +3034,9 @@ feet and can be used as a suitable tool to Craft
 potions, oils, or other liquids.
 As a single action, which has the auditory
 Advanced Player's Guide
+264
+264
 
-================================================================================
 PAGE 266
 ================================================================================
 
@@ -2828,8 +3170,20 @@ Once activated, the wings remain tangible indefinitely. You
 can Dismiss the activation if you choose, and you don’t have
 to wait an hour to activate the rune again.
 Items
+6
+265
+265
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 267
 ================================================================================
 
@@ -2994,8 +3348,9 @@ rules and concepts, and full definitions for the traits
 appearing in this book. Many entries refer to the Core
 Rulebook using the abbreviation “CR.”
 Advanced Player's Guide
+266
+266
 
-================================================================================
 PAGE 268
 ================================================================================
 
@@ -3168,8 +3523,19 @@ feat. CR 255
 gnome (trait) A creature with this trait is a member of the gnome
 ancestry. Gnomes are small people skilled at magic who seek out new
 Glossary & Index
+267
+267
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 269
 ================================================================================
 
@@ -3346,8 +3712,9 @@ magic item effect, like a summoned minion, you Sustain a Spell or
 Sustain an Activation; if not otherwise specified, you issue a verbal
 command as a single action with the auditory and concentrate traits.
 Advanced Player's Guide
+268
+268
 
-================================================================================
 PAGE 270
 ================================================================================
 
@@ -3515,8 +3882,19 @@ cast them if you don’t have an oracular curse. 69–70, 229–234
 rogue (class) 134–137, CR 178–189
 rogue (trait) This indicates abilities from the rogue class.
 Glossary & Index
+269
+269
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 271
 ================================================================================
 
@@ -3685,8 +4063,9 @@ using a part of your body rather than a weapon or spell. CR 283
 uncommon (trait) Something of uncommon rarity requires special training
 or comes from a particular culture or part of the world. Some character
 Advanced Player's Guide
+270
+270
 
-================================================================================
 PAGE 272
 ================================================================================
 
@@ -3883,11 +4262,23 @@ Pathfinder Tales, Starfinder Adventure Path, Starfinder Combat Pad, Starfinder F
 Roleplaying Game, and Starfinder Society are trademarks of Paizo Inc.
 Printed in China.
 Glossary & Index
+271
+271
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 273
 ================================================================================
 
+HARDCOVER $34.99
 HARDCOVER $34.99
 LOST OMENS GODS & MAGIC OFFERS DETAILS ON MAJOR GODS FOUND IN THE INNER SEA REGION, INCLUDING WHAT FORMS
 THEIR PLEASURE OR WRATH MIGHT TAKE. IT ALSO PRESENTS RULES FOR OVER A HUNDRED OTHER DEITIES AND PHILOSOPHIES
@@ -3896,11 +4287,13 @@ SO YOU CAN FIND THE CAUSE THAT BEST FITS YOUR CONVICTIONS AND TAKE UP WEAPONS AN
 the Pathfinder P logo, Pathfinder Adventure Path, Pathfinder Roleplaying Game, and Pathfinder Lost Omens are trademarks of Paizo Inc.
 paizo.com/pathfinder
 LOST OMENS
+LOST OMENS
+Gods & Magic
 Gods & Magic
 Second Edition
 TEST YOUR CONVICTIONS
+TEST YOUR CONVICTIONS
 
-================================================================================
 PAGE 274
 ================================================================================
 
@@ -3915,6 +4308,7 @@ spells, and items provide more opportunities for customization than ever before.
 paizo.com/pathfinder
 us $49.99
 ISBN 978-1-64078-25 7-0
+1
 111111 54999>
 . , .... ,~J 111
 Printed in China.

@@ -82,114 +82,145 @@ they may work together.
 PAGE 12
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868509
+4425021
+A-C
+A-C
+1111
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
+BYTHOS
+CREATURE 16
+UNCOMMON
+LN
+LARGE
+AEON
+MONITOR
+Perception +30; darkvision
+Languages envisioning
+Skills Athletics +32, Arcana +29, Deception +25, Intimidation+25, Nature +30, Occultism
++29, Religion +30, Stealth +26
+Str +8, Dex +4, Con +5, Int +7, Wis +8, Cha +5
+Envisioning As theletos.
+AC 39; Fort +25, Ref +26, Will +30; +1 status to all saves vs. magic
+HP 245, regeneration 15 (deactivated by chaotic); Weaknesses chaotic 15
+Confusing Gaze (aura, divine, enchantment, emotion, incapacitation, mental, visual) 30
+feet. A creature that ends its turn in the aura must attempt a DC 34 Will save. If it fails,
+it’s confused for 1 round (or 1d4 rounds on a critical failure).
+Temporal Reversion Ȳ˓ (fortune) Trigger The bythos fails or critically fails a check; Frequency
+once per day; Eﬀect The bythos rerolls the triggering check and takes the better result.
+Speed ﬂy 35 feet
+Melee Ȱɵ ﬁst +32 (lawful, magical, reach 10
+feet), Damage 2d8+16 bludgeoning plus
+2d8 cold and 2d8 lawful
+Divine Innate Spells DC 37; 8th augury (at
+will), teleport; 7th dimensional anchor,
+dimensional lock, haste, plane shift; 6th
+slow; 4th dimensional anchor (at will)
+Rituals DC 37; imprisonment (temporal stasis only)
+Aging Strikes ʚʖ (divine, necromancy) The bythos
+make two ﬁst Strikes against a single target. If both
+Strikes hit, the target attempts a DC 37 Fortitude
+save. Creatures that don’t get weaker with age or
+don’t age are immune (GM’s discretion). If a creature becomes clumsy 4,
+drained 4, and enfeebled 4 due to Aging Strikes, it dies of old age.
+Success The creature is unaﬀected.
+Failure The creature becomes clumsy 1, drained 1, and enfeebled 1,
+or increases each of these conditions by 1. This eﬀect is
+cumulative with other aging strikes from bythoses, to a
+maximum of clumsy 4, drained 4, and enfeebled 4.
+Critical Failure As failure, but the creature becomes
+clumsy 2, drained 2, and enfeebled 2, or increases
+these conditions by 2.
+Focused Gaze Ȱɵ (concentrate) The bythos focuses its
+gaze on a creature it can see within 30 feet. The
+target must attempt a save against the bythos’s
+confusing gaze. A bythos can’t use this ability
+against the same creature more than once per turn.
+Temporal Flurry ʚʖ The bythos makes four ﬁst
+Strikes. Its multiple attack penalty increases normally
+with each attack.
+Temporal Strike ʚʖ (divine, conjuration, incapacitation, teleportation) The
+bythos touches a creature or object to displace it from time. The target
+attempts a DC 37 Fortitude save.
+Critical Success The target is unaﬀected.
+Success Time ﬂows around the target; the target is slowed 1 for 1 round.
+Failure The target disappears from the present moment and reappears
+in the same location 1d4 rounds later as if no time had passed for it.
+If a creature or object occupies that space when the target returns, the
+target appears in the closest available space to its original location.
+Critical Failure As failure, but the target is slowed 1 for an extra 1d4 rounds after
+it returns.
+GUARDIANS OF TIME
+Bythos aeons have no innate ability
+to directly enter the mysterious
+Dimension of Time, but many know
+of the hidden routes in the Great
+Beyond one can use to travel to this
+strange realm. A bythos prefers to
+destroy those who seek entrance to
+the Dimension of Time rather than
+risk the knowledge of how to reach it
+spreading too far.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868509
+4425021
 
-================================================================================
-# MOVANIC DEVA
-================================================================================
-
-
-Bestiary 2
-Angel
-Angels are benevolent messengers who aid good forces in the ﬁght against evil.
-Each angel has a special aura that assists in their individual tasks, and each angel
-delivers certain types of messages and performs other duties for the angelic
-hosts. While most angels live in the enlightened realm of Nirvana, some serve
-the forces of Heaven and Elysium, especially in the case of the angel empyreal
-lords within those two realms. Angels organize themselves into choirs depending
-on their ranks and roles.
-MOVANIC DEVA (GUARDIAN ANGEL)
-Movanic devas are stewards of the ﬂow of good creatures’ souls through the cycle
-of life and death, from the point a creature is born to the day it dies. These angels
-arise from the souls of stalwart nurturers and protectors, and share a speciﬁc
-connection with a creature’s vital essence—its life force. Movanic devas are most
-concerned with guiding and protecting good creatures during their mortal lives,
-so once a soul has passed into the River of Souls, the movanic deva
-leaves its protection to the soul angels, or monadic devas. As part of
-their stewardship over good creatures, movanic devas can waken within
-animals a level of sapience to allow them to become kindly and benevolent
-as well, thus increasing the ﬂow of goodness into the afterlife. They also
-spend time patrolling the Positive Energy Plane and Negative Energy
-Plane, seeking to contain signiﬁcant threats to life.
-MOVANIC DEVA
-CREATURE 10
-NG
-MEDIUM
-ANGEL
-CELESTIAL
-Perception +22; darkvision
-Skills Athletics +20, Diplomacy +22, Intimidation +22, Nature +22,
-Religion +19, Stealth +17, Survival +17
-Languages Celestial, Draconic, Infernal; tongues
-Str +6, Dex +4, Con +4, Int +4, Wis +5, Cha +5
-Items +1 striking bastard sword
-AC 30; Fort +21, Ref +17, Will +19; +1 to all saves vs. magic
-HP 195; Immunities negative; Weaknesses evil 10
-Aura of Vitality (abjuration, aura, divine) 20 feet. Allies in the
-movanic deva’s aura gain a +1 status bonus to all saving
-throws, resistance 10 to positive and negative damage,
-and are unharmed by the eﬀects of a plane’s positive and
-negative traits. Animals in the aura of 12th level or lower
-don’t attack the movanic deva or the deva’s allies unless
-they are controlled or otherwise forced to attack.
-Speed 30 feet, ﬂy 40 feet
-Melee Ȱɵ ﬂaming bastard sword +23 (good, magical, two-hand
-d12), Damage 2d8+9 slashing plus 1d6 ﬁre and 1d6 good
-Divine Innate Spells DC 29; 5th divine wrath, remove curse,
-remove disease, remove fear; 4th create food, heal (×3); 2nd
-invisibility (at will, self only); 1st detect alignment (at will, evil
-only); Constant (5th) tongues
-Rituals DC 29; angelic messenger, awaken animal
-Dispelling Field ʚʖ (divine, transmutation) Frequency once per
-day; Eﬀect The movanic deva attempts to unravel unwelcome
-magic eﬀects on allies within its aura of vitality to protect them
-from malevolent forces. The movanic deva attempts a counteract
-check against as many spell eﬀects aﬀecting allies in the area as it
-wishes with a +19 counteract modiﬁer and a counteract level of 4,
-rolling once for the selected eﬀects.
-Flaming Armaments (divine, transmutation) When a movanic deva wields
-a weapon, that weapon gains the eﬀect of a ﬂaming rune.
-THE GIFT OF SAPIENCE
-When a movanic deva awakens an
-animal, the animal becomes neutral
-good and is well-disposed toward
-the deva, but the deva understands
-that free will is an important part of
-life. While the deva provides enough
-support and guidance to the animal
-to help it adjust to its newly sapient
-world view, not all animals awakened
-in this way remain on the path of good.
-
-================================================================================
 PAGE 16
 ================================================================================
 
-WHAT IS A DEVA?
-Three types of devas exist among
-the angelic host, all of which serve
-as angelic “ﬁeld agents.” Of the types
-of angels, devas are the ones most
-likely to be encountered dwelling
-somewhere other than Nirvana, as
-these angels focus their work on
-cultivating and protecting goodness
-in mortal souls, be they living or dead.
-MONADIC DEVA (SOUL ANGEL)
-Monadic devas stand vigil along the River of Souls as it passes from the mortal
-realm into the Ethereal Plane. Those who seek to ﬁsh souls out for their own use
-stalk this metaphysical river, and it is against these predators that monadic devas
-ﬁght. At other times, monadic devas work to guide newcomers to the River of
-Souls who might be in danger of drifting from the current and lingering as ghosts.
-Monadic devas often ﬁnd their tasks place them in alliances with psychopomps,
-and they work well with the monitors despite the philosophical divide between
-their views on a soul’s inherent goodness. A monadic deva is 7 feet tall and weighs
-220 pounds.
-
-================================================================================
-# MONADIC DEVA
-================================================================================
-
-
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868513
+4425025
+A-C
+A-C
+1515
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 WHAT IS A DEVA?
 Three types of devas exist among
 the angelic host, all of which serve
@@ -263,12 +294,36 @@ importance of diplomacy, but they know that others among the angelic
 hosts are better suited to that task, while they focus on the larger picture.
 In angelic armies, planetars serve as commanders or generals. They
 stand at least 9 feet tall and weigh over 500 pounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868513
+4425025
 
-================================================================================
 PAGE 17
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868514
+4425026
 Bestiary 2
+1616
 PLANETAR JUSTICE
 Planetars know pathways to travel
 between many planes of existence,
@@ -280,95 +335,102 @@ situation can be resolved with swift
 on-the-spot justice, a planetar takes
 that route in hopes of staving oﬀ an
 escalation of violence.
-
-================================================================================
-# MELADAEMON
-================================================================================
-
-
-FORMED IN HIS IMAGE
-Meladaemons have always been
-gaunt and bestial, but they didn’t
-always resemble jackals. When
-Trelmarixian overthrew the previous
-Horseman of Famine, one of his
-ﬁrst acts as a ruler of Abaddon was
-to forcibly twist the appearance of
-his deacon caste to resemble his
-own wicked form. He went on to
-imbue meladaemons with other
-jackal-like aspects as it suited him,
-further warping them and cementing
-their fealty.
-MELADAEMON
-CREATURE 11
-NE
+PLANETAR
+CREATURE 16
+UNCOMMON
+NG
 LARGE
-DAEMON
-FIEND
-Perception +21; darkvision, lifesense (imprecise) 30 feet
-Languages Common, Daemonic; telepathy 100 feet
-Skills Acrobatics +20, Deception +23, Intimidation +23, Religion +20, Stealth +23, Survival +19
-Str +7, Dex +5, Con +6, Int +3, Wis +4, Cha +6
-AC 31; Fort +23, Ref +20, Will +19; +1 status to all saves vs. magic
-HP 225; Immunities death eﬀects; Weaknesses good 10
-Consumptive Aura (aura, divine) 20 feet. A meladaemon emanates an aura of intense
-hunger. Each round a creature begins its turn in the aura, it must attempt a DC 27
-Fortitude save. On a failure, the creature takes 1d6 negative damage (2d6 on a critical
-failure) and becomes fatigued. This fatigue ends as soon as the creature eats any food.
-Withering Opportunity Ǻȓ Trigger The meladaemon is attacked by an adjacent creature
-and the attack misses; Eﬀect The meladaemon swipes at the triggering creature, which
-must immediately attempt a save against the meladaemon’s withering touch.
-Speed 25 feet, ﬂy 50 feet
-Melee Ȱɵ bite +24 (evil, magical, reach 10 feet), Damage 2d12+13 plus 1d6
-evil and daemonic famine
-Melee Ȱɵ claw +24 (agile, evil, magical, reach 10 feet), Damage
-2d8+13 slashing plus 1d6 evil, Grab, and withering touch
-Divine Innate Spells DC 31; 6th phantom pain; 5th dimension
-door, fear, magic missile (at will); 4th dimension door (at
-will); 1st detect alignment (good only; at will)
-Rituals DC 31; blight
-Daemonic Famine (disease) Saving Throw DC 29
-Fortitude; Stage 1 carrier (1 day); Stage 2 enfeebled 1
-(1 day); Stage 3 enfeebled 2 (1 day); Stage 4 as stage 3;
-Stage 5 enfeebled 3 (1 week); Stage 6 dead
-Withering Touch (divine, evil, necromancy) When the
-meladaemon hits with a claw Strike or a creature
-begins its turn grabbed by the meladaemon, the
-creature must attempt a DC 30 Fortitude save.
-On a failure, the creature takes 1d6 negative
-damage and becomes fatigued. This fatigue
-ends when the creature drinks.
-DERGHODAEMON (RAVAGER DAEMON)
-Derghodaemons
-represent
-death
-through
-unfathomable violence and being eaten alive.
-Whether in life a ravenous murderer hacked them to
-bits for stew, a werewolf tore them limb from limb, or they simply succumbed to the
-elements and became worm meat, derghodaemons seek to inﬂict the same twisted
-and bloody ends upon any they come across. Unlike some daemons, derghodaemons
-derive little pleasure from prolonged deaths—to these ﬁends, the quicker they can
-enact a gory demise, the sooner they can turn their attentions to their next victim
-and repeat the violent cycle.
-Derghodaemons look like walking masses of razor-sharp insect claws connected
-to equally menacing chitinous limbs, but few linger on their appearance for long—
-the gaze of a derghodaemon is enough to cause others in the vicinity to experience
-severe visual warping. The derghodaemon’s appearance becomes more and more
-twisted as those who stare at it experience vicious hallucinations and ravenous
-urges to inﬂict harm on and devour others. Perhaps the most horriﬁc attack
-derghodaemons can unleash upon their victims, though, is their swarming
-infestation—the daemons cough up a crawling, buzzing cloud of
-ravenous insects that cling to those targeted and chew them to death,
-provided the mind-numbing, half-whispered threats made by the rasp
-of the insects’ bodies don’t drive them to violent fury ﬁrst!
+ANGEL
+CELESTIAL
+Perception +28 (+32 to detect illusions); darkvision, true seeing
+Skills Athletics +32, Intimidation +32, Religion +32
+Languages Celestial, Draconic, Infernal; tongues
+Str +8, Dex +3, Con +6, Int +5, Wis +6, Cha +6
+Items +2 greater striking greatsword
+AC 39; Fort +28, Ref +25, Will +28; +1 status to all saves vs. magic
+HP 300, regeneration 15 (deactivated by evil); Weaknesses evil 15
+Aura of Righteousness (aura, divine, evocation) 20 feet. Allies in the planetar’s aura gain
+a +2 status bonus to AC against evil creatures and a +2 status bonus to damage rolls
+against evil creatures. The area in the aura is diﬃcult terrain for
+evil creatures.
+Speed 25 feet, ﬂy 60 feet
+Melee Ȱɵ holy greatsword +32 (good, magical, versatile P), Damage
+3d12+16 slashing plus 1d6 good
+Divine Innate Spells DC 37, attack +29; 8th dispel magic, divine
+wrath, earthquake, heal, power word stun, sunburst; 7th
+charm, plane shift, power word blind, remove fear (at will);
+6th blade barrier, dispel magic (at will); 5th breath of life,
+death ward, freedom of movement, restoration (×3);
+2nd invisibility (at will, self only), remove paralysis;
+Constant (5th) detect alignment (evil only), tongues,
+true seeing
+Rituals DC 37; angelic messenger, call spirit, resurrect
+Blade of Justice ʚʖ The planetar makes a greatsword
+Strike against a target it detects as evil. If the target is
+evil, the Strike deals three extra weapon damage dice
+and deals 1d6 persistent good damage to the target.
+The planetar can convert all the physical damage from
+the attack into good damage.
+Change Shape Ȱɵ (concentrate, divine, polymorph,
+transmutation) The planetar can take on the
+appearance of any Small or Medium humanoid. This
+doesn’t change their Speed or Strikes.
+Holy Armaments (divine, evocation) Any weapon gains
+the eﬀect of a holy property rune while a planetar
+wields it.
+SOLAR (ARCHANGEL)
+Solars are among the greatest of all angels, ranking just
+below empyreal lords. Many solars serve at the right
+hand of a deity or champion a cause that beneﬁts an
+entire world. Most archangels resemble humanoids, but
+not all—they can adopt more unusual forms as needed.
+A typical solar is about 9 feet tall and weighs about 500
+pounds, with a commanding voice that is impossible to
+ignore. Most have silvery or golden skin.
+Solars are legendary trackers; the most masterful of them
+are said to be able to follow the centuries-old passage of a pit
+ﬁend ﬂying through the Astral Plane.
+SOLAR
+CREATURE 23
+RARE
+NG
+LARGE
+ANGEL
+CELESTIAL
+Perception +40; darkvision, true seeing
+Skills Arcana +38, Athletics +43, Diplomacy +43, Religion +43,
+Stealth +36, Survival +46
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868514
+4425026
 
-================================================================================
 PAGE 61
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868558
+4425070
 Bestiary 2
+60
+60
 DAEMON HARBINGERS
 The four Horsemen are the most
 powerful of the daemonic demigods,
@@ -386,69 +448,97 @@ and Zelishkar the Bitter Flame
 Horseman of War) are but three of
 the dozens of harbingers who rule
 realms in Abaddon.
+DERGHODAEMON
+CREATURE 12
+NE
+LARGE
+DAEMON
+FIEND
+Perception +24; darkvision, scent (imprecise) 60 feet
+Languages Common, Daemonic; telepathy 100 feet
+Skills Acrobatics +22, Athletics +25, Intimidation +24, Stealth +24
+Str +7, Dex +6, Con +5, Int +1, Wis +6, Cha +6
+AC 33; Fort +21, Ref +24, Will +22; +1 status to all saves vs. magic
+HP 240; Immunities confusion, death eﬀects, swarm attacks; Weaknesses good 10
+Speed 35 feet
+Melee Ȱɵ claw +25 (deadly 1d12, evil, magical, reach 10 feet), Damage 3d8+10 slashing plus
+1d6 evil
+Ranged Ȱɵ swarm spit +25 (evil, magical, range 60 feet), Damage 2d6+13 piercing plus 1d6 evil
+Divine Innate Spells DC 32; 6th blade barrier, feeblemind (×3); 5th dimension door; 4th
+dimension door (at will); 1st detect alignment (good only; at will)
+Derghodaemon’s Stare Ȱɵ (divine, emotion, enchantment, incapacitation, mental, visual) A
+non-evil target must succeed at a DC 32 Will save or become confused for 1 round, or 1
+minute on a critical failure. It is temporarily immune for 10 minutes.
+Rend Ȱɵ claw
+Savage Assault ʚʖ The derghodaemon makes up to ﬁve claw
+Strikes, each against a diﬀerent target. These attacks count
+toward the derghodaemon’s multiple attack penalty, but the
+penalty doesn’t increase until after all the attacks.
+Swarming Infestation ʚʖ The derghodaemon spews a
+large swarm, making a swarm spit Strike against up to
+two adjacent targets within range. Whether or not the
+targets are hit, each must attempt a DC 31 Reﬂex
+save (at a –2 circumstance penalty if it was actually
+hit by the swarm spit). Persistent damage caused
+by the swarming infestation ends as soon as the
+creature takes any amount of damage from
+an area eﬀect. The derghodaemon can’t use
+this ability for 1d4 rounds.
+Critical Success The swarm disperses as soon
+as it deals its swarm spit Strike damage.
+Success The swarm clings to the target
+and infests it, dealing 1d6 persistent
+piercing damage.
+Failure The swarm clings to the target
+and infests it, dealing 2d6 persistent
+piercing damage.
+Critical Failure As failure, but the hissing sounds
+caused by the infestation also cause the target to
+become confused for 1 round; this additional eﬀect
+has the auditory, emotion, and mental traits.
+THANADAEMON (DEATH DAEMON)
+Also known as the deacons of death, thanadaemons
+represent death via old age. They are among the
+most patient daemons, and prefer to bide
+their time to enact far-reaching, decades-
+long plans rather than ﬁght (though they
+are still deadly foes). Like the Horseman
+of Death, they ply the waters of the River
+Styx in search of wayward souls. Rarely are
+thanadaemons seen without a trademark oar
+(which they wield as a bo staff), a tool they use to navigate the
+river’s muck-ridden channels and turbulent rapids.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868558
+4425070
 
-================================================================================
-# MELODY ON THE WIND
-================================================================================
-
-Noxious Fumes ʚʖ Requirement The belker occupies the same space as a Medium
-or smaller creature; Eﬀect The belker attempts to ﬂow into the creature’s lungs; the
-creature must attempt a DC 23 Fortitude save. On a failure, the creature partially
-inhales the belker and is immobilized by the pain of the smoke rasping in its throat and
-lungs. The creature can attempt to exhale the belker by spending an action coughing
-and succeeding at a DC 23 Fortitude save. Most of the belker remains outside the
-creature, so the belker can still act normally. If the belker moves out of the creature’s
-space or uses Noxious Fumes again, the creature automatically exhales it.
-Smoke Slash Ȱɵ Requirement The belker is partially inhaled by a creature; Eﬀect The
-belker automatically deals its claw damage to the inhaling creature by forming a claw
-to slash and scrape the creature from within.
-MELODY ON THE WIND
-This cloud of song and sound has been caught
-by the wind and carried across the air. While
-the melody on the wind (known by some as a song
-elemental, despite the fact that no such place as a plane of song
-exists in the known multiverse) might enjoy the beauty of music, it is
-by nature a destructive elemental force.
-MELODY ON THE WIND
-CREATURE 10
-N
-HUGE
-AIR
-ELEMENTAL
-Perception +21; darkvision
-Skills Acrobatics +22, Performance +22, Stealth +22
-Languages Auran
-Str +4, Dex +6, Con +2, Int +2, Wis +5, Cha +6
-AC 30; Fort +16, Ref +22, Will +19
-HP 170; Immunities bleed, paralyzed, poison, sleep
-Hostile Duet Ǻȓ Trigger A hostile creature within 30 feet
-creates an eﬀect with the auditory trait that provides bonuses
-to itself or its allies; Eﬀect The melody on the wind recreates the
-auditory eﬀect, gaining the bonuses for itself and its allies as long as the
-original eﬀect persists.
-Retune Ǻȓ Trigger The melody on the wind is targeted by a spell with the
-auditory trait; Eﬀect The melody on the wind attempts to counteract the spell.
-If it succeeds, the spell eﬀect is caught in a blast of wind that sweeps it back to its
-origin, aﬀecting the caster. Targets of the triggering eﬀect other than the melody
-on the wind are still aﬀected normally.
-Speed ﬂy 100 feet; swiftness
-Melee Ȱɵ wind gust +23 (agile, ﬁnesse), Damage 2d10+10 bludgeoning plus Push
-Ranged Ȱɵ solid refrain +23 (range increment 70 feet), Damage 2d8+10 sonic
-Mesmerizing Melody Ȱɵ (auditory, concentrate, enchantment, mental, primal) The
-melody on the wind sings in a sonorous chorus. Any creature in a 30-foot
-emanation must attempt a DC 30 Will save to resist becoming fascinated by
-the melody on the wind. A creature that succeeds at its save is temporarily
-immune for 24 hours.
-Critical Success The creature is unaﬀected.
-Success The creature is fascinated for 1 round.
-Failure The creature is fascinated for 1d4 rounds.
-Swiftness The melody on the wind’s movement doesn’t trigger reactions.
-
-================================================================================
 PAGE 109
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868606
+4425118
 Bestiary 2
+108
+108
 LOOTING EARTH ELEMENTALS
 Earth elementals sometimes have
 valuable gemstones or minerals
@@ -471,57 +561,92 @@ Living boulders roll and glide through the Plane of Earth, gathering gemstones
 and metal shards until their surfaces resemble a ship’s hull covered in barnacles.
 Barely more intelligent than many animals, living boulders ﬁll much the same role
 on the Plane of Earth as the great herd animals found on Material Plane worlds.
-
-================================================================================
-# MAGMA SCORPION
-================================================================================
-
-persistent ﬁre
-Burning Rush ʚʖ (evocation, ﬁre, primal) The striding ﬁre Strides up
-to double its Speed in a straight line. Its movement during this
-Stride doesn’t trigger reactions. Any creature the striding
-ﬁre was adjacent to at any point during this Stride must
-attempt a DC 24 basic Reﬂex save. If it critically
-fails, it is knocked prone by a wave of heated
-air. The striding ﬁre can’t use Burning Rush for
-1d4 rounds.
-MAGMA SCORPION
-Whether skittering through Abyssal wastelands
-or basking in the searing sand of the deepest
-deserts, magma scorpions have charred carapaces
-constantly emitting vision-warping waves of heat.
-MAGMA SCORPION
-CREATURE 8
+LIVING BOULDER
+CREATURE 2
+N
+SMALL
+EARTH
+ELEMENTAL
+Perception +6; darkvision, tremorsense 30 feet
+Skills Athletics +8, Stealth +5 (+7 in rocky areas)
+Str +4, Dex –1, Con +4, Int –4, Wis +2, Cha –1
+AC 17; Fort +10, Ref +5, Will +8
+HP 36; Immunities bleed, paralyzed, poison, sleep
+Speed 20 feet, burrow 20 feet; earth glide
+Melee Ȱɵ jaws +10, Damage 1d8+6 piercing
+Earth Glide A living boulder can Burrow through earthen matter, including rock.
+When it does so, it moves at its full burrow Speed, leaving no tunnels or signs
+of its passing.
+Rolling Charge ʚʖ The living boulder Strides twice, and can then make a Strike
+with its jaws. This jaws Strike gains Knockdown.
+EARTHEN DESTRIER
+This wave of dirt takes the crude likeness of the melded
+forequarters of a charging warhorse and a rocky knight
+wielding a rudimentary lance of gray stone.
+EARTHEN DESTRIER
+CREATURE 4
 N
 LARGE
+EARTH
 ELEMENTAL
-FIRE
-Perception +18; darkvision, smoke vision
-Skills Athletics +18
-Str +6, Dex +3, Con +5, Int –4, Wis +4, Cha +0
-Smoke Vision The magma scorpion ignores the
-concealed condition from smoke.
-AC 28; Fort +19, Ref +14, Will +16
-HP 155; Immunities bleed, ﬁre, paralyzed, poison,
-sleep; Weaknesses cold 10
-Speed 40 feet, climb 30 feet
-Melee Ȱɵ pincer +20 (agile, reach 10 feet), Damage 2d6+9
-bludgeoning plus 1d6 persistent ﬁre and Grab
-Melee Ȱɵ tail sting +20 (reach 10 feet), Damage
-1d10+9 piercing plus 1d6 persistent ﬁre and magma
-scorpion venom
-Ranged Ȱɵ magma spit +17 (ﬁre, range increment 40
-feet); Damage 1d6+9 ﬁre plus 1d6 persistent ﬁre
-Magma Scorpion Venom (ﬁre, injury, poison) Saving Throw
-DC 26 Fortitude; Maximum Duration 6 rounds; Stage 1
-2d6 ﬁre damage (1 round) and enfeebled 1; Stage 2 3d6 ﬁre
-damage and enfeebled 2 (1 round)
+Perception
++10;
+darkvision,
+tremorsense
+(imprecise) 60 feet
+Skills Athletics +12
+Languages Terran
+Str +4, Dex +1, Con +4, Int –1, Wis +3, Cha +0
+AC 20; Fort +14, Ref +9, Will +10
+HP 72; Immunities bleed, paralyzed, poison, sleep
+Speed 50 feet, burrow 30 feet; earth glide
+Melee Ȱɵ  lance arm +14 (deadly d8, reach 10 feet), Damage
+2d8+6 piercing and lancing charge
+Melee Ȱɵ hoof +14, Damage 2d6+6 bludgeoning
+Earth Glide As living boulder above.
+Lancing Charge If the destrier moved at least 10 feet directly before its lance arm Strike,
+it gains a +2 circumstance bonus to its damage roll.
+Tilting Strike Ǻȓ Trigger The earthen destrier tramples a creature; Eﬀect The earthen
+destrier makes a lance arm Strike against the creature it’s trampling at a –5
+penalty.
+Trample ̂ˬ Medium or smaller, hoof, DC 20
+SAND SENTRY
+Shifting back and forth between a detailed likeness of a human and a muted and
+featureless bipedal form, this creature of pure sand moves with an eerie grace.
+The sand sentry is often called upon by spellcasters to stand guard over an area
+of great importance—these elementals are patient participants in such roles,
+making them well suited for long-term service.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868606
+4425118
 
-================================================================================
 PAGE 113
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868610
+4425122
 Bestiary 2
+112
+112
 MEPHIT INTERACTIONS
 Diﬀerent types of mephits that can
 be found on the same elemental
@@ -546,57 +671,103 @@ to pronounce doom and gloom at every opportunity, lamenting every insigniﬁcant
 and minor difﬁculty as though it were an insurmountable obstacle and making
 themselves out to be heroes for struggling valiantly against their cruel fates. They
 tend to be thin and gaunt, with dusky brown and gray skin and wings.
-
-================================================================================
-# MIST STALKER 
-================================================================================
-
-Icicle Ȱɵ (concentrate) Until the next time it acts, the icicle snake appears
-to be an unassuming icicle. It has an automatic result of 27 on Deception
-checks and DCs to pass as an icicle.
-MIST STALKER
-The tentacled mist stalker shrouds itself in a cloak of mist through
-which its single, never-blinking eye can see with clarity, allowing it an
-advantage when stalking its prey.
-MIST STALKER 
-CREATURE 4
+DUST MEPHIT
+CREATURE 1
+UNCOMMON
 N
-MEDIUM
-AMPHIBIOUS
+SMALL
+AIR
+EARTH
+ELEMENTAL
+Perception +3; darkvision
+Languages Auran, Terran
+Skills Acrobatics +7, Stealth +7
+Str +1, Dex +4, Con +1, Int –2, Wis +0, Cha –1
+AC 17; Fort +6, Ref +9, Will +5
+HP 16, fast healing 2 (in dust or sand); Immunities bleed, paralyzed, poison, sleep
+Speed 20 feet, ﬂy 35 feet
+Melee Ȱɵ claw +9 (agile, ﬁnesse), Damage 1d6+1 slashing
+Arcane Innate Spells DC 17; 2nd glitterdust
+Breath Weapon ʚʖ (air, arcane, earth) The dust mephit breathes a cloud of dust in a
+15-foot cone that deals 2d6 slashing damage to each creature within the area (DC 17
+basic Reﬂex save). The dust mephit can’t use Breath Weapon again for 1d4 rounds.
+ICE MEPHIT
+Though capable of the same depths of cruelty as their ﬁre mephit kin, ice
+mephits carry theirs out in a more calculating way. Unlike most
+mephits, these pale blue mephits prefer solitude to company.
+Lacking in empathy, they are known for their callousness,
+and have a reputation for brutal honesty. They also have
+few moral qualms about acting selﬁshly
+and exploiting weakness for their own gain,
+should the chance arise.
+ICE MEPHIT
+CREATURE 1
+UNCOMMON
+N
+SMALL
+AIR
 ELEMENTAL
 WATER
-Perception +13; darkvision, mist vision
-Languages Aquan
-Skills Athletics +11, Stealth +12
-Str +4, Dex +4, Con +2, Int +1, Wis
-+5, Cha +0
-Mist Cloud (aura, conjuration, primal,
-water) 15 feet. The mist stalker is
-surrounded by mist. Creatures in the aura
-are concealed. If wind disperses the aura, it
-returns automatically at the start of the mist
-stalker’s turn. This cloud is suppressed in water.
-Mist Vision The mist stalker ignores the concealed condition from
-mist and fog.
-AC 20; Fort +10, Ref +12, Will +11
-HP 58; Immunities bleed, paralyzed, poison, sleep
-Speed 20 feet, climb 20 feet, swim 30 feet
-Melee Ȱɵ tentacle +14 (ﬁnesse, sweep, reach 10 feet), Damage 2d8+4 bludgeoning
-plus Grab
-Constrict Ȱɵ 1d8+4 bludgeoning, DC 21
-Solidify Mist Ȱɵ (primal, transmutation, water) The mist stalker makes its mist cloud
-congeal, causing the aura to be diﬃcult terrain until the start of the mist stalker’s next turn.
-In addition, the mist stalker can make the mist even thicker around a single Medium or
-smaller creature within the cloud. The creature must succeed at a DC 20 Reﬂex save
-or become immobilized until it Escapes or it is no longer in the mist cloud’s emanation.
-BLIZZARDBORN
-Freezing and thawing in a near-constant loop, blizzardborn resemble humanoid
-forms composed of a mixture of partially melted snow and sleet. These elementals
+Perception +3; darkvision
+Languages Aquan, Auran
+Skills Acrobatics +7, Intimidation +5
+Str +0, Dex +4, Con +0, Int –2, Wis +0, Cha +2
+AC 17; Fort +5, Ref +9, Will +3
+HP 18, fast healing 2 (while touching ice or
+snow); Immunities bleed, cold, paralyzed,
+poison, sleep; Weaknesses ﬁre 3
+Speed 20 feet, ﬂy 25 feet
+Melee Ȱɵ claw +9 (agile, ﬁnesse), Damage 1d4
+slashing and 1d4 cold
+Arcane Innate Spells DC 17, attack +9; Cantrips (1st)
+chill touch, ray of frost
+Breath Weapon ʚʖ (arcane, cold) The ice mephit
+breathes shards of ice in a 15-foot cone that deals 1d6 cold
+damage and 1d6 piercing damage to each creature within the
+area (DC 17 basic Reflex save). The ice mephit can’t use Breath Weapon
+again for 1d4 rounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868610
+4425122
 
-================================================================================
 PAGE 116
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868613
+4425125
+E-G
+E-G
+115
+115
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ELEMENTAL WYRMS
 The icewyrm is the most widely
 encountered elemental wyrm, but
@@ -608,59 +779,110 @@ and acidic sludgewyrm.
 move with crunching strides, their bodies constantly sloshing and sloughing off
 shards of ice. Because of their ability to refreeze, blizzardborn can travel into warmer
 environments safely, though they tend to look more like slush in these areas.
-
-================================================================================
-# MASTODON
-================================================================================
-
-Critical Success The target is unaﬀected.
-Success The target takes half damage.
-Failure The target takes full damage and is knocked prone.
-Critical Failure The target takes double damage, is knocked
-prone, and is pushed 5 feet away from the anancus.
-Trample ̂ˬ Large or smaller, foot, DC 25
-Tusk Sweep ʚʖ The anancus sweeps its long tusks
-back and forth, dealing 4d6
-bludgeoning damage to all
-creatures in a 15-foot cone,
-who must make a DC 27
-basic Reﬂex save.
-MASTODON
-Not to be confused with the
-larger
-mammoth,
-mastodons
-are primeval elephants who dwell
-predominantly in temperate forests.
-There, they travel in close-knit social groups
-and feed on the forest vegetation.
-MASTODON
-CREATURE 9
+BLIZZARDBORN 
+CREATURE 6
+N
+MEDIUM
+COLD
+ELEMENTAL
+WATER
+Perception +14; darkvision, snow vision
+Languages Aquan
+Skills Athletics +15, Stealth +14 (+16 in ice or snow)
+Str +5, Dex +2, Con +4, Int +0, Wis +4, Cha +0
+Snow Vision The blizzardborn ignores the concealed condition from falling snow.
+AC 24; Fort +16, Ref +12, Will +14
+HP 105; Immunities bleed, cold, paralyzed, poison, sleep; Weaknesses ﬁre 5
+Shattering Ice Ǻȓ Trigger An enemy hits the blizzardborn with an attack that
+deals physical damage; Eﬀect A portion of the blizzardborn’s body
+shatters into an explosion of razor sharp ice crystals and blinding
+snow that deals 2d6 piercing damage to opponents in a 5-foot
+emanation (DC 24 basic Reﬂex save). Anyone who fails is also
+blinded for 1 round (or 3 rounds on a critical failure).
+Speed 25 feet, ice burrow 20 feet
+Melee Ȱɵ ice claw +17 (versatile bludgeoning), Damage
+2d6+8 slashing plus 1d6 persistent cold
+Ice Burrow The blizzardborn can Burrow through ice or snow with a
+Speed of 20 feet. It moves at its full burrow Speed, leaving
+no tunnels or signs of its passing.
+ICEWYRM
+Resembling wingless, serpentine dragons formed of jagged
+ice and shot through with veins of nearly frozen water, these
+elementals dwell within icebergs and enjoy striking out at
+passing ships or creatures. They’re especially common in frigid
+stretches of ocean in the Plane of Water, where icebergs cluster
+together into enormous islands of ice.
+ICEWYRM 
+CREATURE 10
 N
 HUGE
-ANIMAL
-Perception +17; low-light vision, scent (imprecise) 30 feet
-Skills Athletics +21, Survival +17
-Str +8, Dex +0, Con +5, Int –4, Wis +2, Cha –2
-AC 26; Fort +20, Ref +13, Will +17
-HP 175
-Speed 45 feet
-Melee Ȱɵ tusk +21 (reach 15 feet), Damage 3d8+12 piercing
-Melee Ȱɵ trunk +21 (reach 15 feet), Eﬀect grabbing trunk
-Melee Ȱɵ foot +21 (reach 10 feet), Damage 2d10+12 bludgeoning
-Dual Tusks Ȱɵ The mastodon makes two tusk Strikes, each against a different
-creature. This counts as one attack for the mastodon’s multiple attack
-penalty, and the penalty doesn’t increase until after both
-attacks.
-Grabbing Trunk A Medium or smaller creature hit by the
-mastodon’s trunk is grabbed. If the mastodon moves, it can
-bring the grabbed creature along with it.
-Trample ̂ˬ Large or smaller, foot, DC 27
+AMPHIBIOUS
+COLD
+ELEMENTAL
+WATER
+Perception +19; darkvision
+Languages Aquan
+Skills Athletics +21
+Str +7, Dex +7, Con +5, Int –1, Wis +5, Cha +3
+AC 30; Fort +20, Ref +21, Will +17
+HP 185; Immunities bleed, cold, paralyzed, poison, sleep;
+Weaknesses ﬁre 10
+Explosion (cold) When the icewyrm dies, it explodes, dealing
+8d6 cold damage to each creature in a 10-foot emanation
+(DC 27 basic Reﬂex save).
+Speed 25 feet, ice burrow 20 feet, swim 60 feet
+Melee Ȱɵ  jaws +23 (reach 15 feet), Damage 2d12+13 piercing
+Melee Ȱɵ tail +23 (agile, reach 15 feet), Damage 2d6+13 slashing
+plus 1d6 persistent cold
+Ranged Ȱɵ ice shard +23 (range increment 60 feet), Damage
+1d6+13 piercing plus 1d6 persistent cold
+Breath Weapon ʚʖ (cold, evocation, primal) The icewyrm breathes
+a 60-foot line of freezing shards of razor-sharp ice, dealing 3d12 cold
+damage and 3d12 piercing damage to every creature in the line (DC 29 basic
+Reﬂex save). The icewyrm can’t use Breath Weapon again for 1d4 rounds.
+Ice Burrow As blizzardborn.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868613
+4425125
 
-================================================================================
 PAGE 118
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868615
+4425127
+E-G
+E-G
+117
+117
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 MASTERS OF ADAPTATION
 Kayals understand that many
 Material Plane cultures view them
@@ -706,94 +928,66 @@ of signiﬁcant size, one can sometimes even ﬁnd a small community of
 a few dozen or more fetchlings living among humans, although they often do so
 subtly by dyeing their hair, wearing brightly colored clothing, and utilizing
 layers of makeup to hide their pallid complexions.
-
-================================================================================
-# MARSH GIANT
-================================================================================
-
-
-GAFFS
-Many marsh giants ﬁght with
-oversized gaﬀs—lengths of wood
-with a single metal spike aﬃxed
-to the tip. Used often by ﬁsherfolk
-to land ﬁsh, marsh giants use their
-gaﬀs as weapons. A gaﬀ sized for
-a Medium creature is a common
-martial weapon in the club group.
-It deals 1d6 bludgeoning damage
-and has 1 Bulk. It requires one
-hand to use and has the trip and
-versatile P weapon traits. Gaﬀs are
-readily available in ﬁshing or coastal
-settlements for 1 gp.
-MARSH GIANT
-Dwellers of brackish coastal salt marshes and fetid bogs and swamps, marsh giants
-are hideous in appearance indeed, with ﬁshlike mouths, slimy gray-green skin, and
-dark, beady eyes. They prefer to eat the ﬂesh of those they slay in battle, but many
-are also cannibals. It is perhaps this vicious behavior that keeps the creatures in
-check, for if a fellow marsh giant becomes too dangerous and powerful, it runs the
-risk of being ambushed and consumed by its clan.
-Marsh giants are insular and mysterious, dedicating much of their lives to
-zealous worship of sea-dwelling deities or stranger entities. While there is no
-central religion followed by all marsh giants, many are known to venerate the
-demon lord Dagon, while others worship even more powerful monstrosities from
-the Elder Mythos, such as distant, dreaming Cthulhu.
-Only rarely do more than a dozen marsh giants settle together in a location,
-but when they do it is often for a religious purpose. Whatever call from the deep
-draws them together also tugs at nearby creatures such as boggards or skum, who
-look upon marsh giants in fear and reverence. The grim, terrifying chants and
-screams coming from such an encampment are a sure sign of terror to come for
-any other residents of the area.
-Barely topping 11 feet tall and 1,000 pounds, marsh giants are small
-for giants but make up for their relatively diminutive stature with
-their zealotry.
-MARSH GIANT
-CREATURE 8
-CE
-LARGE
-AMPHIBIOUS
-GIANT
+FETCHLING SCOUT
+CREATURE 1
+N
+MEDIUM
+FETCHLING
 HUMANOID
-Perception +16; low-light vision
-Languages Aklo, Common, Jotun
-Skills Athletics +18, Intimidation +15, Religion +17
-Str +6, Dex +3, Con +4, Int +0, Wis +3, Cha +1
-Items +1 striking gaﬀ, sack with 5 rocks
-AC 27; Fort +18, Ref +13, Will +17
-HP 150
-Catch Rock Ǻȓ
-Speed 35 feet, swim 20 feet
-Melee Ȱɵ gaﬀ +20 (magical, reach 10 feet, trip, versatile P),
-Damage 2d6+14 bludgeoning
-Melee Ȱɵ ﬁst +20 (agile, reach 10 feet), Damage 2d6+14
-bludgeoning
-Ranged Ȱɵ rock +20 (brutal, range increment 120 feet),
-Damage 2d6+14 bludgeoning
-Occult Innate Spells DC 23; 5th mariner’s curse; 2nd
-augury, obscuring mist
-Hook Shake Ȱɵ Requirements A creature adjacent to the
-marsh giant is prone in water at least 1 foot deep; Eﬀect The
-marsh giant uses its gaﬀ to shake the creature back and forth and
-hold it underwater. The giant attempts an Athletics check against the
-target’s Fortitude DC.
-Critical Success The target takes 6d6+14 piercing damage and
-loses 5 rounds’ worth of air if they were holding their breath.
-Success The target takes 3d6+14 piercing damage and loses 3
-rounds’ worth of air if they were holding their breath.
-Failure The target is unaﬀected.
-Critical Failure As failure, but the giant drops its gaﬀ as well.
-Throw Rock Ȱɵ
-Twist the Hook ʚʖ The marsh giant makes a melee Strike
-with its gaﬀ. If it hits, it twists and yanks the gaﬀ to
-create an awful wound, dealing 3d6 persistent bleed
-damage to the creature.
+SHADOW
+Perception +5; darkvision
+Languages Common, Shadowtongue
+Skills Acrobatics +7, Athletics +4, Deception +5, Diplomacy +5, Society +3, Stealth +7,
+Thievery +7
+Str +1, Dex +4, Con +2, Int +0, Wis +0, Cha +2
+Items chain shirt, dagger
+AC 18; Fort +5, Ref +9, Will +5
+HP 18
+Shadow Blending When the fetchling scout is concealed as a result of dim
+light, the ﬂat check to target them has a DC of 7, not 5.
+Speed 25 feet
+Melee Ȱɵ dagger +9 (agile, ﬁnesse, versatile S), Damage 1d4+1 piercing
+Ranged Ȱɵ dagger +9 (agile, ﬁnesse, thrown 10 feet, versatile S), Damage 1d4+1
+piercing
+Occult Innate Spells DC 15; 1st illusory disguise
+Shadow Stride Ȱɵ (illusion, occult, shadow) Requirement The fetchling is in dim
+light; Eﬀect The fetchling Strides. They have a +10-foot status bonus to their
+Speed during this Stride. The DC from shadow blending increases to 11 during
+this Stride, and the fetchling remains concealed by dim light until the end of
+the movement, even if they leave dim light during the Stride.
+Sneak Attack The fetchling scout’s Strikes deal an additional 1d6
+precision damage to ﬂat-footed creatures.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868615
+4425127
 
-================================================================================
 PAGE 127
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868624
+4425136
 Bestiary 2
+126
+126
 TAIGA GIANT CLANS
 Each taiga giant clan links its identity
 to the deeds of their most famous
@@ -815,7 +1009,7 @@ malicious, with a focus on stealing away livestock for food rather than people.
 Nevertheless, the arrival of a group of taiga giants is a potentially devastating
 event to any town or village, so many communities attempt to placate the giants
 by creating a yearly offering at those times when they know the giants are
-scheduled to come close.
+scheduled to come close.
 Most taiga giants venerate their ancestors and seek to honor their works in
 everything they do. This deep connection makes them ferociously proud of
 those legacies, and little can compel taiga giants to go to war more swiftly
@@ -823,52 +1017,87 @@ than insulting their ancestors. Merely mentioning the false rumors that
 ancient taiga giant spellcasters were responsible for the creation of the
 ﬁrst rune giants is a sureﬁre way to earn a taiga giant’s unending wrath.
 A taiga giant stands 20 feet tall and weighs 10,000 pounds.
-
-================================================================================
-# MEGALANIA
-================================================================================
-
-Tongue Grab If the giant chameleon hits a creature with a
-tongue Strike, that creature becomes grabbed by the
-giant chameleon. The target isn’t immobilized, but it
-can’t move beyond the reach of the giant chameleon’s
-tongue. A creature can sever the tongue with an
-attack that hits AC 15 and deals at least 4 slashing
-damage. Though this doesn’t deal any damage to the
-giant chameleon, it prevents it from using its tongue Strike
-until it regrows its tongue, which takes a week.
-MEGALANIA
-Megalanias, like their smaller cousins the giant
-monitor lizards, strike fast and use their powerful
-bite to grip their prey. They prefer to swallow
-their prey whole rather than risk others getting
-a bite of a hard-won meal.
-MEGALANIA
-CREATURE 7
-N
+TAIGA GIANT
+CREATURE 12
+CN
 HUGE
-ANIMAL
-Perception +15; low-light vision, scent (imprecise)
-60 feet
-Skills Athletics +18, Stealth +15 (+17 in undergrowth)
-Str +7, Dex +2, Con +4, Int –4, Wis +2, Cha –2
-AC 25; Fort +17, Ref +15, Will +13
-HP 125
-Speed 25 feet, swim 25 feet
-Melee jaws +18 (reach 10 feet), Damage
-2d10+9 piercing plus Grab and megalania venom
-Megalania Venom (poison) Saving Throw DC 25
-Fortitude; Maximum Duration 6 rounds; Stage 1
-1d6 poison damage and clumsy 1 (1 round); Stage
-2 2d6 poison damage, clumsy 2, and ﬂat-footed (1
-round); Stage 3 2d6 poison damage, clumsy 3, and
-ﬂat‑footed (1 round)
-Swallow Whole (attack) Large, 2d10+7 bludgeoning, Rupture 16
+GIANT
+HUMANOID
+Perception +23; low-light vision, see invisibility
+Languages Common, Jotun
+Skills Athletics +22, Genealogy Lore +16, Religion +20, Stealth +10
+(+22 in undergrowth), Survival +25
+Str +7, Dex +1, Con +5, Int +1, Wis +4, Cha +2
+Items +1 striking longspear, sack with 5 rocks
+See Invisibility A taiga giant can see invisible creatures and objects as
+translucent shapes, and they are concealed to the taiga giant.
+AC 32; Fort +25, Ref +20, Will +22; +2 status to all saves vs. enchantment
+and illusion eﬀects
+HP 230; Immunities controlled
+Catch Rock Ǻȓ
+Guardian Spirit Ǻȓ Trigger The taiga giant has Ancestral Guardian active
+and would take energy or mental damage; Eﬀect The taiga giant’s ancestral
+spirits intervene and protect the giant from taking up to 20 energy damage
+or 30 mental damage. The giant takes any remaining damage; if it does, the
+spirits depart and the giant is no longer protected by the ancestors.
+Speed 30 feet
+Melee Ȱɵ longspear +26 (magical, reach 20 feet), Damage 2d8+15 piercing
+Melee Ȱɵ ﬁst +25 (agile, reach 15 feet), Damage 3d6+15 bludgeoning
+Ranged Ȱɵ rock +25 (brutal, range increment 120 feet), Damage 2d10+15
+bludgeoning
+Ancestral Guardian Ȱɵ (concentrate) Requirements The taiga giant must
+be protected by the ancestors; Eﬀect The taiga giant calls upon their
+ancestors’ spirits to rise up and protect them, causing a cloak of
+spectral faces to shimmer and swirl around them. The taiga giant’s AC
+increases to 34 until the start of its next turn.
+Protected by the Ancestors (divine) A taiga giant’s prayers to their
+ancestors grant them spiritual protection. If a taiga giant loses this
+protection (such as by taking too much damage when using Guardian
+Spirit, or if the ancestors are counteracted by dispel magic), it loses
+its immunity to the controlled condition and its status bonus to saving
+throws against enchantment and illusion eﬀects. A taiga giant can once again be
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868624
+4425136
 
-================================================================================
 PAGE 170
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868667
+4425179
+L-N
+L-N
+169
+169
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 GREATER RITUAL GATES
 Well-versed and knowledgeable lurkers
 in light can lead groups of their kind in
@@ -898,123 +1127,95 @@ While lurkers in light are fey and have ties to the First World, these creatures
 often found elsewhere in the Great Beyond. They are particularly fond of invading
 the Shadow Plane to bring light to those who dwell there—not to help, but to
 spread misery and pain among those to whom light is agonizing.
-
-================================================================================
-# MANDRAGORA
-================================================================================
-
-
-Bestiary 2
-MANDRAGORA SUCKLINGS
-Sometimes a mandragora oﬀers its
-services to a spellcaster in exchange
-for sustenance. Tales tell of sorcerers
-or other magical creatures who keep
-mandragora “familiars” whose loyalty
-is sustained by feeding the little beasts
-with their own blood. These tales
-generally have gruesome endings
-wherein the mandragora is overcome
-with bloodlust and, unable to control
-itself, devours its master.
-Mandragora
-A mandragora looks like a freshly pulled tuber that has grown into the malformed
-shape of a child with a grotesque face and hideously bloated body. These insidious
-little plants typically form when a mandrake root is watered with a demon’s
-blood. Upon absorbing the otherworldly properties of the demon’s blood, the
-root animates and is forced to seek out blood to feast from, lest it die of thirst.
-Always famished and in search for sustenance, mandragoras live haunted, pained
-lives and perform vile and desperate acts to acquire the blood they crave. While
-they prefer magically infused blood such as that of unicorns, fey, or sorcerers, and
-they can also feed off of potions, alchemical bombs, and other magical elixirs,
-a mandragora can subsist on the blood of non-magical creatures. They ﬁnd the
-ﬂavor of mundane blood to be bland and bitter, and they do not blanch at voicing
-these complaints to the creatures from which they drink.
-While the typical mandragora is the size of a human child, some of these evil
-plants continue to grow and grow, reaching sizes more comparable to those of
-giants. Sometimes as they grow, they form additional limbs or rudimentary faces,
-eventually transforming into truly hideous mockeries of the human form.
-MANDRAGORA
-CREATURE 4
-CE
+LURKER IN LIGHT
+CREATURE 5
+NE
 SMALL
-PLANT
-Perception +11; blood scent, low-light vision
-Languages Abyssal, Common
-Skills Acrobatics +10, Athletics +10, Stealth +12 (+20 in vegetation)
-Str +2, Dex +5, Con +3, Int –1, Wis +2, Cha +0
-Blood Scent A mandragora can smell creatures with blood as an imprecise
-sense at a range of 30 feet, and it can smell demons, fey, and sorcerers
-with blood as a precise sense at a range of 30 feet.
-AC 21; Fort +11, Ref +13, Will +8
-HP 60; Weaknesses ﬁre 5; Resistances bludgeoning 5, electricity 5
-Vulnerability to Supernatural Darkness Whenever a mandragora
-begins its turn in an area of magical darkness, it is slowed 1 on
-that turn.
-Speed 30 feet, burrow 10 feet, climb 30 feet
-Melee Ȱɵ jaws +14 (ﬁnesse), Damage 2d8+4 piercing plus Grab
-Melee Ȱɵ thorny vine +14 (agile, ﬁnesse, reach 10 feet), Damage
-2d4+4 slashing plus mandragora venom
-Blood Drain Ȱɵ Requirements The mandragora has a creature
-grabbed; Eﬀect The mandragora drains blood from the creature it
-has grabbed, dealing 2d6 damage. If the creature is a demon, fey, or
-sorcerer, the mandragora gains temporary Hit Points equal to the
-damage dealt. A creature that has its blood drained by a mandragora
-is drained 1 until it receives healing of any kind or amount.
-Mandragora Venom (poison) Saving Throw DC 21 Fortitude;
-Maximum Duration 6 rounds; Stage 1 1d6 poison damage and
-stupeﬁed 1 (1 round); Stage 2 1d6 poison damage, confused, and
-stupeﬁed 1 (1 round); Stage 3 2d6 poison damage, confused, and
-stupeﬁed 1 (1 round)
-Piercing Shriek Ȱɵ (auditory, evocation, mental, primal) Frequency
-once per day; Eﬀect The mandragora emits an unsettling shriek.
-Each non-mandragora creature within 30 feet must attempt a
-DC 25 Will save.
-Critical Success The creature is unaﬀected.
-Success The creature is sickened 1.
-Failure The creature is sickened 2.
-Critical Failure The creature is sickened 2 and slowed 1. As
-long as the creature remains sickened, this slowed condition
-value can’t be reduced below 1.
+FEY
+Perception +13; low-light vision
+Languages Aklo, Common, Sylvan
+Skills Acrobatics +14, Nature +11, Occultism +11, Stealth +14, Survival +13
+Str +0, Dex +5, Con +2, Int +2, Wis +4, Cha +2
+AC 22; Fort +9, Ref +14, Will +13
+HP 72; Immunities blinded; Weaknesses cold iron 5
+Speed 25 feet, ﬂy 25 feet
+Melee Ȱɵ claw +14 (agile, ﬁnesse), Damage 2d6+2 slashing
+Ranged Ȱɵ mote of light +14 (agile, magical, range increment 10 feet), Damage 2d4+2
+force plus lurker’s glow
+Primal Innate Spells DC 22, attack +14; 4th dimension door (only when in
+bright light, and only to an area in bright light), summon fey; 3rd blindness,
+searing light, summon fey; Cantrips (3rd) dancing lights, ghost sound, light,
+mage hand
+Blend with Light Ǻȓ Trigger The lurker in light uses a move action; Requirements The
+lurker in light is in an area of bright light; Eﬀect The lurker in light becomes invisible
+until it enters an area of dim light or darkness, or until it uses a hostile action.
+Lurker’s Glow (evocation, light, primal) A creature that takes damage
+from a lurker in light’s mote of light must attempt a DC 22
+Will save.
+Success The creature is unaﬀected and is temporarily
+immune to lurker’s glow for 24 hours.
+Failure The creature is lined in golden light for
+1 minute and can’t be concealed during
+this time. If the creature becomes
+invisible, it is concealed rather
+than being undetected.
+Critical Failure As failure, but the
+creature sheds bright light in
+a 20-foot emanation for the
+duration of the eﬀect. In addition, the creature is dazzled on its
+ﬁrst turn after failing this save.
+Ritual Gate Ȱɵ (conjuration, primal) Requirements The lurker
+in light has reduced a living creature to 0 Hit Points on
+this turn or its previous turn and has a summon fey innate
+spell available; Eﬀect The lurker in light casts summon fey
+with only a verbal component, using the act of slaughter to
+replace the normal material and somatic components for the spell. If the fey creature
+summoned has the same alignment as the lurker in light, the lurker in light can sustain
+the summon fey spell for up to 1 hour instead of 1 minute.
+Sneak Attack A lurker in light’s Strikes deal an additional 2d6 precision damage to
+ﬂat‑footed creatures.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868667
+4425179
 
-================================================================================
 PAGE 172
 ================================================================================
 
-FEY MANIPULATORS
-Marrmoras exert a strange and
-subtle dominance over other fey.
-The fey under their control are ﬁlled
-with both horror at the destruction
-wrought by marrmoras and
-fascination with their ﬁery power.
-Marrmora
-On the First World, marrmoras dwell in ruined wildlands perpetually scourged
-by ﬁre and rarely, if ever, travel elsewhere. When a wildﬁre devastates a wilderness
-region on the Material Plane and results in the death of other fey, marrmoras
-can be drawn across the planar boundary to revel in the resulting destruction.
-They seek to reignite the ﬁres that beckoned them, to gather up and feed upon
-the charred remains of those who perished within (particularly the bodies of
-dead fey), though they do grow homesick if they spend too much time away
-from the First World. They are burdened by a capricious but persistent rage
-and are unfailingly cruel. While they are capable of negotiation and intelligent
-interaction, they almost never bargain in good faith and typically interact with
-others only as a means to more efﬁciently spread their ﬁery devastation.
-A marmorra’s twisted appearance evokes the look of an arboreal whose bark
-has been burnt down to charcoal. They have nearly featureless faces and hands
-ending in long, sharp claws. Their broken ﬂesh looks like charcoal‑burnt
-wood, riddled with cracks that still glow with an unwholesome heat. They
-trail ash wherever they walk, and wisps of smoke curl off of their bodies.
-Though marrmoras enjoy the sight of any woodland and its inhabitants
-roasting in the ﬂames of their carefully curated ﬁres, there is little that
-brings more pleasure to a marrmora than the sight of good-aligned plant
-creatures cooking to a crisp.
-
-================================================================================
-# MARRMORA
-================================================================================
-
-
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868669
+4425181
+L-N
+L-N
+171
+171
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 FEY MANIPULATORS
 Marrmoras exert a strange and
 subtle dominance over other fey.
@@ -1082,52 +1283,37 @@ produce flame
 Igniting Assault Ȱɵ Requirement The marrmora is not under the eﬀect of ﬁre
 shield; Eﬀect The marrmora makes a claw Strike. If it hits, it can immediately
 cast one of its available ﬁre shield innate spells as a free action.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868669
+4425181
 
-================================================================================
 PAGE 173
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868670
+4425182
 Bestiary 2
-INHUMAN MURDERERS
-While it’s true that most mohrgs
-seem to rise from the corpses of
-humanoid killers, the capacity to
-murder is not limited to humanoids.
-Mohrgs of other sorts could certainly
-exist—as long as they come from a
-society that has the capacity not
-only to judge and execute, but also to
-harbor murder within their hearts.
-Mohrg
-The weight of murder wears heavy on the soul. With souls marked by a lifetime
-of dealing death, these killers, whether mass murderers, bloodthirsty soldiers, or
-sadistic executioners, sometimes do not let judgment and lawful execution stanch
-their slaying sprees. When such individuals are brought to justice, they may rise
-after death as mohrgs to continue their ruinous work.
-Drawn to others of their kind, mohrgs prefer to hunt in small groups, occasionally
-in partnership with weaker free-willed undead such as shadows and wights. They
-seek out weak prey and revel in causing drawn-out suffering. Some mohrgs haunt
-locations they favored in life, reenacting old crimes on new victims. They may even
-skulk about in public, wearing rags, cloaks, or freshly harvested skins to hide their
-nature. The most dangerous mohrgs are those who grow powerful enough to no
-longer fear being struck down again and openly assault settlements in an attempt to
-turn living towns into mass graves.
-Since those slain by a mohrg rise soon thereafter as mohrg spawn, the murders of
-a mohrg rarely go unnoticed for long, even when they take extra care to prey only
-on a society’s dregs. Since mohrg spawn remain under a mohrg’s control, a canny
-mohrg might order its spawn to remain in hiding to keep its presence secret until a
-point where it feels conﬁdent unleashing its undead army upon a doomed settlement.
-Mohrgs retain a twisted sentimentality for the crimes of their mortal life, seeking
-out trinkets that remind them of favorite murders. When not out hunting,
-mohrgs arrange their mementos into disturbing shrines. Often, these trinkets are
-valuable objects, and might even provide important clues to ongoing mysteries.
-
-================================================================================
-# MOHRG
-================================================================================
-
-
-Bestiary 2
+172
+172
 INHUMAN MURDERERS
 While it’s true that most mohrgs
 seem to rise from the corpses of
@@ -1196,42 +1382,48 @@ that deals slashing damage). The creature also gains a tongue Strike, an agile a
 that causes paralysis, as the mohrg ability; the Fortitude save uses the DC for the
 mohrg spawn’s level (Pathﬁnder Core Rulebook 503). Mohrg spawn cannot
 create mohrg spawn of their own.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868670
+4425182
 
-================================================================================
 PAGE 174
 ================================================================================
 
-DOMINION SEEDLINGS
-Moonflower seeds are tough and
-fibrous, capable of surviving the
-fire of reentry into a planet’s
-atmosphere. They are often
-dropped by agents of the Dominion
-of the Black in orbit above
-unsuspecting worlds.
-Moonflower
-These enormous plants have thick, knotted trunks festooned with fanged
-blossoms. A gaping mouth sits at the top of the trunk, capable of swallowing most
-creatures smaller than the moonﬂower whole. Moonﬂowers can move slowly on
-their powerful roots or use them to attack, but usually they dig them deeply into
-the surrounding ground and remain stationary to await prey.
-Though moonﬂowers can’t speak in the conventional sense, they communicate
-telepathically with other moonﬂowers. Explorers who encounter a single
-moonﬂower can thus be assured that any other moonﬂowers in the vicinity will
-be prepared for them. Those who manage to intercept a moonﬂower’s telepathic
-communications are assaulted by visions of dreadful, primeval jungles ruled over
-by titanic plant life. Whether this is some vision of the past or a dream
-of the future shared by all moonﬂowers is unknown.
-Moonﬂowers are alien life‑forms from a long-dead planet, but
-their proliferation throughout the galaxy has been ensured through the
-machinations of the Dominion of the Black, a sinister, alien organization from
-the dark places between the stars.
-
-================================================================================
-# MOONFLOWER
-================================================================================
-
-
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868671
+4425183
+L-N
+L-N
+173
+173
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 DOMINION SEEDLINGS
 Moonflower seeds are tough and
 fibrous, capable of surviving the
@@ -1300,44 +1492,37 @@ equipment remains inside the new moonﬂower and can
 be retrieved if the moonﬂower is slain.
 Swallow Whole Ȱɵ (attack) Large, 2d10+10 bludgeoning and 2d6
 acid, Rupture 21
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868671
+4425183
 
-================================================================================
 PAGE 175
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868672
+4425184
 Bestiary 2
-MORLOCK MACHINERY
-Morlocks tend toward brutish actions
-and violent traditions and have little
-interest in bettering their societies
-or creating art. However, they have
-a strange obsession with ancient
-machinery and magical items,
-particularly clockwork constructions.
-Their knack for tinkering helps
-keep ancient guardians and traps
-functional, even if their work
-backﬁres now and then.
-Morlock
-Originating from humans long lost from the world of light, morlocks are brutal
-monsters that dwell in the tangled tunnels of the upper reaches of the Darklands.
-Their wiry frames mask the strength of their limbs and their swift reactions, and
-their arms are long enough that they can drop into an uncanny, four‑limbed shufﬂe
-for speed or stealth. They no longer remember the lives their ancestors led on the
-surface, although many morlocks still dwell in the shattered ruins of their ancient
-homes. Some morlocks worship the statues of humans from these bygone eras as
-gods, but others now worship Lamashtu, Rovagug, or other violent deities.
-Morlock young are insatiable and clamor for even the slightest morsel of food,
-even consuming their siblings if no other meal presents itself. Most morlocks
-encourage the practice to ensure their ancestral group as a whole grows stronger.
-A typical morlock stands just over 5 feet tall and weighs roughly 150 pounds.
-
-================================================================================
-# MORLOCK
-================================================================================
-
-
-Bestiary 2
+174
+174
 MORLOCK MACHINERY
 Morlocks tend toward brutish actions
 and violent traditions and have little
@@ -1409,11 +1594,48 @@ Swarming Stance A morlock can share the same space as
 another morlock, but no more than two morlocks can
 occupy the same space. When morlocks share the same space,
 they gain a +1 circumstance bonus to attack rolls.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868672
+4425184
 
-================================================================================
 PAGE 176
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868673
+4425185
+L-N
+L-N
+175
+175
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 MALARIA STRAINS
 This pernicious disease is often
 associated with mosquitoes. The
@@ -1441,91 +1663,99 @@ swarms capable of draining blood at a truly alarming rate. Fen mosquito swarms
 are typically encountered only in tropical swamps or bogs, but during humid
 months in spring or summer they can drift into riverine areas or even through the
 waterfront reaches of settlements.
-
-================================================================================
-# MUDWRETCH
-================================================================================
-
-
-Bestiary 2
-MUDWRETCH LIFESTYLES
-Mudwretches are rarely encountered
-alone. They inhabit swampy patches
-in small groups, often gathering
-near the ruins of sites that once held
-great signiﬁcance. Mudwretches can
-remain dormant for centuries, always
-eager to lurch up to attack passersby.
-They’re usually more interested
-in defending territory than killing
-intruders, and they won’t pursue
-victims for long if they ﬂee.
-Mudwretch
-In its resting form, a mudwretch looks like a large puddle of thick, dark mud, heaped
-at the center in a slightly drier patch of loam. When a living creature approaches,
-though, the mudwretch lurches upward, piling its muddy ﬂesh upon itself to form
-a roughly humanoid shape, often in vague mockery of the approaching creature’s
-general form in cases where the creature is a humanoid itself.
-Mudwretches possess a low level of intellect, and while they do not form societies
-or cultures of their own, they are attracted to ruins or abandoned settlements. They
-have little need to eat, but without a constant source of moisture, a mudwretch dries
-out, suffering from low throbbing aches until it can resaturate. Often, blood from
-living creatures has to do—a dried mudwretch is more dangerous to intruders than
-one that’s comfortably wallowing on a river bank.
-MUDWRETCH
-CREATURE 2
+FEN MOSQUITO SWARM
+CREATURE 3
+N
+LARGE
+ANIMAL
+SWARM
+Perception +8; darkvision
+Skills Acrobatics +6, Stealth +8
+Str +0, Dex +4, Con +3, Int –5, Wis +0, Cha –5
+AC 19; Fort +8, Ref +11, Will +5
+HP 25; Immunities precision, swarm mind; Weaknesses area damage 5, splash damage
+5; Resistances bludgeoning 2, piercing 5, slashing 5
+Speed 5 feet, ﬂy 25 feet
+Pyrexic Malaria (disease) The victim can’t reduce its sickened condition while it’s aﬀected
+by pyrexic malaria; Saving Throw DC 20 Fortitude; Onset 4 days; Stage 1 sickened 1
+(1 day); Stage 2 enfeebled 1 and sickened 1 (1 day); Stage 3 as stage 2 (1 day); Stage 4
+unconscious (1 day); Stage 5 dead
+Swarming Bites Ȱɵ Each enemy in the swarm’s space takes 1d6
+piercing damage (DC 20 basic Reﬂex save) and is exposed to
+pyrexic malaria. Creatures that fail the saving throw also take
+1d4 persistent bleed damage.
+GIANT MOSQUITO
+These horriﬁcally enlarged versions of the common mosquito
+often prey upon megafauna like dinosaurs and other large
+creatures, but they won’t turn down a chance to drink the
+blood of a smaller target—such as a humanoid.
+GIANT MOSQUITO
+CREATURE 6
 N
 MEDIUM
-EARTH
-ELEMENTAL
-WATER
-Perception +9; darkvision
-Languages Terran
-Skills Athletics +8, Stealth +6
-Str +4, Dex +0 Con +3, Int –2, Wis +3, Cha +0
-Muddy Field (aura) 10 feet. The ground in the area
-is diﬃcult terrain for all non-mudwretch creatures.
-AC 16; Fort +11, Ref +4, Will +9
-HP 40; Immunities bleed, critical hits, paralyzed, poison,
-sleep; Weaknesses ﬁre 5; Resistances acid 3, physical
-3 (except bludgeoning)
-Susceptible to Desiccation If a mudwretch takes any
-damage from horrid wilting or a similar eﬀect,
-takes 10 or more ﬁre damage from a single
-eﬀect, or spends more than 24 hours outside
-of a source of suﬃcient hydration (such as
-a swamp, river, well, or recent rainfall), it
-becomes dehydrated. While dehydrated, the
-mudwretch can’t Spew Mud, is sickened 2,
-and is slowed 1 until it either fully immerses
-in water, spends 1 minute in the rain, or
-rehydrates in another way (such as via Gory Hydration).
-Speed 20 feet, swim 20 feet
-Melee Ȱɵ ﬁst +10 (agile), Damage 1d8+4 bludgeoning plus Grab
-Constrict Ȱɵ 1d8+2 bludgeoning, DC 18
-Gory Hydration Ǻȓ Requirements The mudwretch is dehydrated;
-Trigger The mudwretch deals Constrict damage to a living
-creature that has blood; Eﬀect The mudwretch squeezes
-harder, dealing 1d6 persistent bleed damage to the
-target. The mudwretch absorbs this blood, removing
-any penalties it had as a result of being dehydrated.
-Mud Puddle Ȱɵ (concentrate) Until it next acts, the
-mudwretch appears to be an ordinary puddle of mud.
-It has an automatic result of 20 on Deception checks
-to pass as a mud puddle and can make a ﬁst Strike
-against a creature that walks onto the mud puddle
-as a reaction.
-Spew Mud ʚʖ (conjuration, primal) The mudwretch
-spews a 20-foot line of pressurized mud that
-deals 2d10 bludgeoning damage (DC 18 basic
-Reﬂex save). On a critical failure, a creature also
-takes a –10-foot status penalty to its Speeds for 1
-round. The mudwretch can’t Spew Mud again for 1d4 rounds.
+ANIMAL
+Perception +17; darkvision, scent (imprecise) 60 feet
+Skills Acrobatics +13, Stealth +13
+Str +4, Dex +5, Con +2, Int –5, Wis +2, Cha –5
+AC 24; Fort +14, Ref +17, Will +12
+HP 80
+Speed 20 feet, ﬂy 50 feet
+Melee Ȱɵ proboscis +17 (ﬁnesse), Damage 2d10+7
+piercing plus Grab and septic malaria
+Blood Drain Ȱɵ Requirements The giant mosquito
+has a creature grabbed; Eﬀect The giant
+mosquito uses its proboscis to drain blood
+from the grabbed creature. This deals 3d6
+damage, and the giant mosquito gains
+temporary Hit Points equal to the damage
+dealt. A creature that has its blood drained by a giant mosquito is
+drained 1 until it receives healing of any kind or amount.
+Septic Malaria (disease) The victim can’t reduce its sickened condition while it’s
+aﬀected by septic malaria; Saving Throw DC 24 Fortitude; Onset 1 day; Stage 1
+sickened 1 (1 day); Stage 2 drained 1 and sickened 1 (1 day); Stage 3 as stage 2 (1 day);
+Stage 4 unconscious (1 day); Stage 5 dead
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868673
+4425185
 
-================================================================================
 PAGE 178
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868675
+4425187
+L-N
+L-N
+177
+177
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 NATURAL WARNINGS
 Regions haunted by bog mummies
 lack small animals, insects, and
@@ -1559,50 +1789,86 @@ living, they mercilessly attack any living creatures that dare to venture into
 their dismal domains. Their agonized moans echo over their putrid homes,
 driving away most natural life dwelling therein and often alerting travelers to
 the potential danger that lies beneath the surface.
+BOG MUMMY
+CREATURE 5
+LE
+MEDIUM
+MUMMY
+UNDEAD
+Perception +12; darkvision, tremorsense (imprecise) 30 feet
+Languages Common, Necril
+Skills Athletics +12, Stealth +11 (+13 while buried in a bog)
+Str +5, Dex +2, Con +0, Int +0, Wis +1, Cha +0
+AC 21; Fort +13, Ref +9, Will +14
+HP 85, negative healing; Immunities death eﬀects, disease,
+paralyzed, poison, unconscious; Weaknesses cold 5; Resistances
+ﬁre 5
+Breath of the Bog (aura, divine, enchantment, mental) 30 feet.
+A creature that begins its turn within the area feels as if its
+lungs were ﬁlling with water and must succeed at a DC 19 Fortitude save or
+be unable to speak or breathe. The creature can still hold its breath and
+can attempt a new saving throw at the end of its turn. A creature that
+succeeds is temporarily immune to breath of the bog for 24 hours.
+Rise Up Ǻȓ Trigger A creature walks on top of a bog mummy that lies
+buried in the mud or peat below; Requirements Initiative has not
+yet been rolled; Eﬀect The bog mummy automatically notices
+the creature and Burrows before rolling initiative.
+Speed 20 feet; burrow 15 feet
+Melee Ȱɵ ﬁst +14, Damage 2d6+5 plus bog rot
+Bog Rot (curse, disease, divine, necromancy, negative)
+This aﬄiction can’t be reduced below stage 1, nor can
+the damage from it be healed, until it’s successfully
+treated with remove curse or a similar eﬀect;
+the aﬄiction can then be removed as normal
+for a disease. A creature killed by bog rot
+melts into a noxious sludge and can’t be
+resurrected except by a 7th‑level resurrect
+ritual or similar magic; Saving Throw DC
+21 Fortitude; Stage 1 carrier with no ill
+eﬀect (1 minute); Stage 2 3d6 negative
+damage and clumsy 1 (1 day)
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868675
+4425187
 
-================================================================================
-# MANTA RAY
-================================================================================
-
-Stingray Venom (poison) Saving Throw DC 16 Fortitude; Maximum Duration 4 rounds;
-Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and clumsy 1 (1 round)
-MANTA RAY
-While manta rays might
-appear daunting, they are
-generally docile. Manta rays are
-found in temperate or tropical oceans,
-and they generally stay in the upper reaches
-or at the surface of deeper waters. These rays are
-ﬁlter feeders that subsist on plankton. They can also
-eat larger ﬁsh or aquatic creatures as the need arises, but
-rarely attack anything Small or larger. Many underwater
-cultures, particularly aquatic elves, raise and farm manta
-rays to serve as messengers, beasts of burden, or even pets.
-Manta rays don’t make particularly good mounts, but some
-aquatic civilizations use them to draw underwater carriages.
-MANTA RAY
-CREATURE 1
-N
-LARGE
-ANIMAL
-AQUATIC
-Perception +6; electrolocation (imprecise) 30 feet, low-light vision
-Skills Athletics +8
-Str +3, Dex +3, Con +4, Int –4, Wis +1, Cha –1
-Electrolocation As stingray.
-AC 16; Fort +6, Ref +9, Will +6
-HP 24
-Speed swim 40 feet
-Melee Ȱɵ tail +8 (agile), Damage 1d8+3 bludgeoning
-Straﬁng Rush Ȱɵ The manta ray Swims, making one tail Strike at any point along the
-way. The Strike deals half damage.
-Swift Swimmer ʚʖ The manta ray Swims twice. It has a +10-foot circumstance bonus to
-its Speed during these actions.
-
-================================================================================
 PAGE 228
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868725
+4425237
+O-R
+O-R
+227
+227
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 EXCEPTIONS TO EVIL
 While most undead are evil, revenants
 are not—these unusual stalkers rise
@@ -1624,3 +1890,63 @@ circumstances of their demise. In such cases, it doesn’t matter that the “mu
 may not have intended to kill, for revenants understands no pity and can never
 forgive. Revenants have little memory of their lives other than anything they
 might need to recall in order to achieve their goal of vengeance.
+REVENANT
+CREATURE 6
+LN
+MEDIUM
+UNDEAD
+Perception +14; darkvision, sense murderer
+Languages any one spoken in life by their murderer (typically Common)
+Skills Athletics +15, Intimidation +14
+Str +5, Dex +3, Con +4, Int +0, Wis +3, Cha +2
+Sense Murderer (divination, occult, scrying) A revenant knows the
+direction of their murderer (as long as both are on the same plane), but
+not the distance.
+AC 23; Fort +14, Ref +13, Will +17
+HP 115, negative healing; Immunities death eﬀects, disease,
+paralyzed, poison, sleep; Resistances physical 5 (except slashing)
+Self-Loathing (emotion, mental, visual) If a revenant sees their own
+reﬂection or any object that was important to them in life, they
+must attempt a DC 25 Will save.
+Critical Success The revenant is unaﬀected and can no
+longer be aﬀected by that reﬂection or object in this way.
+Success The revenant is distracted by self-loathing and
+becomes slowed 1 for 1 round.
+Failure The revenant becomes fascinated by the source that triggered
+their self-loathing and does everything they can to destroy it until the end of
+the revenant’s next turn.
+Critical Failure The revenant becomes immobilized as long as the source of their
+self-loathing is apparent, until they’re attacked, or until they see their murderer.
+Undying Vendetta (emotion, necromancy, occult) If the revenant’s murderer
+dies, the revenant is immediately destroyed. A revenant that can’t sense their
+murderer must attempt a DC 11 ﬂat check once every 24 hours to avoid becoming
+immobilized and prone; they immediately rise again once they can sense their
+murderer. A murderer who becomes undead does not trigger the revenant’s
+destruction until the murderer is ﬁnally destroyed. The revenant gains a +2
+status bonus to checks and DCs against their murderer.
+Speed 25 feet
+Melee Ȱɵ claw +17 (agile), Damage 2d8+5 slashing plus Grab
+Baleful Shriek ʚʖ (auditory, emotion, fear, incapacitation, mental) The revenant
+wails horribly. Each creature within a 60-foot burst must attempt a DC 23
+Will save. Regardless of the outcome of their saving throw, aﬀected creatures
+are then immune to Baleful Shriek for 1 hour. The revenant’s murderer never
+improves their degree of success due to this ability’s incapacitation trait. The
+revenant can’t use Baleful Shriek again for 1d4 rounds.
+Critical Success The creature is unaﬀected.
+Success The creature is frightened 2.
+Failure The creature is frightened 2 and paralyzed for 1 round.
+Critical Failure The creature is frightened 3 and paralyzed for
+1d4 rounds.
+Constrict Ȱɵ 2d6+5 bludgeoning, DC 24
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868725
+4425237

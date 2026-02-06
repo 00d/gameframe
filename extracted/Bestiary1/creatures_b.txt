@@ -82,6 +82,27 @@ exquisite jewelry, and works of art.
 PAGE 20
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668872
+4425029
+A-C
+19
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 their wings to mentor them. Astral devas carry scrolls containing important
 messages and other celestial secrets.
 Astral devas can form spontaneously from the souls of exceptional
@@ -92,126 +113,107 @@ deva created by Sarenrae, for example, might have hair made of ﬁre, while one
 created by Torag might look more dwarven, and one created by Desna could
 have butterﬂy wings instead of feathered wings. It’s not unusual for astral devas
 created by lawful good or chaotic good deities to share their creators’ alignment.
-
-================================================================================
-# BANSHEE
-================================================================================
-
-
-Bestiary
-BORN FROM TRAGEDY
-The banshee represents one of the
-most tragic of undead, a soul so
-wracked with agony and fury over
-a betrayal in life that, in death, it
-lingers on as a great evil. That most
-of those who become banshees
-were not evil in life only deepens
-this tragic theme, and many elven
-adventurers see it as their duty
-not only to put banshees to rest,
-but to right the wrong that
-saw their creation in the
-ﬁrst place.
-Banshee
-Banshees are the furious, tormented souls of elves bound to the Material Plane
-by a betrayal that deﬁned the ﬁnal hours of their lives. Some banshees arise from
-elves who were slain by trusted friends and allies, or whose loved ones betrayed
-them on their deathbeds. Others spawn from elves whose treacherous deeds
-shortly before their deaths left a stain upon their souls. Regardless of their origin,
-banshees despise the living. This hatred of life is all too often a horriﬁc inversion
-of their personalities in life. Some speculate that the more kind-hearted the elf
-(and the more wrenching the betrayal), the crueler the banshee.
-Banshees rarely stray far from where they perished and typically haunt
-thick forests and canopied swamps where little light graces the ground. Many
-banshees can be found in the elven nation of Kyonin, speciﬁcally in Tanglebriar,
-the sinister domain of the demon Treerazer. Similarly, a large number of banshees
-can be found lurking about the edges of drow settlements in the Darklands, as
-plenty of cruelty and betrayal exists in drow culture.
-Banshees’ mere touch inﬂicts pain and primal fear, and those
-exposed to their wails of grief rarely survive the experience.
-BANSHEE
-CREATURE 17
-UNCOMMON
-CE
+ASTRAL DEVA
+CREATURE 14
+NG
 MEDIUM
-INCORPOREAL
-SPIRIT
-UNDEAD
-Perception +32; hears heartbeats (imprecise) 60 feet, darkvision
-Languages Common, Elven
-Skills Acrobatics +31, Intimidation +32, Occultism +25
-Str –5, Dex +6, Con +2, Int +0, Wis +7, Cha +7
-Hears Heartbeats The banshee can hear heartbeats within 60 feet (imprecise).
-Sunlight Powerlessness If in direct sunlight, the banshee is slowed 1 and
-can’t use actions that have the attack trait.
-AC 39; Fort +25, Ref +29, Will +32
-HP 250, negative healing; Immunities disease, paralyzed, poison,
-precision, unconscious; Resistances all damage 12 (except force,
-ghost touch, or positive; double resistance vs. non-magical)
-Vengeful Spite Ǻȓ (evocation, occult); Trigger A foe critically hits
-the banshee, or the banshee critically fails their save against a foe’s
-damaging eﬀect. Eﬀect The banshee lashes back at their tormentor,
-dealing 4d10+14 mental damage (DC 38 basic Will save) and applying
-the eﬀects of terrifying touch based on the results of the same Will save.
-Speed ﬂy 60 feet
-Melee Ȱɵ hand +32 (ﬁnesse, magical), Damage 4d10+14 negative plus
-terrifying touch
-Spectral Ripple When a banshee Strides at least 10 feet, they’re
-concealed until the start of their next turn.
-Terrifying Touch (emotion, enchantment, fear, occult) A creature damaged
-by the banshee’s touch that isn’t already frightened must attempt a DC
-38 Will save (DC 43 if the attack was a critical hit). If the creature fails
-its save, it’s frightened 2; on a critical failure, the creature also cowers
-with fear and is stunned 4. If the creature is protected against fear by a
-spell or magic item, the banshee’s touch ﬁrst attempts to counteract the
-protection eﬀect, with the eﬀect of a 9th-level dispel magic spell.
-Wail ʚʖ (auditory, concentrate, death, necromancy, occult) The banshee
-unleashes a soul-chilling wail of the banshee (DC 38). This Wail overcomes
-silence and similar eﬀects of 5th level or lower. The banshee can instead
-use Wail as a three-action activity to overcome such eﬀects of up to
-8th level.
-The banshee’s Wail resonates for 1 round, and any creature that comes
-within the area during that time must attempt a save against the eﬀect. A
-creature can’t be aﬀected more than once by the same Wail. The banshee
-can’t Wail again for 1d4 rounds.
+ANGEL
+CELESTIAL
+Perception +26; darkvision
+Languages Celestial, Draconic, Infernal; tongues
+Skills Acrobatics +24, Diplomacy +26, Intimidation +28,
+Religion +24
+Str +8, Dex +4, Con +5, Int +4, Wis +4, Cha +6
+Items +2 striking warhammer
+AC 36; Fort +27, Ref +26, Will +22; +1 status to all saves vs. magic
+HP 285; Weaknesses evil 15
+Traveler’s Aura (abjuration, aura, divine) 20 feet. Creatures in the
+astral deva’s aura are protected from ambient environmental
+damage from any plane, including severe and extreme heat and
+cold as well as more exotic dangers. The astral deva
+is never ﬂat-footed to creatures within its aura.
+Messenger’s Amnesty (abjuration, divine) An astral
+deva with a message to deliver is continually
+protected by the eﬀect of sanctuary (DC 32).
+If the deva breaks the sanctuary, the eﬀect
+returns if the deva ceases hostility for
+10 minutes.
+Speed 40 feet, ﬂy 75 feet
+Melee Ȱɵ holy warhammer +30 (good,
+magical,
+shove),
+Damage
+2d8+22
+bludgeoning plus 1d6 good
+Divine Innate Spells DC 36, attack +28;
+7th blade barrier, divine decree,
+divine wrath, heal, remove curse,
+remove disease,
+remove fear;
+4th discern lies (at will); 2nd
+invisibility (at will, self only);
+1st detect alignment (at will,
+evil only); Cantrips (7th) light;
+Constant (5th) tongues
+Divine Rituals DC 36; angelic
+messenger
+Divine Armament (divine,
+evocation) Any weapon
+gains the effect of a
+holy
+property
+rune
+while an astral deva
+wields it.
+Stunning Strike Ȱɵ Requirements The astral deva hit a foe earlier this turn with a weapon
+Strike. Eﬀect The astral deva makes a weapon Strike against the foe. On a success, the
+foe must succeed at a DC 34 Fortitude save or become stunned 1. On a critical failure,
+the foe is stunned 2 instead.
+OTHER ANGELS
+The most powerful angels
+are known as the solars, but
+numerous others can be found
+in Nirvana working their own
+missions or goals. Angels
+generally appear as beautiful,
+often somewhat androgynous
+humanoids, and the most powerful
+often possess two or even four
+sets of feathered wings.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668872
+4425029
 
-================================================================================
 PAGE 36
 ================================================================================
 
-MYSTERIOUS ORIGINS
-All too often, those who study
-stranger monsters make the
-assumption that they were
-created by powerful but ill-advised
-wizards or are the result of ancient
-manipulations from the alghollthu
-empire. In the case of the baomal,
-extensive research suggests that
-neither of these explanations are
-accurate. No ancient texts have yet
-been recovered in which a wizard
-claims to have created the ﬁrst
-baomal. And while the alghollthu
-of today use them as warbeasts,
-ancient carvings suggest that in
-the earliest days, baomals were
-ravenous hunters of alghollthus.
-Baomal
-Few sea monsters are as dreaded and feared as the two-headed baomal. These
-massive predatory beasts typically dwell in the deepest waters and compete with
-krakens and other monsters for food. They feed on whales and other large sea
-creatures, sometimes following them to the water’s surface. Near the surface,
-baomals that encounter ships quickly learn that they contain a variety of tasty
-morsels. The creatures use their devastating spikes to rip open the ships’ hulls,
-then leisurely feed on the helpless sailors.
-
-================================================================================
-# BAOMAL
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668888
+4425045
+A-C
+35
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 MYSTERIOUS ORIGINS
 All too often, those who study
 stranger monsters make the
@@ -290,35 +292,30 @@ every creature within 10 feet of the deck’s edge (DC 42 basic Reﬂex save).
 Two-Headed Strike ʚʖ The baomal makes a Strike with each set of jaws, each against a
 diﬀerent creature. These Strikes count as one attack for the baomal’s multiple attack
 penalty, and the penalty doesn’t increase until after both attacks.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668888
+4425045
 
-================================================================================
 PAGE 37
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668889
+4425046
 Bestiary
-Barghest
-Barghests are lupine ﬁends with goblinoid faces and humanoid hands. They stalk
-the Material Plane in search of souls to sate their demonic hunger. Eons ago,
-barghests dwelled in the pits of Hell and served Asmodeus, but after Lamashtu
-abducted and adopted the four most powerful of their kind to serve as pets (and in
-time, as a pantheon of hero-gods worshipped by evil goblins), barghests’ loyalties
-and philosophical nature changed signiﬁcantly. Today, while barghests retain their
-connection to goblinoids, they serve none but their own appetites.
-Barghest
-Typical barghests are ravenous gluttons of life who feed and grow on the fat of
-mortals, their bodies changing in ways none can predict as they use the ﬂesh and
-blood of their victims to achieve grisly transformations into greater barghests.
-Barghests often make use of their shapechanging abilities to rule tribes of
-goblinoids or to discreetly hunt in rural areas in the guise of unnaturally intelligent
-wolves. They do not work well together, as each barghest wants all the kills for
-itself; cannibalism is the typical result of too many barghests in one small area.
-
-================================================================================
-# BARGHEST
-================================================================================
-
-
-Bestiary
+36
 Barghest
 Barghests are lupine ﬁends with goblinoid faces and humanoid hands. They stalk
 the Material Plane in search of souls to sate their demonic hunger. Eons ago,
@@ -391,12 +388,41 @@ goblins across multiple worlds as
 include Hadregash the slaver,
 Venkelvore the torturer, Zarongel
 the dog slayer, and Zogmugot
-the scavenger.
+the scavenger.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668889
+4425046
 
-================================================================================
 PAGE 38
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668890
+4425047
+A-C
+37
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 not decades. During that time, greater barghests continue to play the roles of
 gluttons, hunters of humanity, and tyrants of goblinoid tribes. More than a few
 grow accustomed to such lives on the Material Plane and wholly abandon the
@@ -410,99 +436,113 @@ their transformation. Others develop toxic breath or vestigial limbs. The option
 detailed in the stats below represent only the tip of the proverbial iceberg for
 barghest mutations—feel free to use these as inspiration for coming up with
 new mutations of your own design.
+GREATER BARGHEST
+CREATURE 7
+UNCOMMON
+CE
+LARGE
+FIEND
+MUTANT
+Perception +16; darkvision, scent (imprecise) 30 feet
+Languages Abyssal, Common, Goblin
+Skills Acrobatics +15, Athletics + 15, Deception +18, Diplomacy +14, Intimidation +16,
+Stealth +15, Survival +14
+Str +6, Dex +2, Con +4, Int +3, Wis +3, Cha +5
+AC 25; Fort +17, Ref +15, Will +12
+HP 105; Weaknesses good 5, lawful 5; Resistances ﬁre 10, physical 10 (except magical)
+Attack of Opportunity Ǻȓ
+Speed 35 feet
+Melee Ȱɵ jaws +17, Damage 2d10+6 piercing
+Melee Ȱɵ claw +17 (agile), Damage 2d8+6 slashing
+Divine Innate Spells DC 25; 4th blink (at will), confusion, dimension door,
+enlarge; 3rd levitate (at will); 2nd invisibility (at will); 1st charm
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation)
+As barghest.
+Mutations The process of consuming corpses to
+evolve into a greater barghest results in odd and
+unpredictable physiological changes. A greater
+barghest has one mutation, typically chosen from
+the following options.
+•	 Fangs (poison) The barghest grows elongated fangs
+that seep poison. Its jaws deal 1d6 additional poison
+damage and 1d6 persistent poison damage.
+•	 Toxic Breath ʚʖ (divine, evocation, poison) The
+barghest breathes a cloud of toxic gas that deals 8d6
+poison damage to all creatures in a 30-foot cone (DC 25
+basic Fortitude save). It can’t use Toxic Breath again for
+1d4 rounds.
+•	 Vestigial Arm Strike Ȳ˓ Frequency once
+per round; Trigger The barghest completes
+a Strike. Eﬀect The barghest makes a claw
+Strike with a shriveled third arm hanging
+from its torso. This attack doesn’t count for the
+barghest’s multiple attack penalty, nor does
+that penalty apply on
+the attack.
+•	 Wings The barghest
+has malformed wings
+extending
+from
+its
+back. It gains a ﬂy Speed
+of 25 feet.
+BARGHEST CULTS
+The barghest hero-gods may
+be the only ones of their kind
+capable of granting spells to
+their clerics, but the idea of
+adoring worshippers appeals to
+all barghests. A barghest that
+completes its transformation into
+a greater barghest, and thus is no
+longer morbidly distracted by its
+hunger, often plays the role of a
+deity to ignorant groups of goblins
+or other monsters. To them, the
+fact that the barghest can’t grant
+spells is irrelevant—rather, their
+veneration is due the fact that
+worshipping the barghest is the
+best way to keep it from devouring
+the entire tribe.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668890
+4425047
 
-================================================================================
-# BASILISK
-================================================================================
-
-
-Bestiary
-Basilisk
-The basilisk is an eight-legged reptile with a nasty disposition and the ability
-to turn creatures to stone with its gaze. Folklore holds that, much like for the
-cockatrice, the ﬁrst basilisks hatched from leathery eggs laid by snakes and
-incubated by roosters, but little in the basilisk’s physiology lends any credence
-to this claim.
-A basilisk prefers to eat petriﬁed ﬂesh. Once a victim has been turned to
-stone, the basilisk crunches the fossilized corpse with its powerful jaws and lets
-its potent stomach acids do the rest. This digestive process is extremely slow
-and inefﬁcient, causing the basilisk to move so lethargically that it appears as
-if in mid-petriﬁcation itself. This has even led to the saying “as slow as a wellfed basilisk.” Certainly basilisks are well-known for their slow gait and slothful
-nature, but a predator that can turn its prey to stone with a glance hardly has
-much need for speed.
-An adult basilisk is 13 feet long from head to tail and weighs roughly 300
-pounds. These reptiles make hissing sounds when moving about that turns to
-a guttural gurgle when they’re agitated. Though they are normally solitary
-creatures that come together only to mate and lay eggs, there are periodic reports
-of regions being infested with unusual numbers of basilisks. What causes these
-unusual congregations of basilisk activity is unknown.
-For unknown reasons, weasels and ferrets are immune to the basilisk’s stare,
-and they sometimes sneak into basilisk lairs while a parent is hunting in order
-to consume eggs or freshly hatched young. Some legends suggest that a
-basilisk’s blood can transmute common stones into other material, but this
-is likely a case of witnesses misinterpreting the magical restoration of
-previously petriﬁed creatures or body parts.
-BASILISK
-CREATURE 5
-N
-MEDIUM
-BEAST
-Perception +11; darkvision
-Skills Athletics +13, Stealth +8
-Str +4, Dex –1, Con +5, Int –3, Wis +2, Cha +1
-AC 22; Fort +14, Ref +8, Will +11
-HP 75
-Petrifying Glance Ǻȓ (arcane, aura, transmutation, visual); Trigger A
-creature within 30 feet that the basilisk can see starts its turn.
-Eﬀect The target must attempt a DC 20 Fortitude save. If it fails,
-it’s slow 1 for 1 minute as its body slowly stiﬀens.
-Speed 20 feet
-Melee Ȱɵ jaws +15, Damage 2d8+4 piercing
-Petrifying
-Gaze
-ʚʖ
-(arcane,
-concentrate,
-incapacitation, transmutation, visual); The basilisk
-stares at a creature it can see within 30 feet. That
-creature must attempt a DC 22 Fortitude save. If it
-fails and has not already been slowed by Petrifying
-Glance or this ability, it becomes slowed 1. If
-the creature was already slowed by this ability
-or Petrifying Glance, a failed save causes the
-creature to be petriﬁed permanently.
-A creature petriﬁed in this manner that
-is coated (not just splashed) with fresh
-basilisk blood (taken from a basilisk
-that has been dead no longer than
-1 hour) is instantly restored to
-ﬂesh. A single basilisk contains
-enough blood to coat 1d3 Medium
-creatures in this manner.
-BASILISK LAIRS
-Basilisks can be found in almost
-any terrestrial environment,
-including forests, hills, mountains,
-plains, and swamps. They tend
-to dwell in caves or sheltered
-areas, and their hides often bear
-complexions that allow them
-to more easily blend with their
-environments. As a result, forestdwelling basilisks may have scales
-of a verdant emerald color to
-match surrounding vegetation,
-while a basilisk that lives in the
-desert may be a sandy brown or
-shale color.
-
-================================================================================
 PAGE 40
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668892
+4425049
+A-C
+39
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Bat
 A wide range of bats dwell throughout the world. Most of these nocturnal animals
 are harmless insectivores, but deadly breeds of vampire bats and oversized bats
-the size of horses pose much more signiﬁcant threats to adventurers.
+the size of horses pose much more signiﬁcant threats to adventurers.
 Vampire Bat Swarm
 Although the typical vampire bat has a wingspan of 7 inches and doesn’t pose
 a signiﬁcant threat to larger prey alone (and indeed, these blood-drinkers can
@@ -511,167 +551,105 @@ species of these bats hunt in deadly swarms. A churning cloud of vampire bats
 is much more dangerous than the sum of its individual parts and is capable of
 inﬂicting an overwhelming number of bleeding wounds in a frighteningly short
 span of time.
-
-================================================================================
-# BOAR
-================================================================================
-
-
-BOAR RESOURCES
-A boar’s carcass typically provides
-enough meat for 100 meals or
-more, as well as hide and bristles
-that can be used for crafting.
-Boar
-While domesticated pigs are a staple of farm life, wild boars are much more
-dangerous. Foul-tempered warthogs are relatively common, while the lumbering,
-primeval beasts known as daeodons are less so. Voracious eaters, boars can
-ravage the countryside in which they live. Boars breed freely, and a pair of boars
-can rapidly grow to a large family. Boars are a particular nuisance to farmers, as
-they break into food stores and root through gardens to sate their hunger.
-Boar
-Boars are omnivorous mammals, hunted heavily because their meat is considered
-a delicacy. Boars are most likely to attack humanoids either in self-defense or
-during their mating season in the winter months, when the males grow an extra
-inch of tissue to protect their organs as they ﬁght off rivals. Of course, in some
-cultures boars are trained to become much more aggressive so they can ﬁll the
-roles of warbeast and guardian. When such boars escape back into the wild, they
-can become true terrors of the region.
-BOAR
+VAMPIRE BAT SWARM
+CREATURE 1
+N
+LARGE
+ANIMAL
+SWARM
+Perception +10; echolocation (precise) 20 feet, low-light vision
+Skills Acrobatics +7, Athletics +4 (+7 to Climb), Stealth +7
+Str +1, Dex +4, Con +1, Int –4, Wis +3, Cha –3
+Echolocation A bat swarm can use its hearing as a precise sense at the listed range.
+AC 15; Fort +6, Ref +9, Will +6
+HP 11; Immunities precision, swarm mind; Weaknesses area damage 3, splash damage 3;
+Resistances bludgeoning 6, piercing 6, slashing 3
+Speed 5 feet, ﬂy 30 feet
+Blood Feast Ȱɵ Each enemy in the bat swarm’s space takes 1d4 piercing damage (DC 16
+basic Reﬂex save). Creatures that fail this save also take 1 persistent bleed damage.
+Giant Bat
+While big bats are certainly not uncommon in dark caves and abandoned ruins
+and may instill fear in squeamish spelunkers, the so-called giant bat is a true
+monster, weighing well over 100 pounds and having a wingspan of nearly 15
+feet. It primarily eats fruit and bugs, but can be incited to violence through fear
+or hunger. Giant bat attacks can quickly give rise to rumors
+of more dangerous monsters—many mistake these massive
+animals for some sort of demon or vampiric monster. But like
+other bats, giant bats are simply social and intelligent mammals.
+They are sometimes used as mounts by smaller humanoids,
+commonly those who hail from or dwell in mountainous or
+underground regions.
+GIANT BAT
 CREATURE 2
 N
-MEDIUM
+LARGE
 ANIMAL
-Perception +8; low-light vision, scent (imprecise) 30 feet
-Skills Acrobatics +5, Athletics +8, Survival +8
-Str +4, Dex +1, Con +4, Int –4, Wis +2, Cha –3
-AC 18; Fort +10, Ref +5, Will +8
+Perception +11; echolocation (precise) 40
+feet, low-light vision
+Skills Acrobatics +8, Athletics +8, Stealth +8
+Str +4, Dex +2, Con +3, Int –4, Wis +3, Cha –2
+Echolocation A bat can use its hearing as a precise
+sense at the listed range.
+AC 18; Fort +9, Ref +8, Will +7
 HP 30
-Ferocity Ǻȓ
-Speed 40 feet
-Melee Ȱɵ tusk +10, Damage 2d6+4 piercing
-Boar Charge ʚʖ The boar Strides twice and then makes a tusk Strike. As long as it
-moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll.
-Daeodon
-Where the typical boar is merely ill-tempered and generally unfriendly, the
-towering daeodon is legitimately hateful and ruthlessly violent. Although
-omnivorous, the daeodon (known in some regions simply as a giant boar)
-prefers to feed on ﬂesh. Primarily a scavenger, the daeodon isn’t adverse
-to attacking creatures it encounters while searching for easier meals, or
-to protect any perceived encroachment into its lair or feeding grounds.
-Particularly brave or skilled orcs are fond of using daeodons as
-mounts or war-trained battle beasts; orc cavalry mounted on
-daeodons is a fearsome force indeed.
-A typical adult daeodon is 10 feet long and 7 feet tall at
-the shoulder. It weighs approximately 2,000 pounds.
+Wing Thrash Ǻȓ Trigger An adjacent enemy damages the
+giant bat. Effect The bat makes one or two wing Strikes—
+one against the triggering creature and one against another
+adjacent creature.
+Speed 15 feet, ﬂy 30 feet
+Melee Ȱɵ fangs +10, Damage 1d10+4 slashing
+Melee Ȱɵ wing +10 (agile), Damage 1d6+4 piercing
+BAT LOCATIONS
+Vampire bat swarms roost in
+colonies wherever they can
+ﬁnd shelter from weather, light,
+and predators, favoring caves,
+trees, and narrow gorges. Giant
+bats prefer to dwell in smaller
+numbers in deep caves, abandoned
+mines, or the attics of abandoned
+buildings. Even larger species
+dwell in the deeper regions of
+the Darklands, where they are
+often used as mounts, or even
+ritualistically slaughtered and then
+animated as specialized undead
+guardians of eerie underground
+cities and nations.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668892
+4425049
 
-================================================================================
-# BOGGARD SCOUT
-================================================================================
-
-
-Bestiary
-BOGGARD VILLAGES
-Boggards prefer to dwell in
-swamplands and mires. Though
-they are at home in the water, they
-prefer to spend most of their lives
-on land, and build villages of mud
-huts. They often keep guardian
-beasts, such as bloodseekers
-(page 42), crocodiles (page 67),
-giant frogs, or other feral animals
-tamed (if only just barely) to serve
-as protectors.
-Boggard
-Boggards are aggressive humanoid amphibians that thrive in swamps, marshes,
-and even some rain forests. Boggards hatch from eggs into tadpoles, ﬁercely
-competing for food and even consuming their siblings in that struggle. Over 3
-years, the surviving boggards develops arms, legs, and lungs while learning the
-rudiments of hunting, crafts, and warfare—everything needed to survive in their
-might-makes-right society. At the top of most boggard hierarchies lords a hulking
-swampseer imbued with sinister divine magic.
-Boggard Scout
-Often tasked with patrolling the borders of their lands, boggard scouts learn to
-speak another language (typically Common) to make it easier to issue threats and
-insults toward trespassers.
-BOGGARD SCOUT
-CREATURE 1
-CE
-MEDIUM
-AMPHIBIOUS
-BOGGARD
-HUMANOID
-Perception +7; darkvision
-Languages Boggard, Common
-Skills Acrobatics +5, Athletics +8, Stealth +7 (+9 in water)
-Str +3, Dex +2, Con +4, Int –1, Wis +2, Cha +0
-Items leather armor, morningstar, sling (10 bullets)
-AC 16; Fort +9, Ref +5, Will +7
-HP 24
-Speed 20 feet, swim 25 feet; swamp stride
-Melee Ȱɵ morningstar +8 (versatile P), Damage 1d6+3 bludgeoning
-Melee Ȱɵ tongue +8 (reach 10 feet), Eﬀect tongue grab
-Ranged Ȱɵ sling +7 (propulsive, reload 1, range increment 50 feet), Damage 1d6+1
-bludgeoning
-Swamp Stride A boggard scout ignores diﬃcult terrain caused by swamp terrain features.
-Terrifying Croak Ȱɵ (auditory, emotion, fear, mental) The boggard scout unleashes a
-terrifying croak. Any non-boggard within 30 feet becomes frightened 1 unless they
-succeed at a DC 17 Will save; those who critically succeed are temporarily immune for
-1 minute.
-Tongue Grab If the boggard scout hits a creature with its tongue, that creature becomes
-grabbed by the boggard. Unlike with a normal grab, the creature isn’t immobilized, but
-it can’t move beyond the reach of the boggard’s tongue. A creature can sever the
-tongue by hitting AC 13 and dealing at least 2 slashing damage. Though this doesn’t
-deal any damage to the boggard, it prevents it from using its tongue Strike until it
-regrows its tongue, which takes a week.
-Boggard Warrior
-Boggard warriors exalt in single combat, and prefer to ﬁght alone so that
-none can contest their kills. They have been known to pursue enemies who ﬂee
-combat with a single-mindedness that seems almost supernatural.
-
-================================================================================
-# BOGGARD WARRIOR
-================================================================================
-
-bludgeoning
-Swamp Stride A boggard scout ignores diﬃcult terrain caused by swamp terrain features.
-Terrifying Croak Ȱɵ (auditory, emotion, fear, mental) The boggard scout unleashes a
-terrifying croak. Any non-boggard within 30 feet becomes frightened 1 unless they
-succeed at a DC 17 Will save; those who critically succeed are temporarily immune for
-1 minute.
-Tongue Grab If the boggard scout hits a creature with its tongue, that creature becomes
-grabbed by the boggard. Unlike with a normal grab, the creature isn’t immobilized, but
-it can’t move beyond the reach of the boggard’s tongue. A creature can sever the
-tongue by hitting AC 13 and dealing at least 2 slashing damage. Though this doesn’t
-deal any damage to the boggard, it prevents it from using its tongue Strike until it
-regrows its tongue, which takes a week.
-Boggard Warrior
-Boggard warriors exalt in single combat, and prefer to ﬁght alone so that
-none can contest their kills. They have been known to pursue enemies who ﬂee
-combat with a single-mindedness that seems almost supernatural.
-BOGGARD WARRIOR
-CREATURE 2
-CE
-MEDIUM
-AMPHIBIOUS
-BOGGARD
-HUMANOID
-Perception +8; darkvision
-Languages Boggard
-Skills Athletics +8, Intimidation +5, Stealth +6 (+8 in water)
-Str +4, Dex +0, Con +4, Int –1, Wis +2, Cha +1
-Items club, javelin (3), studded leather armor
-AC 17; Fort +10, Ref +5, Will +8
-HP 38
-Speed 20 feet, swim 25 feet; swamp stride
-Melee Ȱɵ club +10, Damage 1d6+6 bludgeoning
-Melee Ȱɵ tongue +10 (reach 10 feet), Eﬀect tongue grab
-
-================================================================================
 PAGE 46
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668898
+4425055
+A-C
+45
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 GOGUNTA
 Gogunta is the patron of the
 boggard people, many of whom
@@ -693,18 +671,6 @@ stinking cloud, 5th: black
 tentacles
 Ranged Ȱɵ javelin +6 (thrown 30 feet), Damage 1d6+4 piercing
 Ranged Ȱɵ club +6 (thrown 10 feet), Damage 1d6+6 bludgeoning
-Swamp Stride As boggard scout.
-Terrifying Croak Ȱɵ (auditory, emotion, fear, mental) As boggard scout, except DC 18.
-Tongue Grab As boggard scout, except AC 15 and 3 HP.
-Boggard Swampseer
-The boggard swampseer has been gifted with magic through its worship of the
-demon lord Gogunta, and uses its power to rule a boggard village, keeping the
-rest of the village in line and planning raids on nearby communities.
-
-================================================================================
-# BOGGARD SWAMPSEER
-================================================================================
-
 Swamp Stride As boggard scout.
 Terrifying Croak Ȱɵ (auditory, emotion, fear, mental) As boggard scout, except DC 18.
 Tongue Grab As boggard scout, except AC 15 and 3 HP.
@@ -766,58 +732,30 @@ Activation Ȱɵ (Interact)
 Saving Throw DC 17 Fortitude; Onset 10 minutes; Maximum
 Duration 30 minutes; Stage 1 dazzled (10 minutes); Stage 2 dazzled and
 frightened 1 (10 minutes); Stage 3 frightened 1 and confused 1 (1 minute)
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668898
+4425055
 
-================================================================================
 PAGE 47
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668899
+4425056
 Bestiary
-DOMINION OF THE BLACK
-Brain collectors typically hunt
-alone, yet some adopt morbid
-cults that include followers
-who hope to have their own
-brains harvested by these alien
-invaders. The Dominion of the
-Black includes a wide array of
-monstrous aliens, of which the
-brain collectors are merely the
-most commonly encountered on
-terrestrial worlds. Many of these
-aliens have aﬃnities for stealing
-thoughts, inhabiting bodies, or
-feeding on memories—the focus
-on the consumption of brains and
-of identities suggesting disturbing
-truths about their coalition.
-Brain Collector
-The grotesque brain collectors (or neh-thalggus, as they call themselves) originate
-from worlds far beyond the known solar system, and are part of a conglomeration
-of hostile aliens known collectively as the Dominion of the Black. Whether driven
-by their own schemes or directives from sinister overlords, brain collectors arrive
-in living starships to harvest the brains of intelligent creatures. These aberrations
-draw no nutrition from brains, instead storing them for analysis and as vessels for
-occult magical energies.
-A brain collector’s form evokes that of a tailless scorpion, but the pulsing
-brain-ﬁlled blisters that glisten along its back make them impossible to mistake
-for merely oversized arachnids. Baleful eyes glare from the joints on their legs,
-and the unsettling, intrusive whisper-thoughts they telepathically broadcast
-into the minds of those they seek to feed on can be interpreted as threats or
-promises alike.
-Brain collectors have very little empathy for the denizens of any world they
-visit, despite the fact that certain cults venerate them, or the Dominion they hail
-from, as if they were gods. To brain collectors, terrestrial creatures are simply
-resources for their magical needs and occult powers. They have little interest in
-worshipping gods or being worshipped themselves, yet they do practice strange
-forms of religion of their own, in which they consider the primordial forces of
-deep space as worthy of faith and fear.
-
-================================================================================
-# BRAIN COLLECTOR
-================================================================================
-
-
-Bestiary
+46
 DOMINION OF THE BLACK
 Brain collectors typically hunt
 alone, yet some adopt morbid
@@ -866,7 +804,7 @@ ABERRATION
 Perception +18; darkvision
 Languages Abyssal, Aklo, Common, Draconic, Protean, Undercommon; telepathy 100 feet
 Skills Acrobatics +17, Arcana +18, Athletics +16, Lore (all subcategories) +18,
-Occultism +21, Stealth +17
+Occultism +21, Stealth +17
 Str +6, Dex +3, Con +5, Int +4, Wis +4, Cha +3
 AC 26; Fort +15, Ref +13, Will +18; +1 status to all saves vs. magic
 HP 140; Immunities confused; Weaknesses brain loss
@@ -877,7 +815,7 @@ Brain Loss If a brain collector takes 30 damage from a critical hit or takes
 25 mental damage, it must succeed at a DC 26 save (Fortitude for critical
 damage or Will for mental damage) or one of its brain blisters is destroyed.
 Speed 25 feet, ﬂy 30 feet
-Melee Ȱɵ jaws +20, Damage 2d12+6 piercing plus brain collector venom
+Melee Ȱɵ jaws +20, Damage 2d12+6 piercing plus brain collector venom
 Melee Ȱɵ claw +20 (agile), Damage 2d8+6 slashing
 Occult Spontaneous Spells DC 26, attack +18; 4th (2 slots)
 confusion, phantasmal killer; 3rd (3 slots) dispel magic,
@@ -896,41 +834,40 @@ Collect Brain Ȱɵ (manipulate) The brain collector
 collects a brain of a creature that has been dead for no
 more than 1 minute. It can then use an Interact action to secure the brain in one of its
 empty brain blisters.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668899
+4425056
 
-================================================================================
 PAGE 48
 ================================================================================
 
-BUGBEAR LAIRS
-Bugbears live in small gangs that
-often prowl together, working as a
-group to sow torment. They keep
-their lairs in hard-to-ﬁnd places
-deep in the forest or hills.
-BUGBEAR TREASURE
-Though bugbears don’t have much
-concern for treasure, they’re prone
-to keeping gruesome trophies.
-Some might keep a leather cord
-strung with ears from their victims,
-while others collect severed ﬁngers
-or noses. Bits of valuable jewelry
-can sometimes remain on these
-grisly prizes.
-Bugbear
-These stealthy and cruel goblinoid creatures delight in spreading fear and
-tormenting their victims. Bugbears are the monsters lurking in the closet and
-hiding under the bed. Preying on remote farmsteads, bugbears reveal their
-presence with thumps in the night or creaks of boards to build lurking dread and
-arouse suspicion and fear.
-Bugbear Thug
-The more common bugbear thug specializes in the art of lurking in the shadows.
-
-================================================================================
-# BUGBEAR THUG
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668900
+4425057
+A-C
+47
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 BUGBEAR LAIRS
 Bugbears live in small gangs that
 often prowl together, working as a
@@ -974,23 +911,7 @@ Melee Ȱɵ ﬁst +10 (agile, nonlethal), Damage 1d4+4 bludgeoning
 Ranged Ȱɵ javelin +8 (thrown 30 feet), Damage 1d6+4 piercing
 Bushwhack Ȱɵ The bugbear thug Strides up to 10 feet and attempts to Grapple a
 creature they’re undetected by. If they succeed, they also deal ﬁst damage to
-that creature.
-Mauler The bugbear thug gains a +3
-circumstance bonus to damage rolls
-against creatures they have grabbed.
-Bugbear Tormentor
-The bugbear tormentor seeks to torture their
-prey as much through psychological intimidation as
-through physical harm. The longer a bugbear tormentor
-can keep their victim alive and terriﬁed, the better they feel.
-
-================================================================================
-# BUGBEAR TORMENTOR
-================================================================================
-
-Bushwhack Ȱɵ The bugbear thug Strides up to 10 feet and attempts to Grapple a
-creature they’re undetected by. If they succeed, they also deal ﬁst damage to
-that creature.
+that creature.
 Mauler The bugbear thug gains a +3
 circumstance bonus to damage rolls
 against creatures they have grabbed.
@@ -1016,68 +937,38 @@ Speed 25 feet
 Melee Ȱɵ dagger +11 (agile, versatile S), Damage 1d4+6 piercing
 Melee Ȱɵ sickle +11 (agile, ﬁnesse, trip), Damage 1d4+6 slashing
 Ranged Ȱɵ dagger +10 (agile, thrown 10 feet, versatile S), Damage 1d4+6 piercing
-Sneak Attack The bugbear tormentor deals 1d6 extra precision damage to ﬂatfooted creatures.
+Sneak Attack The bugbear tormentor deals 1d6 extra precision damage to ﬂat-
+footed creatures.
 Twin Feint ʚʖ The bugbear tormentor makes a dazzling series of attacks with
 two weapons, using the ﬁrst attack to throw their foe oﬀ guard against
 a second attack at a diﬀerent angle. They make one Strike with each of
 their two melee weapons, both against the same target. The target is
 automatically ﬂat‑footed against the second attack. Apply the bugbear
 tormentor’s multiple attack penalty to the Strikes normally.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668900
+4425057
 
-================================================================================
 PAGE 49
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668901
+4425058
 Bestiary
-BULETTE APPETITES
-Although bulettes will eat almost
-any living creature that they
-can catch within their vicious
-jaws, most of them have a
-particular fondness for the ﬂesh
-of halﬂings or horses. Lacking
-other food, a bulette might gnaw
-upon vegetable matter or even
-inanimate objects, although they
-don’t gain actual nourishment from
-doing so, this need to feed being
-merely an extension of a deeply
-compelling instinct.
-Bulette
-Bulettes are fearsome predators that roam just beneath the surface of desolate
-wilderness areas. When they burrow through the ground, only the ﬁn of their
-thickly armored backs protrudes above—at least until they are ready to leap out
-and strike their prey. Their appearance, appetite, and iconic dorsal ﬁn have earned
-the nickname “landshark.”
-A typical bulette claims a territory of approximately 500 square miles.
-When it ﬁnds an area rich in food, such as a farming village, it adds that
-area to its regular patrol route. Over the course of a few months, it can wipe
-entire settlements off the map. Bulettes are ﬁercely competitive creatures that
-battle relentlessly with other predators in their territory. They actively avoid
-contact or conﬂict with other members of their kind unless seeking a mate.
-Bulette pairs share territory and mate for life—a mated pair of bulettes being
-the only known exception to the creature’s penchant for solitude. They rear
-their young for a short period of time. The mated pair instruct the young
-bulette how to hunt, teaching their spawn which creatures are easiest to kill
-and which creatures to avoid. The mated pair drive off their young after its
-ﬁrst successful hunt.
-The ﬁrst bulettes were magically created guardians, intended to serve as
-frightening pets for a power-hungry and sadistic wizard. The technique for
-their creation, as well as their original purpose, has since been lost to history,
-and multiple conﬂicting accounts of ancient texts exist with dozens of wizards
-claiming to have been the ﬁrst inventor of the notorious beast. Some sages
-postulate that the original inventor may have been an elf—a theory born out
-of little more than the curious fact that bulettes, for all their ravenous nature,
-seem to ﬁnd elf ﬂesh unpalatable. Unfortunately for elves who stumble into a
-bulette’s path, bulettes are no less likely to kill them than any other intruder,
-simply leaving the bodies unconsumed where they fall.
-
-================================================================================
-# BULETTE
-================================================================================
-
-
-Bestiary
+48
 BULETTE APPETITES
 Although bulettes will eat almost
 any living creature that they
@@ -1151,54 +1042,40 @@ has made all the claw Strikes that are part of its
 Leaping Charge.
 Powerful Jumper A bulette jumps 10 feet up on a
 successful High Jump, or 20 feet up on a critical success.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668901
+4425058
 
-================================================================================
 PAGE 50
 ================================================================================
 
-BUNYIP TREASURE
-Bunyips have no use for treasure,
-and do not actively collect it,
-but the ﬂoors of their lairs are
-sometimes littered with the
-possessions of their humanoid
-victims. A bunyip’s teeth can be
-collected and sold (most bunyips
-have about 50 teeth at any one
-time). Alternatively, due to their
-elusiveness and fabled nature, a
-high-quality taxidermic bunyip
-could easily command a high price
-from a collector.
-Bunyip
-Bunyips are dangerous aquatic predators that resemble a cross between a shark
-and a seal. Found in freshwater inlets or saltwater coves worldwide, bunyips
-hunt where prey is plentiful, often to the consternation of coastal residents
-and ﬁsherfolk.
-Despite their outlandish appearance and tendency to defend their territory with
-loud, bellowing roars that echo for great distances, bunyips are very rarely sighted
-by humanoids, leaving many to question their existence. For hundreds of years,
-bunyips were widely regarded as nothing more than folk tales, and even now
-that their existence as a species has been proven, the existence of any particular
-bunyip in a local area is often met with heavy skepticism. While their limited
-shapechanging abilities are no doubt a signiﬁcant part of the reason for this air of
-mystery, another major factor is that the aquatic creatures rarely hunt humanoids,
-preferring to eat smaller animals. Most bunyips avoid human contact, except
-when one wanders too close to their den or favorite hunting spot, at which point
-the territorial bunyip attacks with swift and terrible ferocity. Many scholars agree
-that a large number of unexplained disappearances near coastal areas are the
-result of unreported bunyip aggression.
-In some ports, bunyips have learned that delicious prizes can be had from the
-chum and garbage discarded by ﬁshing boats and merchant vessels. They lurk
-close to the shore and carefully choose their victims, plucking them off docks and
-small boats. These bunyips are particularly careful to keep their true forms
-hidden, but this does little to dull rumors of monster-infested waters.
-
-================================================================================
-# BUNYIP
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668902
+4425059
+A-C
+49
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 BUNYIP TREASURE
 Bunyips have no use for treasure,
 and do not actively collect it,
@@ -1273,12 +1150,30 @@ doesn’t deal the 1d6 persistent bleed damage. It can choose to gain
 either a long snake tail, granting its tail Strike reach 10 feet and Grab, or
 squat crocodile legs, increasing its land Speed to 20 feet. If it uses Shift Form
 again, the bunyip can return to normal or switch between a long tail or crocodile legs.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668902
+4425059
 
-================================================================================
 PAGE 51
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668903
+4425060
 Bestiary
+50
 CALIGNI TREASURE
 Many calignis hide shiny
 baubles and trinkets beneath
@@ -1296,101 +1191,82 @@ surface dwellers call the caligni “dark folk,” a term they dislike because i
 reﬂect either their appearance or character, only their environment.
 Caligni Dancer
 Caligni dancers serve as intermediaries between caligni clans.
+CALIGNI DANCER
+CREATURE 1
+CN
+SMALL
+CALIGNI
+HUMANOID
+Perception +6; greater darkvision, light blindness
+Languages Caligni
+Skills Acrobatics +7, Performance +6, Stealth +7,
+Thievery +7
+Str +0, Dex +4, Con +2, Int –1, Wis +1, Cha +3
+Items baton (light mace), dagger
+AC 17; Fort +7, Ref +9, Will +4
+HP 18, death ﬂare
+Distracting Frolic Ǻȓ (fortune, manipulate) Trigger
+An ally within 10 feet of the dancer rolls a saving throw against
+a mental or illusion eﬀect. Eﬀect The target ally can roll the save
+twice and take the better result.
+Death Flare (light) When the dancer dies, their body combusts in
+a ﬂare of white light. All creatures in a 10-foot emanation must
+succeed at a DC 17 Fortitude save or be dazzled for 1d4 rounds.
+Calignis that fail this save are also frightened 1. The dancer’s
+gear and treasure are left in a pile where they died. As this isn’t
+a magical eﬀect, the light has no eﬀect within magical darkness.
+Speed 25 feet
+Melee Ȱɵ baton +9 (agile, ﬁnesse, shove), Damage 1d4 bludgeoning
+Melee Ȱɵ dagger +9 (agile, ﬁnesse, versatile S), Damage 1d4 piercing
+Ranged Ȱɵ dagger +9 (agile, thrown 10 feet, versatile S), Damage 1d4 piercing
+Occult Innate Spells DC 16; Cantrips (1st) counter performance (visual only;
+Core Rulebook 386), inspire courage (Core Rulebook 386)
+Dancer’s Curse Ȱɵ (curse, enchantment, occult, mental) The caligni dancer touches
+a foe and curses it. If the target fails a DC 18 Will save, it gains clumsy 1 and
+stupeﬁed 1. The target is then temporarily immune for 24 hours. These conditions
+persist until the curse is removed. The victim can attempt a new DC 18 Will save
+once per hour to end the curse.
+Sneak Attack The caligni dancer deals 1d6 extra precision damage to
+ﬂat-footed creatures.
+Caligni Creeper
+The most widespread of the caligni are the mischievous caligni creepers.
+CALIGNI CREEPER
+CREATURE 2
+CN
+SMALL
+CALIGNI
+HUMANOID
+Perception +8; greater darkvision, light blindness
+Languages Caligni
+Skills Acrobatics +8, Athletics +4, Stealth +10, Thievery +8
+Str +0, Dex +4, Con +3, Int –1, Wis +2, Cha +1
+Items black smear poison (3 doses; see page 50), dagger
+AC 19; Fort +9, Ref +10, Will +6
+HP 30, death ﬂash
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668903
+4425060
 
-================================================================================
-# BALOR
-================================================================================
-
-
-OTHER DEMONS
-The Abyss may be the largest of
-the Outer Planes, and mortals
-have an equally large capacity to
-betray themselves, society, and the
-natural order of reality. With this
-limitless source for increasingly
-specialized sins, the Abyss is
-constantly generating new types of
-demons to plague reality. While the
-vast majority of these are swiftly
-destroyed and never rise again,
-enough survive that dozens, if
-not hundreds, of types of demons
-are known to exist beyond those
-listed here. The shadowy invidiak
-is a demon without a body, born
-of envious souls. The goat-faced,
-ﬂame-hooved brimorak rises
-from the souls of arsonists. Slimy,
-horned blood demons spawn from
-assassins, boar demons from the
-greedy... the list goes on and on.
-demon lord. These balor lords are each unique creatures of 21st to 25th level in
-power who rule their own realm in the Abyss. In time, a balor lord can further
-develop into a unique creature with wildly different powers, even ascending to the
-role of a true demon lord.
-BALOR
-CREATURE 20
-CE
-LARGE
-DEMON
-FIEND
-Perception +36; darkvision, true seeing
-Languages Abyssal, Celestial, Draconic; telepathy 100 feet
-Skills Acrobatics +35, Athletics +37, Deception +36, Diplomacy +32, Intimidation +38,
-Religion +32, Society +32, Stealth +33
-Str +9, Dex +7, Con +9, Int +6, Wis +6, Cha +8
-Items longsword
-AC 45; Fort +39, Ref +35, Will +34; +1 status to all saves vs. magic
-HP 480; Immunities ﬁre; Weaknesses cold 20, cold iron 20, good 20
-Aura of Flame (aura, divine, evocation, ﬁre) 20 feet. A foe that starts its turn in the
-aura takes 3d6+10 ﬁre damage, or 6d6+20 ﬁre damage if the balor has grabbed or
-restrained it. A creature that hits a balor with an unarmed Strike takes 3d6+10 ﬁre
-damage, and weapons that hit a balor take 3d6+10 ﬁre damage.
-Attack of Opportunity Ǻȓ The balor can use Attack of Opportunity when a creature within
-their reach uses a concentrate action, in addition to its normal trigger. They can disrupt
-triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit.
-Death Throes (death, divine, evocation, ﬁre) When a balor dies, their body explodes in
-a 100-foot aura of intense demonic ﬂame. All creatures and objects in range take
-16d10 ﬁre damage (DC 45 basic Reﬂex save). Because the ﬂame is infused with
-Abyssal energy, creatures in the area apply only half their usual ﬁre resistance.
-Creatures with immunity to ﬁre use an outcome one degree of success better than
-what they rolled, instead of gaining the usual beneﬁt of immunity. The bodies of
-creatures reduced to 0 Hit Points by a balor’s death throes are completely incinerated
-into ﬁne ash.
-Speed 35 feet, ﬂy 70 feet
-Melee Ȱɵ vorpal cold iron silver longsword +40 (evil, magical, reach 10 feet, versatile P),
-Damage 4d8+17 slashing plus 1d6 evil
-Melee Ȱɵ cold iron silver ﬂame whip +40 (disarm, evil, ﬁre, magical, reach 20 feet, trip),
-Damage 4d6+17 ﬁre plus 1d6 evil, Improved Grab, and whip reposition
-Divine Innate Spells DC 44; 10th dimension door, divine decree (×2); 8th dispel magic (at
-will); 6th dominate (at will); 5th dimension door (at will); Cantrips (10th) telekinetic
-projectile; Constant (6th) true seeing
-Divine Rituals DC 44; Abyssal pact
-Dimensional Dervish A balor can cast their 5th-level innate dimension door with only a
-single action.
-Dispelling Strike Ȳ˓ Frequency once per round. Trigger The balor hits a creature, object,
-or spell eﬀect with a weapon Strike. Eﬀect The balor casts an innate dispel magic on
-the target of the triggering Strike.
-Infuse Weapons (divine, evocation) Any weapon a balor wields becomes a +3 major
-striking vorpal weapon made of cold iron and silver while the demon holds it. A
-weapon that isn’t eligible for the vorpal rune doesn’t gain its eﬀects. The balor can
-change its evil damage to chaotic whenever it attacks. The demon can conjure a whip
-made of ﬂames with an Interact action. This whip gains the same beneﬁts as other
-weapons the balor wields.
-Lifedrinker Ȳ˓ (divine, healing, necromancy) Trigger The balor kills a living creature that
-is at least 15th level. Eﬀect The balor drinks the triggering creature’s life force and
-regains 10d8+80 Hit Points.
-Whip Reposition When a balor grabs a creature with a whip Strike, they can move the
-creature to any space in the whip’s reach. The balor can move without ending the grab
-as long as the creature remains within the whip’s reach, and the balor can move the
-creature to any other space in the whip’s reach with an Interact action.
-
-================================================================================
 PAGE 85
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668937
+4425094
 Bestiary
+84
 THE SUN! IT BURNS!
 Deros are ﬁxated with curing their
 allergy to sunlight. To understand
@@ -1417,94 +1293,90 @@ approximately 70 pounds.
 Dero Stalker
 Dero stalkers are those charged with exploring the surface world by night and
 seeking out new victims to abduct.
+DERO STALKER
+CREATURE 2
+CE
+SMALL
+DERO
+HUMANOID
+Perception +5; darkvision
+Languages Aklo, Undercommon
+Skills Acrobatics +8, Medicine +3, Stealth +8, Thievery +8
+Str +2, Dex +4, Con +3, Int +0, Wis –1, Cha +1
+Items aklys (page 85) , giant centipede venom (4 doses), hand crossbow (20 bolts)
+AC 19; Fort +7, Ref +10, Will +3
+HP 30; Weaknesses vulnerable to sunlight
+Vulnerable to Sunlight A dero stalker takes 4 damage for every hour they’re exposed
+to sunlight.
+Nimble Dodge Ǻȓ Requirements The dero stalker is not encumbered. Trigger A
+creature targets the dero with an attack and the dero can see the attacker. Eﬀect
+The dero dodges out of the way, gaining a +2 circumstance bonus to AC against
+the triggering attack.
+Speed 20 feet
+Melee Ȱɵ aklys +8 (trip), Damage 1d6+2 bludgeoning
+Ranged Ȱɵ aklys +10 (ranged trip, tethered, thrown 20 feet; page 85), Damage
+1d6+2 bludgeoning
+Ranged Ȱɵ hand crossbow +10 (range increment 60 feet, reload 1), Damage 1d6
+piercing plus giant centipede venom
+Occult Innate Spells DC 17; Cantrips (1st) daze, ghost sound
+Sneak Attack A dero stalker deals 1d6 extra precision damage to ﬂat-footed creatures.
+Dero Strangler
+Dero stranglers specialize in capturing living victims, and they are often
+called upon to aid in abductions.
+DERO STRANGLER
+CREATURE 3
+CE
+SMALL
+DERO
+HUMANOID
+Perception +6; darkvision
+Languages Aklo, Undercommon
+Skills Athletics +11, Intimidation +7, Medicine +4, Stealth +10
+Str +4, Dex +3, Con +3, Int +0, Wis –1, Cha +2
+Items aklys (page 85), hand crossbow (10 bolts), lethargy poison (5 doses), rope (50 feet)
+AC 19; Fort +10, Ref +8, Will +6
+HP 45; Immunities confusion; Weaknesses vulnerable to sunlight
+Vulnerable to Sunlight As dero stalker, but 8 damage.
+Speed 20 feet
+Melee Ȱɵ aklys +11 (trip; page 85), Damage 1d6+6 bludgeoning
+Ranged Ȱɵ aklys +10 (ranged trip, tethered, thrown 20 feet), Damage 1d6+6
+bludgeoning
+Ranged Ȱɵ hand crossbow +10 (range increment 60 feet, reload 1), Damage
+1d6+2 piercing plus lethargy poison
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668937
+4425094
 
-================================================================================
-# BARBAZU
-================================================================================
-
-
-Bestiary
-FIENDISH RELATIONS
-Devils view daemonsʼ constant
-hunt for souls as a short-sighted
-waste of potential, and demonsʼ
-chaotic destruction of society
-and ﬂesh as uncivilized and
-obnoxious, but they do not loathe
-their ﬁendish counterparts.
-Indeed, most devils are more
-than willing to take advantage
-of daemons and demons as they
-can to further their
-own machinations.
-Barbazu (Bearded Devil)
-Barbazus, known also as bearded devils or infantry devils, are murderous ﬁends
-who satiate their lust for annihilation by serving as the foot soldiers of Hell’s
-armies, often leading hordes of lesser devils such as imps and lemures into
-battle. Bearded devils wield serrated glaives to inﬂict jagged gashes that resist
-healing magic, resulting in tremendous blood loss. When enemies come too
-close, bearded devils strike with the spines of their wriggling beards to deliver
-a wretched contagion called Avernal fever, savoring the sight of their victim’s
-strength being slowly devoured from within.
-Barbazus can be found savagely indulging the whims of evil infernal lords
-from all layers of Hell, rejoicing as they
-disseminate murder, misery, and anguish
-as they see ﬁt.
-BARBAZU
-CREATURE 5
-LE
-MEDIUM
-DEVIL
-FIEND
-Perception +13; greater darkvision
-Languages Celestial, Common, Draconic,
-Infernal; telepathy 100 feet
-Skills
-Acrobatics
-+11,
-Athletics
-+13, Intimidation +10, Religion +11,
-Stealth +11
-Str +4, Dex +2, Con +4, Int –2, Wis +2,
-Cha +1
-Items glaive
-AC 22; Fort +15, Ref +11, Will +11; +1 status to all
-saves vs. magic
-HP 60; Immunities ﬁre; Weaknesses good 5; Resistances
-physical 5 (except silver), poison 10
-Attack of Opportunity Ǻȓ
-Speed 35 feet
-Melee Ȱɵ glaive +15 (deadly 1d8, evil, forceful, magical, reach 10
-feet), Damage 1d8+7 slashing plus 2d6 evil and infernal wound
-Melee Ȱɵ claw +15 (agile, evil, magical), Damage 2d6+7 slashing
-plus 1d6 evil
-Melee Ȱɵ beard +15 (magical), Damage 1d6+7 piercing plus
-Avernal fever
-Divine Innate Spells DC 19; 5th dimension door; 4th dimension door (at will)
-Rituals DC 19; infernal pact
-Avernal Fever (disease); Saving Throw DC 23 Fortitude; Stage 1 carrier with
-no ill eﬀect (1 day); Stage 2 enfeebled 1 (1 day); Stage 3 enfeebled 2 (1 day)
-Infernal Wound (divine, necromancy) A bearded devil’s glaive Strike also deals 1d6
-persistent bleed damage that resists attempts to heal it. The ﬂat check to stop the
-bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or
-an ally successfully assists with the recovery.
-The DC to Administer First Aid to a creature with an infernal
-wound is increased by 5. A spellcaster or item attempting to
-use healing magic on a creature suﬀering from an infernal
-wound must succeed at a DC 21 counteract check or the
-magic fails to heal the creature.
-Reposition Ȳ˓ Trigger The devil hits a creature with a glaive
-Strike. Eﬀect The devil moves the creature 5 feet in any
-direction. The destination square must be within reach of the
-devil’s glaive. This movement doesn’t trigger reactions.
-Wriggling Beard Ȱɵ Frequency once per round. Eﬀect The barbazu makes a beard
-Strike. This Strike ignores their multiple attack penalty and doesn’t count toward
-that penalty.
-
-================================================================================
 PAGE 90
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668942
+4425099
+D
+89
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 DIABOLIC LOCATIONS
 The nine layers of Hell are the
 planar home of all devils, and
@@ -1529,71 +1401,91 @@ torturers and persecutors. The erinyes’ origin is entwined with Eiseth, hersel
 fallen angel and one of Hell’s most powerful demigods. The ﬁrst erinyes were all
 considered to be Eiseth’s metaphorical daughters, but erinyes formed since that
 time are no longer limited to a single gender.
+ERINYS
+CREATURE 8
+LE
+MEDIUM
+DEVIL
+FIEND
+Perception +18; greater darkvision, true seeing
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 feet
+Skills Acrobatics +17, Crafting +14, Deception +19,
+Diplomacy +15, Intimidation +19, Religion +16,
+Stealth +17
+Str +5, Dex +5, Con +5, Int +2, Wis +4, Cha +5
+Items
+breastplate,
++1 striking composite longbow
+(60 arrows), longsword, 100 feet of erinys-hair rope
+AC 27; Fort +17, Ref +19, Will +16; +1 status to all saves vs. magic
+HP 120; Immunities ﬁre; Weaknesses good 5; Resistances physical
+5 (except silver), poison 10
+Speed 25 feet, ﬂy 40 feet
+Melee Ȱɵ ﬂaming longsword +19 (evil, ﬁre, magical, versatile P),
+Damage 1d8+8 slashing plus 1d6 evil and 1d6 ﬁre
+Ranged Ȱɵ ﬂaming composite longbow +20 (deadly 1d10, evil, ﬁre,
+magical, range increment 100 feet, reload 0, volley 30 feet),
+Damage 2d8+4 piercing plus 1d6 evil and 1d6 ﬁre
+Ranged Ȱɵ rope +19 (magical, range increment 30 feet),
+Eﬀect rope snare
+Divine Innate Spells DC 26; 5th dimension door; 4th
+dimension door (at will), divine wrath, retributive
+pain (Core Rulebook 396); 3rd fear (at
+will), 2nd illusory object, illusory disguise
+(at will); Constant (6th) true seeing
+Rituals DC 26; infernal pact
+Flames of Fury Any weapon an erinys holds gains the eﬀects of a
+ﬂaming rune while they hold it.
+Furious Fusillade ̂ˬ The erinys hovers in place if they are
+ﬂying and ﬁres one arrow at any number of creatures in a
+30‑foot cone. Each attack is rolled separately. This counts as
+one attack for the purpose of the erinys’s multiple attack penalty.
+Rope Snare An erinys carries a coil of rope woven of their hair (use
+the statistics for rope) that animates in their hands. When a creature is
+hit by the erinys’s rope, a segment of the rope tears loose and wraps itself
+around the creature, imposing a 10–foot circumstance penalty to Speed. The
+piece that tears oﬀ is 10 feet long for a Medium or smaller creature, and doubles in
+length for each size larger than Medium. When a creature Escapes the eﬀect (DC 26),
+the detached segment of rope withers away into useless black sludge.
+Phistophilus (Contract Devil)
+Contract devils are clerks, scribes, and bureaucrats of Hell rarely found outside
+the infernal courts, and then almost always to pursue potential contracts,
+tempting mortals to sell their souls in exchange for achieving their worldly
+desires. If a target is desirable enough, a phistophilus can offer contracts for
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668942
+4425099
 
-================================================================================
-# BRONTOSAURUS
-================================================================================
-
-
-Bestiary
-HOLLOW WORLDS
-Another classic place that
-dinosaurs are found in ﬁction are
-in “hollow worlds.” Some campaign
-settings might not contain entire
-isolated worlds within them, but
-many, such as Golarion, have
-expansive underground lands. The
-deepest region of the Darklands
-of Golarion—a realm called Orv—is
-an optimal place to ﬁnd a hollow
-world. Typically infused with magic
-that allows for jungles to grow
-deep underground (and sometimes
-even sunlike orbs that illuminate
-the lands from above, simulating
-a day‑night cycle), areas such as
-Deep Tolguth of Orv make perfect
-places for dinosaurs to roam.
-Brontosauruses belong to a group of dinosaurs known as sauropods, all of
-which are immense in size. The brachiosaurus is among the tallest of these
-dinosaurs, and the diplodocus among the longest, but it’s likely that even larger
-behemoths exist.
-BRONTOSAURUS
-CREATURE 10
-N
-GARGANTUAN
-ANIMAL
-DINOSAUR
-Perception +16; low-light vision, scent (imprecise) 30 feet
-Skills Athletics +23
-Str +9, Dex +0, Con +5, Int –4, Wis +2, Cha +1
-AC 28; Fort +21, Ref +14, Will +16
-HP 220
-Speed 35 feet
-Melee Ȱɵ tail +23 (sweep, reach 20 feet), Damage 2d10+13 bludgeoning plus
-Improved Knockdown
-Melee Ȱɵ foot +23 (reach 15 feet), Damage 2d8+13 bludgeoning
-Tail Sweep ʚʖ The brontosaurus makes a tail Strike and compares the attack roll to the
-AC of up to three foes, each of whom must be within its tail’s melee reach and adjacent
-to at least one other target. It rolls damage only once and applies it to each creature
-hit. A Tail Sweep counts as two attacks for its multiple attack penalty.
-Trample ̂ˬ Huge or smaller, foot, DC 29
-Tyrannosaurus
-Widely regarded as the king of the dinosaurs, the tyrannosaurus is a massive
-predator with a wide mouth ﬁlled with viciously sharp teeth. Thundering
-beasts of fury and hunger, tyrannosauruses are bold and fearless carnivores
-that eagerly bite off great hunks of large prey and swallow smaller prey—such
-as most humanoids—in a single gulp. Although they can subsist on
-carrion, tyrannosaurs prefer live prey.
-Tyrannosauruses stand on two wide, powerful
-hind legs that allow them to run quickly,
-and their thick tails provide them with
-
-================================================================================
 PAGE 102
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668954
+4425111
+D
+101
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 OTHER DINOSAURS
 A wide range of dinosaurs are
 presented on these pages, but any
@@ -1601,7 +1493,8 @@ trip to the movies, exploration
 of dinosaur books, or a quick
 online search reveals a wealth of
 additional creatures that could ﬁt
-into your game as well. Armorheaded pachycephalosaurs,
+into your game as well. Armor-
+headed pachycephalosaurs,
 spike-thumbed iguanodons,
 duck-billed hadrosaurs, sail-backed
 spinosauruses, and more await
@@ -1630,107 +1523,86 @@ Even the smallest tyrannosaurs, such as the nanotyrannus, are never smaller
 than Large in size, yet despite this smaller stature, they are no less ferocious,
 and those who would assume that a nanotyrannus is "safer" to train would
 do well to think again!
-
-================================================================================
-# BRINE SHARK
-================================================================================
-
-
-Bestiary
-OTHER ELEMENTALS
-When energies from elemental
-planes mix, unusual elemental life
-can form. The combination of ﬁre
-and earth, for example, can spawn
-magma elementals, while air and
-water can create ice elementals.
-Lightning elementals form from a
-conjunction of ﬁre and air, while
-water and earth give birth to mud
-elementals. It’s possible that in
-the vastness of the Great Beyond,
-even more unusual elementals
-might exist, although they are as
-rare as they are strange.
-Elemental, Water
-Water elementals can be very destructive, but often not intentionally so; just as
-water can bring life to those in need on the Material Plane, its waves can pound
-shores and rains can ﬂood cities. Water elementals are similarly difﬁcult to predict.
-Brine Shark
-Brine sharks are deadly elementals that roam the endless oceans of the Plane of Water.
-BRINE SHARK
-CREATURE 3
+TYRANNOSAURUS
+CREATURE 10
 N
-MEDIUM
-AQUATIC
-ELEMENTAL
-WATER
-Perception +8; darkvision
-Skills Athletics +10, Stealth +11, Survival +8
-Str +3, Dex +2, Con +2, Int –4, Wis +1, Cha +0
-AC 19; Fort +9, Ref +11, Will +6
-HP 45; Immunities bleed, paralyzed, poison, sleep; Resistances ﬁre 5
-Speed 15 feet, swim 50 feet
-Melee Ȱɵ jaws +11, Damage 1d12+7 piercing plus Grab
-Deep Plunge Ȱɵ The brine shark dives straight down into the water, moving up to twice its
-swim Speed in a straight vertical line. It can use this ability while grabbing a creature.
-Living Waterfall
-Living waterfalls are humanoid-shaped columns of churning water.
+GARGANTUAN
+ANIMAL
+DINOSAUR
+Perception +19; low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +15, Athletics +24
+Str +8, Dex +1, Con +5, Int –4, Wis +3, Cha +0
+AC 29; Fort +21, Ref +15, Will +19
+HP 180
+Speed 40 feet
+Melee Ȱɵ
+jaws
++22
+(deadly 1d12, reach
+20
+feet),
+Damage
+2d12+12 piercing plus
+Grab
+Melee Ȱɵ foot +22 (reach
+15 feet), Damage 2d10+12
+bludgeoning
+Fling
+Ȱɵ
+Requirements
+A
+creature
+is
+Grabbed
+in
+the
+tyrannosaurus’s
+jaws.
+Eﬀect The tyrannosaurus ﬂings the creature into the air
+up to 10 feet up from its mouth and 20 feet away. The
+creature falls 25 feet (assuming the tyrannosaurus
+ﬂings it as high as it can) and takes falling damage
+accordingly. If the ﬂung creature lands on another
+creature, the creature it lands on takes the same amount of bludgeoning damage. The
+creature being landed on can attempt a DC 23 basic Reﬂex save.
+Pin Prey Ǻȓ Trigger The tyrannosaurus critically hits a Large or smaller foe with its
+foot. Effect The creature struck by the foot is knocked prone and the tyrannosaurus
+uses its foot to hold the creature in place. As long as the tyrannosaurus doesn’t
+move from its position, the pinned creature is Grabbed. A tyrannosaurus gains
+a +2 circumstance bonus to attack a creature it has pinned in this manner, but
+it cannot use Swallow Whole on the target unless it uses its jaws to Grab the
+victim first.
+Swallow Whole Ȱɵ (attack) Medium, 3d6+8 bludgeoning, Rupture 26
+Trample ̂ˬ Huge or smaller, foot, DC 29
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668954
+4425111
 
-================================================================================
-# BLACK PUDDING
-================================================================================
-
-Constrict Ȱɵ 1d8+3 bludgeoning plus 1d4 acid, DC 23
-Ochre Acid An ochre jelly’s acid damages only ﬂesh—not bone, stone, wood, or
-other materials.
-Black Pudding
-Most often found below ground, these oozes scour caves for objects to dissolve
-with their corrosive secretions. This caustic acid is particularly dangerous to
-creatures that attack a pudding, as it can quickly damage and destroy gear.
-BLACK PUDDING
-CREATURE 7
-N
-HUGE
-MINDLESS
-OOZE
-Perception +9; motion sense 60 feet, no vision
-Skills Athletics +18
-Str +7, Dex –5, Con +7, Int –5, Wis +0, Cha –5
-Motion Sense As sewer ooze.
-AC 14; Fort +18, Ref +6, Will +11
-HP 165; Immunities acid, critical hits, mental, piercing, precision, slashing, unconscious, visual
-Corrosive Mass A creature that hits the pudding with a metal or wooden weapon must
-succeed at a DC 22 Reﬂex save or the weapon takes 2d6 acid damage (after dealing
-damage to the black pudding as normal). Thrown weapons and ammunition take
-this damage automatically with no save.
-Split When the black pudding is hit by an attack that would deal slashing or
-piercing damage and has 10 or more HP, it splits into two identical puddings,
-each with half the original’s HP. One pudding is in the same space as the
-original, and the other appears in an adjacent unoccupied space. If no
-adjacent space is unoccupied, it automatically pushes creatures and
-objects out of the way to ﬁll a space (the GM decides if an object or
-creature is too big or sturdy to push).
-Speed 20 feet, climb 20 feet; suction
-Melee Ȱɵ pseudopod +18 (reach 10 feet), Damage 2d8+7 bludgeoning
-plus 2d6 acid, corrosive touch, and Grab
-Constrict Ȱɵ 1d8+7 bludgeoning plus 1d6 acid, DC 26
-Corrosive Touch When the pudding hits a creature with its
-pseudopod, any acid damage is dealt to the creature’s armor or
-clothing as well as the creature.
-Suction The pudding can climb on ceilings and other inverted surfaces,
-though such surfaces are diﬃcult terrain for it.
-
-================================================================================
 PAGE 257
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669109
+4425266
 Bestiary
+256
 MEGAFAUNA MOUNTS
 Orcs are known for riding strange
 and fearsome beasts, particularly
 megafauna like dire wolves
-(page 334) and smilodons (page
+(page 334) and smilodons (page
 53). Given the opportunity, orcs
 also enlist drakes, manticores, and
 anything else big and frightening
@@ -1783,49 +1655,51 @@ Orc Brute
 If orc armies are rarely well organized, this shortcoming can
 likely be traced to the furious and undisciplined rank-and-ﬁle
 brutes who make up the bulk of an orc warband.
-
-================================================================================
-# BALL PYTHON
-================================================================================
-
-Viper Venom (poison) Saving Throw DC 16 Fortitude; Maximum Duration 4 rounds;
-Stage 1 1d8 poison (1 round).
-Ball Python
-This nonvenomous snake’s name comes
-from its tendency to curl into a ball when
-frightened, though most people know it
-for its hunting tactic of coiling around
-prey and crushing victims with its
-powerful muscles. Nonetheless,
-brave herpetologists sometimes
-keep ball pythons as pets.
-BALL PYTHON
-CREATURE 1
-N
+ORC BRUTE
+CREATURE 0
+CE
 MEDIUM
-ANIMAL
-Perception +6; low-light vision,
-scent (imprecise) 30 feet
-Skills Acrobatics +6, Athletics +6,
-Stealth +6, Survival +4
-Str +3, Dex +3, Con +3, Int –4, Wis +1, Cha –2
-AC 16; Fort +8, Ref +10, Will +4
-HP 20
-Tighten Coils Ǻȓ Trigger A creature grabbed or
-restrained by the ball python attempts to Escape. Eﬀect
-The DC of the Escape check is increased by 2.
-Speed 20 feet, climb 20 feet, swim 20 feet
-Melee Ȱɵ jaws +8, Damage 1d8+3 piercing plus Grab
-Constrict Ȱɵ 1d8 bludgeoning, DC 17
-Wrap in Coils Ȱɵ Requirement A Medium or smaller creature is grabbed or
-restrained in the ball python’s jaws. Eﬀect The ball python moves the creature into its
-coils, freeing its jaws to make attacks, then uses Constrict against the creature. The
-ball python’s coils can hold one creature.
+HUMANOID
+ORC
+Perception +5; darkvision
+Languages Orc
+Skills Athletics +5, Intimidation +2
+Str +3, Dex +2, Con +3, Int –1, Wis +1, Cha +0
+Items shoddy breastplate, javelin (3), orc knuckle dagger (2)
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669109
+4425266
 
-================================================================================
 PAGE 304
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669156
+4425313
+S-T
+303
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 SNAKES IN MYTHOLOGY
 Snakes appear frequently
 and prominently in the myths
@@ -1846,3 +1720,68 @@ Giant Viper
 The giant viper’s fangs are a frightening sight, with injection tubes as long as
 daggers. The sheer amount of venom injected by a giant viper can cause severe
 blood clotting and leave a victim utterly drained of vitality.
+GIANT VIPER
+CREATURE 2
+N
+MEDIUM
+ANIMAL
+Perception +7; low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +9, Athletics +8, Stealth +8, Survival +6
+Str +3, Dex +4, Con +3, Int –4, Wis +1, Cha –2
+AC 19; Fort +8, Ref +11, Will +6
+HP 26
+Coiled Opportunity Ǻȓ As Attack of Opportunity, but the snake can use this reaction
+only if it’s Coiled.
+Speed 20 feet, climb 20 feet, swim 20 feet
+Melee Ȱɵ fangs +11 (ﬁnesse), Damage 1d8+3 piercing plus giant viper venom
+Coil Ȱɵ The giant viper uses an action to coil itself, increasing its reach with its fangs
+from 5 to 10 feet. After the giant viper Strikes with its fangs, it becomes uncoiled.
+Giant Viper Venom (poison) Saving Throw DC 17 Fortitude; Maximum Duration 6 rounds;
+Stage 1 1d6 poison (1 round); Stage 2 1d6 poison and drained 1.
+Giant Anaconda
+The monstrous giant anaconda is capable of swallowing whole creatures as
+big as horses—to say nothing of their riders. Although novice bushwhackers
+watch out for snakes that might drop on them from the jungle canopy above,
+giant anacondas are most commonly encountered in ponds and rivers, where
+they feed on prey including manatees and capybaras.
+GIANT ANACONDA
+CREATURE 8
+N
+HUGE
+ANIMAL
+Perception +17; low-light vision, scent (imprecise) 60 feet
+Skills Acrobatics +15, Athletics +21, Stealth +15, Survival +15
+Str +7, Dex +3, Con +6, Int –4, Wis +3, Cha –2
+AC 25; Fort +20, Ref +17, Will +15
+HP 175
+Tighten Coils Ǻȓ As ball python.
+Speed 30 feet, climb 30 feet, swim 30 feet
+Melee Ȱɵ jaws +21 (reach 10 feet), Damage 2d10+7
+piercing plus Grab
+Melee Ȱɵ tail +21 (agile, reach 15 feet), Damage
+2d8+7 bludgeoning plus Push 10 feet
+Greater Constrict Ȱɵ 1d10+7 bludgeoning,
+DC 26
+Slither Ȱɵ The giant anaconda Strides,
+Climbs, or Swims up to half its
+Speed, pulling any creatures it has
+grabbed with it.
+Swallow Whole Ȱɵ (attack) Large,
+1d10+7 bludgeoning, Rupture 21
+Wrap in Coils Ȱɵ (attack); Requirement
+A Large or smaller creature is
+grabbed or restrained in the giant
+anaconda’s jaws. Eﬀect The giant anaconda
+moves the creature into its coils, freeing its jaws
+to make attacks, then uses Greater Constrict against
+the creature. The giant anaconda’s coils can hold as many
+creatures as will ﬁt in its space.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669156
+4425313

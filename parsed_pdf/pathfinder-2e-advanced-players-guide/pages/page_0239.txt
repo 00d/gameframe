@@ -1,0 +1,144 @@
+Failure The target is afflicted with the curse of death at stage 1.
+Critical Failure The target is afflicted with the curse of death
+at stage 2.
+Curse of Death (curse) This curse ends immediately when the
+spell ends; Stage 1 4d6 negative damage and fatigued (1
+round); Stage 2 8d6 negative damage and fatigued (1 round);
+Stage 3 12d6 negative damage and fatigued (1 round); Stage
+4 death
+Heightened (+1) Increase the negative damage taken on a
+success and during the first three stages of the curse by 1d6.
+DECEIVER’S CLOAK
+FOCUS 3
+UNCOMMON
+HEX
+ILLUSION
+WITCH
+Cast [two-actions] somatic, verbal
+Duration sustained
+You wrap yourself in a cloak of illusion, appearing as another
+creature of the same body shape with roughly similar height
+and weight as yourself. This has the effects of a 3rd-level
+illusory disguise.
+Heightened (6th) You can appear as any creature of the same
+size, even with a completely different body shape.
+DISCERN SECRETS
+CANTRIP 1
+UNCOMMON
+CANTRIP
+DIVINATION
+HEX
+WITCH
+Cast [one-action] somatic
+Range 30 feet; Targets 1 creature
+Duration sustained up to 1 minute
+You call upon your patron’s power to better uncover secrets.
+When you Cast the Spell, the target can Recall Knowledge,
+Seek, or Sense Motive. The target gains a +1 status bonus to
+the skill or Perception used for the roll, and this bonus remains
+as long as you Sustain the Spell. The target is temporarily
+immune to discern secrets for 1 minute.
+Heightened (5th) You can target two creatures instead of one.
+ELEMENTAL BETRAYAL
+FOCUS 1
+UNCOMMON
+EVOCATION
+HEX
+WITCH
+Cast [one-action] verbal
+Range 30 feet; Targets 1 creature
+Duration sustained up to 1 minute
+You call upon the elements to undermine your foe. When you
+Cast this Spell, choose air, earth, fire, or water. Each time the
+target takes damage from a spell or effect with the chosen
+trait, it takes an additional 2 damage of one damage type
+dealt by the spell or effect. If you chose fire or water, the
+target also takes this additional damage when taking fire or
+cold damage, respectively, from effects or spells without the
+chosen trait.
+Heightened (+2) Increase the additional damage by 1.
+EVIL EYE
+CANTRIP 1
+UNCOMMON
+CANTRIP
+CURSE
+EMOTION
+ENCHANTMENT
+FEAR
+HEX
+MENTAL
+WITCH
+Cast [one-action] somatic
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration sustained up to 1 minute
+Your fix your eye on the target, imposing a malevolent hex.
+The target becomes frightened based on the results of its Will
+save. This condition value can’t be reduced below 1 while the
+spell is active and you can see the target. Regardless of the
+outcome, the target is then temporarily immune for 1 minute.
+Success The target is unaffected.
+Failure The target is frightened 1.
+Critical Failure The target is frightened 2.
+LIFE BOOST
+FOCUS 1
+UNCOMMON
+HEALING
+HEX
+NECROMANCY
+WITCH
+Cast [one-action] somatic
+Range 30 feet; Targets 1 creature
+Duration 4 rounds
+You temporarily bolster the target’s vitality. The target gains
+fast healing equal to double the spell’s level.
+MALICIOUS SHADOW
+FOCUS 3
+UNCOMMON
+EVOCATION
+HEX
+SHADOW
+WITCH
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Duration sustained up to 1 minute
+You reshape the target’s shadow into a deadly form, such as
+strangling hands, a dangerous weapon, harrying runes, or the
+like, and command it to attack the target. When you Cast the
+Spell, and each time you Sustain the Spell, the shadow makes
+a Strike against the target. The shadow moves along with the
+foe, always remaining within reach. If you Sustain the Spell
+multiple times in a round, you gain this effect each time. The
+shadow uses and contributes to your multiple attack penalty.
+The shadow’s Strikes are melee spell attacks. Regardless
+of its shape, the shadow’s Strikes deal damage equal to 1d10
+plus your spellcasting ability modifier. You choose the type of
+damage when you Cast the Spell, choosing from bludgeoning,
+piercing, or slashing damage. The shadow doesn’t take up
+space, grant flanking, or have any other attributes a creature
+would. The shadow can’t make any attacks other than its Strike.
+The shadow vanishes if the target moves into an area
+of complete darkness or enters an area with light from all
+directions such that the target doesn’t cast a shadow. If
+another effect is controlling the target’s shadow when you
+cast malicious shadow, you can attempt to counteract that
+effect to temporarily take control of the shadow, but the
+original effect resumes when malicious shadow ends.
+Heightened (+2) The Strike damage increases by 1d10.
+NEEDLE OF VENGEANCE
+FOCUS 1
+UNCOMMON
+ENCHANTMENT
+HEX
+MENTAL
+WITCH
+Cast [one-action] somatic
+Range 30 feet; Targets 1 enemy
+Saving Throw basic Will; Duration sustained up to 1 minute
+A long, jagged needle jabs into the target foe’s psyche whenever
+it tries to attack a specifically forbidden creature. Name yourself
+or one of your allies. The target takes 2 mental damage any time
+it uses a hostile action against the named creature.
+Heightened (+1) Increase the damage by 2.
+Advanced Player's Guide
+238
+238

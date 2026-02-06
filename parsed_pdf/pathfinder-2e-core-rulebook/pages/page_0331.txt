@@ -1,0 +1,120 @@
+•	 One or more unarmed melee attacks specific to the
+battle form you choose, which are the only attacks
+you can use. You’re trained with them. Your attack
+modifier is +16, and your damage bonus is +9. These
+attacks are Strength based (for the purpose of the
+enfeebled condition, for example). If your unarmed
+attack modifier is higher, you can use it instead.
+•	 Athletics modifier of +18, unless your own modifier
+is higher.
+You also gain specific abilities based on the form you choose:
+•	 Ankylosaurus Speed 25 feet; Melee [one-action] tail (backswing,
+reach 10 feet), Damage 2d6 bludgeoning; Melee [one-action]
+foot, Damage 2d6 bludgeoning.
+•	 Brontosaurus Speed 25 feet; Melee [one-action] tail (reach
+15 feet), Damage 2d6 bludgeoning; Melee [one-action] foot,
+Damage 2d8 bludgeoning.
+•	 Deinonychus Speed 40 feet; Melee [one-action] talon (agile),
+Damage 2d4 piercing plus 1 persistent bleed; Melee [one-action]
+jaws, Damage 1d10 piercing.
+•	 Stegosaurus Speed 30 feet; Melee [one-action] tail (reach 10
+feet), Damage 2d8 piercing.
+•	 Triceratops Speed 30 feet; Melee [one-action] horn, Damage
+2d8 piercing, plus 1d6 persistent bleed on a critical hit;
+Melee [one-action] foot, Damage 2d6 bludgeoning.
+•	 Tyrannosaurus Speed 30 feet; Melee [one-action] jaws (deadly,
+reach 10 feet), Damage 1d12 piercing; Melee [one-action] tail
+(reach 10 feet), Damage 1d10 bludgeoning.
+Heightened (5th) Your battle form is Huge and your attacks have
+15-foot reach, or 20-foot reach if they started with 15-foot reach.
+You instead gain 20 temporary HP, an attack modifier of +18, a
+damage bonus of +6, double the damage dice, and Athletics +21.
+Heightened (7th) Your battle form is Gargantuan and your
+attacks have 20-foot reach, or 25-foot reach if they started
+with 15-foot reach. You instead gain AC = 21 + your level, 25
+temporary HP, an attack modifier of +25, a damage bonus of
++15, double the damage dice, and Athletics +25.
+DISAPPEARANCE
+SPELL 8
+ILLUSION
+Traditions arcane, occult
+Cast [two-actions] material, somatic
+Range touch; Targets 1 creature
+Duration 10 minutes
+You shroud a creature from others’ senses. The target becomes
+undetected, not just to sight but to all senses, allowing the target
+to count as invisible no matter what precise and imprecise senses
+an observer might have. It’s still possible for a creature to find
+the target by Seeking, looking for disturbed dust, hearing gaps in
+the sound spectrum, or finding some other way to discover the
+presence of an otherwise-undetectable creature.
+DISCERN LIES
+SPELL 4
+UNCOMMON
+DIVINATION
+MENTAL
+REVELATION
+Traditions arcane, divine, occult
+Cast [two-actions] somatic, verbal
+Duration 10 minutes
+Falsehoods ring in your ears like discordant notes. You gain
+a +4 status bonus to Perception checks when someone Lies.
+DISCERN LOCATION
+SPELL 8
+UNCOMMON
+DETECTION
+DIVINATION
+Traditions arcane, divine, occult
+Cast 10 minutes (material, somatic, verbal)
+Range unlimited; Targets 1 creature or object
+You learn the name of the target’s exact location (including
+the building, community, and country) and plane of existence.
+You can target a creature only if you’ve seen it in person,
+have one of its significant belongings, or have a piece of its
+body. To target an object, you must have touched it or have
+a fragment of it. Discern location automatically overcomes
+protections against detection and divination of lower level than
+this spell, even if they would normally have a chance to block it.
+DISINTEGRATE
+SPELL 6
+EVOCATION
+Traditions arcane
+Cast [two-actions] somatic, verbal
+Range 120 feet; Targets 1 creature or unattended object
+Saving Throw Fortitude
+You fire a green ray at your target. Make a spell attack. You
+deal 12d10 damage, and the target must attempt a basic
+Fortitude save. On a critical hit, treat the save result as one
+degree worse. A creature reduced to 0 HP is reduced to fine
+powder; its gear remains.
+An object you hit is destroyed (no save), regardless of
+Hardness, unless it’s an artifact or similarly hard to destroy.
+A single casting can destroy no more than a 10-foot cube of
+matter. This automatically destroys any force construct, such
+as a wall of force.
+Heightened (+1) The damage increases by 2d10.
+DISJUNCTION
+SPELL 9
+UNCOMMON
+ABJURATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 120 feet; Targets 1 magic item
+Crackling energy disjoins the target. You attempt to counteract
+it (page 458). If you succeed, it’s deactivated for 1 week. On a
+critical success, it’s destroyed. If it’s an artifact or similar item,
+you automatically fail.
+DISPEL MAGIC
+SPELL 2
+ABJURATION
+Traditions arcane, divine, occult, primal
+Cast [two-actions] somatic, verbal
+Range 120 feet; Targets 1 spell effect or unattended magic item
+You unravel the magic behind a spell or effect. Attempt a
+counteract check against the target (page 458). If you succeed
+against a spell effect, you counteract it. If you succeed against a
+magic item, the item becomes a mundane item of its type for 10
+minutes. This doesn’t change the item’s non-magical properties.
+If the target is an artifact or similar item, you automatically fail.
+Core Rulebook
+330

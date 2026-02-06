@@ -1,0 +1,154 @@
+HUNTER’S LUCK
+FOCUS 2
+UNCOMMON
+DIVINATION
+FORTUNE
+RANGER
+Cast [free-action] verbal; Trigger You attempt a check to Recall
+Knowledge about a creature, but you haven’t rolled yet.
+You have a preternatural ability to remember details about your
+foes. Roll the triggering check twice and use the better result.
+HUNTER’S VISION
+FOCUS 5
+UNCOMMON
+DIVINATION
+RANGER
+Cast [one-action] verbal
+Range 30 feet; Targets 1 hunted prey
+Duration 10 minutes
+Your target glows with a magical aura visible only to you and
+those who follow your lead. Your target is visible to you and
+others sharing your Hunt Prey benefits even if it wouldn’t
+normally be due to lighting or the concealed or invisible
+conditions, though cover from opaque objects still blocks your
+sight. You ignore the flat check against the target due to the
+concealed condition, and the target isn’t automatically hidden
+from you due to darkness or being invisible.
+MAGIC HIDE
+FOCUS 1
+UNCOMMON
+ABJURATION
+RANGER
+Cast [one-action] somatic
+Range 30 feet; Targets your animal companion
+Duration 1 minute
+Your animal companion grows a thicker hide, matted fur, or a
+harder shell, granting it a +1 status bonus to AC.
+RANGER’S BRAMBLE
+FOCUS 3
+UNCOMMON
+PLANT
+RANGER
+TRANSMUTATION
+Cast [two-actions] somatic, verbal
+Range 100 feet; Area all squares that contain plants in a
+5-foot burst
+Duration 1 minute
+You cause plants in the area to entangle your foes, with the
+effects of entangle. A creature that critically fails the save takes
+2d4 persistent bleed damage in addition to being immobilized.
+Escaping your bramble doesn’t end the bleed damage.
+Heightened (+1) The bleed damage on a critical failure
+increases by 1d4.
+SNARE HOPPING
+FOCUS 1
+UNCOMMON
+CONJURATION
+RANGER
+TELEPORTATION
+Cast [two-actions] somatic, verbal
+Range 10 feet; Targets one snare you built
+You may not have placed your snare in the right place, but you
+can magically move it there. You teleport the target snare to
+another unoccupied location in range.
+Heightened (+1) The range of the spell increases by 10 feet.
+SOOTHING MIST
+FOCUS 2
+UNCOMMON
+HEALING
+NECROMANCY
+POSITIVE
+RANGER
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 willing living creature or 1
+undead creature
+You call forth a magical mist of positive energy that envelops
+a creature. The mist restores 2d8 Hit Points to a target living
+creature and ends one source of persistent acid, bleed, fire,
+negative, or poison damage affecting it. If the creature is
+taking persistent damage from multiple sources, you select
+which one is removed. Against an undead target, you deal 2d8
+positive damage (basic Fortitude save); if it fails the save, it
+also takes 2 persistent positive damage.
+Heightened (+1) The amount of healing (or damage to an
+undead target) increases by 1d8, and the persistent positive
+damage to an undead creature increases by 1.
+TERRAIN TRANSPOSITION
+FOCUS 5
+UNCOMMON
+CONJURATION
+RANGER
+TELEPORTATION
+Cast [two-actions] somatic, verbal
+Range 90 feet
+You mystically transpose your current location with another.
+While in a wilderness environment, you transport yourself and
+items you’re holding to a clear space you can see within range.
+If you have Favored Terrain and both your starting and ending
+position are in your favored terrain, the range increases to 180
+feet. If you have an animal companion and it is adjacent to
+you, you can transport it along with you to an adjacent open
+space, but if this spell would bring any other creature with
+you, even in an extradimensional container, the spell is lost.
+Sorcerer
+BLINDING BEAUTY
+FOCUS 3
+UNCOMMON
+EMOTION
+ENCHANTMENT
+INCAPACITATION
+SORCERER
+VISUAL
+Cast [one-action] somatic
+Area 30-foot cone
+Saving Throw Will
+You channel the allure of your nymph bloodline into a terribly
+beautiful glance. Each enemy in the area must attempt a Will
+saving throw.
+Critical Success The creature is unaffected.
+Success The creature is dazzled until the start of its next turn.
+Failure The creature is blinded until the start of its next turn.
+Critical Failure The creature is blinded for 1 minute.
+CONSUMING DARKNESS
+FOCUS 5
+UNCOMMON
+EVOCATION
+SHADOW
+SORCERER
+Cast [two-actions] somatic, verbal
+Area 10-foot emanation; Targets enemies in the area
+Saving Throw Reflex; Duration sustained up to 1 minute
+Your shadow wriggles before spreading out from you, forming
+a gateway of clinging, consuming shadow through which the
+horrors of another plane can barely be seen. The first time
+each turn you Sustain the Spell, the radius increases by 5 feet.
+Each enemy that enters the area or begins its turn in the area
+takes 2d6 negative damage and must attempt a Reflex save.
+Critical Success The creature is unaffected.
+Success The creature sinks partially into the shadow, taking
+half damage and a –5-foot circumstance penalty to its
+Speeds for as long it remains in the area.
+Spells
+5
+235
+235
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index

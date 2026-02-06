@@ -1,0 +1,122 @@
+corner of a square within the range of the effect, spreading
+in all directions to a specified radius. For instance, when
+you cast fireball, it detonates at the corner of a square
+within 500 feet of you and creates a 20-foot burst, meaning
+it extends out 20 feet in every direction from the corner of
+the square you chose, affecting each creature whose space
+(or even one square of its space) is within the burst.
+Cone
+A cone shoots out from you in a quarter circle on the grid.
+When you aim a cone, the first square of that cone must
+share an edge with your space if you’re aiming orthogonally,
+or it must touch a corner of your space if you’re aiming
+diagonally. If you’re Large or larger, the first square can
+run along the edge of any square of your space. You can’t
+aim a cone so that it overlaps your space. The cone extends
+out for a number of feet, widening as it goes, as shown in
+the Areas diagram. For instance, when a green dragon uses
+its breath weapon, it breathes a cone of poisonous gas that
+originates at the edge of one square of its space and affects
+a quarter-circle area 30 feet on each edge.
+If you make a cone originate from someone or
+something else, follow these same rules, with the first
+square of the cone using an edge or corner of that creature
+or object’s space instead of your own.
+Emanation
+An emanation issues forth from each side of your space,
+extending out to a specified number of feet in all directions.
+For instance, the bless spell’s emanation radiates 5 or more
+feet outward from the caster. Because the sides of a target’s
+space are used as the starting point for the emanation, an
+emanation from a Large or larger creature affects a greater
+overall area than that of a Medium or smaller creature.
+Line
+A line shoots forth from you in a straight line in a direction
+of your choosing. The line affects each creature whose
+space it overlaps. Unless a line effect says otherwise, it is
+5 feet wide. For example, the lightning bolt spell’s area is
+a 60-foot line that’s 5 feet wide.
+Line of Effect
+When creating an effect, you usually need an unblocked
+path to the target of a spell, the origin point of an effect’s
+area, or the place where you create something with a spell
+or other ability. This is called a line of effect. You have line
+of effect unless a creature is entirely behind a solid physical
+barrier. Visibility doesn’t matter for line of effect, nor do
+portcullises and other barriers that aren’t totally solid. If
+you’re unsure whether a barrier is solid enough, usually
+a 1-foot-square gap is enough to maintain a line of effect,
+though the GM makes the final call.
+In an area effect, creatures or targets must have line of
+effect to the point of origin to be affected. If there’s no
+line of effect between the origin of the area and the target,
+the effect doesn’t apply to that target. For example, if
+there’s a solid wall between the origin of a fireball and
+a creature that’s within the burst radius, the wall blocks
+the effect—that creature is unaffected by the fireball and
+doesn’t need to attempt a save against it. Likewise, any
+ongoing effects created by an ability with an area cease
+to affect anyone who moves outside of the line of effect.
+Line of Sight
+Some effects require you to have line of sight to your target.
+As long as you can precisely sense the area (as described
+in Perception on page 464) and it is not blocked by a
+solid barrier (as described in Cover on pages 476–477),
+you have line of sight. An area of darkness prevents line
+of sight if you don’t have darkvision, but portcullises and
+other obstacles that aren’t totally solid do not. If you’re
+unsure whether a barrier is solid enough to block line of
+sight, usually a 1-foot-square gap is enough to maintain
+line of sight, though the GM makes the final call.
+Afflictions
+Diseases and poisons are types of afflictions, as are curses
+and radiation. An affliction can infect a creature for a long
+time, progressing through different and often increasingly
+debilitating stages. The level of an affliction is the level of
+the monster, hazard, or item causing the affliction or, in the
+case of a spell, is listed in the affliction entry for that spell.
+Format
+Whether appearing in a spell, as an item, or within a creature’s
+stat block, afflictions appear in the following format.
+Name and Traits
+The affliction’s name is given first, followed by its traits in
+parentheses—including the trait for the type of affliction
+(curse, disease, poison, and so forth). If the affliction
+needs to have a level specified, it follows the parentheses,
+followed by any unusual details, such as restrictions on
+removing the conditions imposed by an affliction.
+Saving Throw
+When you’re first exposed to the affliction, you must
+attempt a saving throw against it. This first attempt to
+stave off the affliction is called the initial save. An affliction
+usually requires a Fortitude save, but the exact save and its
+DC are listed after the name and type of affliction. Spells
+that can poison you typically use the caster’s spell DC.
+On a successful initial saving throw, you are unaffected
+by that exposure to the affliction. You do not need to
+attempt further saving throws against it unless you are
+exposed to the affliction again.
+If you fail the initial saving throw, after the affliction’s
+onset period elapses (if applicable), you advance to stage 1
+of the affliction and are subjected to the listed effect. On
+a critical failure, after its onset period (if applicable), you
+457
+9
+PLAYING THE GAME
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

@@ -126,7 +126,17 @@ feet long and weighs more than 30 tons.
 PAGE 101
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668953
+4425110
 Bestiary
+100
 HOLLOW WORLDS
 Another classic place that
 dinosaurs are found in ﬁction are
@@ -150,104 +160,60 @@ Brontosauruses belong to a group of dinosaurs known as sauropods, all of
 which are immense in size. The brachiosaurus is among the tallest of these
 dinosaurs, and the diplodocus among the longest, but it’s likely that even larger
 behemoths exist.
-
-================================================================================
-# TYRANNOSAURUS
-================================================================================
-
-
-OTHER DINOSAURS
-A wide range of dinosaurs are
-presented on these pages, but any
-trip to the movies, exploration
-of dinosaur books, or a quick
-online search reveals a wealth of
-additional creatures that could ﬁt
-into your game as well. Armorheaded pachycephalosaurs,
-spike-thumbed iguanodons,
-duck-billed hadrosaurs, sail-backed
-spinosauruses, and more await
-discovery by those who would
-seek out the mysteries of the lost
-worlds where the thunder lizards
-still rule!
-exceptional balance. Although a their small forelimbs are of little use other
-than to hold prey in place while the predators tear at their victim’s ﬂesh with
-their fearsome jaws, even these forelimbs bear sharp claws several inches long.
-As fearsome as tyrannosauruses are alone, they sometimes hunt in packs to
-take down massive prey. Only the most powerful creatures can successfully
-train tyrannosauruses, and even then, only when they can provide the ravenous
-beasts with a steady diet of meat.
-Some tribes of giants, particularly cyclopes or more obscure denizens of
-primeval lands, have even trained tyrannosauruses as mounts or beasts of
-war. In other places, xulgaths feed these prisoners to these mighty dinosaurs
-as part of executions or ritual sacriﬁces. Some xulgath cults even revere
-tyrannosaurs as incarnations of their violent demonic demigods. For their
-part, tyrannosaurs who have grown used to having their meals provided in
-this manner are remarkably well-behaved toward their feeders and keepers.
-Tyrannosauruses are 50 feet long and weigh 7 tons or more.
-Other variants of the tyrannosaurs include slightly smaller dinosaurs such
-as the allosaurus, or even larger dinosaurs like the ravenous giganotosaurus.
-Even the smallest tyrannosaurs, such as the nanotyrannus, are never smaller
-than Large in size, yet despite this smaller stature, they are no less ferocious,
-and those who would assume that a nanotyrannus is "safer" to train would
-do well to think again!
-TYRANNOSAURUS
+BRONTOSAURUS
 CREATURE 10
 N
 GARGANTUAN
 ANIMAL
 DINOSAUR
-Perception +19; low-light vision, scent (imprecise) 30 feet
-Skills Acrobatics +15, Athletics +24
-Str +8, Dex +1, Con +5, Int –4, Wis +3, Cha +0
-AC 29; Fort +21, Ref +15, Will +19
-HP 180
-Speed 40 feet
-Melee Ȱɵ
-jaws
-+22
-(deadly 1d12, reach
-feet),
-Damage
-2d12+12 piercing plus
-Grab
-Melee Ȱɵ foot +22 (reach
-15 feet), Damage 2d10+12
-bludgeoning
-Fling
-Ȱɵ
-Requirements
-A
-creature
-is
-Grabbed
-in
-the
-tyrannosaurus’s
-jaws.
-Eﬀect The tyrannosaurus ﬂings the creature into the air
-up to 10 feet up from its mouth and 20 feet away. The
-creature falls 25 feet (assuming the tyrannosaurus
-ﬂings it as high as it can) and takes falling damage
-accordingly. If the ﬂung creature lands on another
-creature, the creature it lands on takes the same amount of bludgeoning damage. The
-creature being landed on can attempt a DC 23 basic Reﬂex save.
-Pin Prey Ǻȓ Trigger The tyrannosaurus critically hits a Large or smaller foe with its
-foot. Effect The creature struck by the foot is knocked prone and the tyrannosaurus
-uses its foot to hold the creature in place. As long as the tyrannosaurus doesn’t
-move from its position, the pinned creature is Grabbed. A tyrannosaurus gains
-a +2 circumstance bonus to attack a creature it has pinned in this manner, but
-it cannot use Swallow Whole on the target unless it uses its jaws to Grab the
-victim first.
-Swallow Whole Ȱɵ (attack) Medium, 3d6+8 bludgeoning, Rupture 26
+Perception +16; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +23
+Str +9, Dex +0, Con +5, Int –4, Wis +2, Cha +1
+AC 28; Fort +21, Ref +14, Will +16
+HP 220
+Speed 35 feet
+Melee Ȱɵ tail +23 (sweep, reach 20 feet), Damage 2d10+13 bludgeoning plus
+Improved Knockdown
+Melee Ȱɵ foot +23 (reach 15 feet), Damage 2d8+13 bludgeoning
+Tail Sweep ʚʖ The brontosaurus makes a tail Strike and compares the attack roll to the
+AC of up to three foes, each of whom must be within its tail’s melee reach and adjacent
+to at least one other target. It rolls damage only once and applies it to each creature
+hit. A Tail Sweep counts as two attacks for its multiple attack penalty.
 Trample ̂ˬ Huge or smaller, foot, DC 29
+Tyrannosaurus
+Widely regarded as the king of the dinosaurs, the tyrannosaurus is a massive
+predator with a wide mouth ﬁlled with viciously sharp teeth. Thundering
+beasts of fury and hunger, tyrannosauruses are bold and fearless carnivores
+that eagerly bite off great hunks of large prey and swallow smaller prey—such
+as most humanoids—in a single gulp. Although they can subsist on
+carrion, tyrannosaurs prefer live prey.
+Tyrannosauruses stand on two wide, powerful
+hind legs that allow them to run quickly,
+and their thick tails provide them with
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668953
+4425110
 
-================================================================================
 PAGE 103
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668955
+4425112
 Bestiary
+102
 RABIES
 While many societies adore dogs
 and value them for their loyalty as
@@ -307,136 +273,56 @@ devoted to their masters as guard dogs, and are ferocious
 in battle, regardless of whether they bear a rider or not. As
 with guard dogs, these large hounds can be wild or feral in
 nature, and, in some cases, might rival packs of wolves with
-regard to the danger they pose to inhabitants of rural areas.
-
-================================================================================
-# TIDAL MASTER
-================================================================================
-
-Constrict Ȱɵ 1d12+6 bludgeoning, DC 25
-Tidal Master
-Tidal masters use their power over waves and water to drown their enemies.
-TIDAL MASTER
-CREATURE 9
+regard to the danger they pose to inhabitants of rural areas.
+RIDING DOG
+CREATURE 1
 N
-LARGE
-AQUATIC
-ELEMENTAL
-WATER
-Perception +18; darkvision
-Languages Aquan
-Skills Athletics +20, Stealth +19
-Str +5, Dex +5, Con +5, Int –1, Wis +3, Cha +0
-Water-Bound As living waterfall.
-AC 28; Fort +18, Ref +21, Will +15
-HP 155; Immunities bleed, paralyzed, poison, sleep; Resistances ﬁre 10
-Vortex (aura, water) 40 feet. As living waterfall.
-Speed 30 feet, swim 80 feet
-Melee Ȱɵ wave +21 (reach 15 feet), Damage 2d12+11 bludgeoning plus Push or Pull 10 feet
-Drench Ȱɵ (abjuration, primal, water) As living waterfall, but a 10-foot emanation and a
-+20 counteract modiﬁer.
-Elemental Tsunami
-Elemental tsunamis are huge and destructive.
+MEDIUM
+ANIMAL
+Perception +7; low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +5, Athletics +7, Survival +5
+Str +2, Dex +2, Con +2, Int –4, Wis +2, Cha –1
+AC 16; Fort +7, Ref +5, Will +5
+HP 20
+Buck Ǻȓ DC 17
+Speed 35 feet
+Melee jaws +7, Damage 1d6+2 piercing
+Pack Attack The dog’s Strikes deal 1d4 extra damage to creatures
+within the reach of at least two of the dog’s allies.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668955
+4425112
 
-================================================================================
-# TARN LINNORM
-================================================================================
-
-
-Bestiary
-OTHER LINNORMS
-Linnorms exist in a variety of
-forms beyond the four detailed
-here. The gaunt cairn linnorm,
-the spiny taiga linnorm, and
-the aquatic fjord linnorm each
-terrorize their own specific
-regions of the Material Plane.
-Tarn Linnorm
-Although more powerful linnorms exist, the multi-headed tarn linnorm can wreak
-an awe-inspiring amount of devastation.
-TARN LINNORM
-CREATURE 20
-UNCOMMON
-CE
-GARGANTUAN
-ACID
-AMPHIBIOUS
-DRAGON
-Perception +35; darkvision, scent (imprecise) 60 feet, true seeing
-Languages Aklo, Draconic, Sylvan
-Skills Acrobatics +32, Athletics +38, Stealth +34
-Str +10, Dex +6, Con +8, Int –1, Wis +7, Cha +8
-AC 46; all-around vision; Fort +36, Ref +32, Will +31; +1 status to all saves vs. magic
-HP 400, regeneration 15 (deactivated by cold iron); Immunities acid, curse, paralyzed,
-sleep; Weaknesses cold iron 15
-Curse of Death (curse, death, primal) When a creature slays a tarn linnorm, it must
-succeed at a DC 46 Will save or it can no longer recover Hit Points via any means,
-such as healing spells, the Medicine skill, or natural healing from rest.
-Attack of Opportunity Ǻȓ Tail only.
-Speed 35 feet, ﬂy 100 feet, swim 80 feet; freedom of movement
-Melee Ȱɵ jaws +38 (reach 30 feet, magical), Damage 4d12+18 piercing plus tarn
-linnorm venom
-Melee Ȱɵ claw +38 (reach 30 feet, agile, magical), Damage 4d8+18 slashing
-Melee Ȱɵ tail +38 (reach 30 feet, agile, magical), Damage 4d6+18 bludgeoning plus
-Improved Grab
-Primal Innate Spells DC 42; Constant (9th) freedom of
-movement; (8th) true seeing
-Breath Weapon ʚʖ (acid, evocation, poison, primal) The
-tarn linnorm can expel either a 120-foot line or a 60-foot
-cone of acid dealing 20d6 acid damage to creatures
-within the area (DC 44 basic Reﬂex save). The acid
-creates toxic fumes. At the beginning of the linnorm’s
-next turn, those who failed the breath weapon’s
-Reﬂex save must succeed at a DC 42 Fortitude save
-or gain sickened 4 from the poisonous fumes. A
-tarn linnorm can’t use Breath Weapon or Overwhelming
-Breath again for 1d4 rounds.
-Constrict Ȱɵ 3d6+18 bludgeoning, DC 44
-Double Bite Ȱɵ The tarn linnorm Strides and then makes a
-jaws Strike with each of its heads, each against a different
-target. These attacks count toward the tarn linnorm’s
-multiple attack penalty, and the multiple attack penalty
-doesn’t increase until after the tarn linnorm makes all of
-these attacks.
-Overwhelming Breath ̂ˬ A tarn
-linnorm uses its Breath Weapon
-twice. A creature attempts only
-one save and can take damage
-only once. The tarn linnorm
-can’t use Breath Weapon or
-Overwhelming Breath again for
-2d4 rounds.
-Tarn Linnorm Venom (acid, injury,
-poison) Saving Throw DC 44
-Fortitude; Maximum Duration 10
-rounds; Stage 1 7d6 acid damage
-and drained 1; Stage 2
-11d6 acid damage and
-drained 2.
-
-================================================================================
 PAGE 228
 ================================================================================
 
-LINNORM TREASURE
-As with true dragons, linnorms
-tend to amass immense piles
-of treasure in their lairs. These
-hoards consist of the weapons,
-gear, and belongings of would-be
-vanquishers more often than
-minted coins or works of art.
-Tor Linnorm
-Tor linnorms dwell in the tallest volcanic mountains, either within natural formed
-caverns or within molten craters. A tor linnorm’s temper can be as hot and
-destructive as the magma the creature resembles.
-
-================================================================================
-# TOR LINNORM
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669080
+4425237
+L-N
+227
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 LINNORM TREASURE
 As with true dragons, linnorms
 tend to amass immense piles
@@ -479,7 +365,8 @@ Melee Ȱɵ tail +40 (reach 30 feet, agile, magical), Damage 4d6+19 bludgeoning
 plus Improved Grab
 Primal Innate Spells DC 44; Constant (9th) freedom of movement; (8th) true
 seeing
-Breath Weapon ʚʖ (evocation, fire, primal) The tor linnorm expels a 60foot cone of flame and ash dealing 20d6 fire damage to creatures
+Breath Weapon ʚʖ (evocation, fire, primal) The tor linnorm expels a 60-
+foot cone of flame and ash dealing 20d6 fire damage to creatures
 within the area (DC 46 basic Reflex save). At the start of the tor
 linnorm’s next turn, the area affected by the breath weapon
 is covered in thick, scorching smoke that burns both the
@@ -493,7 +380,7 @@ dissipates in 5 rounds, and in
 more powerful winds, it may
 clear even more quickly. The
 tor linnorm can’t use Breath
-Weapon again for 1d4 rounds.
+Weapon again for 1d4 rounds.
 Constrict Ȱɵ 3d6+21 bludgeoning,
 DC 46
 Slashing Claws Ȱɵ A tor linnorm
@@ -505,12 +392,30 @@ increase until after the tor linnorm makes all its attacks.
 Tor Linnorm Venom (ﬁre, injury, poison) Saving Throw DC 44
 Fortitude; Maximum Duration 10 rounds; Stage 1 8d6 ﬁre damage
 and drained 1; Stage 2 12d6 ﬁre damage and drained 2.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669080
+4425237
 
-================================================================================
 PAGE 229
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669081
+4425238
 Bestiary
+228
 LIZARDS AND LIZARDFOLK
 Giant lizards are often used as
 mounts or guardians or kept
@@ -546,90 +451,75 @@ train. Their superior climbing skills make giant geckos particularly popular
 within societies that dwell underground or near cliffs, such as goblins
 and kobolds. Their bright coloration also makes them favorite exotic
 pets in high society.
-
-================================================================================
-# TIEFLING ADEPT
-================================================================================
-
-
-Bestiary
-OTHER PLANAR SCIONS
-As many types of planar scions
-exist as planes of existence, and
-even then there are signiﬁcant
-diﬀerences between scions
-depending on the exact nature of
-their extraplanar forebears. Angelic
-scions are known as aasimars,
-ﬁendish scions are called tieﬂings,
-and monitor scions are urobians.
-Planar Scion
-Many immortals dwell upon the other planes of the Great Beyond. Some are
-benevolent and kindly, like angels. Others are cruel and destructive, like demons.
-And some ﬁt roles outside of morality, like psychopomps. It’s far from unheard
-of that mortals and immortals alike become entangled romantically, and the
-children of such engagements carry a supernatural element in their bloodlines
-for generations to follow. After the ﬁrst generation, this otherworldly inﬂuence
-usually lies dormant, but now and then, the inﬂuence can manifest strongly in
-descendants many years later. These inheritors of extraplanar legacies are known
-collectively as planar scions.
-Tiefling
-Tieﬂings are planar scions with ﬁendish blood. One of the most common types is
-pitborn, who bear a demonic corruption infesting their mortal bloodline. Some
-strive to live above their forebear’s ﬁendish reputation, but many, such as this
-tieﬂing adept, simply accept their label and delve fully into evil.
-TIEFLING ADEPT
-CREATURE 3
-CE
-MEDIUM
-HUMAN
-HUMANOID
-TIEFLING
-Perception +6; darkvision
-Languages Abyssal, Common
-Skills Abyss Lore +9, Acrobatics +7, Arcana +9, Deception +9,
-Intimidation +7, Occultism +9, Religion +6, Society +9, Stealth +7
-Str +0, Dex +2, Con +0, Int +4, Wis +1, Cha + 2
-Items dagger, explorer’s clothing, spellbook, staﬀ
-AC 17; Fort +5, Ref +7, Will +8
-HP 29
-Speed 25 feet
-Melee Ȱɵ staﬀ +6 (two-handed 1d8), Damage 1d6 bludgeoning
-Melee Ȱɵ dagger +7 (agile, ﬁnesse, versatile S), Damage 1d4
-piercing
-Ranged Ȱɵ dagger +7 (agile, thrown 10 feet, versatile S), Damage 1d4+1 piercing
-Arcane Prepared Spells DC 21, attack +11; 2nd ﬂaming sphere, invisibility; 1st
-charm, magic missile, ray of enfeeblement; Cantrips (2nd) chill touch, detect
-magic, mage hand, shield, tanglefoot
-Divine Innate Spells DC 17; 2nd darkness
-Drain Bonded Item Ȳ˓ Frequency Once per day; Requirements
-The adept hasn’t acted yet on this turn. Eﬀect The adept
-expends the power stored in its staﬀ. This gives the adept the
-ability to cast one prepared spell it had already previously
-cast today (choosing a diﬀerent spell level each time),
-without spending a spell slot. The adept must still Cast
-the Spell and meet the spell’s other requirements.
-Duskwalker
-Duskwalkers are infused with the same energies
-as psychopomps. These ashen scions are reborn
-on the Material Plane to serve as guardians of
-the cycle of life and death.
-DUSKWALKER GHOST HUNTER CREATURE 4
+GIANT GECKO
+CREATURE 1
 N
 MEDIUM
-DUSKWALKER
-HUMAN
-HUMANOID
-Perception +10; darkvision
-Languages Common, Necril
-Skills Acrobatics +10, Athletics +8, Deception +6,
-Intimidation +6, Nature +8, Stealth +12, Survival +8
-Str +2, Dex +4, Con +1, Int +0, Wis +2, Cha +0
+ANIMAL
+Perception +7; low-light vision
+Skills Acrobatics +8, Athletics +5 (+9 to Climb), Stealth +6
+Str +2, Dex +3, Con +1, Int –4, Wis +2, Cha –2
+Uncanny Climber A giant gecko’s feet allow it to climb
+virtually any surface, no matter how slick or sheer. If a giant
+gecko attempts an Athletics check to climb and critically
+fails, it gets a failure instead.
+AC 16; Fort +6, Ref +10, Will +5
+HP 20
+Speed 30 feet, climb 30 feet
+Melee Ȱɵ jaws +8, Damage 1d8+2 piercing
+Giant Monitor Lizard
+Large and seemingly ponderous, a monitor lizard
+is a deceptively swift and ruthless predator. It
+ambushes its prey by rushing out from cover and
+biting the target with its powerful jaws. A giant
+monitor lizard’s saliva is venomous, allowing it to
+bring down prey larger than it can easily haul away
+in its jaws. Giant monitor lizards grow up to 14 feet
+long, including their long tails, and they weigh
+about 350 pounds. Their bodies are normally
+dark brown with patches of yellow or green.
+When nesting, a giant monitor lizard digs
+a deep burrow to hide in. The burrow serves
+as both a safe haven and a location from which
+the lizard can ambush larger prey such as deer,
+boars, or even humanoids. A giant monitor
+lizard can consume nearly its own body weight in
+a single meal, and its loosely articulated jaws allow it
+to swallow surprisingly large prey.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669081
+4425238
 
-================================================================================
 PAGE 264
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669116
+4425273
+O-R
+263
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 PLANAR ORIGINS
 Most planar scions are the distant
 descendants of some immortal
@@ -638,7 +528,7 @@ bloodline. Others, however, may
 be the result of powerful planar
 energies, magical curses, or
 even the intervention of a deity
-or demigod.
+or demigod.
 Items composite longbow (20 arrows), hatchet (2), leather armor
 AC 21 (22 against prey; see Hunt Prey); Fort +9, Ref +12, Will +10; +1 status to all saves
 vs. death eﬀects
@@ -647,7 +537,7 @@ Resistances negative energy 2
 Speed 25 feet
 Melee Ȱɵ hatchet +12 (agile, sweep), Damage 1d6+5 slashing
 Ranged Ȱɵ composite longbow +14 (deadly 1d10, propulsive, range increment 100 feet,
-reload 0, volley 30 feet), Damage 1d8+4 piercing
+reload 0, volley 30 feet), Damage 1d8+4 piercing
 Ranged Ȱɵ hatchet +14 (agile, sweep, thrown 10 feet), Damage 1d6+5 slashing
 Ghost Hunter The duskwalker’s weapons have the beneﬁts of the ghost touch property
 rune on attacks against incorporeal undead.
@@ -668,88 +558,71 @@ Mortals whose ancestry has been inﬂuenced by celestials are known as
 aasimars, and angelkin, who have blood of angels coursing through their
 veins, are among the most common type of them. Many angelkin seek
 adventure as a means of doing good in the world.
-
-================================================================================
-# TENGU SNEAK
-================================================================================
-
-TENGU SNEAK
-CREATURE 2
-CN
+AASIMAR REDEEMER
+CREATURE 5
+NG
 MEDIUM
+AASIMAR
+HUMAN
 HUMANOID
-TENGU
-Perception +6; low-light vision
-Languages Common, Tengu, plus two others
-Skills Acrobatics +8, Athletics +6, Deception +7, Diplomacy +5, Society
-+5, Stealth +8, Thievery +8
-Str +2, Dex +4, Con +1, Int +1, Wis +0, Cha +1
-Items rapier, shortbow, studded leather armor
-AC 19; Fort +7, Ref +10, Will +4
-HP 27
-Speed 25 feet
-Melee Ȱɵ rapier +10 (deadly 1d8, disarm, ﬁnesse), Damage 1d6+2
-piercing
-Melee Ȱɵ beak +10 (ﬁnesse), Damage 1d4+2 piercing
-Ranged Ȱɵ shortbow +10 (deadly 1d10, range increment 60 feet,
-reload 0), Damage 1d6 piercing
-Go for the Eyes Ǻȓ (incapacitation) Trigger The tengu critically hits with
-a beak Strike. Eﬀect The tengu attempts to peck out its victim’s eyes. The
-target must attempt a DC 17 Fortitude save.
-Success Unaﬀected.
-Failure Blinded for 1 round.
-Critical Failure Blinded until healed to maximum HP.
-Sneak Attack The tengu deals 1d6 extra precision damage to ﬂatfooted creatures.
-Surprise Attacker On the ﬁrst round of combat, creatures that haven’t
-acted yet are ﬂat-footed to the tengu.
+Perception +11; darkvision
+Languages Celestial, Common
+Skills Athletics +11, Diplomacy +12, Medicine +9, Religion +11, Society +7
+Str +4, Dex +1, Con +3, Int +0, Wis +2, Cha +3
+Items crossbow (10 bolts), half plate, steel shield (Hardness 5, 20 HP, BT 10), longsword
+AC 23 (25 with shield raised); Fort +12, Ref +8, Will +11: +1 status to all saves vs.
+disease (against diseases, critical failures become failures)
+HP 73
+Divine Grace Ǻȓ Trigger The angelkin is targeted by a spell that allows a saving throw.
+Eﬀect The scion gains a +2 circumstance bonus to the saving throw.
+Glimpse of Redemption Ǻȓ Trigger An enemy damages one of the angelkin’s allies. Both
+the enemy and ally must be within 15 feet of the angelkin. Eﬀect The angelkin causes
+its foe to hesitate under the weight of its sins as visions of possible redemption play
+out in its mind’s eye. The foe chooses one of two options:
+•	 The ally is completely unharmed by the triggering damage.
+•	 The ally gains resistance 7 to all damage against the triggering damage. After the
+damaging eﬀect resolves, the enemy becomes enfeebled 2 until the end of its
+next turn.
+Shield Block Ǻȓ
+Speed 20 feet
+Melee Ȱɵ longsword +15 (versatile P), Damage 1d8+7 slashing
+Ranged Ȱɵ crossbow +12 (range increment 120 feet, reload 1), Damage 1d8+3 piercing
+Divine Innate Spells DC 20; Cantrips (3rd) light
+Champion Devotion Spells DC 20; 3rd (1 Focus Point) lay on hands (Core Rulebook 387)
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669116
+4425273
 
-================================================================================
 PAGE 312
 ================================================================================
 
-TEROTRICUS MYTHS
-The Kellids of Sarkoris dealt with
-their fair share of terotricuses
-during the era of the Worldwound,
-and these people developed
-unique rituals to purify tainted
-grounds with the help of ancestral
-spirits and feathers acquired from
-celestials. Far south of there, in
-what is now known as the Sodden
-Lands, wastelanders who learn of
-the presence of a terotricus—or
-“swampblight,” as they’re called
-there­—carry lanterns blessed by
-angels in the hopes that these
-lights will keep the terotricus
-at bay.
-Terotricus
-The legendary terotricus is a massive slime-mold that hails from the Abyss.
-Its collective consciousness encapsulates entire regions, spreading as far as its
-ever-growing cloud of spores will take it. Once it has seeped onto the Material
-Plane from the Abyssal realm, a terotricus’s agenda is to feed on all living
-creatures, infecting them with its spores, and its presence can spell doom for
-any in its way.
-Terotricuses move by rapidly expanding and contracting their slimy “bodies,”
-which are capable of burrowing through soil, gliding across water, and
-scrabbling up steep slopes. These behemoths of rot don’t need to travel to see
-their plans come to fruition, though; their spores easily latch onto demons and
-other denizens of the Abyss, who in turn bring this blight to the Material Plane
-when the ﬁends are summoned.
-When a terotricus infects a creature with its spores, web-like fungal growths
-start appearing on the victim’s skin until they cover the entire body, at which
-point the victim’s mind is also subdued and bent to the terotricus’s will. The
-terotricus’s favored victims include animals, elves, and fey, though it is happy to
-infect any creature it can catch. Cults of Treerazer occasionally attempt to make
-contact with a terotricus, but such acts almost always simply result in a new sect
-of spore-blighted slaves.
-
-================================================================================
-# TEROTRICUS
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669164
+4425321
+S-T
+311
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 TEROTRICUS MYTHS
 The Kellids of Sarkoris dealt with
 their fair share of terotricuses
@@ -827,64 +700,30 @@ must succeed at a DC 40 Reﬂex save or take a
 –10-foot status penalty to all its Speeds for 1
 minute. On a critical failure, the creature is
 immobilized until it Escapes (DC 40).
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669164
+4425321
 
-================================================================================
 PAGE 313
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669165
+4425322
 Bestiary
-TREERAZER’S CULTISTS
-Treerazer is worshipped by cultists
-throughout the Inner Sea region.
-The majority of these deranged
-maniacs can be found within or
-near the expanse of the Tanglebriar,
-consisting of fungus-corrupted fey,
-debased elves, or other sinister
-demon worshippers. Beyond
-Tanglebriar, his cultists are rarer
-and tend to be loners or leaders
-of very small groups. Treerazer’s
-religious symbol is a bleeding dead
-tree that’s been split in half.
-Edicts corrupt plant life with
-evil or fungal inﬂuences, slay elves,
-feast on rotten ﬂesh or fungus
-Anathema grant mercy to
-elves, plant trees, encourage
-natural plant growth
-Follower Alignments NE, CE
-DEVOTEE BENEFITS
-Divine Font harm or heal
-Divine Skill Nature
-Favored Weapon battleaxe
-Domains destruction,
-nature, nightmares, tyranny
-Cleric Spells 1st: grim
-tendrils, 3rd: wall of thorns,
-6th: tangling creepers
-Treerazer
-Treerazer, the self-styled Lord of the Blasted Tarn, is a powerful demon on the
-cusp of ascending to the true power of one of the rulers of the Abyss itself—a
-demon lord. For now, even as a nascent demon lord, Treerazer is a dangerous foe.
-Treerazer rarely leaves his swampy realm of Tanglebriar—a large thicket of
-tainted foliage and rotting detritus just south of Kyonin’s Fierani Forest—but can
-be encountered anywhere within that toxic mire, often accompanied by a small
-legion of demons, corrupted fey, and other deadly allies. Certain occult rituals
-have the power to call him forth from Tanglebriar, granting him the opportunity
-to directly work his evils beyond the realm to which he has been exiled. Some
-believe that no eldritch force contains Treerazer and that, were he willing, he
-could travel Golarion with impunity, spreading the twisted blessings of his touch
-and the corruption of his presence, yet the Lord of the Blasted Tarn is as cunning
-and canny as he is deadly, and prefers to work his evils on the world from the
-safety of his nightmare realm.
-
-================================================================================
-# TREERAZER
-================================================================================
-
-
-Bestiary
+312
 TREERAZER’S CULTISTS
 Treerazer is worshipped by cultists
 throughout the Inner Sea region.
@@ -942,7 +781,7 @@ Perception +46; darkvision, true seeing
 Languages Abyssal, Common, Elven, Sylvan, telepathy 300 ft.
 Str +12, Dex +9, Con +11, Int +7, Wis +8, Cha + 8
 Skills Acrobatics +40, Arcana +38, Athletics +45, Intimidation +46, Nature +49,
-Occultism +38, Religion +45, Stealth +40
+Occultism +38, Religion +45, Stealth +40
 Items Blackaxe (page 313)
 AC 54; Fort +42, Ref +40, Will +43, +2 status to all saves vs. magic
 HP 550, regeneration 50 (deactivated by good); Immunities death eﬀects, disease,
@@ -977,11 +816,40 @@ so to preserve twisted and corrupted plants or fungi, or plant creatures that ar
 his cause. Treerazer can’t use Defoliation for 1d4 rounds.
 Dispelling Strike Ȳ˓ (abjuration, primal); Frequency once per round; Trigger Treerazer hits
 a creature, object, or spell eﬀect with a weapon Strike or a defoliation attack. Eﬀect
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669165
+4425322
 
-================================================================================
 PAGE 314
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669166
+4425323
+S-T
+313
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 SPAWN OF CYTH-V’SUG
 Treerazer was once the favored
 minion and lieutenant (some
@@ -1049,12 +917,30 @@ with Blackaxe. If it hits, the tree withers
 to ash and you heal 250 Hit Points and
 gain the beneﬁt of restoration (6th)
 and restore senses.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669166
+4425323
 
-================================================================================
 PAGE 315
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669167
+4425324
 Bestiary
+314
 TROLL BLOOD
 The blood of trolls is a valuable
 and diﬃcult-to-procure substance
@@ -1110,11 +996,6 @@ is their ravenous eating habits that fuel trolls’ legendary
 regenerative abilities. Trolls stand anywhere from 12 to
 16 feet tall, though they prefer to hunch for comfort and
 to lull foes into a false sense of security.
-
-================================================================================
-# TROLL
-================================================================================
-
 TROLL
 CREATURE 5
 CE
@@ -1134,40 +1015,40 @@ Melee Ȱɵ claw +14 (agile, reach 10 feet), Damage 2d8+5 slashing
 Rend Ȱɵ claw
 Troll King
 Some trolls have learned the skills necessary to survive
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669167
+4425324
 
-================================================================================
 PAGE 316
 ================================================================================
 
-TROLL AUGURS
-Particularly devout trolls, called
-augurs, claim to possess the
-so-called “gift of sight,” which
-they believe was granted them
-by the demon lord Urxehl. Augurs
-practice a disturbing method of
-future-telling, in which a troll
-slashes open its own abdomen and
-pulls out its entrails to interpret the
-prophecies in its quivering innards.
-Other cultists prod and agitate their
-gutted diviner to keep it conscious
-throughout the gruesome ordeal.
-well beyond the typical life expectancy for their kind and rally others to follow
-their lead. These champions develop a number of talents that make them
-worthy leaders and potent hunters—namely their abilities to willingly boost
-the rate of their regeneration and to shake off the acid and ﬁre that would
-hinder it, not to mention a bestial roar that can send would-be predators
-scurrying off. Troll kings possess a cunning far beyond their younger kin—
-they know to keep their allies close, and their enemies even closer. If a troll
-king so much as suspects that one of its followers is plotting to usurp it,
-retribution is swift and fatal.
-
-================================================================================
-# TROLL KING
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669168
+4425325
+S-T
+315
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 TROLL AUGURS
 Particularly devout trolls, called
 augurs, claim to possess the
@@ -1216,7 +1097,7 @@ that triggered this reaction. If
 the troll king succeeds at this
 check, it can immediately use
 Primordial Roar as part of
-this reaction.
+this reaction.
 Speed 30 feet
 Melee Ȱɵ jaws +23 (reach 10 feet), Damage
 2d12+13 piercing
@@ -1244,12 +1125,30 @@ Unstoppable Charge ̂ˬ The troll king Strides twice in a straight line. It
 can make up to two claw Strikes during this movement and one
 jaws Strike at the end of its movement. It can’t Strike the same
 creature more than once.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669168
+4425325
 
-================================================================================
 PAGE 317
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669169
+4425326
 Bestiary
+316
 ALICORN
 In alchemical and occult circles,
 “alicorn” is the word for the
@@ -1276,3 +1175,40 @@ are wary, at best, of most humanoid creatures, due in large part for poachers’
 tendency to hunt them for their horns, but unicorns are often rumored to have
 a weakness for those who are pure of both heart and spirit. Despite some tales,
 unicorns are equally likely to recognize purity in young men as in young women.
+UNICORN
+CREATURE 3
+CG
+LARGE
+BEAST
+FEY
+Perception +13; darkvision, scent (imprecise) 30 feet
+Languages Common, Sylvan
+Skills Acrobatics +10, Diplomacy +11, Stealth +8, Survival +9
+Str +4, Dex +3, Con +3, Int +0, Wis +4, Cha +4
+Wild Empathy The unicorn has a connection to the creatures of the natural world that
+allows it to communicate with them. The unicorn can use Diplomacy to Make an
+Impression on animals and to make very simple Requests of them.
+AC 20; Fort +10, Ref +8, Will +11 (+2 vs. mental)
+HP 45; Immunities poison
+Speed 45 feet
+Melee Ȱɵ horn +12 (good, magical), Damage 1d10+4 piercing plus 1d6 good and ghost touch
+Melee Ȱɵ hoof +12 (agile, magical), Damage 1d8+4 bludgeoning and ghost touch
+Primal Innate Spells DC 21; 5th tree stride; 3rd heal (×2), neutralize
+poison; 1st detect alignment (at will, good only); Cantrips (2nd)
+light
+Ghost Touch A unicorn’s Strikes have the eﬀects of a
+ghost touch property rune.
+Powerful Charge ʚʖ The unicorn Strides up to
+double its Speed in a straight line and then
+makes a horn Strike. If the unicorn moved
+at least 20 feet, it deals an additional
+2d6 damage on a hit.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669169
+4425326

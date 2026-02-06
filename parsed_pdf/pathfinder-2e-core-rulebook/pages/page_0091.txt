@@ -1,0 +1,83 @@
+SAMPLE BARBARIAN
+Roll damage only once and apply it to each creature you hit. A
+Swipe counts as two attacks for your multiple attack penalty.
+If you’re using a weapon with the sweep trait, its modifier
+applies to all your Swipe attacks.
+WOUNDED RAGE [reaction]
+FEAT 4
+BARBARIAN
+RAGE
+Trigger You take damage and are capable of entering a rage.
+You roar in pain, awakening the rage within you. You Rage.
+6TH LEVEL
+ANIMAL SKIN
+FEAT 6
+BARBARIAN INSTINCT MORPH
+PRIMAL
+TRANSMUTATION
+Prerequisites animal instinct
+Your proficiency in unarmored defense increases to expert.
+While you are raging and unarmored, your skin transforms
+into a thick hide resembling your animal’s skin. You gain a
++1 status bonus to AC instead of taking a –1 penalty to AC;
+if you have the greater juggernaut class feature, this status
+bonus increases to +2. The thickness of your hide gives you a
+Dexterity modifier cap to your AC of +3.
+ATTACK OF OPPORTUNITY [reaction]
+FEAT 6
+BARBARIAN
+Trigger A creature within your reach uses a manipulate action
+or a move action, makes a ranged attack, or leaves a square
+during a move action it’s using.
+You swat a foe that leaves an opening. Make a melee Strike
+against the triggering creature. If your attack is a critical hit and
+the trigger was a manipulate action, you disrupt that action.
+This Strike doesn’t count toward your multiple attack penalty,
+and your multiple attack penalty doesn’t apply to this Strike.
+BRUTAL BULLY
+FEAT 6
+BARBARIAN
+Prerequisites expert in Athletics
+You push your foes around and leave bruises. While raging, when
+you successfully Disarm, Grapple, Shove, or Trip a foe, you deal
+that foe bludgeoning damage equal to your Strength modifier;
+add this to the damage from a critical success to Trip.
+CLEAVE [reaction]
+FEAT 6
+BARBARIAN
+RAGE
+Trigger Your melee Strike kills a creature or knocks it
+unconscious, and another foe is adjacent to that creature.
+You swing clear through one foe and into another. Make a
+melee Strike against the second foe.
+DRAGON’S RAGE BREATH [two-action][two-actions]
+FEAT 6
+ARCANE
+BARBARIAN
+CONCENTRATE
+EVOCATION INSTINCT RAGE
+Prerequisites dragon instinct
+Requirements You haven’t used this ability since you last Raged.
+You breathe deeply and exhale powerful energy in a 30-foot
+cone or 60-foot line, dealing 1d6 damage per level. The area
+and damage type match those of your dragon (see Table 3–4
+ANIMAL RAGER
+The animal within you breaks free, turning you
+into a feral creature of nature when you rage. You
+follow your instincts rather than reason, and you
+find yourself at home in the wilderness.
+ABILITY SCORES
+Increase your Strength as high as you can, followed by
+your Constitution and Dexterity. A high Wisdom can
+improve your senses.
+SKILLS
+Athletics, Intimidation, Nature, Survival
+INSTINCT
+Animal instinct
+STARTING FEAT
+Raging Intimidation
+HIGHER-LEVEL FEATS
+No Escape (2nd), Animal Skin (6th), Animal Rage (8th),
+Terrifying Howl (10th), Predator’s Pounce (12th)
+Core Rulebook
+90

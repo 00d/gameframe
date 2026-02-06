@@ -1,0 +1,124 @@
+the DC is in the affliction’s stat block. If it’s a spell, use the
+caster’s DC. The GM can also calculate a DC based on the
+target effect’s level. For spells, the counteract check modifier
+is your spellcasting ability modifier plus your spellcasting
+proficiency bonus, plus any bonuses and penalties that
+specifically apply to counteract checks. What you can
+counteract depends on the check result and the target’s
+level. If an effect is a spell, its level is the counteract level.
+Otherwise, halve its level and round up to determine its
+counteract level. If an effect’s level is unclear and it came
+from a creature, halve and round up the creature’s level.
+Critical Success Counteract the target if its counteract level is no
+more than 3 levels higher than your effect’s counteract level.
+Success Counteract the target if its counteract level is no
+more than 1 level higher than your effect’s counteract level.
+Failure Counteract the target if its counteract level is lower
+than your effect’s counteract level.
+Critical Failure You fail to counteract the target.
+Hit Points, Healing,
+and Dying
+All creatures and objects have Hit Points (HP). Your
+maximum Hit Point value represents your health,
+wherewithal, and heroic drive when you are in good
+health and rested. Your maximum Hit Points include
+the Hit Points you gain at 1st level from your ancestry
+and class, those you gain at higher levels from your class,
+and any you gain from other sources (like the Toughness
+general feat). When you take damage, you reduce your
+current Hit Points by a number equal to the damage dealt.
+Some spells, items, and other effects, as well as simply
+resting, can heal living or undead creatures. When you
+are healed, you regain Hit Points equal to the amount
+healed, up to your maximum Hit Points.
+Knocked Out and Dying
+Creatures cannot be reduced to fewer than 0 Hit Points.
+When most creatures reach 0 Hit Points, they die and are
+removed from play unless the attack was nonlethal, in which
+case they are instead knocked out for a significant amount
+of time (usually 1 minute or more). When undead and
+construct creatures reach 0 Hit Points, they are destroyed.
+Player characters, their companions, and other
+significant characters and creatures don’t automatically
+die when they reach 0 Hit Points. Instead, they are
+knocked out and are at risk of death. At the GM’s
+discretion, villains, powerful monsters, special NPCs, and
+enemies with special abilities that are likely to bring them
+back to the fight (like ferocity, regeneration, or healing
+magic) can use these rules as well.
+As a player character, when you are reduced to 0 Hit
+Points, you’re knocked out with the following effects:
+•	 You immediately move your initiative position to
+directly before the creature or effect that reduced
+you to 0 HP.
+•	 You gain the dying 1 condition. If the effect that
+knocked you out was a critical success from the
+attacker or the result of your critical failure, you
+gain the dying 2 condition instead. If you have the
+wounded condition (page 460), increase your dying
+value by an amount equal to your wounded value.
+If the damage was dealt by a nonlethal attack or
+nonlethal effect, you don’t gain the dying condition;
+you are instead unconscious with 0 Hit Points.
+Taking Damage while Dying
+If you take damage while you already have the dying
+condition, increase your dying condition value by 1, or by
+2 if the damage came from an attacker’s critical hit or your
+own critical failure. If you have the wounded condition,
+remember to add the value of your wounded condition to
+your dying value.
+Recovery Checks
+When you’re dying, at the start of each of your turns, you
+must attempt a flat check with a DC equal to 10 + your
+current dying value to see if you get better or worse. This
+is called a recovery check. The effects of this check are
+as follows.
+Critical Success Your dying value is reduced by 2.
+Success Your dying value is reduced by 1.
+Failure Your dying value increases by 1.
+Critical Failure Your dying value increases by 2.
+Conditions Related to Death and Dying
+To understand the rules for getting knocked out and
+how dying works in the game, you’ll need some more
+information on the conditions used in those rules.
+Presented below are the rules for the dying, unconscious,
+wounded, and doomed conditions.
+Dying
+You are bleeding out or otherwise at death’s door. While
+you have this condition, you are unconscious. Dying
+always includes a value. If this value ever reaches dying
+4, you die. If you’re dying, you must attempt a recovery
+check at the start of your turn each round to determine
+whether you get better or worse.
+If you lose the dying condition by succeeding at a recovery
+check and are still at 0 Hit Points, you remain unconscious,
+but you can wake up as described on page 460. You lose
+the dying condition automatically and wake up if you
+ever have 1 Hit Point or more. Anytime you lose the dying
+condition, you gain the wounded 1 condition, or increase
+your wounded value by 1 if you already have that condition.
+Unconscious
+You’re sleeping, or you’ve been knocked out. You can’t act.
+You take a –4 status penalty to AC, Perception, and Reflex
+saves, and you have the blinded and flat-footed conditions.
+When you gain this condition, you fall prone and drop
+459
+9
+PLAYING THE GAME
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

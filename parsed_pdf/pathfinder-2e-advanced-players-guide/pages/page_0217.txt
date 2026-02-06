@@ -1,0 +1,126 @@
+that ends its turn adjacent to you must attempt a Will save; this
+is a mental, visual effect.
+Success The creature is unaffected.
+Failure The creature is dazzled until the end of its next turn.
+Critical Failure The creature is confused and dazzled until the
+end of its next turn.
+BLINDING FURY
+SPELL 6
+CURSE
+EMOTION
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+Traditions divine, occult, primal
+Cast [reaction] verbal; Trigger A creature damages you.
+Range 60 feet; Targets the triggering creature
+Saving Throw Will; Duration varies
+You curse the target with your outrage at being attacked. The
+effect is determined by the target’s Will save.
+Critical Success The target is unaffected.
+Success The target can’t observe you until the end of its turn,
+and if you’re currently observed by it, you become hidden to it.
+Failure As success, and for 1 minute, every time the target
+damages you, it can’t observe you until the end of its turn.
+Critical Failure As success, and for an unlimited duration, the
+first time each round the target damages a creature, it can’t
+observe that creature until the end of its turn. If it damages
+several creatures at once, the creature it can’t perceive is
+chosen randomly among those creatures.
+BLISTER
+SPELL 5
+NECROMANCY
+Traditions arcane, occult, primal
+Cast [two-actions] somatic, verbal
+Range 60 feet; Targets 1 creature
+Saving Throw Fortitude; Duration 1 minute
+You point at a target in range, and its skin grows searing
+blisters filled with caustic fluid. The target must attempt a
+Fortitude save.
+Critical Success The target is unaffected.
+Success The target grows one blister. You can spend a single
+action, which has the concentrate trait, to pop a blister. The
+target and each creature in a 15-foot cone originating from
+the target takes 7d6 acid damage (basic Fortitude save).
+You choose the direction of the cone, which can’t include
+the target. When no blisters are left, the spell ends.
+Failure As success, but the target grows two blisters.
+Critical Failure As success, but the target grows four blisters.
+Heightened (+1) The damage of a popped blister increases by 1d6.
+BLISTERING INVECTIVE
+SPELL 2
+AUDITORY
+EMOTION
+ENCHANTMENT
+FEAR
+MENTAL
+Traditions occult
+Cast [two-actions] verbal, somatic
+Range 30 feet; Targets 1 creature
+Saving Throw Will
+A heap of insults and invectives spew from your mouth—
+words so devastating your foes burn from the intensity of
+your diatribe. Your words deal 2d6 persistent fire damage,
+and the target must attempt a Will save. If the target doesn’t
+understand the language or you’re not speaking a language, it
+gains a +4 circumstance bonus to its save.
+Critical Success The target is unaffected.
+Success The target takes half the persistent fire damage.
+Failure The target becomes frightened 1 and takes the full
+persistent fire damage.
+Critical Failure The target becomes frightened 2 and takes
+double the persistent fire damage.
+Heightened (+2) You can target two additional creatures, and
+the persistent damage increases by 2d6.
+BLOOD VENDETTA
+SPELL 2
+CURSE
+NECROMANCY
+Traditions arcane, divine, occult
+Cast [reaction] verbal; Trigger A creature deals piercing, slashing, or
+persistent bleed damage to you; Requirements You can bleed.
+Range 30 feet; Targets the triggering creature
+Saving Throw Will; Duration varies
+You curse the target, punishing it for having the audacity to
+spill your blood. The target takes 2d6 persistent bleed damage
+and must attempt a Will save.
+Critical Success The target is unaffected.
+Success The target takes half the persistent bleed damage.
+Failure The target takes the full persistent bleed damage. Until
+the bleeding stops, the target has weakness 1 to piercing
+and slashing damage.
+Critical Failure As failure, but the target takes double the
+persistent bleed damage.
+Heightened (+2) The persistent bleed damage increases by 2d6.
+CHAMELEON COAT
+SPELL 5
+ILLUSION
+Traditions primal
+Cast [three-actions] material, somatic, verbal
+Range 15 feet; Targets up to 8 creatures
+Duration 10 minutes
+You shift the colors of the targets’ outermost layer of clothing
+and gear to be closer to their environment when they remain
+still. Creatures affected by the spell gain a +3 status bonus to
+Stealth checks to Hide. The changed color granted by the spell
+always shifts to match the environment, even if there are drastic
+changes. If any piece of gear or clothing affected by the spell is
+removed from a creature, the spell ends for that creature.
+Heightened (6th) If a creature affected by this spell rolls a
+critical failure on its Stealth check to Sneak within 30 feet
+of a creature that would spot it, it instead only fails its
+check, as the spell mildly hypnotizes the spotter.
+Heightened (8th) As 6th level, and the status bonus is +4.
+CHARITABLE URGE
+SPELL 2
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+Traditions arcane, divine, occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration varies
+You speak on the virtue of charity, compelling the target to
+Advanced Player's Guide
+216
+216

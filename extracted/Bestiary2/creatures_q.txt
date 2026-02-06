@@ -87,6 +87,32 @@ can hold as many creatures in its coils as will fit in its space.
 PAGE 56
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868553
+4425065
+A-C
+A-C
+55
+55
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 CRAB SPECIES
 Crabs can be found along all of the
 world’s coastlines, from relatively
@@ -108,126 +134,71 @@ darkvision and cold resistance, and those adapted to the most hostile reaches of
 the deep sea can detect nearby creatures through subtle shifts in ocean currents.
 These skittering creatures are prized for their delicious meat, but their size
 makes them dangerous targets for harvesting.
+GIANT CRAB
+CREATURE 2
+N
+MEDIUM
+ANIMAL
+AQUATIC
+Perception +8; darkvision
+Skills Acrobatics +7, Athletics +8, Stealth +7
+Str +4, Dex +3, Con +1, Int –4, Wis +2, Cha –3
+AC 19; Fort +7, Ref +9, Will +8
+HP 24; Resistances physical 3 (except bludgeoning)
+Vulnerable to Prone If a creature critically succeeds on a check to Trip the giant crab, the
+crab is ﬂipped over onto its back in addition to the usual eﬀects. A giant crab that is
+ﬂipped onto its back has a particularly hard time defending itself; instead of taking the
+normal –2 circumstance penalty to AC for being ﬂat-footed, it takes a –4 circumstance
+penalty to AC.
+Scuttle Ǻȓ Trigger A creature that the giant crab can see targets the crab with an attack;
+Eﬀect The giant crab scuttles to the side and gains a +2 circumstance bonus to AC
+against the triggering attack. After the attack resolves, the crab can Stride up to its
+speed in a straight line as part of the reaction.
+Speed 25 feet, swim 15 feet
+Melee Ȱɵ claw +10, Damage 1d10+4 slashing plus Grab
+Constrict Ȱɵ 1d6+4 bludgeoning, DC 18
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868553
+4425065
 
-================================================================================
-# QUICKLING
-================================================================================
-
-
-Bestiary 2
-QUICKLING PRANKS
-Quicklings consider cruelty to
-be the pinnacle of pranking. As
-a relatively minor example, a
-quickling may spend an entire day
-constantly moving food out of reach
-of a starving man. More commonly,
-however, a quickling prefers to cause
-pain and injury directly, such as by
-suddenly replacing a dinner fork with
-a red-hot knife as it’s picked up, or
-slashing the legs of a traveler moving
-through tall grass.
-Quickling
-Few creatures can match a quickling’s speed. These malicious fey creatures delight in
-striking with blinding speed and accuracy, racing in to stab and slash at foes before
-scampering away for cover with maddening­—even frightening—swiftness. Stories
-of people simply doubling over, bleeding from what appear to be spontaneously
-opening wounds, are often eyewitness accounts of quickling attacks.
-Quicklings actively hate the “slow-paced dullards” they encounter every day,
-delighting in inﬂicting suffering and pain on creatures they deem too sluggish to
-matter. While they are related to kinder fey such as brownies and pixies, quicklings
-care only for their own merriment. They see their own cruel pranks as the height of
-humor and have full conﬁdence that their speed and invisibility will keep them safe
-from harm. They occasionally form gangs of up to a dozen individuals, although
-the group usually devolves very quickly into mayhem, as they inevitably perform
-increasingly deadly pranks against each other.
-QUICKLING
-CREATURE 3
-UNCOMMON
-CE
-SMALL
-FEY
-Perception +9; low-light vision
-Languages Aklo, Common, Sylvan
-Skills Acrobatics +13, Crafting +8, Deception +8, Nature +8, Stealth +11, Survival +6,
-Thievery +11
-Str +0, Dex +4, Con +1, Int +3, Wis +1, Cha +3
-Items lethargy poison (3 doses), shortsword
-AC 22; Fort +6, Ref +13, Will +8
-HP 25; Weaknesses cold iron 5
-Slow Susceptibility The quickling takes a –2 status penalty to saving throws against
-eﬀects that cause the slowed condition. If the quickling ever
-becomes slowed, they lose their supernatural speed, can’t Fade
-from View, and become sickened 1 for the duration of
-the slow. They also can’t reduce this sickened
-condition for the duration of the slowed eﬀect.
-Can’t Catch Me Ǻȓ Trigger The quickling is
-targeted by a Strike; Eﬀect The quickling
-darts aside, gaining a +2 circumstance bonus
-to AC, then Strides up to half their Speed after
-the Strike resolves.
-Speed 100 feet
-Melee Ȱɵ shortsword +11
-(agile, ﬁnesse, versatile S),
-Damage 1d6+2 piercing plus
-lethargy poison
-Primal Innate Spells DC 20; 2nd shatter; 1st
-ventriloquism; Cantrips (2nd) dancing lights, prestidigitation
-Fade from View Ȳ˓ Requirements The quickling used no attack, manipulate, or move actions
-in the previous round; Eﬀect The quickling becomes invisible until it uses an attack,
-manipulate, or move action. The quickling can’t use Fade from View again for 1d4 rounds.
-Sneak Attack The quickling’s Strikes deal an extra 1d6 precision damage to
-ﬂat-footed creatures.
-Supernatural Speed The quickling’s speed, combined with nearly instantaneous
-acceleration and deceleration, enables them to move in astonishing ways. As
-long as they have a ﬁrm surface to travel across, they can Stride their full
-movement vertically or horizontally. They can even run across unstable
-surfaces, such as water, in the same way,
-although dangerous surfaces (acid, lava,
-etc.) harm them as normal. They must
-end their movement on a horizontal surface
-capable of bearing their weight or else they fall.
-
-================================================================================
 PAGE 220
 ================================================================================
 
-COASTAL HUNTERS
-Quoppopaks prefer to hunt at dawn
-and dusk, prowling seashores and
-estuaries for fresh meat. While they
-could easily live oﬀ of the minerals
-and tiny organisms they ﬁlter from
-the water sucked through their
-ventral tubes, they delight in killing
-living creatures. Despite their cruel
-natures, quoppopaks don’t mind
-hunting alongside others of their
-kind if it means they’ll be able to
-create even more carnage.
-Quoppopak
-Quoppopaks combine the most terrifying aspects of water striders, octopuses,
-and vampire bats into one evil, water-dwelling monster. Their bodies consist of
-an oval abdomen, eight hollow tentacles, and a thick, tail-like limb ending in
-a ventral tube, which resembles a lamprey’s mouth and is capable of intaking
-ﬂuids at an astounding rate. While quoppopaks can clumsily maneuver on land,
-they prefer to move on water; quoppopaks glide along the surface of lakes or the
-ocean by thrusting their ventral tubes into the water, cycling liquid up through
-their bodies, then spraying the water back out in a high-pressure stream through
-their hollow, spear-like tentacles. Though the ventral tube can’t expel ﬂuids, it
-still poses a substantial threat to other creatures. Quoppopaks have gills, but
-they are located inside the creatures’ abdomens, allowing them to draw their
-air from the water they siphon through their ventral tubes. Quoppopaks can
-hold some water in their abdomens for quick forays on land, but this is akin to
-humans holding their breath to go underwater, and the monsters’ water reserves
-quickly deplete.
-
-================================================================================
-# QUOPPOPAK
-================================================================================
-
-
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868717
+4425229
+O-R
+O-R
+219
+219
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 COASTAL HUNTERS
 Quoppopaks prefer to hunt at dawn
 and dusk, prowling seashores and
@@ -303,12 +274,37 @@ surface of water or other liquids
 without falling through. It can
 go underwater if it wishes, but it
 must Swim to do so.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868717
+4425229
 
-================================================================================
 PAGE 221
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868718
+4425230
 Bestiary 2
+220
+220
 ANCIENT INTELLECTS
 Each radiant warden’s animating
 force consists of raw positive
@@ -334,7 +330,72 @@ years ago to protect observatories and scholars against the incursion of alien
 aggressors from the Dominion of the Black. Over time, their roles as guardians
 expanded to include watching over any region where the laws of time and space
 have worn thin, particularly near portals and permanent gates between planets,
-planes, or dimensions.
+planes, or dimensions.
 Named for both the radial nature of the concentric rings that make up their
 bodies as well as the glowing radiance of their attacks, radiant wardens carry on
 their orders, defending sites from invasion with single-minded purpose.
+RADIANT WARDEN
+CREATURE 17
+UNCOMMON
+N
+GARGANTUAN
+CONSTRUCT
+Perception +30; darkvision
+Language any one ancient language (such as Jistkan)
+Skills Arcana +32, Astronomy Lore +36, Athletics +33, Occultism +32
+Str +9, Dex +6, Con +5, Int +6, Wis +5, Cha +0
+AC 40; Fort +32, Ref +29, Will +28
+HP 300; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued, necromancy,
+nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances mental 15,
+physical 15 (except adamantine)
+Gatekeeper Aura (abjuration, aura, occult) 60 feet. A creature that uses a teleportation
+ability within the aura’s emanation or enters it via a teleportation ability must succeed
+a DC 38 Will save or become sickened 1 and have its destination changed to a point
+of the radiant warden’s choosing within the emanation. On a successful save, the
+creature arrives as intended but is still sickened 1.
+Speed 30 feet, ﬂy 30 feet
+Melee Ȱɵ hammer +32 (magical, reach 15 feet,
+shove), Damage 3d12+15 bludgeoning plus
+radiant blow
+Ranged Ȱɵ radiant beam +32 (magical, reach 15 feet),
+Damage 4d10 force
+Occult Innate Spells DC 38; 9th teleport; 8th
+collective transposition (×3), scintillating
+pattern; 7th dimensional lock, prismatic
+spray; 5th dimension door (at will)
+Orrery Ȱɵ (concentrate) Until it acts, the
+radiant warden appears to be an orrery (or similar
+large mechanical contraption, such as a telescope). It
+has an automatic result of 53 on Deception checks and
+DCs to convincingly pass as such a machine.
+Radiant Blast ʚʖ (evocation, force, occult) The radiant
+warden releases a 50-foot cone of bright energy
+that deals 10d12 force damage (DC 38 basic
+Reﬂex save). The radiant warden can’t use
+Radiant Blast for 1d4 rounds.
+Radiant Blow When a creature is hit by the
+radiant warden’s hammer Strike, a ﬂash
+of radiant energy attempts to anchor
+the creature in place. The creature
+must attempt a DC 38 Will
+save; on a failure, the creature
+can’t use any teleportation
+eﬀects
+for
+1
+minute.
+On a critical failure,
+the creature is also
+permanently blinded.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868718
+4425230

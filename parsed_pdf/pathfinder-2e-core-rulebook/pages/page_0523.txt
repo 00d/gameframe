@@ -1,0 +1,196 @@
+Hazard Format
+Hazards are presented in a stat block format similar to
+those used for monsters. A few notes regarding the format
+follow the sample stat block.
+HAZARD NAME
+HAZARD [LEVEL]
+TRAITS
+Stealth This entry lists the Stealth modifier for a complex
+hazard’s initiative or the Stealth DC to detect a simple
+hazard, followed by the minimum proficiency rank to detect
+the hazard (if any) in parentheses. If detect magic can be
+used to detect the hazard, this information is located here
+as well.
+Description This explains what the hazard looks like and might
+include special rules.
+Disable The DC of any skill checks required to disable the
+hazard are here; if the hazard can be counteracted, its spell
+level and counteract DC are listed in parentheses.
+AC the hazard’s AC; Saving Throws the hazard’s saves. Usually
+only haunts are subject to Will saves.
+Hardness the hazard’s Hardness; HP the hazard’s Hit Points,
+with its Broken Threshold in parentheses; Immunities the
+hazard’s immunities; Weaknesses the hazard’s weaknesses,
+if any; Resistances the hazard’s resistances, if any
+Action Type [reaction] or [free-action] This is the reaction or free action the
+hazard uses; Trigger The trigger that sets off the hazard
+appears here. Effect For a simple hazard, this effect is often
+all the hazard does. For a complex hazard, this might also
+cause the hazard to roll initiative.
+Routine This section describes what a complex hazard does on
+each of its turns during an encounter; the number in parentheses
+after the word “Routine” indicates how many actions the hazard
+can use each turn. Simple hazards don’t have this entry.
+Action Any action the hazard can use appears here. Typically,
+this is a melee or ranged attack.
+Reset If the hazard can be reset, that information is here.
+Level
+The hazard’s level indicates what level of party it’s a good
+challenge for. If the hazard involves a toxin, curse, or other
+non-spell feature, that feature’s level is the hazard’s level.
+Traits
+The most notable hazard traits are trap (constructed to
+harm intruders), environmental (natural hazards), and
+haunt (spectral phenomena). Traps have a trait to indicate
+whether they’re magical or mechanical. Hazards that have
+initiative and a routine have the complex trait.
+Stealth or Stealth DC
+Complex hazards list their Stealth modifier, which they
+use for initiative, instead of their Stealth DC. If you need
+the DC, it’s equal to this modifier + 10.
+Simple Hazards
+A simple hazard uses its reaction only once, after which
+its threat is over unless the hazard is reset.
+HIDDEN PIT
+HAZARD 0
+MECHANICAL
+TRAP
+Stealth DC 18 (or 0 if the trapdoor is disabled or broken)
+Description A wooden trapdoor covers a pit that’s 10 feet
+square and 20 feet deep.
+Disable Thievery DC 12 to remove the trapdoor
+AC 10; Fort +1, Ref +1
+Trapdoor Hardness 3, Trapdoor HP 12 (BT 6); Immunities
+critical hits, object immunities, precision damage
+Pitfall [reaction] Trigger A creature walks onto the trapdoor. Effect
+The triggering creature falls in and takes falling damage
+(typically 10 bludgeoning damage). That creature can use
+the Grab an Edge reaction to avoid falling.
+Reset Creatures can still fall into the trap, but the trapdoor
+must be reset manually for the trap to become hidden again.
+HAZARDS BY NAME
+This chapter’s hazards are organized by level and
+complexity. If you need to look up a hazard by its name,
+use the following table.
+Hazard Name
+Level
+Complexity
+Page
+Armageddon orb
+23
+Simple
+526
+Banshee’s symphony
+18
+Complex
+529
+Bloodthirsty urge
+10
+Simple
+524
+Bottomless pit
+9
+Simple
+524
+Darkside mirror
+14
+Complex
+528
+Drowning pit
+3
+Complex
+526
+Electric latch rune
+3
+Simple
+523
+Fireball rune
+5
+Simple
+524
+Frozen moment
+17
+Simple
+525
+Hallucination powder trap
+6
+Simple
+524
+Hammer of forbiddance
+11
+Simple
+525
+Hidden pit
+0
+Simple
+522
+Lava flume tube
+10
+Complex
+528
+Pharaoh’s ward
+7
+Simple
+524
+Planar rift
+13
+Simple
+525
+Poisoned dart gallery
+8
+Complex
+528
+Poisoned lock
+1
+Simple
+522
+Polymorph trap
+12
+Simple
+525
+Quicksand
+3
+Complex
+526
+Scythe blades
+4
+Simple
+523
+Second chance
+21
+Simple
+525
+Slamming door
+1
+Simple
+523
+Spear launcher
+2
+Simple
+523
+Spinning blade pillar
+4
+Complex
+527
+Summoning rune
+1
+Complex
+526
+Telekinetic swarm trap
+12
+Complex
+528
+Vorpal executioner
+19
+Simple
+525
+Wheel of misery
+6
+Complex
+527
+Yellow mold
+8
+Simple
+524
+Core Rulebook
+522

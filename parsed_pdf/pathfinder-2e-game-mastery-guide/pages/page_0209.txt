@@ -1,0 +1,77 @@
+Gamemastery Guide
+208
+208
+CRIMINALS
+Some criminals are the desperate who have no option but to break the law to
+survive, while others choose a life of crime for thrills, forming gangs or underworld
+guilds that specialize in certain illegal ventures.
+GRAVE ROBBER
+Many cultures have a tradition of burying their dead with a selection of the deceased’s
+most precious possessions, and some include gifts that are thought to provide a boon
+in the afterlife. Such valuables can be easy pickings for those with no respect for—or
+fear of—the dead.
+GRAVE ROBBER
+CREATURE 1
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +5
+Languages Common
+Skills Crafting +6, Deception +2, Intimidation +2, Society +6, Stealth +5, Underworld Lore +6
+Str +1, Dex +2, Con +2, Int +3, Wis +2, Cha −1
+Items alchemist’s tools, dagger, formula book, holy water, shovel, studded leather armor
+Infused Items A grave robber carries the following infused items: 2 lesser bottled
+lightnings, a lesser frost vial, and a lesser thunderstone. These items last for 24 hours,
+or until the next time the grave robber makes their daily preparations.
+AC 17; Fort +7, Ref +7, Will +5
+HP 18
+Speed 25 feet
+Melee [one-action] shovel +6, Damage 1d6+1 bludgeoning
+Ranged [one-action] alchemical bomb +7 (range increment 20 feet, splash), Damage
+varies by bomb
+BANDIT
+By setting ambushes and traps in concealing countryside, such as
+forests and mountains, bandits waylay travelers and plunder their
+valuables before disappearing back to their wilderness hideouts.
+Many bandits seek only to steal and release their victims alive,
+though a few prefer to leave no witnesses.
+BANDIT
+CREATURE 2
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Athletics +6, Deception +5, Forest Lore +4, Intimidation +6, Stealth +8,
+Survival +6, Thievery +8
+Str +3, Dex +3, Con +1, Int +0, Wis +2, Cha +1
+Items hatchet, sling (10 bullets), studded leather armor
+AC 19; Fort +7, Ref +9, Will +6
+HP 30
+Bandit’s Ambush When the bandit rolls initiative using Deception or Stealth,
+they can attempt to Demoralize one creature as a free action.
+Speed 25 feet
+Melee [one-action] hatchet +9 (agile, sweep), Damage 1d6+5 slashing
+Ranged [one-action] sling +9 (propulsive, range increment 50 feet, reload 1), Damage
+1d6+3 bludgeoning
+Ranged [one-action] hatchet +9 (agile, sweep, thrown 10 feet), Damage 1d6+5
+slashing
+Dread Striker Frightened creatures are flat-footed to the bandit.
+Favored Terrain The bandit ignores the effects of non-magical difficult
+terrain in forests.
+CRIMINAL SCAMS
+Common scams criminals run
+include sending fake collectors
+for nonexistent charities to seek
+donations for the diseased and
+downtrodden; rigged games of
+chance at local fairs offering
+worthless prizes, and flashy
+sideshows concealing the work of
+pickpockets in the audience; and
+plants who offer to help travelers
+find accommodations but lead them
+to inns with exorbitant prices.
+BANDIT

@@ -3,14 +3,14 @@
 
 
 ================================================================================
-# FILTH FIRE 
+# FILTH FIRE
 ================================================================================
 
 FILTH FIRE
 These creatures look like roiling clouds of black smoke churning above a
 mound of burning refuse. Leering faces form and fade in the smoke above,
 while the burning trash writhes in spasmodic lurches, obviously alive.
-FILTH FIRE 
+FILTH FIRE
 CREATURE 4
 NE
 MEDIUM
@@ -52,6 +52,32 @@ Toxic Fumes (evocation, poison, primal) The ﬁlth
 PAGE 112
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868609
+4425121
+E-G
+E-G
+111
+111
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ELEMENTAL ALIGNMENTS
 More than other elementals, ﬁre
 elementals tend to deviate from
@@ -61,98 +87,98 @@ elementals are rare. Fire’s inherently
 capricious nature seems to prevent
 these creatures from succumbing to
 the inﬂuence of order.
-ﬁre belches a 15-foot cone of toxic smoke that deals 2d6 poison damage (DC 21 basic
-Fortitude save). A creature that fails is also sickened 1 (or sickened 2 on a critical failure).
+ﬁre belches a 15-foot cone of toxic smoke that deals 2d6 poison damage (DC 21 basic
+Fortitude save). A creature that fails is also sickened 1 (or sickened 2 on a critical failure).
 STRIDING FIRE
 An embodiment of the speed and chaos of a spreading blaze, a striding ﬁre
 appears as a lithe and long-limbed humanoid composed of shifting-hued ﬂames
 churning within a skeleton-like framework.
-
-================================================================================
-# FETCHLING SCOUT
-================================================================================
-
-
-MASTERS OF ADAPTATION
-Kayals understand that many
-Material Plane cultures view them
-with suspicion or even fear, and
-take pains to adapt to cultures with
-which they seek to establish trade.
-Unfortunately, kayals’ mastery
-at cultural adaptation can often
-backﬁre, leading to fears that the
-so-called “fetchlings” are an invading
-force that seeks to duplicate and
-replace those with whom they
-merely wish to do business.
-Fetchling
-The people known today as fetchlings are a distinct ancestry descended from
-generations of humans who became trapped ages ago on the Shadow Plane. No longer
-human at all, these people, who call themselves kayals, have become monochromatic
-in coloration, with ﬂesh tones and hair colors varying between white, black, and all
-shades of gray. Their limbs are lithe and willowy, and their eyes are generally solid
-yellow, yellow-green, or white, though a rare few have a purple or blue glow.
-Fetchlings have developed their own complex societies in the Shadow Plane,
-often under the tolerance of or in servitude to the strange, malignant creatures
-there, such as the sinister velstracs or the enigmatic d’ziriaks. While individual
-fetchlings can be any alignment, they are all survivors in a harsh environment,
-which leads to a tendency toward pragmatism. Fetchling clothing mimics the
-regions they dwell in, with drab colors tending toward darker shades. When they
-trade with humans or other societies on the Material Plane, they often wear masks
-or concealing clothing to hide their appearance.
-Typical fetchling communities are insular and swiftly close ranks in the
-event of an intruder. Though individual fetchlings don’t mind traveling to and
-blending in with other societies to facilitate trade, they often hide or even react
-defensively if they have their own visitors. When one considers the nature of
-the other denizens of the Shadow Plane, however, this tendency to assume the
-worst of interlopers might make sense to some.
-Fetchlings are not as common on the Material Plane;
-most of those who dwell there are loners by choice who
-have left their home to seek out adventure elsewhere,
-exiles who were banished from their homelands,
-or planar castaways with no ability to return to the
-Shadow Plane. This last category, the lost and stranded,
-are the most likely to be found in larger groups. In cities
-of signiﬁcant size, one can sometimes even ﬁnd a small community of
-a few dozen or more fetchlings living among humans, although they often do so
-subtly by dyeing their hair, wearing brightly colored clothing, and utilizing
-layers of makeup to hide their pallid complexions.
-FETCHLING SCOUT
-CREATURE 1
-N
+STRIDING FIRE
+CREATURE 6
+CN
 MEDIUM
-FETCHLING
-HUMANOID
-SHADOW
-Perception +5; darkvision
-Languages Common, Shadowtongue
-Skills Acrobatics +7, Athletics +4, Deception +5, Diplomacy +5, Society +3, Stealth +7,
-Thievery +7
-Str +1, Dex +4, Con +2, Int +0, Wis +0, Cha +2
-Items chain shirt, dagger
-AC 18; Fort +5, Ref +9, Will +5
-HP 18
-Shadow Blending When the fetchling scout is concealed as a result of dim
-light, the ﬂat check to target them has a DC of 7, not 5.
-Speed 25 feet
-Melee Ȱɵ dagger +9 (agile, ﬁnesse, versatile S), Damage 1d4+1 piercing
-Ranged Ȱɵ dagger +9 (agile, ﬁnesse, thrown 10 feet, versatile S), Damage 1d4+1
-piercing
-Occult Innate Spells DC 15; 1st illusory disguise
-Shadow Stride Ȱɵ (illusion, occult, shadow) Requirement The fetchling is in dim
-light; Eﬀect The fetchling Strides. They have a +10-foot status bonus to their
-Speed during this Stride. The DC from shadow blending increases to 11 during
-this Stride, and the fetchling remains concealed by dim light until the end of
-the movement, even if they leave dim light during the Stride.
-Sneak Attack The fetchling scout’s Strikes deal an additional 1d6
-precision damage to ﬂat-footed creatures.
+ELEMENTAL
+FIRE
+Perception +14; darkvision, smoke vision
+Languages Ignan
+Skills Acrobatics +15, Athletics +12
+Str +2, Dex +5, Con +3, Int +0, Wis +4, Cha +1
+Smoke Vision The striding ﬁre ignores the concealed condition from smoke.
+AC 24; Fort +11, Ref +17, Will +14
+HP 115; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 10
+Speed 50 feet
+Melee Ȱɵ ﬁst +17 (agile, ﬁnesse), Damage 2d8+5 bludgeoning plus 1d6
+persistent ﬁre
+Burning Rush ʚʖ (evocation, ﬁre, primal) The striding ﬁre Strides up
+to double its Speed in a straight line. Its movement during this
+Stride doesn’t trigger reactions. Any creature the striding
+ﬁre was adjacent to at any point during this Stride must
+attempt a DC 24 basic Reﬂex save. If it critically
+fails, it is knocked prone by a wave of heated
+air. The striding ﬁre can’t use Burning Rush for
+1d4 rounds.
+MAGMA SCORPION
+Whether skittering through Abyssal wastelands
+or basking in the searing sand of the deepest
+deserts, magma scorpions have charred carapaces
+constantly emitting vision-warping waves of heat.
+MAGMA SCORPION
+CREATURE 8
+N
+LARGE
+ELEMENTAL
+FIRE
+Perception +18; darkvision, smoke vision
+Skills Athletics +18
+Str +6, Dex +3, Con +5, Int –4, Wis +4, Cha +0
+Smoke Vision The magma scorpion ignores the
+concealed condition from smoke.
+AC 28; Fort +19, Ref +14, Will +16
+HP 155; Immunities bleed, ﬁre, paralyzed, poison,
+sleep; Weaknesses cold 10
+Speed 40 feet, climb 30 feet
+Melee Ȱɵ pincer +20 (agile, reach 10 feet), Damage 2d6+9
+bludgeoning plus 1d6 persistent ﬁre and Grab
+Melee Ȱɵ tail sting +20 (reach 10 feet), Damage
+1d10+9 piercing plus 1d6 persistent ﬁre and magma
+scorpion venom
+Ranged Ȱɵ magma spit +17 (ﬁre, range increment 40
+feet); Damage 1d6+9 ﬁre plus 1d6 persistent ﬁre
+Magma Scorpion Venom (ﬁre, injury, poison) Saving Throw
+DC 26 Fortitude; Maximum Duration 6 rounds; Stage 1
+2d6 ﬁre damage (1 round) and enfeebled 1; Stage 2 3d6 ﬁre
+damage and enfeebled 2 (1 round)
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868609
+4425121
 
-================================================================================
 PAGE 119
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868616
+4425128
 Bestiary 2
+118
+118
 IRNAKURSE MOCKERIES
 When drow capture a particularly
 hated surface elf, or one with a large
@@ -177,96 +203,95 @@ and bony protrusions—parts that should be internal are often left on full disp
 to the world. Irnakurse are subject to mental conditioning that causes them to
 hate their prior forms, and these creatures prefer to attack surface elves over all
 other targets.
-
-================================================================================
-# FROGHEMOTH
-================================================================================
-
-
-Bestiary 2
-ALIEN ORIGINS
-Froghemoths have been known to
-suddenly abandon an established lair
-to seek a new home, as if in response
-to some cosmic convergence or
-subspace signal imperceptible to
-other creatures. Some argue that
-the froghemoth is never fully
-comfortable in any environment
-because it isn’t from this world at
-all, and that these wanderings are
-instinctual urges to seek out its true
-home—a home not represented by
-the strange world in which the beast
-ﬁnds itself trapped.
-Froghemoth
-A terrifying abomination of teeth, tentacles, and unbridled rage, the froghemoth
-is thankfully rarely encountered even in the deepest swamplands or most remote
-Darklands caverns. Capable of devouring dinosaurs and even dragons, it is a
-frighteningly effective ambush hunter, immersing itself in the mire with only its
-eyestalk protruding and watching in every direction at once with uncanny precision.
-FROGHEMOTH
-CREATURE 13
-UNCOMMON
-N
-HUGE
+IRNAKURSE
+CREATURE 9
+CE
+LARGE
 ABERRATION
-AMPHIBIOUS
-Perception +25; darkvision, otherworldly vision 30 feet
-Skills Acrobatics +23, Athletics +27, Stealth +27 (+30 in swamps)
-Str +8, Dex +6, Con +7, Int –4, Wis +6, Cha +4
-Otherworldly Vision A froghemoth’s alien eyes allow it to perceive creatures within 30
-feet, even if they are invisible or ethereal. It can still be fooled by successful Stealth
-checks to Hide, but it has Perception DC 38 in such cases. It also sees through and is
-unaﬀected by illusions with the visual trait if they are within 30 feet.
-AC 32, all-around vision; Fort +26, Ref +21, Will +23
-HP 285; Immunities electricity
-Electric Torpor Though a froghemoth is immune to electricity damage, it is slowed 1 for
-1 round whenever it would have otherwise taken electricity damage.
-Speed 20 feet, swim 30 feet
-Melee Ȱɵ jaws +27 (reach 10 feet), Damage 3d12+14 piercing
-plus Improved Grab
-Melee Ȱɵ tentacle +27 (agile, reach 15
-feet), Damage 3d8+14 bludgeoning
-plus Improved Grab
-Melee Ȱɵ tongue +27 (agile, reach
-30 feet), Damage 2d10+14
-piercing plus barbed tongue
-Aquatic Ambush Ȱɵ
-Barbed Tongue A creature hit
-by the froghemoth’s tongue
-becomes grabbed by the
-froghemoth.
-The
-creature
-isn’t immobilized, but it can’t
-move beyond the reach of the
-froghemoth’s tongue. A creature
-can sever the tongue with a successful
-Strike against AC 31 that deals at least 15
-slashing damage. This deals no damage
-to the froghemoth but prevents it
-from using its tongue Strike until
-it regrows its tongue, which
-takes 1 minute.
-Flailing Tentacles ʚʖ The
-froghemoth makes up to four
-tentacle Strikes, each against a
-diﬀerent target. These count toward the froghemoth’s
-multiple attack penalty, but the multiple attack penalty doesn’t
-increase until after all the attacks.
-Greater Constrict Ȱɵ 3d6+12, DC 33
-Retract Tongue ʚʖ The froghemoth pulls a creature grabbed by its
-tongue toward itself. The froghemoth rolls an Athletics check against
-the creature’s Fortitude DC. On a success, the froghemoth pulls the
-creature into an adjacent space, and if it critically succeeds it can
-also make a bite Strike against the creature after the pull.
-Swallow Whole Ȱɵ (attack) Large, 3d6+9 bludgeoning, Rupture 24
+Perception +18; darkvision
+Languages Abyssal, Elven, Undercommon (can’t speak
+any language)
+Skills Athletics +20, Acrobatics +20, Stealth +20
+Str +5, Dex +5, Con +3, Int –2, Wis +3, Cha +4
+AC 28; Fort +20, Ref +18, Will +16
+HP 152
+Attack of Opportunity Ǻȓ
+Speed 15 feet
+Melee Ȱɵ jaws +20 (reach 10 feet), Damage
+2d12+11 piercing
+Melee Ȱɵ tentacle +20 (agile, reach 20
+feet), Damage 2d8+11 slashing plus
+mind lash
+Mind Lash (emotion, enchantment,
+mental, occult) A non-evil creature
+hit by an irnakurse’s tentacle is
+overwhelmed with corrupted images
+of a ruined life and must succeed at a
+DC 28 Will save or be stunned
+2 (or stunned 4 on a critical
+failure). After attempting
+this save, a creature is
+temporarily immune to Mind
+Lash for 24 hours.
+Rend Ȱɵ tentacle
+Soul Scream
+ʚʖ
+(auditory,
+concentrate, emotion, enchantment,
+mental, occult) Frequency once per day;
+Eﬀect The irnakurse unleashes an alien
+shriek of nightmarish horror and
+pain. All non-evil creatures within a
+10-foot emanation must attempt a
+DC 28 Will save. The irnakurse can
+Sustain Soul Scream for up to 6
+rounds; each time it does, it repeats
+the eﬀect.
+Critical Success The creature is unaﬀected,
+and is temporarily immune to Soul Scream for 24 hours.
+Success The creature is stupeﬁed 1 for 1 round.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868616
+4425128
 
-================================================================================
 PAGE 124
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868621
+4425133
+E-G
+E-G
+123
+123
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 UNKNOWN ORIGINS
 Frost worms are clearly supernatural
 in origin, though the source of their
@@ -290,42 +315,7 @@ A frost worm is an apex predator that uses camouﬂage, burrowing, and
 deceit to ambush its prey. When it attacks, a frost worm produces a distinctive,
 high‑pitched trill. Though some survivors of frost worm attacks have compared
 it to a wailing lament, the trill has a captivating effect on nearby creatures,
-causing them to stop and listen even as the monstrous creature approaches.
-The cold shed by a frost worm is as dangerous as its trill or its jaws, and while
-it is not fond of warmer climates, neither is it particularly hampered in such
-regions. A frost worm that somehow ﬁnds itself in temperate or even tropical
-environs causes the immediate area to chill and ice over with frost over time,
-creating seemingly impossible pockets of frozen terrain.
-
-================================================================================
-# FROST WORM
-================================================================================
-
-
-UNKNOWN ORIGINS
-Frost worms are clearly supernatural
-in origin, though the source of their
-magical abilities remains unclear.
-Research is hampered by the fact
-that neither the corpse nor its magic
-survive the creature’s death, and live
-frost worms are notoriously diﬃcult
-and dangerous to keep or transport.
-Evidence exists that the winter
-witches of Irrisen may have created
-the ﬁrst frost worms, while other
-clues suggest they hail from the
-distant planet of Triaxus.
-Frost Worm
-The frost worm’s single round, red eye gleams prominently at the head of its monstrous
-mass, white as a winter snowfall. What appears to be a bifurcated lower jaw is actually
-two spiky parapodia that the worm uses to shovel food into its lamprey-like mouth.
-An adult frost worm measures 35 feet long and weighs 8,000 pounds.
-A frost worm is an apex predator that uses camouﬂage, burrowing, and
-deceit to ambush its prey. When it attacks, a frost worm produces a distinctive,
-high‑pitched trill. Though some survivors of frost worm attacks have compared
-it to a wailing lament, the trill has a captivating effect on nearby creatures,
-causing them to stop and listen even as the monstrous creature approaches.
+causing them to stop and listen even as the monstrous creature approaches.
 The cold shed by a frost worm is as dangerous as its trill or its jaws, and while
 it is not fond of warmer climates, neither is it particularly hampered in such
 regions. A frost worm that somehow ﬁnds itself in temperate or even tropical
@@ -376,12 +366,37 @@ worm.
 Critical Failure As failure, but the fascinated
 condition doesn’t end if the frost worm uses
 hostile actions against the creature.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868621
+4425133
 
-================================================================================
 PAGE 125
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868622
+4425134
 Bestiary 2
+124
+124
 WOOD GIANT CELEBRATIONS
 Despite the seriousness with which
 wood giants approach their duties,
@@ -412,132 +427,74 @@ creatures and remain on good terms with them, wood giants see most
 fey as far too ﬂighty to take part in any long-term plans.
 An average wood giant stands 14 feet tall and weighs 1,200
 pounds.
-
-================================================================================
-# FIRE JELLYFISH SWARM
-================================================================================
-
-
-Bestiary 2
-JELLYFISH SPECIES
-A large number of types of
-monstrous jellyﬁsh dwell in the
-world’s oceans, each with their
-own unusual specialty in hunting.
-The immense vampire jellyﬁsh is a
-blood-drinking monster that often
-attacks sailors aboard ships. Among
-the largest are the dreaded whaler
-jellyﬁsh, colossal creatures that feed
-on whales or even krakens.
-Jellyfish
-Many varieties of jellyﬁsh drift through the world’s oceans, feeding on ﬁsh and
-other tiny marine creatures. However, deadly species of monstrous jellyﬁsh pose a
-threat to unwary swimmers and sailors alike. Note that while jellyﬁsh are animals,
-they also have the mindless trait because they lack a centralized nervous system.
-FIRE JELLYFISH SWARM
-While individually one of these ﬁst-sized jellyﬁsh is merely a nuisance, in great
-numbers, ﬁre jellyﬁsh can form into dangerous swarms. Bobbing in the water,
-they create a cloud of stinging tentacles. They were named in part for their
-bright coloration, but those who are stung by ﬁre jellyﬁsh learn the larger reason
-for their name—the pain of their stings is comparable to being burned alive.
-FIRE JELLYFISH SWARM
+WOOD GIANT
 CREATURE 6
-N
+CG
 LARGE
-ANIMAL
-AQUATIC
-MINDLESS
-SWARM
-Perception +10; low-light vision
-Skills Acrobatics +15
-Str –4 Dex +5, Con +4, Int –5, Wis +0, Cha –5
-AC 13; Fort +16, Ref +15, Will +10
-HP 155; Immunities mental, precision, swarm mind; Weaknesses area damage 7, splash
-damage 7; Resistances bludgeoning 9, piercing 9, poison 10, slashing 5
-Speed swim 20 feet
-Agile Swimmer Fire jellyﬁsh swarms use Acrobatics to Swim.
-Burning Swarm Ȱɵ (poison) Each enemy in the swarm’s space takes 3d8 poison damage
-(DC 24 basic Reﬂex save) and is exposed to ﬁre jelly venom.
-Fire Jelly Venom (poison) Saving Throw DC 24 Fortitude; Maximum Duration 6
-rounds; Stage 1 clumsy 1 (1 round); Stage 2 clumsy 2 (1 round); Stage 3 clumsy
-3 (1 round)
-GIANT JELLYFISH
-Unlike its smaller cousins, the giant jellyﬁsh is an active
-predator that chases down its prey through reefs or
-open water. It can even squeeze its enormous
-bell-shaped body into the tight conﬁnes of
-shipwrecks to drape its mane of tentacles
-across the exposed ﬂesh of its prey.
+GIANT
+HUMANOID
+Perception +15; low-light vision
+Languages Common, Jotun, Sylvan; speak with animals
+Skills Acrobatics +13, Athletics +15, Forest Lore +14, Nature +14,
+Stealth +13 (+15 in forests), Survival +13
+Str +5, Dex +5, Con +4, Int +2, Wis +3, Cha +1
+Items hide armor, +1 composite longbow (20 arrows),
+shortsword
+AC 24; Fort +17, Ref +14, Will +13
+HP 120
+Catch Rock Ǻȓ
+Speed 35 feet
+Melee Ȱɵ shortsword +17 (agile, reach 10 feet, versatile S),
+Damage 1d8+11 piercing
+Melee Ȱɵ ﬁst +17 (agile, reach 10 feet), Damage 1d6+11 bludgeoning
+Ranged Ȱɵ composite longbow +18 (deadly d10, range increment 100
+feet, reload 0, volley 30 feet), Damage 1d8+8 piercing
+Ranged Ȱɵ rock +17 (brutal, range increment 120 feet), Damage
+2d6+11 bludgeoning
+Primal Innate Spells DC 23; 4th speak with plants; 3rd earthbind; 2nd
+entangle, tree shape; Constant (2nd) pass without trace, speak
+with animals
+Piercing Shot Ȱɵ The wood giant shoots an arrow at a target so that it
+glances oﬀ the ﬁrst target to strike another target behind the ﬁrst
+one. The wood giant chooses two targets in a direct line, one of which
+must be giving lesser cover to the other, then makes a single ranged
+Strike with its longbow against both targets. This attack ignores
+the lesser cover the ﬁrst target provides to the second. The wood
+giant rolls damage only once, and applies it to each creature it hits.
+Piercing Shot counts as two attacks for the wood giant’s multiple
+attack penalty.
+Throw Rock Ȱɵ
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868622
+4425134
 
-================================================================================
-# FLYTRAP LESHY
-================================================================================
-
-Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) The sunﬂower leshy
-transforms into a Small ﬂower. This ability otherwise uses the eﬀects of tree shape.
-Seed Spray ʚʖ (conjuration, primal) The sunﬂower leshy launches a deluge of seeds
-from their head in a 15-foot cone, dealing 2d6 bludgeoning damage to creatures within
-the area (DC 16 basic Reﬂex save). It gains a +2 status bonus to this damage against
-dazzled creatures. The sunﬂower leshy can’t use Seed Spray again for 1d4 rounds.
-FLYTRAP LESHY
-While often seen as unfriendly by non-leshys, ﬂytrap leshys get along well with other
-leshys. Nonetheless, they’re among the most aggressive leshys, often guarding the
-most vulnerable places in the natural world with their ﬂytrap mouths and hands.
-When a large threat emerges, pairs of ﬂytrap leshys band together to create
-amalgams capable of driving back powerful foes. This unusual form of communal
-defense suffuses ﬂytrap leshy society, and they often form relationships between
-multiple individuals that would confuse or even scandalize more uptight
-humanoids—to a ﬂytrap leshy, though, there’s nothing strange about sharing your
-innermost secrets with people you literally merged together with to defend your
-home from an enemy.
-FLYTRAP LESHY
-CREATURE 4
-N
-SMALL
-LESHY
-PLANT
-Perception +11; darkvision
-Languages Common, Druidic, Sylvan; speak with plants (carnivorous plants only)
-Skills Athletics +12, Nature +10, Stealth +12
-Str +4, Dex +2, Con +1, Int +0, Wis +3, Cha +2
-AC 20; Fort +9, Ref +12, Will +13
-HP 72; Resistances acid 5
-Attack of Opportunity Ǻȓ
-Verdant Burst (healing) As sunﬂower leshy, except plants
-regain 3d6 Hit Points and the area sprouts ﬂytraps
-instead of sunﬂowers.
-Speed 25 feet
-Melee Ȱɵ ﬂytrap mouth +13 (versatile S), Damage 1d8+6 piercing plus 1d6
-acid and ﬂytrap toxin
-Melee Ȱɵ ﬂytrap hand +13 (agile, versatile S), Damage 1d6+6 piercing plus 1d6
-acid and ﬂytrap toxin
-Ranged Ȱɵ spittle +11 (acid, range increment 10 feet), Damage
-1d6+6 acid plus ﬂytrap toxin
-Primal Innate Spells DC 21; 4th speak with plants; 2nd pass
-without trace
-Amalgam Ȱɵ (polymorph, primal, transmutation) A
-ﬂytrap leshy can combine itself with an adjacent and
-willing ﬂytrap leshy that is not currently aﬀected
-by Amalgam. The leshy using Amalgam physically
-merges with the target, restoring 3d8 Hit Points to the target. The
-leshy can Sustain a Spell to continue Amalgam, but once they stop,
-the target leshy takes 3d8 damage. If the target leshy dies, Amalgam ends at once
-and the original leshy gains the dying condition or increases their dying condition
-value by 1 if they were already dying. As long as Amalgam is sustained, the target
-leshy gains a +1 status bonus to attack rolls and saving throws, its AC increases to 21,
-and it gains an additional reaction at the start of each turn.
-Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) The
-ﬂytrap leshy transforms into a Small ﬂytrap. This ability otherwise
-uses the eﬀects of tree shape.
-Flytrap Toxin (poison) Saving Throw DC 19 Fortitude; Maximum Duration 6
-rounds; Stage 1 sickened 1 (1 round), Stage 2 sickened 2 (1 round)
-
-================================================================================
 PAGE 163
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868660
+4425172
 Bestiary 2
+162
+162
 GNOLL MASTERS
 Leucrottas often associate with
 gnolls. They never submit to serve
@@ -561,74 +518,91 @@ them. Leucrottas measure 5 feet at the shoulder and weigh 800 pounds, and they
 are perpetually ﬁlthy. A leucrotta’s oversized jaws are lined with rows of jagged,
 hardened bony ridges rather than teeth, and it can shear through ﬂesh, bone, and
 even steel with ease.
-
-================================================================================
-# FJORD LINNORM
-================================================================================
-
-Breath Weapon ʚʖ (evocation, ﬁre, primal, water) The shoal linnorm exhales scalding
-steam that deals 12d8 ﬁre damage in a 60-foot cone (DC 36 basic Reﬂex save). The
-steam lingers until the end of the linnorm’s next turn; anyone who enters the area
-or begins their turn in the area takes 6d8 ﬁre damage (DC 36 Reﬂex save negates).
-During this time, the steam is so thick that it impedes movement as well as sight,
-turning the area into diﬃcult terrain. All creatures in the steam become concealed,
-and all creatures outside the steam become concealed to creatures within it. The shoal
-linnorm can’t use Breath Weapon again for 1d4 rounds.
-Shoal Linnorm Venom (ﬁre, poison) Saving Throw DC 36 Fortitude; Maximum Duration
-10 rounds; Stage 1 4d6 ﬁre damage and enfeebled 1 (1 round); Stage 2 6d6 ﬁre damage
-and enfeebled 2 (1 round)
-FJORD LINNORM
-Fjord linnorms make their homes in damp caves behind ice-cold waterfalls in
-the river-veined coastal reaches of the north. While they may appear graceful as
-they swim up the fjords for which they’re named, they are as vile as any other of
-their species and take pleasures in capsizing river boats before gobbling up their
-terriﬁed crews.
-FJORD LINNORM
-CREATURE 16
-UNCOMMON
+LEUCROTTA
+CREATURE 5
 CE
-GARGANTUAN
-AMPHIBIOUS
-DRAGON
-Perception +28; darkvision, scent (imprecise) 60 feet, true seeing
-Languages Aklo, Draconic, Sylvan
-Skills Acrobatics +27, Athletics +33, Stealth +29
-Str +9, Dex +5, Con +8, Int –3, Wis +6, Cha +7
-AC 40; Fort +30, Ref +28, Will +24; +1
-status to all saves vs. magic
-HP 315, regeneration 10 (deactivated
-by cold iron); Immunities cold, curse,
-paralyzed, sleep; Weaknesses cold
-iron 15
-Curse of Stolen Breath (curse, primal,
-water) When a creature slays a ford
-linnorm, it must succeed at a DC 41 Will
-save or become unable to ever breathe
-underwater (either via a natural ability or
-a spell such as water breathing). In addition,
-the victim can hold its breath only half as long as
-normal, and whenever it holds its breath it becomes
-sickened 2.
-Attack of Opportunity Ǻȓ Tail only.
-Speed 35 feet, ﬂy 75 feet, swim 50 feet; freedom of movement
-Melee Ȱɵ jaws +33 (magical, reach 20 feet), Damage 3d12+17
-piercing plus ford linnorm venom
-Melee Ȱɵ claw +33 (agile, magical, reach 20 feet),
-Damage 3d10+17 slashing
-Melee Ȱɵ tail +33 (agile, magical, reach
-25 feet), Damage 3d6+15 bludgeoning
-plus Improved Grab
-Primal Innate Spells DC 37; Constant (7th)
-freedom of movement; (6th) true seeing
-Breath Weapon ʚʖ (cold, evocation, primal) The ford linnorm expels a 120-foot line of
-icy bile, dealing 17d6 cold damage to creatures within the area (DC 37 basic Reﬂex save).
-Any creature that fails its save is covered by the ice, which freezes and fuses with the
+LARGE
+BEAST
+Perception +11; darkvision, scent (imprecise) 30 feet
+Languages Common, one additional language (usually Gnoll)
+Skills Athletics +13, Deception +13, Stealth +11
+Str +6, Dex +2, Con +4, Int +0, Wis +2, Cha +4
+Language Adaptation A leucrotta can learn any language it hears spoken for at least 10
+minutes, adding it to its languages known and replacing the language it previously
+learned using this ability. Typically, a leucrotta knows Gnoll as the language granted
+by this ability.
+AC 21; Fort +15, Ref +9, Will +11
+HP 85
+Speed 50 feet, climb 25 feet
+Melee Ȱɵ jagged jaws +15 (fatal d10), Damage
+2d8+8 slashing
+Melee Ȱɵ hoof +13 (agile), Damage 2d4+8
+bludgeoning
+Luring Cry ʚʖ (aura, enchantment,
+incapacitation, linguistic, mental,
+primal) 60 feet; Requirements
+The leucrotta’s last action was
+Sound
+Mimicry;
+Eﬀect
+The
+leucrotta utters a plaintive cry to
+draw its prey closer. Each creature
+within the emanation that was
+deceived by Sound Mimicry must
+succeed at a DC 19 Will save or become
+fascinated and compelled to move toward the sound of the
+leucrotta’s voice on their turn. Fascinated creatures are
+also ﬂat-footed. If the leucrotta attacks, the fascinated
+condition ends only for the creature that is attacked.
+If the leucrotta speaks a creature’s name while
+using its Luring Cry, that creature takes a –2
+circumstance penalty to their saving throw to
+resist the ability. On a successful save, a creature
+is temporarily immune to Luring Cry for 24 hours.
+Sound Mimicry Ȱɵ The leucrotta perfectly imitates
+voices and speech and attempts a Deception check
+against listeners’ Will DC to fool them. The leucrotta
+gains a +4 bonus to this Deception check if it has
+listened to the creature it’s imitating for at least
+10 minutes at any point in the last 24 hours. The
+leucrotta can’t duplicate voice-based abilities or
+spells, though it can perfectly mimic the sound
+of verbal spellcasting and can attempt to
+deceive constructs or undead that respond to
+voice commands. The leucrotta can’t imitate
+speech in languages it doesn’t know.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868660
+4425172
 
-================================================================================
 PAGE 167
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868664
+4425176
 Bestiary 2
+166
+166
 FIRST WORLD CONNECTIONS
 Linnorms have a deep connection to
 the First World, the primordial home
@@ -661,151 +635,87 @@ to do so. Whether such legends are true or not is anyone’s guess; nevertheless
 reports of a cairn linnorm in the vicinity are harrowing enough to dissuade
 even the most foolhardy grave robber from peeking into too many crypts
 or mausoleums.
-
-================================================================================
-# FEN MOSQUITO SWARM
-================================================================================
-
-
-MALARIA STRAINS
-This pernicious disease is often
-associated with mosquitoes. The
-most common version of malaria
-is presented on page 118 of the
-Pathﬁnder Gamemastery Guide,
-and while the variants inﬂicted
-by mosquito swarms and giant
-mosquitoes are deadlier, they don’t
-have the chance to recur after
-1d4 months. Pyrexic malaria also
-causes weakness and fevers, while
-septic malaria causes painful and
-infected lesions to form on the
-body. Regardless of the strain you
-contract, you can’t reduce your
-sickened condition while you are
-aﬀected with malaria.
-Mosquito
-While the common mosquito is a pest capable of spreading deadly diseases, their
-giant kin and the ravenous clouds of mosquito swarms are even more dangerous.
-FEN MOSQUITO SWARM
-When deadly fen mosquitoes gather in large numbers, they form into lethal
-swarms capable of draining blood at a truly alarming rate. Fen mosquito swarms
-are typically encountered only in tropical swamps or bogs, but during humid
-months in spring or summer they can drift into riverine areas or even through the
-waterfront reaches of settlements.
-FEN MOSQUITO SWARM
-CREATURE 3
-N
-LARGE
-ANIMAL
-SWARM
-Perception +8; darkvision
-Skills Acrobatics +6, Stealth +8
-Str +0, Dex +4, Con +3, Int –5, Wis +0, Cha –5
-AC 19; Fort +8, Ref +11, Will +5
-HP 25; Immunities precision, swarm mind; Weaknesses area damage 5, splash damage
-5; Resistances bludgeoning 2, piercing 5, slashing 5
-Speed 5 feet, ﬂy 25 feet
-Pyrexic Malaria (disease) The victim can’t reduce its sickened condition while it’s aﬀected
-by pyrexic malaria; Saving Throw DC 20 Fortitude; Onset 4 days; Stage 1 sickened 1
-(1 day); Stage 2 enfeebled 1 and sickened 1 (1 day); Stage 3 as stage 2 (1 day); Stage 4
-unconscious (1 day); Stage 5 dead
-Swarming Bites Ȱɵ Each enemy in the swarm’s space takes 1d6
-piercing damage (DC 20 basic Reﬂex save) and is exposed to
-pyrexic malaria. Creatures that fail the saving throw also take
-1d4 persistent bleed damage.
-GIANT MOSQUITO
-These horriﬁcally enlarged versions of the common mosquito
-often prey upon megafauna like dinosaurs and other large
-creatures, but they won’t turn down a chance to drink the
-blood of a smaller target—such as a humanoid.
-
-================================================================================
-# FIRE YAI
-================================================================================
-
-
-Bestiary 2
-OTHER ONI
-Diﬀerent oni exist for nearly every
-humanoid ancestry. Kuwa oni mask
-their golden skin and four-ﬁngered
-claws in human form, while ja oni
-hide as hobgoblins. Other yai include
-wind yai (who take their form from
-cloud giants) and the immensely
-powerful void yai (who form from
-other yai and ascend to rule over
-rune giants).
-FIRE YAI
-Fire yai take the form of ﬁre giants. Like ﬁre giants, ﬁre yai are shrewd and
-militaristic and have an incredible appetite for the thrill of war. While they engage
-in battle to conquer and control others, ﬁre yai also love the thrill of war, ﬁghting
-for the sheer joy of it. Presenting a ﬁre yai with a true challenge in combat can
-potentially earn their mercy and an offer to join and serve at their side. Fire yai’s
-third eyes shoot forth burning missiles of ﬁre.
-FIRE YAI
-CREATURE 14
-NE
-LARGE
-FIEND
-FIRE
-GIANT
-HUMANOID
-ONI
-Perception +26; greater darkvision
-Languages Common, Jotun
-Skills Acrobatics +23, Arcana +23, Athletics +27, Crafting +25, Deception +27,
-Intimidation +27, Nature +25
-Str +8, Dex +6, Con +6, Int +4, Wis +6, Cha +8
-Items +1 resilient breastplate, +2 striking katana
-AC 36; Fort +28, Ref +26, Will +24; +1 status on all saves vs. magic
-HP 250, regeneration 15 (deactivated by acid or cold); Immunities ﬁre; Weaknesses
-cold 15
-Attack of Opportunity Ǻȓ
-Speed 40 feet, ﬂy 40 feet
-Melee Ȱɵ katana +30 (deadly 1d8, magical, reach 10 feet, two-hand
-d10, versatile P), Damage 2d6+16 slashing plus 2d6 ﬁre
-Melee Ȱɵ ﬁst +28 (agile, evil, magical, reach 10 feet), Damage
-2d6+16 bludgeoning plus 2d6 ﬁre and 2d6 persistent ﬁre
-Ranged Ȱɵ ﬁre missile +26 (evil, ﬁre, magical, range
-increment 60 feet), Damage 2d10+16 ﬁre plus 2d6
-persistent ﬁre
-Primal Innate Spells DC 34; 7th ﬁreball, ﬁery body,
-ﬂame strike, wall of ﬁre; 6th ﬁreball (×3); 4th
-charm (×3), darkness, gaseous form; 2nd
-invisibility (at will, self only)
-Change Shape Ȱɵ (concentrate, polymorph,
-primal, transmutation) As onidoshi,
-but into a ﬁre giant.
-Impaling Push ʚʖ The ﬁre yai attempts
-a katana Strike. If it hits, the ﬁre yai attempts an Athletics check
-against the target creature’s Fortitude DC.
-Critical Success The ﬁre yai Strides or Flies up to half its Speed in
-any direction. The struck creature takes 4d6 persistent
-bleed damage and is pushed along with the yai an equal
-distance. The creature is grabbed until the yai’s next
-turn or until the yai makes a katana Strike.
-Success As critical success, but the creature
-takes 2d6 persistent bleed damage.
-Failure The struck creature is pushed back 5 feet.
-Critical Failure The struck creature is unaﬀected.
-Smoke Form ʚʖ (concentrate, primal, transmutation)
-The ﬁre yai transforms into a cloud of smoke and then
-Flies up to its ﬂy speed. This movement does not trigger
-reactions, and the ﬁre yai can move through spaces occupied
-by other creatures. The ﬁre yai returns to its physical form
-after this move, and must end the movement in a space in which
-it can ﬁt. All creatures in spaces through which the ﬁre yai moves
-with Smoke Form must succeed at a DC 34 Fortitude save or
-become sickened 3. The ﬁre yai cannot use Smoke Form
+CAIRN LINNORM
+CREATURE 18
+UNCOMMON
+CE
+GARGANTUAN
+DRAGON
+Perception +30; darkvision, scent (imprecise) 60 feet, true seeing
+Languages Aklo, Draconic, Sylvan
+Skills Acrobatics +32, Athletics +35
+Str +9, Dex +6, Con +8, Int –2, Wis +6, Cha +7
+AC 43; Fort +34, Ref +30, Will +26; +1 status to all saves vs.
+magic
+HP 360, regeneration 15 (deactivated by cold iron); Immunities
+acid, curse, paralyzed, sleep; Weaknesses cold iron 15
+Curse of the Crooked Cane (curse, primal) When a creature slays a
+cairn linnorm, it must succeed at a DC 44 Will save or become permanently enfeebled 2.
+In addition, the victim ages at an accelerated rate, aging 1 year every day, eventually
+causing it to die of old age if the curse is left untended.
+Attack of Opportunity Ǻȓ Tail only.
+Speed 35 feet, climb 40 feet, ﬂy 100 feet, swim 40 feet; freedom of movement
+Melee Ȱɵ jaws +35 (magical, reach 25 feet), Damage 3d12+17 piercing plus cairn
+linnorm venom
+Melee Ȱɵ claw +35 (agile, magical, reach 25 feet), Damage 3d8+17 slashing
+Melee Ȱɵ tail +35 (agile, magical, reach 25 feet), Damage 3d10+17 bludgeoning plus
+Improved Grab
+Primal Innate Spells DC 40; Constant (8th) freedom of movement;
+(7th) true seeing
+Breath Weapon ʚʖ (acid, evocation, primal) The cairn linnorm expels
+a 60-foot cone of negative energy–infused acid, dealing 19d6 acid
+damage to creatures in the area (DC 40 basic Reﬂex save).
+The acid also saps the life out of aﬀected creatures. At
+the beginning of the linnorm’s next turn, each creature
+that failed the Reﬂex save must succeed at a
+DC 40 Fortitude save or become
+drained 1 (drained 2 on
+a critical failure). The
+cairn linnorm can’t use
+Breath Weapon again
 for 1d4 rounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868664
+4425176
 
-================================================================================
 PAGE 192
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868689
+4425201
+O-R
+O-R
+191
+191
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ONI DAIMYO
 Oni daimyo are quasi-deities with
 isolated mortal domains. The most
@@ -816,95 +726,108 @@ the Red King are also worshipped.
 WATER YAI
 Among the most powerful yai are those who emulate the form of storm giants.
 Rather than lord over their giant-kin like most oni, though, water yai prefer to
-lurk alone in the world’s oceans (or, much more rarely, large and remote freshwater lakes). When a water yai must interact with mortals beneath the waves, they
+lurk alone in the world’s oceans (or, much more rarely, large and remote fresh-
+water lakes). When a water yai must interact with mortals beneath the waves, they
 prefer to do so while disguised as a storm giant. Water yai pursue the acquisition
 of material wealth and riches above all other interests, garbing themselves in
 richly colored, magically waterproofed kimonos and adorning their monstrous
 faces with all manner of jewelry. These yai can infuse their kimonos with eerie
 magical properties, and in combat, they can also ﬁre bolts of electricity from their
 third eye.
-
-================================================================================
-# FROST TROLL
-================================================================================
-
-
-Bestiary 2
-DEATHLESS FROST
-Historically isolated in the remote
-frozen wilderness of the Saga Lands,
-frost trolls have increasingly been
-encountered in more temperate
-climates on Golarion. It’s unclear
-what’s driving these ice-hearted
-trolls southward, but some suspect
-the machinations of a wrathful
-demon lord are at play.
-Troll
-Towering brutes with slavering jaws and razor-sharp claws, trolls are voracious
-predators. They are nigh invulnerable and single-minded in their pursuit, so they
-throw themselves against prey with reckless abandon. Wounds that would cripple
-or kill most other creatures regenerate into healthy troll ﬂesh within seconds.
-Trolls don’t mark their hunting grounds with claw marks or urine as beasts
-do. After gorging upon their kill, they suspend any meat, bones, or other bodily
-detritus that remain from tree branches to mark their domains. Unfortunately,
-trolls tend to treat these borders as approximations. Before a hapless traveler
-even spots such a grisly marker and realizes that they have wandered into troll
-territory, the trolls are already preparing to attack.
-These pages present lesser-known varieties beyond the common troll.
-FROST TROLL
-Frost trolls are nightmarish frozen monsters of rime-stained claws and hoarfrost
-teeth. Possessing wits superior to those of common trolls, frost trolls often hunt in
-packs of three—one attacking their quarry openly while the remaining two pause to
-assess weaknesses before moving in for the kill. Frost trolls relish the taste of human
-ﬂesh and adjust their hunting grounds seasonally to remain in close proximity
-to their favorite prey. Of slighter frame than common trolls, a typical frost
-troll stands 11 feet tall when not hunched and weighs 900 pounds. Their
-sickly, cracked ﬂesh is of an icy, cerulean pallor. Frost trolls often adorn
-themselves with trophies of bone and hide ﬂayed from their kills.
-FROST TROLL
-CREATURE 4
-UNCOMMON
+WATER YAI
+CREATURE 17
 CE
-LARGE
-COLD
+HUGE
+FIEND
 GIANT
-TROLL
-Perception +12; darkvision
+HUMANOID
+ONI
+WATER
+Perception +32; greater darkvision
 Languages Common, Jotun
-Skills Athletics +13, Intimidation +10, Survival +10
-Str +5, Dex +2, Con +5, Int +0, Wis +2, Cha +2
-Items hatchet
-AC 19; Fort +13, Ref +10, Will +8
-HP 90, regeneration 15 (deactivated by acid or ﬁre);
-Immunities cold; Weaknesses ﬁre 10
+Skills Acrobatics +30, Arcana +29, Athletics +33, Deception
++32, Intimidation +32, Nature +29, Performance +33
+Str +9, Dex +6, Con +6, Int +5, Wis +9, Cha +6
+Items +2 greater striking longspear
+AC 40; Fort +27, Ref +29, Will +34; +1 status on all saves vs.
+magical
+HP 295, regeneration 15 (deactivated by acid and ﬁre); Immunities
+electricity
 Attack of Opportunity Ǻȓ
-Speed 30 feet; ice stride
-Melee Ȱɵ jaws +13 (reach 10 feet), Damage 2d8+7
-piercing
-Melee Ȱɵ hatchet +13 (agile, reach 10 feet, sweep),
-Damage 2d6+7 slashing
-Melee Ȱɵ claw +13 (agile, reach 10 feet), Damage
-2d4+7 slashing
-Ranged Ȱɵ hatchet +10 (agile, sweep, thrown 10
-feet), Damage 2d6+7 slashing
-Ice Stride A frost troll isn’t impeded by diﬃcult
-terrain caused by snow or ice, nor do they need
-to attempt Acrobatics checks to keep from falling on
-slippery ice.
-Rend Ȱɵ claw
-CAVERN TROLL
-Insatiable scavengers stalking the eternal gloom
-of the Darklands, cavern trolls consume all in
-their path—even rocks and minerals when more
-nourishing sustenance is scarce. These rocky
-goliaths can tunnel through stone with their
-iron-sharp claws.
+Shocking Douse Ǻȓ Trigger A creature within 100 feet casts a ﬁre
+spell; Eﬀect The water yai ﬂourishes their kimono and attempts a
+Performance check to counteract the spell before it comes into eﬀect. If
+the yai counters the spell, the triggering creature takes 9d6 electricity
+damage from electriﬁed water that sprays from the kimono (DC 35
+basic Reﬂex save).
+Speed 40 feet, ﬂy 40 feet, swim 50 feet; water walk
+Melee Ȱɵ longspear +35 (evil, magical, reach 20 feet), Damage 3d8+15
+piercing plus 2d6 electricity
+Melee Ȱɵ kimono +33 (electricity, evil, magical, reach 15 feet), Damage
+3d12+12 electricity plus Enveloping Kimono
+Melee Ȱɵ ﬁst +33 (agile, evil, magical, reach 15 feet), Damage 3d8+15
+bludgeoning plus 2d6 electricity
+Ranged Ȱɵ electric missile +30 (electricity, evil, magical, range increment
+60 feet), Damage 3d12+12 electricity plus ﬂat-footed for 1 round
+Primal Innate Spells DC 38; 9th chain lightning, horrid wilting; 8th hydraulic
+torrent; 5th control water (at will); 4th charm (×3), darkness; 2nd invisibility
+(at will, self only); Constant (9th) water walk
+Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) As onidoshi,
+but into a storm giant. The yai can also turn into a puddle of water, with the
+eﬀects of gaseous form except they retain their land Speed, double their swim
+Speed, and can’t ﬂy.
+Enveloping Kimono Ȱɵ (electricity, manipulate, primal, transmutation, water)
+Requirements The water yai’s last action was a successful kimono Strike;
+Eﬀect The water yai extends a portion of their kimono to attempt to envelop
+a creature within 15 feet. The water yai must attempt a Performance check
+against the creature’s Reﬂex DC.
+Critical Success The creature takes 20d6 electricity damage and is grabbed
+until the end of its next turn.
+Success As critical success, but only 10d6 electricity damage.
+Failure The target takes 5d6 electricity damage but is not grabbed.
+Critical Failure The target is unaﬀected.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868689
+4425201
 
-================================================================================
 PAGE 266
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868763
+4425275
+S-T
+S-T
+265
+265
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 NAR-VOTH DELICACIES
 Both cavern trolls and xorns—squat,
 tripartite earth elementals—share a
@@ -925,3 +848,68 @@ As cavern trolls age, their ﬂinty skin becomes studded with small crystals and
 stones of various composition. Paragons of their kind have toothy maws replete
 with large, crystalline fangs. A typical cavern troll stands 14 feet in height and
 weighs about 2,000 pounds.
+CAVERN TROLL
+CREATURE 6
+UNCOMMON
+CE
+LARGE
+EARTH
+GIANT
+TROLL
+Perception +14; darkvision
+Languages Jotun, Undercommon
+Skills Athletics +16, Intimidation +14
+Str +6, Dex +2, Con +6, Int –2, Wis +2, Cha +2
+AC 22; Fort +18, Ref +13, Will +8
+HP 135, regeneration 20 (deactivated by acid or sonic); Immunities bleed
+Sunlight Petrification If exposed to direct sunlight, a cavern troll immediately
+becomes slowed 1 and can’t use reactions or Trample. The slowed value increases
+by 1 each time the cavern troll ends its turn in sunlight. If the cavern troll’s
+actions are reduced to 0 in this way, they become petrified until they
+spends at least 1 minute in darkness. Spells like sunburst that
+create magical sunlight cannot petrify a cavern troll, but the
+troll is slowed 1 for 1d4 rounds after being exposed to
+such an effect.
+Attack of Opportunity Ǻȓ
+Catch Rock Ǻȓ
+Speed 25 feet, burrow 20 feet, climb 20 feet
+Melee Ȱɵ jaws +16 (reach 10 feet), Damage 2d10+8 piercing
+Melee Ȱɵ claw +16 (agile, reach 10 feet), Damage
+2d6+8 slashing
+Ranged Ȱɵ rock +16 (brutal, range increment 120 feet),
+Damage 1d12+8 bludgeoning
+Rend Ȱɵ claw
+Rock Tunneler A cavern troll can burrow
+through solid stone at a Speed of 10 feet.
+It can leave a tunnel if it desires.
+Throw Rock Ȱɵ
+TWO-HEADED TROLL
+Two-headed trolls are savage, dual-
+minded monsters with an unquenchable
+thirst for bloodshed, and dread tales of their
+ravenous appetites are whispered of in homesteads throughout the
+lands of the Inner Sea. Indeed, it is a custom for parents to invoke
+the two-headed troll as a warning to misbehaving children.
+“Finish your chores,” a parent might say to a stubborn child, “or
+a two-headed troll will snatch you away at night and swallow
+you whole!” It’s unclear why such a morbid tradition gained
+traction with parents, but it’s an undeniable fact that two-
+headed trolls have an appetite for “nibbles”—creatures
+small enough to devour with one bite.
+Mature two-headed trolls stand 13 feet in height,
+weighing roughly 1,700 pounds. Unlike common
+trolls, two-headed trolls share the upright
+gait of their ettin ancestry and do not walk
+hunched over.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868763
+4425275

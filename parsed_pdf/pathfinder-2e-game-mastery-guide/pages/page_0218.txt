@@ -1,0 +1,87 @@
+GUIDE
+CREATURE 4
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Athletics +14, Scouting Lore +12, Survival +12, Stealth +11
+Str +4, Dex +1, Con +2, Int +1, Wis +3, Cha +0
+Items composite shortbow (40 arrows), greataxe, scale mail
+AC 21; Fort +12, Ref +11, Will +14
+HP 60
+Guide’s Warning  Trigger The guide is about to roll a Perception or Survival check to
+determine their initiative; Effect The guide visually or audibly warns allies, granting them
+a +1 circumstance bonus to their initiative rolls. Depending on how the guide warns allies,
+this action has the auditory or visual trait.
+Speed 25 feet
+Melee [one-action] greataxe +12 (sweep), Damage 1d12+6 slashing
+Ranged [one-action] composite shortbow +9 (deadly 1d10, propulsive, range increment 60 feet,
+reload 0), Damage 1d6+2 piercing
+Guiding Words [one-action] The guide points out a weakness of a creature within 30 feet.
+The guide and all allies that can hear or see the guide gain a +1 status bonus to
+attack and damage rolls against that creature until the beginning of the guide’s
+next turn. The guide adds an extra 1d6 precision damage to their weapon and
+unarmed attacks that hit that creature
+during the duration.
+TOMB RAIDER
+Great treasure awaits those willing to explore the
+hazardous depths of the world’s ancient tombs and
+forgotten dungeons. Some tomb raiders seek riches of
+bygone eras; others recover pieces of history thought
+lost to the sands of time.
+TOMB RAIDER
+CREATURE 5
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +13
+Languages Common
+Skills Acrobatics +13, Architecture Lore +11, Athletics
++13, Deception +7, Engineering Lore +11, Society +9,
+Stealth +11, Thievery +13
+Str +4, Dex +4, Con +1, Int +2, Wis +2, Cha +0
+Items climbing kit, hand crossbow (20 bolts), +1 kukri
+Hazard Spotter The tomb raider automatically attempts a
+secret Perception check to notice a hazard when they are
+within 10 feet of the hazard.
+AC 21; Fort +10, Ref +15, Will +11
+HP 75
+Speed 25 feet, climb 15 feet
+Melee [one-action] kukri +15 (agile, magical, trip), Damage 1d6+7 slashing
+Ranged [one-action] hand crossbow +15 (range increment 60 feet,
+reload 1), Damage 1d6+3 piercing
+Trick Attack [one-action] The tomb raider musters their guile
+to attempt a clever attack that catches their foe
+unprepared. The tomb raider chooses one of their
+weapons. The next attack with that weapon deals an
+extra 2d6 precision damage. In addition, the tomb raider
+can Interact to draw the weapon (or to reload it if they choose
+the hand crossbow).
+PATHFINDER CHRONICLES
+The Pathfinder Society’s quarterly
+compilation includes outlandish
+tales like the following.
+• A mount gleams of silver, its
+inhabitants beings born of metal.
+• A hedge maze extends to faraway
+nations and distant worlds.
+• In faraway chasms, the
+haunted clockwork wails in a
+thousand voices.
+5
+NPC Gallery
+217
+217
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+GUIDE

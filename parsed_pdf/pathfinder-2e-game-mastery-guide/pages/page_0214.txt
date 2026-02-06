@@ -1,0 +1,88 @@
+ZEALOT OF ASMODEUS
+
+CREATURE 4
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +9
+Languages Common
+Skills Athletics +9, Deception +10, Intimidation +10, Religion +10, Society +7
+Str +4, Dex +1, Con +1, Int +0, Wis +3, Cha +2
+Items composite shortbow (20 arrows), half plate, mace, steel shield (Hardness 5, HP 20,
+BT 10)
+AC 22 (24 with shield raised); Fort +9, Ref +7, Will +11
+HP 58
+Shield Block 
+Swear Vengeance  Trigger A creature the zealot can see damages a follower of Asmodeus
+other than the zealot; Effect The zealot gains the effect of a 1st-level true strike spell. If
+the zealot makes an attack roll against anyone other than the triggering creature, the true
+strike ends with no effect.
+Speed 20 feet
+Melee [one-action] mace +12 (shove), Damage 1d8+4 bludgeoning
+Ranged [one-action] composite shortbow +9 (deadly 1d10, propulsive, range increment 60 feet,
+reload 0), Damage 1d6+2 piercing
+Divine Prepared Spells DC 19, attack +11; 2nd harm (×3), restoration, see invisibility, shield
+other; 1st detect alignment, magic weapon, spirit link; Cantrips (2nd) detect magic,
+divine lance, forbidding ward, read aura, sigil
+Channel Smite [two-actions] (divine, necromancy) The zealot expends a prepared harm spell
+and makes a melee Strike. Instead of the normal effect of the spell, its negative
+damage is added to the Strike’s damage.
+Deadly Simplicity The zealot’s mace deals 1d8 damage instead of 1d6.
+PRIEST
+Cloistered priests safeguard their temples and communities. They are the
+stalwart keepers of their god’s tenets, devoted to spreading the word.
+Their guidance or healing services come at the cost of a donation.
+PRIEST OF PHARASMA
+CREATURE 6
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Diplomacy +12, Medicine +14, Religion +14, Society +11, Survival +12
+Str +3, Dex +3, Con +1, Int +0, Wis +4, Cha +2
+Items +1 dagger, religious symbol of Pharasma
+AC 21; Fort +11, Ref +11, Will +14
+HP 80
+Speed 25 feet
+Melee [one-action] dagger +13 (agile, magical, versatile S), Damage
+1d6+5 piercing
+Ranged [one-action] dagger +13 (agile, magical, thrown 10 feet,
+versatile S), Damage 1d6+5 piercing
+Divine Prepared Spells DC 24, attack +16; 3rd circle of protection,
+heal (×3), searing light (×2); 2nd gentle repose, silence, spiritual weapon;
+1st disrupting weapons, mindlink, spirit link; Cantrips (3rd) detect magic,
+disrupt undead, light, read aura, shield
+Cleric Domain Spells 1 Focus Point, DC 24; 3rd death’s call (Core Rulebook 391)
+Divine Rituals DC 24; consecrate
+Healing Hands When the priest casts heal, they roll d10s instead of d8s.
+Steady Spellcasting If another creature’s reaction would disrupt the priest’s
+spellcasting action, the priest attempts a DC 15 flat check. If the priest
+succeeds, their action isn’t disrupted.
+SPELL SWAP EXAMPLE
+To make a NE acolyte or priest of
+Urgathoa, you can use these spells.
+3rd bind undead, circle of protection,
+harm (×3), vampiric touch; 2nd dispel
+magic, false life, ghoulish cravings;
+1st bane, fear, ray of enfeeblement;
+Cantrips chill touch, detect magic,
+divine lance, guidance, shield; Cleric
+Domain Spell undeath’s blessing
+(Core Rulebook 398)
+5
+NPC Gallery
+213
+213
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+PRIEST

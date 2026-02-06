@@ -1,0 +1,125 @@
+POISONED DART GALLERY
+HAZARD 8
+COMPLEX
+MECHANICAL
+TRAP
+Stealth +16 (expert) or DC 31 (master) to notice the control panel
+Description Countless holes to launch poison darts from line a
+long hallway with a hidden control panel on the far end.
+Disable Thievery DC 21 (expert) on the control panel
+deactivates the trap.
+AC 27; Fort +13, Ref +17
+Hardness 14; HP 56 (BT 28) to destroy the control panel and
+disable the trap; Immunities critical hits, object immunities,
+precision damage
+Dart Volley [reaction] (attack); Trigger A creature enters the hallway
+or ends its turn in the hallway. Effect The trap makes a
+poisoned dart Strike against the triggering creature, then
+rolls initiative.
+Routine (1 action) The trap launches one dart against every
+creature in the gallery as 1 action. Because it launches darts
+continuously, the trap can also use the Continuous Barrage
+free action (see below) to launch darts at each creature during
+that creature’s turn.
+Ranged poisoned dart +21, Damage 3d4 piercing plus flesset
+poison; no multiple attack penalty
+Continuous Barrage [free-action] Trigger A creature within the active
+gallery finishes an action. Effect The trap makes a poisoned
+dart Strike against the triggering creature.
+Flesset Poison (poison); Saving Throw DC 22 Fortitude;
+Maximum Duration 6 rounds; Stage 1 1d6 poison damage and
+clumsy 1 (1 round); Stage 2 2d6 poison damage and clumsy 2
+(1 round); Stage 3 3d6 poison damage and clumsy 3 (1 round)
+Reset The trap deactivates and resets after 1 minute.
+LAVA FLUME TUBE
+HAZARD 10
+COMPLEX
+MECHANICAL
+TRAP
+Stealth +19 (trained)
+Description Four gated channels carved into stone allow lava
+to flow into a 15-foot-tall room; the floor can withdraw to allow
+the hardened lava to fall into a chamber beneath.
+Disable Thievery DC 29 (expert) to block a channel, or Thievery
+DC 31 (master) to release the floor latch and escape to the
+chamber below
+AC 30; Fort +20, Ref +16
+Channel Hardness 12, Channel HP 48 (BT 24) to destroy a
+channel gate (this prevents that channel from being disabled
+and stops the trap from resetting); Floor Hardness 18; Floor
+HP 72 (BT 36); Immunities critical hits, object immunities,
+precision damage
+Flume Activation [reaction] Trigger A creature tries to leave the room.
+Effect The exits seal instantly and the trap rolls initiative.
+Routine (4 actions) The trap loses 1 action per disabled
+channel each turn. On each action, a different channel spews
+lava, dealing 4d6 fire damage to each creature within 10 feet
+of the channel (DC 27 basic Reflex save), and increasing the
+depth of the lava in the room by 1 foot (4 feet per round if all
+the channels are active).
+A creature that starts its turn in lava takes 8d6 fire damage
+and is immobilized until it Escapes the hardening lava (DC 27).
+The creature might suffocate if covered in lava (page 478). Lava
+from the previous round hardens fully at the start of the trap’s
+turn, effectively raising the floor of the room. Once the room is
+full of lava, the trap stops taking actions, but creatures in the
+room remain stuck until the floor opens and the trap resets.
+Reset The trap deactivates and resets after 1 hour by withdrawing
+the floor, cracking and dumping the hardened lava (and any
+creatures trapped inside) into the chamber. Creatures fall 40
+feet, taking falling damage (typically 17 bludgeoning damage).
+TELEKINETIC SWARM TRAP
+HAZARD 12
+COMPLEX
+MAGICAL
+MECHANICAL
+TRAP
+Stealth +24 (expert)
+Description Three innocuous decorations instilled with
+telekinetic magic pull objects and pieces of the room itself into
+spinning clouds of debris that attack all creatures in the room.
+Disable Thievery DC 27 (expert) to take apart a telekinetic
+cloud, Thievery DC 32 (master) to disable each telekinetic
+decoration, or dispel magic (6th level; counteract DC 30) to
+counteract each telekinetic decoration
+AC 33; Fort +24, Ref +19
+Hardness 22, HP 88 (BT 44) per telekinetic cloud
+Agitate [reaction] (arcane, evocation); Trigger A creature stays in the
+room for at least 6 seconds. Effect Each telekinetic decoration
+constructs a cloud of objects in the room (three clouds total)
+and the trap rolls initiative. The creatures in the room when
+the trap is triggered become the trap’s targets, regardless of
+whether they leave the room or other creatures later enter
+the room. Each decoration targets a different creature if
+possible. A target creature that moves at least 1 mile from
+the trap ceases being a target, at which point the decoration
+designates a new target.
+Routine (9 actions) Each decoration uses 3 of the trap’s
+actions each turn, and the trap loses 3 actions each turn for
+every decoration that is disabled. A decoration uses its first
+action to move its cloud of objects up to 200 feet, its second
+action to make the objects Strike, and its third action to add
+more objects to the cloud, increasing its damage by 1d12 (to
+a maximum of 4d12+10). If a decoration’s cloud is already at
+maximum damage, it does nothing with its third action.
+If a decoration’s cloud has been destroyed, the decoration
+instead spends its first action to create a new cloud of objects
+inside the room (using the starting damage value) and then its
+second and third actions to have the cloud move and attack.
+Melee [one-action] objects +24, Damage 2d12+10 bludgeoning
+Reset The trap deactivates and resets 10 minutes after it has
+no target creatures (because the creatures either moved too
+far away or died).
+DARKSIDE MIRROR
+HAZARD 14
+COMPLEX
+MAGICAL
+MECHANICAL
+TRAP
+Stealth +24 (master) to notice it isn’t a regular mirror
+Description A magic mirror replaces characters with evil
+mirror duplicates from another dimension.
+Disable Thievery DC 34 (legendary) to retrieve a creature
+from the other dimension within 10 minutes of the switch
+Core Rulebook
+528

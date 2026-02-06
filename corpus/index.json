@@ -1,0 +1,186 @@
+{
+  "generated_at_utc": "2026-02-06T18:26:46.639875+00:00",
+  "inputs": {
+    "pdf_dir": "/Users/nose/work/cp/0/model_b/pdf",
+    "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf",
+    "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted"
+  },
+  "entries": [
+    {
+      "id": "abomination-vaults",
+      "book_dir": "Abomination_Vaults",
+      "book_name": "Abomination_Vaults",
+      "display_name": "Abomination Vaults",
+      "source_pdf": "PZO2033E-cropped.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Abomination_Vaults",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/PZO2033E-cropped.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pzo2033e-cropped"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 0.9224
+      }
+    },
+    {
+      "id": "advanced-players-guide",
+      "book_dir": "Advanced_Players_Guide",
+      "book_name": "Advanced_Players_Guide",
+      "display_name": "Advanced Players Guide",
+      "source_pdf": "Pathfinder-2e-Advanced-Players-Guide.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Advanced_Players_Guide",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/Pathfinder-2e-Advanced-Players-Guide.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pathfinder-2e-advanced-players-guide"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 0.9654
+      }
+    },
+    {
+      "id": "ancestry-guide",
+      "book_dir": "Ancestry_Guide",
+      "book_name": "Ancestry_Guide",
+      "display_name": "Ancestry Guide",
+      "source_pdf": "pathfinder-2e-ancestry-guide.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Ancestry_Guide",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/pathfinder-2e-ancestry-guide.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pathfinder-2e-ancestry-guide"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 0.9824
+      }
+    },
+    {
+      "id": "bestiary1",
+      "book_dir": "Bestiary1",
+      "book_name": "Bestiary1",
+      "display_name": "Bestiary 1",
+      "source_pdf": "PF2e_Beastiary1-cropped.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Bestiary1",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/PF2e_Beastiary1-cropped.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pf2e-beastiary1-cropped"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 0.7863
+      }
+    },
+    {
+      "id": "bestiary2",
+      "book_dir": "Bestiary2",
+      "book_name": "Bestiary2",
+      "display_name": "Bestiary 2",
+      "source_pdf": "PF2e_Bestiary2-cropped.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Bestiary2",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/PF2e_Bestiary2-cropped.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pf2e-bestiary2-cropped"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 0.7589
+      }
+    },
+    {
+      "id": "core-rulebook",
+      "book_dir": "Core_Rulebook",
+      "book_name": "Core_Rulebook",
+      "display_name": "Core Rulebook",
+      "source_pdf": "Pathfinder-2e-core-Rulebook.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Core_Rulebook",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/Pathfinder-2e-core-Rulebook.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pathfinder-2e-core-rulebook"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 0.947
+      }
+    },
+    {
+      "id": "dark-archive",
+      "book_dir": "Dark_Archive",
+      "book_name": "Dark_Archive",
+      "display_name": "Dark Archive",
+      "source_pdf": "Dark Archive.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Dark_Archive",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/Dark Archive.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/dark-archive"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 0.9112
+      }
+    },
+    {
+      "id": "dungeon-slimes-pf2e",
+      "book_dir": "Dungeon_Slimes_Pf2e",
+      "book_name": "Dungeon_Slimes_Pf2e",
+      "display_name": "Dungeon Slimes PF2e",
+      "source_pdf": "Dungeon_Slimes_Pf2e.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Dungeon_Slimes_Pf2e",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/Dungeon_Slimes_Pf2e.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/dungeon-slimes-pf2e"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 0.9781
+      }
+    },
+    {
+      "id": "game-mastery-guide",
+      "book_dir": "Game_Mastery_Guide",
+      "book_name": "Game_Mastery_Guide",
+      "display_name": "Game Mastery Guide",
+      "source_pdf": "Pathfinder-2e-Game-Mastery-Guide.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Game_Mastery_Guide",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/Pathfinder-2e-Game-Mastery-Guide.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pathfinder-2e-game-mastery-guide"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 0.9818
+      }
+    },
+    {
+      "id": "guns-amp-gears",
+      "book_dir": "Guns_Amp_Gears",
+      "book_name": "Guns_Amp_Gears",
+      "display_name": "Guns & Gears",
+      "source_pdf": "pathfinder-2e-guns-amp-gears_compress.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Guns_Amp_Gears",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/pathfinder-2e-guns-amp-gears_compress.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pathfinder-2e-guns-amp-gears-compress"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 0.9408
+      }
+    },
+    {
+      "id": "remasterplayercorecharactersheet",
+      "book_dir": "RemasterPlayerCoreCharacterSheet",
+      "book_name": "RemasterPlayerCoreCharacterSheet",
+      "display_name": "Remaster Player Core Character Sheet",
+      "source_pdf": "RemasterPlayerCoreCharacterSheet.pdf",
+      "paths": {
+        "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/RemasterPlayerCoreCharacterSheet",
+        "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/RemasterPlayerCoreCharacterSheet.pdf",
+        "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/remasterplayercorecharactersheet"
+      },
+      "metrics": {
+        "missing_text_pages": 0,
+        "avg_page_jaccard": 1.0
+      }
+    }
+  ]
+}

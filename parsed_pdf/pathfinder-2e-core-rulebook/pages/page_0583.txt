@@ -1,0 +1,109 @@
+UPGRADING ARMOR AND WEAPON RUNES
+You’ll often want to upgrade the fundamental runes of magic armor or a magic weapon you already have. This requires
+upgrading each rune separately. Tables 11–5 and 11–6 summarize the Price of each step, with a number in parentheses
+indicating the item’s level for the Craft activity. This also indicates the typical progression for an adventurer to follow when
+upgrading their armor and weapons. The tables here don’t include progressions that aren’t as likely to come up, like turning
+a +1 weapon directly into a +1 greater striking weapon.
+TABLE 11–5: ARMOR UPGRADE PRICES
+Starting Armor
+Improved Armor
+Price and Process
++1 armor
++1 resilient armor
+340 gp to etch resilient (8th level)
++1 resilient armor
++2 resilient armor
+900 gp to etch +2 armor potency (11th level)
++2 resilient armor
++2 greater resilient armor
+3,100 gp to etch greater resilient (14th level)
++2 greater resilient armor
++3 greater resilient armor
+19,500 gp to etch +3 armor potency (18th level)
++3 greater resilient armor
++3 major resilient armor
+46,000 gp to etch major resilient (20th level)
+TABLE 11–6: WEAPON UPGRADE PRICES
+Starting Weapon
+Improved Weapon
+Price and Process
++1 weapon
++1 striking weapon
+65 gp to etch striking (4th level)
++1 striking weapon
++2 striking weapon
+900 gp to etch +2 weapon potency (10th level)
++2 striking weapon
++2 greater striking weapon
+1,000 gp to etch greater striking (12th level)
++2 greater striking weapon
++3 greater striking weapon
+8,000 gp to etch +3 weapon potency (16th level)
++3 greater striking weapon
++3 major striking weapon
+30,000 gp to etch major striking (19th level)
+Property Runes
+Property runes add special abilities to armor or a weapon
+in addition to the item’s fundamental runes. If a suit of
+armor or a weapon has multiple etchings of the same
+rune, only the highest-level one applies. You can upgrade
+a property rune to a higher-level type of that rune in the
+same way you would upgrade a fundamental rune.
+Rune abilities that must be activated follow the rules
+for activating magic items on page 532.
+Armor Property Runes
+ANTIMAGIC
+RUNE 15
+UNCOMMON
+ ABJURATION
+ MAGICAL
+Price 6,500 gp
+Usage etched onto armor
+This intricate rune displaces spell energy, granting you a +1
+status bonus to saving throws against magical effects.
+Activate [reaction] command; Frequency once per day; Trigger A
+spell targets you or includes you in its area; Effect The armor
+attempts to counteract the triggering spell with the effect of
+a 7th-level dispel magic spell and a counteract modifier of +26.
+Craft Requirements Supply one casting of dispel magic.
+ENERGY-RESISTANT
+RUNE 8+
+ABJURATION
+ MAGICAL
+Usage etched onto armor
+These symbols convey protective forces from the Elemental
+Planes. You gain resistance 5 to acid, cold, electricity, or fire.
+The crafter chooses the damage type when creating the rune.
+Multiple energy-resistant runes can be etched onto a suit of
+armor; rather than using only the highest-level effect, each must
+provide resistance to a different damage type. For instance, a +2
+acid-resistant greater fire-resistant breastplate would give you
+acid resistance 5 and fire resistance 10.
+Type energy-resistant; Level 8; Price 420 gp
+Type greater energy-resistant; Level 12; Price 1,650 gp
+You gain resistance 10 to the specified damage type.
+ETHEREAL
+RUNE 17
+UNCOMMON
+ CONJURATION
+ MAGICAL
+Price 13,500 gp
+Usage etched onto armor
+An ethereal rune replicates armor on the Ethereal Plane.
+Activate [one-action] command; Frequency once per day; Effect You
+gain the effects of an ethereal jaunt spell. This doesn’t require
+concentration and lasts for 10 minutes or until you choose to
+return to material form as a free action.
+Craft Requirements Supply a casting of 9th level ethereal jaunt.
+FORTIFICATION
+RUNE 12+
+ABJURATION
+ MAGICAL
+Usage etched onto medium or heavy armor
+A fortification rune wards against the most deadly attacks.
+Each time you’re critically hit while wearing the etched armor,
+attempt a DC 17 flat check. On a success, it becomes a normal
+hit. This property thickens the armor, increasing its Bulk by 1
+and the Strength required to reduce its penalties by 2.
+Core Rulebook
+582

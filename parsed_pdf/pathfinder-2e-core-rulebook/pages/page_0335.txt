@@ -1,0 +1,118 @@
+a believable fatal wound. This illusion looks and feels like a
+dead body. If the target’s death seems absurd—for instance, a
+barbarian at full health appears to be slain by 2 damage—the
+GM can grant the attacker an immediate Perception check to
+disbelieve the illusion. If the target uses hostile actions, the
+spell ends. This ends the entire spell, so the illusory corpse
+disappears too.
+Heightened (7th) The spell doesn’t end if the target uses
+hostile actions.
+DUPLICATE FOE
+SPELL 7
+CONJURATION
+Traditions arcane, occult
+Cast [three-actions] material, somatic, verbal
+Range 30 feet; Targets 1 enemy of level 15 or lower
+Saving Throw Fortitude; Duration sustained up to 1 minute
+You try to create a temporary duplicate of an enemy to fight
+on your behalf. The target can attempt a Fortitude save to
+disrupt the spell. The duplicate appears in an unoccupied space
+adjacent to the target and has the target’s attack modifier, AC,
+saving throw modifiers, Perception, and skill modifiers, but it
+has only 70 Hit Points and lacks the target’s special abilities,
+including immunities, resistances, and weaknesses. It has no
+magic items except weapon potency runes.
+The duplicate gains the minion trait, and it can only Stride
+and Strike. Its Strikes deal the target’s normal damage but don’t
+apply added effects, since it doesn’t have special abilities. The
+spell automatically ends if the duplicate’s Hit Points drop to 0.
+The duplicate attacks your enemies to the best of its
+abilities. You can also try to give it additional instructions;
+when you Sustain the Spell, you can also Command a Minion
+as part of your action, but the GM determines whether the
+duplicate follows your command.
+The duplicate is unstable, so each turn after it takes its
+actions, it loses 4d6 Hit Points. It’s not a living creature, and it
+can never regain its lost Hit Points in any way.
+Critical Success You fail to create a duplicate.
+Success The duplicate deals half damage with its Strikes and
+the duration is reduced to a maximum of 2 rounds.
+Failure The duplicate works as described.
+Heightened (+1) The level of creature you can target increases
+by 2. The duplicate has 10 more HP.
+EARTHBIND
+SPELL 3
+TRANSMUTATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 120 feet; Targets 1 flying creature
+Saving Throw Fortitude; Duration varies
+Using the weight of earth, you hamper a target’s flight, with
+effects based on its Fortitude save. If the creature reaches the
+ground safely, it doesn’t take falling damage.
+Critical Success The target is unaffected.
+Success The target falls safely up to 120 feet.
+Failure The target falls safely up to 120 feet. If it hits the ground,
+it can’t Fly, levitate, or otherwise leave the ground for 1 round.
+Critical Failure The target falls safely up to 120 feet. If it hits
+the ground, it can’t Fly, levitate, or otherwise leave the
+ground for 1 minute.
+EARTHQUAKE
+SPELL 8
+EARTH
+EVOCATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 500 feet; Area 60-foot burst
+Duration 1 round
+You shake the ground, topple creatures into fissures, and
+collapse structures.
+The GM might add additional effects in certain areas. Cliffs
+might collapse, causing creatures to fall, or a lake might
+drain as fissures open up below its surface, leaving a morass
+of quicksand.
+•	 Shaking Ground The ground is difficult terrain, and
+creatures on it take a –2 circumstance penalty to
+attack rolls, AC, and skill checks.
+•	 Fissures Each creature on the ground must attempt a
+Reflex save at the start of its turn to keep its footing
+and avoid falling into 40-foot-deep fissures that open
+beneath it. The fissures are permanent, and their sides
+require DC 15 Athletics to Climb.
+•	 Collapse Structures and ceilings might collapse. The
+GM rolls a flat check for each (DC 16 for a sturdy
+structure, DC 14 for an average structure and most
+natural formations, DC 9 for a shoddy structure,
+all adjusted higher or lower as the GM sees fit). A
+collapse deals 11d6 bludgeoning damage; each
+creature caught in a collapse must attempt a Reflex
+save to avoid it.
+Critical Success The creature takes half the collapse damage.
+Success The creature takes half the collapse damage and
+falls prone.
+Failure The creature takes the full collapse damage and
+falls prone.
+Critical Failure The creature takes the full collapse damage
+and falls into a fissure.
+Heightened (10th) You create a massive earthquake that can
+devastate a settlement. The range increases to half a mile and
+the area to a quarter-mile burst.
+ECLIPSE BURST
+SPELL 7
+COLD
+DARKNESS
+NECROMANCY
+NEGATIVE
+Traditions arcane, divine, primal
+Cast [two-actions] somatic, verbal
+Range 500 feet; Area 60-foot burst
+Saving Throw Reflex
+A globe of freezing darkness explodes in the area, dealing
+8d10 cold damage to creatures and objects in the area, plus
+8d4 additional negative damage to living creatures. Creatures
+and objects in the area must attempt a Reflex save.
+If the globe overlaps with an area of magical light or affects
+a creature affected by magical light, eclipse burst attempts to
+counteract the light effect.
+Core Rulebook
+334

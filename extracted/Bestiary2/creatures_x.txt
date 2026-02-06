@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# XILL
+# XILL
 ================================================================================
 
 
@@ -26,7 +26,7 @@ These four-armed, warmongering monsters paralyze their victims before implanting
 them with eggs using an ovipositor normally kept retracted behind their mandibles.
 Their single-minded drive to expand and conquer is so all-encompassing that while
 they work together dutifully and without dissent, there is little else in their lives.
-XILL
+XILL
 CREATURE 6
 UNCOMMON
 LE
@@ -85,7 +85,21 @@ to recover, and the save DC decreases by 1 each round.
 PAGE 301
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868798
+4425310
 Bestiary 2
+300
+300
 MASSIVE MUSK CREEPERS
 Ancient or specially cultivated musk
 creepers can grow to great size. Their
@@ -110,3 +124,60 @@ The plant’s pollen can spread far on the wind but quickly becomes too diffuse 
 cause harm. Wilderness scouts learn to sniff out the distinctive musky scent of the
 pollen, which stays potent even in harmless quantities. A sprouting creeper is also
 easy to detect, since it grows from the rotting, messy corpse of a thrall creature.
+YELLOW MUSK CREEPER
+CREATURE 2
+N
+MEDIUM
+MINDLESS
+PLANT
+Perception +4; tremorsense (imprecise) 30 feet
+Skills Stealth +6
+Str +3, Dex +2, Con +4, Int –5, Wis +0, Cha –1
+AC 18; Fort +10, Ref +6, Will +4
+HP 34; Immunities mental; Weaknesses ﬁre 5
+Speed 5 feet
+Melee Ȱɵ tendril +9 (reach 10 feet), Damage 1d10+3 piercing
+Bore into Brain ̂ˬ (manipulate, mental) The creeper bores dozens
+of tendrils into the brain of a Small, Medium, or Large humanoid
+creature that’s unconscious, willing, or fascinated by Spray Pollen,
+and within reach of the creeper’s tendrils. The creature must succeed
+at a DC 18 Fortitude save or become stupeﬁed 1 (stupeﬁed 2
+on a critical failure). Subsequent failed saves against Bore
+into Brain increase the stupeﬁed value. If the creature
+reaches stupeﬁed 5, it is turned into a yellow musk thrall
+(see below). Boring into a creature’s brain doesn’t end
+fascination caused by Spray Pollen.
+Spray Pollen ʚʖ (mental, poison) The yellow musk creeper
+blasts yellow pollen in either a 30-foot line or a 15-foot
+cone. Each creature in the emanation must attempt a DC
+20 Will save. Once a creature succeeds at any save against
+Spray Pollen, it becomes temporarily immune for 24 hours.
+Success The creature is unaﬀected.
+Failure The creature is fascinated. For as long as it is fascinated, it must
+spend each of its actions to move closer to the yellow musk creeper
+as expediently as possible, while avoiding obvious dangers. If the
+creature is adjacent to the yellow musk creeper, it stays still
+and doesn’t act.
+Critical Failure As failure, but the condition doesn’t
+end automatically. The creature can attempt
+a new save at the end of each of its
+turns. On a success, the fascinated
+condition and other eﬀects end.
+YELLOW MUSK THRALL
+A creature transformed by a
+yellow musk creeper’s tendrils
+boring into its brain becomes a
+yellow musk thrall if it’s Small or Medium,
+or a yellow musk brute if Large (a Small
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868798
+4425310

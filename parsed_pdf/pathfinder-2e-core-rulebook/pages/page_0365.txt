@@ -1,0 +1,117 @@
+You manifest an aura that prevents creatures from approaching
+you. When casting the spell, you can make the area any radius
+you choose, up to 40 feet. A creature must attempt a Will save
+if it’s within the area when you cast the spell or as soon as it
+enters the area while the spell is in effect. Once a creature has
+attempted the save, it uses the same result for that casting
+of repulsion. Any restrictions on a creature’s movement apply
+only if it voluntarily moves toward you. For example, if you
+move closer to a creature, it doesn’t then need to move away.
+Critical Success The creature’s movement is not restricted.
+Success The creature treats each square in the area as difficult
+terrain when moving closer to you.
+Failure The creature can’t move closer to you within the area.
+RESILIENT SPHERE
+SPELL 4
+ABJURATION
+FORCE
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 Large or smaller creature
+Duration 1 minute
+You create an immobile sphere of force to either trap or protect
+the target, blocking anything that would pass through the
+sphere. The sphere has AC 5, Hardness 10, and 40 Hit Points.
+It’s immune to critical hits and precision damage. Disintegrate
+destroys the sphere instantly. If the target is unwilling, the
+effects of the sphere depend on the target’s Reflex save.
+Critical Success The target disrupts the sphere’s integrity,
+causing it to collapse entirely.
+Success The sphere functions normally but has only 10 Hit
+Points instead of 40.
+Failure The sphere has its normal effect.
+RESIST ENERGY
+SPELL 2
+ABJURATION
+Traditions arcane, divine, occult, primal
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 creature
+Duration 10 minutes
+A shield of elemental energy protects a creature against one
+type of energy damage. Choose acid, cold, electricity, fire, or
+sonic damage. The target and its gear gain resistance 5 against
+the damage type you chose.
+Heightened (4th) The resistance increases to 10, and you can
+target up to two creatures.
+Heightened (7th) The resistance increases to 15, and you can
+target up to five creatures.
+RESPLENDENT MANSION
+SPELL 9
+CONJURATION
+Traditions arcane, occult
+Cast 1 minute (material, somatic, verbal)
+Range 500 feet
+Duration until the next time you make your daily preparations
+You conjure a towering mansion up to four stories tall and
+up to 300 feet on a side. While Casting the Spell, you hold
+an image of the mansion and its desired appearance in
+your mind. The mansion can contain as many or as few rooms
+as you desire, and it is decorated as you imagine it. You can
+imagine a purpose for each room of the mansion, and the proper
+accouterments appear within. Any furniture or other mundane
+fixtures function normally for anyone inside the mansion, but
+they cease to exist if taken beyond its walls. No fixture created
+with this spell can create magical effects, but magical devices
+brought into the mansion function normally.
+Your mansion contains the same types and quantities
+of foodstuffs and servants as created by the magnificent
+mansion spell.
+Each of the mansion’s exterior doorways and windows
+are protected by alarm spells. You choose whether each
+alarm is audible or mental as you Cast the Spell, and each
+has a different sound (for an audible alarm) or sensation (for
+a mental one), allowing you to instantly determine which
+portal has been used.
+RESTORATION
+SPELL 2
+HEALING
+NECROMANCY
+Traditions divine, occult, primal
+Cast 1 minute (somatic, verbal)
+Range touch; Targets 1 creature
+Restorative magic counters the effects of toxins or conditions
+that prevent a creature from functioning at its best. When you
+cast restoration, choose to either reduce a condition or lessen the
+effect of a toxin. A creature can benefit from only one restoration
+spell each day, and it can’t benefit from restoration more than
+once to reduce the stage of the same exposure to a given toxin.
+•	 Reduce a Condition Reduce the value of the target’s
+clumsy, enfeebled, or stupefied condition by 2. You can
+instead reduce two of the listed conditions by 1 each.
+•	 Lessen a Toxin Reduce the stage of one toxin the
+target suffers from by one stage. This can’t reduce the
+stage below stage 1 or cure the affliction.
+Heightened (4th) Add drained to the list of conditions you can
+reduce. When you lessen a toxin, reduce the stage by two. You
+also gain a third option that allows you to reduce the target’s
+doomed value by 1. You can’t use this to reduce a permanent
+doomed condition.
+Heightened (6th) As the 4th-level restoration, but you can
+reduce a permanent doomed condition if you add a spellcasting
+action and a material component while Casting the Spell, during
+which you provide 100 gp worth of diamond dust as a cost.
+RESTORE SENSES
+SPELL 2
+HEALING
+NECROMANCY
+Traditions divine, occult, primal
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 creature
+You attempt to counteract a single effect imposing the blinded
+or deafened conditions on the target, restoring its vision
+or hearing. This can counteract both temporary magic and
+permanent consequences of magic, but it doesn’t cure someone
+who does not have the sense due to some natural state or
+effect, such as from birth or from a non-magical wound or toxin.
+Core Rulebook
+364

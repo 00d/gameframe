@@ -104,6 +104,32 @@ Badger Rage again for
 PAGE 34
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868531
+4425043
+A-C
+A-C
+33
+33
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 HAUNTING LAIRS
 A baobhan sith adores the aesthetics
 of abandoned homes, desolate burial
@@ -120,142 +146,88 @@ A baobhan sith avoids confrontations when outnumbered, and although
 territorial, they won’t reveal their true nature to larger groups. They prefer to drink
 blood from victims they ﬁnd attractive, and they avoid drinking blood from animals
 and beasts entirely, as they consider such activities to be uncultured.
+BAOBHAN SITH
+CREATURE 6
+UNCOMMON
+CE
+MEDIUM
+FEY
+Perception +12; low-light vision
+Languages Aklo, Common, Sylvan
+Skills Acrobatics +15, Deception +15, Nature +12, Performance +15 (+17 when
+dancing), Stealth +15
+Str +3, Dex +5, Con +2, Int +2, Wis +2, Cha +5
+AC 24; Fort +12, Ref +17, Will +14
+HP 105; Weaknesses cold iron 5
+Speed 25 feet
+Melee Ȱɵ claw +17 (agile, ﬁnesse), Damage 2d6+6 slashing and 1d6 persistent
+bleed
+Primal Innate Spells DC 24; 3rd mind reading (at will)
+Captivating Dance ʚʖ (enchantment, incapacitation, mental, primal, visual)
+The baobhan sith sways rhythmically and Strides up to their Speed.
+Each creature within 30 feet of the baobhan sith at the end of their
+movement must attempt a DC 25 Will save.
+Critical Success The creature is unaﬀected and is temporarily
+immune to Captivating Dance for 24 hours.
+Success The creature is slowed 1 for 1 round and
+is  temporarily immune to Captivating Dance for
+24 hours.
+Failure The creature is fascinated, and it must spend at
+least 1 of its actions on each of its turns to move closer
+to the baobhan sith as expediently as possible, while
+avoiding obvious dangers. If the creature ends its
+movement or turn adjacent to the fey, it is slowed
+1 until the end of its next turn.
+Critical Failure As failure, but the creature must
+spend each of its actions moving closer to the baobhan
+sith, and if it ends its movement or turn adjacent to
+the fey, it is paralyzed until the end of its next turn.
+Change Shape Ȱɵ (concentrate, polymorph, primal,
+transmutation) The baobhan sith can transform into a
+large raven, with the eﬀects from the bird option in the
+aerial form spell (Core Rulebook 316).
+Drink Blood Ȱɵ Requirements A bleeding creature is within
+the baobhan sith’s reach; Eﬀect The baobhan sith tries to
+Drink the Blood from the bleeding creature’s wounds. The
+baobhan sith attempts an Athletics check against the victim’s
+Fortitude DC. On a success, the victim becomes drained 1 and the
+baobhan sith regains 10 HP, gaining any Hit Points in excess of their maximum Hit
+Points as temporary Hit Points. Drinking Blood from a victim that’s already drained
+doesn’t restore any Hit Points to the baobhan sith but increases the victim’s
+drained value by 1. A victim’s drained condition decreases by 1 per week. A blood
+transfusion, which requires 10 minutes, a successful DC 20 Medicine check,
+and suﬃcient blood or a blood donor, reduces the drained value by 1.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868531
+4425043
 
-================================================================================
-# GIANT WHIPTAIL CENTIPEDE
-================================================================================
-
-
-Bestiary 2
-MASSIVE MYRIAPODS
-All centipedes prefer to eat carrion,
-gathering in numbers around
-large corpses or battleﬁelds and
-jealously guarding their troves of
-ﬂesh from any who would disturb
-them. Monstrous centipedes are
-also aggressive hunters and are
-particularly fond of devouring
-horses and similar creatures, often
-snatching a mount right out from
-under its rider. They are unusually
-stealthy for creatures of their size,
-making their swift strikes all the
-more frightening.
-Centipede
-Centipedes are ﬂesh-eating myriapods that skitter with great speed through
-tunnels, forests, and similar densely packed terrain. Many are small predators,
-but others are titanic terrors that devour everything in their path.
-GIANT WHIPTAIL CENTIPEDE
-Whiptail centipedes are sleek and swift tunnel predators.
-GIANT WHIPTAIL CENTIPEDE
-CREATURE 3
-N
-HUGE
-ANIMAL
-Perception +9; darkvision
-Skills Acrobatics +8, Athletics +10, Stealth +8
-Str +4, Dex +2, Con +4, Int –5, Wis +2, Cha –4
-AC 19; Fort +11, Ref +9, Will +7
-HP 45
-Attack of Opportunity Ǻȓ Tail only.
-Speed 30 feet, climb 30 feet
-Melee Ȱɵ mandibles +11 (reach 10 feet), Damage 1d10+6 piercing plus whiptail
-centipede venom
-Melee Ȱɵ tail +11 (agile, reach 15 feet), Damage 1d6+6 bludgeoning plus Knockdown
-Undulate Ȱɵ The giant whiptail centipede Strides **or Steps. During this movement, it
-can pass through spaces as narrow as 5 feet without Squeezing.
-Whiptail Centipede Venom (poison); Saving Throw DC 19 Fortitude; Maximum
-Duration 6 rounds; Stage 1 1d10 poison damage and clumsy 1 (1 round);
-Stage 2 2d10 poison damage and clumsy 1 (1 round); Stage 3 2d10 poison
-damage and clumsy 2 (1 round)
-TITAN CENTIPEDE
-These colossal, solitary centipedes claim vast hunting grounds.
-
-================================================================================
-# GIANT COCKROACH
-================================================================================
-
-
-COCKROACH SPECIES
-Beyond the common giant cockroach,
-other ﬂesh-eating cockroaches
-exist throughout the world. These
-variations include the giant hissing
-cockroach, the noxious venomroach,
-the huge spitting cockroach (which
-can incapacitate enemies from a
-distance), the aggressive sawback
-cockroach, and the mysterious and
-rare dragonroach.
-Cockroach
-Generally seen more as a nuisance than a personal danger, cockroaches inhabit
-most reaches of the world. They are scavengers who live off the detritus of
-the natural world and from those that inhabit it. These maligned insects can
-survive weeks without eating, and most of their meals consist of organic
-waste that would otherwise overwhelm an ecosystem, particularly in their
-preferred urban environments. Though a typical cockroach presents virtually
-no threat, they can become dangerous in large groups, and some species grow
-particularly large.
-GIANT COCKROACH
-Cockroaches are communal creatures, rarely setting out on their own unless
-they are searching for food. If an adventurer encounters a single giant cockroach
-while exploring, they had best take precautions against others, as there is likely
-an entire colony nearby.
-GIANT COCKROACH
-CREATURE 1
-N
-SMALL
-ANIMAL
-Perception +6; darkvision, scent (imprecise) 60 feet
-Skills Acrobatics +6, Stealth +8
-Str +1, Dex +3, Con +1, Int –5, Wis +1, Cha –1
-AC 16; Fort +6, Ref +8, Will +4
-HP 20
-Scurry Ǻȓ Trigger The giant cockroach is targeted by a melee attack; Eﬀect The giant
-cockroach gains a +2 circumstance bonus to AC against the triggering attack. After
-the attack resolves, the cockroach Strides, Climbs, or Flies up to 10 feet.
-Speed 25 feet, climb 25 feet, ﬂy 15 feet
-Melee Ȱɵ mandibles +8 (agile, ﬁnesse), Damage 1d6+1 piercing
-COCKROACH SWARM
-While cockroaches tend to gather in cramped spaces, a
-disturbed colony is sometimes prone to swarming,
-where hundreds or even thousands of the
-insects scurry out of their hiding places in
-a raft of shiny brown and black carapaces
-on thousands of skittering legs. Given how
-disgusting many ﬁnd cockroaches to be,
-encountering such a swarm can be alarming
-to even the most seasoned adventurers. The
-creatures are relentless when disturbed; in contrast
-to the insects’ normally skittish and harmless nature,
-as swarms they pursue the creature or creatures
-that provoked them and harry them with
-thousands of stinging bites.
-COCKROACH SWARM CREATURE 2
-N
-SMALL
-ANIMAL
-SWARM
-Perception
-+6;
-darkvision,
-scent
-(imprecise) 60 feet
-Skills Acrobatics +8, Stealth +8
-Str +2, Dex +4, Con +3, Int –5, Wis +0, Cha –4
-AC 18; Fort +9, Ref +10, Will +6
-HP 20; Immunities precision, swarm mind; Weaknesses area damage 5,
-splash damage 5; Resistances bludgeoning 2, piercing 5, slashing 5
-Speed 20 feet, climb 20 feet, ﬂy 15 feet
-Swarming Bites Ȱɵ Each enemy in the swarm’s space takes 1d8
-piercing damage (DC 18 basic Reﬂex save).
-
-================================================================================
 PAGE 55
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868552
+4425064
 Bestiary 2
+54
+54
 OTHER COUATLS
 The quetz couatl presented here is
 the most common of its kind, and
@@ -279,62 +251,88 @@ Quetz couatls are typically 10 to 20 feet long, with iridescent blue and green
 scales. Their glorious wings of rainbow-hued feathers span 15 feet and weigh
 nearly a ton. They are carnivorous, feeding on birds, mammals, and even the
 occasional evil humanoid.
+QUETZ COUATL
+CREATURE 10
+UNCOMMON
+LG
+LARGE
+BEAST
+COUATL
+Perception +21; darkvision, detect alignment
+Languages
+Celestial,
+Common,
+Draconic;
+telepathy 100 feet
+Skills Acrobatics +16, Arcana +19, Diplomacy
++22, Nature +22, Occultism +19, Religion
++22, Survival +16
+Str +7, Dex +3, Con +5, Int +6, Wis +5, Cha +5
+AC 30; Fort +19, Ref +19, Will +21
+HP 175
+Speed 15 feet, ﬂy 50 feet
+Melee Ȱɵ jaws +23 (magical), Damage 2d10+13
+piercing plus quetz couatl venom and Grab
+Divine Innate Spells DC 29; 7th ethereal jaunt (at
+will), plane shift (self only); 5th breath of life, divine
+wrath; 4th charm, gaseous form; 3rd mind reading
+(at will); 2nd invisibility (self only, at will); Cantrips
+(5th) disrupt undead, light, mage hand; Constant (5th)
+detect alignment (all alignments simultaneously)
+Greater Constrict Ȱɵ 2d10+7 bludgeoning, DC 29
+Quetz Couatl Venom (poison) A quetz couatl’s venom deals good
+damage rather than poison damage to ﬁends; Saving Throw DC 29
+Fortitude; Maximum Duration 6 rounds; Stage 1 2d6 poison damage and
+enfeebled 1 (1 round); Stage 2 2d8 poison damage, enfeebled 1, and
+ﬂat-footed (1 round); Stage 3 2d10 poison damage, enfeebled 2, and
+ﬂat-footed (1 round)
+Radiant Wings ʚʖ (divine, enchantment, incapacitation,
+mental, visual) The quetz couatl spreads its multicolored
+wings and radiant plumage. Each enemy within 30 feet
+must attempt a DC 29 Will save.
+Critical Success The creature is unaﬀected and is temporarily
+immune to Radiant Wings for 24 hours.
+Success The creature is dazzled for 1 round.
+Failure The creature is dazzled for 1 minute.
+Critical Failure As failure, but if the creature is evil, it is also
+stunned 3.
+Wrap in Coils Ȱɵ Requirements The quetz couatl has a
+Medium or smaller creature grabbed or restrained in
+its jaws; Effect The quetz couatl moves the creature
+into its coils, freeing its fangs to make attacks, then uses
+Greater Constrict against the creature. The quetz couatl
+can hold as many creatures in its coils as will fit in its space.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868552
+4425064
 
-================================================================================
-# GIANT CRAB
-================================================================================
-
-
-CRAB SPECIES
-Crabs can be found along all of the
-world’s coastlines, from relatively
-small creatures like the king crab or
-the coconut crab, to truly oversized
-monsters like the great reef crab,
-shark-eating crab, or the lumbering
-shipwrecker crab.
-Crab
-Crabs are scavenging crustaceans known for their hard shells and iconic sideways
-gait. They use their claws to defend themselves, hunt, and ﬁght other crabs for
-territory. When confronted with threats from outside their species, most crabs
-prefer to ﬂee, but when retreat isn’t possible, they clamp on to their foes as tightly
-as they can.
-The statistics presented here represent giant crabs that live close to the water’s
-surface. Crabs that live deeper underwater often exhibit more extreme adaptations
-to their environment. Crabs who live in the depths where little light reaches gain
-darkvision and cold resistance, and those adapted to the most hostile reaches of
-the deep sea can detect nearby creatures through subtle shifts in ocean currents.
-These skittering creatures are prized for their delicious meat, but their size
-makes them dangerous targets for harvesting.
-GIANT CRAB
-CREATURE 2
-N
-MEDIUM
-ANIMAL
-AQUATIC
-Perception +8; darkvision
-Skills Acrobatics +7, Athletics +8, Stealth +7
-Str +4, Dex +3, Con +1, Int –4, Wis +2, Cha –3
-AC 19; Fort +7, Ref +9, Will +8
-HP 24; Resistances physical 3 (except bludgeoning)
-Vulnerable to Prone If a creature critically succeeds on a check to Trip the giant crab, the
-crab is ﬂipped over onto its back in addition to the usual eﬀects. A giant crab that is
-ﬂipped onto its back has a particularly hard time defending itself; instead of taking the
-normal –2 circumstance penalty to AC for being ﬂat-footed, it takes a –4 circumstance
-penalty to AC.
-Scuttle Ǻȓ Trigger A creature that the giant crab can see targets the crab with an attack;
-Eﬀect The giant crab scuttles to the side and gains a +2 circumstance bonus to AC
-against the triggering attack. After the attack resolves, the crab can Stride up to its
-speed in a straight line as part of the reaction.
-Speed 25 feet, swim 15 feet
-Melee Ȱɵ claw +10, Damage 1d10+4 slashing plus Grab
-Constrict Ȱɵ 1d6+4 bludgeoning, DC 18
-
-================================================================================
 PAGE 57
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868554
+4425066
 Bestiary 2
+56
+56
 CRAWLING HAND ORIGINS
 A popular tale among necromancers
 tells of an ancient wizard who
@@ -377,21 +375,7 @@ AC 12; Fort +2, Ref +5, Will +2
 HP 8, negative healing; Immunities death eﬀects, disease, paralyzed, poison,
 unconscious, visual
 Speed 30 feet, climb 30 feet
-Melee Ȱɵ claw +7 (agile, ﬁnesse), Damage 1d4+1 slashing plus Grab
-Grip Throat A Medium or smaller creature that is grabbed by the crawling hand has diﬃculty
-speaking and must spend an extra action to perform any action with the verbal trait.
-Mark Quarry A crawling hand can be assigned a quarry by anointing the hand with a
-drop of the intended quarry’s blood. If the hand ever has no quarry, it automatically
-gains the next creature it damages as its quarry. The hand gains a +1 circumstance
-bonus to Perception checks when it Seeks its quarry, to Survival checks when it
-Tracks its quarry, and damage rolls when it Strikes its quarry.
-GIANT CRAWLING HAND
-A giant crawling hand is the appendage of a very large creature, such as a giant.
-
-================================================================================
-# GIANT CRAWLING HAND
-================================================================================
-
+Melee Ȱɵ claw +7 (agile, ﬁnesse), Damage 1d4+1 slashing plus Grab
 Grip Throat A Medium or smaller creature that is grabbed by the crawling hand has diﬃculty
 speaking and must spend an extra action to perform any action with the verbal trait.
 Mark Quarry A crawling hand can be assigned a quarry by anointing the hand with a
@@ -428,11 +412,48 @@ Speed 20 feet
 Melee Ȱɵ claw +15, Damage 2d6+7 slashing
 plus Grab
 Mark Quarry As crawling hand.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868554
+4425066
 
-================================================================================
 PAGE 58
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868555
+4425067
+A-C
+A-C
+57
+57
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 THE CURSE OF CRAWLEY JACK
 The damnable curse of the culdewen
 traces back to the First World, when
@@ -464,89 +485,94 @@ things with their oar, and shake their tiny ﬁsts at the sky. Conversation with
 culdewen is fruitless, as they talk in circles, speaking only of ﬁshing and the weather.
 Capturing a “ﬁsh” gives a culdewen a rare moment of happiness; the culdewen
 capers and ululates, pleased with their catch, and rushes off to their boat.
+CULDEWEN
+CREATURE 7
+CE
+SMALL
+AMPHIBIOUS
+FEY
+Perception +15, low-light vision
+Languages Aquan, Common, Sylvan
+Skills Athletics +16, Deception +16, Intimidation +14, Nature +12, Sailing Lore +14,
+Stealth +15, Survival +16
+Str +4, Dex +5, Con +1, Int –1, Wis +2, Cha +4
+Items ﬁsh hook, oar (functions as mace)
+Culdewen’s Curse (curse, enchantment, primal) A culdewen that captures a creature is
+compelled to immediately retreat to a secluded place to eat, typically journeying by
+boat. The travel to the secluded place always takes at least 1 day. Their captive is cursed
+to vanish on the journey—typically being lost in the water or consumed by aquatic
+creatures—and can be recovered only by a wish spell or similarly powerful magic.
+AC 25; Fort +14, Ref +18, Will +13; –2 status to all saves vs. curses
+HP 105; Weaknesses cold iron 5
+Speed 40 feet, swim 40 feet
+Melee Ȱɵ ﬁsh hook +17 (trip), Damage 2d10+7 piercing
+plus hooked
+Melee Ȱɵ oar +17 (shove), Damage 2d6+7 bludgeoning
+Ranged Ȱɵ ﬁsh hook +18 (thrown 30 feet), Damage
+2d10+7 piercing plus hooked
+Hooked A creature struck by the culdewen’s ﬁsh hook is
+skewered, taking 1d4 persistent bleed damage as long as
+the hook remains stuck in it. The ﬁsh hook can be removed
+only if a creature spends an Interact action and succeeds at a
+DC 25 Athletics check to pull it free.
+Land the Fish Ȱɵ Requirements A creature is hooked by the
+culdewen’s ﬁsh hook and adjacent to the culdewen; Eﬀect The
+culdewen hoists the creature over their shoulder, as though it
+weighs no more than a ﬁsh. Unless the creature is unable to
+act, the culdewen must attempt an Athletics check against the
+creature’s Fortitude DC. On a success, the creature is restrained by the culdewen.
+While hoisting a creature, the culdewen gains a +20-foot status bonus to their
+Speeds and is compelled to escape with it (see culdewen’s curse above).
+Reel In Ȱɵ (manipulate) The culdewen pulls the rope attached to their hook. If they
+have no creature hooked, the ﬁsh hook returns to the culdewen’s hand. If a creature
+is hooked, the culdewen attempts an Athletics check against the creature’s Fortitude
+DC, pulling it up to 30 feet closer on a success (60 feet on a critical success).
+Swear Ȱɵ (auditory, curse, enchantment, primal) The culdewen
+unleashes a string of invectives. Each creature that hears them
+must attempt a DC 25 Will save, with the eﬀects of mariner’s
+curse and is then temporarily immune for 24 hours. Even on
+a failed save, the curse ends automatically after 1 day.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868555
+4425067
 
-================================================================================
-# GYLOU
-================================================================================
-
-
-Bestiary 2
-QUEENS OF THE NIGHT
-The four queens of the night wield
-great power in the Pit. Ardad Lili
-is a plotter and manipulator with
-ambitions of ruling the heavens, while
-Doloras revels in suﬀering. Most
-distant is Mahathallah, watching over
-fate and death. Mightiest among them
-is Eiseth, who is assembling an army
-in Dis in the hopes of claiming the iron
-throne of Malebolge.
-GYLOU
-CREATURE 14
-LE
-MEDIUM
-DEVIL
-FIEND
-Perception +28; greater darkvision, true seeing
-Languages Celestial, Common, Draconic, Infernal; telepathy 100 feet
-Skills Acrobatics +27, Athletics +28, Arcana +25, Deception +30, Diplomacy +28,
-Religion +26, Stealth +27
-Str +4, Dex +7, Con +4, Int +5, Wis +6, Cha +8
-AC 36: Fort +22, Ref +25, Will +28; +1 status to all saves vs. magic
-HP 240; Immunities ﬁre; Weaknesses good 10; Resistances physical 10 (except silver)
-Reﬂexive Grab Ǻȓ Trigger A creature leaves a square within the gylou’s reach using a move
-action or attempts a melee Strike against the gylou; Eﬀect The gylou lashes out with a
-tentacle, attempting to Grapple the triggering creature. If the triggering Strike was with
-a melee weapon, the attacking creature can Release the weapon to cause the gylou to
-automatically fail the Athletics check.
-Speed 35 feet, climb 35 feet
-Melee Ȱɵ claw +30 (agile, evil, ﬁnesse, magical), Damage 3d8+12 slashing plus 1d6 evil
-Melee Ȱɵ tentacle +30 (evil, magical, reach 10 feet), Damage 3d12+12 bludgeoning plus Grab
-Divine Innate Spells DC 36, attack +28; 7th dispel magic, dominate; 5th black tentacles,
-dimension door, illusory object (at will); 4th charm (×3), dimension door (at will),
-enthrall (at will); Constant (7th) true seeing
-Rituals DC 36; infernal pact
-Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation) The
-gylou adopts the appearance of any Small or Medium humanoid.
-This doesn’t change their Speed or the attack and damage modiﬁers
-of their Strikes, but it might change the damage type their Strikes
-deal (typically to bludgeoning).
-Indispensable Savvy Ǻȓ Frequency once per day; Trigger The gylou
-attempts a skill check but hasn’t rolled yet; Eﬀect The gylou demonstrates
-a preternatural ability for the task at hand. They use their Deception modiﬁer for the
-triggering check and for all skill checks using the same skill thereafter until the next
-time the gylou uses this ability or until 24 hours have passed, whichever happens ﬁrst.
-Tentacle Encage Ȱɵ (attack) Requirements The gylou has a Medium or smaller creature
-grabbed; Eﬀect The gylou transfers the grabbed creature into their lower body’s
-net of encaging tentacles, freeing their limbs and tentacles to make Strikes. This
-has the same eﬀects as Swallow Whole (Medium, 2d12+12 bludgeoning,
-Rupture 30), except the encaged creature is not at risk of suﬀocation,
-and the gylou can bring the encaged creature with them when
-they cast dimension door. A gylou can have only one creature
-encaged at a time.
-CORNUGON (HORNED DEVIL)
-Hell’s armies contain legions upon legions of
-different devils all suited precisely to their roles.
-But such an army needs able commanders,
-and it is this role that cornugons ﬁll. Their
-mere presence inspires those under their
-command to improved performance—
-often through fear of the horrible
-torments that a cornugon can unleash as
-punishment for failure. Forged in the ﬁres
-of Malebolge from the most renowned
-warriors among lesser devilkind, even
-the least cornugon is among the ﬁercest
-warriors of the multiverse. The greatest
-among them on occasion ascend further
-still, becoming those rare and feared
-legends of Hell called malebranche.
-
-================================================================================
 PAGE 78
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868575
+4425087
+D
+77
+77
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 THE MALEBRANCHE
 Every 5,000 years, the mightiest
 cornugon becomes a malebranche,
@@ -555,109 +581,112 @@ Scholars on Golarion currently know
 of 12 active malebranche, and while
 each is unique, all share the goal of
 conquering the Material Plane.
+CORNUGON
+CREATURE 16
+LE
+LARGE
+DEVIL
+FIEND
+Perception +28; greater darkvision
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 feet
+Skills Acrobatics +28, Athletics +32, Intimidation +30, Religion +28, Stealth +26, Warfare
+Lore +30
+Str +8, Dex +6, Con +7, Int +4, Wis +6, Cha +6
+Items +2 greater striking unholy spiked chain
+AC 38; Fort +31, Ref +26, Will +26; +1 status to all saves vs. magic
+HP 300; Immunities ﬁre; Weaknesses good 15; Resistances physical 15 (except silver),
+poison 15
+Circle of Protection (abjuration, aura, divine, evil)
+10 feet. A constant circle of protection
+against good is centered on the
+cornugon.
+Commander’s Aura (aura, divine,
+enchantment)
+100
+feet.
+Allied evil creatures  in
+the aura of a level lower
+than the devil’s gain a +1
+circumstance
+bonus
+to
+attack rolls, damage rolls,
+AC, saves, and skill checks.
+Frightful Presence (aura,
+divine, emotion, enchantment,
+fear, mental) 10 feet, DC 34
+Attack of Opportunity Ǻȓ
+Speed 25 feet, ﬂy 50 feet
+Melee Ȱɵ spiked chain +34 (disarm, evil, ﬁnesse, magical,
+reach 10 feet, trip), Damage 3d8+16 slashing plus 2d6 evil
+and stunning chain
+Melee Ȱɵ claw +32 (agile, magical, reach 10 feet), Damage 3d10+14 slashing
+plus 1d6 evil
+Melee Ȱɵ tail +32 (magical, reach 10 feet), Damage 3d8+14 slashing plus 1d6
+evil and infernal wound
+Divine Innate Spells DC 36; 7th dispel magic, ﬁreball (×2),
+lightning bolt (×2); 5th dimension door; 4th dimension door
+(at will)
+Rituals DC 36; infernal pact
+Chain of Malebolge Ȱɵ Requirements The cornugon’s
+last action was a success with a spiked chain
+Strike; Eﬀect The devil pulls the creature 5 feet
+closer and grabs it with the spiked chain
+(Escape DC 42). The creature is automatically
+freed if the devil makes another spiked chain
+attack or moves away.
+Infernal Wound (divine, necromancy) A cornugon’s
+tail Strike deals 4d6 persistent bleed damage.
+The DC of the ﬂat check to stop the bleeding
+starts at 20 and is reduced to 15 only if someone
+successfully assists. The DC to Administer First Aid to a creature
+with an infernal wound increases by 10. A spellcaster or item using healing
+magic on an infernally wounded creature must succeed at a DC 34 counteract check or
+the magic fails to heal the creature.
+Stunning Chain (incapacitation) If the cornugon critically hits with its spiked chain
+Strike, the target must succeed at a DC 34 Fortitude save or be stunned for 1
+round (1d4 rounds on a critical failure).
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868575
+4425087
 
-================================================================================
-# GIANT DRAGONFLY NYMPH
-================================================================================
-
-
-Bestiary 2
-DRAGONFLY SPECIES
-While dragonﬂies come in many
-colors, the diﬀerences between
-species sometimes extend beyond
-aesthetic variation. Giant blue
-dragonﬂies are larger toxic versions
-of the insects with a numbing bite
-that boggards use to craft poisons.
-Cave dragonﬂies are slower but
-stronger variants that dwell in large
-cavern systems. The legendary
-storm dragonﬂies are truly immense
-creatures that can use their powerful
-wings to stun foes.
-Dragonfly
-Dragonﬂies hunt with a combination of agile power and deadly speed. In their
-early life stages these insects are entirely aquatic predators, but they take to the air
-once they’ve molted. Most live around bodies of water suitable for spawning, but
-giant dragonﬂies have been known to ﬂy many miles when on the hunt. Though
-their gossamer wings and colorful bodies are beautiful at ﬁrst glance, an unwary
-adventurer lured in by the display runs a very real risk of becoming lunch.
-GIANT DRAGONFLY NYMPH
-The aquatic, wingless offspring of dragonﬂies are called dragonﬂy nymphs. Giant
-dragonﬂy nymphs can be several feet in length and mostly hunt in shallow waters,
-eating carrion and ambushing living creatures with their fully grown counterparts.
-They are not daunted by larger creatures, compelled by their instinct to eat as
-much as possible to sustain their growth.
-GIANT DRAGONFLY NYMPH
-CREATURE 3
-N
-SMALL
-ANIMAL
-AQUATIC
-Perception +8; low-light vision, wavesense (imprecise) 30 feet
-Skills Athletics +10, Stealth +9 (+11 in water)
-Str +3, Dex +2, Con +4, Int –5, Wis +1, Cha –5
-AC 19; Fort +11, Ref +9, Will +6
-HP 46
-Speed 10 feet, swim 30 feet
-Melee Ȱɵ mandibles +12 (agile), Damage 1d10+6 piercing
-Extend Mandibles Ȱɵ The giant dragonfly nymph extends its jaws to a surprising
-distance. The dragonfly nymph makes a mandibles Strike with a reach of 10 feet,
-but the mandibles lose the agile trait
-for this Strike.
-GIANT DRAGONFLY
-These buzzing insects are
-the size of a small horse.
-They are ambush predators
-known to hunt beasts and
-humanoids alike, capable of using
-impressive aerial acrobatics to swoop
-down from above and snatch away their prey.
-
-================================================================================
-# GIANT DRAGONFLY
-================================================================================
-
-Extend Mandibles Ȱɵ The giant dragonfly nymph extends its jaws to a surprising
-distance. The dragonfly nymph makes a mandibles Strike with a reach of 10 feet,
-but the mandibles lose the agile trait
-for this Strike.
-GIANT DRAGONFLY
-These buzzing insects are
-the size of a small horse.
-They are ambush predators
-known to hunt beasts and
-humanoids alike, capable of using
-impressive aerial acrobatics to swoop
-down from above and snatch away their prey.
-GIANT DRAGONFLY
-CREATURE 4
-N
-MEDIUM
-ANIMAL
-Perception +11; darkvision, wavesense (imprecise) 30 feet
-Skills Acrobatics +10 (+12 to Maneuver in Flight), Athletics +12, Stealth +12
-Str +4, Dex +4, Con +2, Int –5, Wis +3, Cha +0
-AC 21; Fort +12, Ref +14, Will +9
-HP 60
-Speed 20 feet, ﬂy 60 feet
-Melee Ȱɵ mandibles +14, Damage 1d12+7 piercing plus Grab
-Clutch Ȱɵ Requirements The giant dragonﬂy has a Medium or smaller
-creature grabbed in its mandibles; Eﬀect The dragonﬂy tries to transfer the
-grabbed creature to be clutched by its legs. The giant dragonﬂy attempts an
-Athletics check against the creature’s Reﬂex DC. On a success, it transfers the
-creature (which remains grabbed) to its legs, freeing its mandibles to attack.
-The dragonﬂy can have only one creature clutched at a time.
-Snatch The giant dragonﬂy can Fly at half Speed while it has a creature grabbed
-or restrained by Clutch, carrying that creature along with it.
-Swoop ʚʖ The giant dragonﬂy Flies up to its Speed and makes one mandible Strike at
-any point during that movement.
-
-================================================================================
 PAGE 100
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868597
+4425109
+D
+99
+99
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 DRAINBERRY COLLECTIONS
 As drainberry bushes sell their berries
 to others, they collect coins and small
@@ -685,62 +714,82 @@ please,” “Deal good,” “Deal no good,” “Want that,” (with a gesture
 item it covets), “Thank you, customer,” and if necessary, “No refunds.” Though
 a drainberry bush considers the market value of its berries to be 25 gp, it greatly
 prefers interesting art objects as payment—even ones of signiﬁcantly lower value.
-
-================================================================================
-# GRANITE GLYPTODONT
-================================================================================
-
-Earth Glide As living boulder.
-Blinding Sand When the sand sentry critically hits with a ﬁst Strike, the target is blinded
-for 1 round.
-GRANITE GLYPTODONT
-This squat and stony creature looks like an armadillo with a large raised back
-and a ﬂail-like tail. The granite glyptodont has no true need to feed, as with
-all elementals, yet it does seem to linger after transforming the ﬂesh of those it
-calciﬁes, as if the mere proximity of ﬂesh fossilizing into stone pleases it somehow.
-GRANITE GLYPTODONT
-CREATURE 8
+DRAINBERRY BUSH
+CREATURE 7
 N
 LARGE
-EARTH
-ELEMENTAL
-Perception +17; darkvision, tremorsense (imprecise) 90 feet
-Skills Athletics +18
-Str +6, Dex +1, Con +6, Int +0, Wis +5, Cha +0
-AC 28; Fort +18, Ref +13, Will +17
-HP 145; Immunities bleed, paralyzed, poison, sleep
-Speed 30 feet, burrow 20 feet; earth glide
-Melee Ȱɵ tail +20 (forceful, reach 10 feet, versatile piercing), Damage 2d12+9
-bludgeoning plus calciﬁcation
-Calciﬁcation (incapacitation, primal, transmutation) A blow from a granite
-glyptodont’s tail hardens the ﬂesh of the creature struck. The target must
-succeed at a DC 26 Fortitude saving throw or become slowed 1 (or
-slowed 2 on a critical failure). Further failed saves
-against calciﬁcation increase the value of the
-slowed condition. Once a creature’s actions are
-reduced to 0 by calciﬁcation, that creature
-becomes petriﬁed. If the creature isn’t
-petriﬁed, the slowed conditions end once 1
-minute passes without the creature failing a
-save against calciﬁcation.
-Every 24 hours after it was petriﬁed,
-the creature can attempt a DC 26
-Fortitude save to recover. On a success, it
-becomes ﬂesh again, but is slowed 1 for
-the next 24 hours. On a critical success,
-the creature recovers and isn’t slowed.
-On a failure, the creature remains
-petriﬁed, but can try again in 24 hours.
-On a critical failure, the petriﬁcation
-is permanent, and the creature can’t
-attempt any more saves.
-Earth Glide As living boulder.
+PLANT
+Perception +16; lifesense 120 feet
+Languages Aklo, Common, Sylvan (can’t speak any language); telepathy 100 feet
+Skills Acrobatics +11, Athletics +17, Diplomacy +13, Nature +17, Stealth +11 (+15 to appear
+as a bush)
+Str +6, Dex +2, Con +6, Int –2, Wis +4, Cha +2
+Nature Empathy The drainberry bush can use Diplomacy to Make an Impression on
+and make very simple Requests of animals and plant creatures.
+AC 23; Fort +17, Ref +13, Will +13
+HP 135; Weaknesses ﬁre 5; Resistances negative 10
+Speed 25 feet, climb 20 feet
+Melee Ȱɵ vine +17 (reach 20 feet), Damage 2d8+10 bludgeoning plus
+Improved Grab
+Blood Berries The drainberry bush must drain blood from living
+creatures for sustenance. This causes clusters of bright red
+berries to grow among its branches. Each cluster of berries lasts
+for 1 day, and a drainberry bush typically has 1d6+3 clusters when
+encountered. When consumed, a cluster
+restores 2d8+10 Hit Points. This eﬀect has
+the healing, necromancy, and primal traits.
+A creature can pluck a cluster of berries
+with a successful unarmed Strike or
+Thievery check against the bush’s AC.
+Consume Berries Ȱɵ (healing, necromancy,
+positive, primal) The bush draws nourishment
+from one cluster of blood berries, regaining
+2d8+10 HP. That berry cluster wrinkles and dies.
+Drain Blood Ȱɵ Requirements The drainberry bush
+has at least one living creature grabbed with one of its
+vines; Eﬀect The bush’s hollow thorns siphon blood
+from creatures it has grabbed. Each creature
+must succeed at a DC 25 Fortitude save or take
+2d8+10 damage and become drained 1 (double
+damage and drained 2 on a critical failure). For
+every creature damaged this way, a cluster of
+blood berries (see above) immediately grows
+along the bush’s branches.
+Storm of Vines ʚʖ The drainberry bush makes up to
+four vine Strikes, each against a diﬀerent target. These
+attacks count toward the bush’s multiple attack penalty, but the multiple attack
+penalty doesn’t increase until after the bush makes all these attacks.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868597
+4425109
 
-================================================================================
 PAGE 111
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868608
+4425120
 Bestiary 2
+110
+110
 FIRE ELEMENTAL TREASURE
 Often, nothing remains after
 defeating a ﬁre elemental but a pile
@@ -759,117 +808,95 @@ possibly superheated materials such as molten rock or searing smoke.
 EMBER FOX
 Ember foxes resemble their canid namesakes, save for the ﬂames that make their
 fur and the tips of their long whiskers ﬂicker and glow.
+EMBER FOX
+CREATURE 2
+NG
+SMALL
+ELEMENTAL
+FIRE
+Perception +8; darkvision
+Languages Ignan (can’t speak any language)
+Skills Acrobatics +8, Athletics +5, Stealth +8
+Str +1, Dex +4, Con +2, Int –2, Wis +2, Cha +1
+AC 18; Fort +6, Ref +10, Will +8
+HP 35; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 5
+Cloak in Embers Ǻȓ Trigger An adjacent ally is targeted by an eﬀect that deals ﬁre
+damage; Eﬀect The ember fox drapes itself across its ally, granting the ally ﬁre
+resistance 10 against the incoming attack.
+Speed 30 feet
+Melee Ȱɵ jaws +10 (agile, ﬁnesse), Damage 1d4+3 piercing plus 1d4 persistent ﬁre
+FILTH FIRE
+These creatures look like roiling clouds of black smoke churning above a
+mound of burning refuse. Leering faces form and fade in the smoke above,
+while the burning trash writhes in spasmodic lurches, obviously alive.
+FILTH FIRE 
+CREATURE 4
+NE
+MEDIUM
+ELEMENTAL
+FIRE
+Perception +11; darkvision, smoke vision
+Languages Ignan (can’t speak any language)
+Skills Acrobatics +13, Athletics +9
+Str +1, Dex +5, Con +4, Int –2, Wis +3, Cha +0
+Smoke Vision The ﬁlth ﬁre ignores the concealed condition from
+smoke.
+AC 21; Fort +12, Ref +13, Will +9
+HP 70; Immunities bleed, ﬁre, paralyzed, poison, sleep;
+Weaknesses cold 5
+Speed 25 feet
+Melee Ȱɵ burning lash +13 (ﬁnesse),
+Damage 2d6+3 bludgeoning plus 1d6
+persistent ﬁre
+Ranged Ȱɵ ember ball +13 (ﬁre, range
+increment 20 feet), Damage 1d6+3
+bludgeoning plus 1d6 persistent ﬁre
+Noxious Burst ʚʖ Toxic materials and
+churning rubbish within the ﬁlth ﬁre’s
+body explode in one of three ways. The ﬁlth ﬁre
+chooses the eﬀect, but it can’t make the same choice
+twice in a row.
+•
+Fiery Beam (evocation, ﬁre, primal) The ﬁlth ﬁre
+expels a 30-foot line of ﬂame that deals 3d6 ﬁre damage
+with a DC 21 basic Reﬂex save.
+•
+Shrapnel Blast (evocation, primal) The ﬁlth ﬁre shoots
+jagged rubbish out in a 5-foot emanation that deals 2d12
+piercing damage with a DC 21 basic Reﬂex save.
+•
+Toxic Fumes (evocation, poison, primal) The ﬁlth
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868608
+4425120
 
-================================================================================
-# GHONHATINE
-================================================================================
-
-
-ZEVGAVIZEB’S FAVORED
-The demonic patron of many
-xulgaths, Zevgavizeb, spends most
-of his time slumbering in the Abyssal
-realm of Gluttondark. However, his
-vile priests actively pursue what
-they insist are their dormant god’s
-goals. Some xulgath high priests
-practice ﬂeshwarping upon their own
-acolytes, creating ghonhatine zealots
-to serve in their legions and guard
-their evil temples.
-Failure The creature is stupeﬁed 1. Further failed saves against Soul Scream increase
-the condition value by 1, to a maximum of stupeﬁed 4. Each time the character gets
-a full night’s rest, the stupeﬁed condition gained from Soul Scream decreases by 1.
-Critical Failure As failure, except the stupeﬁed value increases by 2 instead of by 1.
-Storm of Tentacles ʚʖ The irnakurse makes up to four tentacle Strikes, each against a
-diﬀerent target. These attacks count toward the irnakurse’s multiple attack penalty, but
-the multiple attack penalty doesn’t increase until after it makes all of its attacks.
-GHONHATINE
-In transforming xulgaths, drow ﬂeshwarpers sought not to create a new type of
-creature but to recapture a form of xulgath predecessor believed entirely vanished
-from Golarion. Ghonhatines are the result—hulking reptilian beasts who prefer to
-crawl on all fours and tear at their foes with bestial fury.
-GHONHATINE
-CREATURE 10
-CE
-LARGE
-ABERRATION
-Perception +19; darkvision, scent (imprecise) 30 feet
-Languages Undercommon
-Skills Athletics +21, Intimidation +19, Stealth +19
-Str +7, Dex +3, Con +6, Int –2, Wis +5, Cha +3
-AC 30; Fort +22, Ref +17, Will +19
-HP 175; Immunities disease; Resistances acid 10
-Stench (aura, olfactory) 30 feet. A creature entering the aura or starting
-its turn in the aura must succeed at a DC 26 Fortitude save or
-become sickened 1 (plus slowed 1 for as long as it’s sickened on
-a critical failure). While within the aura, aﬀected creatures take a
-–2 circumstance penalty to saves against disease and to recover
-from the sickened condition. A creature that succeeds at
-its save is temporarily immune for 1 minute.
-Speed 35 feet
-Melee Ȱɵ jaws +23 (reach 10 feet), Damage
-2d12+10 piercing plus 1d6 persistent acid
-Melee Ȱɵ claw +23 (agile, reach 10 feet),
-Damage 2d10+10 slashing
-Ranged Ȱɵ vomit +19 (acid, range
-increment 20 feet), Damage 5d6 acid
-plus ﬂeshgout
-Feed Ȱɵ (manipulate) Requirement The
-ghonhatine is adjacent to the corpse of
-a creature that died within the last hour;
-Eﬀect The ghonhatine devours a chunk of
-the corpse. For 1 minute, the ghonhatine
-gains fast healing 5 and a +2 status bonus
-to damage rolls. It can gain these beneﬁts
-from any given corpse only once.
-Fleshgout (disease) A ghonhatine’s vomit
-carries an awful disease that, over time,
-can cause a suﬀering creature’s ﬂesh to
-develop painful boils that eventually
-slough away, leaving gaping wounds;
-Saving Throw DC 28 Fortitude; Stage 1
-carrier with no ill eﬀect (1d4 hours); Stage
-2 enfeebled 1 and drained 1 (1 day); Stage
-3 enfeebled 2 and drained 2 (1 day); Stage 4
-enfeebled 2 and drained 3 (1 day); Stage 5
-drained 4, enfeebled 2, and unconscious (1
-day); Stage 6 dead
-
-================================================================================
 PAGE 121
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868618
+4425130
 Bestiary 2
-FLY SPECIES
-The giant ﬂy presented here is
-but the most common of these
-unsettlingly oversized pests. Others
-can grow much larger, such as the
-blood-drinking glutton ﬂy, the highly
-toxic and foul-smelling blight ﬂy,
-and the immensely bloated plague
-ﬂy—a nauseating creature ironically
-incapable of ﬂight that fattens itself
-on undead ﬂesh and carries a host of
-awful diseases.
-Fly
-Giant ﬂies are pony-sized insects that have massive compound eyes and bodies
-bristling with short, stiff hairs. Their lairs are notorious for the rotting meat
-they stockpile to lay their eggs into. Their maggot-dens are also prime breeding
-grounds for virulent diseases.
-GIANT MAGGOT
-Giant ﬂies lay their eggs on the bodies of larger monsters or livestock. When they
-hatch, these eggs release squirming maggots the size of human children, ravenous
-young who voraciously consume any ﬂesh in the immediate vicinity—typically
-starting with the body upon which they were born.
-
-================================================================================
-# GIANT MAGGOT
-================================================================================
-
-
-Bestiary 2
+120
+120
 FLY SPECIES
 The giant ﬂy presented here is
 but the most common of these
@@ -904,22 +931,10 @@ AC 13; Fort +9, Ref +3, Will +3
 HP 18; Immune visual
 Regurgitation Ǻȓ Trigger The giant maggot takes damage; Eﬀect The giant maggot
 regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a
-DC 16 Fortitude save or become sickened 1 (or sickened 2 on a critical failure). The giant
+DC 16 Fortitude save or become sickened 1 (or sickened 2 on a critical failure). The giant
 maggot can’t use Regurgitation again until it spends at least an hour feeding on a corpse.
 Speed 10 feet
 Melee Ȱɵ mandibles +6, Damage 1d8+2 piercing plus Grab
-Gnaw Flesh Ȱɵ Requirement The giant maggot has Grabbed a creature; Eﬀect The
-giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the
-creature’s ﬂesh (DC 19 basic Reﬂex save).
-GIANT FLY
-This pony-sized ﬂy’s twitching limbs seem to never stop moving as it constantly
-cleans itself and scoops anything edible into its mouthparts. While primarily carrion
-eaters, giant ﬂies sometimes prey on livestock or other animals too slow to get away.
-
-================================================================================
-# GIANT FLY
-================================================================================
-
 Gnaw Flesh Ȱɵ Requirement The giant maggot has Grabbed a creature; Eﬀect The
 giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the
 creature’s ﬂesh (DC 19 basic Reﬂex save).
@@ -953,11 +968,48 @@ Fortitude; Onset 1 day; Stage 1 enfeebled 1
 (1 day); Stage 2 as stage 1 (1 day); Stage
 3 enfeebled 2 (1 day); Stage 4 as stage 3;
 Stage 5 enfeebled 2 and fatigued (1 day)
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868618
+4425130
 
-================================================================================
 PAGE 122
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868619
+4425131
+E-G
+E-G
+121
+121
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 FROG SPECIES
 While all frogs are amphibious, some
 frogs spend more of their time out of
@@ -978,11 +1030,20 @@ Frogs that are poisonous or grow to monstrous size can be a menace to adventurer
 SPEAR FROG
 The spear frog is named for its toxin, which is traditionally used to envenom
 thrown projectiles like spears and daggers.
-
-================================================================================
-# GIANT FROG
-================================================================================
-
+SPEAR FROG
+CREATURE 0
+N
+TINY
+ANIMAL
+Perception +6; low-light vision
+Skills Acrobatics +5, Athletics +0 (+6 to Climb, High Jump, Long Jump, and Swim)
+Str –2, Dex +3, Con +1, Int –4, Wis +2, Cha +0
+AC 14; Fort +5, Ref +7, Will +6
+HP 12
+Toxic Skin Anytime a creature touches the spear frog or an adjacent creature Strikes the
+spear frog with a melee attack, that creature is exposed to spear frog venom.
+Speed 20 feet, climb 20 feet, swim 20 feet
+Melee Ȱɵ jaws +7 (agile, ﬁnesse), Damage 1d6 piercing plus spear frog venom
 Spear Frog Venom (poison) Saving Throw DC 15 Fortitude; Maximum Duration 6 rounds;
 Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and enfeebled 1 (1 round)
 Sticky Feet Spear frogs are not ﬂat-footed when Balancing on a narrow surface, and they
@@ -1025,12 +1086,37 @@ can sever the tongue with a Strike against AC 13 that
 deals at least 2 slashing damage. This deals no damage
 to the frog but prevents it from using its tongue Strike
 until it regrows its tongue, which takes a week.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868619
+4425131
 
-================================================================================
 PAGE 123
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868620
+4425132
 Bestiary 2
+122
+122
 ALIEN ORIGINS
 Froghemoths have been known to
 suddenly abandon an established lair
@@ -1052,121 +1138,94 @@ is thankfully rarely encountered even in the deepest swamplands or most remote
 Darklands caverns. Capable of devouring dinosaurs and even dragons, it is a
 frighteningly effective ambush hunter, immersing itself in the mire with only its
 eyestalk protruding and watching in every direction at once with uncanny precision.
-
-================================================================================
-# GLASS GOLEM
-================================================================================
-
-Splinter Volley ʚʖ (arcane, evocation) The wood golem makes up to four splinter
-Strikes, each against a diﬀerent target. These attacks count toward the wood golem’s
-multiple attack penalty, but the multiple attack penalty doesn’t increase until after the
-wood golem makes all of its attacks.
-GLASS GOLEM
-Crafted of hardened glass and held together by magically treated lead, glass golems
-are both deadly guardians and works of exquisite art. Glass golems most often
-protect grand cathedrals or opulent palaces—testaments to the wealth and power
-of those they serve, or once served. Once spurred into action by the commands of
-their creators, glass golems are quicker and more agile than most other golems.
-Their sharp, blade-like limbs can easily sever veins and arteries, creating wounds
-that bleed profusely.
-Of all the various types of golems, the glass golem is the one most akin to a
-work of art. Just as powerful aristocrats might use an ice golem for temperature
-regulation or a wood golem as an ego-boosting statue, a glass golem’s colorful
-glass construction can elevate the beauty of any chamber by its mere presence.
-GLASS GOLEM
-CREATURE 8
+FROGHEMOTH
+CREATURE 13
 UNCOMMON
 N
-LARGE
-CONSTRUCT
-GOLEM
-MINDLESS
-Perception +14; darkvision
-Skills Acrobatics +16, Athletics +19, Stealth +14
-Str +5, Dex +4, Con +5, Int –5, Wis +0, Cha –5
-AC 26; Fort +17, Ref +16, Will +14
-HP 135; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued,
-healing, magic (see Golem Antimagic below), mental, necromancy,
-nonlethal attacks, paralyzed, poison, sickened, unconscious;
-Resistances physical 10 (except adamantine or bludgeoning)
-Golem Antimagic harmed by sonic (6d6, 2d6 from areas or
-persistent damage); healed by ﬁre (area 2d6 HP); slowed
-by cold
-Vulnerable to Shatter A glass golem is aﬀected by
-the shatter spell as though the golem were an
-unattended object.
-Spell Reﬂection Ǻȓ (abjuration, arcane) Trigger
-The glass golem is targeted by a spell; Eﬀect
-The glass golem positions its magical, reﬂective
-surfaces to turn the spell back on the caster. It
-tries to counteract the spell by attempting an
-Acrobatics check for its counteract check. If it
-successfully counteract the spell, the eﬀect is
-turned back on the caster.
-Speed 25 feet
-Melee Ȱɵ bladed limb +20 (agile, magical,
-versatile P), Damage 2d6+8 slashing plus
-1d6 bleed
-Dazzling Brilliance ʚʖ (evocation, light, visual) The glass golem creates waves of
-scintillating luminosity that cast bright light in a 60-foot emanation (and dim
-light for the next 60 feet). The light lasts until the start of the glass golem’s
-next turn, after which the glass golem can’t use Dazzling Brilliance for 1d4 rounds. A
-creature within the bright light or that enters the bright light must attempt a DC 23
-Will save.
-Success The creature is unaﬀected.
-Failure The creature is dazzled for 1 round.
-Critical Failure The creature is blinded for 1 round and then dazzled for an additional
-4 rounds.
+HUGE
+ABERRATION
+AMPHIBIOUS
+Perception +25; darkvision, otherworldly vision 30 feet
+Skills Acrobatics +23, Athletics +27, Stealth +27 (+30 in swamps)
+Str +8, Dex +6, Con +7, Int –4, Wis +6, Cha +4
+Otherworldly Vision A froghemoth’s alien eyes allow it to perceive creatures within 30
+feet, even if they are invisible or ethereal. It can still be fooled by successful Stealth
+checks to Hide, but it has Perception DC 38 in such cases. It also sees through and is
+unaﬀected by illusions with the visual trait if they are within 30 feet.
+AC 32, all-around vision; Fort +26, Ref +21, Will +23
+HP 285; Immunities electricity
+Electric Torpor Though a froghemoth is immune to electricity damage, it is slowed 1 for
+1 round whenever it would have otherwise taken electricity damage.
+Speed 20 feet, swim 30 feet
+Melee Ȱɵ jaws +27 (reach 10 feet), Damage 3d12+14 piercing
+plus Improved Grab
+Melee Ȱɵ tentacle +27 (agile, reach 15
+feet), Damage 3d8+14 bludgeoning
+plus Improved Grab
+Melee Ȱɵ tongue +27 (agile, reach
+30 feet), Damage 2d10+14
+piercing plus barbed tongue
+Aquatic Ambush Ȱɵ
+Barbed Tongue A creature hit
+by the froghemoth’s tongue
+becomes grabbed by the
+froghemoth.
+The
+creature
+isn’t immobilized, but it can’t
+move beyond the reach of the
+froghemoth’s tongue. A creature
+can sever the tongue with a successful
+Strike against AC 31 that deals at least 15
+slashing damage. This deals no damage
+to the froghemoth but prevents it
+from using its tongue Strike until
+it regrows its tongue, which
+takes 1 minute.
+Flailing Tentacles ʚʖ The
+froghemoth makes up to four
+tentacle Strikes, each against a
+diﬀerent target. These count toward the froghemoth’s
+multiple attack penalty, but the multiple attack penalty doesn’t
+increase until after all the attacks.
+Greater Constrict Ȱɵ 3d6+12, DC 33
+Retract Tongue ʚʖ The froghemoth pulls a creature grabbed by its
+tongue toward itself. The froghemoth rolls an Athletics check against
+the creature’s Fortitude DC. On a success, the froghemoth pulls the
+creature into an adjacent space, and if it critically succeeds it can
+also make a bite Strike against the creature after the pull.
+Swallow Whole Ȱɵ (attack) Large, 3d6+9 bludgeoning, Rupture 24
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868620
+4425132
 
-================================================================================
 PAGE 133
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868630
+4425142
 Bestiary 2
-ILL-ADVISED TRAININGS
-While many have tried to train
-gorgons as mounts or beasts of war,
-the combination of their notoriously
-short tempers and the diﬃculty
-in containing the eﬀects of their
-petrifying breath make this a diﬃcult
-task. In most cases, those who
-attempt to domesticate gorgons
-end up creating untamed gorgon
-breeding grounds.
-Gorgon
-Though they may resemble constructs to the untrained eye due to their metallic,
-interlocking armor plates that look and feel like polished stone, gorgons are a
-creature of ﬂesh and bone. These ill-tempered beasts greet interlopers with a
-charge or trample accompanied with belches of petrifying breath. Gorgons are
-dangerous on their own, and when they band together in herds, they become
-especially deadly.
-Gorgons typically subsist on petriﬁed ﬂesh or fossils. These supernatural
-beasts can gain sustenance from natural stone if they must, though they ﬁnd
-raw stone ﬂavorless, so it’s not a preferred food source. In battle, gorgons
-use their petrifying breath to turn their prey into stone. They break up the
-resulting statues with their hooves or horns and swallow the stony chunks
-with loud chewing bites. Gorgons cannot digest unpetriﬁed organic material,
-and if they try, they experience sickness and great gastrointestinal peril. Such
-discomforts are not life threatening to gorgons, but they do make the creatures
-even more ill tempered than usual—much to the chagrin of anyone they
-subsequently encounter.
-Gorgon ﬂesh tastes vaguely like beef, but with a gritty, earthy texture and
-aftertaste that most meat connoisseurs ﬁnd off-putting. Creatures with a close
-association to earth and stone are more likely to ﬁnd the ﬂavor appetizing;
-stone giants in particular consider gorgon steaks to be
-delicacies. Some cultures, notably dwarven cultures,
-consider the preparation of gorgon for meals as both a
-physical and a culinary challenge. Chefs who work with
-gorgon ﬂesh can ﬁnd renown for their skill in creating
-palatable dishes from such naturally unpalatable meat.
-
-================================================================================
-# GORGON
-================================================================================
-
-
-Bestiary 2
+132
+132
 ILL-ADVISED TRAININGS
 While many have tried to train
 gorgons as mounts or beasts of war,
@@ -1243,44 +1302,48 @@ Powerful Charge ʚʖ The gorgon Strides twice, then makes a horn
 Strike. If it moved at least 20 feet from its starting position, the
 Strike’s damage is increased to 3d12+12.
 Trample ̂ˬ Medium or smaller, hoof, DC 26
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868630
+4425142
 
-================================================================================
 PAGE 134
 ================================================================================
 
-DOMINION PLOTS
-While Golarion largely survived
-the events of the Doomsday Dawn,
-the threat of the Dominion of the
-Black is far from over. This alien
-conglomerate recognizes that it
-needs to understand the vastness
-of humanoids in the universe to
-better enact their plans, and certain
-nihilistic scholars suggest that the
-Doomsday Dawn was never intended
-to end the world, but instead served
-its primary goal of setting the
-stage for an even more devastating
-invasion from the Dominion in the
-near future.
-Gosreg
-Gosregs are agents of the Dominion of the Black that insinuate themselves into
-humanoid societies to foster the goals of their sinister alien masters. They act as
-spies and special forces that can mingle with humanoid society while enacting
-plans for the rest of the Dominion in secret.
-In their natural forms, gosregs dart about in a jerky gallop due to their stumpy
-legs and gangly arms. They take on the appearances of humanoids to inﬁltrate
-societies, and they drop their disguises only when they feel they are ultimately
-compromised and must resort to physical violence to protect their agendas. Their
-brain-like heads and bestial legs suggest a potential link with a similar Dominion of
-the Black agent: the dreaded intellect devourer.
-
-================================================================================
-# GOSREG
-================================================================================
-
-
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868631
+4425143
+E-G
+E-G
+133
+133
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 DOMINION PLOTS
 While Golarion largely survived
 the events of the Doomsday Dawn,
@@ -1315,7 +1378,7 @@ CE
 MEDIUM
 ABERRATION
 Perception +21; darkvision, thoughtsense
-60 feet
+60 feet
 Languages Aklo, Common, Undercommon;
 telepathy 100 feet
 Skills Deception +24, Diplomacy +22,
@@ -1343,7 +1406,7 @@ mage hand, telekinetic projectile
 Change Shape Ȱɵ (concentrate, occult, polymorph,
 transmutation) The gosreg takes on the
 appearance of any Small or Medium humanoid.
-This doesn’t change its Speed or its attack
+This doesn’t change its Speed or  its attack
 and damage modiﬁers with its Strikes, but
 it might change the damage type its Strikes
 deal (typically to bludgeoning).
@@ -1359,12 +1422,37 @@ critical
 failure,
 the creature is also
 confused for 1d4 rounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868631
+4425143
 
-================================================================================
 PAGE 135
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868632
+4425144
 Bestiary 2
+134
+134
 GREMLIN MINIONS
 Most know better than to employ
 gremlins, so when the fey creatures
@@ -1404,87 +1492,77 @@ groups are often led by a more powerful vexgit with
 additional skill in thievery or primal magic. Trained
 giant rats, vipers, and rat swarms are common in
 vexgit lairs.
+VEXGIT
+CREATURE 1
+LE
+TINY
+FEY
+GREMLIN
+Perception +6; darkvision
+Languages Undercommon
+Skills Acrobatics +7, Athletics +6, Crafting +6 (+8 traps), Nature +6, Stealth +5 (see
+clacking exoskeleton), Thievery +7
+Str +1, Dex +4, Con +2, Int +1, Wis +1, Cha +0
+Items maul
+Clacking Exoskeleton A creature that can hear gains a +2 circumstance bonus
+to its Perception DC against a vexgit’s attempts to Sneak.
+AC 16; Fort +5, Ref +9, Will +6
+HP 24; Weaknesses cold iron 2
+Speed 20 feet, climb 20 feet
+Melee Ȱɵ maul +8 (shove), Damage 1d12+1 bludgeoning plus
+Destructive Smash
+Melee Ȱɵ bite +11 (agile, ﬁnesse), Damage 1d6+1 piercing
+Primal Innate Spells DC 17; 1st alarm; Cantrips (1st) prestidigitation
+Destructive Smash A vexgit’s maul Strike against an object deals
+ignores up to 5 of the object’s Hardness.
+Gremlin Snare ̂ˬ (conjuration, primal) Frequency once per
+hour; Eﬀect The vexgit creates a snare of their level or
+lower that normally takes 1 minute to craft at no cost.
+A single vexgit can maintain one gremlin snare at
+a time—if they create a new snare, the previously
+created one vanishes.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868632
+4425144
 
-================================================================================
-# GRENDEL
-================================================================================
-
-
-Bestiary 2
-GRENDEL’S MOTHER
-At the bottom of a remote mountain
-lake ﬁlled with sea serpents is a
-magical house—the lair of Grendel’s
-mother. Among her many treasures is
-a sword so big and heavy that only a
-supernaturally strong individual can
-wield it. When Grendel is injured, he
-retreats here to heal.
-Grendel
-This reaver of the cold marsh is not just a monster; he is a force of nature. Where there
-is peace and prosperity in the world, Grendel strikes, eager to prove that tranquility
-is transitory and death is the only constant. He stalks the edge of his fens, seeking
-settlements where joy holds sway. He strikes under cover of night, primarily targeting
-celebrations or festivals. The more happiness or joy he can extinguish, the better.
-Although Grendel is a unique creature, killing him won’t save the world from his
-ravages for long. Once Grendel’s mother instinctively feels the pain of her violent
-son’s death, she soon births a replacement. The new Grendel seems to avoid the
-sites his elder brothers terrorized, as if he instinctively knows that such a place hosts
-heroes powerful enough to defeat him.
-GRENDEL
-CREATURE 19
-UNIQUE
-CE
-LARGE
-HUMANOID
-Perception +35; darkvision, keen hearing 120 feet
-Languages Common
-Skills Acrobatics +34, Athletics +39, Intimidation +34, Stealth +34, Survival +33
-Str +10, Dex +5, Con +7, Int +0, Wis +6, Cha +5
-Keen Hearing Grendel’s hearing is a precise sense to a range of 120 feet.
-AC 44; Fort +36, Ref +32, Will +31
-HP 360; Resistances all 15 (except unarmed attacks)
-Frightful Presence (aura, emotion, fear, mental) 60 feet, DC 38.
-Attack of Opportunity Ǻȓ Grendel gains an extra reaction at the start of each of
-his turns that he can use only to make an Attack of Opportunity with his
-claw. He can’t use more than one Attack of Opportunity triggered by the
-same action.
-Ferocity Ǻȓ
-Unstoppable Ǻȓ Trigger Grendel would take persistent damage or gain one of
-the following conditions: blinded, clumsy, confused, controlled, dazzled,
-deafened, doomed, drained, enfeebled, fascinated, fatigued, ﬂeeing,
-frightened, paralyzed, petriﬁed, sickened, slowed, stunned, or
-stupeﬁed; Eﬀect The persistent damage or condition from
-the triggering eﬀect doesn’t aﬀect Grendel.
-Speed 40 feet
-Melee Ȱɵ ﬁst +37 (agile, magical, reach 10 feet),
-Damage 4d8+18 bludgeoning plus Improved Grab
-Melee Ȱɵ jaws +37 (magical, reach 10 feet, versatile B),
-Damage 4d10+18 piercing
-Ranged Ȱɵ rock +37 (brutal, range increment
-150 feet), Damage 2d12+18 bludgeoning
-Hands of the Murderer Grendel’s ﬁst Strikes
-deal 18 bludgeoning damage on a failure
-(but no damage on a critical failure).
-Tooth Grind Ȱɵ Requirements Grendel
-is grabbing a creature; Eﬀect Grendel
-makes a bludgeoning jaws Strike against
-the creature he’s grabbing. On a hit, the
-creature also takes 2d6 persistent bleed damage
-and becomes wounded 1, or increases its wounded
-value by 1 if already wounded. On a critical hit,
-the creature instead becomes wounded 2, or
-increases its wounded value by 2 if already
-wounded. If a creature dies from
-Tooth Grind, Grendel
-regains 40 HP; this
-is a healing eﬀect.
-Throw Rock Ȱɵ
-
-================================================================================
 PAGE 138
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868635
+4425147
+E-G
+E-G
+137
+137
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 GRIMSTALKER FORESTRY
 Grimstalkers often harvest the seeds
 of carnivorous plants, particularly
@@ -1495,59 +1573,7 @@ with these dangerous plants as a
 defense tactic, but they also sow
 gardens and ﬁelds, weaponizing
 these plots of land against hapless
-gardeners and farmers.
-Grimstalker
-These violently murderous fey have one purpose: to stealthily hunt down and
-slay humanoids brazen enough to dare set foot in the wilderness. Though they
-prefer to hunt from the shadows, grimstalkers do not fear taking their grisly work
-to the very edges of civilization. This boldness serves as a reminder that nature
-can be cruel, capricious, and owes no debt to humanity. Grimstalkers are happy
-to perform nature’s dirty work and particularly enjoy targeting loggers, hunters,
-and explorers, regardless of whether they respect the natural setting they work or
-travel within.
-Grimstalkers are gaunt and hairless, and their mottled, green and brown ﬂesh
-gives them the appearance of moss-draped bark. When damaged, they bleed a
-thick, sap-like blood. They mark their territories by lopping off the heads of
-their victims and stringing them up in the surrounding trees, a practice that
-often lures dangerous scavengers into their lands. Carnivorous and thorny
-plants are often found in wilds where grimstalkers dwell, ﬁlling roles that
-pets might in human society, though grimstalkers tend to treat these “pets”
-poorly at best.
-There are few accounts of grimstalkers working with other fey—for the
-most part, grimstalkers see their kin from the First World as cowards or
-weaklings, or perhaps both. Even notoriously violent fey such as redcaps
-shy from them, as grimstalkers consider their own kind the only company
-worth keeping.
-Grimstalkers hunt in small bands, using stealth to approach their targets.
-They surround enemies ﬁrst, then work to unnerve them by knocking on
-trees or howling out threats in Aklo to distract and panic their quarry.
-Of course, a band of grimstalkers won’t stay together for long, quickly
-succumbing to bickering and inﬁghting. These violent arguments
-are common pastimes among grimstalkers, often ending with each
-grimstalker going its own way. Not even the presence of more
-powerful fey or commanding creatures can keep grimstalkers
-from their predisposed bickering. Some scholars theorize that
-this quality speaks to an ancient curse that once afﬂicted fey
-who were judged too cantankerous, but in truth, it’s just
-part of what makes a grimstalker what it is: ill-tempered,
-confrontational, and bitter.
-
-================================================================================
-# GRIMSTALKER
-================================================================================
-
-
-GRIMSTALKER FORESTRY
-Grimstalkers often harvest the seeds
-of carnivorous plants, particularly
-assassin vines, which they sow
-during their wanderings. Typically
-they seed their territory’s borders
-with these dangerous plants as a
-defense tactic, but they also sow
-gardens and ﬁelds, weaponizing
-these plots of land against hapless
-gardeners and farmers.
+gardeners and farmers.
 Grimstalker
 These violently murderous fey have one purpose: to stealthily hunt down and
 slay humanoids brazen enough to dare set foot in the wilderness. Though they
@@ -1591,7 +1617,7 @@ FEY
 Perception +12; low-light vision
 Languages Aklo, Common
 Skills Acrobatics +13, Intimidation +13, Nature +11,
-Stealth +13, Survival +12
+Stealth +13, Survival +12
 Str +4, Dex +4, Con +2, Int +2, Wis +3, Cha +2
 Camouflage A grimstalker can Hide in natural environments, even if it doesn’t
 have cover.
@@ -1603,16 +1629,41 @@ Primal Innate Spells DC 22, attack +14; 3rd earthbind, wall of thorns; 2nd entan
 without trace, tree shape; Cantrips (3rd) tanglefoot
 Grimstalker Sap (poison); Saving Throw DC 22 Fortitude; Maximum Duration 6 rounds;
 Stage 1 1d6 poison damage (1 round); Stage 2 1d6 poison damage and clumsy 1
-(1 round), Stage 3 2d6 poison damage and clumsy 2 (1 round)
+(1 round), Stage 3 2d6 poison damage and clumsy 2 (1 round)
 Woodland Stride A grimstalker can always ﬁnd a path, almost as if foliage parts before
 it. A grimstalker ignores diﬃcult terrain caused by plants, such as bushes, vines, and
 undergrowth. Even plants manipulated by magic don’t impede its progress.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868635
+4425147
 
-================================================================================
 PAGE 139
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868636
+4425148
 Bestiary 2
+138
+138
 GIANT GRINDYLOWS
 While most grindylows are Small, a
 minute percentage of these creatures
@@ -1635,44 +1686,8 @@ driven away by predators. They often lair in mobile shelters, such as a sargasso
 seaweed or the hull of an abandoned ship. They are skilled scavengers and hunters
 that eat anything they can sink their teeth into.
 Grindylows respect the power of bigger sea predators but have a special hatred
-for squids (or anything they believe looks like a squid). Sailors plying grindylowinfested waters often paint the images of squids on the bottoms of their hulls in
-hopes of warding the little terrors off. While this can keep smaller schools at bay,
-it can also backﬁre, potentially inciting larger groups to gather for a coordinated
-attack; this becomes especially more likely if the ship’s route becomes predictable.
-This hatred of squids does not extend to
-other tentacled creatures; grindylows
-consider octopuses to be the
-epitome of grace and power.
-
-================================================================================
-# GRINDYLOW
-================================================================================
-
-
-Bestiary 2
-GIANT GRINDYLOWS
-While most grindylows are Small, a
-minute percentage of these creatures
-keep growing throughout their lives.
-Those that become Large or larger
-gain the giant trait and often become
-champions of their schools.
-Grindylow
-The top half of a grindylow looks vaguely like that of a goblin, but from the waist
-down, their bodies split into a tangle of suckered, wriggling tentacles. They dwell
-mostly in shallow waters both fresh and briny, including lakes, rivers, coastal
-regions, and near coral reefs. Grindylows generally organize into schools ranging
-from a few individuals to a few hundred. Smaller schools can sometimes be
-brought under the leadership of a powerful aquatic creature, though such alliances
-last only until the school faces a major setback, at which point the surviving
-grindylows scatter and form smaller schools of their own.
-Grindylows aren’t territorial, but they are pragmatic; while they rarely build
-permanent structures, they will adopt a good hunting ground for generations until
-driven away by predators. They often lair in mobile shelters, such as a sargasso of
-seaweed or the hull of an abandoned ship. They are skilled scavengers and hunters
-that eat anything they can sink their teeth into.
-Grindylows respect the power of bigger sea predators but have a special hatred
-for squids (or anything they believe looks like a squid). Sailors plying grindylowinfested waters often paint the images of squids on the bottoms of their hulls in
+for squids (or anything they believe looks like a squid). Sailors plying grindylow-
+infested waters often paint the images of squids on the bottoms of their hulls in
 hopes of warding the little terrors off. While this can keep smaller schools at bay,
 it can also backﬁre, potentially inciting larger groups to gather for a coordinated
 attack; this becomes especially more likely if the ship’s route becomes predictable.
@@ -1713,14 +1728,51 @@ moves with it. If the creature is Medium or
 smaller, it takes a –5-foot status penalty
 to its Speeds while the grindylow is
 attached. The grindylow is flat-footed
-while it is attached to a creature.
+while it is attached to a creature.
 Jet ʚʖ (move) The grindylow moves up to 60 feet in a straight
 line through the water without triggering reactions.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868636
+4425148
 
-================================================================================
 PAGE 140
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868637
+4425149
+E-G
+E-G
+139
+139
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 A HISTORY OF NEUTRALITY
 Grippli villages rarely get involved in
 the concerns of other communities,
@@ -1771,11 +1823,6 @@ of grippli settlements. More potent gripplis inhabit the
 settlements, be they religious leaders, powerful druids, or
 agile warriors that, due to their small size, focus more on
 ﬁnesse weapons and ranged attacks than on melee tactics.
-
-================================================================================
-# GRIPPLI SCOUT
-================================================================================
-
 GRIPPLI SCOUT
 CREATURE 1
 N
@@ -1785,7 +1832,7 @@ HUMANOID
 Perception +8; darkvision
 Languages Common, Grippli
 Skills Acrobatics +7, Athletics +4, Nature +6,
-Stealth +7 (+9 in forests), Survival +6
+Stealth +7 (+9 in forests), Survival +6
 Str +1, Dex +4, Con +2, Int +0, Wis +3, Cha –1
 Items dart (5), leather armor, net, sickle
 AC 18; Fort +7, Ref +9, Will +6
@@ -1802,57 +1849,37 @@ penalty to its Speeds. On a critical hit, the creature is restrained instead. Th
 Escape the net is 16. A creature adjacent to the target can Interact with the net to
 remove it.
 Jungle Stride Gripplis ignore diﬃcult terrain in forests and jungles.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868637
+4425149
 
-================================================================================
 PAGE 141
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868638
+4425150
 Bestiary 2
-GRODAIR TREASURE
-Amid the vile, rubbery entrails of
-an exploded grodair is a bizarre
-cluster of tubular organs about the
-size of a melon that serves as its
-extradimensional water storage.
-Harvesting the organ cluster
-takes 5 minutes and a successful
-DC 22 Survival check. For the next
-2d6 hours, the cluster can then be
-used produce either the “stream” or
-the “fountain” eﬀect of a decanter of
-endless water (Core Rulebook 573).
-On a critical failure to harvest the
-organ cluster, it bursts and deals 2d6
-bludgeoning damage to the harvester.
-Grodair
-Grodairs are bizarre ﬁshlike creature native to the First World. Their supernatural
-physiology includes a strange organ with an extradimensional space capable of
-storing thousands of gallons of water. This grants grodairs the ability to create
-a suitable environment for themselves anywhere by releasing the water, quickly
-transforming any surrounding land into a shallow bog. When grodairs wish
-to leave for a new location, they simply suck up all the water back up. When
-necessary, grodairs can also travel on land by walking upon the tangle of long,
-ﬂeshy tentacles that dangle from their bellies.
-Grodairs have two sets of eyes that function independently. While this makes
-the creatures difﬁcult to surprise, it also makes them easy to distract. During
-conversations, they have a tendency to lose focus quickly and have difﬁculty
-remembering things. Still, they are avid conversationalists and enjoy hearing
-tales about the world. While this quality makes grodairs quite likable, they
-aren’t reliable. They have difﬁculty following plans or schedules, and they can
-keep a secret only if they happen to forget it ﬁrst. For these reasons, grodairs
-don’t always make the best allies.
-Grodairs are voracious and curious omnivores who love trying new foods—in
-fact, the pursuit of new and interesting food is the most common reason that
-they venture out of First World. They can also capture and store within their
-throats any small animals and plants easily suspended in water, and eject them
-for consumption at a later time.
-
-================================================================================
-# GRODAIR
-================================================================================
-
-
-Bestiary 2
+140
+140
 GRODAIR TREASURE
 Amid the vile, rubbery entrails of
 an exploded grodair is a bizarre
@@ -1931,11 +1958,48 @@ water) The grodair causes water to pour from a magical sac on its
 spine, either a stream of water at a rate of 1 gallon per round, or a fountain in a
 5-foot-long stream at a rate of 5 gallons per round. It can stop the ﬂow of water as
 a single action.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868638
+4425150
 
-================================================================================
 PAGE 142
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868639
+4425151
+H-K
+H-K
+141
+141
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 CATS AND DOGS
 If there’s one thing more certain to
 infuriate a hellcat other than to treat
@@ -1967,41 +2031,86 @@ against foes they’re unable to reach, but they never forget prey that
 escapes them. They often track potential victims and recruit allies,
 including other hellcats, to make coordinated attacks or ambushes
 against their foes.
+HELLCAT
+CREATURE 7
+LE
+LARGE
+BEAST
+FIEND
+Perception +16; darkvision, scent (imprecise) 30 feet
+Skills Acrobatics +17, Athletics +17, Intimidation +14, Stealth +17,
+Survival +14
+Languages Infernal (can’t speak any language); telepathy 100 feet
+Str +6, Dex +4, Con +4, Int +0, Wis +3, Cha +1
+AC 25; Fort +15, Ref +17, Will +12; +1 status to all saves vs. magic
+HP 110; Weaknesses good 5; Resistances ﬁre 10, physical 5
+(except silver)
+Fade into the Light Ǻȓ (divine, illusion) Trigger The hellcat begins
+its turn in bright light; Eﬀect The hellcat becomes
+invisible until its no longer in bright light. If the
+hellcat uses a hostile action, the invisibility ends
+after that hostile action is completed.
+Speed 35 feet
+Melee Ȱɵ jaws +18, Damage 2d12+7 piercing
+Melee Ȱɵ claw +18 (agile), Damage 2d8+7 slashing
+Fearful Attack The hellcat deals an additional 1d6 precision damage to frightened
+creatures.
+Infernal Mindlink Ȱɵ (concentrate, divine, divination) The hellcat telepathically link its
+senses to all other hellcats within 100 feet for 10 minutes. It loses this contact with
+any hellcat that moves out of a 100-foot radius. While linked to at least one ally, the
+hellcat can’t be ﬂanked and gains a +2 status bonus to Will saving throws.
+Menacing Growl ʚʖ (auditory, emotion, fear, mental) The hellcat produces a low growl
+to disorient and frighten foes. The hellcat can cause this vocalization to originate from
+somewhere else within 30 feet. Non-ﬁends in a 15-foot burst must attempt a DC 25
+Will save. The hellcat can’t issue another Menacing Growl for 1d4 rounds.
+Critical Success The creature is unaﬀected and is temporarily immune for 24 hours.
+Success The creature is frightened 1.
+Failure The creature is frightened 2.
+Critical Failure The creature is frightened 4.
+Pounce Ȱɵ The hellcat Strides and makes a Strike at the end of that movement. If the
+hellcat began this action hidden, it remains hidden until after the ability’s Strike.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868639
+4425151
 
-================================================================================
-# GIANT HIPPOCAMPUS
-================================================================================
-
-Sudden Retreat ʚʖ The hippocampus makes a tail Strike, then Swims
-with a +10-foot circumstance bonus to its swim Speed. It
-gains a +2 circumstance bonus to AC against
-reactions triggered by this movement.
-GIANT HIPPOCAMPUS
-Living in the deepest reaches of
-the ocean, giant hippocampi haven’t
-been sighted near the shore and are often
-regarded as legends made up by sailors.
-GIANT HIPPOCAMPUS
-CREATURE 8
-UNCOMMON
-N
-HUGE
-ANIMAL
-AQUATIC
-Perception +16, darkvision, scent (imprecise) 30 feet
-Skills Acrobatics +14, Athletics +20
-Str +6, Dex +4, Con +7, Int –4, Wis +4, Cha +1
-AC 27; Fort +18, Ref +16, Will +14
-HP 170
-Buck Ǻȓ DC 28
-Speed 10 feet, swim 80 feet
-Melee Ȱɵ tail +18 (reach 15 feet), Damage 2d6+10 bludgeoning
-Sudden Retreat ʚʖ As hippocampus.
-
-================================================================================
 PAGE 144
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868641
+4425153
+H-K
+H-K
+143
+143
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 HIPPOGRIFF EGGS
 Rather than birthing live young,
 hippogriﬀs lay a clutch consisting of
@@ -2041,64 +2150,74 @@ elk, and bears.
 However, other communities train hippogriffs from
 hatching to be ridden by elite soldiers in combat—
 the most notable among these groups in the Inner
-Sea region is the Sable Company Mercenaries in the citystate of Korvosa. Attempts are sometimes made to train adult
+Sea region is the Sable Company Mercenaries in the city-
+state of Korvosa. Attempts are sometimes made to train adult
 hippogriffs in the same manner, but this often proves far more
 difﬁcult. Hippogriff riders must use special saddles and combat
 techniques that allow them to act in concert with their mount,
 ﬁghting effectively while avoiding interfering with the movement
 of their companion’s wings.
-
-================================================================================
-# GIANT JELLYFISH
-================================================================================
-
-Agile Swimmer Fire jellyﬁsh swarms use Acrobatics to Swim.
-Burning Swarm Ȱɵ (poison) Each enemy in the swarm’s space takes 3d8 poison damage
-(DC 24 basic Reﬂex save) and is exposed to ﬁre jelly venom.
-Fire Jelly Venom (poison) Saving Throw DC 24 Fortitude; Maximum Duration 6
-rounds; Stage 1 clumsy 1 (1 round); Stage 2 clumsy 2 (1 round); Stage 3 clumsy
-3 (1 round)
-GIANT JELLYFISH
-Unlike its smaller cousins, the giant jellyﬁsh is an active
-predator that chases down its prey through reefs or
-open water. It can even squeeze its enormous
-bell-shaped body into the tight conﬁnes of
-shipwrecks to drape its mane of tentacles
-across the exposed ﬂesh of its prey.
-GIANT JELLYFISH
-CREATURE 7
+HIPPOGRIFF
+CREATURE 2
 N
 LARGE
 ANIMAL
-AQUATIC
-MINDLESS
-Perception +12; darkvision
-Skills Acrobatics +15, Athletics +17, Stealth +15
-Str +6, Dex +4, Con +6, Int –5, Wis +0, Cha –5
-AC 15; Fort +17, Ref +15, Will +1
-HP
-165;
-Immunities
-mental,
-precision;
-Weaknesses piercing 5, slashing 5; Resistances
-bludgeoning 10, poison 10
-Speed swim 20 feet
-Melee Ȱɵ tentacle +18 (agile, reach 20 feet), Damage
-2d8+8 bludgeoning plus jellyﬁsh venom
-Jellyﬁsh Venom (poison) Saving Throw DC 25 Fortitude;
-Maximum Duration 6 rounds; Stage 1 2d8 poison
-damage and clumsy 1 (1 round); Stage 2 3d6
-poison damage and clumsy 2 (1 round); Stage 3
-2d10 poison damage and paralyzed (1 round)
-Squeeze A giant jellyﬁsh can ﬁt into tight spaces
-as if it were a Medium creature. It can move at
-its full Speed while Squeezing.
+Perception +8; darkvision, scent (imprecise) 30 feet
+Skills Acrobatics +7, Athletics +7, Survival +6
+Str +3, Dex +3, Con +2, Int –4, Wis +2, Cha +0
+AC 18; Fort +8, Ref +9, Will +6
+HP 32
+Buck Ǻȓ DC 17
+Speed 30 feet, ﬂy 65 feet
+Melee Ȱɵ beak +9, Damage 1d10+3 piercing
+Melee Ȱɵ talon +9 (agile), Damage 1d6+3 slashing
+Melee Ȱɵ wing +9 (reach 10 feet), Damage 1d6+3 bludgeoning
+Flying Strafe ʚʖ The hippogriﬀ Flies up to its ﬂy speed and makes two
+talon Strikes at any point during that movement. Each Strike must
+target a diﬀerent creature. The attacks take the normal multiple
+attack penalty.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868641
+4425153
 
-================================================================================
 PAGE 154
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868651
+4425163
+H-K
+H-K
+153
+153
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 CRYSTAL VAULTS
 Jyoti make ideal guardians for artifacts
 too dangerous to be left where those
@@ -2124,167 +2243,83 @@ for what they desire most is to be left alone. The jyotis’ full wrath is reser
 natives of the Shadow Plane and the Negative Energy Plane. Historically, the promise
 of battle with the gargoyle-like sceaduinars, whom they consider it their duty to
 oppose, has been the only thing to lure jyoti armies beyond the Positive Energy Plane.
-
-================================================================================
-# GIANT LEECH
-================================================================================
-
-
-Bestiary 2
-LEECH SPECIES
-The spotted hooktooth leech is
-often found in areas frequented
-by trolls, who sometimes wear
-them as awful decorations, relying
-on their regeneration to control
-the bleeding eﬀects. The gigantic
-elephant leech feeds on immense
-beasts of the swamplands or jungles,
-like elephants, froghemoths, and
-dinosaurs, attacking from unexpected
-range. But it’s the relatively small
-gutleech that provides the most fuel
-for nightmares, due to its awful habit
-of feeding on victims from inside.
-Leech
-Though valued by apothecaries and ﬁeld medics as methods to reduce swelling
-or drain blood, leeches are despised by most who encounter them, regardless
-of the setting.
-GIANT LEECH
-Capable of growing to lengths of nearly 5 feet, giant leeches have circular maws
-ﬁlled with hook-like teeth. They prefer to dwell in stagnant or slow-moving
-shallow water or in damp, moist undergrowth. Horses and larger animals are
-their favorite prey, but they won’t balk at a chance to latch onto a human- or
-halﬂing-sized meal.
-GIANT LEECH
-CREATURE 2
+JYOTI
+CREATURE 9
 N
 MEDIUM
-AMPHIBIOUS
-ANIMAL
-Perception +5; tremorsense 30 feet
-Skills Athletics +8, Stealth +7
-Str +4, Dex +1, Con +3, Int –5, Wis +1, Cha –5
-AC 17; Fort +9, Ref +7, Will +5
-HP 32; Weaknesses salt 5
-Speed 5 feet, swim 20 feet
-Melee Ȱɵ mouth +10, Damage 1d4+6 piercing plus Grab
-Blood Drain Ȱɵ Requirements The giant leech has a creature grabbed or restrained;
-Eﬀect The giant leech drains blood from the creature it has grabbed. This
-deals 2d4 damage. A creature that has its blood drained by a giant leech
-is drained 1 until it receives any kind or amount of healing.
-BROOD LEECH SWARM
-Most smaller species of leeches do not tend to swarm, but
-brood leeches are prone to gathering in seething, undulant
-mats of squirming gluttony. When they gather in sufﬁcient
-numbers to swarm, they eschew the stealth of a lone leech’s
-feeding methods in favor of swift and merciless feeding.
-In these situations, their mild venom can affect much
-larger creatures than their usual prey.
+FIRE
+HUMANOID
+POSITIVE
+Perception +21; darkvision
+Languages Common, Jyoti
+Skills Acrobatics +20, Intimidation +18, Occultism +20,
+Society +18
+Str +3, Dex +5, Con +4, Int +5, Wis +6, Cha +3
+Items +1 striking longspear
+AC 28; Fort +15, Ref +18, Will +21; +1 status to all
+saves vs. magic (+2 vs. divine magic)
+HP 155; Immunities death eﬀects, disease,
+poison; Resistances ﬁre 10, negative 10
+Positive Energy Aﬃnity Positive healing
+eﬀects always heal the jyoti for the
+maximum amount. It doesn’t gain the
+automatic Hit Points or temporary Hit
+Points from being on a plane with the
+positive planar essence.
+Speed 25 feet, ﬂy 60 feet
+Melee Ȱɵ ﬂaming ghost touch longspear +20
+(magical, reach 10 feet), Damage 2d8+6
+piercing plus 1d6 ﬁre
+Melee Ȱɵ beak +21 (ﬁnesse), Damage 2d12+6
+piercing plus 1d6 ﬁre
+Melee Ȱɵ talon +21 (agile, ﬁnesse), Damage
+2d8+6 slashing plus 1d6 ﬁre
+Occult Innate Spells DC 28, attack +20; 5th
+banishment, breath of life; 4th dimension
+door, heal, searing light; 3rd heal (×3); 2nd
+restoration (×3); Cantrips (5th) disrupt
+undead, light
+Breath Weapon (evocation, ﬁre, occult) The
+jyoti breathes a blast of searing ﬂame
+infused with positive energy in a 40-foot
+cone that deals 8d6 ﬁre damage plus
+4d6 positive damage to creatures in
+the area (DC 28 basic Reﬂex save).
+The jyoti can’t use Breath Weapon
+again for 1d4 rounds.
+Infuse Weapons (occult, evocation) Any weapon a jyoti wields becomes a ﬂaming ghost
+touch weapon while the jyoti holds it.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868651
+4425163
 
-================================================================================
-# GIANT CHAMELEON
-================================================================================
-
-
-Bestiary 2
-LIZARD LOCATIONS
-Giant lizards can be found in all
-temperate or tropical climates, often
-in relatively close proximity to smaller
-villages or rural regions where they
-can be a dangerous threat to livestock
-or travelers. The two lizards presented
-here tend to dwell in warmer regions—
-jungles for giant chameleons, and
-savannas for megalanias.
-Lizard
-Giant lizards come in a wide variety of species, but they all tend to be voracious
-hunters and quick to anger—particularly when they’re molting.
-GIANT CHAMELEON
-Giant chameleons are legendary for their ability to change their skin color in
-response to their surroundings. Their eyes are capable of peering in different
-directions independently, making them almost as difﬁcult to sneak up on as they
-are to notice in the ﬁrst place.
-GIANT CHAMELEON
-CREATURE 3
-N
-LARGE
-ANIMAL
-Perception +10; low-light vision
-Skills Athletics +10, Stealth +10 (+13 to Hide)
-Str +5, Dex +3, Con +1, Int –4, Wis +3, Cha –2
-Camouﬂage The giant chameleon can change its coloration to match its surroundings. It
-doesn’t need cover to attempt to Hide with a Stealth check.
-AC 18, all-around vision; Fort +8, Ref +12, Will +8
-HP 60
-Speed 30 feet, climb 20 feet
-Melee jaws +12 (reach 10 feet), Damage 1d10+7 piercing
-Melee tongue +12 (agile, reach 15 feet) Effect tongue grab
-Tongue Grab If the giant chameleon hits a creature with a
-tongue Strike, that creature becomes grabbed by the
-giant chameleon. The target isn’t immobilized, but it
-can’t move beyond the reach of the giant chameleon’s
-tongue. A creature can sever the tongue with an
-attack that hits AC 15 and deals at least 4 slashing
-damage. Though this doesn’t deal any damage to the
-giant chameleon, it prevents it from using its tongue Strike
-until it regrows its tongue, which takes a week.
-MEGALANIA
-Megalanias, like their smaller cousins the giant
-monitor lizards, strike fast and use their powerful
-bite to grip their prey. They prefer to swallow
-their prey whole rather than risk others getting
-a bite of a hard-won meal.
-
-================================================================================
-# GIANT MOSQUITO
-================================================================================
-
-Pyrexic Malaria (disease) The victim can’t reduce its sickened condition while it’s aﬀected
-by pyrexic malaria; Saving Throw DC 20 Fortitude; Onset 4 days; Stage 1 sickened 1
-(1 day); Stage 2 enfeebled 1 and sickened 1 (1 day); Stage 3 as stage 2 (1 day); Stage 4
-unconscious (1 day); Stage 5 dead
-Swarming Bites Ȱɵ Each enemy in the swarm’s space takes 1d6
-piercing damage (DC 20 basic Reﬂex save) and is exposed to
-pyrexic malaria. Creatures that fail the saving throw also take
-1d4 persistent bleed damage.
-GIANT MOSQUITO
-These horriﬁcally enlarged versions of the common mosquito
-often prey upon megafauna like dinosaurs and other large
-creatures, but they won’t turn down a chance to drink the
-blood of a smaller target—such as a humanoid.
-GIANT MOSQUITO
-CREATURE 6
-N
-MEDIUM
-ANIMAL
-Perception +17; darkvision, scent (imprecise) 60 feet
-Skills Acrobatics +13, Stealth +13
-Str +4, Dex +5, Con +2, Int –5, Wis +2, Cha –5
-AC 24; Fort +14, Ref +17, Will +12
-HP 80
-Speed 20 feet, ﬂy 50 feet
-Melee Ȱɵ proboscis +17 (ﬁnesse), Damage 2d10+7
-piercing plus Grab and septic malaria
-Blood Drain Ȱɵ Requirements The giant mosquito
-has a creature grabbed; Eﬀect The giant
-mosquito uses its proboscis to drain blood
-from the grabbed creature. This deals 3d6
-damage, and the giant mosquito gains
-temporary Hit Points equal to the damage
-dealt. A creature that has its blood drained by a giant mosquito is
-drained 1 until it receives healing of any kind or amount.
-Septic Malaria (disease) The victim can’t reduce its sickened condition while it’s
-aﬀected by septic malaria; Saving Throw DC 24 Fortitude; Onset 1 day; Stage 1
-sickened 1 (1 day); Stage 2 drained 1 and sickened 1 (1 day); Stage 3 as stage 2 (1 day);
-Stage 4 unconscious (1 day); Stage 5 dead
-
-================================================================================
 PAGE 177
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868674
+4425186
 Bestiary 2
+176
+176
 MUDWRETCH LIFESTYLES
 Mudwretches are rarely encountered
 alone. They inhabit swampy patches
@@ -2309,54 +2344,97 @@ have little need to eat, but without a constant source of moisture, a mudwretch 
 out, suffering from low throbbing aches until it can resaturate. Often, blood from
 living creatures has to do—a dried mudwretch is more dangerous to intruders than
 one that’s comfortably wallowing on a river bank.
-
-================================================================================
-# GIANT AMOEBA
-================================================================================
-
-Swarming Slither Ȱɵ The amoeba swarm slithers over each creature in its space, dealing
-1d6 acid damage (DC 14 basic Reﬂex save). A creature that critically fails is sickened 1.
-Weak Acid An amoeba’s acid damages only organic material—not metal, stone, or other
-inorganic substances.
-GIANT AMOEBA
-These blobs of nearly transparent protoplasm are identical in form and behavior
-to the microscopic creatures from which they have evolved, except their
-outlandish size makes them all the more dangerous. Unlike slimes, puddings, and
-other deadly oozes, giant amoebas have an outer membrane that contains their
-internal structures, making them more susceptible to slashing weapons than their
-amorphous kin. However, this membrane is also extremely ﬂexible and permeable,
-allowing them to surround prey and absorb it, suffocating and slowly digesting it
-in the amoeba’s acidic ﬂuids.
-GIANT AMOEBA
-CREATURE 1
+MUDWRETCH
+CREATURE 2
 N
-SMALL
-AMPHIBIOUS
-MINDLESS
-OOZE
-Perception +4; motion sense 60 feet, no vision
-Skills Athletics +6, Stealth +3
-Str +3, Dex –2, Con +2, Int –5, Wis +0, Cha –5
-Motion Sense As amoeba swarm.
-AC 8; Fort +7, Ref +3, Will +5
-HP 45; Immunities acid, critical hits,
-mental, precision, unconscious, visual;
-Weaknesses slashing 5
-Speed 10 feet, climb 10 feet, swim 10 feet
-Melee Ȱɵ pseudopod +8, Damage 1d6 acid
-plus Grab
-Constrict Ȱɵ 1d4 bludgeoning plus 1d4 acid,
-DC 17
-Envelop ̂ˬ Requirements The giant
-amoeba begins its turn with a target its
-size or smaller grabbed; Eﬀect The giant
-amoeba maintains the Grab and extends
-pseudopods to surround the creature and pull it inside
+MEDIUM
+EARTH
+ELEMENTAL
+WATER
+Perception +9; darkvision
+Languages Terran
+Skills Athletics +8, Stealth +6
+Str +4, Dex +0 Con +3, Int –2, Wis +3, Cha +0
+Muddy Field (aura) 10 feet. The ground in the area
+is diﬃcult terrain for all non-mudwretch creatures.
+AC 16; Fort +11, Ref +4, Will +9
+HP 40; Immunities bleed, critical hits, paralyzed, poison,
+sleep; Weaknesses ﬁre 5; Resistances acid 3, physical
+3 (except bludgeoning)
+Susceptible to Desiccation If a mudwretch takes any
+damage from horrid wilting or a similar eﬀect,
+takes 10 or more ﬁre damage from a single
+eﬀect, or spends more than 24 hours outside
+of a source of suﬃcient hydration (such as
+a swamp, river, well, or recent rainfall), it
+becomes dehydrated. While dehydrated, the
+mudwretch can’t Spew Mud, is sickened 2,
+and is slowed 1 until it either fully immerses
+in water, spends 1 minute in the rain, or
+rehydrates in another way (such as via Gory Hydration).
+Speed 20 feet, swim 20 feet
+Melee Ȱɵ ﬁst +10 (agile), Damage 1d8+4 bludgeoning plus Grab
+Constrict Ȱɵ 1d8+2 bludgeoning, DC 18
+Gory Hydration Ǻȓ Requirements The mudwretch is dehydrated;
+Trigger The mudwretch deals Constrict damage to a living
+creature that has blood; Eﬀect The mudwretch squeezes
+harder, dealing 1d6 persistent bleed damage to the
+target. The mudwretch absorbs this blood, removing
+any penalties it had as a result of being dehydrated.
+Mud Puddle Ȱɵ (concentrate) Until it next acts, the
+mudwretch appears to be an ordinary puddle of mud.
+It has an automatic result of 20 on Deception checks
+to pass as a mud puddle and can make a ﬁst Strike
+against a creature that walks onto the mud puddle
+as a reaction.
+Spew Mud ʚʖ (conjuration, primal) The mudwretch
+spews a 20-foot line of pressurized mud that
+deals 2d10 bludgeoning damage (DC 18 basic
+Reﬂex save). On a critical failure, a creature also
+takes a –10-foot status penalty to its Speeds for 1
+round. The mudwretch can’t Spew Mud again for 1d4 rounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868674
+4425186
 
-================================================================================
 PAGE 194
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868691
+4425203
+O-R
+O-R
+193
+193
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 SLIME MOLD FUNGI
 The particularly foul environments
 in which slime molds dwell are
@@ -2386,136 +2464,76 @@ agonized joints. In the later stages, though, the ﬂesh of the affected creatur
 actually begins to liquefy and run in rivulets as the creature’s spores continue
 to work. Death, when it occurs, swiftly causes the resulting body to split open
 and release a brand new slime mold.
-
-================================================================================
-# GRAY OOZE
-================================================================================
-
-
-Bestiary 2
-GRAY OOZE ADAPTABILITY
-Gray oozes have shown the astounding
-ability to overcome environmental
-challenges by changing their qualities.
-For example, some gray oozes have
-adapted to fully aquatic environments,
-replacing their movement with a swim
-speed and gaining a paralytic poison
-similar to that of gelatinous cubes.
-Other gray oozes have become charged
-with psychic energy, gaining the ability
-to cause nearby creatures to become
-confused, fascinated, or frightened for
-a short time.
-GRAY OOZE
-CREATURE 4
+SLIME MOLD
+CREATURE 2
 N
-MEDIUM
+LARGE
+FUNGUS
 MINDLESS
 OOZE
-Perception +8; motion sense 60 feet, no vision
-Skills Athletics +11, Stealth +10 (+12 in moist environments)
-Str +5, Dex +2, Con +4, Int –5, Wis +0, Cha –5
+Perception +6; motion sense 60 feet, no vision
+Skills Athletics +7, Stealth +6 (+8 amid decaying plant matter or fungus)
+Str +3, Dex +0, Con +5, Int –5, Wis +0, Cha –5
 Motion Sense As amoeba swarm.
-Puddled Ambush Ǻȓ Trigger A creature enters a space occupied by a gray ooze;
-Requirements Initiative has not yet been rolled; Eﬀect The gray ooze automatically
-notices the creature, then makes a pseudopod Strike against one creature adjacent to
-itself before rolling initiative.
-AC 14; Fort +12, Ref +10, Will +8
-HP 60; Immunities acid, critical hits, mental, precision, unconscious, visual; Resistances
-slashing 5, piercing 5
+AC 12; Fort +11, Ref +3, Will +4
+HP 60; Immunities critical hits, mental, precision, unconscious, visual
 Speed 10 feet, climb 10 feet
-Melee Ȱɵ pseudopod +13 (agile), Damage 1d6+5 bludgeoning plus 1d6 acid and Grab
-Constrict Ȱɵ 1d6 bludgeoning plus 1d6 acid, DC 21
-Gray Ooze Acid A gray ooze’s acid damages only metal and organic materials, not stone.
-VERDUROUS OOZE
-Verdurous oozes are found in temperate forests, warm jungles, or other places
-where plant life grows in abundance. Unlike many types of oozes, verdurous oozes
-are not particularly good climbers and have been known to get trapped in natural or
-artiﬁcial chasms. Warlords and wizards sometimes make use of that fact and keep
-verdurous oozes as guardians in pits around the walls of their fortresses or towers.
+Melee Ȱɵ  pseudopod +8, Damage 1d8+3 bludgeoning plus slime rot
+Slime Rot (disease) Saving Throw DC 18 Fortitude; Onset 1d4 days; Stage 1 enfeebled 1
+and sickened 1 (1 day); Stage 2 as stage 1 (1 day); Stage 3 drained 1, enfeebled 2, and
+sickened 2 (1 day); Stage 4 as stage 3 (1 day); Stage 5 drained 2 plus unconscious (no
+Perception check to wake up) (1 day); Stage 6 dead, and the body erupts to release a
+new slime mold
+GRAY OOZE
+These dangerous oozes are the bane of any who travel through swamps, marshes,
+or damp caves. Easily masquerading as pools of clear water or
+patches of wet stone, gray oozes lie in wait for unwary victims
+to reach down for a drink or step into what
+appears to be a puddle, then lash out
+with whiplike pseudopods to ensnare
+and consume their hapless prey.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868691
+4425203
 
-================================================================================
-# GIANT SLUG
-================================================================================
-
-
-Bestiary 2
-SLUGS OF WAR
-Subterranean cultures like
-urdefhans and xulgaths sometimes
-turn giant slugs into war beasts.
-The creatures’ primitive minds make
-them easy to control for anyone
-who knows a few simple tactics—
-mostly ways of keeping them
-well-fed until just before battle and
-methods of guiding them in the
-right direction as they rampage.
-Slug
-These massive, primeval relatives of ordinary slugs squirm slowly through
-swamps and grasslands. Giant slugs are always voracious and prefer to eat ﬂesh
-or plants high in water content. They frequently consume livestock or strip bare
-entire orchards or melon crops. For cattle, pigs, or other sizable meals, they ﬁrst
-shred the creatures using their radula—tongue-like appendages covered in teeth—
-to make them easier to consume. The mucus secreted by a giant slug is powerfully
-acidic and viscous. Wherever it travels, the creature leaves a trailing brown strip
-that kills most vegetation. Farmers and ranchers, especially those living near
-swamps known to contain giant slugs, keep close tabs on these journeys. Many
-almanacs go into great detail on slug migration and mating seasons. Since each
-giant slug needs its own wide hunting ground, the creatures typically come into
-proximity to mate only once a year. Either or both slugs can become impregnated,
-and any that do typically lay a clutch of around 100 eggs. They usually lay these
-eggs in a shallow bog or a cool, humid cave.
-Giant slugs tend to travel at night, as the creatures dislike sunlight and dry
-weather. They have been known to seek out locations like barns, the undersides
-of bridges, or even fortiﬁcations like castles for shelter as dawn starts to break.
-Woe to the unprepared farmer who ambles out at sunrise to milk the cows but
-instead ﬁnds that a giant slug has made the barn its home! Subterranean giant
-slugs don’t have to worry about sunlight, and crawl about on no schedule in
-particular. Narrow tunnels pose little obstacle for them, as the creatures can easily
-compress their bodies. These factors make their movements very unpredictable,
-so they pose quite a menace for underground peoples like kobolds or xulgaths.
-GIANT SLUG
-CREATURE 8
-N
-HUGE
-ANIMAL
-Perception +14; no hearing, scent (imprecise) 60 feet
-Skills Athletics +19
-Str +7, Dex –1, Con +7, Int –5, Wis +2, Cha –4
-AC 25; Fort +21, Ref +11, Will +14
-HP 165; Weaknesses salt 5; Resistances acid 10
-Speed 20 feet, climb 15 feet
-Melee Ȱɵ radula +21 (reach 15 feet), Damage
-2d10+10 slashing plus mucus
-Melee Ȱɵ foot +21 (reach 10 feet), Damage
-2d8+10 bludgeoning plus mucus
-Ranged Ȱɵ disgorged mucus +17
-(brutal, range increment 50 feet,
-splash), Damage 3d6 acid damage
-plus mucus and 1d6 acid splash damage
-Malleable The giant slug can ﬁt through tight spaces as if it
-were a Large creature. While Squeezing, it can move at its
-full Speed. It can Squeeze through spaces that typically ﬁt
-only a Medium creature, but it does so at the usual Speed
-for Squeezing.
-Mucus Any creature hit by the giant slug or that moves
-into its mucus trail is coated in sticky, caustic mucus.
-It takes 1d4 persistent acid damage and takes
-a –5-foot status penalty to its Speeds while the
-damage persists.
-Mucus Trail Any square the giant slug moves into is
-coated in mucus. These spaces are diﬃcult terrain, and
-any creature that moves into one or ends its turn in one is
-subjected to the slug’s mucus. After an hour, the mucus dries
-and the area is no longer diﬃcult terrain.
-Trample ̂ˬ Large or smaller, foot, DC 27
-
-================================================================================
 PAGE 246
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868743
+4425255
+S-T
+S-T
+245
+245
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 EATING HABITS
 Snakes of all sorts eat their meals
 by devouring their prey whole. After
@@ -2531,106 +2549,103 @@ Snake
 Snakes of some variety thrive in every non-arctic ecosystem, each with their own
 particular hunting patterns and defense mechanisms.
 SEA SNAKE
-These lithe snakes like to frequent the shallow waters of tropical seas. Their 4-footlong, blue-green bodies easily blend into the water where they lurk to ambush prey.
+These lithe snakes like to frequent the shallow waters of tropical seas. Their 4-foot-
+long, blue-green bodies easily blend into the water where they lurk to ambush prey.
 Tales speak of massive sea snakes that swim in deeper waters and follow ships,
 waiting for sailors to fall overboard or climbing the side to snatch them from the deck.
-
-================================================================================
-# GIANT SOLIFUGID
-================================================================================
-
-
-Bestiary 2
-SOLIFUGID BURROWS
-Most species of solifugid lay their
-eggs in burrows. The female doesn’t
-eat while guarding her eggs, and
-thus ﬁghts even more aggressively
-against any creatures she deems
-potential threats to her brood. The
-bodies of wayward adventurers often
-litter such burrows, though this does
-little to deter other fortune-hunters
-from trying their luck in such
-treasure-laden nests.
-Solifugid
-These monstrous vermin have six legs and two large feeding appendages easily
-mistaken for an additional pair of legs. They are often called camel spiders,
-sun spiders, or wind scorpions, despite the fact that they are neither spiders
-nor scorpions.
-GIANT SOLIFUGID
-The smallest of giant solifugids are still large enough to harry desert traders and
-their mounts.
-GIANT SOLIFUGID
-CREATURE 1
+SEA SNAKE
+CREATURE 0
 N
-MEDIUM
+SMALL
 ANIMAL
-Perception +7; darkvision
-Skills Acrobatics +8, Athletics +6, Stealth +6 (+10 in deserts)
-Str +1, Dex +3, Con +3, Int –5, Wis +1, Cha –4
-AC 16; Fort +6, Ref +8, Will +4
-HP 20
-Speed 35 feet, climb 25 feet
-Melee Ȱɵ jaws +8, Damage 1d10+1 piercing
-Melee Ȱɵ claw +8 (agile, reach 10 feet), Damage 1d8+1 slashing
-Pounce Ȱɵ The giant solifugid Strides and makes a Strike at the end of that movement.
-If the giant solifugid began this action hidden, it remains hidden until after this
-ability’s Strike.
-Rend Ȱɵ claw
-DUNESHAKER SOLIFUGID
-The largest solifugids, duneshakers, are so immense that their movements make
-the terrain around them tremble. They can prey on creatures the size of mammoths
-or even larger.
-
-================================================================================
-# GIANT SQUID
-================================================================================
-
-Glowing Mucus Ȱɵ Frequency once per day; Requirements The vampire squid is in water;
-Eﬀect The vampire squid ejects a cloud of bioluminescent mucus in a 15-foot cone.
-Non-squid creatures within the cloud must attempt a DC 16 Fortitude save or become
-sickened 1. The glowing mucus remains in the area for 1 minute, and any creature that
-ends its turn in the area must succeed at a DC 13 Fortitude save or become sickened 1.
-GIANT SQUID
-Dwelling deep within the oceans, this huge cephalopod grows up to 45 feet in
-length and can weigh up to 600 pounds. Its arms and tentacles are lined with
-hundreds of hooks and suckers, allowing it to seize its prey with ease.
-GIANT SQUID
-CREATURE 9
+Perception +5; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +2 (+6 to Swim), Stealth +5, Survival +5
+Str +0, Dex +3, Con +1, Int –4, Wis +1, Cha –2
+Deep Breath The sea snake can hold its breath for about an hour.
+AC 16; Fort +5, Ref +9, Will +3
+HP 15
+Lash Out Ǻȓ Trigger A creature within the sea snake’s reach uses a move action; Eﬀect
+The sea snake makes a bite Strike against the attacker.
+Speed 15 feet, swim 25 feet
+Melee Ȱɵ fangs +7 (agile, ﬁnesse), Damage 1d8 piercing plus
+sea snake venom
+Sea Snake Venom (poison) Saving Throw DC 16 Fortitude;
+Maximum Duration 4 rounds; Stage 1 1d6 poison damage
+(1 round); Stage 2 1d6 poison damage and enfeebled
+1 (1 round)
+EMPEROR COBRA
+These aggressive serpents infest bogs and
+lowlands. Despite a length of over 16 feet and
+weighing over 200 pounds, they can climb trees
+in seconds. An emperor cobra wards off predators
+by ﬂaring its hood and hissing at its attacker.
+EMPEROR COBRA
+CREATURE 5
 N
-HUGE
+LARGE
 ANIMAL
-AQUATIC
-Perception +21; darkvision
-Skills Athletics +20, Stealth +18
-Str +7, Dex +3, Con +4, Int –4, Wis +6, Cha –2
-AC 28; Fort +15, Ref +18, Will +21
-HP 155; Resistances cold 10
-Speed swim 40 feet
-Melee Ȱɵ beak +21, Damage
-2d12+11 piercing
-Melee Ȱɵ barbed tentacles +21
-(agile, reach 25 feet), Damage 2d10+11 slashing
-plus Grab
-Melee Ȱɵ arm +21 (agile, reach 10 feet), Damage 2d8+11
-bludgeoning plus Improved Grab
-Constrict Ȱɵ 1d10+10 bludgeoning, DC 25
-Jet ʚʖ (move) The giant squid moves up to 200 feet in a straight
-line through the water without triggering any reactions.
-Ravenous Embrace ʚʖ The giant squid makes up to four arm Strikes,
-each with a diﬀerent arm and against a diﬀerent target.
-The giant squid then makes a beak Strike
-against one creature that it grabbed during
-Ravenous Embrace. Each arm Strike counts
-separately for the squid’s multiple attack penalty, but the penalty doesn’t increase
-until the squid has made all of its arm Strikes; the beak Strike uses the multiple attack
-penalty as normal.
+Perception +13, low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +11, Athletics +13, Survival +11
+Str +6, Dex +4, Con +4, Int –4, Wis +2, Cha –2
+AC 22; Fort +15, Ref +11, Will +9
+HP 80
+Speed 25 feet, climb 25 feet, swim 25 feet
+Melee Ȱɵ fangs +15 (reach 10 feet), Damage 2d8+8 piercing
+plus emperor cobra venom
+Emperor Cobra Venom (poison) Saving Throw DC 22 Fortitude;
+Maximum Duration 6 rounds; Stage 1 1d8 poison damage (1
+round); Stage 2 1d8 poison damage and drained 1 (1 round);
+Stage 3 2d6 poison damage and drained 2 (1 round)
+Flare Hood Ȱɵ (emotion, fear, mental, visual) The emperor
+cobra ﬂares its hood. Each non–emperor cobra creature
+within a 20-foot emanation must attempt a DC 22 Will save.
+The creature is then temporarily immune for 1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature is frightened 1.
+Failure The creature is frightened 2.
+Critical Failure The creature is frightened 3.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868743
+4425255
 
-================================================================================
 PAGE 256
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868753
+4425265
+S-T
+S-T
+255
+255
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 STYGIRA GEMS
 The gem a stygira carries does not
 need to be particularly valuable,
@@ -2642,7 +2657,7 @@ particularly expensive gems to
 enhance their gem gaze ability,
 allowing some to charm those they
 gaze upon, light them on ﬁre, or even
-aﬄict them with crippling poison.
+aﬄict them with crippling poison.
 Stygira
 Withered hermits wrapped in tattered rags, these scarred, eyeless creatures
 command strange secrets of the earth and interpret the fateful energies of the
@@ -2663,142 +2678,77 @@ reduce them down to the base chemicals and
 supernatural humors the stygiras require to
 infuse gemstones with the capacity to give
 them sight and magical power.
-
-================================================================================
-# GIANT TICK
-================================================================================
-
-
-Bestiary 2
-TICK DISEASES
-Giant ticks and tick swarms can
-potentially inﬂict diseases other than
-tick fever. Drawing from the list on
-pages 118–119 of the Gamemastery
-Guide, potential diseases that a
-tick could spread include blinding
-sickness, bubonic plague, malaria, or
-scarlet fever. The saving throw DC
-should be adjusted to DC 17 (for giant
-ticks) or DC 27 (for tick swarms).
-Tick
-These blood-sucking parasites are common vectors for disease and other
-infections. Ticks infest all parts of the world, save for the most remote and frigid
-locales, and have evolved to feed on just about every kind of creature.
-GIANT TICK
-This grotesque tick is the size of a dog and scurries with surprising speed.
-GIANT TICK
-CREATURE 1
-N
-SMALL
-ANIMAL
-Perception +6; darkvision
-Skills Athletics +6, Stealth +6
-Str +1, Dex +3, Con +4, Int –5, Wis +1, Cha –5
-AC 16; Fort +9, Ref +6, Will +4
-HP 20
-Speed 15 feet, climb 15 feet
-Melee Ȱɵ hypostome +8 (ﬁnesse), Damage 1d6+1 plus attach and tick fever
-Attach When the giant tick Strikes a creature larger than itself, its barbed hypostome
-attaches it to that creature. This is similar to Grabbing the creature, but the giant tick
-moves with that creature rather than holding it in place. The giant tick is ﬂat-footed
-while attached. If the giant tick is killed or pushed away while attached to a creature on
-which it has used Blood Drain, that creature takes 1 persistent bleed damage. Escaping
-the attachment or removing the giant tick in other ways doesn’t cause bleed damage.
-Blood Drain Ȱɵ Requirements The giant tick is attached to a creature; Eﬀect The giant
-tick uses its hypostome to drain blood from the creature it’s attached to. This deals 1d4
-damage, and the giant tick gains temporary Hit Points equal to the damage dealt. A
-creature that has its blood drained by a giant tick is drained 1 until it receives healing
-(of any kind or amount).
-Tick Fever (disease); Saving Throw DC 17 Fortitude; Onset 1 day; Stage 1 enfeebled (1
-day); Stage 2 enfeebled 2 (1 day).
-TICK SWARM
-This swarm of thousands of ﬁst-sized ticks forms a moving carpet
-of bloated insects—a nauseating and intimidating sight.
-
-================================================================================
-# GIANT TOAD
-================================================================================
-
-
-FROGS AND TOADS
-While they might look similar
-in appearance, toads and frogs
-are quite diﬀerent creatures,
-particularly some of their oversized
-variants. Frogs tend to dwell in
-swampy or marshy areas, while
-toads are found in drier regions
-like forests, plains, grasslands, and
-deserts. Monstrous toads also skew
-to a larger size overall.
-Toad
-Most giant toads live in dry environments, particularly deserts, and eagerly
-eat almost any creature smaller than themselves. They’re known to eat giant
-rats, then take over the rats’ burrows as homes. Giant toads have large poison
-glands behind their eyes that enable them to coat their skin with poison. This
-leads to them having very few natural predators, and populations can quickly
-explode if left unchecked. While most consider giant toads dangerous pests,
-some groups of ogres and hill giants cultivate them to collect their poison for
-recreational use.
-GIANT TOAD
-CREATURE 2
-N
-LARGE
-ANIMAL
-Perception +8; low-light vision, scent (imprecise) 30 feet
-Skills Athletics +9 (+11 to High Jump or Long Jump), Stealth +6
-Str +5, Dex +2, Con +3, Int –4, Wis +2, Cha –2
-AC 17; Fort +9, Ref +8, Will +6
-HP 36
-Poisonous Warts Any creature that hits the giant toad with an unarmed Strike or
-otherwise touches the toad is exposed to giant toad poison.
+STYGIRA
+CREATURE 7
+LE
+MEDIUM
+EARTH
+FEY
+Perception +17; gemsight
+Languages Aklo, Cyclops, Jotun, Terran
+Skills Athletics +15, Deception +15, Gem Lore +17, Nature
++17, Occultism +17
+Str +4, Dex +4, Con +5, Int +4, Wis +6, Cha +2
+Items gemstone (worth 25 gp)
+Gemsight As long as the stygira holds a gemstone, they can
+see through the gem with darkvision and the eﬀects of true
+seeing. The stygira is blind when they are not holding a gem
+in a hand.
+AC 26; Fort +15, Ref +13, Will +19; +1 status to all saves vs. magic
+HP 80; Immunities paralyzed, petriﬁed, visual; Weaknesses cold iron 5;
+Resistances physical 10 (except adamantine)
+Light Sickness A stygira in an area of bright light is sickened 1.
 Speed 25 feet
-Melee Ȱɵ bite +11, Damage 1d8+5 piercing plus Grab
-Melee Ȱɵ tongue +11 (reach 10 feet), Eﬀect tongue grab
-Giant Toad Poison (poison); Saving Throw DC 19 Fortitude; Maximum Duration 6 rounds;
-Stage 1 stupeﬁed 1 (1 round); Stage 2 stupeﬁed 1 and confused (1 round)
-Swallow Whole Ȱɵ (attack) Medium, 1d8+2 bludgeoning, Rupture 8
-Tongue Grab A creature hit by the giant toad’s tongue becomes grabbed by the giant
-toad. The creature isn’t immobilized, but it can’t move beyond the reach of the toad’s
-tongue. A creature can sever the tongue with a successful Strike against AC 15
-that deals at least 6 slashing damage. This deals no damage
-to the toad but prevents it from using its tongue Strike
-until it regrows its tongue, which takes a week.
-TOAD TEARS
-A giant toad’s poison glands can be harvested and
-used as raw materials to craft a specialized poison
-known somewhat inaccurately as “toad tears” (likely
-due to the harvesting process, which requires one to
-dig the glands out from behind the eyes). One giant
-toad’s poison gland can supply enough materials for
-a single dose.
-TOAD TEARS
-ITEM 2
-ALCHEMICAL
-CONSUMABLE
-INGESTED
-POISON
-Price 6 gp
-Usage held in 1 hand; Bulk L
-Activate Ȱɵ Interact
-Toad tears can be mixed with any other foodstuﬀ or
-drink, but the poison can also be ingested as is. The
-process of reﬁning giant toad poison lessens its
-deadly qualities, and as a result, toad tears are
-rarely directly fatal. Yet those who are exposed
-to toad tears often lose control of their actions,
-making it a dangerous poison nevertheless.
-Saving Throw DC 19 Fortitude; Onset 5 minutes;
-Maximum Duration 30 minutes; Stage 1
-stupeﬁed 1 (10 minutes); Stage 2 stupeﬁed 1
-and confused (1 minute)
+Melee Ȱɵ claw +17 (agile); Damage 2d6+10 slashing plus stone curse
+Occult Innate Spells DC 25; 4th clairvoyance, read omens, shape stone; 3rd
+clairaudience, earthbind; 2nd augury, undetectable alignment; Cantrips (4th)
+know direction, read aura
+Gem Gaze Ȱɵ (emotion, fear, mental, primal) The stygira holds aloft a gem and
+gazes into the mind of a creature within 30 feet, infusing the creature’s
+thoughts with visions of the creature’s own dead body slowly petrifying.
+The creature must succeed at a DC 25 Will save or become frightened 1
+(frightened 2 on a critical failure).
+Stone Curse (curse, primal, transmutation) Wounds dealt by the stygira’s
+claws leave the ﬂesh bleached of color and turn the blood that runs from
+them dark gray. Each time a creature is damaged by the stygira’s claw
+Strike, it must succeed at a DC 25 Fortitude save or become permanently
+slowed 1 (slowed 2 on a critical failure) as its ﬂesh stiﬀens like stone. If
+a creature is reduced to 0 Hit Points from the stygira’s claw Strike and
+fails the saving throw against stone curse, it is petriﬁed. A creature
+that spends 8 hours in direct sunlight can attempt a new saving
+throw to remove the eﬀects of stone curse, even if it has
+been petriﬁed.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868753
+4425265
 
-================================================================================
 PAGE 263
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868760
+4425272
 Bestiary 2
+262
+262
 FLESH SCULPTORS
 Some totenmaskes craft macabre
 “art” by shaping the ﬂesh of their
@@ -2814,7 +2764,8 @@ the human form, and even more
 twisted and depraved things.
 Totenmaske
 Spawned by the same unnatural and self-destructive obsessions that drove them
-when they were alive, totenmaskes are the undead remnants of the most selfindulgent and sinful among us. Though unable to sate their perverse desires, these
+when they were alive, totenmaskes are the undead remnants of the most self-
+indulgent and sinful among us. Though unable to sate their perverse desires, these
 foul undead can drain the very ﬂesh from their victims so as to wrap themselves
 in a perverse mockery of life that allows them to pursue their base wants.
 Totenmaskes’ speciﬁc longings vary—one might be obsessed with food or drink,
@@ -2825,55 +2776,82 @@ what helped condemn it to unlife in the ﬁrst place. A totenmaske obsessed with
 food, for example, might ﬁnd itself assaulting bakeries or breweries, while a vain
 totenmaske obsessed with glamor could quickly grow bored of each new look and
 switch its victims out daily, or even hourly.
+TOTENMASKE
+CREATURE 7
+NE
+MEDIUM
+UNDEAD
+Perception +15, darkvision
+Languages Common, Necril
+Skills Acrobatics +15, Deception +17, Stealth +17, Thievery +15
+Str +4, Dex +6, Con +2, Int +1, Wis +2, Cha +3
+AC 25; Fort +15, Ref +17, Will +13
+HP 128, negative healing; Immunities death eﬀects, disease, paralyzed, poison, unconscious
+Speed 40 feet
+Melee Ȱɵ jaws +18 (ﬁnesse), Damage 2d6+7 piercing plus 2d6 negative
+Melee Ȱɵ claw +18 (agile, ﬁnesse), Damage 2d8+7 slashing
+Drink Flesh Ȱɵ (divine, necromancy) Requirement The totenmaske hit the same
+enemy with two claw Strikes this turn and is still adjacent to it; Eﬀect
+The totenmaske drains ﬂesh from the creature’s body. The creature
+becomes sickened 2 and drained 1 unless it succeeds at a DC 25
+Fortitude save (sickened 2 and drained 2 on a critical failure).
+Living Form Ȱɵ (concentrate, divine, polymorph, transmutation)
+The totenmaske takes the appearance of a Medium or
+smaller humanoid creature. This is either its form
+from before it became undead, or the form of
+the last creature it successfully hit with Drink
+Flesh. This doesn’t change the totenmaske’s
+Speed or the attack and damage bonuses for its
+Strikes, but might change the damage type its
+Strikes deal (typically to bludgeoning).
+Shape Flesh (curse, divine, necromancy) After spending
+1 minute in contact with a paralyzed, unconscious,
+or willing creature, a totenmaske can reshape the
+target’s face, causing ﬂesh to cover vital features.
+The target can attempt a DC 25 Fortitude save
+to resist; a critical success grants temporary
+immunity to Shape Flesh for 24 hours. Each
+time the totenmaske Shapes Flesh, it chooses
+one feature: ears (target becomes deafened),
+eyes (target becomes blinded), mouth (target
+can’t speak or eat), or nose (target can’t
+smell). A creature with both its nose and mouth
+sealed can’t breathe and begins to suﬀocate (Core
+Rulebook 478). Changes are permanent until reversed
+by removing this curse, or the sealed ﬂesh can be
+surgically opened with a DC 25 Medicine check that takes
+1d4 rounds and deals 1d6 slashing damage per round.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868760
+4425272
 
-================================================================================
-# GIANT SNAPPING TURTLE
-================================================================================
-
-Clench Jaws Ȱɵ Requirements The snapping turtle damaged a creature with a jaws
-Strike in its previous action; Eﬀect The snapping turtle clenches its jaws down and
-automatically deals an additional 1d4 bludgeoning damage to the creature it just bit.
-Shell Defense Ȱɵ The snapping turtle retracts its limbs and head into its shell and ends
-its turn. This increases its AC to 18, but it can’t act except to reemerge, which it can
-do as a single action.
-GIANT SNAPPING TURTLE
-If the regular-sized snapping turtle is foul-tempered, then the giant snapping turtle
-seems to be willfully violent toward anything that dares intrude upon its domain.
-Measuring over 20 feet long and weighing thousands of pounds, this creature is
-capable of swallowing a humanoid whole. Swamp-dwelling societies, particularly
-boggards and lizardfolk, have often tried to domesticate giant snapping turtles to
-serve as powerful guardians, but in most cases the casualties pile up quickly. Those
-unfortunate enough to be swallowed whole by a giant snapping turtle ﬁnd that even
-the creature’s stomach is somewhat armored, making it difﬁcult to cut through.
-GIANT SNAPPING TURTLE
-CREATURE 9
-N
-GARGANTUAN
-ANIMAL
-Perception +17, low-light vision, scent (imprecise) 30 feet
-Skills Athletics +20
-Str +7, Dex +0, Con +4, Int –4, Wis +4, Cha –2
-Deep Breath The giant snapping turtle can hold its
-breath for 2 hours.
-AC 28; Fort +19, Ref +15, Will +19
-HP 170
-Speed 20 feet, swim 40 feet
-Melee Ȱɵ jaws +22, Damage 2d12+10
-piercing plus Improved Grab
-Capsize Ȱɵ (attack, move) The turtle
-tries to capsize an adjacent aquatic
-vessel of its size or smaller. The turtle must succeed at
-a DC 35 Athletics check (reduced by 5 for each size smaller
-the vessel is than the turtle) or the pilot’s Sailing Lore DC,
-whichever is higher.
-Shell Defense Ȱɵ As snapping turtle, but AC 30.
-Swallow Whole Ȱɵ Large, 2d12+7 bludgeoning, Rupture 30
-
-================================================================================
 PAGE 271
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868768
+4425280
 Bestiary 2
+270
+270
 TWIGJACK BRAMBLES
 Sometimes groups of twigjacks
 gather and form temporary
@@ -2887,7 +2865,7 @@ complete, the twigjacks go their
 separate ways.
 Twigjack
 Maladjusted forest denizens, twigjacks form from the cruel and prankish
-combination of fey and the very woods in which they reside. A twigjack’s body is
+combination of fey and the very woods in which they reside. A twigjack’s body  is
 made up of prickly brambles woven with vines. Shaggy, mossy growth, not unlike
 hair, tops a twigjack’s head. Its mouth is just a canyon of splintered and broken
 sticks bisecting its face. Leaves and sprigs of new growth randomly sprout from
@@ -2922,56 +2900,60 @@ spotted in tangles of tree branches, clots of undergrowth,
 or other hidden nooks in the natural world. These religions
 are always highly localized, and while these faiths do not support
 clerics, they often inspire zealous crusades against non-fey.
+TWIGJACK
+CREATURE 3
+CE
+TINY
+FEY
+PLANT
+Perception +9; darkvision
+Languages Common, Sylvan
+Skills Acrobatics +11, Athletics +9, Nature +7, Stealth +11
+Str +2, Dex +4, Con +2, Int +0, Wis +2, Cha +1
+AC 19; Fort +9, Ref +11, Will +7
+HP 50; Weaknesses ﬁre 5
+Speed 25 feet
+Melee Ȱɵ claw +11 (agile, ﬁnesse), Damage 1d10+4 slashing
+Ranged Ȱɵ splinter +11 (deadly 1d6, range increment 30 feet), Damage 1d6+4
+piercing
+Bramble Jump ̂ˬ (conjuration, plant, primal, teleportation) Requirements The
+twigjack is in undergrowth; Eﬀect The twigjack scrambles into the undergrowth
+and instantly teleports to a square of undergrowth within 60 feet. This
+movement doesn’t trigger reactions.
+Splinter Spray ʚʖ The twigjack sprays a barrage of splinters and brambles
+from its body in a 15-foot cone, dealing 4d6 piercing damage (DC 20 basic
+Reﬂex save). It can’t use Splinter Spray again for 1d4 rounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868768
+4425280
 
-================================================================================
-# GIANT WOLVERINE
-================================================================================
-
-Pounce Ȱɵ The wolverine Strides and makes a Strike at the end of that movement. If the
-wolverine begins this action hidden, it remains hidden until after the attack.
-Rend Ȱɵ claw
-Wolverine Rage Ȱɵ (concentrate, emotion, mental) The wolverine enters a state of pure
-rage that lasts either for 1 minute, until there are no enemies it can perceive, or until
-it falls unconscious, whichever comes ﬁrst. While raging, the wolverine has AC 17,
-its jaws Strike deals 1d8+7 damage, and its claw Strike deals 1d6+7 damage. While
-raging, the wolverine can’t use actions that have the concentrate trait, except for Seek.
-After it’s stopped raging, a wolverine can’t use Wolverine Rage again for 1 minute.
-GIANT WOLVERINE
-Giant wolverines grow to the approximate size of
-horses and claim even more expansive territories
-than their more diminutive wolverine cousins.
-While a smaller wolverine will defend its prey
-from armed humanoids, a giant wolverine is
-unafraid to stalk and kill such creatures.
-GIANT WOLVERINE
-CREATURE 4
-N
-LARGE
-ANIMAL
-Perception +9; low-light vision, scent (imprecise)
-30 feet
-Skills Athletics +12, Stealth +11
-Str +6, Dex +3, Con +3, Int –4, Wis +3, Cha +0
-AC 21; Fort +13, Ref +11, Will +9
-HP 65
-Speed 25 feet, climb 10 feet
-Melee Ȱɵ jaws +12, Damage 2d6+8 piercing plus Grab
-Melee Ȱɵ claw +12 (agile), Damage 2d4+8 slashing
-Gnaw Ȱɵ Requirements The wolverine has a creature grabbed from
-its jaws Strike; Eﬀect The wolverine chews violently on the
-creature, dealing 2d6 piercing damage (DC 21 basic Fortitude
-save). A creature that fails its save also takes 2d6 persistent
-bleed damage.
-Pounce Ȱɵ As wolverine.
-Rend Ȱɵ claw
-Wolverine Rage Ȱɵ As wolverine, except AC 20, jaws 2d6+11,
-and claws 2d4+11.
-
-================================================================================
 PAGE 297
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868794
+4425306
 Bestiary 2
+296
+296
 OTHER WALKING VERMIN
 While worms are the most common
 type of creature to form the composite
@@ -3006,13 +2988,15 @@ CREATING A WORM THAT WALKS
 You can turn an existing evil, living, spellcasting creature into a worm that
 walks using the following steps.
 Increase the creature’s level by 1 and change its statistics as follows.
-• It gains the aberration and swarm traits and usually remains evil.
-• Increase AC, attack bonuses, DCs, saving throws, and skill modiﬁers by 1.
-• Reduce its Hit Points by the amount listed on the table (to a minimum of 2
+•	 It gains the aberration and swarm traits and usually remains evil.
+•	 Increase AC, attack bonuses, DCs, saving throws, and skill modiﬁers by 1.
+•	 Reduce its Hit Points by the amount listed on the table (to a minimum of 2
 HP per level).
-• The worm that walks gains fast healing, resistance to physical damage, and
+•	 The worm that walks gains fast healing, resistance to physical damage, and
 weakness to area damage and splash damage as indicated in the table. These
 abilities are the reason the worm that walks has fewer HP.
+
+
 
 Fast Healing,
 
@@ -3022,15 +3006,19 @@ Resistance, and Weakness
 
 4 or less
 –20
+5
 
 5–7
 –30
+7
 
 8–14
 –40
+10
 
 15 or higher
 –60
+15
 WORM THAt WALKS ABILItIES
 A worm that walks loses any abilities that came from its previous physical form
 and any traits that represent its life, such as human and humanoid. It retains
@@ -3054,17 +3042,55 @@ foes have only a single round. Typically, this requires the application of an ar
 or splash weapon within 1 round to the space where the worm that walks collapsed.
 After any amount of area or splash damage is dealt to that space, the character dealing
 the damage must attempt a DC 15 ﬂat check. Each subsequent area or splash damage
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868794
+4425306
 
-================================================================================
 PAGE 298
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868795
+4425307
+U-Z
+U-Z
+297
+297
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 WORMS REDEEMED
 In rare situations, once a spellcaster
 rises as a worm that walks it might
 recant its evil ways, given the right
 inﬂuence and enough time. Many
-of these worms that walk seek selfdestruction, not out of abhorrence at
+of these worms that walk seek self-
+destruction, not out of abhorrence at
 their new form but at the realization
 of the evils they wrought while alive.
 Others, though, take advantage of
@@ -3097,3 +3123,59 @@ WORM THAT WALKS
 This worm that walks was a cultist of the Great Old One
 Hastur in its prior life. It continues its conspiracies and
 strives to further its evil plots in its new life.
+WORM THAT WALKS CULTIST
+CREATURE 14
+UNCOMMON
+CE
+MEDIUM
+ABERRATION
+SWARM
+Perception +25, darkvision, tremorsense (imprecise) 30 feet
+Languages Aklo, Common
+Skills Acrobatics +24, Deception +28, Intimidation +26,
+Occultism +27, Society +23, Stealth +28
+Str +5, Dex +8, Con +5, Int +5, Wis +4, Cha +8
+AC 36, all-around vision; Fort +23, Ref +28, Will +26
+HP 200, fast healing 10; Immunities disease, paralyzed,
+poison,
+precision,
+swarm
+mind,
+unconscious;
+Weaknesses area damage 10, splash damage 10;
+Resistances physical 10
+Discorporate
+Speed 30 feet
+Melee Ȱɵ tendril +29 (reach 10 feet), Damage 4d8+14
+persistent piercing damage
+Occult Spontaneous Spells DC 34, attack +26; 7th (3 slots)
+phantasmal killer, visions of danger, warp mind; 6th (4
+slots) dispel magic, dominate, paranoia, summon entity;
+5th (4 slots) black tentacles, mind probe, phantom
+pain, subconscious suggestion; 4th (4 slots)
+dimension door, modify memory, suggestion,
+veil; 3rd (4 slots) dream message, haste,
+hypercognition,
+slow;
+2nd
+(4
+slots)
+comprehend language,
+illusory creature,
+mirror image, undetectable alignment; 1st (4 slots) charm, illusory
+disguise, mindlink, ray of enfeeblement; Cantrips (7th) daze,
+detect magic, light, mage hand, shield
+Squirming Embrace Ȱɵ 5d8 piercing, DC 32
+Swarm Shape Ȱɵ
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868795
+4425307

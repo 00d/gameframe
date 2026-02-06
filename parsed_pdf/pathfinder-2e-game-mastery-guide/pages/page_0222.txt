@@ -1,0 +1,84 @@
+5
+NPC Gallery
+221
+221
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+healers know the science of anatomy and physiology better than the surgeon.
+While their expertise is of grave importance in the medical world, the downside
+is that when one is in need of their talents, it is likely the complaint is serious. In
+medical matters, a surgeon is a 6th-level challenge.
+SURGEON
+CREATURE 2
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Crafting+10, Diplomacy+8, Medicine +16
+Str +1, Dex +3, Con +1, Int +2, Wis +4, Cha +0
+Items healer’s tools, scalpel (3)
+Doctor’s Hand When the surgeon rolls a critical failure on a check to Treat Disease, Treat
+Poison, or Treat Wounds, they get a failure instead.
+AC 17; Fort +7, Ref +7, Will +10
+HP 30
+Speed 25 feet
+Melee  scalpel +11 (agile, versatile P), Damage 1d4+1 slashing
+Ranged  scalpel +11 (agile, thrown 10 feet, versatile P), Damage 1d4+1
+slashing
+Medical Malpractice  The surgeon attempts a Medicine check against the
+Fortitude DC of one living creature they can see within 60 feet. On a
+success, the surgeon’s melee Strikes deal an extra 1d6 precision damage
+against that creature (2d6 on a critical success) until 1 minute passes or
+the surgeon critically hits that creature, whichever comes first. Using
+this action again designates a new target and ends the effect for any
+previous target. A surgeon can target an individual creature no more
+than once per day with this ability.
+PLAGUE DOCTOR
+These healers, often seen wearing distinctive masks and burning powders to
+defend against airborne plagues, are as much feared as they are respected. To see
+a plague doctor signals that disease has infested the land—and that it might have
+already taken hold. Despite their devoted work in curing the untouchable, they are
+sometimes treated with suspicion, as if they are somehow the cause of the plague.
+PLAGUE DOCTOR
+CREATURE 5
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +13
+Languages Common
+Skills Intimidation +9, Medicine +13, Plague Lore +13, Religion +13
+Str +0, Dex +1, Con +4, Int +2, Wis +4, Cha +2
+Items crossbow (10 bolts), healer’s tools, minor potion of healing (4), staff, studded leather
+AC 20; Fort +13, Ref +8, Will +13
+HP 73
+Speed 25 feet
+Melee  staff +9 (two-hand d8), Damage 1d4 bludgeoning
+Ranged  crossbow +10 (range increment 120 feet, reload 1), Damage 1d8 piercing
+Divine Prepared Spells DC 23; 3rd heal (×3), neutralize poison, remove disease; 2nd
+death knell, remove fear, restoration; 1st detect poison, purify food and drink (×2);
+Cantrips (3rd) guidance, light, message, sigil, stabilize
+Cleric Domain Spells 1 Focus Point, DC 23; 3rd healer’s blessing (Core Rulebook 393)
+Healing Hands When the plague doctor casts heal, they roll d10s instead of d8s.
+Improved Communal Healing When the plague doctor casts heal targeting a
+single creature, the plague doctor also restores Hit Points equal to the spell’s
+level to themself or any other creature within range of the spell.
+AILMENTS
+Common diseases appear on page
+118. These can be treated by most
+healers, though they may have
+longer-term physiological impacts.
+For unusual conditions, like ghoul
+fever or mummy rot, you might
+impose penalties on a normal healer
+attempting to remedy them.
+SURGEON

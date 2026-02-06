@@ -1,0 +1,89 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669039
+4425196
+Bestiary
+186
+CLAY GOLEMS
+The remains of clay golems are
+worth more to archaeologists
+and scholars than to merchants.
+The magniﬁcent treasures
+often guarded by these ancient
+wardens, however, are another
+matter entirely.
+Alchemical Rupture When an alchemical golem takes physical damage from a critical hit
+or is aﬀected by a shatter spell, one glass chamber within its body shatters, spewing
+alchemical liquid in a 5-foot emanation. Roll on the alchemical chambers list (see
+above) to determine which one shatters—on a roll of 1–5, creatures in the area take
+10d6 damage of the appropriate type (DC 28 basic Reﬂex). On a roll of 6, creatures
+must instead save against the sickness eﬀect.
+Golem Antimagic harmed by sonic (5d8, 2d6 from areas or persistent damage); healed
+by acid (area 2d4 HP); slowed by cold
+Vulnerable to Shatter Casting a shatter spell on an alchemical golem aﬀects the golem
+normally, but also causes an alchemical rupture (see above).
+Speed 25 feet
+Melee Ȱɵ syringe +22 (magical, reach 10 feet), Damage 2d10+6 piercing plus
+alchemical injection
+Ranged Ȱɵ bomb +20 (magical, thrown 20 feet), Damage see Generate Bomb
+Alchemical Injection When an alchemical golem hits a creature with a syringe Strike,
+roll 1d6 on the alchemical chambers list to determine the additional eﬀect of the
+attack. The syringe deals an additional 2d6 damage of the appropriate type (or
+exposes the target to the sickness eﬀect, as appropriate).
+Generate Bomb Ȱɵ (manipulate) The golem ﬁlls an empty vial from one of its alchemical
+chambers to create a bomb and then makes a bomb Strike. Determine the type of bomb
+created by rolling 1d6 on the alchemical chambers list above. On a roll of 1–4, it creates
+the corresponding greater alchemical bomb: an acid ﬂask from chamber 1, a frost vial
+from chamber 2, bottled lightning from chamber 3, or alchemist’s ﬁre from chamber 4.
+On a roll of 5, it creates a poisonous bomb that deals 3d10 poison damage and 3 poison
+splash damage with no other eﬀects. On a roll of 6, it creates a sickness bomb, which
+exposes the target and all creatures in the splash radius to the sickness eﬀect; creatures
+hit by only the splash receive a +2 circumstance bonus to their Fortitude saves.
+Clay Golem
+Traditionally, clay golems are crafted in the image of a deity and used as
+guardians of tombs or sacred crypts. Clay golems have the power to lay curses
+upon their victims as punishment for intrusion, leading many to believe that
+these oft-ancient constructs have a touch of the divine to them. While
+this idea has little basis in reality, superstitious folk still tread lightly
+around statues that resemble clay golems even in the slightest.
+The animating force within a clay golem is unusually unstable,
+making the golem prone to entering a berserk frenzy when
+damaged. Entire treasuries have been totally ruined as a result of a
+rampaging clay golem, so crafters do well to make sure their golems
+are maintained and in good working order—or otherwise place them on the other
+side of the door from the treasures they wish to protect.
+CLAY GOLEM
+CREATURE 10
+UNCOMMON
+N
+LARGE
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +16; darkvision
+Skills Athletics +24
+Str +6, Dex –1, Con +6, Int –5, Wis +0, Cha –5
+AC 29; Fort +23, Ref +16, Will +17
+HP 175; Immunities acid, bleed, death eﬀects, disease, doomed, drained, fatigued,
+healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison,
+sickened, unconscious; Resistances physical 10 (except adamantine)
+Berserk A severely damaged clay golem has a chance of going berserk. If it has 50 or
+fewer Hit Points at the start of its turn, the golem must succeed at a DC 5 ﬂat check
+or go berserk. A berserk golem wildly attacks the nearest living creature, or
+the nearest object if no creatures are nearby.
+Golem Antimagic harmed by cold and water (5d10, 2d6 from areas or
+persistent damage); healed by acid (area 2d6 HP); slowed by earth
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669039
+4425196

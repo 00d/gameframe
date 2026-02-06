@@ -1,0 +1,86 @@
+INNKEEPER
+The sight of an inn is a welcome one to any weary traveler. Innkeepers can often
+be found cleaning the common room, overseeing the evening meal, or settling
+in new lodgers. Innkeepers keep an eye on their neighbors’ doings and are often
+excellent sources of information.
+INNKEEPER
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +7
+Languages Common
+Skills Accounting Lore +5, Cooking Lore +5, Deception +6, Diplomacy +8, Society +7
+Str +2, Dex +0, Con +1, Int +2, Wis +2, Cha +3
+Items broom (functions as staff), innkeeper’s apron (functions as leather armor), ledger
+Font of Gossip The inkeeper’s business gives them insight into the neighborhood’s
+happenings. When Gathering Information, a person can gain as much information
+chatting with the innkeeper for 30 minutes to an hour as they would gain from
+2 hours spent canvassing the neighborhood. Each person can learn gossip from
+an innkeeper only once per day, and only if the innkeeper is friendly or helpful
+to that individual. Whatever information the innkeeper knows about a given topic
+doesn’t change if someone else asks the innkeeper about that topic, unless the
+innkeeper has since learned more.
+AC 14; Fort +6, Ref +3, Will +9
+HP 20
+Speed 25 feet
+Melee  broom +7 (two‑hand d8), Damage 1d4+2 bludgeoning
+Melee  fist +7 (agile, nonlethal), Damage 1d4+2 bludgeoning
+Ranged  ledger +5 (nonlethal, thrown 10 feet), Damage 1d4+2 bludgeoning
+Home Turf An innkeeper gains a +2 circumstance bonus to attack rolls,
+damage rolls, and AC within their inn.
+DRUNKARD
+Every tavern has one—that person who drinks a little too much and
+starts a fight. While many drunkards are relatively harmless, a few have
+a hair trigger, and when they’re set off come, no one—even the drunkard
+themself—can tell you what started the row.
+DRUNKARD
+CREATURE 2
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Alcohol Lore +3, Athletics +7, Intimidation +8
+Str +3, Dex +2, Con +4, Int –1, Wis +0, Cha +2
+Items drunkard’s outfit (functions as padded armor), pewter mug
+AC 17; Fort +10, Ref +8, Will +6
+HP 40
+Speed 25 feet
+Melee  fist +9 (agile, nonlethal); Damage 1d6+3 bludgeoning
+Ranged  pewter mug +8 (thrown 10 feet); Damage 1d4+3 bludgeoning
+Drunken Rage  (concentrate, emotion, mental) Requirements The drunkard is drunk,
+and isn’t fatigued or raging; Effect Something sets the drunkard off, causing them to
+fly into a drunken rage. They gain 6 temporary Hit Points that last until the drunken
+rage ends. While raging, they deal 4 additional damage with melee attacks and take
+a –1 penalty to AC. The drunkard can’t use concentrate actions except Seek
+and rage actions. The rage lasts for 1 minute or until the drunkard falls
+unconscious or sobers up. The drunkard can’t voluntarily stop the Drunken
+Rage. Once the rage ends, the drunkard can’t Rage again for 1 minute.
+5
+NPC Gallery
+239
+239
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+BAR FIGHT!
+Bar fights work better without a
+grid. Use the stat blocks here or in
+the Downtrodden section for notable
+participants, everyone else attacking
+nonlethally with fists or improvised
+weapons. Roll one or two attacks at
+the end of each round against each
+PC in the fight (+4 attack modifier,
+1d4+2 bludgeoning damage). Alcohol
+rules can be found on page 120.
+DRUNKARD

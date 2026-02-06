@@ -12,14 +12,14 @@ II•
 ••
 • ••
 
-================================================================================
 PAGE 2
 ================================================================================
 
 advanced
+advanced
+Player’s Guide
 Player’s Guide
 
-================================================================================
 PAGE 3
 ================================================================================
 
@@ -29,22 +29,23 @@ Redmond, WA 98052-0577
 paizo.com
 Table of Contents
 Introduction
+4
 AUTHORS
 Logan Bonner, Lyz Liddell, and Mark Seifter
 ADDITIONAL WRITING
-Amirali Attar Olyaee, Alexander Augunas,
-Kate Baker, Brian Bauman, Carlos Cabrera,
-James Case, Jessica Catalan, John Compton,
-Paris Crenshaw, Jesse Decker,
-Fabby Garza Marroquín, Steven Hammond,
-Sasha Laranoa Harving, Joan Hong,
-Nicolas Hornyak, Vanessa Hoskins, James Jacobs,
-Erik Keith, Luis Loza, Ron Lundeen,
-Patchen Mortimer, Dennis Muldoon,
-Stephen Radney-MacFarland, Jessica Redekop,
-Mikhail Rekun, Alex Riggs, David N. Ross,
-Michael Sayre, Kendra Leigh Speedling,
-Jason Tondro, Clark Valentine, and Andrew White
+Amirali Attar Olyaee, Alexander Augunas,
+Kate Baker, Brian Bauman, Carlos Cabrera,
+James Case, Jessica Catalan, John Compton,
+Paris Crenshaw, Jesse Decker,
+Fabby Garza Marroquín, Steven Hammond,
+Sasha Laranoa Harving, Joan Hong,
+Nicolas Hornyak, Vanessa Hoskins, James Jacobs,
+Erik Keith, Luis Loza, Ron Lundeen,
+Patchen Mortimer, Dennis Muldoon,
+Stephen Radney-MacFarland, Jessica Redekop,
+Mikhail Rekun, Alex Riggs, David N. Ross,
+Michael Sayre, Kendra Leigh Speedling,
+Jason Tondro, Clark Valentine, and Andrew White
 DESIGN LEAD
 Mark Seifter
 DESIGNERS
@@ -53,20 +54,20 @@ EDITING LEADS
 James Case and Leo Glass
 EDITORS
 Judy Bauer, Leo Glass, Patrick Hurley, Avi Kool,
-Kieran Newton, Lu Pellazar, and Josh Vogt
+Kieran Newton, Lu Pellazar, and Josh Vogt
 COVER ARTIST
 Wayne Reynolds
 INTERIOR ARTISTS
 Hazem Ameen, Marius Bota, Dominik Derow,
 Pedro Krüger Garcia, Alexander Gorbunov,
-Igor Grechanyi, Gunship Revolution (Oliver Morit,
-Marcus Reyno, Jen Santos), Jorge Jacinto,
+Igor Grechanyi, Gunship Revolution (Oliver Morit,
+Marcus Reyno, Jen Santos), Jorge Jacinto,
 Raf Kayupov, Ksenia Kozhevnikova,
-Valeriya Lutfullina, Víctor Manuel Leza Moreno,
+Valeriya Lutfullina, Víctor Manuel Leza Moreno,
 Stefano Moroni, Riccardo Moscatello,
-Vladislav Orlowski, Nikolai Ostertag,
-Mirco Paganessi, Wayne Reynolds,
-Kiki Moch Rizky, Henrik Rosenborg, Alex Stone,
+Vladislav Orlowski, Nikolai Ostertag,
+Mirco Paganessi, Wayne Reynolds,
+Kiki Moch Rizky, Henrik Rosenborg, Alex Stone,
 and Warmics Mario Vazquez
 ART DIRECTION AND GRAPHIC DESIGN
 Emily Crowell, Kent Hamilton, Sonja Morris, and
@@ -81,107 +82,198 @@ PUBLISHER
 Erik Mona
 1 Ancestries & Backgrounds 6
 Dwarf
+42
 Elf
+43
 Gnome
+44
 Goblin
+45
 Halfling
+46
 Human
+47
 Common Backgrounds
+48
 Rare Backgrounds
+50
 Catfolk
+8
 Kobold
+12
 Orc
+16
 Ratfolk
+20
 Tengu
+24
 Versatile Heritages
+28
 Changeling
+30
 Dhampir
+32
 Planar Scions
+34
 Investigator
+54
 Oracle
+66
 Swashbuckler
+82
 Witch
+94
 Alchemist
+106
 Barbarian
+108
 Bard
+112
 Champion
+116
 Cleric
+122
 Druid
+124
 Fighter
+126
 Monk
+128
 Ranger
+132
 Rogue
+134
 Sorcerer
+138
 Wizard
+142
 Animal Companions
+144
 Familiars
+146
 2 Classes
+52
 Herbalist
+176
 Horizon Walker
+177
 Linguist
+178
 Loremaster
+179
 Marshal
+180
 Martial Artist
+182
 Mauler
+183
 Medic
+184
 Pirate
+185
 Poisoner
+186
 Ritualist
+187
 Scout
+188
 Scroll Trickster
+189
 Scrounger
+190
 Sentinel
+191
 Shadowdancer
+192
 Snarecrafter
+194
 Talisman Dabbler
+195
 Vigilante
+196
 Viking
+198
 Weapon Improviser
+199
 Investigator
+151
 Oracle
+152
 Swashbuckler
+153
 Witch
+154
 Acrobat
+155
 Archaeologist
+156
 Archer
+157
 Assassin
+158
 Bastion
+159
 Beastmaster
+160
 Blessed One
+162
 Bounty Hunter
+163
 Cavalier
+164
 Celebrity
+166
 Dandy
+167
 Dragon Disciple
+168
 Dual-Weapon Warrior
+170
 Duelist
+171
 Eldritch Archer
+172
 Familiar Master
+174
 Gladiator
+175
 3 Archetypes
+148
 
-================================================================================
 PAGE 4
 ================================================================================
 
 Advanced Player’s Guide
 4 Feats
+200
 Feat Tables
+201
 General and Skill Feats
+202
 5 Spells
+210
 Spell Lists
+212
 Spell Descriptions
+214
 Focus Spells
+228
 Rituals
+240
 Weapons and Adventuring Gear 248
 Treasure Table
+250
 Alchemical Items
+252
 Snares
+256
 Magical Items
+256
 6 Items
+246
 Glossary & Index
+266
 
-================================================================================
 PAGE 5
 ================================================================================
 
@@ -227,8 +319,8 @@ a specific rules option and grant them access even if the
 character doesn’t automatically qualify, or they may
 decide that same option can’t be taken by anyone at all.
 Advanced Player's Guide
+4
 
-================================================================================
 PAGE 6
 ================================================================================
 
@@ -307,15 +399,26 @@ Dexterity, Constitution
 Strength, Charisma
 Dexterity, Wisdom
 * A character receives an ability boost to their class’s key ability score.
+Introduction
+1
+5
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
 & index
 
-================================================================================
 PAGE 7
 ================================================================================
 
 Advanced Player's Guide
+6
 
-================================================================================
 PAGE 8
 ================================================================================
 
@@ -359,3 +462,64 @@ life, from bandits to teachers. This section also includes a set of special rare
 backgrounds that you and your GM might agree to use in a campaign.
 • Common Backgrounds (page 48)
 • Rare Backgrounds (page 50)
+CHAPTER 1:
+ANCESTRIES & BACKGROUNDS
+Your character’s ancestry and background tell the story of who you were before you
+became an adventurer, as well as who you might strive to become one day. But not
+everyone fits neatly into the most common ancestries or backgrounds. You might be a
+birdlike tengu, a scaled kobold, or a curious catfolk, with a one-of-a-kind background in
+your story. Perhaps your ancestry has mixed with the blood of angels or demons. Only
+you can decide!
+UNCOMMON ANCESTRIES
+AND HERITAGES
+Each new ancestry in this book is
+uncommon. Though uncommon
+elements of the game are usually
+acquired during play, you choose your
+ancestry and heritage at the beginning
+of the game. This means you should
+talk to your group and GM about
+which uncommon ancestries and
+heritages make sense for the story.
+In the piratical Shackles, tengus are a
+regular sight. But they’re even more
+common in the eastern continent of
+Tian Xia, where halflings and dwarves
+are uncommon! Even if your chosen
+ancestry isn’t particularly common
+in the area where the story takes
+place, most times you can work
+with your GM and the other players
+to find a great way to incorporate
+that character into the narrative.
+For these options, the uncommon
+trait just means you should take
+that extra step to talk about it first.
+In a Pathfinder Adventure Path, the
+accompanying player’s guide might
+include information about additional
+uncommon options that make sense
+for that story and its region and grant
+you automatic access to play them
+during those adventures.
+RARE AND UNIQUE BACKGROUNDS
+Some backgrounds have enough story
+weight that you need to work with
+the rest of your group to determine if
+they’re right for a particular story, like
+being heir to a throne. You can find
+more information about these special
+backgrounds on page 50.
+Ancestries & Backgrounds
+1
+7
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& index

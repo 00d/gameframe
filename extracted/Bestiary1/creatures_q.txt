@@ -71,6 +71,27 @@ Quasit Venom (poison) Saving Throw DC 17 Fortitude; Maximum Duration 6 rounds; S
 PAGE 78
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668930
+4425087
+D
+77
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 THE NATURE OF CHAOS
 Some say that the nature of chaos
 inherently precludes cooperation
@@ -91,135 +112,85 @@ persuasion fails. While mortals often ﬁxate on succubi’s application of sexu
 lust, these demons are can easily exploit lust for power, knowledge, fame, or
 any other desire as easily as more carnal appetites. Their ability to inﬁltrate
 societies makes them excellent spies, assassins, and political saboteurs as
-well. Ultimately, the succubus enjoys all means of upending mortal culture.
-
-================================================================================
-# QUATOID
-================================================================================
-
-
-MONSTROUS ELEMENTALS
-Some elementals are more than
-living incarnations of air, earth,
-ﬁre, or water. Creatures like the
-genie (pages 162–165), the uthul
-(page 317), or the zaramuun (page
-339) have their own complex
-ecologies and societies. While
-these creatures originally hail
-from an Elemental Plane, they can
-often be found on the Material
-Plane as well.
-QUATOID
+well. Ultimately, the succubus enjoys all means of upending mortal culture.
+SUCCUBUS
 CREATURE 7
-LN
-SMALL
-AQUATIC
-ELEMENTAL
-WATER
-Perception +18; darkvision
-Languages Aquan, Common
-Skills Athletics +15, Diplomacy +12, Elemental Lore +17, Occultism +17, Society +17,
-Stealth +13
-Str +4, Dex +2, Con +0, Int +4, Wis +3, Cha +1
-AC 25; Fort +13, Ref +15, Will +18
-HP 120; Immunities bleed, paralyzed, poison, sleep; Resistances bludgeoning 5, ﬁre 5
-Calming Bioluminescence (aura, emotion, mental, visual) 30 feet. The aura sheds dim light.
-Creatures in the emanation gain a +2 circumstance bonus to saving throws against
-emotion eﬀects. The quatoid can activate or deactivate its calming bioluminescence as a
-single action, which has the concentrate trait.
-Speed 25 feet, swim 25 feet
-Melee Ȱɵ tentacle +16 (reach 10 feet), Damage 2d12+6 bludgeoning plus Grab
-Primal Innate Spells DC 27, attack +17; 2nd hydraulic push (at will)
-Constrict Ȱɵ 1d12+6 bludgeoning, DC 25
-Tidal Master
-Tidal masters use their power over waves and water to drown their enemies.
+CE
+MEDIUM
+DEMON
+FIEND
+Perception +15; darkvision
+Languages Abyssal, Celestial, Common, Draconic, three additional mortal
+languages; telepathy 100 feet, tongues
+Skills Acrobatics +14, Deception +18, Diplomacy +20,
+Intimidate +16, Religion +13, Society +15, Stealth +14
+Str +2, Dex +3, Con +4, Int +4, Wis +2, Cha +7
+AC 23; Fort +15, Ref +14, Will +17; +1 status to all saves vs. magic
+HP 100; Weaknesses cold iron 5, good 5
+Rejection Vulnerability As succubi are beings of pure lust, creatures
+that reject their lust can metaphysically harm them. When a
+succubus fails a Diplomacy check to Embrace or Request, or when
+a creature succeeds at its save against a succubus’s mental spell
+or ability, the succubus takes 2d6 mental damage. For one hour
+after causing mental damage to a succubus in this way, a creature
+can deal 2d6 mental damage to the succubus with a successful
+Demoralize incorporating its rejection.
+Seductive Presence (aura, charm, emotion, mental) 10 feet. Any
+creature in the aura that could be sexually attracted to a succubus
+takes a –2 circumstance penalty to checks and DCs to oppose the
+succubus’s mental spells, Deception, and Diplomacy.
+Speed 25 feet, ﬂy 35 feet
+Melee Ȱɵ claw +16 (agile, evil, ﬁnesse, magical), Damage 2d8+8 slashing plus
+1d6 evil
+Divine Innate Spells DC 26; 6th dominate; 5th dimension door; 4th
+dimension door (at will), suggestion (at will); 3rd mind reading (at will);
+2nd detect alignment (at will); 1st charm (at will) Constant (5th) tongues
+Divine Rituals DC 26; Abyssal pact
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation) The
+succubus can take on the appearance of any Small or Medium humanoid. This doesn’t
+change their Speed or their attack and damage modiﬁers with their Strikes, but it
+might change the damage type their Strikes deal (typically to bludgeoning).
+Embrace Ȱɵ (attack) The succubus attempts to Grapple a creature using their Diplomacy
+bonus instead of Athletics. If the creature is willing, the succubus grapples it automatically.
+Passionate Kiss Ȱɵ (divine, emotion, enchantment, mental) Frequency Once per round.
+Eﬀect The succubus engages a creature they have grabbed in an embrace or other
+act of passion to drain its vital essence. The kiss makes the creature drained 1 or
+increases its drained condition by 1, to a maximum of 4. The creature takes 3d6
+negative damage and the succubus regains Hit Points equal to the damage dealt.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668930
+4425087
 
-================================================================================
-# QUETZALCOATLUS
-================================================================================
-
-Swoop ʚʖ The pteranodon Flies up to its Speed and makes one beak Strike
-at any point during that movement.
-Quetzalcoatlus
-Quetzalcoatlus are the largest ﬂying members of the
-pterosaur family and are often mistaken for dragons due
-to their immense size and 40-foot wingspans.
-Quetzalcoatlus are carnivorous, feeding on a variety
-of reptiles, mammals, large ﬁsh, amphibians, and other
-invertebrates. They are not inherently aggressive
-creatures and are happy to scavenge for food, but
-when presented with live prey they readily attack
-almost any creature smaller than themselves.
-QUETZALCOATLUS
-CREATURE 7
-N
-HUGE
-ANIMAL
-Perception
-+15;
-low-light
-vision,
-scent
-(imprecise) 30 feet
-Skills Acrobatics +14, Athletics +17
-Str +6, Dex +4, Con +3, Int –4, Wis +2, Cha –1
-AC 25; Fort +16, Ref +17, Will +12
-HP 110
-Speed 15 feet, ﬂy 50 feet
-Melee Ȱɵ beak +17 (deadly 1d10, reach 10
-feet), Damage 2d10+10 piercing plus 1d8
-persistent bleed
-Melee Ȱɵ talon +17, Damage 2d8+10
-piercing plus Grab
-Snatch A quetzalcoatlus can move at half
-Speed while it has a single creature grabbed
-or restrained. Both its talons are occupied
-while it does this.
-Swoop ʚʖ The quetzacoaltus
-Flies up to its Speed and
-makes one beak or talon
-Strike at any point during that movement.
-
-================================================================================
 PAGE 274
 ================================================================================
 
-OTHER QUELAUNTS
-Perhaps the most frightening tales
-of quelaunts attribute them with
-abilities beyond those detailed
-here, suggesting that quelaunts
-might be an entire category
-of alien menace that has only
-recently turned its awful attention
-to humanity.
-Quelaunt
-This three-armed, three-legged monster has no discernible eyes, nose, ears, or mouth
-or no visible means of ingesting food. Its limbs are distributed so evenly across its
-body that it is all but impossible to tell which way the creature is oriented at any
-given time. Few who witness the quelaunt linger on its alien looks for long though,
-as the most pressing concern quickly becomes the invasion of their minds, as the
-quelaunt sows doubt, sorrow, and rage. This monstrosity not only delights in the
-negative emotions of its prey, but feeds on them, gaining strength and sustenance
-from their dismay. For the quelaunt, no act is too terrible or cruel to inﬂict on its
-victims, since the more a creature suffers, the more the quelaunt feasts.
-Quelaunts are known to associate with other aberrant horrors, including brain
-collectors and other creatures associated with the Dominion of the Black. However,
-the more prevalent theory paints them as more alien—perhaps invasive beings from
-another dimension of pure thought and feeling—and claims that in their natural
-state they have no physical bodies at all. Few dare speculate further; the only known
-autopsy of a quelaunt resulted in the researcher’s suicide just days afterward and all
-the notes were mysteriously destroyed. Whatever secrets
-there are to be unlocked in the anatomy of these bizarre
-monsters are apparently important enough to warrant
-great protection from quelaunts, even after death.
-
-================================================================================
-# QUELAUNT
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669126
+4425283
+O-R
+273
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 OTHER QUELAUNTS
 Perhaps the most frightening tales
 of quelaunts attribute them with
@@ -288,12 +259,30 @@ focus spells. Eﬀect As the quelaunt invades the triggering creature's mind and
 the seeds of negative emotions, it also strips away the target’s feelings of hope or
 positivity. The quelaunt can immediately end a single emotion eﬀect
 from which the triggering creature is beneﬁting.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669126
+4425283
 
-================================================================================
 PAGE 275
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669127
+4425284
 Bestiary
+274
 RAKSHASA IMMORTALS
 Above all rakshasas rule the
 rakshasa immortals, powerful
@@ -334,3 +323,45 @@ loyal to anyone willing to provide frequent meals, but care must be taken in
 keeping a dandasuka, for many stories tell of them being overly eager to serve
 an adored benefactor, taking off-hand remarks too literally, and
 performing services of violence that were never intended.
+DANDASUKA
+CREATURE 5
+LE
+SMALL
+FIEND
+RAKSHASA
+Perception +12; darkvision
+Languages Common, Infernal, Undercommon
+Skills Acrobatics +13, Deception +14, Stealth +13,
+Thievery +13
+Str +1, Dex +4, Con +3, Int +1, Wis +1, Cha +3
+AC 23; Fort +12, Ref +13, Will +10; +2 status to all saves vs. magic,
++3 status to all saves vs. divine magic
+HP 60; Weaknesses good 5; Resistances physical 5 (except
+piercing)
+Speed 25 feet, climb 20 feet
+Melee Ȱɵ fangs +15 (ﬁnesse, magical), Damage 2d6+4
+piercing plus 1d6 persistent bleed
+Melee Ȱɵ claw +15 (agile, ﬁnesse, magical), Damage
+2d4+4 slashing
+Occult Spontaneous Spells DC 22, attack +15; 1st
+(4  slots) charm, ventriloquism; Cantrips (1st) daze,
+detect magic, ghost sound, mage hand, sigil
+Occult Innate Spells DC 19; 4th clairvoyance; 3rd
+clairaudience, mind reading (at will)
+Change Shape Ȱɵ (concentrate, occult, polymorph, transmutation) The
+dandasuka takes on the appearance of any Small humanoid. This doesn’t
+change the dandasuka’s Speed or its attack and damage modiﬁers with
+its Strikes, but it might change the damage type its Strikes deal
+(typically to bludgeoning). It typically loses its fangs Strike unless
+the humanoid form has fangs or a similar unarmed attack.
+Sneak Attack The dandasuka deals an extra 1d6 precision
+damage to ﬂat-footed creatures.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669127
+4425284

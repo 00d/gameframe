@@ -1,0 +1,124 @@
+Held Items
+These items need to be held to use them. Weapons, wands,
+and staves follow special rules and have their own sections.
+BAG OF HOLDING
+ITEM 4+
+CONJURATION
+ EXTRADIMENSIONAL
+ MAGICAL
+Usage held in 2 hands; Bulk 1
+Though it appears to be a cloth sack decorated with panels
+of richly colored silk or stylish embroidery, a bag of holding
+opens into an extradimensional space larger than its outside
+dimensions. The Bulk held inside the bag doesn’t change the
+Bulk of the bag of holding itself. The amount of Bulk the bag’s
+extradimensional space can hold depends on its type.
+You can Interact with the bag of holding to put items in or
+remove them just like a mundane sack. Though the bag can
+hold a great amount of material, an object still needs to be able
+to fit through the opening of the sack to be stored inside.
+If the bag is overloaded or broken, it ruptures and is
+ruined, causing the items inside to be lost forever. If it’s
+turned inside out, the items inside spill out unharmed,
+but the bag must be put right before
+it can be used again. A living creature
+placed inside the bag has enough air for
+10 minutes before it begins to suffocate,
+and it can attempt to Escape against a DC of 13. An
+item inside the bag provides no benefits unless it’s
+retrieved first. An item in the bag can’t be detected
+by magic that detects only things on the same plane.
+Type I; Level 4; Price 75 gp; Capacity 25 Bulk
+Type II; Level 7; Price 300 gp; Capacity 50 Bulk
+Type III; Level 11; Price 1,200 gp; Capacity 100 Bulk
+Type IV; Level 13; Price 2,400 gp; Capacity 150 Bulk
+BOTTLED AIR
+ITEM 7
+AIR
+ CONJURATION
+ MAGICAL
+Price 320 gp
+Usage held in 1 hand; Bulk L
+Appearing to be an ordinary corked glass
+bottle, this item contains a limitless supply of
+fresh air. You must uncork the bottle with an
+Interact action before you can activate it.
+Activate [one-action] Interact; Effect You draw a
+breath of air from the bottle. This allows you to
+breathe even in an airless or toxic environment. Air doesn’t
+escape the mouth of the bottle, so leaving the open bottle in
+an airless environment doesn’t change the environment.
+BROOM OF FLYING
+ITEM 12
+MAGICAL
+ TRANSMUTATION
+Price 1,900 gp
+Usage held in 1 hand; Bulk 1
+This broom has a tenuous connection to gravity, and it tends to
+drift even while stowed. You can ride on the broom using one
+hand to guide it, and the broom can carry up to one passenger
+in addition to you. The broom moves at a fly Speed of 20 feet.
+The broom can carry only so much, taking a –10‑foot penalty
+to its Speed if laden with more than 20 Bulk, and crashing to
+the ground if it carries more than 30 Bulk.
+Activate [two-actions] command, Interact; Effect You name
+a destination on the same plane, and the broom
+speeds toward it at a fly Speed of 40 feet. You must
+either clutch the broom with two hands in order to
+ride it, or you need to release the broom to send it
+off with no rider. If you don’t have a good idea of the
+location, layout, and general direction of the destination,
+or if your named destination is on another plane, the
+broom wanders aimlessly, circling back to its starting
+location after 30 minutes.
+If the broom carries a rider, this activation lasts until
+4 hours pass (typically 16 miles of travel), the broom
+reaches its destination, or you Dismiss the activation.
+If the broom doesn’t have a rider, the activation lasts
+until the broom reaches its destination. When the
+activation ends, the broom floats to the ground and
+can’t be activated again for 1 hour.
+CHIME OF OPENING
+ITEM 6
+UNCOMMON
+ EVOCATION
+ MAGICAL
+Price 235 gp
+Usage held in 2 hands; Bulk L
+This hollow mithral tube is about a foot long and bears
+engravings reminiscent of open locks and broken chains.
+The chime can be activated 10 times before it cracks and
+becomes useless.
+Activate [one-action] Interact; Effect You aim the chime at a
+container, door, or lock you want to open and strike the
+chime. The chime sends out magical vibrations that
+attempt a Thievery check against the lock’s DC, with
+a Thievery bonus of +13. This targets only one lock
+or binding at a time, so you might need to activate
+the chime multiple times to open a target with
+several forms of protection.
+CRYSTAL BALL
+ITEM 14+
+UNCOMMON
+ DIVINATION
+ MAGICAL
+ SCRYING
+Usage held in 1 hand; Bulk L
+This polished crystal sphere enhances scrying magic. Any
+visual information received through a spell with the scrying
+trait that was cast by the crystal ball appears within the
+sphere, and any auditory information sounds out from the
+surface of the sphere. When you cast a scrying spell by any
+other means while holding the sphere, you can relay any
+information you receive in the same way, allowing others to
+see or hear the target.
+The base version of a crystal ball is a sphere of clear quartz,
+but other versions are made of different stones.
+Activate 1 minute (command, envision, Interact); Frequency
+once per hour; Effect The crystal ball casts clairvoyance to
+your specifications.
+Activate 10 minutes (command, envision, Interact);
+Frequency twice per day; Effect The crystal ball casts a DC 33
+scrying spell to your specifications.
+Core Rulebook
+572

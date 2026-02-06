@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# ZELEKHUT
+# ZELEKHUT
 ================================================================================
 
 
@@ -29,7 +29,7 @@ corrupt ruler whose offenses are far greater. All zelekhuts understand
 that laws can and must differ from place to place, and it is not the
 zelekhut’s job to moralize, merely to obey its rightful assignments
 and track down those who seek to ﬂee their punishment.
-ZELEKHUT
+ZELEKHUT
 CREATURE 9
 LN
 LARGE
@@ -89,7 +89,20 @@ underlying unity of all things.
 PAGE 11
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868508
+4425020
 Bestiary 2
+1010
 MARUT
 A marut is tasked with hunting mortals who cheat death by artiﬁcially extending
 their lifespans. This includes those who seek undeath, such as liches and
@@ -97,98 +110,109 @@ vampires, but also includes those who use powerful magic to cling to their youth
 use divination to discover and avoid an appointed death, or call too often on
 the power of resurrection. Once the marut has selected its target, the inevitable
 pursues its quarry without surcease or deviation until either it or the target
-is dead.
+is dead.
 Maruts seem to be carved from stone and clad in golden armor, yet they move
 with the deliberate grace of a creature made of ﬂesh and bone. A marut never
 rushes, but its thunderous footfalls are relentless as it pursues its target. Though
 able to speak any language, the marut is taciturn even among inevitables.
+MARUT
+CREATURE 15
+LN
+LARGE
+AEON
+INEVITABLE
+MONITOR
+Perception +26; darkvision, true seeing
+Languages Celestial, Infernal, Utopian; truespeech
+Skills Athletics +31, Axis Lore +22, Diplomacy +27, Intimidation +29, Religion +26,
+Survival +28
+Str +8, Dex +4, Con +6, Int +1, Wis +5, Cha +6
+Truespeech As zelekhut.
+AC 37; Fort +27, Ref +25, Will +26; +2 status to all saves vs. magic
+HP 230, regeneration 15 (deactivated by chaotic); Immunities death eﬀects, disease,
+emotion, poison, unconscious; Weaknesses chaotic 15
+Attack of Opportunity Ǻȓ
+Speed 25 feet; air walk
+Melee Ȱɵ ﬁst +30 (lawful, magical, reach 10 feet), Damage 3d8+11 bludgeoning plus
+1d6 lawful and ﬁsts of thunder and lightning
+Divine Innate Spells DC 37; 8th chain lightning, dispel magic, earthquake,
+harm; 7th fear, plane shift, wall of force; 5th command, locate; 4th
+dimension door (at will); Constant (8th) air walk, true seeing
+Rituals DC 36; geas
+Final End The marut is anathema to beings that unnaturally
+extend their existence, including undead. Its ﬁsts bypass such
+creatures’ resistances to damage and apply the creatures’ highest weakness to
+damage. If a marut kills a creature that rejuvenates, like a lich or ghost, it always
+knows that the creature isn’t fully defeated.
+Fists of Thunder and Lightning (divine, evocation, incapacitation) Each time the
+marut makes a ﬁst Strike, it chooses either lightning or thunder. If it chooses
+lightning, the attack deals an additional 2d12 electricity damage and the
+target must succeed at a DC 33 Fortitude save or be blinded for 1 minute. If it
+chooses thunder, the attack deals an additional 3d8 sonic damage and the target
+must succeed at a DC 36 Fortitude save or be deafened for 1 minute.
+BYTHOS
+The bythos is a guardian of space and time, and at all times seeks out
+those who misuse planar and temporal magic. A bythos is a roughly
+humanoid creature with four arms and a body made of swirling clouds
+and mist. Despite its appearance, its body feels like dry stone. A bythos
+seeks out paradoxes caused by irresponsible planar or dimensional
+travelers and repairs breaches where the barriers between planes have
+become thin or damaged. If the mortals responsible remain in the area
+and cannot be convinced to cease their activities, the bythos has no
+qualms about removing them. Using its ability to manipulate time, a
+bythos might cause an opponent to quickly die of old age as time
+speeds up around them, or cause a target to disappear from
+time and space.
+PSYCHOPOMP ALLIES
+The mandate of marut inevitables
+is similar to that of psychopomps.
+Generally, the practical psychopomps
+are content to let an unyielding
+marut complete its mission and
+swoop in afterward to ensure the
+work has been done, but occasionally,
+they may work together.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868508
+4425020
 
-================================================================================
-# ZEBUB
-================================================================================
-
-
-Bestiary 2
-THE HIERARCHY OF HELL
-Hell is a harsh plane of law with little
-use for compassion or empathy. As
-such, it exists entirely within a strict
-hierarchy, and this order extends to
-its denizens. While diﬀerent types of
-demons correspond to various sins
-and daemons are associated with
-modes of mortal death, the diﬀerent
-types of devils exist solely to fulﬁll
-particular roles in the infernal
-machine. On occasion, a particular
-devil can transcend the role for
-which they were literally shaped,
-but this often transforms the devil
-physically into the type suitable for
-their new role.
-Devil
-Each type of devil plays a particular role in Hell’s bureaucracies and hierarchies,
-though some have far more specialized functions than others.
-ZEBUB (ACCUSER DEVIL)
-Zebubs serve as Hell’s messengers and spies. Their ability to share what they’ve seen
-with other creatures makes them especially useful—not only to other devils, but also
-to mortal conjurers. Some infernal lords unleash them in enormous, horrid swarms
-upon unsuspecting lands to debase ﬂesh and land alike while collecting secrets the
-infernal host might later put to use. Zebubs use any opportunity to manipulate
-weak-willed or easily tempted mortals into serving the zebubs’ whims. While
-arrogant and deceitful, zebubs lack the cunning and conﬁdence of most devils, and
-thus their schemes often focus on satisfying self-serving or self-destructive ambitions.
-Zebubs form from the souls of childish and craven mortals, reshaped by the archdevil
-Baalzebul in the frozen, ﬁlthy wastes of Hell’s seventh layer, Cocytus.
-ZEBUB
-CREATURE 3
-LE
-SMALL
-DEVIL
-FIEND
-Perception +12; greater darkvision
-Languages Celestial, Draconic, Infernal; telepathy 100 feet
-Skills Acrobatics +10, Arcana +7, Deception +8, Religion +9, Stealth +10
-Str +1, Dex +4, Con +1, Int +0, Wis +3, Cha +1
-AC 20: Fort +8, Ref +10, Will +8; +1 status to all saves vs. magic
-HP 30; Immunities ﬁre; Weaknesses good 5; Resistances physical 5 (except
-silver), poison 5
-Speed 15 feet, ﬂy 50 feet
-Melee Ȱɵ mandibles +12 (evil, ﬁnesse, magical), Damage 1d10+3 piercing plus 1d6
-evil and Cocytan ﬁlth
-Divine Innate Spells DC 17; 5th dimension door; 4th dimension door (at will); 2nd invisibility
-(at will, self only), summon animal (swarm creatures only); Cantrips (2nd) message
-Rituals DC 17; infernal pact
-Cocytan Filth (disease, virulent) Saving Throw DC 18 Fortitude; Onset 1d4 days;
-Stage 1 enfeebled 1 (1 day); Stage 2 enfeebled 2 (1 day); Stage 3 enfeebled 3 (1 day)
-Infernal Eye ̂ˬ (divine, divination) The zebub records everything they see,
-and though they don’t remember all observations, they can pass them along
-to another creature. The zebub replays 10 minutes of witnessed
-events to a touched willing creature, which receives the memories
-in a ﬂash of information. By remaining in contact, the zebub can
-spend additional 3-action activities to replay more information. After relaying
-their visions to another, the zebub can’t ever recall those events again.
-Sneak Attack The zebub’s Strikes deal an additional 1d6 precision damage to
-ﬂat-footed creatures.
-SARGLAGON (DROWNING DEVIL)
-Sarglagons dwell in Hell’s myriad waterways, lakes, and oceans. They serve
-as guardians of the Academy of Lies—the repository of secrets in Stygia, the
-ﬁfth layer of Hell. Sarglagons breathe water and air with equal ease, and
-can move through water, land, and even air with uncanny swiftness.
-Few ﬁends travel the waterways of the multiverse, but where a river
-crosses the planes, odds are sarglagons have traveled it to further their
-infernal machinations. The only body of water they avoid is the River Styx, as the
-ﬁends have yet to develop any defense against that waterway’s memory-sapping
-qualities. Mortal spellcasters sometimes bind sarglagons as guardians of precious
-secrets or treasures, particularly in aquatic areas. Most strangely, sarglagons
-sometimes act as unnerving caretakers to mortals who have no idea what
-they did to earn their unwanted protectors’ attention. The constant uninvited
-vigilance of these devils is often disturbing and stiﬂing to their wards.
-
-================================================================================
 PAGE 74
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868571
+4425083
+D
+73
+73
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 HELLFIRE
 Stinking, sulfurous hellﬁre is infused
 with evil. Hellﬁre always deals a
@@ -198,89 +222,98 @@ depends on the hellﬁre’s origin. Certain
 types of hellﬁre can impose other
 eﬀects on creatures as well, such as
 sapping their strength or memories.
+SARGLAGON
+CREATURE 8
+LE
+LARGE
+AMPHIBIOUS
+DEVIL
+FIEND
+Perception +18; greater darkvision, see invisibility
+Languages Celestial, Infernal; telepathy 100 feet
+Skills Arcana +14, Athletics +18, Deception +15, Diplomacy +15, Intimidation +17, Stealth +15
+Str +6, Dex +3, Con +4, Int +2, Wis +4, Cha +3
+AC 27; Fort +18, Ref +13, Will +16; +1 status to all saves vs. magic
+HP 120; Immunities ﬁre; Weaknesses good 5; Resistances physical 5 (except silver), poison 10
+Heavy Aura (aura, divine, incapacitation, transmutation) 10 feet. A creature that enters the
+heavy aura must attempt a DC 23 Will save. It is then temporarily immune for 10 minutes.
+Success The creature is unaﬀected.
+Failure The creature is encumbered while it remains in the area. If the creature is
+already encumbered, it is immobilized while it remains within the aura.
+Critical Failure As failure, but the eﬀect persists for 3 rounds after leaving the aura.
+Stygian Guardian Ǻȓ Trigger A creature or object within the sarglagon’s reach is targeted
+by an attack; Eﬀect The sarglagon interposes themself, giving the creature or object
+standard cover against the attack (+2 circumstance bonus to AC), or greater cover
+(+4 circumstance bonus to AC) if the sarglagon was already granting it lesser cover.
+Speed 25 feet, ﬂy 25 feet, swim 30 feet
+Melee Ȱɵ fangs +20 (evil, magical), Damage 2d12+9 piercing plus 1d6 evil
+Melee Ȱɵ tentacle arm +20 (agile, evil, magical); Damage 2d8+9 bludgeoning plus 1d6
+evil and sarglagon venom
+Divine Innate Spells DC 23, attack +18; 5th control water, dimension door; 4th dimension
+door (at will), freedom of movement, hydraulic torrent; Constant (2nd) see invisibility
+Rituals DC 23; infernal pact
+Drown ʚʖ (conjuration, divine, incapacitation) The sarglagon conjures murky water
+to ﬁll the lungs of a creature that can’t breathe water within 30 feet. The target must
+attempt a DC 26 Fortitude save.
+Critical Success The target is unaﬀected.
+Success The target coughs up water and is sickened 1.
+Failure The target is holding its breath (Core Rulebook
+478). The only action it can take is to attempt a
+Fortitude save against Drown to expel the
+water, which is a single action.
+Critical Failure The target falls unconscious
+and begins suﬀocating. If the target
+succeeds at its Fortitude save
+while suﬀocating, it coughs up the
+water and can breathe again.
+Sarglagon Venom (poison) Saving Throw DC 26
+Fortitude; Maximum Duration 6 rounds; Stage
+1 2d6 poison damage and clumsy 1 (1 round);
+Stage 2 3d6 poison damage and clumsy 2 (1 round)
+OSYLUTH (BONE DEVIL)
+An osyluth is an unparalleled inquisitor that revels
+in the sadism and torture for which Hell is so well
+known. These devils’ charge is to seek out heresies,
+both among mortals and among other ﬁends—a
+commandment they uphold with unwavering
+fervor. They spawn within the Styx-fed swamps
+of Hell’s ﬁfth layer, Stygia; where heresies and
+the souls of heretics stagnate, osyluths eventually
+rise. In the remote corners of that same layer of Hell,
+they build massive, calciﬁed hives where they perform their vile
+interrogations and perfect their torturous arts upon lesser devils
+and petitioners alike.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868571
+4425083
 
-================================================================================
-# ZYSS SERPENTFOLK
-================================================================================
-
-
-SERPENTFOLK MAGIC
-Some serpentfolk might have
-entirely diﬀerent innate spells.
-These alternative spells are
-typically illusions, enchantments,
-or divinations like dream message,
-enthrall, glibness, invisibility,
-mindlink, mind probe, mind reading,
-mislead, phantom pain, or zealous
-conviction. Aapoph serpentfolk lack
-innate spells.
-existence, Ydersius is even less aware of his legacy than the lowest of the aapoph.
-Ydersius’s symbol is a snake’s skull surrounded by a skeletal ouroboros.
-YDERSIUS (CE)
-Edicts seek to return Ydersius to life, fulﬁll your passions, conquer your foes with no
-mercy, achieve glory for serpentkind
-Anathema put the needs of others above those of serpentfolk, aid the spawn of Azlant
-Follower Alignments LE, NE, CE
-Divine Font harm
-Divine Skill Deception
-Favored Weapon dagger
-Domains ambition, indulgence, might, zeal
-Cleric Spells 1st: magic fang, 5th: cloudkill, 6th: purple worm sting
-ZYSS SERPENTFOLK
-Even the least among zyss serpentfolk consider themselves greater than any
-mammal. Their magical abilities, most notably their telepathy, are all the
-reason they need to hold this view. And it’s true enough that the instinctual
-skill and magic of any zyss is enough to best the average human.
-ZYSS SERPENTFOLK
-CREATURE 2
-UNCOMMON
-NE
-MEDIUM
-HUMANOID
-SERPENTFOLK
-Perception +8; darkvision, scent (imprecise) 30 feet
-Languages Aklo, Common, Undercommon; telepathy 100 feet
-Skills Acrobatics +8, Arcana +8, Deception +9, Occultism +8, Society +8
-Str –1, Dex +4, Con +2, Int +4, Wis +2, Cha +3
-Items dagger, shortbow (30 arrows)
-AC 18; Fort +6, Ref +8, Will +8 (+4 status vs. mental); +1 status to all saves
-vs. magic
-HP 25; Resistances poison 5
-Speed 25 feet
-Melee Ȱɵ fangs +10 (ﬁnesse), Damage 1d6+1 piercing plus serpentfolk
-venom
-Melee Ȱɵ dagger +10 (agile, ﬁnesse, versatile S), Damage 1d4+1
-piercing plus serpentfolk venom
-Ranged Ȱɵ shortbow +10 (deadly 1d10, range increment 60
-feet), Damage 1d6+2 piercing plus serpentfolk venom
-Occult Innate Spells DC 18; 4th suggestion; 2nd mirror image
-(at will); 1st illusory disguise (at will), ventriloquism (at will)
-Serpentfolk Venom (poison) Saving Throw DC 16 Fortitude;
-Maximum Duration 6 rounds; Stage 1 1d4 poison damage
-and enfeebled 1 (1 round); Stage 2 2d4 poison damage
-and enfeebled 1 (1 round)
-AAPOPH SERPENTFOLK
-Aapophs possess greater
-strength
-and
-stronger
-venom than their zyss kin,
-but they lack zyss’ intelligence
-and innate magic. Unlike their selﬁsh superiors, aapophs are
-communal and group together to hunt, wrestle, and sleep curled
-together in pits. Though they’re looked down upon and insulted
-by zyss, most aapophs lack the higher brain functions to
-recognize when they’re being insulted, much less plan or
-execute a rebellion. Aapophs often have unusual
-physical mutations—horns, vestigial
-tails, or spines protruding from their
-
-================================================================================
 PAGE 239
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868736
+4425248
 Bestiary 2
+238
+238
 AAPOPH MUTATIONS
 Aapoph are prone to mutations, which
 you can choose or roll using a d%.
@@ -302,99 +335,104 @@ Additional, vestigial head
 Spiny scales
 scales—yet these variations have little impact on their overall combat prowess—
 and combat prowess is the measure by which zyss judge them.
+AAPOPH SERPENTFOLK
+CREATURE 3
+UNCOMMON
+CE
+MEDIUM
+HUMANOID
+MUTANT
+SERPENTFOLK
+Perception +8; darkvision, scent (imprecise) 30 feet
+Languages Aklo, Undercommon; telepathy 100 feet
+Skills Acrobatics +7, Athletics +11, Intimidation +6
+Str +4, Dex +2, Con +3, Int –3, Wis +1, Cha –1
+Items scimitar
+AC 18; Fort +10, Ref +7, Will +6 (+2 status vs. mental)
+HP 60; Resistances poison 5
+Attack of Opportunity Ǻȓ
+Speed 25 feet
+Melee Ȱɵ scimitar +11 (forceful, sweep), Damage 1d6+6 slashing
+Melee Ȱɵ fangs +11, Damage 1d8+6 piercing plus serpentfolk venom
+Melee Ȱɵ tail +11 (agile), Damage 1d6+6 bludgeoning plus Knockdown
+Serpentfolk Venom (poison) As zyss serpentfolk, but DC 20.
+Slithering Attack Ȱɵ The aapoph serpentfolk makes one scimitar or fangs Strike and
+one tail Strike, each targeting a diﬀerent creature. These attacks both count toward
+the aapoph’s multiple attack penalty, but the penalty doesn’t increase until after the
+aapoph makes both attacks.
+COIL SPY
+Some serpentfolk undergo intense ritual training and practice to improve their
+innate ability to disguise themselves. These serpentfolk often identify as members
+of a sinister society known as the Coils of Ydersius, and the most devoted of
+their number seek out methods of reincarnating into new forms to even more
+efﬁciently inﬁltrate enemy societies. But before such agents take this extreme
+step, they must prove themselves as Coil spies. These serpentfolk train in
+methods of inﬁltrating other societies to such an extent that they might be
+capable of inﬁltrating a mammalian civilization for years. Though they’re
+expected to work entirely toward the eventual triumph of their people,
+most Coil spies also ﬁnd personal pursuits to keep them occupied in
+the shorter term. When Coil spies get caught, it’s rarely due to a lack
+of pure skill, but rather to their arrogance or recklessness as they
+pursue their hedonistic desires.
+COIL SPY
+CREATURE 4
+UNCOMMON
+NE
+MEDIUM
+HUMANOID
+SERPENTFOLK
+Perception +10; darkvision, scent (imprecise) 30 feet
+Languages
+Aklo,
+Common,
+Dwarven,
+Gnomish,
+Undercommon; telepathy 100 feet
+Skills Acrobatics +10, Deception +13, Diplomacy +11,
+Intimidation +11, Occultism +10, Society +10, Stealth
++12, Thievery +12
+Str +2, Dex +4, Con +1, Int +4, Wis +2, Cha +5
+Items hand crossbow (20 bolts), hunting spider venom (2), shortsword, thieves’
+tools
+AC 22; Fort +9, Ref +12, Will +10 (+4 status vs. mental); +1 status to all saves vs.
+magic
+HP 48; Resistances poison 5
+Speed 25 feet
+Melee Ȱɵ shortsword +14 (agile, ﬁnesse, versatile S), Damage 1d6+5 piercing
+plus serpentfolk venom
+Melee Ȱɵ fangs +14 (ﬁnesse), Damage 1d6+5 piercing plus
+serpentfolk venom
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868736
+4425248
 
-================================================================================
-# ZOMOK
-================================================================================
-
-
-ZOMOKS’ PRIMAL CALL
-Zomoks can use primal call without
-needing any secondary casters. The
-zomok typically calls an awakened
-tree, arboreal, or shambler, and
-often tasks the called creature
-with guarding a sacred location,
-accompanying an ally on a mission
-for the good of the forest, or a
-similar assignment.
-Zomok
-Mighty plant-dragons, zomoks prowl the woodlands, defending their homes
-from destructive forces while healing and restoring the woods following natural
-disasters and ravaging intruders. Zomoks vary in appearance with the seasons,
-growing verdant green in the spring and summer, changing to autumnal colors in
-the fall, and decaying to brown in winter. While zomoks can and often do swallow
-their foes, they have no real need to eat. Any creature they gulp down is typically
-left behind as a mangled corpse the next time the zomok travels via their Forest
-Step ability. Zomoks reach 35 to 40 feet in length and weigh 30 tons.
-ZOMOK
-CREATURE 16
-N
-GARGANTUAN
-DRAGON
-PLANT
-Perception +28; darkvision, tremorsense (imprecise) 60 feet
-Languages Arboreal, Common, Sylvan, Terran; speak with plants
-Skills Acrobatics +27, Athletics +33, Nature +29, Stealth +29, Survival +30
-Str +9, Dex +5, Con +9, Int +3, Wis +6, Cha +6
-AC 39; Fort +31, Ref +25, Will +28
-HP 310; Immunities paralyzed, poison, sleep, stunned; Weaknesses ﬁre 15
-Speed 30 feet, ﬂy 80 feet; pass without trace
-Melee Ȱɵ jaws +33 (magical, reach 15 feet), Damage 3d12+17 piercing plus Improved Grab
-Melee Ȱɵ claw +33 (agile, magical, reach 15 feet), Damage 3d8+17 slashing
-Melee Ȱɵ tail +33 (magical, reach 20 feet), Damage 3d10+17 bludgeoning
-Primal Innate Spells DC 34, attack +26; 8th charm (plant creatures only); 7th wall
-of thorns; 6th tangling creepers; Constant (4th) speak with plants; (1st) pass
-without trace
-Rituals DC 34; blight, plant growth, primal call (doesn’t require secondary casters)
-Entombing Breath ʚʖ (conjuration, earth, primal) The zomok blasts forth a 60-foot
-cone of earth and gravel, dealing 17d6 bludgeoning damage (DC 34 basic
-Reﬂex save); prone creatures take a –2 circumstance penalty to this saving
-throw. Creatures touching the ground that fail their saves take a 10-foot
-circumstance penalty to their Speeds and are restrained (Escape DC 34)
-on a critical failure. The zomok can’t use Entombing Breath again
-for 1d4 rounds.
-The bodies of creatures slain by Entombing Breath
-instantly decompose and are destroyed—they can be
-restored to life only by a 7th-level or higher spell or
-ritual that restores life. The creature’s equipment is
-unharmed but buried under 5 feet of earth.
-Forest
-Step
-Ȱɵ
-(conjuration,
-healing,
-necromancy,
-primal,
-teleportation)
-Frequency three times per day; Eﬀect The
-zomok teleports itself with the eﬀects
-of a 5th-level dimension door spell,
-but the zomok must begin and end
-the teleportation eﬀect in forest
-terrain. The zomok regains
-10d10
-Hit
-Points
-during
-this teleportation. Creatures
-swallowed by the zomok are
-left behind. The zomok can’t
-use Forest Step again for
-1d6+1 rounds.
-Swallow
-Whole
-Ȱɵ
-(attack) Huge, 3d12+9
-bludgeoning, Rupture 35
-Trample ̂ˬ Huge or
-smaller, tail, DC 32
-
-================================================================================
 PAGE 305
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868802
+4425314
 Bestiary 2
+304
+304
 Ability Glossary
 The following creature abilities are listed here because
 they are shared by many creatures or are highly complex.
@@ -484,7 +522,7 @@ Constant Spells A constant spell aﬀects the monster without
 the monster needing to cast it, and its duration is unlimited.
 If a constant spell gets counteracted, the monster can
 reactivate it by spending the normal spellcasting actions
-the spell requires.
+the spell requires.
 Constrict Ȱɵ The monster deals the listed amount of damage
 to any number of creatures grabbed or restrained by it.
 Each of those creatures can attempt a basic Fortitude save
@@ -512,11 +550,46 @@ number of times but can cast only one coven spell each
 round. All covens grant the 8th-level baleful polymorph
 spell and all the following spells, which the coven can
 cast at any level up to 5th: augury, charm, clairaudience,
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868802
+4425314
 
-================================================================================
 PAGE 306
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868803
+4425315
+305
+305
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 clairvoyance, dream message, illusory disguise, illusory
 scene, prying eye, and talking corpse. Individual creatures
 with the coven ability also grant additional spells to any
@@ -631,12 +704,37 @@ positive healing eﬀects. It does not take negative damage,
 and it is healed by negative eﬀects that heal undead.
 Poison When a creature is exposed to a monster’s poison,
 it attempts a Fortitude save to avoid becoming poisoned.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868803
+4425315
 
-================================================================================
 PAGE 307
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868804
+4425316
 Bestiary 2
+306
+306
 The level of a poison is the level of the monster inﬂicting
 the poison. The poison follows the rules for aﬄictions
 found on page 457 of the Core Rulebook.
@@ -751,11 +849,46 @@ imprecise sense with a limited range (listed in the ability).
 Wavesense functions only if the monster and the subject
 are in the same body of liquid, and only if the subject is
 moving through the liquid.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868804
+4425316
 
-================================================================================
 PAGE 308
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868805
+4425317
+307
+307
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Creature Traits
 Some of these traits appear in the Core Rulebook, while
 others are new to this book and the ﬁrst Bestiary.
@@ -803,12 +936,12 @@ Huge A Huge creature takes up a 15-foot-by-15-foot space (9
 squares on the grid). It typically has a reach of 15 feet if the
 creature is tall or 10 feet if the creature is long.
 Large A Large creature takes up a 10-foot-by-10-foot space
-(4 squares on the grid). It typically has a reach of 10 feet if
+(4 squares on the grid). It typically has a reach of 10 feet if
 the creature is tall or 5 feet if the creature is long.
 Medium A Medium creature takes up a 5-foot-by-5-foot space
 (1 square on the grid) and typically has a reach of 5 feet.
 Small A Small creature takes up a 5-foot-by-5-foot space
-(1 square on the grid) and typically has a reach of 5 feet.
+(1 square on the grid) and typically has a reach of 5 feet.
 Tiny A creature of this size takes up less than a 5-foot-by-5-foot
 space (1 square on the grid), and multiple Tiny creatures
 can occupy the same square on the grid. At least four Tiny
@@ -829,12 +962,37 @@ Aeon These monitors are the self-styled defenders of reality.
 Traditional aeons have dualistic natures and forms, and
 they hold a dichotomy of interests, though axiomites
 and inevitables do not. Aeons other than axiomites
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868805
+4425317
 
-================================================================================
 PAGE 309
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868806
+4425318
 Bestiary 2
+308
+308
 and inevitables communicate via a strange telepathic
 hodgepodge of sensory sending called envisioning.
 Air Creatures with this trait consist primarily of air or have a
@@ -843,7 +1001,7 @@ Amphibious An amphibious creature can breathe in water and
 in air, even outside of its preferred environment, usually
 indeﬁnitely but at least for hours. These creatures often
 have a swim Speed. Their bludgeoning and slashing unarmed
-Strikes don’t take the usual –2 penalty for being underwater.
+Strikes don’t take the usual –2 penalty for being underwater.
 Angel This family of celestials is native to the plane of Nirvana.
 Most angels are neutral good, have darkvision, and have a
 weakness to evil damage.
@@ -880,7 +1038,7 @@ sickened, and unconscious conditions; and they may
 have Hardness based on the materials used to construct
 their bodies. Constructs are not living creatures, nor are
 they undead. When reduced to 0 Hit Points, a construct
-creature is destroyed.
+creature is destroyed.
 Couatl A family of supernatural feathered serpents who serve
 as guardians and messengers on the Material Plane for
 various good-aligned divinities.
@@ -918,14 +1076,49 @@ Ethereal Ethereal creatures are natives of the Ethereal Plane.
 They can survive the basic environmental eﬀects of the
 Ethereal Plane.
 Fetchling A creature with this trait is a member of
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868806
+4425318
 
-================================================================================
 PAGE 310
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868807
+4425319
+309
+309
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 the fetchling ancestry. Fetchlings were once human,
 but generations of life on the Shadow Plane have
-transformed them.
+transformed them.
 Fey Creatures of the First World are called the fey.
 Fiend Creatures that hail from or have a strong connection
 to the evil-aligned planes are called ﬁends. Fiends can
@@ -956,7 +1149,7 @@ Incorporeal An incorporeal creature or object has no physical
 form. It can pass through solid objects, including walls.
 When inside an object, an incorporeal creature can’t perceive,
 attack, or interact with anything outside the object, and if it
-starts its turn in an object, it is slowed 1. Corporeal creatures
+starts its turn in an object, it is slowed 1. Corporeal creatures
 can pass through an incorporeal creature, but they can’t end
 their movement in its space.
 An incorporeal creature can’t attempt Strength-based checks
@@ -1037,12 +1230,37 @@ Soulbound These constructs are mentally augmented by a
 fragment of a once-living creature’s soul.
 Spirit Spirits are ephemeral creatures deﬁned by their spiritual
 essence. They often lack a material form.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868807
+4425319
 
-================================================================================
 PAGE 311
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868808
+4425320
 Bestiary 2
+310
+310
 Spriggan Kin to gnomes, spriggans tend to be evil and can
 grow in size to resemble giants.
 Suli Sulis are planar scions descended from jann.
@@ -1097,7 +1315,7 @@ modifier instead of Dexterity on the attack roll.
 Finesse This melee attack is Dexterity based. Even if
 a weapon normally has the finesse trait, this trait is
 omitted in the Strike entry if the monster is applying
-its Strength.
+its Strength.
 Rituals
 Some creatures from the Outer Planes can use special
 rituals to call their kin or transport themselves to another
@@ -1131,7 +1349,7 @@ Primary Check Religion (expert; you must be an angel)
 You transport yourself to either a celestial plane or a world
 on the Material Plane where worshippers of your patron
 can be found. You must be of no higher level than double
-angelic messenger’s spell level.
+angelic messenger’s spell level.
 Critical Success As success, but if you’ve never visited that
 plane or world before, you appear right in front of the
 message’s intended recipient.
@@ -1139,15 +1357,50 @@ Success You arrive on the target plane or world at the
 last location you visited on that plane or world, or to a
 random location within 10d10 miles of your message’s
 intended recipient if you’ve never visited that plane or
-world before.
+world before.
 Failure You don’t travel.
 Critical Failure You accidentally travel to the wrong plane,
 possibly a dangerous plane.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868808
+4425320
 
-================================================================================
 PAGE 312
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868809
+4425321
+311
+311
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 DAEMONIC PACT
 RITUAL 1
 UNCOMMON
@@ -1167,7 +1420,8 @@ Success You conjure the daemon or daemons, who serve you
 willingly, but require a sacriﬁce in the form of spilled blood
 (either another creature’s or your own).
 Failure You don’t conjure any daemons.
-Critical Failure You don’t conjure any daemons, and the selfsacriﬁce required to perform the ritual leaves you drained 1
+Critical Failure You don’t conjure any daemons, and the self-
+sacriﬁce required to perform the ritual leaves you drained 1
 (or drained 2 if the spell level is 5 or higher).
 INFERNAL PACT
 RITUAL 1
@@ -1180,13 +1434,13 @@ of its subordinates to your service. If you succeed, the devil
 sends you its choice of one devil whose level is no more than
 double infernal pact’s level, two devils whose levels are each at
 least 2 less than double the spell level, or three devils whose
-levels are each at least 3 less than double the spell level.
+levels are each at least 3 less than double the spell level.
 Critical Success The devils are sent to you and serve you for
 1d4 weeks.
 Success The devils are sent to you and serve you for 1d4 days.
 Failure Your request is denied.
 Critical Failure Not only is your request denied, but the
-powerful devil sends word of its displeasure to your master.
+powerful devil sends word of its displeasure to your master.
 Languages
 Some creatures in this book speak languages not found on
 page 65 of the Pathﬁnder Core Rulebook. The languages
@@ -1224,160 +1478,220 @@ types, subdivided by level. A superscript “U” indicates
 that a creature is uncommon, “R” that it’s rare, and “Uq”
 that it’s unique.
 Aberration
-Level 0 grindylow; Level 1 akataR; Level 2 bog striderU, choker;
-Level 3 d’ziriak, vampiric mist; Level 6 lunar nagaU, skrik nettle,
-xillU; Level 7 hound of TindalosR, sceaduinarR; Level 8 denizen of
-Leng, destrachan, intellect devourerU; Level 9 irnakurse, spirit
-nagaU; Level 10 ghonhatine; Level 11 gosregU, isqulugU, quoppopak;
-Level 13 froghemothU, irlgaunt, Leng spiderU; Level 14 doprillu,
-worm that walksU; Level 15 neothelidU; Level 17 vaspercham
+Level 0 grindylow; Level 1 akataR; Level 2 bog striderU, choker;
+Level 3 d’ziriak, vampiric mist; Level 6 lunar nagaU, skrik nettle,
+xillU; Level 7 hound of TindalosR, sceaduinarR; Level 8 denizen of
+Leng, destrachan, intellect devourerU; Level 9 irnakurse, spirit
+nagaU; Level 10 ghonhatine; Level 11 gosregU, isqulugU, quoppopak;
+Level 13 froghemothU, irlgaunt, Leng spiderU; Level 14 doprillu,
+worm that walksU; Level 15 neothelidU; Level 17 vaspercham
 Animal
-Level –1 compsognathus, raven, snapping turtle; Level 0
+Level  –1 compsognathus, raven, snapping turtle; Level  0
 badger, blue-ringed octopus, bottlenose dolphin, dream
 spider, giant maggot, sea snake, spear frog, stingray, vampire
-squid; Level 1 cave scorpion, giant cockroach, giant ﬂy, giant
+squid; Level 1 cave scorpion, giant cockroach, giant ﬂy, giant
 frog, giant solifugid, giant tick, hippocampus, manta ray, reef
-octopus; Level 2 black bear, blindheim, cave ﬁsher, cockroach
+octopus; Level 2 black bear, blindheim, cave ﬁsher, cockroach
 swarm, giant ant, giant badger, giant crab, giant leech,
-giant toad, hippogriﬀ, shocker lizard, wolverine; Level 3 fen
+giant toad, hippogriﬀ, shocker lizard, wolverine; Level 3 fen
 mosquito swarm, giant chameleon, giant dragonﬂy nymph,
 giant whiptail centipede, pachycephalosaurus, raven swarm;
-Level 4 brood leech swarm, giant dragonﬂy, giant wolverine,
-hadrosaurid, rhinoceros; Level 5 army ant swarm, emperor
-cobra, hippopotamus, ogre spider, orca, polar bear; Level 6
+Level 4 brood leech swarm, giant dragonﬂy, giant wolverine,
+hadrosaurid, rhinoceros; Level  5 army ant swarm, emperor
+cobra, hippopotamus, ogre spider, orca, polar bear; Level 6
 ﬁre jellyﬁsh swarm, giant mosquito, iguanodon, woolly
-rhinoceros; Level 7 elasmosaurus, giant jellyﬁsh, megalania,
-sportlebore swarm; Level 8 anancus, giant hippocampusu,
-giant slug; Level 9 aurumvorax, giant snapping turtle, giant
-squid, mastodon, tick swarm, titan centipede; Level 10
-behemoth hippopotamus; Level 11 spinosaurus; Level 12 frost
-worm; Level 15 black scorpion; Level 18 duneshaker solifugid
+rhinoceros; Level 7 elasmosaurus, giant jellyﬁsh, megalania,
+sportlebore swarm; Level  8 anancus, giant hippocampusu,
+giant slug; Level 9 aurumvorax, giant snapping turtle, giant
+squid, mastodon, tick swarm, titan centipede; Level  10
+behemoth hippopotamus; Level 11 spinosaurus; Level 12 frost
+worm; Level 15 black scorpion; Level 18 duneshaker solifugid
 Beast
-Level 1 carbuncleR; Level 2 blink dogU, wereboar; Level 3
-chupacabra, trollhound, yeth hound; Level 4 peryton,
-weretiger; Level 5 grodair, leucrotta; Level 6 ahuizotlU,
-hodagU; Level 7 dweomercatU, hellcat; Level 8 behir, gorgonU,
-Sandpoint DevilUq; Level 9 dracoliskU; Level 10 bebilith, quetz
-couatlU, water ormR; Level 11 thunderbirdU; Level 12 catoblepas;
-Level 15 umonleeU; Level 17 leydrothU, thrasfyrR
+Level  1 carbuncleR; Level  2 blink dogU, wereboar; Level  3
+chupacabra, trollhound, yeth hound; Level  4 peryton,
+weretiger; Level  5 grodair, leucrotta; Level  6 ahuizotlU,
+hodagU; Level 7 dweomercatU, hellcat; Level 8 behir, gorgonU,
+Sandpoint DevilUq; Level 9 dracoliskU; Level 10 bebilith, quetz
+couatlU, water ormR; Level 11 thunderbirdU; Level 12 catoblepas;
+Level 15 umonleeU; Level 17 leydrothU, thrasfyrR
 Celestial
-Level 4 hound archon; Level 6 bralani; Level 10 movanic deva;
-Level 12 monadic deva; Level 14 trumpet archon; Level 16
-planetarU; Level 19 star archon; Level 20 bastion archonR,
-veranallia; Level 23 solarR
+Level 4 hound archon; Level 6 bralani; Level 10 movanic deva;
+Level  12 monadic deva; Level  14 trumpet archon; Level  16
+planetarU; Level  19 star archon; Level  20 bastion archonR,
+veranallia; Level 23 solarR
 Construct
-Level 3 necrophidius; Level 4 carrion golemU, scarecrow;
-Level 5 dig-widget, ice golemU; Level 6 wood golemU; Level 8
-glass golemU; Level 11 spiral centurion; Level 17 radiant
-wardenU; Level 18 aolazR
+Level  3 necrophidius; Level  4 carrion golemU, scarecrow;
+Level 5 dig-widget, ice golemU; Level 6 wood golemU; Level 8
+glass golemU; Level  11 spiral centurion; Level  17 radiant
+wardenU; Level 18 aolazR
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868809
+4425321
 
-================================================================================
 PAGE 313
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868810
+4425322
 Bestiary 2
+312
+312
 Dragon
-Level 2 shadow drake, tatzlwyrm; Level 6 sea drake; Level 7
-young crystal dragonU; Level 8 young brine dragonU; Level 9
-dracoliskU, young magma dragonU; Level 10 peluda, young
-cloud dragonU; Level 11 adult crystal dragonU, young umbral
-dragonU; Level 12 adult brine dragonU; Level 13 adult magma
-dragonU; Level 14 adult cloud dragonU, ravener huskR; Level 15
-adult umbral dragonU, shoal linnormU; Level 16 ancient crystal
-dragonR, ford linnormU, zomok; Level 17 ancient brine dragonR;
-Level 18 ancient magma dragonR, cairn linnormU; Level 19
-ancient cloud dragonR, taiga linnormU; Level 20 ancient umbral
-dragonR; Level 21 ravenerR; Level 23 jabberwockR
+Level 2 shadow drake, tatzlwyrm; Level 6 sea drake; Level 7
+young crystal dragonU; Level 8 young brine dragonU; Level 9
+dracoliskU, young magma dragonU; Level  10 peluda, young
+cloud dragonU; Level 11 adult crystal dragonU, young umbral
+dragonU; Level 12 adult brine dragonU; Level 13 adult magma
+dragonU; Level 14 adult cloud dragonU, ravener huskR; Level 15
+adult umbral dragonU, shoal linnormU; Level 16 ancient crystal
+dragonR, ford linnormU, zomok; Level 17 ancient brine dragonR;
+Level  18 ancient magma dragonR, cairn linnormU; Level  19
+ancient cloud dragonR, taiga linnormU; Level 20 ancient umbral
+dragonR; Level 21 ravenerR; Level 23 jabberwockR
 Dream
-Level 8 animate dreamU, denizen of Leng; Level 13 Leng spiderU
+Level 8 animate dreamU, denizen of Leng; Level 13 Leng spiderU
 Elemental
-Level 1 dust mephitU, ice mephitU, ooze mephitU, steam
-mephitU; Level 2 ember fox, icicle snake, living boulder,
-mudwretch, spark bat; Level 4 earthen destrier, ﬁlth ﬁre, living
-thunderclap, mist stalker; Level 6 belker, blizzardborn, sand
-sentry, striding ﬁre; Level 7 young crystal dragonU; Level 8
+Level  1 dust mephitU, ice mephitU, ooze mephitU, steam
+mephitU; Level  2 ember fox, icicle snake, living boulder,
+mudwretch, spark bat; Level 4 earthen destrier, ﬁlth ﬁre, living
+thunderclap, mist stalker; Level 6 belker, blizzardborn, sand
+sentry, striding ﬁre; Level 7 young crystal dragonU; Level 8
 granite glyptodont, magma scorpion, young brine dragonU;
-Level 9 young magma dragonU; Level 10 icewyrm, melody on
-the wind, young cloud dragonU; Level 11 adult crystal dragonU;
-Level 12 adult brine dragonU; Level 13 adult magma dragonU;
-Level 14 adult cloud dragonU; Level 16 ancient crystal dragonR;
-Level 17 ancient brine dragonR; Level 18 ancient magma
-dragonR; Level 19 ancient cloud dragonR; Level 21 lerritan
+Level 9 young magma dragonU; Level 10 icewyrm, melody on
+the wind, young cloud dragonU; Level 11 adult crystal dragonU;
+Level 12 adult brine dragonU; Level 13 adult magma dragonU;
+Level 14 adult cloud dragonU; Level 16 ancient crystal dragonR;
+Level  17 ancient brine dragonR; Level  18 ancient magma
+dragonR; Level 19 ancient cloud dragonR; Level 21 lerritan
 Ethereal
 Level 6 xillU
 Fey
-Level 1 brownie, nixie, vexgit; Level 2 leprechaun, nuglub; Level 3
-quicklingU, twigjack; Level 4 kelpie, korredU; Level 5 grimstalker,
-grodair, lurker in light; Level 6 baobhan sithU, blodeuweddU; Level 7
-culdewen, stygira; Level 9 nuckelavee; Level 10 nereid; Level 12
-rusalka; Level 14 ankou; Level 15 marrmora; Level 20 nornR
+Level 1 brownie, nixie, vexgit; Level 2 leprechaun, nuglub; Level 3
+quicklingU, twigjack; Level 4 kelpie, korredU; Level 5 grimstalker,
+grodair, lurker in light; Level 6 baobhan sithU, blodeuweddU; Level 7
+culdewen, stygira; Level 9 nuckelavee; Level 10 nereid; Level 12
+rusalka; Level 14 ankou; Level 15 marrmora; Level 20 nornR
 Fiend
-Level 1 augur, cythnigotU; Level 3 yeth hound, zebub; Level 5
-ostiarius; Level 6 babau, evangelist; Level 7 hellcat, invidiak,
-shoggtiU, soul eaterU; Level 8 nabasu, onidoshi, Sandpoint
-DevilUq, sarglagon; Level 9 osyluth; Level 10 bebilith, nyogothU,
-piscodaemon, sacristan; Level 11 hamatula, hezrou, meladaemon;
-Level 12 chernobueU, derghodaemon, interlocutor; Level 13 ice
-yai, thanadaemon; Level 14 augnagarU, ﬁre yai, gylou, nalfeshnee;
-Level 16 cornugon; Level 17 water yai; Level 18 purrodaemon,
-thulgantU; Level 19 vrolikaiU; Level 20 eremite, olethrodaemon
+Level 1 augur, cythnigotU; Level 3 yeth hound, zebub; Level 5
+ostiarius; Level  6 babau, evangelist; Level  7 hellcat, invidiak,
+shoggtiU, soul eaterU; Level  8 nabasu, onidoshi, Sandpoint
+DevilUq, sarglagon; Level 9 osyluth; Level 10 bebilith, nyogothU,
+piscodaemon, sacristan; Level 11 hamatula, hezrou, meladaemon;
+Level 12 chernobueU, derghodaemon, interlocutor; Level 13 ice
+yai, thanadaemon; Level 14 augnagarU, ﬁre yai, gylou, nalfeshnee;
+Level 16 cornugon; Level 17 water yai; Level 18 purrodaemon,
+thulgantU; Level 19 vrolikaiU; Level 20 eremite, olethrodaemon
 Fungus
-Level 2 slime mold; Level 3 violet fungus; Level 5 basidirond;
-Level 7 tendriculos
+Level 2 slime mold; Level 3 violet fungus; Level 5 basidirond;
+Level 7 tendriculos
 Giant
-Level 4 frost trollU; Level 6 cavern trollU, wood giant; Level 8
-marsh giant, onidoshi, two-headed trollU; Level 12 athach,
-taiga giant; Level 13 ice yai, shadow giant; Level 14 ﬁre yai;
-Level 15 jotund trollR; Level 17 water yai
+Level 4 frost trollU; Level 6 cavern trollU, wood giant; Level 8
+marsh giant, onidoshi, two-headed trollU; Level  12 athach,
+taiga giant; Level 13 ice yai, shadow giant; Level 14 ﬁre yai;
+Level 15 jotund trollR; Level 17 water yai
 Humanoid
-Level 1 fetchling scout; Level 1 grippli scout, ifrit pyrochemist,
+Level 1 fetchling scout; Level 1 grippli scout, ifrit pyrochemist,
 oread guard, skulk, suli dune dancer, sylph sneak, undine
-hydromancer; Level 2 morlock, triton, wereboar, zyss serpentfolkU;
-Level 3 aapoph serpentfolkU, caligni slayerU, spriggan bully,
-urdefhan warrior; Level 4 Coil spyU, weretiger; Level 5 urdefhan
-tormentor; Level 6 witchwyrdU, wood giant; Level 7 spriggan
-warlord; Level 8 bone prophetU, marsh giant, onidoshi; Level 9
-jyoti; Level 12 athach, taiga giant; Level 13 ice yai, shadow giant;
-Level 14 ﬁre yai; Level 17 water yai; Level 19 GrendelUq
+hydromancer; Level 2 morlock, triton, wereboar, zyss serpentfolkU;
+Level  3 aapoph serpentfolkU, caligni slayerU, spriggan bully,
+urdefhan warrior; Level 4 Coil spyU, weretiger; Level 5 urdefhan
+tormentor; Level 6 witchwyrdU, wood giant; Level 7 spriggan
+warlord; Level 8 bone prophetU, marsh giant, onidoshi; Level 9
+jyoti; Level 12 athach, taiga giant; Level 13 ice yai, shadow giant;
+Level 14 ﬁre yai; Level 17 water yai; Level 19 GrendelUq
 Monitor
-Level 3 akizendri, esobok; Level 5 azuretzi, catrina; Level 7
-theletos, vanth; Level 9 zelekhut; Level 10 imentesh; Level 15
-marut; Level 16 bythosU; Level 20 yamarajU
+Level 3 akizendri, esobok; Level 5 azuretzi, catrina; Level 7
+theletos, vanth; Level 9 zelekhut; Level 10 imentesh; Level 15
+marut; Level 16 bythosU; Level 20 yamarajU
 negative
 Level 7 sceaduinarR
 Ooze
-Level 1 amoeba swarm, giant amoeba; Level 2 slime mold; Level 4
-gray ooze; Level 6 verdurous ooze; Level 13 carnivorous blob
+Level 1 amoeba swarm, giant amoeba; Level 2 slime mold; Level 4
+gray ooze; Level 6 verdurous ooze; Level 13 carnivorous blob
 Petitioner
-Level 1 petitioner
+Level 1 petitioner
 Plant
-Level –1 yellow musk thrall; Level 1 sunﬂower leshy; Level 2
-yellow musk brute, yellow musk creeper; Level 3 assassin
-vine, twigjack; Level 4 calathgar, ﬂytrap leshy, mandragora;
-Level 6 blodeuweddU, scythe tree; Level 7 drainberry bush,
-tendriculos; Level 8 moonﬂowerU; Level 13 viper vine; Level 16
-zomok; Level 19 sardR
+Level –1 yellow musk thrall; Level 1 sunﬂower leshy; Level 2
+yellow musk brute, yellow musk creeper; Level  3 assassin
+vine, twigjack; Level 4 calathgar, ﬂytrap leshy, mandragora;
+Level 6 blodeuweddU, scythe tree; Level 7 drainberry bush,
+tendriculos; Level 8 moonﬂowerU; Level 13 viper vine; Level 16
+zomok; Level 19 sardR
 Positive
-Level 9 jyoti
+Level 9 jyoti
 Shadow
-Level 1 fetchling scout; Level 2 shadow drake; Level 3 d’ziriak;
-Level 11 young umbral dragonU; Level 13 shadow giant; Level 15
-adult umbral dragonU; Level 20 ancient umbral dragonR
+Level 1 fetchling scout; Level 2 shadow drake; Level 3 d’ziriak;
+Level 11 young umbral dragonU; Level 13 shadow giant; Level 15
+adult umbral dragonU; Level 20 ancient umbral dragonR
 Time
-Level 7 hound of TindalosR
+Level 7 hound of TindalosR
 Undead
-Level –1 crawling hand; Level 1 void zombieR; Level 2 draugr;
-Level 4 attic whisperer, cairn wightU; Level 5 bog mummy,
-giant crawling hand, skaveling; Level 6 revenant, vrykolakas
-spawn; Level 7 specter, totenmaske; Level 8 bodakU, mohrg;
-Level 9 dread wraith, witchﬁreU; Level 10 vrykolakas master;
-Level 11 devourerU; Level 13 vrykolakas ancientU; Level 14
-ravener huskR; Level 21 ravenerR
+Level –1 crawling hand; Level 1 void zombieR; Level 2 draugr;
+Level 4 attic whisperer, cairn wightU; Level 5 bog mummy,
+giant crawling hand, skaveling; Level 6 revenant, vrykolakas
+spawn; Level 7 specter, totenmaske; Level 8 bodakU, mohrg;
+Level 9 dread wraith, witchﬁreU; Level 10 vrykolakas master;
+Level 11 devourerU; Level 13 vrykolakas ancientU; Level 14
+ravener huskR; Level 21 ravenerR
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868810
+4425322
 
-================================================================================
 PAGE 314
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868811
+4425323
+313
+313
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Creature
 Level
 Category
@@ -1389,195 +1703,307 @@ Compsognathus
 Dinosaur
 Animal
 Common
+80
 Crawling hand
 –1
 Crawling hand
 Undead
 Common
+56
 Raven
 –1
 Raven
 Animal
 Common
+221
 Snapping turtle
 –1
 Turtle
 Animal
 Common
+269
 Yellow musk thrall
 –1
 Yellow musk creeper
 Plant
 Common
+300
+Badger
+0
 Badger
 Animal
 Common
+32
 Blue–ringed octopus
+0
 Octopus
 Animal
 Common
+187
 Bottlenose dolphin
+0
 Dolphin
 Animal
 Common
+84
 Dream spider
+0
 Spider
 Animal
 Common
+249
 Giant maggot
+0
 Fly
 Animal
 Common
+120
+Grindylow
+0
 Grindylow
 Aberration
 Common
+138
 Sea snake
+0
 Snake
 Animal
 Common
+245
 Spear frog
+0
 Frog
 Animal
 Common
+121
 Stingray
+0
 Ray
 Animal
 Common
+226
 Vampire squid
+0
 Squid
 Animal
 Common
+254
+Akata
+1
 Akata
 Aberration
 Rare
+13
 Amoeba swarm
+1
+Ooze
 Ooze
 Common
+192
 Augur
+1
 Velstrac
 Fiend
 Common
+280
+Brownie
+1
 Brownie
 Fey
 Common
+44
+Carbuncle
+1
 Carbuncle
 Beast
 Rare
+47
 Cave scorpion
+1
 Scorpion
 Animal
 Common
+234
 Cythnigot
+1
 Qlippoth
 Fiend
 Uncommon
+212
 Dust mephit
+1
 Elemental, mephit
 Elemental
 Uncommon
+112
 Fetchling scout
+1
 Fetchling
 Humanoid, shadow
 Common
+117
 Giant amoeba
+1
+Ooze
 Ooze
 Common
+192
 Giant cockroach
+1
 Cockroach
 Animal
 Common
+53
 Giant ﬂy
+1
 Fly
 Animal
 Common
+120
 Giant frog
+1
 Frog
 Animal
 Common
+121
 Giant solifugid
+1
 Solifugid
 Animal
 Common
+246
 Giant tick
+1
 Tick
 Animal
 Common
+260
 Grippli scout
+1
 Grippli
 Humanoid
 Common
+139
+Hippocampus
+1
 Hippocampus
 Animal
 Common
+142
 Ice mephit
+1
 Elemental, mephit
 Elemental
 Uncommon
+112
 Ifrit pyrochemist
+1
 Planar scion, geniekin
 Humanoid
 Common
+200
 Manta ray
+1
 Ray
 Animal
 Common
+226
+Nixie
+1
 Nixie
 Fey
 Common
+183
 Ooze mephit
+1
 Elemental, mephit
 Elemental
 Uncommon
+113
 Oread guard
+1
 Planar scion, geniekin
 Humanoid
 Common
+200
+Petitioner
+1
+Petitioner
 Petitioner
 Common
+198
 Reef octopus
+1
 Octopus
 Animal
 Common
+187
+Skulk
+1
 Skulk
 Humanoid
 Common
+243
 Steam mephit
+1
 Elemental, mephit
 Elemental
 Uncommon
+113
 Suli dune danger
+1
 Planar scion, geniekin
 Humanoid
 Common
+201
 Sunﬂower leshy
+1
 Leshy
 Plant
 Common
+160
 Sylph sneak
+1
 Planar scion, geniekin
 Humanoid
 Common
+202
 Undine hydromancer
+1
 Planar scion, geniekin
 Humanoid
 Common
+203
 Vexgit
+1
 Gremlin
 Fey
 Common
+134
+Void zombie
+1
 Void zombie
 Undead
 Rare
+288
 Black bear
+2
 Bear
 Animal
 Common
+36
+Blindheim
+2
 Blindheim
 Animal
 Common
+39
+Blink dog
+2
 Blink dog
 Beast
 Uncommon
+40
 Creatures by Level
 The following tables present every single stat block in
 Bestiary 2, organized by level. Each entry also details the
@@ -1585,1063 +2011,1923 @@ creature’s category, showing under which entry it can be
 found and the general group it belongs to; its type traits,
 which are useful for summoning and some other abilities;
 its rarity; and page number.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868811
+4425323
 
-================================================================================
 PAGE 315
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868812
+4425324
 Bestiary 2
+314
+314
+Bog strider
+2
 Bog strider
 Aberration
 Uncommon
+43
+Cave ﬁsher
+2
 Cave ﬁsher
 Animal
 Common
+49
+Choker
+2
 Choker
 Aberration
 Common
+51
 Cockroach swarm
+2
 Cockroach
 Animal
 Common
+53
+Draugr
+2
 Draugr
 Undead
 Common
+102
 Ember fox
+2
 Elemental, ﬁre
 Elemental
 Common
+110
 Giant ant
+2
 Ant
 Animal
 Common
+20
 Giant badger
+2
 Badger
 Animal
 Common
+32
 Giant crab
+2
 Crab
 Animal
 Common
+55
 Giant leech
+2
 Leech
 Animal
 Common
+156
 Giant toad
+2
 Toad
 Animal
 Common
+261
+Hippogriﬀ
+2
 Hippogriﬀ
 Animal
 Common
+143
 Icicle snake
+2
 Elemental, water
 Elemental
 Common
+114
+Leprechaun
+2
 Leprechaun
 Fey
 Common
+158
 Living boulder
+2
 Elemental, earth
 Elemental
 Common
+108
+Morlock
+2
 Morlock
 Humanoid
 Common
+174
+Mudwretch
+2
 Mudwretch
 Elemental
 Common
+176
 Nuglub
+2
 Gremlin
 Fey
 Common
+135
 Shadow drake
+2
 Drake
 Dragon, shadow
 Common
+100
+Shocker lizard
+2
 Shocker lizard
 Animal
 Common
+240
 Slime mold
+2
 Ooze
 Fungus, ooze
 Common
+193
 Spark bat
+2
 Elemental, air
 Elemental
 Common
+106
+Tatzlwyrm
+2
 Tatzlwyrm
 Dragon
 Common
+256
+Triton
+2
 Triton
 Humanoid
 Common
+263
 Wereboar
+2
 Werecreature
 Beast, humanoid
 Common
+290
+Wolverine
+2
 Wolverine
 Animal
 Common
+295
 Yellow musk brute
+2
 Yellow musk creeper
 Plant
 Common
+301
+Yellow musk creeper
+2
 Yellow musk creeper
 Plant
 Common
+300
 Zyss serpentfolk
+2
 Serpentfolk
 Humanoid
 Uncommon
+237
 Aapoph serpentfolk
+3
 Serpentfolk
 Humanoid
 Uncommon
+237
 Akizendri
+3
 Protean
 Monitor
 Common
+204
+Assassin vine
+3
 Assassin vine
 Plant
 Common
+26
 Caligni slayer
+3
 Caligni
 Humanoid
 Uncommon
+46
+Chupacabra
+3
 Chupacabra
 Beast
 Common
+52
+D’ziriak
+3
 D’ziriak
 Aberration, shadow
 Common
+104
 Esobok
+3
 Psychopomp
 Monitor
 Common
+208
 Fen mosquito swarm
+3
 Mosquito
 Animal
 Common
+175
 Giant chameleon
+3
 Lizard
 Animal
 Common
+168
 Giant dragonﬂy nymph
+3
 Dragonﬂy
 Animal
 Common
+98
 Giant whiptail centipede
+3
 Centipede
 Animal
 Common
+50
+Necrophidius
+3
 Necrophidius
 Construct
 Common
+180
 Pachycephalosaurus
+3
 Dinosaur
 Animal
 Common
+80
+Quickling
+3
 Quickling
 Fey
 Uncommon
+218
 Raven swarm
+3
 Raven
 Animal
 Common
+221
 Spriggan bully
+3
 Spriggan
 Humanoid
 Common
+252
+Trollhound
+3
 Trollhound
 Beast
 Common
+268
+Twigjack
+3
 Twigjack
 Fey, plant
 Common
+270
 Urdefhan warrior
+3
 Urdefhan
 Humanoid
 Common
+272
+Vampiric mist
+3
 Vampiric mist
 Aberration
 Common
+278
+Violet fungus
+3
 Violet fungus
 Fungus
 Common
+286
+Yeth hound
+3
 Yeth hound
 Beast, ﬁend
 Common
+302
 Zebub
+3
 Devil
 Fiend
 Common
+72
+Attic whisperer
+4
 Attic whisperer
 Undead
 Common
+28
 Brood leech swarm
+4
 Leech
 Animal
 Common
+156
 Cairn wight
+4
 Wight
 Undead
 Uncommon
+292
+Calathgar
+4
 Calathgar
 Plant
 Common
+45
 Carrion golem
+4
 Golem
 Construct
 Uncommon
+128
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868812
+4425324
 
-================================================================================
 PAGE 316
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868813
+4425325
+315
+315
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Coil spy
+4
 Serpentfolk
 Humanoid
 Uncommon
+238
 Earthen destrier
+4
 Elemental, earth
 Elemental
 Common
+108
 Filth ﬁre
+4
 Elemental, ﬁre
 Elemental
 Common
+110
 Flytrap leshy
+4
 Leshy
 Plant
 Common
+161
 Frost troll
+4
 Troll
 Giant
 Uncommon
+264
 Giant dragonﬂy
+4
 Dragonﬂy
 Animal
 Common
+98
 Giant wolverine
+4
 Wolverine
 Animal
 Common
+295
 Gray ooze
+4
+Ooze
 Ooze
 Common
+193
 Hadrosaurid
+4
 Dinosaur
 Animal
 Common
+81
 Hound archon
+4
 Archon
 Celestial
 Common
+22
+Kelpie
+4
 Kelpie
 Fey
 Common
+154
+Korred
+4
 Korred
 Fey
 Uncommon
+155
 Living thunderclap
+4
 Elemental, air
 Elemental
 Common
+106
+Mandragora
+4
 Mandragora
 Plant
 Common
+170
 Mist stalker
+4
 Elemental, water
 Elemental
 Common
+114
+Peryton
+4
 Peryton
 Beast
 Common
+197
+Rhinoceros
+4
 Rhinoceros
 Animal
 Common
+228
+Scarecrow
+4
 Scarecrow
 Construct
 Common
+232
 Weretiger
+4
 Werecreature
 Beast, humanoid
 Common
+291
 Army ant swarm
+5
 Ant
 Animal
 Common
+20
 Azuretzi
+5
 Protean
 Monitor
 Common
+205
+Basidirond
+5
 Basidirond
 Fungus
 Common
+34
 Bog mummy
+5
 Mummy
 Undead
 Common
+177
 Catrina
+5
 Psychopomp
 Monitor
 Common
+209
+Dig–widget
+5
 Dig–widget
 Construct
 Common
+79
 Emperor cobra
+5
 Snake
 Animal
 Common
+245
 Giant crawling hand
+5
 Crawling hand
 Undead
 Common
+56
+Grimstalker
+5
 Grimstalker
 Fey
 Common
+137
+Grodair
+5
 Grodair
 Beast, fey
 Common
+140
+Hippopotamus
+5
 Hippopotamus
 Animal
 Common
+144
 Ice golem
+5
 Golem
 Construct
 Uncommon
+129
+Leucrotta
+5
 Leucrotta
 Beast
 Common
+162
+Lurker in light
+5
 Lurker in light
 Fey
 Common
+169
 Ogre spider
+5
 Spider
 Animal
 Common
+249
 Orca
+5
 Dolphin
 Animal
 Common
+84
 Ostiarius
+5
 Velstrac
 Fiend
 Common
+281
 Polar bear
+5
 Bear
 Animal
 Common
+36
+Skaveling
+5
 Skaveling
 Undead
 Common
+241
 Urdefhan tormentor
+5
 Urdefhan
 Humanoid
 Common
+273
+Ahuizotl
+6
 Ahuizotl
 Beast
 Uncommon
+12
 Babau
+6
 Demon
 Fiend
 Common
+64
+Baobhan sith
+6
 Baobhan sith
 Fey
 Uncommon
+33
 Belker
+6
 Elemental, air
 Elemental
 Common
+106
 Blizzardborn
+6
 Elemental, water
 Elemental
 Common
+114
+Blodeuwedd
+6
 Blodeuwedd
 Fey, plant
 Uncommon
+41
 Bralani
+6
 Azata
 Celestial
 Common
+30
 Cavern troll
+6
 Troll
 Giant
 Uncommon
+264
 Evangelist
+6
 Velstrac
 Fiend
 Common
+281
 Fire jellyﬁsh swarm
+6
 Jellyﬁsh
 Animal
 Common
+152
 Giant mosquito
+6
 Mosquito
 Animal
 Common
+175
+Hodag
+6
 Hodag
 Beast
 Uncommon
+145
 Iguanodon
+6
 Dinosaur
 Animal
 Common
+82
 Lunar naga
+6
 Naga
 Aberration
 Uncommon
+178
+Revenant
+6
 Revenant
 Undead
 Common
+227
 Sand sentry
+6
 Elemental, earth
 Elemental
 Common
+108
+Scythe tree
+6
 Scythe tree
 Plant
 Common
+235
 Sea drake
+6
 Drake
 Dragon
 Common
+101
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868813
+4425325
 
-================================================================================
 PAGE 317
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868814
+4425326
 Bestiary 2
+316
+316
+Skrik nettle
+6
 Skrik nettle
 Aberration
 Common
+242
 Striding ﬁre
+6
 Elemental, ﬁre
 Elemental
 Common
+111
 Verdurous ooze
+6
+Ooze
 Ooze
 Common
+194
 Vrykolakas spawn
+6
 Vampire
 Undead
 Common
+276
+Witchwyrd
+6
 Witchwyrd
 Humanoid
 Uncommon
+294
 Wood giant
+6
 Giant
 Giant, humanoid
 Common
+124
 Wood golem
+6
 Golem
 Construct
 Uncommon
+130
 Woolly rhinoceros
+6
 Rhinoceros
 Animal
 Common
+228
+Xill
+6
 Xill
 Aberration, ethereal
 Uncommon
+299
+Culdewen
+7
 Culdewen
 Fey
 Common
+57
+Drainberry bush
+7
 Drainberry bush
 Plant
 Common
+99
+Dweomercat
+7
 Dweomercat
 Beast
 Uncommon
+103
+Elasmosaurus
+7
 Elasmosaurus
 Animal
 Common
+105
 Giant jellyﬁsh
+7
 Jellyﬁsh
 Animal
 Common
+152
+Hellcat
+7
 Hellcat
 Beast, ﬁend
 Common
+141
+Hound of Tindalos
+7
 Hound of Tindalos
 Aberration, time
 Rare
+146
 Invidiak
+7
 Demon
 Fiend
 Common
+65
 Megalania
+7
 Lizard
 Animal
 Common
+168
+Sceaduinar
+7
 Sceaduinar
 Aberration, negative
 Rare
+233
 Shoggti
+7
 Qlippoth
 Fiend
 Uncommon
+213
+Soul eater
+7
 Soul eater
 Fiend
 Uncommon
+247
+Spectre
+7
 Spectre
 Undead
 Common
+248
 Sportlebore swarm
+7
 Sportlebore
 Animal
 Common
+251
 Spriggan warlord
+7
 Spriggan
 Humanoid
 Common
+253
+Stygira
+7
 Stygira
 Fey
 Common
+255
+Tendriculos
+7
 Tendriculos
 Fungus, plant
 Common
+257
 Theletos
+7
 Aeon
 Monitor
 Common
+8
+Totenmaske
+7
 Totenmaske
 Undead
 Common
+262
 Vanth
+7
 Psychopomp
 Monitor
 Common
+210
 Young crystal dragon
+7
 Dragon, primal
 Dragon, elemental
 Uncommon
+91
 Anancus
+8
 Elephant
 Animal
 Common
+116
+Animate dream
+8
 Animate dream
 Dream
 Uncommon
+18
+Behir
+8
 Behir
 Beast
 Common
+38
+Bodak
+8
 Bodak
 Undead
 Uncommon
+42
 Bone prophet
+8
 Serpentfolk
 Humanoid
 Uncommon
+239
+Denizen of Leng
+8
 Denizen of Leng
 Aberration, dream
 Common
+70
+Destrachan
+8
 Destrachan
 Aberration
 Common
+71
 Giant hippocampus
+8
 Hippocampus
 Animal
 Uncommon
+142
 Giant slug
+8
 Slug
 Animal
 Common
+244
 Glass golem
+8
 Golem
 Construct
 Uncommon
+131
+Gorgon
+8
 Gorgon
 Beast
 Uncommon
+132
 Granite glyptodont
+8
 Elemental, earth
 Elemental
 Common
+109
+Intellect devourer
+8
 Intellect devourer
 Aberration
 Uncommon
+147
 Magma scorpion
+8
 Elemental, ﬁre
 Elemental
 Common
+111
 Marsh giant
+8
 Giant
 Giant, humanoid
 Common
+125
+Mohrg
+8
 Mohrg
 Undead
 Common
+172
+Moonﬂower
+8
 Moonﬂower
 Plant
 Uncommon
+173
 Nabasu
+8
 Demon
 Fiend
 Common
+65
 Onidoshi
+8
 Oni
 Fiend, giant, humanoid
 Common
+188
+Sandpoint Devil
+8
 Sandpoint Devil
 Beast, ﬁend
 Unique
+230
 Sarglagon
+8
 Devil
 Fiend
 Common
+72
 Two–headed troll
+8
 Troll
 Giant
 Uncommon
+265
 Young brine dragon
+8
 Dragon, primal
 Dragon, elemental
 Uncommon
+87
+Aurumvorax
+9
 Aurumvorax
 Animal
 Common
+29
 Dracolisk
+9
 Basilisk
 Beast, dragon
 Uncommon
+35
 Dread wraith
+9
 Wraith
 Undead
 Common
+298
 Giant snapping turtle
+9
 Turtle
 Animal
 Common
+269
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868814
+4425326
 
-================================================================================
 PAGE 318
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868815
+4425327
+317
+317
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Giant squid
+9
 Squid
 Animal
 Common
+254
 Irnakurse
+9
 Fleshwarp
 Aberration
 Common
+118
+Jyoti
+9
 Jyoti
 Humanoid, positive
 Common
+153
 Mastodon
+9
 Elephant
 Animal
 Common
+116
+Nuckelavee
+9
 Nuckelavee
 Fey
 Common
+186
 Osyluth
+9
 Devil
 Fiend
 Common
+73
 Spirit naga
+9
 Naga
 Aberration
 Uncommon
+179
 Tick swarm
+9
 Tick
 Animal
 Common
+260
 Titan centipede
+9
 Centipede
 Animal
 Common
+50
+Witchﬁre
+9
 Witchﬁre
 Undead
 Uncommon
+293
 Young magma dragon
+9
 Dragon, primal
 Dragon, elemental
 Uncommon
+94
 Zelekhut
+9
 Aeon
 Monitor
 Common
+9
+Bebilith
+10
 Bebilith
 Beast, ﬁend
 Common
+37
 Behemoth hippopotamus
+10
 Hippopotamus
 Animal
 Common
+144
 Ghonhatine
+10
 Fleshwarp
 Aberration
 Common
+119
 Icewyrm
+10
 Elemental, water
 Elemental
 Common
+115
 Imentesh
+10
 Protean
 Monitor
 Common
+207
 Melody on the wind
+10
 Elemental, air
 Elemental
 Common
+107
 Movanic deva
+10
 Angel
 Celestial
 Common
+14
+Nereid
+10
 Nereid
 Fey
 Common
+182
 Nyogoth
+10
 Qlippoth
 Fiend
 Uncommon
+213
+Peluda
+10
 Peluda
 Dragon
 Common
+196
 Piscodaemon
+10
 Daemon
 Fiend
 Common
+58
 Quetz couatl
+10
 Couatl
 Beast
 Uncommon
+54
 Sacristan
+10
 Velstrac
 Fiend
 Common
+282
 Vrykolakas master
+10
 Vampire
 Undead
 Common
+276
+Water orm
+10
 Water orm
 Beast
 Rare
+289
 Young cloud dragon
+10
 Dragon, primal
 Dragon, elemental
 Uncommon
+89
 Adult crystal dragon
+11
 Dragon, primal
 Dragon, elemental
 Uncommon
+92
+Devourer
+11
 Devourer
 Undead
 Uncommon
+78
+Gosreg
+11
 Gosreg
 Aberration
 Uncommon
+133
 Hamatula
+11
 Devil
 Fiend
 Common
+74
 Hezrou
+11
 Demon
 Fiend
 Common
+66
+Isqulug
+11
 Isqulug
 Aberration
 Uncommon
+149
 Meladaemon
+11
 Daemon
 Fiend
 Common
+58
+Quoppopak
+11
 Quoppopak
 Aberration
 Common
+219
 Spinosaurus
+11
 Dinosaur
 Animal
 Common
+82
+Spiral centurion
+11
 Spiral centurion
 Construct
 Common
+250
+Thunderbird
+11
 Thunderbird
 Beast
 Uncommon
+259
 Young umbral dragon
+11
 Dragon, primal
 Dragon, shadow
 Uncommon
+96
 Adult brine dragon
+12
 Dragon, primal
 Dragon, elemental
 Uncommon
+87
+Athach
+12
 Athach
 Giant, humanoid
 Common
+27
+Catoblepas
+12
 Catoblepas
 Beast
 Common
+48
 Chernobue
+12
 Qlippoth
 Fiend
 Uncommon
+214
 Derghodaemon
+12
 Daemon
 Fiend
 Common
+59
+Frost worm
+12
 Frost worm
 Animal
 Common
+123
 Interlocutor
+12
 Velstrac
 Fiend
 Common
+283
 Monadic deva
+12
 Angel
 Celestial
 Common
+15
+Rusalka
+12
 Rusalka
 Fey
 Common
+229
 Taiga giant
+12
 Giant
 Giant, humanoid
 Common
+126
 Adult magma dragon
+13
 Dragon, primal
 Dragon, elemental
 Uncommon
+94
 Carnivorous blob
+13
+Ooze
 Ooze
 Common
+195
+Froghemoth
+13
 Froghemoth
 Aberration
 Uncommon
+122
 Ice yai
+13
 Oni
 Fiend, giant, humanoid
 Common
+189
+Irlgaunt
+13
 Irlgaunt
 Aberration
 Common
+148
+Leng spider
+13
 Leng spider
 Aberration, dream
 Uncommon
+157
 Shadow giant
+13
 Giant
 Giant, humanoid, shadow
 Common
+127
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868815
+4425327
 
-================================================================================
 PAGE 319
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868816
+4425328
 Bestiary 2
+318
+318
 Thanadaemon
+13
 Daemon
 Fiend
 Common
+60
+Viper vine
+13
 Viper vine
 Plant
 Common
+287
 Vrykolakas ancient
+13
 Vampire
 Undead
 Uncommon
+277
 Adult cloud dragon
+14
 Dragon, primal
 Dragon, elemental
 Uncommon
+90
+Ankou
+14
 Ankou
 Fey
 Common
+19
 Augnagar
+14
 Qlippoth
 Fiend
 Uncommon
+215
+Doprillu
+14
 Doprillu
 Aberration
 Common
+85
 Fire yai
+14
 Oni
 Fiend, giant, humanoid
 Common
+190
 Gylou
+14
 Devil
 Fiend
 Common
+75
 Nalfeshnee
+14
 Demon
 Fiend
 Common
+67
 Ravener husk
+14
 Ravener
 Dragon, undead
 Rare
+224
 Trumpet archon
+14
 Archon
 Celestial
 Common
+23
 Worm that walks cultist
+14
 Worm that walks
 Aberration
 Uncommon
+297
 Adult umbral dragon
+15
 Dragon, primal
 Dragon, shadow
 Uncommon
+96
 Black scorpion
+15
 Scorpion
 Animal
 Common
+234
 Jotund troll
+15
 Troll
 Giant
 Rare
+267
+Marrmora
+15
 Marrmora
 Fey
 Common
+171
 Marut
+15
 Aeon
 Monitor
 Common
+10
+Neothelid
+15
 Neothelid
 Aberration
 Uncommon
+181
 Shoal linnorm
+15
 Linnorm
 Dragon
 Uncommon
+164
+Umonlee
+15
 Umonlee
 Beast
 Uncommon
+271
 Ancient crystal dragon
+16
 Dragon, primal
 Dragon, elemental
 Rare
+92
 Bythos
+16
 Aeon
 Monitor
 Uncommon
+11
 Cornugon
+16
 Devil
 Fiend
 Common
+76
 Fjord linnorm
+16
 Linnorm
 Dragon
 Uncommon
+165
 Planetar
+16
 Angel
 Celestial
 Uncommon
+15
+Zomok
+16
 Zomok
 Dragon, plant
 Common
+303
 Ancient brine dragon
+17
 Dragon, primal
 Dragon, elemental
 Rare
+88
+Leydroth
+17
 Leydroth
 Beast
 Uncommon
+163
+Radiant warden
+17
 Radiant warden
 Construct
 Uncommon
+220
+Thrasfyr
+17
 Thrasfyr
 Beast
 Rare
+258
+Vaspercham
+17
 Vaspercham
 Aberration
 Common
+279
 Water yai
+17
 Oni
 Fiend, giant, humanoid
 Common
+191
 Ancient magma dragon
+18
 Dragon, primal
 Dragon, elemental
 Rare
+95
+Aolaz
+18
 Aolaz
 Construct
 Rare
+21
 Cairn linnorm
+18
 Linnorm
 Dragon
 Uncommon
+166
 Duneshaker solifugid
+18
 Solifugid
 Animal
 Common
+246
 Purrodaemon
+18
 Daemon
 Fiend
 Common
+61
 Thulgant
+18
 Qlippoth
 Fiend
 Uncommon
+216
 Ancient cloud dragon
+19
 Dragon, primal
 Dragon, elemental
 Rare
+90
+Grendel
+19
 Grendel
 Humanoid
 Unique
+136
+Sard
+19
 Sard
 Plant
 Rare
+231
 Star archon
+19
 Archon
 Celestial
 Common
+23
 Taiga linnorm
+19
 Linnorm
 Dragon
 Uncommon
+167
 Vrolikai
+19
 Demon
 Fiend
 Uncommon
+68
 Ancient umbral dragon
+20
 Dragon, primal
 Dragon, shadow
 Rare
+97
 Bastion archon
+20
 Archon
 Celestial
 Rare
+24
 Eremite
+20
 Velstrac
 Fiend
 Common
+284
+Norn
+20
 Norn
 Fey
 Rare
+184
 Olethrodaemon
+20
 Daemon
 Fiend
 Common
+63
 Veranallia
+20
 Azata
 Celestial
 Common
+31
 Yamaraj
+20
 Psychopomp
 Monitor
 Uncommon
+211
+Lerritan
+21
 Lerritan
 Elemental
 Common
+159
+Ravener
+21
 Ravener
 Dragon, undead
 Rare
+224
+Jabberwock
+23
 Jabberwock
 Dragon
 Rare
+150
 Solar
+23
 Angel
 Celestial
 Rare
+16
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868816
+4425328
 
-================================================================================
 PAGE 320
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868817
+4425329
+319
+319
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 This product is compliant with the Open Game License (OGL) and is suitable for use with the Pathﬁnder
 Roleplaying Game (Second Edition).
 Product Identity: The following items are hereby identiﬁed as Product Identity, as deﬁned in the Open Game
@@ -2659,7 +3945,8 @@ Pathﬁnder, the Pathﬁnder logo, Pathﬁnder Society, Starﬁnder, and the Sta
 Paizo Inc.; the Pathﬁnder P logo, Pathﬁnder Accessories, Pathﬁnder Adventure Card Game, Pathﬁnder Adventure
 Card Society, Pathﬁnder Adventure Path, Pathﬁnder Adventures, Pathﬁnder Battles, Pathﬁnder Combat Pad,
 Pathﬁnder Flip-Mat, Pathﬁnder Flip-Tiles, Pathﬁnder Legends, Pathﬁnder Lost Omens, Pathﬁnder Pawns,
-Pathﬁnder Roleplaying Game, Pathﬁnder Tales, Starﬁnder Adventure Path, Starﬁnder Combat Pad, Starﬁnder FlipMat, Starﬁnder Pawns, Starﬁnder Roleplaying Game, and Starﬁnder Society are trademarks of Paizo Inc.
+Pathﬁnder Roleplaying Game, Pathﬁnder Tales, Starﬁnder Adventure Path, Starﬁnder Combat Pad, Starﬁnder Flip-
+Mat, Starﬁnder Pawns, Starﬁnder Roleplaying Game, and Starﬁnder Society are trademarks of Paizo Inc.
 Printed in China.
 OPEN GAME LICENSE Version 1.0a
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the
@@ -2732,7 +4019,7 @@ reformed only to the extent necessary to make it enforceable.
 15. COPYRIGHT NOTICE
 Open Game License v 1.0a © 2000, Wizards of the Coast, Inc.
 System Reference Document © 2000, Wizards of the Coast, Inc.; Authors: Jonathan Tweet, Monte
-Cook, and Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
+Cook, and Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
 Angel, Monadic Deva from the Tome of Horrors Complete © 2011, Necromancer Games, Inc., published
 and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
 Angel, Movanic Deva from the Tome of Horrors Complete © 2011, Necromancer Games, Inc., published
@@ -2773,18 +4060,18 @@ Froghemoth from the Tome of Horrors Complete © 2011, Necromancer Games, Inc., p
 distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
 Genie, Marid from the Tome of Horrors Complete © 2011, Necromancer Games, Inc., published and
 PAIZO INC.
-Creative Directors • James Jacobs, Robert G. McCreary, and Sarah E. Robinson
+Creative Directors • James Jacobs, Robert G. McCreary, and Sarah E. Robinson
 Director of Game Design • Jason Bulmahn
-Managing Developers • Adam Daigle and Amanda Hamon
+Managing Developers • Adam Daigle and Amanda Hamon
 Organized Play Lead Developer • Linda Zayas-Palmer
-Developers • James Case, Eleanor Ferron, Jason Keeley, Luis Loza, Ron Lundeen,
+Developers • James Case, Eleanor Ferron, Jason Keeley, Luis Loza, Ron Lundeen,
 Patrick Renie, Michael Sayre, and Jason Tondro
 Starﬁnder Lead Designer • Joe Pasini
 Starﬁnder Senior Developer • John Compton
 Starﬁnder Society Developer • Thurston Hillman
-Designers • Logan Bonner, Lyz Liddell, and Mark Seifter
+Designers • Logan Bonner, Lyz Liddell, and Mark Seifter
 Managing Editor • Judy Bauer
-Editors • Leo Glass, Patrick Hurley, Avi Kool, Kieran Newton, and Lu Pellazar
+Editors • Leo Glass, Patrick Hurley, Avi Kool, Kieran Newton, and Lu Pellazar
 Art Directors • Kent Hamilton and Sonja Morris
 Senior Graphic Designers • Emily Crowell and Adam Vick
 Production Artist • Tony Barnett
@@ -2801,21 +4088,21 @@ Sales Associate • Cosmo Eisele
 Vice President of Marketing & Licensing • Jim Butler
 Public Relations Manager • Aaron Shanks
 Social Media Producer • Payton Smith
-Customer Service & Community Manager • Sara Marie
+Customer Service & Community Manager • Sara Marie
 Operations Manager • Will Chase
-Organized Play Manager • Tonya Woldridge
+Organized Play Manager • Tonya Woldridge
 Accountant • William Jorenby
 Data Entry Clerk • B. Scott Keim
 Director of Technology • Raimi Kong
 Web Content Manager • Maryssa Lagervall
-Senior Software Developer • Gary Teter
+Senior Software Developer • Gary Teter
 Webstore Coordinator • Katina Davis
-Customer Service Team • Joan Hong, Virginia Jordan, Samantha Phelan, and
-Diego Valdez
-Warehouse Team • Laura Wilkes Carey, Mika Hawkins, Heather Payne, Jeﬀ Strand, and
-Kevin Underwood
-Website Team • Brian Bauman, Robert Brandenburg, Whitney Chatterjee, Erik Keith,
-Josh Thornton, and Andrew White
+Customer Service Team • Joan Hong, Virginia Jordan, Samantha Phelan, and
+Diego Valdez
+Warehouse Team • Laura Wilkes Carey, Mika Hawkins, Heather Payne, Jeﬀ Strand, and
+Kevin Underwood
+Website Team • Brian Bauman, Robert Brandenburg, Whitney Chatterjee, Erik Keith,
+Josh Thornton, and Andrew White
 distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
 Grippli from the Tome of Horrors Complete © 2011, Necromancer Games, Inc., published and distributed
 by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
@@ -2851,12 +4138,37 @@ Matthew Goodall, T.H. Gulliver, BJ Hensley, Tim Hitchcock, Vanessa Hoskins, Jame
 James, Jason Keeley, John Laﬀan, Lyz Liddell, Colm Lundberg, Ron Lundeen, Jason Nelson, Randy Price,
 Jessica Redekop, Patrick Renie, Alistair Rigg, Alex Riggs, David N. Ross, David Schwartz, Mark Seifter,
 Amber Stewart, Jeﬀrey Swank, Russ Taylor, and Jason Tondro.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868817
+4425329
 
-================================================================================
 PAGE 321
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868818
+4425330
 GAMEMASTERY GUIDE
+GAMEMASTERY GUIDE
+HARDCOVER $49.99 and Deluxe Hardcover $69.99
 HARDCOVER $49.99 and Deluxe Hardcover $69.99
 © 2020, Paizo Inc. Paizo, the Paizo golem logo, Pathﬁ nder, and the Pathﬁ nder logo are registered trademarks of Paizo Inc.;
 the Pathﬁ nder P logo, Pathﬁ nder Adventure Path, Pathﬁ nder Roleplaying Game, and Pathﬁ nder Lost Omens are trademarks of Paizo Inc.
@@ -2869,8 +4181,20 @@ your character.
 Experience exciting subsystems like chases, duels, and inﬁ ltrations.
 Find more than 80 new NPCs to use in your game, from guards to assassins.
 Available Now!
+Available Now!
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868818
+4425330
 
-================================================================================
 PAGE 322
 ================================================================================
 
@@ -2884,4 +4208,3 @@ for summoners of every alignment, this must-have expansion to the Pathﬁnder
 Bestiary seethes with enemies to challenge characters of any level.
 paizo.com/pathﬁnder
 Printed in China.
-

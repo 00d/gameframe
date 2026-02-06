@@ -1,0 +1,105 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669046
+4425203
+E-G
+193
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
+GREMLIN “TREASURE”
+All gremlins are hoarders, and their
+nests are cluttered with objects
+both valuable and worthless.
+Sorting through a gremlin nest can
+reveal unexpected treasures like
+pieces of jewelry or minor magic
+items, but care must also be taken
+to avoid being cut on rusty shards
+of metal, picking up cursed items,
+or disturbing a hidden nest of
+venomous vermin.
+PUGWAMPI
+CREATURE 0
+NE
+TINY
+FEY
+GREMLIN
+Perception +6 (–2 to hear things); darkvision
+Languages Gnoll, Undercommon
+Skills Crafting +2, Deception +2, Nature +4, Stealth +5, Thievery +5
+Str –3, Dex +3, Con +0, Int +0, Wis +2, Cha –2
+Items shortbow (60 arrows), shortsword
+AC 16, Fort +5, Ref +8, Will +6
+HP 17; Weaknesses cold iron 2
+Unluck Aura (aura, divination, mental, misfortune, primal) 20 feet. Creatures other than
+animals, gremlins, and gnolls in the aura become extremely unlucky (DC 16 Will save;
+creature must roll this Will save twice and take the worse result). On a successful
+save, the creature is temporarily immune to pugwampi unluck auras for 24 hours. On
+a failure, the creature must roll twice and take the worse result on all checks as long
+as it is within the aura.
+Speed 25 feet
+Melee Ȱɵ shortsword +8 (agile, ﬁnesse, magical, versatile S), Damage 1d6–3 slashing
+Ranged Ȱɵ shortbow +8 (deadly 1d10, magical, range increment 60 feet, reload 0),
+Damage 1d6 piercing
+Primal Innate Spells DC 16; 2nd speak with animals (at will); Cantrips
+(1st) prestidigitation
+Jinkin
+Jinkins are sadistic tinkers who steal and sabotage items and take great
+pride in their power to curse precious objects. They hold grudges and
+create convoluted plans for revenge whenever they feel slighted, such as
+when a creature dares to remove one of their curses. Rarely content to
+wreak simple mayhem, jinkins also take immense pleasure in torture and
+murder, though they prefer to lead
+victims into traps designed to capture
+or incapacitate rather than kill outright.
+Deep pits are favorites, since victims
+who survive the fall face a slow death from
+starvation and thirst. Jinkins enjoy gathering
+at the edge of pits to mock, tease, and torment.
+JINKIN
+CREATURE 1
+CE
+TINY
+FEY
+GREMLIN
+Perception +7; darkvision
+Languages Undercommon
+Skills Acrobatics +7, Crafting +5 (+7 traps), Deception +5,
+Nature +5, Stealth +7, Thievery +7
+Str –2, Dex +4, Con +0, Int +2, Wis +2, Cha +2
+Items shortsword
+AC 17; Fort +6, Ref +10, Will +7
+HP 19; Weaknesses cold iron 2
+Speed 30 feet
+Melee Ȱɵ shortsword +9 (agile, ﬁnesse, magical, versatile S), Damage 1d6–2 piercing
+Primal Innate Spells DC 17; Cantrips (1st) prestidigitation
+Sneak Attack The jinkin deals 1d6 extra precision damage to ﬂat-footed creatures.
+Tinker (curse, primal, transmutation) A group of six jinkins can work together
+for an hour to imbue an item with a curse at a range of 60 feet. While this
+process is lengthy, it’s also unobtrusive and can be performed while Hiding. Jinkins
+prefer to use this ability on magic items. The curse makes the item unreliable (DC
+5 flat check or waste any action to Interact with or Activate the item), adds
+a bizarre requirement to use the item, or imparts some other curse of a
+similar caliber.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669046
+4425203

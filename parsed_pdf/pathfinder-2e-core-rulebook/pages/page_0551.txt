@@ -1,0 +1,125 @@
+SILVERTONGUE MUTAGEN
+ITEM 1+
+ALCHEMICAL
+ CONSUMABLE
+ ELIXIR
+ MUTAGEN
+ POLYMORPH
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+Your features become striking and your voice becomes
+musical and commanding, though facts and figures become
+hazy for you and emotion clouds your ability to reason.
+Benefit You gain an item bonus to Deception, Diplomacy,
+Intimidation, and Performance checks. Your critical failures
+with any of these skill become failures instead.
+Drawback You take a –2 item penalty to Arcana, Crafting,
+Lore, Occultism, and Society checks. Choose one skill in which
+you are trained; for the duration, you become untrained in that
+skill. All your failures on checks to Recall Knowledge become
+critical failures.
+Type lesser; Level 1; Price 4 gp
+The bonus is +1, and the duration is 1 minute.
+Type moderate; Level 3; Price 12 gp
+The bonus is +2, and the duration is 10 minutes.
+Type greater; Level 11; Price 300 gp
+The bonus is +3, and the duration is 1 hour.
+Type major; Level 17; Price 3,000 gp
+The bonus is +4, and the duration is 1 hour.
+STONE FIST ELIXIR
+ITEM 4
+ALCHEMICAL
+ CONSUMABLE
+ ELIXIR
+ MORPH
+Price 13 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+Your fists become hard as stone. For 1 hour, your fists deal 1d6
+bludgeoning damage and lose the nonlethal trait.
+WINTER WOLF ELIXIR
+ITEM 4+
+ALCHEMICAL
+ CONSUMABLE
+ ELIXIR
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+This elixir warms your core and improves your circulation. For
+24 hours, you are protected from the effects of severe cold.
+Type lesser; Level 4; Price 15 gp
+Type moderate; Level 12; Price 320 gp
+You’re also protected from extreme cold.
+Type greater; Level 16; Price 1,400 gp
+You’re also protected from extreme and incredible cold.
+Alchemical Poisons
+Alchemical poisons are potent toxins distilled or extracted
+from natural sources and made either stronger or easier to
+administer. Each poison’s stat block includes the Price and
+features for a single dose. Poison doses are typically kept
+in a vial or some other type of safe and secure container.
+Applying alchemical poisons uses Interact actions. A
+poison typically requires one hand to pour into food
+or scatter in the air. Applying a poison to a weapon or
+another item requires two hands, with one hand holding
+the weapon or item. The Usage entry for a poison
+indicates the number of hands needed for a typical means
+of application, but the GM might determine that using
+poisons in other ways functions differently.
+The full rules for how poisons and other afflictions
+work begin on page 457. A creature attempts the listed
+saving throw as soon as it’s exposed to the poison; on a
+failed save, the creature advances to stage 1 of the poison
+after any listed onset time elapses.
+Some poisons have the virulent trait. This means the
+poison is harder to remove once it has taken effect; see
+Virulent Afflictions on page 458.
+Method of Exposure
+Each alchemical poison has one of the following traits,
+which define how a creature can be exposed to that poison.
+Contact: A contact poison is activated by applying it to
+an item or directly onto a living creature’s skin. The first
+creature to touch the affected item must attempt a saving
+throw against the poison; if the poison is applied directly,
+the creature must attempt a saving throw immediately
+when the poison touches its skin. Contact poisons are
+infeasible to apply to a creature via a weapon attack due to
+the logistics of delivering them without poisoning yourself.
+Typically, the onset time of a contact poison is 1 minute.
+Ingested: An ingested poison is activated by applying
+it to food or drink to be consumed by a living creature,
+or by placing it directly into a living creature’s mouth. A
+creature attempts a saving throw against such a poison
+when it consumes the poison or the food or drink treated
+with the poison. The onset time of ingested poisons
+typically ranges anywhere from 1 minute to 1 day.
+Inhaled: An inhaled poison is activated by unleashing
+it from its container. Once unleashed, the poison creates a
+cloud filling a 10-foot cube lasting for 1 minute or until a
+strong wind dissipates the cloud. Every creature entering
+this cloud is exposed to the poison and must attempt a
+saving throw against it; a creature aware of the poison
+before entering the cloud can use a single action to hold
+its breath and gain a +2 circumstance bonus to the saving
+throw for 1 round.
+Injury: An injury poison is activated by applying it to
+a weapon, and it affects the target of the first Strike made
+using the poisoned weapon. If that Strike is a success and
+deals piercing or slashing damage, the target must attempt
+a saving throw against the poison. On a failed Strike, the
+target is unaffected, but the poison remains on the weapon
+and you can try again. On a critical failure, or if the Strike
+fails to deal slashing or piercing damage for some other
+reason, the poison is spent but the target is unaffected.
+ARSENIC
+ITEM 1
+ALCHEMICAL
+ CONSUMABLE
+ INGESTED
+ POISON
+Price 3 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+This toxin is a compound of arsenic and other substances. You
+can’t reduce your sickened condition while affected.
+Core Rulebook
+550

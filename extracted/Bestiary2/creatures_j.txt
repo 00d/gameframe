@@ -88,7 +88,21 @@ in the emanation must succeed at a DC 43 Athletics check to approach the jabberw
 PAGE 153
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868650
+4425162
 Bestiary 2
+152
+152
 JELLYFISH SPECIES
 A large number of types of
 monstrous jellyﬁsh dwell in the
@@ -111,89 +125,94 @@ numbers, ﬁre jellyﬁsh can form into dangerous swarms. Bobbing in the water,
 they create a cloud of stinging tentacles. They were named in part for their
 bright coloration, but those who are stung by ﬁre jellyﬁsh learn the larger reason
 for their name—the pain of their stings is comparable to being burned alive.
-
-================================================================================
-# JYOTI
-================================================================================
-
-
-CRYSTAL VAULTS
-Jyoti make ideal guardians for artifacts
-too dangerous to be left where those
-hungry for power might seize them.
-Only they know what items of myth
-and legend, long thought lost or
-destroyed, lie within their crystal
-vaults. They are unreliable guardians
-of religious artifacts, however, which
-usually disgust them.
-Jyoti
-Jyotis are sometimes called “false phoenixes” (a term they ﬁnd insulting) by the
-ignorant or willful. These avian humanoids are native to the Positive Energy Plane.
-They rarely leave this enigmatic realm and view visitors from other planes as stains
-on the purity of their home. Jyotis particularly distrust divine spellcasters and
-religious warriors, seeing them as inclined to take credit for manifesting a life force
-that, from the jyotis’ perspective, is as plentiful and ubiquitous as water is to ﬁsh.
-Despite their distrust of intruders, jyotis rarely attack unprovoked when their
-homes are not threatened. They are intolerant, however, of those who intrude on the
-palaces of crystallized light and captured ﬂame in which they dwell. They often chase
-even those who come bearing gifts away; few visitors have anything they desire,
-for what they desire most is to be left alone. The jyotis’ full wrath is reserved for
-natives of the Shadow Plane and the Negative Energy Plane. Historically, the promise
-of battle with the gargoyle-like sceaduinars, whom they consider it their duty to
-oppose, has been the only thing to lure jyoti armies beyond the Positive Energy Plane.
-JYOTI
-CREATURE 9
+FIRE JELLYFISH SWARM
+CREATURE 6
 N
-MEDIUM
-FIRE
-HUMANOID
-POSITIVE
-Perception +21; darkvision
-Languages Common, Jyoti
-Skills Acrobatics +20, Intimidation +18, Occultism +20,
-Society +18
-Str +3, Dex +5, Con +4, Int +5, Wis +6, Cha +3
-Items +1 striking longspear
-AC 28; Fort +15, Ref +18, Will +21; +1 status to all
-saves vs. magic (+2 vs. divine magic)
-HP 155; Immunities death eﬀects, disease,
-poison; Resistances ﬁre 10, negative 10
-Positive Energy Aﬃnity Positive healing
-eﬀects always heal the jyoti for the
-maximum amount. It doesn’t gain the
-automatic Hit Points or temporary Hit
-Points from being on a plane with the
-positive planar essence.
-Speed 25 feet, ﬂy 60 feet
-Melee Ȱɵ ﬂaming ghost touch longspear +20
-(magical, reach 10 feet), Damage 2d8+6
-piercing plus 1d6 ﬁre
-Melee Ȱɵ beak +21 (ﬁnesse), Damage 2d12+6
-piercing plus 1d6 ﬁre
-Melee Ȱɵ talon +21 (agile, ﬁnesse), Damage
-2d8+6 slashing plus 1d6 ﬁre
-Occult Innate Spells DC 28, attack +20; 5th
-banishment, breath of life; 4th dimension
-door, heal, searing light; 3rd heal (×3); 2nd
-restoration (×3); Cantrips (5th) disrupt
-undead, light
-Breath Weapon (evocation, ﬁre, occult) The
-jyoti breathes a blast of searing ﬂame
-infused with positive energy in a 40-foot
-cone that deals 8d6 ﬁre damage plus
-4d6 positive damage to creatures in
-the area (DC 28 basic Reﬂex save).
-The jyoti can’t use Breath Weapon
-again for 1d4 rounds.
-Infuse Weapons (occult, evocation) Any weapon a jyoti wields becomes a ﬂaming ghost
-touch weapon while the jyoti holds it.
+LARGE
+ANIMAL
+AQUATIC
+MINDLESS
+SWARM
+Perception +10; low-light vision
+Skills Acrobatics +15
+Str –4 Dex +5, Con +4, Int –5, Wis +0, Cha –5
+AC 13; Fort +16, Ref +15, Will +10
+HP 155; Immunities mental, precision, swarm mind; Weaknesses area damage 7, splash
+damage 7; Resistances bludgeoning 9, piercing 9, poison 10, slashing 5
+Speed swim 20 feet
+Agile Swimmer Fire jellyﬁsh swarms use Acrobatics to Swim.
+Burning Swarm Ȱɵ (poison) Each enemy in the swarm’s space takes 3d8 poison damage
+(DC 24 basic Reﬂex save) and is exposed to ﬁre jelly venom.
+Fire Jelly Venom (poison) Saving Throw DC 24 Fortitude; Maximum Duration 6
+rounds; Stage 1 clumsy 1 (1 round); Stage 2 clumsy 2 (1 round); Stage 3 clumsy
+3 (1 round)
+GIANT JELLYFISH
+Unlike its smaller cousins, the giant jellyﬁsh is an active
+predator that chases down its prey through reefs or
+open water. It can even squeeze its enormous
+bell-shaped body into the tight conﬁnes of
+shipwrecks to drape its mane of tentacles
+across the exposed ﬂesh of its prey.
+GIANT JELLYFISH
+CREATURE 7
+N
+LARGE
+ANIMAL
+AQUATIC
+MINDLESS
+Perception +12; darkvision
+Skills Acrobatics +15, Athletics +17, Stealth +15
+Str +6, Dex +4, Con +6, Int –5, Wis +0, Cha –5
+AC 15; Fort +17, Ref +15, Will +1
+HP
+165;
+Immunities
+mental,
+precision;
+Weaknesses piercing 5, slashing 5; Resistances
+bludgeoning 10, poison 10
+Speed swim 20 feet
+Melee Ȱɵ tentacle +18 (agile, reach 20 feet), Damage
+2d8+8 bludgeoning plus jellyﬁsh venom
+Jellyﬁsh Venom (poison) Saving Throw DC 25 Fortitude;
+Maximum Duration 6 rounds; Stage 1 2d8 poison
+damage and clumsy 1 (1 round); Stage 2 3d6
+poison damage and clumsy 2 (1 round); Stage 3
+2d10 poison damage and paralyzed (1 round)
+Squeeze A giant jellyﬁsh can ﬁt into tight spaces
+as if it were a Medium creature. It can move at
+its full Speed while Squeezing.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868650
+4425162
 
-================================================================================
 PAGE 155
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868652
+4425164
 Bestiary 2
+154
+154
 KELPIE FOLKTALES
 Some fanciful stories about kelpies
 speak of them appearing in equine
@@ -217,95 +236,93 @@ the only parts of a meal kelpies ﬁnd unpleasant. Kelpies are fond of magically
 disguising itself as ﬁne steeds or attractive strangers to draw in victims, but
 its true appearance takes the form of a hideous equine with slimy, green ﬂesh
 resembling aquatic plants.
+KELPIE
+CREATURE 4
+NE
+LARGE
+AMPHIBIOUS
+FEY
+Perception +11; low-light vision
+Languages Aquan, Common, Sylvan
+Skills Athletics +11, Deception +14, Stealth +10
+Str +5, Dex +2, Con +3, Int –1, Wis +3, Cha +4
+AC 21; Fort +11, Ref +12, Will +14
+HP 60; Weaknesses cold iron 5; Resistances ﬁre 5
+Speed 35 feet, swim 35 feet
+Melee Ȱɵ jaws +13, Damage 2d6+7 bludgeoning plus Grab
+Captivating Lure ʚʖ (concentrate, emotion, enchantment, incapacitation, mental,
+primal) The kelpie instills an overwhelming attraction to itself within the mind of a
+single creature within 60 feet. The target perceives the kelpie as a desirable person (if
+the kelpie is in humanoid form) or a valuable steed (if the kelpie is in equine form) and
+must attempt a DC 23 Will saving throw.
+Critical Success The creature is unaﬀected and is temporarily immune to Captivating
+Lure for 24 hours.
+Success The creature is stupeﬁed 1 for 1 round and is then temporarily immune to
+Captivating Lure for 24 hours.
+Failure The creature is fascinated, and it must spend each of its actions to move closer to
+the kelpie as expediently as possible while avoiding obvious dangers. If a captivated
+creature is adjacent to the kelpie, it either attempts to mount the kelpie
+(if the kelpie is in equine form) or stays still and
+doesn’t act. If the creature is attacked by the
+kelpie, or if it can’t breathe water and enters
+an area of water, the creature is freed from
+captivation at the end of the kelpie’s turn.
+Critical Failure As failure, but the target
+doesn’t consider water a danger and
+will enter an area of water even if
+it can’t swim or breathe water.
+If it is attacked by the kelpie or
+starts to drown, it can attempt
+a new save at the start of its
+next turn, but it isn’t freed
+automatically.
+Change Shape Ȱɵ (concentrate,
+polymorph,
+primal,
+transmutation)
+The
+kelpie
+can
+take
+on
+the appearance of any
+Medium or Large animal
+of an equine nature (such as
+a horse, hippocampus, or pony), or
+any Small or Medium humanoid. This doesn’t
+change its Speeds or its attack and damage
+modiﬁers with its Strikes.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868652
+4425164
 
-================================================================================
-# JOTUND TROLL
-================================================================================
-
-
-RAVENOUS MUTANTS
-Jotund trolls on the world of Golarion
-are found in two particular regions
-with greater frequency: the magicwarped reaches of the Mana Wastes,
-and the radiation-wracked badlands
-of Numeria. In both places, the
-presence of life-altering magic or
-science seems to have had the same
-eﬀect in bolstering the presence of
-these lumbering monstrosities.
-JOTUND TROLL
-CREATURE 15
-RARE
-CE
-HUGE
-GIANT
-MUTANT
-TROLL
-Perception +29; darkvision
-Languages Jotun
-Skills Athletics +29, Intimidation +27
-Str +8, Dex +4, Con +8, Int –1, Wis +6, Cha +4
-AC 35, all-around vision; Fort +31, Ref +23, Will +23
-HP 360, regeneration 40 (deactivated by acid or ﬁre); Weaknesses ﬁre 10
-Head Regrowth A jotund troll ordinarily has nine heads, and they can use regeneration
-to regrow a head that is severed from an eﬀect like a vorpal weapon. After regaining
-Hit Points from regeneration, the jotund troll attempts a DC 8 ﬂat check. On a success,
-one missing head is fully restored; on a critical success, two missing heads are fully
-restored. If a jotund troll loses their last remaining head, they die immediately.
-Multiple Opportunities A jotund troll gains an extra reaction per round for each of their
-heads beyond the ﬁrst, which they can use only to make Attacks of Opportunity
-with their jaws or to Fast Swallow. They can’t use more than 1 reaction for the
-same triggering action, even if a creature leaves several squares within their
-reach, and the jotund troll must use a diﬀerent head for each Attack of
-Opportunity they make. Whenever one of the jotund troll’s heads is
-severed, the troll loses 1 of their extra reactions per round.
-Attack of Opportunity Ǻȓ
-Catch Rock Ǻȓ
-Speed 30 feet, climb 20 feet
-Melee Ȱɵ jaws +29 (reach 15 feet), Damage 3d12+14 piercing
-Melee Ȱɵ claw +29 (agile, reach 15 feet), Damage
-3d10+14 slashing
-Ranged Ȱɵ rock +30 (brutal, range increment 120 feet),
-Damage 2d12+14 bludgeoning
-Cacophonous Roar ʚʖ (auditory, emotion, enchantment,
-incapacitation, mental, primal) The jotund troll emits a
-cacophonous roar from all their heads with a mystical
-power that distorts the listener’s mind. Each non-troll
-creature within 100 feet must attempt a DC 34 Will
-save. The jotund troll can’t use Cacophonous Roar
-for 1d4 rounds.
-Critical Success The creature is unaﬀected and is
-temporarily immune to Cacophonous Roar for
-24 hours.
-Success The creature is stupeﬁed 1 for 1 round.
-Failure The creature is confused for 1 round.
-Critical Failure The creature is confused
-for 1d4 rounds.
-Fast Swallow Ǻȓ Trigger The jotund
-troll
-Grabs
-a
-creature
-with
-their jaws; Effect The troll uses
-Swallow Whole.
-Ravenous Jaws ʚʖ The jotund troll
-makes a number of jaws Strikes
-up to their number of heads, each
-against a diﬀerent target. These attacks
-count toward the troll’s multiple attack penalty, but
-the penalty doesn’t increase until after the jotund troll
-makes all of these attacks.
-Rend Ȱɵ claw
-Swallow Whole Ȱɵ (attack) Medium, 3d12+8
-bludgeoning, Rupture 36
-Throw Rock Ȱɵ
-
-================================================================================
 PAGE 269
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868766
+4425278
 Bestiary 2
+268
+268
 TROLLHOUND GENESIS
 The ﬁrst trollhounds were the
 unexpected result of occult
@@ -351,3 +368,46 @@ into the hinterlands. Left to their own devices, a pack of escaped trollhounds
 can breed relatively quickly, and it can take less than a year for a small pack to
 multiply into a signiﬁcant threat to the countryside. Best to leave the trollhounds
 to the trolls, as they say!
+TROLLHOUND
+CREATURE 3
+N
+MEDIUM
+BEAST
+TROLL
+Perception +6; darkvision, scent (imprecise) 30 feet
+Skills Acrobatics +6, Athletics +11, Stealth +8,
+Survival +6
+Str +4, Dex +1, Con +5, Int –4, Wis +1,
+Cha –2
+AC 17; Fort +14, Ref +8, Will +6
+HP 65, regeneration 15 (deactivated
+by acid or ﬁre); Weaknesses
+ﬁre 10
+Speed 35 feet
+Melee Ȱɵ jaws +11, Damage 1d12+4
+piercing plus Knockdown and
+bloodﬁre fever
+Bloodﬁre Fever (disease); Saving
+Throw DC 18 Fortitude; Stage 1
+carrier with no ill eﬀect (1 day);
+Stage 2 enfeebled 1 (1 day); Stage
+3 enfeebled 1 and clumsy 1 (1 day);
+Stage 4 enfeebled 2 and clumsy
+2 (1 day); Stage 5 enfeebled 2,
+clumsy 2, and fatigued (1 day)
+Pack Attack The trollhound deals an
+extra 1d6 damage to any creature
+within reach of at least two of the
+trollhound’s allies.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868766
+4425278

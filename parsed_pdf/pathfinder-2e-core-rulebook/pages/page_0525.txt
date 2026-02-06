@@ -1,0 +1,123 @@
+FIREBALL RUNE
+HAZARD 5
+EVOCATION
+FIRE
+MAGICAL
+TRAP
+Stealth DC 24 (expert)
+Description An invisible rune creates an invisible, spherical
+magical sensor with a 20-foot radius.
+Disable Thievery DC 22 (expert) to erase the rune without
+triggering the sensor, or dispel magic (3rd level; counteract
+DC 20) to counteract the rune
+Fireball [reaction] (arcane, evocation, fire); Trigger A living creature
+enters the sensor area. Effect The rune detonates a fireball
+centered on the triggering creature’s square. This is a 3rd-
+level fireball spell that deals 6d6 fire damage (DC 22 basic
+Reflex save).
+HALLUCINATION POWDER TRAP
+HAZARD 6
+MECHANICAL
+TRAP
+Stealth DC 24 (expert)
+Description A tube of hallucinogenic powder armed with a
+miniature explosive is connected to a doorknob or similar latch.
+Disable Thievery DC 26 (expert) to disable the hammer that
+strikes the percussion cap
+AC 24; Fort +0, Ref +0
+Hardness 0, HP 1; Immunities critical hits, object immunities,
+precision damage
+Powder Burst [reaction] (mental, poison); Trigger The latch is opened
+or the tube is broken. Effect The tube explodes, spraying
+hallucinogenic powder in a 30-foot cone. Any creature in
+the cone must succeed at a DC 24 Will save or be confused
+for 1 round and take a –2 status penalty to Perception
+checks and saves against mental effects for 1d4 hours. On a
+critical failure, the penalty is instead –4.
+PHARAOH’S WARD
+HAZARD 7
+MAGICAL
+TRAP
+Stealth DC 25 (expert)
+Description A curse is imbued on an entryway’s threshold.
+Disable Thievery DC 27 (master) to painstakingly remove the
+lintel without triggering the magic, or dispel magic (4th
+level; counteract DC 25) to counteract the rune
+Curse the Intruders [reaction] (curse, divine, necromancy); Trigger The
+seal on the tomb is broken from the outside. Effect Each living
+creature within 60 feet must succeed at a DC 23 Will save or
+be subjected to the pharaoh’s curse. A cursed creature takes
+a –2 status penalty to Fortitude saves, and any natural or
+magical healing it receives is halved. The curse remains until
+removed by remove curse or similar magic.
+Reset The trap resets when the door is shut.
+YELLOW MOLD
+HAZARD 8
+ENVIRONMENTAL
+FUNGUS
+Stealth DC 28 (trained)
+Description Poisonous mold spores assault nearby creatures.
+Disable Survival DC 26 (expert) to remove the mold without
+triggering the spores
+AC 27; Fort +17, Ref +13
+HP 70; Immunities critical hits, object immunities, precision damage
+Spore Explosion [reaction] Trigger A creature moves into the mold’s
+space or damages the mold. The mold can’t use this reaction
+if it’s in direct sunlight or if the damage was fire damage.
+Effect The triggering creature and all creatures within 10
+feet are exposed to yellow mold spores.
+Yellow Mold Spores (inhaled, poison) Any drained condition
+from the spores persists after the poison’s duration ends;
+Saving Throw DC 26 Fortitude; Maximum Duration 6
+rounds; Stage 1 1d8 poison damage and drained 1 (1 round);
+Stage 2 2d8 poison damage and drained 2 (1 round); Stage
+3 3d8 poison damage and drained 3 (1 round)
+BOTTOMLESS PIT
+HAZARD 9
+MAGICAL
+MECHANICAL
+TRAP
+Stealth DC 30 (or 0 if the trapdoor is disabled or broken) or
+detect magic
+Description An iron trapdoor covers an infinitely deep
+10-foot‑square pit.
+Disable Thievery DC 28 (trained) to remove the trapdoor
+AC 28; Fort +12, Ref +12
+Trapdoor Hardness 9, Trapdoor HP 36 (BT 18); Immunities
+critical hits, object immunities, precision damage
+Infinite Pitfall [reaction] Trigger A creature walks onto the trapdoor.
+Effect The triggering creature falls in and continues to fall,
+potentially forever. That creature can try to Grab an Edge to
+avoid falling (page 472). The DC to Climb the walls or Grab
+an Edge is 26.
+The pit contains many handholds, so the falling creature
+can try to Grab an Edge again every 6 seconds. If the
+creature succeeds, it can start to Climb out from that point
+(though it might be a very long climb, depending on how
+far the creature fell). Since the creature falls endlessly, it
+can rest and even prepare spells while falling, though items
+dropped while falling are usually lost forever.
+Reset The trap still causes creatures to fall forever if they fall
+in, but the trapdoor must be reset manually for the trap to
+become hidden again.
+BLOODTHIRSTY URGE
+HAZARD 10
+HAUNT
+Stealth DC 31 (trained)
+Description An object haunted by the echoes of a vicious mind
+attempts to kill someone who comes near.
+Disable Religion DC 29 (master) to exorcise the spirit or
+Diplomacy DC 31 (expert) to talk it down
+Quietus [reaction] (death, emotion, fear, illusion, mental, occult);
+Trigger A creature moves within 10 feet of the haunted
+object. Effect The haunt takes control of the triggering
+creature, forcing it to attack itself. The creature must
+attempt a DC 29 Will save.
+Critical Success The target is unaffected.
+Success The target makes a Strike against itself and automatically
+hits; the target also becomes frightened 1.
+Failure The target makes a Strike against itself and automatically
+scores a critical hit; the target also becomes frightened 2.
+Critical Failure The target attempts a Fortitude save. If the
+Core Rulebook
+524

@@ -1,0 +1,87 @@
+{
+  "generated_at_utc": "2026-02-06T18:30:34.792313+00:00",
+  "pdf_dir": "/Users/nose/work/cp/0/model_b/pdf",
+  "output_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf",
+  "books_total": 11,
+  "books_ok": 11,
+  "books_skipped": 0,
+  "books": [
+    {
+      "source_pdf": "Dark Archive.pdf",
+      "book_slug": "dark-archive",
+      "status": "ok",
+      "total_pages": 226,
+      "pages_with_text": 226
+    },
+    {
+      "source_pdf": "Dungeon_Slimes_Pf2e.pdf",
+      "book_slug": "dungeon-slimes-pf2e",
+      "status": "ok",
+      "total_pages": 2,
+      "pages_with_text": 2
+    },
+    {
+      "source_pdf": "PF2e_Beastiary1-cropped.pdf",
+      "book_slug": "pf2e-beastiary1-cropped",
+      "status": "ok",
+      "total_pages": 362,
+      "pages_with_text": 362
+    },
+    {
+      "source_pdf": "PF2e_Bestiary2-cropped.pdf",
+      "book_slug": "pf2e-bestiary2-cropped",
+      "status": "ok",
+      "total_pages": 322,
+      "pages_with_text": 322
+    },
+    {
+      "source_pdf": "PZO2033E-cropped.pdf",
+      "book_slug": "pzo2033e-cropped",
+      "status": "ok",
+      "total_pages": 258,
+      "pages_with_text": 258
+    },
+    {
+      "source_pdf": "Pathfinder-2e-Advanced-Players-Guide.pdf",
+      "book_slug": "pathfinder-2e-advanced-players-guide",
+      "status": "ok",
+      "total_pages": 274,
+      "pages_with_text": 274
+    },
+    {
+      "source_pdf": "Pathfinder-2e-Game-Mastery-Guide.pdf",
+      "book_slug": "pathfinder-2e-game-mastery-guide",
+      "status": "ok",
+      "total_pages": 258,
+      "pages_with_text": 258
+    },
+    {
+      "source_pdf": "Pathfinder-2e-core-Rulebook.pdf",
+      "book_slug": "pathfinder-2e-core-rulebook",
+      "status": "ok",
+      "total_pages": 642,
+      "pages_with_text": 642
+    },
+    {
+      "source_pdf": "RemasterPlayerCoreCharacterSheet.pdf",
+      "book_slug": "remasterplayercorecharactersheet",
+      "status": "ok",
+      "total_pages": 4,
+      "pages_with_text": 4
+    },
+    {
+      "source_pdf": "pathfinder-2e-ancestry-guide.pdf",
+      "book_slug": "pathfinder-2e-ancestry-guide",
+      "status": "ok",
+      "total_pages": 146,
+      "pages_with_text": 144
+    },
+    {
+      "source_pdf": "pathfinder-2e-guns-amp-gears_compress.pdf",
+      "book_slug": "pathfinder-2e-guns-amp-gears-compress",
+      "status": "ok",
+      "total_pages": 239,
+      "pages_with_text": 234
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668869
+4425026
+Bestiary
+16
+Angel
+The celestial hosts of angels are messengers and warriors, divided into choirs
+based on their abilities and purviews. The majority of angels are neutral good and
+live in Nirvana, the plane of virtue and enlightenment. However, some angels,
+including several angelic deities, have different alignments, and some even dwell
+on other planes. Regardless of alignment, angels remain benevolent messengers
+possessed with magical auras to aid their allies.
+Cassisian (Archive Angel)
+The weakest of angels, cassisians usually serve as lackey messengers for more
+powerful angels or as spiritual guides for mortals. Despite their limited intellect,
+cassisians have a knack for precise recollection, particularly with scripture. Most
+cassisians are formed from the souls of trustworthy mortals, but some arise from
+fragments of greater angels destroyed in service to the celestial realms.
+CASSISIAN
+CREATURE 1
+NG
+TINY
+ANGEL
+CELESTIAL
+Perception +6; darkvision
+Languages Celestial, Common, Draconic, Infernal
+Skills Acrobatics +6, Diplomacy +6, Religion +6, Stealth +6
+Str –1, Dex +1, Con +2, Int –1, Wis +1, Cha +1
+AC 18; +1 status vs. evil creatures; Fort +7, Ref +6, Will +4; +1
+status to all saves vs. evil creatures
+HP 20; Weaknesses evil 3; Resistances cold 3, ﬁre 3
+Transfer Protection A non-evil creature can wear a
+willing cassisian as a helmet. While it does, the cassisian
+can take no actions, but the cassisian extends its +1
+status bonus to AC and saves against evil creatures to its
+wearer. At any time, the cassisian can detach itself from
+its wearer as an action.
+Speed ﬂy 40 feet
+Melee Ȱɵ headbutt +6 (agile, ﬁnesse, good, magical),
+Damage 1d6–1 bludgeoning plus 1d4 good
+Divine Innate Spells DC 16; 4th read omens; 1st detect alignment
+(at will, evil only), heal; Cantrips (1st) know direction, light
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation)
+A cassisian can take the appearance of a dove, a winged humanoid,
+a dog, or a ﬁsh. Normally, this doesn’t change its Speed or the attack
+and damage bonuses for its Strikes, but it might change the damage
+type Strikes deal (typically to bludgeoning). Any further changes for
+speciﬁc forms are noted below.
+•	 Dog size Small; scent (imprecise) 30 feet, Speed 40 feet; Melee jaws +7,
+Damage 1d6+2 piercing plus Knockdown
+•	 Fish swim Speed 30 feet
+Eye Beams ʚʖ (concentrate, divine, evocation) The cassisian releases beams of heat
+or cold from its eyes, dealing 2d6 cold or ﬁre damage (DC 17 basic Reﬂex save) to all
+creatures in a 15-foot line. It can’t use Eye Beams again for 1d4 rounds.
+Repository of Lore While the cassisian isn’t particularly intelligent, it has perfect memory
+and can remember everything it sees or hears. This allows it to attempt Lore checks
+on any topic, provided (at the GM’s discretion) the cassisian has encountered the topic
+in question before. The cassisian’s limited intellect often prevents it from acting upon
+its knowledge, making it a better resource than agent in matters of information use.
+Choral (Choir Angel)
+Choral angels are incredible singers who ﬁll the halls of Nirvana with pious
+chants and sacred hymns. They form from the souls of talented bards and other
+performers. While they shy away from conﬂict, they occasionally brave the mortal
+ANGELIC DIVINITIES
+The most powerful angels belong
+to a category of demigods known
+as the empyreal lords—a title
+shared with other powerful
+good-aligned demigods among
+the host of archons, azatas, and
+other inhabitants of the celestial
+planes. The most powerful and
+most well-known of the angelic
+empyreal lords is Sarenrae.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668869
+4425026

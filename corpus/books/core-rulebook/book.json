@@ -1,0 +1,16 @@
+{
+  "id": "core-rulebook",
+  "book_dir": "Core_Rulebook",
+  "book_name": "Core_Rulebook",
+  "display_name": "Core Rulebook",
+  "source_pdf": "Pathfinder-2e-core-Rulebook.pdf",
+  "paths": {
+    "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Core_Rulebook",
+    "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/Pathfinder-2e-core-Rulebook.pdf",
+    "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pathfinder-2e-core-rulebook"
+  },
+  "metrics": {
+    "missing_text_pages": 0,
+    "avg_page_jaccard": 0.947
+  }
+}

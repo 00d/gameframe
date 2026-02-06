@@ -1,0 +1,90 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669107
+4425264
+Bestiary
+254
+OOZING ACID
+Many oozes have acidic attacks
+that can quickly degrade ﬂesh,
+wood, and even stronger materials.
+Some believe that oozes are the
+result of alchemical or magical
+experimentation run amok,
+while others postulate that they
+simply emerged from the natural
+processes of evolution.
+Oozes
+Slimes, molds, and other oozes can be found in dank dungeons and shadowed forests.
+While not necessarily evil, some grow to enormous sizes and have insatiable appetites.
+Sewer Ooze
+These amorphous masses of sewage and other detritus make their way through
+ﬁlthy culverts beneath cities large and small.
+SEWER OOZE
+CREATURE 1
+N
+MEDIUM
+MINDLESS
+OOZE
+Perception +3; motion sense 60 feet, no vision
+Skills Stealth +1 (+4 in sewers)
+Str +2, Dex –5, Con +4, Int –5, Wis +0, Cha –5
+Motion Sense A sewer ooze can sense nearby motion through vibration and air movement.
+AC 8; Fort +9, Ref +1, Will +3
+HP 40; Immunities acid, critical hits, mental, precision, unconscious, visual
+Speed 10 feet
+Melee Ȱɵ pseudopod +9; Damage 1d6+1 bludgeoning plus 1d4 acid
+Filth Wave Ȱɵ Frequency once per minute; Eﬀect The sewer ooze unleashes a wave of ﬁlth,
+covering all creatures within a 20-foot emanation. Each creature in the area must succeed
+at a DC 17 Reﬂex save or take 1d4 acid damage and take a –10-foot penalty to its Speeds for
+1 minute (on a critical failure, the creature also falls prone). A creature can spend an Interact
+action to clean someone oﬀ, decreasing the Speed penalty by 5 feet with each action.
+Gelatinous Cube
+Found underground or in dungeons, these quivering cubes of slime continuously scour
+their domain for food. The acid in their bodies is weak enough that many gelatinous
+cubes still contain the gear of their victims, as they’re unable to break them down.
+GELATINOUS CUBE
+CREATURE 3
+N
+LARGE
+MINDLESS
+OOZE
+Perception +5; motion sense 60 feet, no vision
+Skills Athletics +11 (+13 to Shove)
+Str +4, Dex –5, Con +5, Int –5, Wis +0, Cha –5
+Motion Sense As sewer ooze.
+Transparent A gelatinous cube is so clear that it’s diﬃcult to spot. A
+successful DC 23 Perception check is required to notice a stationary cube,
+and a creature must be Searching to attempt this check. A creature that
+walks into the cube is automatically Engulfed (this usually causes the GM
+to call for initiative).
+AC 10 Fort +12, Ref +0, Will +5
+HP 90; Immunities acid, critical hits, mental, precision, unconscious, visual;
+Resistances electricity 5
+Speed 15 feet
+Melee Ȱɵ cube face +11, Damage 1d6 acid plus paralysis
+Engulf ʚʖ DC 19, 2d6 acid, Escape DC 19, Rupture 7. A creature Engulfed by
+the gelatinous cube must also attempt a saving throw against paralysis.
+Paralysis (incapacitation) A creature Engulfed by the cube or hit by
+its attack is paralyzed unless it succeeds at a DC 20 Fortitude save. A
+victim can attempt a new save to recover at the end of each of its turns.
+Weak Acid A gelatinous cube’s acid damages only organic material—not
+metal, stone, or other inorganic substances.
+Ochre Jelly
+Ochre jellies are animate masses of protoplasm with a sickly combination
+of yellow, orange, and brown hues. Their acidic bodies dissolve ﬂesh but
+leave other materials, including a victim’s gear and bones, intact. Some
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669107
+4425264

@@ -1,0 +1,75 @@
+PUBLICANS
+Countless adventures begin in a tavern or a pub. Maybe it’s because such places
+attract the risk-prone, or maybe it’s because everyone needs a little liquid courage
+before they decide to take on a group of rampaging ogres.
+SERVER
+Always on the move from patron to patron, servers are the backbone of any tavern or
+eatery. Their work hones both their agility and their diplomacy.
+SERVER
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +3
+Languages Common
+Skills Acrobatics +6, Diplomacy +4, Thievery +5
+Str +1, Dex +4, Con +0, Int +0, Wis +1, Cha +2
+Items pewter mug, serving tray
+AC 16; Fort +2, Ref +7, Will +5
+HP 7
+Quick Catch  Trigger An object that the server could hold in one hand is dropped
+within the server’s reach; Requirements The server has at least one hand free;
+Effect The server catches the dropped object before it hits the floor or leaves
+their reach.
+Speed 25 feet
+Melee  fist +6 (agile, nonlethal), Damage 1d4+1 bludgeoning
+Ranged  pewter mug +6 (thrown 10 feet), Damage 1d4+1 bludgeoning
+BARKEEP
+Barkeeps are often friends and mentors within a community, lending an ear
+while supplying libations. The best barkeeps have some talent for storytelling
+and passing on valuable advice.
+BARKEEP
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Alcohol Lore +9, Athletics +6, Deception +6, Diplomacy +8, Performance +6,
+Society +5, Thievery +3
+Str +3, Dex +0, Con +2, Int +0, Wis +1, Cha +3
+Items barkeep’s apron (functions as padded armor), flask of whiskey, pewter mug, sap
+AC 14; Fort +7, Ref +3, Will +6
+HP 25
+Speed 25 feet
+Melee  sap +6 (agile, nonlethal), Damage 1d6+3 bludgeoning
+Melee  fist +6 (agile, nonlethal), Damage 1d4+3 bludgeoning
+Ranged  pewter mug +3 (thrown 10 feet), Damage 1d4+3 bludgeoning
+Bar Brawler The barkeep has been in enough bar fights to know how to throw
+a few punches. When fighting in their bar and making a nonlethal attack, the
+barkeep gains a +1 circumstance bonus to attack rolls and deals an additional
+1d4 damage.
+Barkeep’s Advice  (auditory, fortune, linguistic, mental) Frequency
+once per day; Effect The barkeep gives some pertinent advice to a single
+creature other than themself. For 24 hours, when that creature fails a skill
+check or saving throw, they can recall this advice and reroll the check, using
+the second result instead. Once that creature uses this ability, its effect ends.
+A creature that receives the Barkeep’s Advice is temporarily immune to the
+ability for 1 month.
+Gamemastery Guide
+238
+238
+TAP LIST
+Ale: Andoren beer, Boulderhead
+bock, Cheerful Delver stout, Liquid
+Ghosts, Luglurch ale, Thileu lager.
+Cider and Mead: Hardroot cider,
+Qadiran cider, Two Knight Brewery
+mead, Wineberry mead.
+Wine: Irrisen icewine, sarain,
+syrinelle, Whiterose Abbey wine
+Spirits: Daggermark drip, dragon
+punch whiskey, Old Erebus, vjarik.
+BARKEEP

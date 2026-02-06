@@ -31,6 +31,27 @@ Str +6, Dex +0, Con +5, Int +0, Wis +2, Cha +0
 PAGE 148
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669000
+4425157
+E-G
+147
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ELEMENTAL CREATURES
 Not all elementals are lumbering,
 humanoid-shaped creatures. Some
@@ -59,110 +80,89 @@ the penalty doesn’t increase until after all the attacks have been made.
 Earth Glide As sod hound.
 Stone Mauler
 These towering heaps of earth can inﬂict tremendous damage up close and from afar.
+STONE MAULER
+CREATURE 9
+N
+LARGE
+EARTH
+ELEMENTAL
+Perception +16; darkvision, tremorsense (imprecise) 80 feet
+Languages Terran
+Skills Athletics +21, Stealth +12
+Str +6, Dex –1, Con +7, Int –1, Wis +3, Cha –1
+Earthbound When not touching solid ground, a stone mauler is slowed 1 and can’t
+use reactions.
+AC 27; Fort +23, Ref +15, Will +19
+HP 180; Immunities bleed, paralyzed, poison, sleep
+Spike Stones (aura, earth, primal, transmutation) 5 feet. Spikes of rock rise up from all stone
+surfaces in the emanation, creating diﬃcult terrain. A creature moving in the terrain takes
+2d6 piercing damage for each square of spikes it moves into (a Large or larger creature
+takes damage only once for each square it moves, even if its space covers multiple squares
+of spikes). Creatures with the earth trait ignore all eﬀects within the area. The stone mauler
+can disable or activate spike stones as a single action, which has the concentrate trait.
+Crumble Ǻȓ As living landslide, but 15 feet down.
+Speed 35 feet, burrow 35 feet; earth glide
+Melee Ȱɵ ﬁst +21 (reach 10 feet), Damage 2d10+10 bludgeoning plus Push 10 feet
+Ranged Ȱɵ rock +21 (brutal, range increment 80 feet), Damage 2d12+6 bludgeoning
+Earth Glide As sod hound.
+Elemental Avalanche
+Stubborn and ponderous, elemental avalanches are massive beings of living rock
+and dirt.
+ELEMENTAL AVALANCHE
+CREATURE 11
+N
+HUGE
+EARTH
+ELEMENTAL
+Perception +20; darkvision, tremorsense (imprecise) 90 feet
+Languages Terran
+Skills Athletics +24, Stealth +14
+Str +7, Dex –1, Con +8, Int +0, Wis +3, Cha –1
+Earthbound When not touching solid ground, the elemental avalanche is slowed 1, can’t
+use reactions, and can’t Trample.
+AC 32; Fort +26, Ref +17, Will +21
+HP 215; Immunities bleed, paralyzed, poison, sleep
+Spike Stones (aura, earth, primal, transmutation) 10 feet. As stone mauler, but 2d8 piercing.
+Crumble Ǻȓ As living landslide.
+Speed 25 feet, burrow 25 feet; earth glide
+Melee Ȱɵ ﬁst +24 (reach 20 feet), Damage 2d12+11 bludgeoning
+Ranged Ȱɵ rock +24 (brutal, range increment 80 feet), Damage 2d12+7 bludgeoning
+Earth Glide As sod hound.
+Trample ̂ˬ Large or smaller, ﬁst, DC 30
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669000
+4425157
 
-================================================================================
-# XULGATH WARRIOR
-================================================================================
-
-
-Bestiary
-XULGATH TREASURE
-Xulgaths are relatively primitive,
-using tools and weapons of stone
-and other materials scavenged
-from the surface. These can
-replicate most simple and a few
-martial melee weapons, as well as
-simple thrown ranged weapons.
-An advanced tribe of xulgaths
-might be able to craft low-level
-magical talismans, such as a
-potency crystal or a
-returning clasp.
-Xulgath
-Reptilian humanoids who live in the uppermost reaches of the Darklands, xulgaths
-(known as troglodytes to many surface-dwelling folk) often attack intruders in
-their territory on sight. They live in simple familial communities, battling rival
-groups and other aggressive Darklands inhabitants in order to survive. They
-occasionally raid surface settlements, usually at the behest of cruel, bloodthirsty
-leaders who are often themselves in the thrall of more powerful creatures like
-nagas or demons. A typical xulgath has dull gray, dark gray, or ashen scales, with
-a long tail and bony protrusions that run the length of its spine. A typical xulgath
-is 5 feet tall and weighs 150 pounds.
-Although today the xulgaths are brutal and scattered, they were one of the ﬁrst
-intelligent humanoids to rise in the primeval world, once ruling over a mighty
-empire that stretched throughout the Darklands. Today, all that remains of this
-era are ruins of massive stone ziggurats and crumbling cities found within some
-of the larger caverns. Some groups of xulgaths continue to live among these ruins,
-venerating their ancestors’ accomplishments, while others consider these areas
-taboo and leave them to become infested with Darklands vermin. Sages don’t
-agree on why the ancient xulgath civilization fell. Some suspect it was the result
-of a loss of several wars waged against serpentfolk, while others suggest that the
-corruptive inﬂuence of demon worship rotted their culture from within.
-Certainly, many xulgath settlements continue to worship demons to this
-day, paying homage and offering live sacriﬁces to terrible creatures from
-the Abyss. Occasionally, a xulgath shaman can call forth and bind a lesser
-demon to help serve the group, but a shaman who delves too deep into
-occultism might summon a more powerful ﬁend that either tears the
-xulgaths to pieces or enslaves them.
-Xulgath Warrior
-Xulgath warriors strike with fury and eager cruelty, always ready for
-the next ﬁght. The taking of prizes from battle—including weapons and
-items stolen from defeated foes along with grislier trophies harvested
-from fallen victims’ ﬂesh—is a popular pursuit among these vicious
-reptiles, and those whose armor and scales are most adorned are
-awarded the greatest respect (and perhaps fear) from their kin.
-XULGATH WARRIOR
-CREATURE 1
-CE
-MEDIUM
-HUMANOID
-XULGATH
-Perception +6; darkvision
-Languages Draconic, Undercommon
-Skills Athletics +7, Stealth +5
-Str +4, Dex +2, Con +3, Int –1, Wis +1, Cha +0
-Items club, javelin (3)
-AC 16; Fort +8, Ref +7, Will +4
-HP 21
-Stench (aura, olfactory) 30 feet. A creature that enters the area
-must attempt a DC 16 Fortitude save. On a failure, the creature is
-sickened 1, and on a critical failure, the creature also takes a –5-foot
-status penalty to its Speeds for 1 round. While within the aura,
-the creature takes a –2 circumstance penalty to saves to recover
-from the sickened condition. A creature that succeeds at its save
-is temporarily immune to all xulgaths’ stenches for 1 minute.
-Speed 25 feet
-Melee Ȱɵ club +9, Damage 1d6+4 bludgeoning
-Melee Ȱɵ jaws +9, Damage 1d6+4 piercing
-Melee Ȱɵ claw +9 (agile), Damage 1d4+4 slashing
-Ranged Ȱɵ club +7 (thrown 10 feet), Damage 1d6+4 bludgeoning
-Ranged Ȱɵ javelin +7 (thrown 30 feet), Damage 1d6+4 piercing
-
-================================================================================
 PAGE 338
 ================================================================================
 
-XULGATH SOCIETY
-Xulgaths respect strength, and the
-leader of a community is usually the
-strongest of all of them. The leader’s
-dominance is rarely questioned
-until a potentially stronger xulgath
-believes it’s time for a change in
-rulership. The two xulgaths then
-face oﬀ in a ﬁght to the death, with
-the victor claiming rule.
-Xulgath Skulker
-Xulgath warrens are patrolled—some might say “haunted”—by the community’s
-skulkers. These xulgaths specialize in stealth, striking swiftly from the shadows
-and otherwise ambushing foes.
-
-================================================================================
-# XULGATH SKULKER
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669190
+4425347
+U-Z
+337
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 XULGATH SOCIETY
 Xulgaths respect strength, and the
 leader of a community is usually the
@@ -202,23 +202,7 @@ Hidden Movement If a xulgath skulker starts its turn undetected by a creature or
 hidden from it, that creature is ﬂat-footed against the skulker’s attacks until the end
 of the skulker’s turn.
 Sneak Attack A xulgath skulker deals an additional 1d6 precision damage to
-ﬂat‑footed creatures.
-Xulgath Leader
-Xulgath leaders are usually the strongest, most violent
-members of a community—although in some cases,
-particularly in larger groups, xulgath tribes are led by
-powerful demon cultists or other monsters who seek to
-use the xulgaths as servants or slaves.
-
-================================================================================
-# XULGATH LEADER
-================================================================================
-
-Hidden Movement If a xulgath skulker starts its turn undetected by a creature or merely
-hidden from it, that creature is ﬂat-footed against the skulker’s attacks until the end
-of the skulker’s turn.
-Sneak Attack A xulgath skulker deals an additional 1d6 precision damage to
-ﬂat‑footed creatures.
+ﬂat‑footed creatures.
 Xulgath Leader
 Xulgath leaders are usually the strongest, most violent
 members of a community—although in some cases,
@@ -242,7 +226,7 @@ HP 44
 Stench (aura, olfactory) 30 feet. As xulgath warrior, but DC 19.
 Speed 25 feet
 Melee Ȱɵ greataxe +11 (sweep), Damage 1d10+6 slashing plus
-Weakening Strike
+Weakening Strike
 Melee Ȱɵ jaws +11, Damage 1d6+6 piercing plus Weakening Strike
 Melee Ȱɵ claw +11 (agile), Damage 1d4+6 slashing
 Ranged Ȱɵ javelin +8 (thrown 30 feet), Damage
@@ -251,12 +235,30 @@ Weakening Strike Ȱɵ The target must
 succeed at a DC 20 Fortitude save or
 become enfeebled 1 (or enfeebled 2 on
 a critical hit) for 1 round.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669190
+4425347
 
-================================================================================
 PAGE 339
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669191
+4425348
 Bestiary
+338
 YETI TREASURE
 Lone exiles of yeti clans have little
 use for treasure and leave the gear
@@ -290,3 +292,49 @@ a result. The most vile of these yetis turn to cannibalism, not out of need, but
 out of a sheer joy at the terror they inﬂict upon their kin. Invariably such
 cannibalistic yetis attract the attention of wendigos, which makes a bad
 situation all the worse.
+YETI
+CREATURE 5
+UNCOMMON
+N
+LARGE
+HUMANOID
+Perception +15; darkvision, scent (imprecise) 30 feet
+Languages Aklo
+Skills Athletics +14, Stealth +12 (+15 in
+snow), Survival +11
+Str +5, Dex +2, Con +4, Int –1,
+Wis +4, Cha –1
+Snowblind When Hiding, the yeti
+is concealed by any snowfall, even
+if it’s not thick enough to make other
+creatures concealed.
+AC 21; Fort +15, Ref +11, Will +13; +4 status to all saves vs. fear and dreams
+HP 115; Immunities cold; Weaknesses ﬁre 10
+Nightmare Guardian Yetis gain a +4 status bonus to saves against fear and
+against spells and abilities that aﬀect dreams. A yeti that falls prey to a
+supernatural nightmare loses this ability and becomes permanently enraged,
+gaining a +1 status bonus to attack and damage rolls and a –1 status penalty
+to AC.
+Vanish Ǻȓ Trigger The yeti is hidden or undetected while not in combat,
+and a creature would observe it. Eﬀect The yeti Strides or Climbs up to
+half its Speed to a location where it can Hide, then Hides. If its new Stealth
+check result meets or exceeds the triggering creature’s Perception DC, the yeti
+remains hidden.
+Speed 35 feet, climb 20 feet
+Melee Ȱɵ claw +15, Damage 2d10+5 slashing
+Grisly Arrival Ȳ˓ (emotion, fear, mental); Trigger The yeti hits a creature in
+the ﬁrst round of combat and the yeti was hidden from that creature at
+the start of combat. Eﬀect Each enemy within 30 feet that witnesses the
+attack (including the target of the attack) must attempt a DC 23 Will
+save. On a failure, the creature is frightened 2; on a critical failure, it’s
+frightened 4.
+Rend Ȱɵ claw
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669191
+4425348

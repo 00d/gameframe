@@ -1,0 +1,126 @@
+Price
+If an item is available for purchase, a character can
+typically buy it for the listed Price, and the character uses
+this Price when they use the Craft activity to make the
+item. If a character wants to sell an item, they can sell it
+for half its Price (or full Price, if the item was made on
+commission), assuming they’re able to find a buyer. The
+GM determines whether a buyer is available.
+Usage
+An item’s stat block includes a Usage entry that indicates
+whether a character must be holding or wearing the item
+in order to use it, or whether she instead must have it
+etched or affixed onto another item.
+Held or Worn
+If a character must wield the item to use it, this entry in
+the item’s stat block lists the word “held” along with the
+number of hands the character must use when wielding
+the item, such as “held in 1 hand.” The rules for carrying
+and using items are provided on page 271.
+An item that needs to be worn to function lists “worn”
+as its usage. This is followed by another word if the
+character is limited to only one of that type of item. For
+instance, a character can wear any number of rings, so the
+entry for a ring would list only “worn.” However, if the
+Usage entry were “worn cloak,” then a character couldn’t
+wear another cloak on top of that one. It’s assumed that
+items are meant to be worn by humanoids; any item
+that can or must be worn by a different type of creature
+either states this in its description or has the companion
+trait. Most magic items a character must wear have the
+invested trait, as described on page 531.
+Affixed or Etched
+Some items enhance other items. Talismans function
+only if affixed to other items. They have a Usage
+entry indicating the type or types of items to which a
+character can attach them, such as “affixed to armor.”
+Rules for affixing a talisman are on page 565.
+Runes must be etched onto permanent items, such as
+armor, weapons, or runestones (found on page 571) to
+grant their benefit. Adding or transferring a rune takes
+downtime to accomplish. The Usage entry indicates the
+type or types of items a rune can be etched into, such
+as “etched onto a weapon.” More information about
+etching runes is on page 580.
+Craft Requirements
+An item might require the crafter to provide specific raw
+materials, supply spells, have a certain alignment, or meet
+other special requirements to Craft it. These appear in the
+Craft Requirements entry of the stat block. Every item
+also has default requirements. The crafter must provide
+half the item’s Price in raw materials (as explained in
+the Craft activity on page 244). In addition, creating
+alchemical items requires the Alchemical Crafting feat
+(page 258), creating magic items requires the Magical
+Crafting feat (page 263), and crafting snares requires the
+Snare Crafting feat (page 266). Finally, crafting higher-
+level items requires greater proficiency in Crafting.
+Unless stated otherwise, creating items of 9th level and
+higher requires you to have the master proficiency rank
+in Crafting, and items of 16th level and higher require
+legendary Crafting.
+NOTABLE ITEM TRAITS
+The following traits apply to items. Some specific
+categories of item have special traits—such as elixir or
+scroll—described in their sections.
+Alchemical: Alchemical items are powered by the
+reactions of alchemical reagents. Alchemical items aren’t
+magical, and they don’t radiate a magical aura. Characters
+can Craft these items only if they have the Alchemical
+Crafting feat (page 258).
+Consumable: An item with this trait can be used only
+once. Unless stated otherwise, it’s destroyed after activation,
+though, part of it might be recoverable for other purposes.
+For instance, while a potion is consumable, the vial it comes
+in is not destroyed when you drink it. Consumable items
+include alchemical items (page 543) as well as ammunition
+oils, potions, scrolls, snares, talismans, and other magical
+consumables (which begin on page 559).
+When a character creates consumable items, she
+can make them in batches of four, as described in
+Consumables and Ammunition (page 245).
+Focused: An item with this trait can give you an
+additional Focus Point. This focus point is separate from
+your focus pool and doesn’t count toward the cap on your
+focus pool. You can gain this benefit only if you have a
+focus pool, and there might be restrictions on how the
+point can be used. You can’t gain more than 1 Focus
+Point per day from focused items, no matter how many
+focused items you have.
+Invested: A character can wear only 10 magical items
+that have the invested trait. None of the magical effects
+of the item apply if the character hasn’t invested it,
+though the character still gains any normal benefits from
+wearing the physical item (like a hat keeping rain off a
+character’s head).
+Magical: Items with this trait are imbued with magical
+energies. Each one radiates a magic aura infused with
+its dominant school of magic (abjuration, conjuration,
+divination, enchantment, evocation, illusion, necromancy,
+or transmutation; these are described on pages 297–298).
+A character can craft these items only if she has the
+Magical Crafting feat (page 263).
+Some items are closely tied to a particular tradition of
+magic. In these cases, the item has the arcane, divine,
+occult, or primal trait instead of the magical trait. Any of
+these traits indicates that the item is magical.
+535
+11
+Crafting & Treasure
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

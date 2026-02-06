@@ -1,0 +1,74 @@
+MYSTICS
+Those initiated into the hidden truths and forbidden secrets of the world are forever
+transformed—or so they claim. To the cynical, a mystic is nothing more than a
+charlatan or zealot. Others profess to sense an aura around such luminaries and
+treat them with reverence, lest they offend some harbinger of unspeakable doom.
+ADEPT
+Adepts have unlocked only the most minor occult mysteries of the universe. A few
+are chosen by accomplished practitioners for further training. Others volunteer to
+join a cabal by passing an initiation ritual.
+ADEPT
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +4
+Languages Common
+Skills Arcana +5, Diplomacy +3, Occultism +7, Scribing Lore +5, Society +5
+Str +0, Dex +2, Con +0, Int +3, Wis +2, Cha +1
+Items journal, robes, scroll case, writing set
+Focused Thinker  (concentrate) The adept focuses inward to muster knowledge and
+wisdom. While in this state of concentration, they gain a +2 status bonus to checks to
+Recall Knowledge, but take a –2 penalty to Perception. They can end their focused state
+with a single action, which has the concentrate trait.
+AC 14; Fort +2, Ref +4, Will +6
+HP 8
+Speed 25 feet
+Melee  fist +6 (agile, nonlethal); Damage 1d4 bludgeoning
+Ranged  journal +6 (nonlethal, thrown 10 feet); Damage 1d6 bludgeoning
+Occult Spells Known DC 14; Cantrips (1st) daze, detect magic, mage hand
+HARROW READER
+A harrow deck is a set of 54 cards with symbolic illustrations that serves as a
+sacred divining tool. Feared by the superstitious and avoided by those who know
+better than to tempt fate, harrow readers live and work in traveling communities,
+often moving from town to town as opportunities arise. For encounters involving
+social interaction, the harrow reader is a 3rd-level challenge.
+HARROW READER
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +7
+Languages Common
+Skills Diplomacy +8, Fortune-Telling Lore +11, Occultism +7, Performance +10 (+11 when
+fortune-telling), Society +7
+Str +1, Dex +2, Con +1, Int +2, Wis +3, Cha +3
+Items harrow deck, sickle
+AC 13; Fort +3, Ref +6, Will +10
+HP 9
+Speed 25 feet
+Melee  sickle +7 (agile, finesse, trip), Damage 1d4+1 slashing
+Fated Doom While harrow readers try to avoid combat, no throw of the cards can
+avoid fate, so a harrow reader learns how to best survive. In the harrow reader’s
+first encounter each day, they gain a +1 status bonus to their initiative roll, their
+attack rolls, and their AC.
+CULTIST
+Excessively zealous, a cultist finds exalted purpose in their sect. Never questioning
+their leader, they devote themselves to achieving their most perfect spiritual form.
+Gamemastery Guide
+228
+228
+MYSTIC CADRES
+Golarion has several mystic groups.
+The Church of Razmir offers a plan
+of 31 steps to divinity. The Esoteric
+Order of the Palatine Eye seeks
+celestial truths said to be granted
+by an ancient angel. Knights of the
+Aeon Star search for secret lore.
+Followers of  Rivethun, dwarven
+animism, reach out to spirits to gain
+knowledge and earn favors.
+ADEPT

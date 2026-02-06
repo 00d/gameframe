@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# UNDINE HYDROMANCER
+# UNDINE HYDROMANCER
 ================================================================================
 
 Sneak Attack The sylph sneak’s Strikes deal 1d6 extra precision damage to
@@ -36,7 +36,7 @@ of these communities reﬂects the undine virtues of adaptability and
 freedom, while also maintaining the prime importance of the community.
 Undine hydromancers are quite valued on these ﬂoating settlements, if only
 for their ability to create fresh drinking water while adrift on the sea.
-UNDINE HYDROMANCER
+UNDINE HYDROMANCER
 CREATURE 1
 CG
 MEDIUM
@@ -65,7 +65,21 @@ Sorcerer Bloodline Spells DC 17, attack +9; 1st (1 Focus Point) elemental toss
 PAGE 205
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868702
+4425214
 Bestiary 2
+204
+204
 VANDALS OF CHAOS
 Those who seek secret knowledge
 beyond their means to purchase can
@@ -92,20 +106,28 @@ effect already affecting a creature.
 d8
 Warpwave Eﬀect
 
+1
 Clumsy 2 (3 on a critical failure)
 
+2
 Confused and gains 4d6 temporary Hit Points
 
+3
 Dazzled (permanent on a critical failure)
 
+4
 Enfeebled 2 (3 on a critical failure)
 
+5
 Immobilized by ﬁlaments of energy
 
+6
 Quickened (Stride, Strike, or Step only)
 
+7
 Slowed 1
 
+8
 Stupeﬁed 2 (3 on a critical failure)
 AKIZENDRI
 Akizendris gnaw at sources of knowledge and lore, gleefully corrupting and
@@ -118,146 +140,67 @@ insulting acrostics in poetic verses, and penning crude insults upon title pages
 Libraries in such places as Heaven, Axis, and Hell are especially keen to avoid
 such contamination, knowing that their records are choice targets for every
 akizendri in existence.
+AKIZENDRI
+CREATURE 3
+CN
+SMALL
+MONITOR
+PROTEAN
+Perception +8; darkvision, entropy sense (imprecise) 30 feet
+Languages Abyssal, Celestial, Protean; telepathy (touch)
+Skills Acrobatics +9, Deception +10, Occultism +11, Society +10, Stealth +9, Thievery +9
+Str +3, Dex +4, Con +1, Int +4, Wis +3, Cha +1
+Entropy Sense (divination, divine, prediction) An akizendri can anticipate the most
+likely location of a creature through their supernatural insight into the forces of
+chaotic probabilities and chance. This grants the akizendri the ability to sense
+creatures within the listed range. A creature under the effects of nondetection or
+that is otherwise shielded from divinations and predictions cannot be noticed via
+entropy sense.
+AC 19; Fort +6, Ref +11, Will +10
+HP 42, fast healing 1; Weaknesses lawful 3; Resistances precision 3, protean
+anatomy 6
+Protean Anatomy (divine, transmutation) An akizendri’s vital organs shift and
+change shape and position constantly. Immediately after the akizendri takes
+acid, electricity, or sonic damage, it gains the listed amount of resistance to that
+damage type. This lasts for 1 hour or until the next time the protean takes damage
+of one of the other types (in which case its resistance changes to match that type),
+whichever comes first.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868702
+4425214
 
-================================================================================
-# UMONLEE
-================================================================================
-
-
-UMONLEE FABLES
-While they’re immense, violent,
-and frightening, umonlees aren’t
-inherently evil creatures. As such,
-there are stories of youths, gnomes,
-or other small-statured creatures
-who encounter umonlees in the wild
-and manage to befriend them, so that
-at some later point in the tale when
-the pint-sized protagonists are in
-peril, their enormous ally can arrive,
-bursting from a nearby glacier to
-play the role of overwhelming savior.
-Whether or not these tales have any
-basis in truth is unknown.
-Umonlee
-Those who dwell in the coldest climates of Golarion tell of a brutal beast that
-swims through the ice and snow and can devastate entire villages in minutes.
-Ancient Erutaki who made their homes in the frozen polar expanse called the
-Crown of the World named this monster the umonlee.
-Umonlees are bestial predators who constantly hunt, rarely resting in service
-of a hunger that is never fully sated. Despite this animalistic drive, umonlees are
-semi-intelligent creatures who often select and stalk their prey. However, they are
-not terribly bright and often keep their hunting grounds in sparsely-trafﬁcked
-areas. It is rare for an umonlee to attack a village, but one might attack a sparse
-group, such as a hunting or scouting party. Many caravans traversing the Path
-of Aganhei—the trade route between the continents of Avistan and Tian Xia that
-crosses the Crown of the World—have had their expeditions abruptly ended by
-an encounter with one of these monstrosities.
-Those who study monsters posit that umonlees are related to chuuls, as
-the creatures exhibit some similarities. Both are semi-intelligent, crustacean
-predators that use ambush tactics to kill and eat their prey. Even though they
-can talk, umonlees typically only speak Aklo, which also gives credence to
-this theory. This would also lend to the theory that chuuls are products of
-alghollthu manipulation, meaning that umonlees are also the results of these
-alien designs. However, the fact that these creatures aren’t evil argues well
-against such a theory.
-UMONLEE
-CREATURE 15
-UNCOMMON
-N
-HUGE
-AMPHIBIOUS
-BEAST
-COLD
-Perception +25, darkvision, tremorsense (imprecise) 80 feet
-Languages Aklo
-Skills Athletics +31, Stealth +24
-Str +8, Dex +3, Con +7, Int –3, Wis +2, Cha +3
-AC 39; Fort +28, Ref +26, Will +23; +1 status vs. mental
-HP 320; Immunities cold; Weaknesses ﬁre 15; Resistances
-mental 10
-Speed 50 feet, burrow 25 feet, swim 40 feet
-Melee Ȱɵ jaws +31 (reach 10 feet), Damage 3d6+16 piercing
-plus 3d6 cold
-Melee Ȱɵ pincers +31 (agile, reach 15 feet), Damage 3d8+16
-slashing plus Improved Grab
-Freezing Breath ʚʖ (cold, evocation, incapacitation,
-primal) The umonlee breathes a cone of extremely
-cold air that damages its prey and can freeze
-them to the ground. Its breath deals 12d8 cold
-damage to creatures in the 50-foot cone (DC
-38 Reﬂex save). The umonlee can’t use Freezing
-Breath again for 1d4 rounds.
-Critical Success The creature is unaﬀected.
-Success The creature takes half damage and is
-slowed 1 for 1 round.
-Failure The creature takes full damage and is slowed 1
-for 1 round. If the creature is standing on the ground, it’s
-immobilized as thick ice forms around it, and it can’t recover from
-being slowed. The creature remains immobilized and slowed 1
-until it manages to Escape (DC 36) or deal 30 damage to the
-ice, which has weakness 10 to ﬁre.
-Critical Failure As failure, except the creature takes double
-damage and the ice holding it in place requires 60 damage
-to break.
-Greater Constrict Ȱɵ 2d10+8 bludgeoning, DC 36
-
-================================================================================
 PAGE 273
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868770
+4425282
 Bestiary 2
+272
+272
 MINOS-PASHAT
 The ﬁrst urdefhans were unleashed
 into the depths of Golarion’s
-Darklands in the vault of MinosPashat, a nation-sized cavern riddled
-with maze-like tangles of stalactites,
-stalagmites, and ﬁssures.
-Urdefhan
-The violent warmongers, occultists, and poisoners known as urdefhans dwell
-within the Darklands. They were created in eons past by the mysterious First
-Horsemen of the Apocalypse to serve as agents of the end times within the
-Material Plane. Urdefhans continue to honor their creators by worshipping the
-wretched beings who rule over the plane of Abaddon, and like their ﬁendish lieges,
-urdefhans exist for one reason and one reason alone: to kill.
-While urdefhans are humanoid and dwell together in large groups, this is
-where their similarities to surface ancestries end. Their visages are horriﬁc, with
-transparent skin and musculature displaying their glistening entrails, gleaming
-bones, and perhaps worst of all, their baleful red eyes. This, combined with
-their gaping maws full of sharp fangs, works to create the false impression that
-these beings are some sort of vampiric undead, not creatures of living ﬂesh and
-blood. When an urdefhan’s life comes to an end, their ﬂesh quickly curdles and
-then bursts in a wave of awful corruption that spreads to the ﬂesh of other
-creatures in the area. The typical urdefhan views their eventual demise as a
-disappointment, for once they’re dead, their chances to kill will
-ﬁnally come to an end.
-Urdefhans’ primary concern is death and how to inﬂict it
-in the goriest, most painful, and widespread ways. Beyond
-this ethos of violence, urdefhans concern themselves only
-tangentially with matters such as formal modes of
-warfare or aspects of their damnable religion. When
-an urdefhan is not actively engaged in violence,
-their giddy cruelty is tempered only by a sense
-of self-preservation that ensures they survive
-long enough to spread the “blessings” of their
-daemonic patrons. They pass the time between wars inventing new
-weapons, developing new diseases, and researching awful new magic,
-all in preparation for the next inevitable conﬂict.
-URDEFHAN WARRIOR
-From the moment they are born, urdefhans are prepared for war. Urdefhan
-warriors are among the least powerful urdefhans one might encounter outside of
-their eerie underground cities.
-
-================================================================================
-# URDEFHAN WARRIOR
-================================================================================
-
-
-Bestiary 2
-MINOS-PASHAT
-The ﬁrst urdefhans were unleashed
-into the depths of Golarion’s
-Darklands in the vault of MinosPashat, a nation-sized cavern riddled
+Darklands in the vault of Minos-
+Pashat, a nation-sized cavern riddled
 with maze-like tangles of stalactites,
 stalagmites, and ﬁssures.
 Urdefhan
@@ -319,11 +262,48 @@ Ranged Ȱɵ composite longbow +10 (deadly 1d10, propulsive, range increment 100 
 volley 30 feet), Damage 1d8+4 piercing
 Divine Innate Spells DC 17, attack +9; 2nd death knell; 1st feather fall (at will, self only),
 ray of enfeeblement
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868770
+4425282
 
-================================================================================
 PAGE 274
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868771
+4425283
+U-Z
+U-Z
+273
+273
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 RHOKA SWORDS
 The rhoka sword is the preferred
 weapon of urdefhan soldiers,
@@ -339,58 +319,17 @@ have the deadly d8 and two-hand
 1d10 traits.
 Ravenous Attack ʚʖ The urdefhan makes one rhoka sword Strike and one jaws Strike
 against a single creature. Its multiple attack penalty doesn’t increase until after
-both attacks.
+both attacks.
 Wicked Bite Ȱɵ Requirements The urdefhan damaged a creature with a jaws Strike on its
 last action; Eﬀect The urdefhan maintains contact, turning the creature’s
 ﬂesh translucent around the site of the injury. The urdefhan chooses
-one of two options, each of which requires a DC 20 Fortitude save.
+one of two options, each of which requires a DC 20 Fortitude save.
 If the jaws Strike was a critical hit, the creature suﬀers both eﬀects,
 using the same save result for both.
-• Drain Blood The urdefhan drinks some of the creature’s blood. On a
+•	 Drain Blood The urdefhan drinks some of the creature’s blood. On a
 failed save, the creature is drained 1 and the urdefhan regains 5 HP
 (or, on a critical failure, it’s drained 2 and the urdefhan regains 10 HP).
-• Drain Vitality (necromancy) The urdefhan draws out some of the
-creature’s vital essence. The creature becomes enfeebled 1 for 1 hour
-on a failed save (or enfeebled 2 for 1 hour on a critical failure).
-URDEFHAN TORMENTOR
-Urdefhan spellcasters with a knack for the divine are invariably
-unholy worshippers of daemonkind, typically taking on one of
-Abaddon’s Four Horsemen of the Apocalypse as their patron deity.
-With their unholy gifts, these urdefhan tormentors summon daemons
-into battle and bolster their allies with profane magic, preferring to
-stick to the sidelines rather than enter the fray directly.
-
-================================================================================
-# URDEFHAN TORMENTOR
-================================================================================
-
-
-RHOKA SWORDS
-The rhoka sword is the preferred
-weapon of urdefhan soldiers,
-though all urdefhans
-know how to wield these
-instruments of war. These
-uncommon advanced
-weapons cost 4 gp, deal 1d8
-slashing damage, have 2 Bulk,
-and require 1 hand to use. Rhoka
-swords are in the sword group and
-have the deadly d8 and two-hand
-1d10 traits.
-Ravenous Attack ʚʖ The urdefhan makes one rhoka sword Strike and one jaws Strike
-against a single creature. Its multiple attack penalty doesn’t increase until after
-both attacks.
-Wicked Bite Ȱɵ Requirements The urdefhan damaged a creature with a jaws Strike on its
-last action; Eﬀect The urdefhan maintains contact, turning the creature’s
-ﬂesh translucent around the site of the injury. The urdefhan chooses
-one of two options, each of which requires a DC 20 Fortitude save.
-If the jaws Strike was a critical hit, the creature suﬀers both eﬀects,
-using the same save result for both.
-• Drain Blood The urdefhan drinks some of the creature’s blood. On a
-failed save, the creature is drained 1 and the urdefhan regains 5 HP
-(or, on a critical failure, it’s drained 2 and the urdefhan regains 10 HP).
-• Drain Vitality (necromancy) The urdefhan draws out some of the
+•	 Drain Vitality (necromancy) The urdefhan draws out some of the
 creature’s vital essence. The creature becomes enfeebled 1 for 1 hour
 on a failed save (or enfeebled 2 for 1 hour on a critical failure).
 URDEFHAN TORMENTOR
@@ -437,12 +376,37 @@ allies must use at least one of their actions to Strike each round, if
 they are able (even if it means attacking an ally, object, or thin
 air). This lasts for 2d4 rounds.
 Wicked Bite Ȱɵ As urdefhan warrior, but DC 22.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868771
+4425283
 
-================================================================================
 PAGE 275
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868772
+4425284
 Bestiary 2
+274
+274
 BUILDING A VRYKOLAKAS
 Like vampires (Bestiary 318–321),
 vrykolakas can infect victims with
@@ -472,10 +436,10 @@ them of those who failed to properly lay their bodies and souls to rest.
 CREATING A VRYKOLAKAS
 You can turn an existing living creature into a vrykolakas using the following steps.
 Increase the creature’s level by 1 and change its statistics as follows.
-• It gains the undead and vampire traits, and it becomes evil.
-• Increase AC, attack modiﬁers, DCs, saving throws, and skill modiﬁers by 1.
-• Increase Speed by 10 feet or to 40 feet, whichever results in a higher Speed.
-• Increase damage with Strikes and other offensive abilities by 1. If an ability
+•	 It gains the undead and vampire traits, and it becomes evil.
+•	 Increase AC, attack modiﬁers, DCs, saving throws, and skill modiﬁers by 1.
+•	 Increase Speed by 10 feet or to 40 feet, whichever results in a higher Speed.
+•	 Increase damage with Strikes and other offensive abilities by 1. If an ability
 can be used only a small number of times (such as a dragon’s Breath Weapon),
 increase the damage by 2 instead.
 BASIC VRYKOLAKAS AbILITIES
@@ -507,23 +471,60 @@ Removing the curse destroys the vrykolakas and returns the animal to normal. Aft
 1d4 days, if the vrykolakas hasn’t been destroyed, the animal dies and the vrykolakas
 rises in a new body that’s identical to its previous one, formed from the animal’s remains.
 Vrykolakas Vulnerabilities Vrykolakas all have the following vulnerabilities.
-• Burial Site Bound A vrykolakas is bound to the place of its death or interment. It
+•	 Burial Site Bound A vrykolakas is bound to the place of its death or interment. It
 must return to this location once per week and bury itself in the earth for 24 hours,
 during which time it is paralyzed and can be beheaded. If it is unable to return to
 this site, it is reduced to 0 Hit Points and attempts to use Feral Corruption; if this
 host animal can’t return to the burial site before the possession eﬀect ends, the
 vrykolakas is destroyed and the animal host returns to normal.
-• Vulnerable to Decapitation A vrykolakas that is beheaded can’t use its Feral
+•	 Vulnerable to Decapitation A vrykolakas that is beheaded can’t use its Feral
 Possession, and a beheaded corpse cannot rise as a vrykolakas.
 Climb Speed A vrykolakas gains a climb Speed equal to one-half its land Speed.
 Claws If the base creature had hands, it gains an unarmed claw Strike that deals slashing
 damage and has the agile trait. Use the moderate damage for the creature’s level on
 the Strike Damage table found on page 65 of the Gamemastery Guide.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868772
+4425284
 
-================================================================================
 PAGE 276
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868773
+4425285
+U-Z
+U-Z
+275
+275
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 VRYKOLAKAS HABITS
 Most vrykolakas have curious
 aﬀectations, such as a compulsion
@@ -600,12 +601,37 @@ creature that succeeds is immune to
 that vrykolakas’s Dominate Animal
 for 24 hours. Destroying the
 vrykolakas ends the eﬀect, but
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868773
+4425285
 
-================================================================================
 PAGE 277
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868774
+4425286
 Bestiary 2
+276
+276
 DEBASED AND DISTORTED
 Vrykolakas are corrupted bestial
 versions of their appearance in life,
@@ -627,3 +653,70 @@ Drink Blood As a typical vrykolakas, but the creature is drained 2 instead of 1.
 VRYKOLAKAS SPAWN
 Vrykolakas unleash their spawn upon the world to spread terror, plague, and
 suffering and to draw attention away from their masters.
+VRYKOLAKAS SPAWN
+CREATURE 6
+NE
+MEDIUM
+UNDEAD
+VAMPIRE
+Perception +14; darkvision
+Skills Acrobatics +14, Athletics +15, Stealth +14, Survival +11
+Languages Common
+Str +5, Dex +4, Con +2, Int –3, Wis +2, Cha +2
+AC 24; Fort +14, Ref +16, Will +12
+HP 99, negative healing; Immunities death eﬀects, disease, paralyze, poison, sleep
+Vrykolakas Vulnerabilities
+Feral Possession Ȳ˓ (divine, incapacitation, mental, necromancy, possession) DC 24
+Speed 40 feet, climb 20 feet
+Melee Ȱɵ fangs +17, Damage 2d8+8 piercing plus Drink Blood
+Melee Ȱɵ claw +17 (agile), Damage 2d6+8 slashing
+Drink Blood Ȱɵ (divine, necromancy) When Drinking Blood, the vrykolakas spawn
+regains 10 HP.
+Rend Ȱɵ claw
+VRYKOLAKAS MASTER
+Vrykolakas masters are sinister shapechangers. They walk undetected
+among the living and prey upon them like a wolf among sheep, often
+leaving the corpses to rise as vrykolakas spawn.
+VRYKOLAKAS MASTER
+CREATURE 10
+NE
+MEDIUM
+UNDEAD
+VAMPIRE
+Perception +19; darkvision
+Skills Acrobatics +19, Athletics +23, Deception +19, Intimidation
++21, Stealth +21, Survival +17
+Languages Common
+Str +7, Dex +5, Con +3, Int –2, Wis +3, Cha +5
+Children of the Night (divine, enchantment, mental)
+Swift Tracker
+AC 30; Fort +19, Ref +21, Will +17
+HP 190, negative healing; Immunities death eﬀects, disease, paralyze,
+poison, sleep
+Pestilential Aura (aura, divine, necromancy) DC 29
+Vrykolakas Vulnerabilities
+Feral Possession Ȳ˓ (divine, incapacitation, mental, necromancy,
+possession) DC 29
+Speed 40 feet, climb 20 feet
+Melee Ȱɵ fangs +23, Damage 2d12+13 piercing plus
+Drink Blood
+Melee Ȱɵ claw +23 (agile), Damage 2d8+13 slashing
+Divine Innate Spells DC 29; 5th vampiric touch (×3);
+3rd fear (×3)
+Change Shape Ȱɵ (concentrate, divine, polymorph,
+transmutation)
+Create Spawn (divine, downtime, necromancy)
+Dominate Animal Ȱɵ (divine, enchantment, incapacitation, mental)
+DC 29
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868774
+4425286

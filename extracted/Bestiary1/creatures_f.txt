@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# FACELESS STALKER
+# FACELESS STALKER
 ================================================================================
 
 
@@ -33,7 +33,7 @@ tongue. Their prey bear distinctive triple puncture wounds near major
 arteries. Corpses bearing such marks are typically the ﬁrst clues found
 to uncover a faceless stalker’s presence, though sometimes they are
 overlooked as marks belonging to a vampire or chupacabra.
-FACELESS STALKER
+FACELESS STALKER
 CREATURE 4
 CE
 MEDIUM
@@ -82,7 +82,17 @@ alghollthus’ intolerance for faith.
 PAGE 15
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668867
+4425024
 Bestiary
+14
 Alghollthu Master (Aboleth)
 Aboleths form the core of alghollthu society, and while they are the “common folk”
 of their own societies, they see themselves as masters of all others. Unlike their
@@ -92,39 +102,96 @@ manipulation, they are a species so ancient that they were present in the world 
 it was young, before the gods had turned their attention to the planet. They see all
 other life as something they have the right to control, so the idea that potential
 slaves might have faith in a higher power other than themselves enrages aboleths.
+ALGHOLLTHU MASTER
+ CREATURE 7
+UNCOMMON
+LE
+HUGE
+ABERRATION
+AQUATIC
+Perception +17; darkvision
+Languages Aklo, Alghollthu, Aquan, Common, Undercommon
+Skills Athletics +16, Deception +15, Intimidation +15, Lore (any one subcategory) +14,
+Occultism +16
+Str +5, Dex +1, Con +6, Int +3, Wis +5, Cha +4
+Mucus Cloud (aura, disease) 5 feet. While underwater, an aboleth exudes a cloud of
+transparent slime. An air-breathing creature adjacent to an aboleth must succeed at a
+DC 25 Fortitude save each round or lose the ability to breathe air but gain the ability
+to breathe water for 3 hours.
+AC 23; Fort +15, Ref +10, Will +16
+HP 135
+Speed 10 feet, swim 60 feet
+Melee Ȱɵ tentacle +16 (agile, magical, reach 15 feet), Damage 2d8+10 bludgeoning plus slime
+Occult Innate Spells DC 25; 7th project image (at will), veil (at will); 6th dominate (×3),
+illusory scene (at will); 5th illusory object (at will); 4th hallucinatory terrain (at will);
+3rd hypnotic pattern (at will)
+Slime (curse, occult, virulent) Saving Throw Fortitude DC 25; Stage 1 no ill eﬀect (1 round);
+Stage 2 the victim’s skin softens, inﬂicting drained 1 (1 round); Stage 3 the victim’s
+skin transforms into a clear, slimy membrane, inﬂicting drained 2 until
+the curse ends; every hour this membrane remains dry, the
+creature’s drained condition increases by 1 (permanent).
+A remove disease spell can counteract this curse, but
+immunity to disease oﬀers no protection against it.
+Veiled Master (Vidileth)
+The powerful vidileths are the insidious
+veiled masters of the alghollthus. These
+manipulators of mind and body alike
+lead their species in the open, using
+their ability to change form to walk
+among and deceive humans and
+other sapient species. Many veiled
+masters are even more powerful than
+the typical specimen presented here and can
+use a wide range of arcane or occult spells and rituals.
+While veiled masters command signiﬁcant
+combat prowess and impressive magical skills,
+the greatest danger they pose to others is their
+uncanny ability to inﬁltrate into societies much
+different than their own. The most paranoid of
+adventurers and conspiracy scholars worry that every major city has been
+infested by secret cabals of vidileths, while others dismiss this as hogwash
+and fearmongering. The truth is likely somewhere in between, but it doesn’t
+take many veiled masters pulling the strings behind the scenes to wreak havoc
+upon an entire nation!
+ALGHOLLTHU TREASURE
+Although most alghollthus lack
+the greed that tempts most
+mortals, they do gather wealth
+and magical tools to use in their
+schemes. A given aboleth or
+veiled master might also wear
+magical jewelry and other objects.
+Faceless stalkers and other
+humanoid servants of alghollthus
+use weapons and armor, such as
+the faceless stalker’s sword or
+ulat-kini’s trident, as well as other
+tools. These servitor races can be
+as acquisitive as other humanoids.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668867
+4425024
 
-================================================================================
-# FLAME DRAKE
-================================================================================
-
-twice its Speed. It can do this three times per day.
-Flame Drake
-The distant kin of red dragons, ﬂame drakes thankfully
-lack the intelligence and ambition of their larger cousins,
-but are no less territorial or violent. Flame drakes dwell
-near volcanoes and magma, but it’s not unheard of for
-one to drift into nearby areas like forests or wooded hills.
-Their scales are usually some shade of red, occasionally fading to smoky
-blacks and grays along the edges of their wings and the tips of their tails.
-FLAME DRAKE
-CREATURE 5
-CE
-LARGE
-DRAGON
-FIRE
-Perception +12; darkvision, scent (imprecise) 30 feet,
-smoke vision
-Languages Draconic
-Skills Acrobatics +10, Athletics +12, Stealth +9, Survival +10
-Str +5, Dex +1, Con +3, Int –1, Wis +3, Cha +0
-Smoke Vision Smoke doesn’t impair a ﬂame drake’s vision; it
-ignores concealment from smoke.
-
-================================================================================
 PAGE 133
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668985
+4425142
 Bestiary
+132
 AC 22; Fort +12, Ref +10, Will +10
 HP 75; Immunities ﬁre, paralyzed, unconscious; Weaknesses cold 10
 Attack of Opportunity Ǻȓ Fangs only.
@@ -147,231 +214,176 @@ allow them to deftly maneuver through thick jungle foliage both in ﬂight
 and on foot. Jungle drakes prefer to ambush their prey using hit-and-run
 tactics, picking off the weakest members of a group and dragging their
 victims off to ﬁnish their meals as they please.
-
-================================================================================
-# FROST DRAKE
-================================================================================
-
-
-Bestiary
-Frost Drake
-Frost drakes pose an immense danger in the frozen reaches they call home,
-where they roam far and wide to hunt for prey such as caribou, wolves, small
-bears, and tundra-dwelling people. Related as they are to white dragons, these
-drakes share many habits and facets of their disposition with their draconic
-cousins. Indeed, just as white dragons are among the most bestial and craven of
-dragonkind, frost drakes are among the most depraved and openly malicious
-of the drakes. They are also especially insolent, and are less likely to back
-down from a ﬁght compared to other drakes. Many frost drakes have met their
-ends trying to enact cruelties beyond their means, such as singly taking on an
-entire castle or well-fortiﬁed township. Although a frost drake can wreak much
-destruction on its own, tales of village-dwelling northerners banding together to
-defend their homes from these rogue menaces are fairly common.
-A frost drake’s hunting grounds are quite large. Those frost drakes that live
-upon the permanently frozen peaks of high mountains have been known to
-swoop down to snatch up prey from the lowlands, leaving frozen swaths of earth
-from their breath as the only sign of their passing. Their frost-covered scales range
-from deep royal blue to crisp cyan and sometimes feature sporadic patches of
-violet. Their hides are thinner than most drakes’; when a frost drake is inhaling
-in preparation to launch its signature frozen breath, the monster’s ice-blue blood
-can be seen beneath its scales.
-FROST DRAKE
-CREATURE 7
-CE
+JUNGLE DRAKE
+CREATURE 6
+NE
 LARGE
-COLD
 DRAGON
-Perception +14; darkvision, scent (imprecise) 30 feet, snow vision
+EARTH
+Perception +13; darkvision, scent (imprecise) 30 feet
 Languages Draconic
-Skills Acrobatics +15, Athletics +17, Intimidation +14, Stealth +15
-Str +6, Dex +2, Con +4, Int –1, Wis +3, Cha +1
-Snow Vision Snow doesn’t impair a frost drake’s vision; it ignores concealment from
-snowfall.
-AC 25; Fort +17, Ref +15, Will +14
-HP 115; Immunities cold, paralyzed, unconscious; Weaknesses ﬁre 10
-Retaliatory Strike Ǻȓ Trigger A creature within reach of the frost drake’s tail
-successfully damages the frost drake with a Strike. Eﬀect The frost drake attempts
-to Strike with its tail. If the Strike hits, it deals an additional 1d6 damage.
-Speed 20 feet, burrow 20 feet (snow only), ﬂy 50 feet, ice climb 20 feet
-Melee Ȱɵ fangs +17, Damage 2d12+8 piercing plus 1d6 cold
-Melee Ȱɵ tail +17 (reach 10 feet), Damage 2d10+8 bludgeoning
-Draconic Frenzy ʚʖ The frost drake makes
-two gangs Strikes and one tail Strike in
-any order.
-Freezing Mist Breath ʚʖ (arcane, cold,
-evocation) The frost drake spits a ball
-of liquid up to 60 feet that explodes
-into a 20-foot-burst cloud of freezing
-mist. Those in the burst take 8d6 cold
-damage (DC 25 basic Reﬂex save). The mist
-cakes all surfaces in the area with a sheet of
-slippery ice that turns the area into diﬃcult
-terrain for 2d4 rounds. It can’t use Freezing Mist
-Breath again for 1d6 rounds.
-Ice Climb A frost drake can climb on ice as though
-it had the listed climb Speed. It ignores diﬃcult terrain
-and greater diﬃcult terrain from ice and snow and doesn’t
-risk falling when crossing ice.
-Speed Surge Ȱɵ (move) The frost drake moves up to
-twice its Speed. It can do this three times per day.
-DRAKE RESOURCES
-While every adventurer knows
-that dragon hide can be crafted
-into potent armor or weapons,
-drake hide holds no such intrinsic
-value. Nonetheless, drake
-scales and horns are physically
-impressive, and to the uneducated
-buyer, might seem at ﬁrst glance
-to be legitimate. Unscrupulous
-leatherworkers have been known
-to use drake hides to craft and
-sell counterfeit dragonhide
-armor, so potential buyers
-should remain on the
-lookout for scams.
+Skills Acrobatics +15, Athletics +13, Stealth +13, Survival +11
+Str +5, Dex +3, Con +4, Int –1, Wis +1, Cha +1
+AC 23; Fort +17, Ref +13, Will +11
+HP 90; Immunities disease, paralyzed, poison, unconscious
+Twisting Tail Ǻȓ Trigger A creature within reach of the jungle drake’s
+stinger uses a move action or leaves a square during a move action
+it’s using. Eﬀect The jungle drake Strikes the target with its stinger. If
+it hits, the jungle drake disrupts the creature’s action.
+Speed 20 feet, ﬂy 50 feet; woodland stride
+Melee Ȱɵ fangs +17, Damage 2d10+7 piercing plus predatory grab
+Melee Ȱɵ stinger +17 (reach 10 feet), Damage 2d6+7 piercing plus jungle
+drake venom
+Draconic Frenzy ʚʖ The jungle drake makes one fangs
+Strike and two stinger Strikes in any order.
+Jungle Drake Venom (poison); Saving Throw Fortitude
+DC 24; Maximum Duration 6 rounds; Stage 1 1d6 poison
+and enfeebled 1 (1 round); Stage 2 1d6 poison and
+enfeebled 2 (1 round)
+Predatory Grab As Grab, but the jungle drake’s Grab does not
+end if it moves away. Instead, it carries the grabbed creature with it. A
+jungle drake can’t Fly while grabbing a creature unless that creature can also Fly.
+Speed Surge Ȱɵ (move) The jungle drake moves up to twice its Speed. It can do
+this three times per day.
+Spit Venom ʚʖ (poison) A jungle drake can spit a sticky glob of its venom to a range
+of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC
+24 Reﬂex save or be exposed to jungle drake venom. The jungle drake can’t use Spit
+Venom again for 1d6 rounds.
+Woodland Stride The jungle drake ignores diﬃcult terrain and greater diﬃcult terrain
+from non-magical foliage.
+DRAKE HUNTERS
+The allure of hunting a dragon
+is diﬃcult to resist for many
+adventurers, but accomplishing
+such a task is fraught with peril.
+Unscrupulous adventurers have
+been known to instead hunt drakes
+and use trophies harvested from
+these creatures to deceive locals.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668985
+4425142
 
-================================================================================
 PAGE 136
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668988
+4425145
+D
+135
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Desert Drake
 Distant cousins of blue dragons that lack their relatives’ magical talents and
 intelligence, these desert-dwelling drakes are nonetheless dangerous ambush
 predators, preying upon isolated desert travelers and outposts for food and
 supplies. They retain their true-blooded forebears’ resistance to electricity and
-afﬁnity for sandy environs. Desert drakes’ scales range in coloration from rustbrown to light tan and ocher shades, mimicking the colors of the dunes they
+afﬁnity for sandy environs. Desert drakes’ scales range in coloration from rust-
+brown to light tan and ocher shades, mimicking the colors of the dunes they
 call home.
 Desert drakes are among the lightest and most compact of the drakes, though
-this shouldn’t be mistaken for frailty. Their swooped-back horns and featherthin wings are adapted to make burrowing as easy as possible. Indeed, a desert
+this shouldn’t be mistaken for frailty. Their swooped-back horns and feather-
+thin wings are adapted to make burrowing as easy as possible. Indeed, a desert
 drake’s powerful neck makes wriggling through sand and other loose scree as
 easy as walking for it.
-
-================================================================================
-# FIREWYRM
-================================================================================
-
-and Grab
-Armor of Flames Ȱɵ The salamander stokes its internal ﬂames. Until the start of its next
-turn, it gains a +2 circumstance bonus to AC, and when an adjacent creature touches it
-or hits it with a physical attack, that creature takes 2d6 persistent ﬁre damage unless
-it succeeds at a DC 25 Reﬂex save.
-Constrict Ȱɵ 1d8+4 bludgeoning plus 1d6 ﬁre, DC 25
-Firewyrm
-Firewyrms live in tubes of molten lava found throughout the Plane of Fire.
-FIREWYRM
-CREATURE 9
-N
-HUGE
-ELEMENTAL
-FIRE
-Perception +16; darkvision, smoke vision
-Languages Ignan
-Skills Acrobatics +20
-Str +5, Dex +5, Con +4, Int –1, Wis +3, Cha +0
-Smoke Vision The ﬁrewyrm ignores the concealed condition from smoke.
-AC 28; Fort +18, Ref +20, Will +15
-HP 165, explosion; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 10
-Explosion (ﬁre) As living wildﬁre, but 6d6 ﬁre and DC 28.
-Intense Heat (aura, ﬁre) 10 feet, 4d6 ﬁre, DC 25 basic Reﬂex.
-Speed 60 feet
-Melee Ȱɵ tail +20 (reach 15 feet), Damage 2d8+11 ﬁre plus 2d8 persistent ﬁre
-Ranged Ȱɵ ﬁre mote +20 (range increment 60 feet), Damage 2d8+6 ﬁre
-Breath Weapon ʚʖ (evocation, ﬁre, primal) The ﬁrewyrm breathes a 30-foot cone of
-ﬁre dealing 7d6 ﬁre and 2d8 persistent ﬁre damage to every creature within the cone
-(DC 28 basic Reﬂex save). The ﬁrewyrm can’t use Breath Weapon again for 1d4 rounds.
-Elemental Inferno
-Walking conﬂagrations of unimaginably hot ﬁre, elemental infernos are harbingers
-of destruction and heedless chaos.
-
-================================================================================
-# FIRE MEPHIT
-================================================================================
-
-
-OTHER MEPHITS
-The four mephits presented here
-are but the most common of
-their kind. Others that rise from
-the mixing of elemental energies
-exist as well: creatures like dust
-mephits (who breathe out a
-scouring cloud of grit), ice mephits
-(who spit out sickening gusts of
-frozen air), magma mephits (which
-can assume the form of a pool of
-lava), ooze mephits (which spit out
-foul-smelling acid), salt mephits
-(who can draw moisture out of the
-environs and nearby creatures),
-and steam mephits (which can call
-down tiny squalls of boiling rain).
-FIRE MEPHIT
-CREATURE 1
-N
-SMALL
-ELEMENTAL
-FIRE
-Perception +3; darkvision, smoke vision
-Languages Ignan
-Skills Acrobatics +7, Deception +7
-Str +0, Dex +4, Con +0, Int –2, Wis +0, Cha +2
-Smoke Vision The ﬁre mephit ignores the concealed condition from smoke.
-AC 17; Fort +3, Ref +9, Will +7
-HP 16, fast healing 2 (while touching ﬁre); Immunities bleed, ﬁre, paralyzed, poison,
-sleep; Weaknesses cold 3
-Speed 20 feet, ﬂy 25 feet
-Melee Ȱɵ jaws +9 (ﬁnesse), Damage 1d6 piercing and 1d4 ﬁre
-Arcane Innate Spells DC 15; Cantrips (1st) daze, light
-Breath Weapon ʚʖ (arcane, ﬁre) The ﬁre mephit breathes ﬂames in a 15-foot cone
-that deals 2d4 ﬁre and 1d4 persistent ﬁre damage to each creature within the
-area (DC 17 basic Reﬂex save). The ﬁre mephit can’t use Breath Weapon again for
-1d4 rounds.
-Water Mephit
-Water mephits are consummate jokers who are always happy to trade a favor
-for a good laugh. Just as ﬁre mephits are the ones who cleave closest to evil
-without fully crossing over into true villainy, water mephits are the friendliest
-of the mephits and therefore the closest to good. Still, one should take care
-in making assumptions about a water mephit’s benevolence, for no one can
-reliably count on them to keep their inborn need for pranks and trickery at bay
-for long. Water mephits have blue-green skin that shimmers in light like ﬁsh
-scales. Though water mephits’ wings look more like webbed ﬁns than limbs
-capable of ﬂight, they can ﬂap their wings to ﬂy through the air as easily as any
-other mephit. Water mephits prefer to swim, when possible, and they leave the
-water only when they must.
-
-================================================================================
-# FAERIE DRAGON
-================================================================================
-
-FAERIE DRAGON
-CREATURE 2
-UNCOMMON
-CG
-TINY
+DESERT DRAKE
+CREATURE 8
+NE
+LARGE
 DRAGON
-Perception +16; darkvision
-Languages Common, Draconic, Sylvan; telepathy 100 feet
-Skills Acrobatics +8, Deception +8, Diplomacy +8, Nature +4, Stealth +10
-Str –2, Dex +4, Con +0, Int +2, Wis +0, Cha +2
-AC 18; Fort +5, Ref +12, Will +11
-HP 30; Immunities paralyzed, sleep
-Speed 15 feet, ﬂy 40 feet, swim 20 feet
-Melee Ȱɵ jaws +10 (magical, ﬁnesse), Damage 1d4 piercing
-Arcane Innate Spells DC 21; 4th invisibility (self only)
-Arcane Spontaneous Spells DC 18, attack +10; 1st (4 slots) grease, illusory object,
-sleep; Cantrips (1st) dancing lights, ghost sound, prestidigitation, tanglefoot,
-telekinetic projectile
-Breath Weapon ʚʖ (arcane, evocation, poison) The dragon breathes euphoric gas in
-a 10-foot cone. Each creature in the area must succeed at a DC 18 Fortitude save or
-become stupeﬁed 2 and slowed 1 for 1d4 rounds; on a critical failure, the duration is 1
-minute. The faerie dragon can’t use Breath Weapon again for 1d4 rounds.
+EARTH
+Perception +15; darkvision, scent (imprecise) 30 feet
+Languages Draconic
+Skills Acrobatics +17, Athletics +18, Intimidation +13, Stealth +15, Survival +15
+Str +6, Dex +3, Con +5, Int –1, Wis +3, Cha +1
+AC 27; Fort +17, Ref +15, Will +13
+HP 135; Immunities paralyzed, unconscious; Resistances electricity 16
+Wing Deﬂection Ǻȓ Trigger The desert drake is targeted with an attack. Eﬀect The desert
+drake raises its wing, gaining a +2 circumstance bonus to AC against the triggering
+attack. If the desert drake is ﬂying at the time it is attacked, it descends 10 feet after
+the attack is complete.
+Speed 20 feet; burrow 20 feet (sand only), ﬂy 50 feet
+Melee Ȱɵ fangs +20, Damage 2d12+8 piercing plus 1d6 electricity
+Melee Ȱɵ tail +20 (reach 10 feet), Damage 2d10+8 bludgeoning plus Push 5 feet
+Draconic Frenzy ʚʖ The desert drake makes two fangs Strikes and one tail Strike in
+any order.
+Sandstorm Breath ʚʖ (arcane, electricity, evocation) The desert drake spits
+a ball of electrically charged sand to a range of 60 feet that
+explodes into a cloud with a 15-foot-radius burst.
+Creatures in the area take 9d6 electricity damage (DC
+27 basic Reﬂex save). The cloud remains for 1d4 rounds,
+granting concealment to everything within. The desert
+drake can’t use Sandstorm Breath again for
+1d6  rounds.
+Speed Surge Ȱɵ (move) The desert drake moves up to
+twice its Speed. The desert drake can do this three
+times per day.
+Surprise Attacker On the ﬁrst round of combat,
+creatures that haven’t acted yet are ﬂat-footed
+to the desert drake.
+OTHER DRAKES
+The drakes presented on these
+pages are far from the only types
+that exist. Forest drakes have green
+hides, spit acidic clouds, and can be
+found in temperate woodlands. Rift
+drakes, among the most powerful
+of their kind, spit clinging caustic
+vapors and dwell in badlands and
+regions scarred by devastating
+magical disasters. Sea drakes can be
+found in oceans across the world,
+lava drakes in volcanic crevasses,
+mist drakes along coastlines and in
+salt marshes, and spire drakes in
+ragged, rocky hills. Undoubtedly,
+many other types of drakes lurk in
+the far corners of the world!
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668988
+4425145
 
-================================================================================
 PAGE 159
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669011
+4425168
 Bestiary
+158
 FAILED FLESHWARPS
 Not every ﬂeshwarp emerges
 from its vat capable of survival.
@@ -410,118 +422,66 @@ as guardians that slowly patrol the edges of their enclaves. Once in position,
 grothluts can be used as crude shock troops, unleashed to soften enemy forces
 before more-valuable warriors wade in and cut down the enemies who have been
 nauseated by the grothluts’ exploded organs and ﬂesh.
+GROTHLUT
+CREATURE 3
+N
+MEDIUM
+ABERRATION
+MINDLESS
+Perception +5; darkvision
+Skills Athletics +11
+Str +4, Dex –2, Con +4, Int –5, Wis +0, Cha –3
+AC 19; Fort +11, Ref +5, Will +7
+HP 50; Immunities acid, mental
+Disgusting Demise (acid, poison) When the grothlut is reduced to 0 Hit Points, its
+digestive organs rupture, unleashing alchemical acid and poison upon all creatures in
+a 30-foot emanation. Each creature in the area must succeed at a DC 19 Fortitude save
+or take 2d6 acid damage and become sickened 1 (double damage
+and sickened 2 on a critical failure).
+Piteous Moan (aura, auditory, emotion, mental, occult) 60 feet.
+Each non-grothlut creature that enters or starts its turn within
+the area must succeed at a DC 17 Will saving throw
+or become sickened 1 (sickened 2 on a critical
+failure). The creature then becomes temporarily
+immune for 1 minute. The grothlut can activate
+or deactivate the aura by using a single
+free action that has the concentrate trait. A
+grothlut usually does not begin moaning until it
+senses the presence of a non-grothlut creature,
+and it usually stops once it doesn’t sense
+any more such creatures.
+Speed 20 feet
+Melee Ȱɵ claw +11 (agile),
+Damage 1d10+8 slashing
+Ranged Ȱɵ digestive spew
++7 (acid, range increment
+15 feet, splash), Damage
+2d6 acid damage plus
+1d6 splash acid damage
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669011
+4425168
 
-================================================================================
-# FROST GIANT
-================================================================================
-
-Big Swing ʚʖ The stone giant makes a greatclub Strike. The target is Pushed up to 10
-feet on a hit or up to 20 feet on a critical hit. If the target collides with a solid object or
-lands on the ground, it takes bludgeoning damage as though it had fallen the distance
-it moved.
-Throw Rock Ȱɵ
-Frost Giant
-Frost giants are remorseless marauders who
-pillage and plunder from those who dare to live near
-them in desolate, frigid lands. Their clans range from extremely
-territorial hunters who claim an expanse of tundra and defend
-it at all costs to nomadic hordes that roam icy slopes in
-search of settlements to conquer. Frost giant clans are
-ruled by those who exhibit the greatest ferocity and
-prowess in battle—massive brutes who proclaim
-themselves jarl and demand absolute obedience from
-their followers. If at any time a frost giant wishes to
-be a jarl, all they must do is issue a challenge to the
-current jarl and face off in mortal combat, after which
-the reigning champion continues leading the clan or the
-victorious challenger assumes control.
-Frost giants live in frostbitten realms, and their
-appearance is reﬂective of a people weathered and hardened by
-relentless snowstorms and freezing temperatures. They often wear
-metal armor adorned with the furs, skin, teeth, and tusks of slain
-beasts and heft weapons as long as dining tables. Their ﬂesh ranges
-from pale blue to shale gray, and their hair is typically a dingy white or
-dirty yellow color.
-A typical frost giant stands about 15 feet tall and weighs
-approximately 2,800 pounds.
-FROST GIANT
-CREATURE 9
-CE
-LARGE
-COLD
-GIANT
-HUMANOID
-Perception +17; low-light vision
-Languages Common, Jotun
-Skills Athletics +23, Crafting +18, Intimidation +18, Stealth +17 (+21
-in snow)
-Str +6, Dex +0, Con +5, Int +0, Wis +2, Cha +0
-Items breastplate, +1 striking greataxe, sack with 5 rocks
-AC 29; Fort +23, Ref +16, Will +16
-HP 150; Immunities cold; Weaknesses ﬁre 10
-Catch Rock Ǻȓ
-Speed 30 feet; ice stride
-Melee Ȱɵ greataxe +21 (magical, reach 10 feet, sweep), Damage
-2d12+12 slashing
-Melee Ȱɵ ﬁst +21 (agile, reach 10 feet), Damage 2d8+12 bludgeoning
-Ranged Ȱɵ rock +21 (brutal, range increment 120 feet), Damage
-2d10+9 bludgeoning
-Chill Breath Ȱɵ (cold, evocation, primal) The frost giant breathes out
-a 15-foot cone of freezing moisture that quickly condenses into
-ice, dealing 4d6 cold damage. Each creature in the cone
-must attempt a DC 28 basic Reﬂex save. A creature
-that fails its save is also immobilized and takes 2d6
-
-================================================================================
 PAGE 173
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669025
+4425182
 Bestiary
-GIANT BAGS
-Giants often keep an eclectic
-collection of treasures in their
-knapsacks or bags. Among these
-can be found a staggeringly wide
-range of unexpected and odd
-treasures and valuables.
-cold damage at the end of each of its turns until it gets free (Escape DC 28). The giant
-can’t use Chill Breath again for 1d4 rounds.
-Ice Stride A frost giant isn’t impeded by diﬃcult terrain caused by snow or ice, nor does
-it need to attempt Acrobatics checks to keep from falling on slippery ice.
-Throw Rock Ȱɵ
-Wide Swing Ȱɵ The frost giant makes a single greataxe Strike and compares the attack
-roll result to the ACs of up to two foes within its reach. This counts as two attacks
-for the frost giant’s multiple attack penalty.
-Fire Giant
-The most militaristic of all giants, ﬁre giants focus obsessively on learning
-combat techniques, mastering the arts of forging weapons and armor,
-and ﬁnding new ways to dominate their enemies. As a result, their
-social and political structures are grounded ﬁrmly in martial
-hierarchies, with a strict emphasis on following the
-orders of one’s superior, no matter if you are
-accountable to a lowly soldier or report to
-a powerful ofﬁcer. As soon as a ﬁre giant
-can walk, they are ﬁtted with their
-ﬁrst suit of forged armor. This armor
-is constantly remolded and replaced
-as the ﬁre giant matures, both to ensure they are
-comfortable with steel against their skin and also
-to teach the giant as early as possible that they bear the
-burden of ﬁghting to protect their traditions and way of life. To
-a ﬁre giant, death is the ﬂame in which the future is forged.
-Fire giants are usually identiﬁed by their powerful stature, bright-orange hair
-that ﬂickers and dances as if it were aﬂame, and heavy steel armor worn over
-garments of crimson, amber, or black. Most ﬁre giants are covered in scars and
-refuse to conceal or obstruct them, as each jagged mark serves as a reminder of
-a valuable lesson they learned in battle. A typical ﬁre giant stands 12 to 16 feet
-tall, weighs about 7,000 pounds, and lives to be 350 years old.
-
-================================================================================
-# FIRE GIANT
-================================================================================
-
-
-Bestiary
+172
 GIANT BAGS
 Giants often keep an eclectic
 collection of treasures in their
@@ -589,11 +549,40 @@ result to each creature’s AC. This Strike deals an additional 1d6 ﬁre damage
 and counts as one attack for the ﬁre giant’s multiple attack penalty.
 Throw Rock Ȱɵ (ﬁre) A rock thrown by a ﬁre giant deals an additional
 1d6 ﬁre damage on a hit.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669025
+4425182
 
-================================================================================
 PAGE 174
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669026
+4425183
+E-G
+173
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Cloud Giant
 The graceful and regal cloud giants have skin of milky white to powdery blue.
 Unlike most giants, cloud giants are quite morally diverse. A handful are neutral,
@@ -611,124 +600,91 @@ Legends persist of ﬂoating cities ruled by magically gifted cloud giant
 queens and kings. While most cloud giants plainly state that such claims
 are pure fantasy, others are mysteriously tight-lipped or evasive about
 the matter.
-
-================================================================================
-# FLESH GOLEM
-================================================================================
-
-
-ALCHEMICAL GOLEMS
-When an alchemical golem is
-defeated or disabled, if any of its
-ﬁrst four alchemical chambers
-(1–4) remain intact, the chamber
-can be salvaged and used as a
-lesser alchemical bomb of the
-corresponding type: acid ﬂask,
-frost vial, bottled lightning, or
-alchemist's ﬁre, respectively.
-attempt to create from simple base elements, these monstrosities are far from
-human. In isolated cases, echoes of a personality might rise in a ﬂesh golem if
-the brain used as part of its construction belonged to a particularly powerful
-personality, but such tragic instances are (thankfully) rare in the extreme.
-FLESH GOLEM
-CREATURE 8
-UNCOMMON
+CLOUD GIANT
+CREATURE 11
 N
-LARGE
-CONSTRUCT
-GOLEM
-MINDLESS
-Perception +12; darkvision
-Skills Athletics +19
-Str +5, Dex –1, Con +3, Int –5, Wis +0, Cha –5
-AC 26; Fort +18, Ref +14, Will +15
-HP 140; Immunities bleed, disease, death eﬀects, electricity, doomed, drained, fatigued,
-healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed,
-poison, sickened, unconscious; Resistances physical 5 (except adamantine)
-Berserk A severely damaged ﬂesh golem has a chance of going berserk. If it has 40 or
-fewer HP at the start of its turn, the golem must succeed at a DC 5 ﬂat check or go
-berserk. A berserk golem wildly attacks the nearest living creature, or the nearest
-object if no creatures are nearby.
-Golem Antimagic harmed by ﬁre (5d8, 3d4 from areas or persistent damage); healed by
-electricity (area 2d4 HP); slowed by cold
-Vulnerable to Flesh to Stone Casting a ﬂesh to stone spell on the ﬂesh golem aﬀects
-the golem normally.
-Electric Reﬂexes Ǻȓ Trigger The golem takes electricity damage and a creature is
-adjacent to it. Eﬀect The golem lashes out and tries to grab a nearby creature. The
-golem attempts an Athletics check to Grapple an adjacent creature. The creature
-also takes 3d6 electricity damage on a success, or 6d6 electricity damage on a
-critical success.
-Speed 25 feet
-Melee Ȱɵ ﬁst +20 (magical, reach 10 feet), Damage 2d10+7 bludgeoning
-Berserk Slam Ȱɵ Requirement The ﬂesh golem is berserk. Eﬀect The ﬂesh golem Strikes
-with its ﬁst at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and
-knocks the target prone.
-Alchemical Golem
-This golem is a walking alchemical nightmare capable of inﬂicting all
-manner of painful wounds. Its ability to follow orders is granted
-by the otherwise mindless humanoid brain that ﬂoats in its
-dome-like head. In exceptionally rare cases, the brain used
-in its creation might retain fragments of memories or
-even actual intellect, resulting in an alchemical golem
-with a personality and agenda of its own.
+HUGE
+AIR
+GIANT
+HUMANOID
+Perception +22; low-light vision, scent (imprecise) 30 feet
+Languages Common, Jotun
+Skills Athletics +26, Crafting +21, Diplomacy +24, Intimidation +26,
+Performance +21
+Str +7, Dex +0, Con +5, Int +1, Wis +3, Cha +1
+Items +1 striking ranseur, sack with 5 rocks
+AC 30; Fort +25, Ref +18, Will +21
+HP 220
+Attack of Opportunity Ǻȓ
+Catch Rock Ǻȓ
+Speed 30 feet
+Melee Ȱɵ ranseur +25 (disarm, magical, reach 20 feet), Damage
+2d10+13 piercing
+Melee Ȱɵ
+ﬁst
++24
+(agile,
+reach
+15
+feet),
+Damage
+2d8+13 bludgeoning
+Ranged Ȱɵ rock +24 (brutal, range increment 120 feet), Damage
+2d10+13 bludgeoning
+Primal Innate Spells DC 30; 4th solid fog; 3rd levitate (at will); 2nd obscuring
+mist (at will)
+Throw Rock Ȱɵ
+Wind Strike ʚʖ (air, evocation, primal) The cloud giant Strikes a creature
+with its ranseur, surrounded in a roar of rushing air. On a hit, the target
+takes an additional 4d8 bludgeoning damage and is deafened for 1
+minute. Whether or not the Strike hits, each non-cloud giant within a
+20-foot emanation, including the target of the Strike, is buﬀeted by
+roaring winds and must attempt a DC 30 Fortitude saving throw.
+Critical Success The creature is unaﬀected.
+Success The creature takes 2d8 sonic damage.
+Failure The creature takes 4d8 sonic damage and is deafened until the
+end of its next turn.
+Critical Failure As failure, but double damage and also knocked prone.
+Storm Giant
+Storm giants are looming but benevolent stewards of sea and sky,
+often serving as the natural guardians of tropical islands, coastlines,
+or rocky archipelagos. Storm giants tend to rapidly shift in mood and
+behavior, one moment engaging in peaceful negotiation, the next unleashing
+GIANT PETS
+As with many people, giants
+enjoy keeping pets. Yet for giants,
+what constitutes a pet is often
+categorized as beast to others.
+Large animals like bears and
+lions, and megafauna like woolly
+mammoths and dinosaurs are
+popular, as are more magical
+creatures like hell hounds,
+manticores, griﬀons, and the like.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669026
+4425183
 
-================================================================================
-# FUNGUS LESHY 
-================================================================================
-
-Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) As leaf leshy, except
-the gourd leshy transforms into a gourd-bearing plant.
-Ensnare When the gourd leshy damages a creature with a ﬁst or seed Strike, vines lash
-out from the leshy (or seed) and wrap around the target’s limbs. The target must
-attempt a DC 17 Reﬂex save. On a failure, the target takes a –10-foot status penalty to
-its Speed for 1 round; on a critical failure, the target is immobilized for 1 round and the
-penalty to Speed lasts for 1 minute.
-Fungus Leshy
-Fungus leshys guard caves, bogs, and damp, dark places.
-Their fungus gardens are bizarre by most standards, but
-fungus leshys are extremely proud of their works.
-FUNGUS LESHY 
-CREATURE 2
-N
-SMALL
-FUNGUS
-LESHY
-Perception +6; darkvision
-Languages Common, Druidic, Sylvan; speak with
-plants (fungi only)
-Skills Athletics +6, Nature +6, Stealth +8
-Str +2, Dex +4, Con +2, Int –1, Wis +2, Cha +0
-AC 19; Fort +8, Ref +10, Will +6
-HP 30
-Verdant Burst (healing) As leaf leshy, except only fungi are healed,
-they regain 2d8 Hit Points, and the area sprouts fungi.
-Speed 25 feet
-Melee Ȱɵ ﬁst +10 (agile, ﬁnesse), Damage 1d6+2 bludgeoning
-Ranged Ȱɵ spore pod +10 (range increment 30 feet),
-Damage 1d6+2 bludgeoning plus spores
-Primal Innate Spells DC 16; 4th speak with plants
-Change Shape Ȱɵ (concentrate, polymorph,
-primal, transmutation) As leaf leshy, except
-the fungus leshy transforms into a giant
-mushroom or patch of fungi.
-Spore Cloud ʚʖ (poison) A fungus leshy can unleash a cloud of
-spores that irritates the eyes and throats of non-fungi
-creatures in a 15-foot emanation. Each creature must
-succeed at a DC 16 Fortitude save or take 1 persistent
-poison damage. A creature has its vision reduced as long
-as the persistent damage continues and can see only
-within 20 feet (or 10 feet, on a critical failure).
-Spores A creature that takes damage from a fungus
-leshy’s spore pod Strike must attempt a saving
-throw with the same DC and eﬀect as its Spore
-Cloud ability.
-
-================================================================================
 PAGE 221
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669073
+4425230
 Bestiary
+220
 LICH CRAFTING
 Liches spend a good deal of their
 downtime crafting magic items. In
@@ -771,7 +727,7 @@ A lich can be any type of spellcaster, as long as it has the ability to perform 
 ritual of undeath as the primary caster (which can usually be performed only by a
 spellcaster capable of casting 6th-level spells). To create a lich, follow these steps.
 Increase the spellcaster’s level by 1 and change its statistics as follows.
-• Increase spell DCs and spell attack roll by 2.
+•	 Increase spell DCs and spell attack roll by 2.
 LICH ABIlITIES
 A lich gains the undead trait and becomes evil. Liches lose all abilities that come
 from being a living creature.
@@ -796,11 +752,40 @@ lich’s hand Strike must succeed at a Fortitude save against the lich’s spell
 creature becomes paralyzed for 1 round on a failure. On a critical failure, the creature is
 paralyzed permanently, falls prone, and seems dead. A DC 25 Medicine check reveals
 the victim is alive.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669073
+4425230
 
-================================================================================
 PAGE 222
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669074
+4425231
+L-N
+221
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 LICH TREASURE
 The lair of a lich is usually ﬁlled
 with several magical treasures,
@@ -834,3 +819,48 @@ unless it succeeds at a Will save against the lich’s spell DC – 4.
 Lich
 A wizard whose insatiable desire for arcane power eclipsed their
 mortal life, the lich is a truly devious and versatile spellcaster.
+LICH
+CREATURE 12
+RARE
+NE
+MEDIUM
+UNDEAD
+Perception +20; darkvision
+Languages Abyssal, Aklo, Common, Draconic, Elf, Infernal, Necril,
+Undercommon
+Skills Arcana +28, Crafting +24 (can craft magic items), Deception +17,
+Diplomacy +19, Religion +22, Stealth +20
+Str +0, Dex +4, Con +0, Int +6, Wis +4, Cha +3
+Items potion of invisibility, scroll of teleport, greater staﬀ of ﬁre
+AC 31; Fort +17, Ref +21, Will +23; +1 status to all saves vs. positive
+HP 190, negative healing, rejuvenation; Immunities death eﬀects, disease,
+paralyzed, poison, unconscious; Resistances cold 10, physical 10 (except
+magic bludgeoning)
+Frightful Presence (aura, emotion, fear, mental) 60 feet, DC 29
+Counterspell Ǻȓ Trigger A creature casts a spell the lich has prepared. Eﬀect
+The lich expends a prepared spell to counter the triggering creature’s
+casting of that same spell. The lich loses its spell slot as if it had cast the
+triggering spell. The lich then attempts to counteract the triggering spell.
+Speed 25 feet
+Melee Ȱɵ hand +24 (ﬁnesse, magical), Damage 4d8 negative plus
+paralyzing touch
+Arcane Prepared Spells DC 36, attack +26; 6th chain lightning, dominate,
+vampiric exsanguination; 5th cloudkill, cone of cold (×2), wall of ice; 4th
+dimension door, dispel magic, ﬁre shield, ﬂy; 3rd blindness, locate, magic
+missile, vampiric touch; 2nd false life, mirror image, resist energy, see invisibility;
+1st ﬂeet step, ray of enfeeblement (×2), true strike; Cantrips (6th) detect magic,
+mage hand, message, ray of frost, shield
+Drain Phylactery Ȳ˓ 6th level
+Paralyzing Touch (arcane, curse, incapacitation, necromancy) DC 32
+Steady Spellcasting If a reaction would disrupt the lich’s spellcasting
+action, the lich attempts a DC 15 ﬂat check. On a
+success, the action isn’t disrupted.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669074
+4425231

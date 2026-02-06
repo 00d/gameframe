@@ -1,0 +1,37 @@
+{
+  "generated_at_utc": "2026-02-06T18:30:33.640420+00:00",
+  "source_pdf": "RemasterPlayerCoreCharacterSheet.pdf",
+  "book_slug": "remasterplayercorecharactersheet",
+  "total_pages": 4,
+  "pages_with_text": 4,
+  "pages": [
+    {
+      "page": 1,
+      "chars": 2520,
+      "words": 537,
+      "has_text": true,
+      "sha1": "8f618ad875b59823648d07446344c6ae374f6070"
+    },
+    {
+      "page": 2,
+      "chars": 1121,
+      "words": 191,
+      "has_text": true,
+      "sha1": "d6d07622b29c960455eb3ade63f97ed9a824e84f"
+    },
+    {
+      "page": 3,
+      "chars": 880,
+      "words": 121,
+      "has_text": true,
+      "sha1": "20629d52c3e862b9d756eaf1259e3d3352773d87"
+    },
+    {
+      "page": 4,
+      "chars": 832,
+      "words": 147,
+      "has_text": true,
+      "sha1": "7afae33647b963d8cc013c77dec9a253744d9b75"
+    }
+  ]
+}

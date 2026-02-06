@@ -1,0 +1,16 @@
+{
+  "id": "guns-amp-gears",
+  "book_dir": "Guns_Amp_Gears",
+  "book_name": "Guns_Amp_Gears",
+  "display_name": "Guns & Gears",
+  "source_pdf": "pathfinder-2e-guns-amp-gears_compress.pdf",
+  "paths": {
+    "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Guns_Amp_Gears",
+    "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/pathfinder-2e-guns-amp-gears_compress.pdf",
+    "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pathfinder-2e-guns-amp-gears-compress"
+  },
+  "metrics": {
+    "missing_text_pages": 0,
+    "avg_page_jaccard": 0.9408
+  }
+}

@@ -1,0 +1,158 @@
+If you critically fail a save against fear, veil of confidence
+ends immediately, and you increase any frightened condition
+you gain from the critical failure by 1 instead of decreasing it.
+VIBRANT THORNS
+FOCUS 1
+UNCOMMON
+CLERIC
+MORPH
+PLANT
+TRANSMUTATION
+Domain nature
+Cast [one-action] somatic
+Duration 1 minute
+Your body sprouts a coat of brambly thorns that harm those
+that strike you and thrive on life magic. Adjacent creatures
+that hit you with a melee attack, as well as creatures that hit
+you with unarmed attacks, take 1 piercing damage each time
+they do. Anytime you cast a positive spell, the damage from
+your thorns increases to 1d6 until the start of your next turn.
+Heightened (+1) The damage increases by 1, or 1d6 after you
+cast a positive spell.
+WAKING NIGHTMARE
+FOCUS 1
+UNCOMMON
+CLERIC
+EMOTION
+ENCHANTMENT
+FEAR
+MENTAL
+Domain nightmares
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration varies
+You fill the creature’s mind with a terrifying vision out of its
+nightmares. The target must attempt a Will save.
+Critical Success The target is unaffected.
+Success The target is frightened 1.
+Failure The target is frightened 2.
+Critical Failure The target is frightened 3.
+If the target is unconscious when you Cast this Spell on it, it
+immediately wakes up before attempting its save, and if it fails
+its save, it gains the fleeing condition for 1 round in addition to
+the effects noted above.
+WEAPON SURGE
+FOCUS 1
+UNCOMMON
+CLERIC
+EVOCATION
+Domain zeal
+Cast [one-action] somatic
+Range touch; Targets 1 weapon you’re wielding
+Holding your weapon aloft, you fill it with divine energy. On
+your next Strike with that weapon before the start of your
+next turn, you gain a +1 status bonus to the attack roll and the
+weapon deals an additional die of damage. If the weapon has
+a striking rune, this instead increases the number of dice from
+the striking rune by 1 (to a maximum of 3 extra weapon dice).
+If the target weapon leaves your possession, weapon
+surge immediately ends.
+WORD OF FREEDOM
+FOCUS 4
+UNCOMMON
+CLERIC
+ENCHANTMENT
+MENTAL
+Domain freedom
+Cast [one-action] verbal
+Range 30 feet; Targets 1 creature
+Duration 1 round
+You utter a liberating word of power that frees a creature.
+You suppress one of the following conditions of your choice:
+confused, frightened, grabbed, or paralyzed. The target isn’t
+affected by the chosen condition, and if you suppress the
+grabbed condition, the target automatically breaks free from
+any grab affecting it when you Cast the Spell.
+If you don’t remove the effect that provided the condition,
+the condition returns after the spell ends. For example, if a
+spell was making the target confused for 1 minute, word of
+freedom would let the target act normally for a round, but the
+confused condition would return afterward.
+WORD OF TRUTH
+FOCUS 1
+UNCOMMON
+CLERIC
+DIVINATION
+Domain truth
+Cast [one-action] verbal
+Duration sustained up to 1 minute
+You speak a statement you believe to be true and that is free of
+any attempt to deceive through twisting words, omission, and
+so on. The statement must be 25 words or fewer. A symbol of
+your deity glows above your head, and anyone who sees you
+and hears your statement knows that you believe it to be true.
+Each time you Sustain this Spell, you can repeat this effect.
+ZEAL FOR BATTLE
+FOCUS 4
+UNCOMMON
+CLERIC
+EMOTION
+ENCHANTMENT
+FORTUNE
+MENTAL
+Domain zeal
+Cast [reaction] verbal
+Trigger You and at least 1 ally are about to roll initiative.
+Range 10 feet; Targets you and the triggering ally
+You stoke the righteous anger within yourself and an ally. You
+and the target ally each roll a d20 and use the higher result for
+both your initiative rolls. You each still use your own Perception
+modifier or other statistic to determine your results.
+DRUID
+Druids can gain the following order spells.
+GOODBERRY
+FOCUS 1
+UNCOMMON
+DRUID
+HEALING
+NECROMANCY
+Cast 1 hour (somatic, verbal)
+Range touch; Targets 1 freshly picked berry
+Duration 1 day
+You imbue the target berry with the bounty of nature, allowing
+it to heal and sustain far beyond its normal capacity. A living
+creature that eats the berry with an Interact action gains as
+much nourishment as from a square meal for a typical human
+and regains 1d8+5 Hit Points. If it’s not consumed during the
+duration, or if you cast goodberry again, the berry withers away.
+Heightened (+1) You can target an additional berry.
+HEAL ANIMAL
+FOCUS 1
+UNCOMMON
+DRUID
+HEALING
+NECROMANCY
+POSITIVE
+Cast [one-action] to [two-actions] somatic
+Range touch or 30 feet (see text); Targets  1 willing living
+animal creature
+399
+7
+SPELLS
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

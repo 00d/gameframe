@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# YOUNG BLACK DRAGON
+# YOUNG BLACK DRAGON
 ================================================================================
 
 
@@ -25,7 +25,7 @@ and slimes. Though they claim natural caverns when they can, they make do
 with areas of dense, twisted vegetation within a swamp. Black dragon treasure
 hoards primarily consist of gems and expensive glass work, as valuables of softer
 substance can’t survive the dragon’s acidic presence.
-YOUNG BLACK DRAGON
+YOUNG BLACK DRAGON
 CREATURE 7
 CE
 LARGE
@@ -64,7 +64,7 @@ Breath Weapon whenever it scores a critical hit
 with a Strike.
 
 ================================================================================
-# YOUNG BLUE DRAGON
+# YOUNG BLUE DRAGON
 ================================================================================
 
 
@@ -93,7 +93,7 @@ come calling. A force of guards keeps out intruders, and clever illusions
 conceal the ediﬁce from prying eyes. Rather than a pile of coins or gems, a
 blue dragon’s true hoard is the rich furnishings in its citadel—
 expensive art, ornate furniture, and architectural marvels.
-YOUNG BLUE DRAGON
+YOUNG BLUE DRAGON
 CREATURE 9
 LE
 LARGE
@@ -149,7 +149,17 @@ whenever it scores a critical hit with a Strike.
 PAGE 109
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668961
+4425118
 Bestiary
+108
 GREEN DRAGON
 SPELLCASTERS
 Green dragon spellcasters tend to
@@ -180,32 +190,95 @@ prismatic spray, spell turning; 6th
 feeblemind, teleport, true seeing;
 Cantrips (8th) dancing lights, detect
 magic, ghost sound, read aura, shield
-
-================================================================================
-# YOUNG GREEN DRAGON
-================================================================================
-
-YOUNG GREEN DRAGON
-CREATURE 8
+ADULT BLUE DRAGON
+CREATURE 13
 LE
-LARGE
-AMPHIBIOUS
+HUGE
 DRAGON
-Perception +16; darkvision, scent (imprecise)
-60 feet
-Languages Common, Draconic
-Skills Acrobatics +13, Arcana +16, Athletics +17,
-Deception +14, Diplomacy +16, Intimidation
-+16, Nature +14, Occultism +17, Society +14,
-Stealth +15
-Str +5, Dex +1, Con +3, Int +2, Wis +2,
-Cha +4
+ELECTRICITY
+Perception +24; darkvision, scent (imprecise) 60 feet
+Languages Auran, Common, Draconic, Jotun
+Skills Acrobatics +22, Arcana +25, Deception +26, Diplomacy +26, Intimidation +24,
+Society +23, Stealth +20, Survival +22
+Str +6, Dex +3, Con +4, Int +4, Wis +3, Cha +5
+Sound Imitation The dragon can mimic any sound it has heard. It must succeed at a
+Deception check with a +4 circumstance bonus to do so.
+AC 34; Fort +24, Ref +23, Will +23; +1 status to all saves vs. magic
+HP 260; Immunities electricity, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 32
+Wing Deﬂection Ǻȓ As young blue dragon.
+Speed 40 feet, burrow 20 feet, ﬂy 150 feet
+Melee Ȱɵ jaws +27 (electricity, magical, reach 15 feet), Damage 3d8+12 piercing plus 1d12
+electricity
+Melee Ȱɵ claw +27 (magical, agile, reach 10 feet), Damage 3d8+12 slashing
+Melee Ȱɵ tail +25 (magical, reach 20 feet), Damage 3d8+10 bludgeoning
+Melee Ȱɵ horns +25 (magical, reach 15 feet), Damage 2d8+10 piercing
+Arcane Innate Spells DC 33; 6th illusory creature, illusory object, ventriloquism (at will);
+1st create water (at will; see desert thirst); Cantrips (6th) ghost sound
+Breath Weapon ʚʖ (arcane, electricity, evocation); The dragon breathes lightning that
+deals 9d12 electricity damage in a 100-foot line (DC 33 basic Reﬂex save). It can’t use
+Breath Weapon again for 1d4 rounds.
+Desert Thirst (arcane, transmutation); As young blue dragon, but DC 32.
+Draconic Frenzy ʚʖ As young blue dragon.
+Draconic Momentum As young blue dragon.
+ANCIENT BLUE DRAGON
+CREATURE 18
+UNCOMMON
+LE
+HUGE
+DRAGON
+ELECTRICITY
+Perception +31; darkvision, scent (imprecise) 60 feet
+Languages Auran, Common, Draconic, Jotun, Ignan, Infernal
+Skills Acrobatics +28, Arcana +33, Deception +35, Diplomacy +35, Intimidation +33,
+Society +35, Stealth +28, Survival +29
+Str +7, Dex +4, Con +6, Int +7, Wis +5, Cha +7
+Sound Imitation The dragon can mimic any sound it has heard. To do so, it must succeed
+at a Deception check with a +4 circumstance bonus.
+AC 42; Fort +32, Ref +30, Will +33; +1 status to all saves vs. magic
+HP 370; Immunities electricity, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 39
+Wing Deﬂection Ǻȓ As young blue dragon.
+Speed 50 feet, burrow 30 feet, ﬂy 200 feet
+Melee Ȱɵ jaws +35 (electricity, magical, reach 20 feet), Damage 3d10+15 piercing plus
+2d12 electricity
+Melee Ȱɵ claw +35 (agile, magical, reach 15 feet), Damage 3d10+15 slashing
+Melee Ȱɵ tail +33 (magical, reach 25 feet), Damage 3d10+13 bludgeoning
+Melee Ȱɵ horns +33 (magical, reach 20 feet), Damage 2d10+13 piercing
+Arcane Innate Spells DC 43; 8th hallucinatory terrain (at will), illusory creature (at will),
+illusory object (at will), ventriloquism (at will); 7th project image (see mirage); 1st create
+water (at will; see desert thirst); Cantrips (8th) ghost sound
+Breath Weapon (arcane, electricity, evocation); The dragon breathes lightning that
+deals 12d12 electricity damage in a 120-foot line (DC 40 basic Reﬂex save). It can’t
+use Breath Weapon again for 1d4 rounds.
+Each time the dragon uses Breath Weapon, a 20-foot-radius storm cloud appears
+80 feet above a point of the dragon’s choosing along the Breath Weapon’s path. Clouds
+last for 10 minutes and allow the dragon to use Storm Breath.
+Desert Thirst (arcane, transmutation); As young blue dragon, but DC 37.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668961
+4425118
 
-================================================================================
 PAGE 111
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668963
+4425120
 Bestiary
+110
 DRAGONS ON OTHER
 WORLDS
 On the planet Triaxus the
@@ -250,100 +323,74 @@ Draconic Momentum The dragon recharges its Breath Weapon whenever it scores a
 critical hit with a Strike.
 Woodland Stride The green dragon ignores diﬃcult terrain and greater diﬃcult terrain
 from non-magical foliage.
-
-================================================================================
-# YOUNG RED DRAGON
-================================================================================
-
-attack +36; As adult red dragon,
-plus 9th ﬁery body, prismatic
-sphere; 8rd discern location, mind
-blank, prismatic wall; 7th prismatic
-spray, resist energy, reverse
-gravity; Cantrips (9th) chill touch,
-daze, mage hand, message, sigil
-YOUNG RED DRAGON
-CREATURE 10
-CE
-LARGE
+ADULT GREEN DRAGON
+CREATURE 12
+LE
+HUGE
+AMPHIBIOUS
 DRAGON
-FIRE
-Perception +20; darkvision, scent (imprecise) 60 feet, smoke vision
-Languages Common, Draconic
-Skills Acrobatics +15, Arcana +17, Athletics +22, Deception +19, Diplomacy +19,
-Intimidation +21, Stealth +17
-Str +6, Dex +1, Con +4, Int +1, Wis +2, Cha +3
-Smoke Vision Smoke doesn’t impair a red dragon’s vision; it ignores the concealed
-condition from smoke.
-AC 30; Fort +21, Ref +18, Will +19
-HP 210; Immunities ﬁre, paralyzed, sleep; Weaknesses cold 10
-Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 27
-Attack of Opportunity Ǻȓ Jaws only.
-Speed 40 feet, ﬂy 120 feet
-Melee Ȱɵ jaws +23 (ﬁre, reach 10 feet), Damage 2d12+12 piercing plus 2d6 ﬁre
-Melee Ȱɵ claw +23 (agile), Damage 2d10+12 slashing
-Melee Ȱɵ tail +21 (reach 15 feet), Damage 2d12+10 slashing
-Melee Ȱɵ wing +21 (agile, reach 10 feet), Damage 1d10+10 slashing
-Arcane Innate Spells DC 27; Cantrips (4th) detect magic, read aura
-Breath Weapon ʚʖ (arcane, evocation, ﬁre) The dragon breathes a blast of ﬂame that
-deals 11d6 ﬁre damage in a 40-foot cone (DC 30 basic Reﬂex save). It can’t use Breath
-Weapon again for 1d4 rounds.
-Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one wing Strike in any order.
-Draconic Momentum The dragon recharges its Breath Weapon whenever it scores a
-critical hit with a Strike.
-
-================================================================================
-# YOUNG WHITE DRAGON
-================================================================================
-
-Cantrips (9th) detect magic, read aura
-Breath Weapon ʚʖ (arcane, evocation, ﬁre) The dragon breathes a blast of ﬂame that
-deals 20d6 ﬁre damage in a 60-foot cone (DC 42 basic Reﬂex save). It can’t use Breath
-Weapon again for 1d4 rounds.
-Draconic Frenzy ʚʖ As young red dragon.
-Draconic Momentum As young red dragon.
-Manipulate Flames Ȱɵ (arcane, concentrate, transmutation); The red dragon attempts
-to take control of a magical ﬁre or a ﬁre spell within 100 feet. If it succeeds at a
-counteract check (counteract level 10, counteract modiﬁer +32), the original caster
-loses control of the spell or magic ﬁre, control is transferred to the dragon, and the
-dragon counts as having Sustained the Spell with this action (if applicable). The dragon
-can choose to end the spell instead of taking control, if it chooses.
-White Dragon
-The most feral and least intelligent of all the chromatic dragons, white dragons
-are brutish, predatory, and chieﬂy motivated by self-preservation. Nearly all
-other dragons look down on white dragons as hopelessly hotheaded and dull,
-though this does not make them any less dangerous—in fact, it may mean
-the opposite. It’s nearly impossible to treat with white dragons, not because
-they lack the capacity to do so, but because they just don’t care to. They are
-as difﬁcult to deal with as they are quick to anger, and they become incensed
-at almost anything. When a white dragon does speak, it spews threats, inane
-jokes, and incoherent babbling as a prelude to attacking—and when the attack
-comes, it’s bloody and relentless.
-Thankfully, white dragons prefer very cold, remote locations that are far from
-people. Dwelling on glacial mountaintops or in ice caverns beneath forbidding
-tundra, they treat the lands around them as their own personal hunting grounds.
-They ﬂy out to feed or terrorize other creatures, especially those who trespass
-near the dragon’s territory, then bring any treasure back to be displayed in icy
-niches in their lairs. They collect all kinds of valuables, with a slight preference
-for items with high utility—such as tools, trade goods, and ﬁne food—over coins
-or jewels. The ability to shape ice lets white dragons rearrange their lairs exactly
-to their speciﬁcations, and they take great pride in how they’ve decorated their
-homes over the years.
-YOUNG WHITE DRAGON
-CREATURE 6
-CE
-LARGE
-COLD
+Perception +22; darkvision, scent (imprecise) 60 feet
+Languages Common, Draconic, Elven, Sylvan
+Skills Acrobatics +19, Arcana +22, Athletics +24, Deception +19, Diplomacy +23,
+Intimidation +23, Nature +20, Occultism +24, Society +22, Stealth +21
+Str +6, Dex +3, Con +3, Int +4, Wis +4, Cha +5
+AC 34; Fort +20, Ref +22, Will +23; +1 status to all saves vs. magic
+HP 215; Immunities paralyzed, poison, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 31
+Twisting Tail Ǻȓ As young green dragon.
+Speed 40 feet, ﬂy 160 feet, swim 40 feet; trackless step, woodland stride
+Melee Ȱɵ jaws +26 (magical, poison, reach 15 feet), Damage 3d10+12 piercing plus 3d4 poison
+Melee Ȱɵ claw +26 (agile, magical, reach 10 feet), Damage 3d8+12 slashing
+Melee Ȱɵ tail +24 (magical, reach 20 feet), Damage 3d8+10 bludgeoning
+Melee Ȱɵ horn +24 (magical, reach 15 feet), Damage 2d8+10 piercing
+Arcane Innate Spells DC 32; 4th suggestion; 2nd entangle (×2); At Will charm
+Breath Weapon ʚʖ (arcane, evocation, poison) The dragon breathes a toxic cloud that
+deals 13d6 poison damage in a 50-foot cone (DC 31 basic Fortitude save). It can’t use
+Breath Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ As young green dragon.
+Draconic Momentum As young green dragon.
+Trackless Step The green dragon always gains the beneﬁts of Cover Tracks in natural
+surroundings, even while moving at full speed.
+Woodland Stride As young green dragon.
+ANCIENT GREEN DRAGON
+CREATURE 17
+UNCOMMON
+LE
+GARGANTUAN
+AMPHIBIOUS
 DRAGON
-Perception +13; darkvision, scent (imprecise) 60 feet, snow vision
-Languages Draconic
-Skills Acrobatics +10, Arcana +7, Athletics +16, Intimidation +12, Stealth +14
+Perception +30; darkvision, scent (imprecise) 60 feet
+Languages Abyssal, Common, Draconic, Elven, Jotun, Sylvan
+Skills Acrobatics +25, Arcana +32, Athletics +30, Deception +27, Diplomacy +31,
+Intimidation +31, Nature +28, Occultism +34, Society +31, Stealth +29 (camouﬂage)
+Str +7, Dex +4, Con +5, Int +6, Wis +5, Cha +6
+Camouﬂage The dragon can Hide in natural environments even if it doesn’t have cover.
+AC 41; Fort +30, Ref +29, Will +32; +1 status to all saves vs. magic
+HP 315; Immunities paralyzed, poison, sleep
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668963
+4425120
 
-================================================================================
 PAGE 115
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668967
+4425124
 Bestiary
+114
 WHITE DRAGON
 SPELLCASTERS
 White dragon spellcasters tend to
@@ -404,367 +451,290 @@ Shape Ice ʚʖ (arcane, transmutation, water) The dragon reshapes a cube of ice 
 it touches, up to 10 feet across. Any creature standing atop the ice must succeed at a
 DC 15 Reﬂex save or Acrobatics check. On a failure, the creature falls prone atop the
 ice; on a critical failure, it falls oﬀ the ice entirely and is also prone.
-
-================================================================================
-# YOUNG BRASS DRAGON
-================================================================================
-
-
-Brass Dragon
-Brass dragons are whimsical tricksters who delight in humor and play. They
-particularly enjoy conversations with humans and other civilized humanoids,
-delighting in the naive customs of these diminutive races without showing them
-haughtiness or scorn. While they may seem merely curious, brass dragons engage
-in this sort of conversation with the goal of keeping up to date on regional politics
-so they can anticipate future conﬂicts. Along the way, they create extensive
-information networks that begin with their own allies but stretch across all
-levels of humanoid society—networks which the brass dragon then uses to subtly
-assist settlements near their lair. Unlike the schemes and manipulations of blue
-dragons, brass dragons use their informant networks to establish justice
-and equality.
-These carefree dragons value independence and feel that all
-creatures deserve to live as they please, provided they don’t harm
-others. They are emotional creatures and tend to have short
-attention spans, sometimes falling victim to depression in their
-twilight years. To combat this, some brass dragons keep pets
-and houseplants that they can care for.
-Though they may seem childlike in their curiosity
-concerning mortal affairs, a brass dragon’s prowess in
-battle is no laughing matter. A brass dragon whose
-territory or allies are threatened is a terrifying foe
-indeed, quick to shed their innocent guise and
-unleash their terrifying might upon evildoers.
-Most brass dragons live in desert climates, and
-while they keep their lairs hidden, they often
-build near humanoid settlements.
-YOUNG BRASS DRAGON
-CREATURE 7
-CG
+ADULT WHITE DRAGON
+CREATURE 10
+CE
 LARGE
+COLD
 DRAGON
-FIRE
-Perception +15; darkvision, scent (imprecise) 60 feet,
-tremorsense (imprecise) 30 feet
-Languages Common, Draconic, Gnome, Halﬂing,
-Sylvan; speak with animals
-Skills Acrobatics +13, Athletics +18, Deception
-+15, Diplomacy +15, Society +14
-Str +5, Dex +2, Con +3, Int +1, Wis +1, Cha +2
-AC 25; Fort +16, Ref +15, Will +14
-HP 125; Immunities ﬁre, paralyzed, sleep
-Frightful Presence (aura, emotion, fear,
-mental) 90 feet, DC 23
-Wing Deﬂection Ǻȓ Trigger The dragon is
-targeted with an attack. Eﬀect The dragon
-raises its wing, gaining a +2 circumstance
-bonus to AC against the triggering attack. If
-the dragon is ﬂying, it descends 10 feet after
-the attack is complete.
-Speed 40 feet, burrow 30 feet, ﬂy 120 feet
-Melee Ȱɵ jaws +19 (ﬁre, reach 10 feet), Damage
-2d6+8 piercing plus 1d8 ﬁre
-Melee Ȱɵ claw +19 (agile), Damage 2d6+8 slashing
-Melee Ȱɵ wing +17 (reach 10 feet), Damage
-1d8+7 slashing
-Arcane Innate Spells DC 25; Constant (2nd)
-speak with animals
-Breath Weapon ʚʖ (arcane, evocation, ﬁre);
-The brass dragon breathes ﬁre in a 60-foot
+Perception +20; darkvision, scent (imprecise) 60 feet, snow vision
+Languages Common, Draconic
+Skills Acrobatics +16, Arcana +15, Athletics +23, Intimidation +19, Stealth +18
+Str +7, Dex +2, Con +5, Int +1, Wis +2, Cha +1
+Snow Vision As young white dragon.
+AC 29; Fort +22, Ref +19, Will +17; +1 status to all saves vs. magic
+HP 215; Immunities cold, paralyzed, sleep; Weaknesses ﬁre 10
+Dragon Chill (arcane, aura, cold, evocation); 5 feet, 2d6 cold damage (DC 27 basic Reﬂex)
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 27
+Freezing Blood Ǻȓ (arcane, cold); As young white dragon, but 2d6 cold damage.
+Speed 30 feet, ﬂy 120 feet; ice climb 30 feet
+Melee Ȱɵ jaws +23 (cold, magical, reach 10 feet), Damage 2d10+13 piercing plus 2d6 cold
+Melee Ȱɵ claw +23 (agile, magical), Damage 2d8+13 slashing
+Melee Ȱɵ tail +22 (magical, reach 15 feet), Damage 2d6+11 bludgeoning
+Arcane Innate Spells DC 27; 2nd obscuring mist (at will); 1st gust of wind (at will)
+Breath Weapon ʚʖ (arcane, cold, evocation); The dragon breathes a cloud of frost that
+deals 11d6 cold damage in a 40-foot cone (DC 29 basic Reﬂex save). It can’t use Breath
+Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ As young white dragon.
+Draconic Momentum As young white dragon.
+Ground Slam Ȱɵ As young white dragon, but DC 29 and 3d6 bludgeoning damage.
+Ice Climb As young white dragon.
+Shape Ice ʚʖ (arcane, transmutation, water) As young white dragon.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668967
+4425124
 
-================================================================================
 PAGE 119
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668971
+4425128
 Bestiary
+118
 line that deals 8d6 ﬁre damage (DC 26 basic Reﬂex save). The dragon can’t use Breath
 Weapon again for 1d4 rounds.
 Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one jaws Strike in any order.
 Draconic Momentum When the dragon scores a critical hit with a Strike, it recharges
 Breath Weapon.
-
-================================================================================
-# YOUNG BRONZE DRAGON
-================================================================================
-
-
-Bronze Dragon
-Bronze dragons are among the most common of metallic dragons and the most
-likely to ally with mortals on worthy quests. However, they are naturally scholarly
-creatures who would rather remain in their lairs studying esoteric lore than go off
-on a wild adventure. These aloof and stoic dragons also act as preservationists,
-guarding storehouses of ancient lore from destruction or perversion. Bronze
-dragons are principled and protective, but while their silver cousins are quick to
-crusade for justice, bronze dragons prefer to ﬁnd an important location worthy of
-their protection and guard it against any attack or unwelcome intrusion.
-Bronze dragons’ mastery over water and afﬁnity for electricity means they are
-a boon to sailors caught in thunderstorms. A bronze dragon’s enemies quickly
-discover neither cloudy sky nor turbulent sea provides shelter from their wrath.
-Bronze dragons lair along shorelines, often in partially submerged sea caves.
-While all dragons keep hoards of treasure, the hoard of a bronze dragon more
-resembles a vast library—with the shelves kept carefully above the waterline,
-of course. In addition to their collections of esoteric lore, bronze dragons
-keep treasures associated with the sea, such as beautiful scrimshaw, ﬂawless
-pearls, and equipment inlaid with mother-of-pearl and abalone shell.
-YOUNG BRONZE DRAGON
-CREATURE 9
-LG
-LARGE
-AMPHIBIOUS
-DRAGON
-WATER
-Perception +18; darkvision, scent (imprecise) 60 feet
-Languages Aquan, Common, Draconic, Dwarven, Elven; speak with animals
-Skills Acrobatics +16, Arcana +20, Athletics +18, Diplomacy +18,
-Intimidation +18, Occultism +18, Society +16, Stealth +16
-Str +5, Dex +1, Con +3, Int +3, Wis +3, Cha +3
-AC 28; Fort +19, Ref +17, Will +19; +1 status to all saves vs. magic
-HP 170; Immunities electricity, paralyzed, sleep
-Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 26
-Attack of Opportunity Ǻȓ Jaws only.
-Speed 30 feet, ﬂy 120 feet, swim 40 feet
-Melee Ȱɵ jaws +21 (electricity, reach 10 feet),
-Damage 2d8+11 piercing plus 1d12 electricity
-Melee Ȱɵ claw +21 (agile), Damage 2d8+11 slashing
-Melee Ȱɵ tail +19 (reach 10 feet), Damage 1d8+9
-bludgeoning
-Arcane Innate Spells DC 28; Constant (2nd) speak
-with animals
-Breath Weapon ʚʖ The bronze dragon breathes in
-one of two ways. The dragon can’t use Breath
-Weapon again for 1d4 rounds.
-• Lightning (arcane, electricity, evocation); The
-dragon breathes lightning in a 60-foot line
-that deals 6d12 electricity damage (DC 28
-basic Reﬂex save).
-• Repulsion
-Gas
-(abjuration,
-arcane,
-incapacitation, mental); The dragon breathes
-a 60-foot line of repulsive gas. Each creature
-in the area must succeed at a DC 28 Will
-save or become ﬂeeing from the dragon for
-1 round (or 2 rounds on a critical failure).
-Draconic Frenzy ʚʖ The dragon makes two claw
-Strikes and one tail Strike in any order.
-Draconic Momentum When the dragon scores
-a critical hit with a Strike, it recharges its
-Breath Weapon.
-Water Mastery (arcane, transmutation, water)
-TIRUVINN
-Reclusive and secretive,
-this adult bronze dragon
-sometimes speaks to
-adventurers. That’s how he
-came to meet Ameiko Kaijitsu,
-who named Sandpoint’s Rusty
-Dragon tavern after him.
-
-================================================================================
-PAGE 121
-================================================================================
-
-Bestiary
-For up to 30 minutes per day, the dragon, along with allied creatures and vessels
-within 50 feet, can move at double their normal Speed in water.
-
-================================================================================
-# YOUNG GOLD DRAGON
-================================================================================
-
-
-Bestiary
-any true criticism; in their hearts, other dragons know that few gold dragons
-purposefully exclude themselves from truly important matters.
-A gold dragon’s incredible foresight and unparalleled enlightenment means
-they are unlikely to interfere in the business of individual mortals, though the
-rare person who captures the attention of a gold dragon is fortunate indeed, for
-there are few beings in the cosmos who can offer such prudent and considerate
-advice. Rulers and individuals in stations of high power have an easier time of
-garnering the aid of a gold dragon; entire wars have been avoided thanks to a
-gold dragon’s last-minute intermediation.
-Gold dragons are often found in warm grasslands and savannas, lands
-where they can enjoy long, meditative ﬂights without attracting the attention
-of potential enemies. They tend to sleep either out in the open in a barren,
-remote place, or within a heavily secreted or fortiﬁed lair, such as a forgotten
-sink hole or in the labyrinthine caverns of a terrestrial chasm. Gold dragons
-may enlist trusted servants and allies to guard their lairs, though many live
-truly solitary lives, preferring to protect their hoards with nonlethal traps and
-magical wards.
-YOUNG GOLD DRAGON
+ADULT BRASS DRAGON
 CREATURE 11
-LG
+CG
 LARGE
 DRAGON
 FIRE
-Perception +21; darkvision, scent (imprecise) 60 feet
-Languages Common, Draconic, Elven, Sylvan
-Skills Acrobatics +17, Arcana +18, Athletics +23, Diplomacy +23, Medicine +21,
-Religion +21, Society +18
-Str +6, Dex +2, Con +4, Int +3, Wis +4, Cha +4
-AC 32; Fort +22, Ref +20, Will +22; +1 status to all saves vs. magic
-HP 230; Immunities ﬁre, paralyzed, sleep; Weaknesses cold 10
-Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 27
-Attack of Opportunity Ǻȓ Jaws only.
-Speed 40 feet, ﬂy 140 feet, swim 40 feet
-Melee Ȱɵ jaws +24 (ﬁre, reach 10 feet), Damage 2d10+12 piercing plus 2d6 ﬁre
-Melee Ȱɵ claw +24 (agile), Damage 2d10+12 slashing
-Melee Ȱɵ tail +22 (reach 10 feet), Damage 2d10+10 slashing
-Melee Ȱɵ horns +22 (agile, reach 10 feet), Damage 1d12+10 piercing
-Arcane Innate Spells DC 29; 3rd locate (gems only); 1st detect alignment (evil only)
-Breath Weapon ʚʖ The gold dragon breathes in one of two ways. The dragon can’t use
-Breath Weapon again for 1d4 rounds.
-• Flame (arcane, evocation, ﬁre); The dragon breathes a blast of ﬂame in a 30-foot
-cone that deals 11d6 ﬁre damage (DC 31 basic Reﬂex save).
-• Weakening Gas (arcane, necromancy); The dragon breathes a blast of weakening
-gas. Each creature within a 30-foot cone must succeed at a DC 31 Fortitude save
-or become enfeebled 1 for 1 minute (or enfeebled 2 on a critical failure).
-Draconic Frenzy ʚʖ The gold dragon makes two claw Strikes and one horns Strike in
-any order.
-Draconic Momentum When the gold dragon scores a critical hit with a Strike, it recharges
-Breath Weapon.
-
-================================================================================
-# YOUNG SILVER DRAGON
-================================================================================
-
-
-Bestiary
-usually other silver dragons or gold dragons. As they age, they become even
-more dedicated to their codes, often adding new and even more restrictive
-clauses to the systems that guide their behavior.
-Silver dragons are incredibly altruistic and regularly consort with the citizens
-of goodly societies, of which they consider themselves protectors and guides.
-In addition to responding to evil threats, silver dragons work to prevent evil
-from taking root in the ﬁrst place, and they ensure mortals under their care are
-well fed, educated, and treated with dignity. Although silver dragons can seem
-overzealous or even eager to join the ﬁght against evil, they know that the best
-way to rid the world of corruption is to stamp out strife and disillusionment
-at their source, not to passively sit back and watch it grow into an unsolvable
-problem. Silver dragons can be vindictive, but they can also be forgiving; for
-evildoers who seek to atone for their sins and turn over a new leaf, the support
-of a silver dragon is both unwavering and invaluable.
-Many silver dragons are also drawn to religious endeavors, venerating
-deities such as Iomedae, Sarenrae, and other deities concerned with justice,
-virtue, and redemption.
-YOUNG SILVER DRAGON
-CREATURE 10
-LG
-LARGE
-COLD
-DRAGON
-Perception +20; darkvision, fog vision, scent (imprecise) 60 feet
-Languages Auran, Common, Draconic
-Skills Acrobatics +14, Athletics +22, Diplomacy +18, Intimidation +20, Medicine +20,
-Religion +18, Society +14
-Str +6, Dex +2, Con +3, Int +2, Wis +4, Cha +4
-Fog Vision The silver dragon ignores the concealed condition from fog and clouds.
-AC 31; Fort +20, Ref +17, Will +21
-HP 200; Immunities cold, paralyzed, sleep; Weaknesses ﬁre 10
+Perception +21; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 30 feet
+Languages Auran, Common, Draconic, Gnome, Halﬂing, Sylvan; speak with animals
+Skills Acrobatics +20, Athletics +23, Deception +20, Diplomacy +20, Society +19
+Str +6, Dex +3, Con +5, Int +2, Wis +4, Cha +3
+AC 31, Fort +22, Ref +20, Will +21; +1 status to all saves vs. magic
+HP 215; Immunities ﬁre, paralyzed, sleep
 Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 28
-Wing Deﬂection Ǻȓ Trigger The silver dragon is targeted with an attack. Eﬀect The dragon
-raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If
-the dragon is ﬂying, it descends 10 feet after the attack is complete.
-Speed 40 feet, ﬂy 100 feet; cloud walk
-Melee Ȱɵ jaws +23 (cold, reach 10 feet), Damage 2d10+12 piercing plus 2d6 cold
-Melee Ȱɵ claw +23 (agile), Damage 2d8+12 slashing
-Melee Ȱɵ tail +21 (reach 15 feet), Damage 1d10+10 bludgeoning
-Arcane Innate Spells DC 28; 1st detect alignment (evil only)
-Breath Weapon ʚʖ The silver dragon breathes in one of two ways. The dragon can’t use
-Breath Weapon again for 1d4 rounds.
-• Frost (arcane, cold, evocation); The dragon breathes a cloud of frost in a 30-foot cone
-that deals 10d6 cold damage (DC 29 basic Reﬂex save).
-• Paralyzing Gas (arcane, enchantment, incapacitation); The dragon breathes a
-blast of paralyzing gas. Each creature within a 30-foot cone must succeed at a
-DC 29 Fortitude save or be slowed 1 for 1 round (or paralyzed for 1 round on a
-critical failure).
-Cloud Walk The silver dragon can tread on clouds or fog as though on solid ground.
-Draconic Frenzy ʚʖ The silver dragon makes two claw Strikes and one tail Strike in
-any order.
-Draconic Momentum When the silver dragon scores a critical hit with a Strike, it
-recharges its Breath Weapon.
-
-================================================================================
-# YETI
-================================================================================
-
-
-Bestiary
-YETI TREASURE
-Lone exiles of yeti clans have little
-use for treasure and leave the gear
-of their slain victims behind where
-it is quickly covered by snowfall.
-Clan-based yetis, on the other
-hand, create beautifully carved
-stonework, some of which they
-shape into protective talismans of
-rare beauty.
-Yeti
-Nearly a myth, the yeti is rarely seen—and even when it is, it is often too late.
-Yetis dwell amid the highest, most remote peaks of the world, coming down
-from their snowy mountain holds to raid, steal livestock, and sometimes feed
-their insatiable urges for slaughter and destruction. Those folks who live at the
-foot of a yeti-ruled mountain warn of the “abominable snowmen”: monstrous,
-fur-covered humanoids who leave strange and bloody tracks in the snow.
-Normally yetis seek to protect the world rather than hunt its other civilized
-denizens. They do so by lairing near eldritch portals that form links between
-the Material Plane and other, much stranger dimensions of reality. From within
-these snow-covered arches and ancient stone doorways, aliens, living nightmares,
-ﬁends, and worse can emerge through dimensional networks into the world. Yetis
-who guard these portals sometimes succumb to these horrors and are corrupted,
-taking on the bloodthirsty urges and horriﬁc behaviors of the very monsters they
-strive to protect the world against. Yetis who manifest such violent tendencies
-are driven out of their clan and forced to wander the mountaintops alone, thus
-giving rise to the myth of the legendary abominable snowman. Forced to fend
-for themselves, these exiled yetis often fully embrace the corrupting elements that
-caused their exile in the ﬁrst place, growing more powerful and more deadly as
-a result. The most vile of these yetis turn to cannibalism, not out of need, but
-out of a sheer joy at the terror they inﬂict upon their kin. Invariably such
-cannibalistic yetis attract the attention of wendigos, which makes a bad
-situation all the worse.
-YETI
-CREATURE 5
+Wing Deﬂection Ǻȓ As young brass dragon.
+Speed 50 feet, burrow 30 feet, ﬂy 120 feet
+Melee Ȱɵ jaws +24 (ﬁre, magical, reach 10 feet), Damage 2d10+12 piercing plus 2d6 ﬁre
+Melee Ȱɵ claw +24 (agile, magical), Damage 2d10+12 slashing
+Melee Ȱɵ wing +22 (magical, reach 10 feet), Damage 1d12+10 slashing
+Arcane Innate Spells DC 30; Constant (2nd) speak with animals
+Breath Weapon ʚʖ (arcane, evocation, ﬁre); The brass dragon breathes ﬁre in an 80-foot
+line that deals 12d6 ﬁre damage (DC 32 basic Reﬂex save). The dragon can’t use Breath
+Weapon again for 1d4 rounds.
+Desert Wind ʚʖ (air, arcane, concentrate, evocation) Frequency three times per day.
+Eﬀect The dragon calls upon the desert wind. This has the same eﬀect as gust of wind
+(DC 30 Fortitude) but in a 60-foot cone. A creature that fails its save is also blinded
+until the end of its next turn (or for 1 minute on a critical failure).
+Draconic Frenzy ʚʖ As young brass dragon.
+Draconic Momentum As young brass dragon.
+ANCIENT BRASS DRAGON
+CREATURE 16
 UNCOMMON
-N
-LARGE
-HUMANOID
-Perception +15; darkvision, scent (imprecise) 30 feet
-Languages Aklo
-Skills Athletics +14, Stealth +12 (+15 in
-snow), Survival +11
-Str +5, Dex +2, Con +4, Int –1,
-Wis +4, Cha –1
-Snowblind When Hiding, the yeti
-is concealed by any snowfall, even
-if it’s not thick enough to make other
-creatures concealed.
-AC 21; Fort +15, Ref +11, Will +13; +4 status to all saves vs. fear and dreams
-HP 115; Immunities cold; Weaknesses ﬁre 10
-Nightmare Guardian Yetis gain a +4 status bonus to saves against fear and
-against spells and abilities that aﬀect dreams. A yeti that falls prey to a
-supernatural nightmare loses this ability and becomes permanently enraged,
-gaining a +1 status bonus to attack and damage rolls and a –1 status penalty
-to AC.
-Vanish Ǻȓ Trigger The yeti is hidden or undetected while not in combat,
-and a creature would observe it. Eﬀect The yeti Strides or Climbs up to
-half its Speed to a location where it can Hide, then Hides. If its new Stealth
-check result meets or exceeds the triggering creature’s Perception DC, the yeti
-remains hidden.
-Speed 35 feet, climb 20 feet
-Melee Ȱɵ claw +15, Damage 2d10+5 slashing
-Grisly Arrival Ȳ˓ (emotion, fear, mental); Trigger The yeti hits a creature in
-the ﬁrst round of combat and the yeti was hidden from that creature at
-the start of combat. Eﬀect Each enemy within 30 feet that witnesses the
-attack (including the target of the attack) must attempt a DC 23 Will
-save. On a failure, the creature is frightened 2; on a critical failure, it’s
-frightened 4.
-Rend Ȱɵ claw
+CG
+HUGE
+DRAGON
+FIRE
+Perception +30; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 60 feet
+Languages Auran, Common, Draconic, Gnome, Halﬂing, Sphinx, Sylvan; speak with animals
+Skills Acrobatics +27, Athletics +31, Deception +27, Diplomacy +29, Society +28
+Str +7, Dex +5, Con +6, Int +4, Wis +4, Cha +5
+AC 39; Fort +30, Ref +29, Will +30; +1 status to all saves vs. magic
+HP 325; Immunities ﬁre, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 35
+Wing Deﬂection Ǻȓ As young brass dragon.
+Speed 50 feet, burrow 40 feet, ﬂy 150 feet
+Melee Ȱɵ jaws +32 (ﬁre, magical, reach 15 feet), Damage 3d10+15 piercing plus 3d6 ﬁre
+and 2d6 persistent ﬁre
+Melee Ȱɵ claw +32 (agile, magical, reach 10 feet), Damage 3d10+15 slashing
+Melee Ȱɵ wing + 30 (magical, reach 15 feet), Damage 2d12+13 slashing
+Arcane Innate Spells DC 37; Constant (2nd) speak with animals
+Breath Weapon ʚʖ The brass dragon breathes in one of two ways. The dragon can’t use
+Breath Weapon again for 1d4 rounds.
+•	 Flame (arcane, evocation, ﬁre) The dragon breathes ﬁre in a 100-foot line that
+deals 16d6 ﬁre damage (DC 39 basic Reﬂex save).
+•	 Sleep Gas (arcane, enchantment, incapacitation, sleep); The dragon breathes an
+80-foot cone of sleep gas. Each creature within the cone must succeed at a DC 39
+Fortitude save or fall unconscious for 1d6 rounds, or 1 minute on a critical failure.
+Desert Wind ʚʖ (air, arcane, concentrate, evocation) As adult brass dragon, but DC 37.
+Draconic Frenzy ʚʖ As young brass dragon.
+Draconic Momentum As young brass dragon.
+OTHER DRACONIC
+CREATURES
+The creatures that appear in
+this section are considered true
+dragons, but a multitude of other
+draconic creatures populate
+Golarion and beyond. Among
+these are the powerful and deadly
+linnorms (pages 224–227), a
+wide range of drakes (pages
+130–135), whimsical faerie dragons
+(page 157) and pseudodragons, the
+cruel and deceitful azis, and the
+sinister undead raveners.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668971
+4425128
 
+PAGE 121
 ================================================================================
+
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668973
+4425130
+Bestiary
+120
+For up to 30 minutes per day, the dragon, along with allied creatures and vessels
+within 50 feet, can move at double their normal Speed in water.
+ADULT BRONZE DRAGON
+CREATURE 13
+LG
+HUGE
+AMPHIBIOUS
+DRAGON
+WATER
+Perception +23; darkvision, scent (imprecise) 60 feet
+Languages Aquan, Common, Draconic, Dwarven, Elven, Gnomish; speak with animals
+Skills Acrobatics +22, Arcana +28, Athletics +24, Diplomacy +23, Intimidation +23,
+Occultism +24, Stealth +22
+Str +7, Dex +3, Con +4, Int +5, Wis +4, Cha +4
+AC 34; Fort +24, Ref +23, Will +26; +1 status to all saves vs. magic
+HP 260; Immunities electricity, paralyzed, sleep
+Electricity Aura (aura, electricity) 10 feet, 1d12 electricity damage. The bronze dragon
+can turn this aura on or oﬀ using a single action, which has the concentrate trait,
+and it can choose to not aﬀect allies with the aura.
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 31
+Attack of Opportunity Ǻȓ Jaws only.
+Speed 40 feet, ﬂy 140 feet, swim 50 feet
+Melee Ȱɵ jaws +28 (electricity, magical, reach 15 feet), Damage 2d12+15 piercing plus
+1d12 electricity
+Melee Ȱɵ claw +28 (agile, magical, reach 10 feet), Damage 2d10+15 slashing
+Melee Ȱɵ tail +26 (magical, reach 15 feet), Damage 1d10+13 bludgeoning
+Arcane Innate Spells DC 33; 2nd obscuring mist (at will); Constant (2nd) speak with animals
+Breath Weapon ʚʖ As young bronze dragon, but an 80-foot line, DC 33, and the dragon’s
+lightning deals 8d12 electricity damage.
+Draconic Frenzy ʚʖ As young bronze dragon.
+Draconic Momentum As young bronze dragon.
+Water Mastery As young bronze dragon, but for up to 60 minutes per day.
+ANCIENT BRONZE DRAGON
+CREATURE 18
+UNCOMMON
+LG
+GARGANTUAN
+AMPHIBIOUS
+DRAGON
+WATER
+Perception +32; darkvision, scent (imprecise) 100 feet
+Languages Aquan, Common, Draconic, Dwarven, Elven, Gnomish; speak with animals
+Skills Acrobatics +28, Arcana +35, Athletics +34, Diplomacy +32, Intimidation +32,
+Occultism +33, Society +33, Stealth +28
+Str +8, Dex +4, Con +6, Int +7, Wis +6, Cha +6
+AC 43; Fort +32, Ref +30, Will +34; +1 status to all saves vs. magic
+HP 360; Immunities electricity, paralyzed, sleep
+Electricity Aura (aura, electricity) 15 feet. As adult bronze dragon, but 2d12 electricity.
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 38
+Vortex (aura, water); 40 feet. Water in the aura that is also in the same body of water as
+the dragon is diﬃcult terrain for Swimming creatures that don’t have the water trait.
+Attack of Opportunity Ǻȓ Jaws only.
+Vortex Pull Ǻȓ (water); Trigger A creature in the dragon’s vortex uses a Swim action.
+Eﬀect The dragon creates a current of water, forcing the triggering creature to attempt
+a DC 40 Athletics check to Swim. If the creature fails, it’s pulled 30 feet toward the
+dragon and the triggering action is lost. If it succeeds, it can Swim normally (using the
+result of that roll if it doesn’t have a Swim speed).
+Speed 60 feet, ﬂy 200 feet, swim 60 feet
+Melee Ȱɵ jaws +35 (electricity, magical, reach 20 feet), Damage 3d12+16 piercing plus 2d12
+electricity
+Melee Ȱɵ claw +35 (agile, magical, reach 15 feet), Damage 3d10+16 slashing
+Melee Ȱɵ tail +33 (magical, reach 20 feet), Damage 2d10+14 bludgeoning
+Arcane Innate Spells DC 40; 5th control water (at will); 2nd obscuring mist (at will);
+Constant (2nd) speak with animals
+Breath Weapon ʚʖ As young bronze dragon, but a 100-foot line, DC 40, and the dragon’s
+lightning deals 12d12 electricity damage.
+BRONZE DRAGON
+SPELLCASTERS
+Bronze dragon spellcasters tend to
+cast the following spells.
+YOUNG BRONZE DRAGON
+Arcane Prepared Spells DC 28,
+attack +21; 4th dimension door, solid
+fog; 3rd dispel magic, mind reading,
+slow; 2nd comprehend language,
+mirror image, resist energy; 1st
+alarm, hydraulic push, true strike;
+Cantrips (4th) detect magic, light,
+message, read aura, shield
+ADULT BRONZE DRAGON
+Arcane Prepared Spells DC 33,
+attack +27; As young bronze
+dragon, plus 6th mislead, true
+seeing; 5th control water, illusory
+scene, tongues; 4th suggestion;
+Cantrips (6th) detect magic, light,
+message, read aura, shield
+ANCIENT BRONZE DRAGON
+Arcane Prepared Spells DC 40,
+attack +35; As adult bronze dragon,
+plus 8th disappearance, mind blank,
+polar ray; 7th prismatic spray, spell
+turning, suggestion; 6th teleport;
+Cantrips (8th) detect magic, light,
+message, read aura, shield
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668973
+4425130
+
 PAGE 340
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669192
+4425349
+U-Z
+339
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ZARAMUUN TREASURE
 Zaramuuns collect treasure from
 mortals they have robbed or
@@ -784,3 +754,60 @@ components to conjure ﬁends, for Zaramuuns were exiled from the Plane of Earth
 after worshipping ﬁends who promised to give them power over other elementals.
 This worship gradually transformed into servitude, and now many zaramuuns believe
 that if they send enough souls to their masters, they will be set free.
+ZARAMUUN
+CREATURE 16
+CE
+LARGE
+EARTH
+ELEMENTAL
+Perception +30; darkvision, tremorsense 60 feet
+Languages Abyssal, Terran
+Skills Athletics +31 (+35 to Disarm stone or metal objects), Religion +26, Stealth +27
+(+30 in sandy terrain)
+Str +9, Dex +5, Con +6, Int +0, Wis +5, Cha –1
+AC 39; Fort +34, Ref +30, Will +25
+HP 291; Immunities paralyzed, poison, sleep
+Attack of Opportunity Ǻȓ
+Speed 35 feet, burrow 35 feet; sand glide
+Melee Ȱɵ ﬁst +33, Damage 4d12+13 bludgeoning
+Ranged Ȱɵ rock or metal debris +29 (range increment 120 feet), Damage 4d8+13 bludgeoning
+Divine Innate Spells DC 37, attack +31; 8th dimensional anchor (at will); 6th disintegrate,
+spirit blast; 4th suggestion (at will); Constant (8th) dimensional anchor
+Divine Rituals DC 37; planar ally
+Dune Ȱɵ (concentrate); Until the next time it acts, the zaramuun appears to be a sand
+dune. It has an automatic result of 47 (50 in sandy terrain) on Deception and Stealth
+checks and DCs to pass as a sand dune. Any creature that walks onto the zaramuun
+moves into its body and is Engulfed.
+Engulf ʚʖ DC 35, 4d12 bludgeoning damage and dimensional anchor, Escape DC 32,
+Rupture 28
+Raking Sand Ȱɵ Requirements The zaramuun hit with a melee Strike with its last
+action, or it has a creature Engulfed. Eﬀect The zaramuun attempts to Disarm one
+primarily metal or stone object from the Struck or Engulfed creature and casts its
+innate dimensional anchor on the target creature.
+Sand Glide The zaramuun can Burrow through sand and dirt (but not
+stone) at its full burrow Speed, leaving no tunnel or sign of its passing.
+Any Engulfed creatures are left behind when it Burrows. Loose
+sand and scree are not diﬃcult terrain for a zaramuun.
+Sandblast ʚʖ (earth); The zaramuun sprays a blast of
+sand that deals 11d10 slashing
+damage to all creatures in
+a 60‑foot line (Reﬂex DC
+38). It can’t Sandblast
+again for 1d4 rounds.
+Critical Success No
+eﬀect.
+Success Half damage.
+Failure Full damage.
+Critical Failure
+Full
+damage and blinded
+for 1 round.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669192
+4425349

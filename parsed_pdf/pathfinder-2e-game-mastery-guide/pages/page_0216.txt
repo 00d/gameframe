@@ -1,0 +1,97 @@
+URCHIN
+Although their escapades might be notorious, few urchins are thrill-seekers. For some
+urchins, when begging alone is not enough to fill their bellies, theft becomes a viable
+survival tactic. Many underworld powers also use urchins as spies and messengers,
+while training them to become future pickpockets, burglars, and foot soldiers.
+URCHIN
+CREATURE –1
+N
+SMALL
+HUMAN
+HUMANOID
+Perception +3
+Languages Common
+Skills Acrobatics +5, Deception +4, Society +3, Stealth +5, Survival +3, Thievery +7
+Str –1, Dex +3, Con +0, Int +1, Wis +1, Cha +2
+Items shiv
+AC 15; Fort +2, Ref +7, Will +3
+HP 8
+Speed 25 feet
+Melee [one-action] shiv +5 (agile), Damage 1d4–1 piercing
+Melee [one-action] fist +5 (agile, nonlethal), Damage 1d4–1 bludgeoning
+Ranged [one-action] rock +5 (thrown 10 feet), Damage 1d4–1 bludgeoning
+Collaborative Thievery The urchin gains a +1 circumstance bonus to Steal or Palm an
+Object while within 10 feet of an ally who has the pickpocket ability.
+Pickpocket The urchin can Steal or Palm an Object that’s closely guarded without taking
+the usual –5 penalty. They can Steal objects that would be extremely noticeable or
+time-consuming to remove (like worn shoes, armor, or actively wielded objects).
+PRISONER
+Most who end up in a jail, dungeon, or prison are just biding their time until their
+imprisonment ends, trying to find ways to make it through interminable days of
+boredom and deprivation. Some, however, may use their time on the inside to
+strengthen their criminal connections. Using force and intimidation to gain status
+among other prisoners, they create makeshift weapons to take down their enemies
+and give them an edge if escape becomes possible. Even for prisoners who don’t
+become involved in the world of prison politics, learning to stand up for themselves
+and projecting an air of toughness can become essential for survival in a place
+where people have little left to lose.
+PRISONER
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Acrobatics +7, Athletics +6, Intimidation +3, Stealth +7, Thievery +7
+Str +3, Dex +4, Con +1, Int +0, Wis +1, Cha +0
+Items shiv
+AC 17; Fort +4, Ref +9, Will +6
+HP 17
+Speed 25 feet
+Melee [one-action] shiv +7 (agile), Damage 1d4+3 piercing
+Melee [one-action] fist +7 (agile, nonlethal), Damage 1d4+3 piercing
+Sneak Attack The prisoner deals an extra 1d6 precision damage to flat-footed
+creatures.
+Surprise Attack On the first round of combat, creatures that haven’t acted
+yet are flat-footed to the prisoner.
+You’re Next  (emotion, fear, mental) Trigger The prisoner reduces a
+creature to 0 Hit Points; Effect The prisoner attempts an Intimidation
+check with a +2 circumstance bonus to Demoralize a single creature it
+can see and that can see them.
+WORD ON THE STREET
+Privy to all sorts of conversations
+from passersby, the downtrodden
+can provide eyes and ears on
+the street. Finding a reliable
+contact can give a character a
+circumstance bonus to checks to
+Gather Information if they return to
+that source. This bonus is usually
++1, but could be +2 or +3 if the
+contact lingers in a market where
+influential politicians shop, sweeps
+a noble estate, or the like.
+Befriending NPCs in advance
+can also help the heroes in action
+scenes. A friendly urchin might
+show a character a shortcut to
+catch an escaping enemy, a crowd
+of fans who frequent a bard’s
+performances might throw rocks to
+distract someone trying to fight the
+bard, and so on.
+5
+NPC Gallery
+215
+215
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+URCHIN

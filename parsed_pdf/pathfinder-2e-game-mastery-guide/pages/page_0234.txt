@@ -1,0 +1,83 @@
+5
+NPC Gallery
+233
+233
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+ARCHER SENTRY
+Archer sentries slightly outrank the rank-and-file guards, taking positions on walls,
+garrisons, and other important locations where they can stay out of the fray and pick
+off criminals or assailants.
+ARCHER SENTRY
+CREATURE 2
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +11
+Languages Common
+Skills Acrobatics +8, Athletics +6, Intimidation +4, Legal Lore +4
+Str +2, Dex +4, Con +1, Int +0, Wis +3, Cha +0
+Items composite longbow (100 arrows), shortsword, leather armor, signal whistle
+AC 19; Fort +7, Ref +10, Will +7
+HP 30
+Speed 25 feet
+Melee  shortsword +10 (agile, finesse, versatile P), Damage 1d6+3 slashing
+Ranged  composite longbow +10 (deadly 1d10, range increment 100 feet, reload 0,
+volley 30 feet), Damage 1d8+2 piercing
+Sentry’s Aim  (concentrate) The archer sentry aims carefully and fires. They
+make a ranged weapon Strike with a +1 circumstance bonus. The Strike ignores
+the concealed condition, lesser cover, and standard cover, and reduces greater
+cover to standard cover.
+JAILER
+A jailer’s primary responsibility is to keep prisoners from
+escaping. Jailers must often use force, or the threat of
+force, to keep their charges in line, as even the most
+carefully crafted cells, manacles, or chains can fail
+with time and persistence when the prisoners have
+the will to attempt an escape.
+JAILER
+CREATURE 3
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +9 (+10 to find concealed objects)
+Languages Common
+Skills Athletics +11, Diplomacy +5, Intimidation +7
+Str +4, Dex +3, Con +1, Int +0, Wis +2, Cha +0
+Items club, crossbow (20 bolts), keyring, simple manacles, signal
+whistle, studded leather armor
+AC 20; Fort +8, Ref +10, Will +7
+HP 45
+Attack of Opportunity 
+Speed 25 feet
+Melee  club +11, Damage 1d6+8 bludgeoning
+Ranged  crossbow +10 (range increment 120 feet, reload 1), Damage 1d8+4
+piercing
+Melee  club +10 (thrown 10 feet), Damage 1d6+6 bludgeoning
+Efficient Capture  (attack, manipulate) Requirements The jailer has manacles in
+hand and is adjacent to a creature; Effect The jailer attempts to bind the creature’s
+wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +9
+modifier against the target’s AC, they apply the manacles.
+Intimidating Strike  (emotion, fear, fighter, mental) The jailer makes a melee
+Strike. If it hits and deals damage, the target is frightened 1, or frightened 2
+on a critical hit.
+Subdue Prisoners The jailer doesn’t take the normal penalty for making a
+nonlethal attack when attacking with their club.
+RAISE THE ALARM!
+In a settlement with an alarm, brawls
+or other major disruptions trigger
+an alarm 1 round after the watch is
+alerted. Guards start to arrive after
+about 5 rounds, usually in patrols of
+2 or 3 members, with larger groups
+of 8–12 near important locations.
+JAILER

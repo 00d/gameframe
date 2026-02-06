@@ -1,0 +1,141 @@
+Consumables
+This section includes magic items with the consumable
+trait. An item with this trait can be used only once. Unless
+stated otherwise, it is destroyed after activation. When
+a character creates consumable items, they can make
+them in batches of four, as described in the Craft activity.
+Consumables includes the following subcategories, with
+any special rules appearing at the start of the section.
+•	 Ammunition begins on this page.
+•	 Oils appear on page 561.
+•	 Potions are described on page 562.
+•	 Scrolls are listed on page 564.
+•	 Talismans begin on page 565.
+•	 Other Consumables begins on page 570.
+Ammunition
+These magic items are ammunition for ranged weapons.
+Each item’s stat block includes an Ammunition entry that
+lists which type of ammunition it can be Crafted as, or
+“any” if it’s not limited to any particular type. All stat
+blocks for ammunition omit the Usage and Bulk entries; use
+the standard rules in Chapter 6: Equipment for the type of
+ammunition to determine reloading times and Bulk.
+When using magic ammunition, use your ranged
+weapon’s fundamental runes to determine the attack
+modifier and damage dice. Don’t add the effects of your
+weapon’s property runes unless the ammunition states
+otherwise—the ammunition creates its own effects. Magic
+ammunition deals damage on a hit normally in addition
+to any listed effects unless its description states otherwise.
+Regardless of whether an attack with magic ammunition
+hits or misses, launching the ammunition consumes its
+magic. Magic ammunition is made of normal materials,
+not precious materials, unless stated otherwise.
+Activated Ammunition
+If magic ammunition doesn’t have an Activate entry, it’s
+activated automatically when it’s launched. Types of magic
+ammunition that have an Activate entry must be activated
+with additional actions before being used. Once you activate
+the ammunition, you must shoot it before the end of your
+turn. Otherwise, it deactivates (but it isn’t consumed) and
+you must activate it again before you can use it. If you shoot
+the ammunition without activating it first, it functions as
+non-magical ammunition and is still consumed.
+The action required to activate the ammunition doesn’t
+alter how many actions it takes to reload. For example,
+you could activate a beacon shot arrow by touching it with
+1 action, then draw and shoot the arrow as part of a Strike
+as normal. For a beacon shot bolt, you could activate it,
+load it into a crossbow, then shoot it, or load it into the
+crossbow, then activate it, and then shoot it.
+BEACON SHOT
+ITEM 3
+CONSUMABLE
+ EVOCATION
+ MAGICAL
+Price 10 gp
+Ammunition arrow, bolt
+Activate [one-action] Interact
+The shaft of a beacon shot is studded with tiny flecks of
+glimmering gemstones. When an activated beacon shot hits a
+target, it embeds itself into that target and spews sparks for
+1 minute. If the target is invisible, it becomes merely hidden
+to creatures who would otherwise be unable to see it. The
+sparks also negate the concealed condition if the target was
+otherwise concealed.
+A creature can remove the arrow or bolt by using an Interact
+basic action and succeeding at a DC 20 Athletics check.
+CLIMBING BOLT
+ITEM 4
+CONJURATION
+ CONSUMABLE
+ MAGICAL
+Price 15 gp
+Ammunition bolt
+The shaft of this bolt is wrapped with fine twine. When the
+bolt strikes a solid surface, the twine unwinds and enlarges
+into a 50-foot-long rope, securely fastened to the surface the
+bolt struck. The rope can be pulled free with an Interact action
+and a successful DC 20 Athletics check.
+DISINTEGRATION BOLT
+ITEM 15
+UNCOMMON
+ CONSUMABLE
+ EVOCATION
+ MAGICAL
+Price 1,300 gp
+Ammunition bolt
+Activate [one-action] Interact
+The shaft of this bolt is scorched and blackened, and handling
+it coats your fingers with a fine black powder. When an
+activated disintegration bolt hits a target, it is subject to a
+disintegrate spell requiring a DC 34 Fortitude save. As with
+the spell, a critical hit on the attack roll causes the target’s
+saving throw outcome to be one degree worse.
+Craft Requirements Supply one casting of disintegrate.
+EXPLOSIVE AMMUNITION
+ITEM 9+
+CONSUMABLE
+ EVOCATION
+ FIRE
+ MAGICAL
+Ammunition any
+Activate [one-action] Interact
+This piece of ammunition is coated in gritty black soot. When
+activated explosive ammunition hits a target, the missile
+explodes in a 10-foot burst, dealing 6d6 fire damage to each
+creature in the area (including the target). Each creature must
+attempt a DC 25 basic Reflex save.
+Type standard; Level 9; Price 130 gp
+Type greater; Level 13; Price 520 gp
+The damage is 10d6 and the save DC is 30.
+GHOST AMMUNITION 
+ITEM 14
+MAGICAL
+ TRANSMUTATION
+Ammunition any
+Price 900 gp
+Ghost ammunition is cool to the touch. This ammunition has
+the benefits of the ghost touch property rune and can fly
+through any obstacle except those that can block incorporeal
+creatures or effects. Though the ammunition penetrates
+559
+11
+Crafting & Treasure
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

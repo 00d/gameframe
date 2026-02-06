@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# YOUNG BRINE DRAGON
+# YOUNG BRINE DRAGON
 ================================================================================
 
 
@@ -23,7 +23,7 @@ or can accumulate and display their gathered wealth in a place where they feel
 safe spreading out their treasures. Brine dragon hoards often consist of a mix of
 offerings and taxes paid by those they rule over and strange discoveries salvaged
 from sunken ships.
-YOUNG BRINE DRAGON
+YOUNG BRINE DRAGON
 CREATURE 8
 UNCOMMON
 LN
@@ -63,7 +63,7 @@ Draconic Momentum The dragon recharges their Breath Weapon
 whenever they score a critical hit with a Strike.
 
 ================================================================================
-# YOUNG CLOUD DRAGON
+# YOUNG CLOUD DRAGON
 ================================================================================
 
 
@@ -90,7 +90,7 @@ result of their roving habits often taking them away from their lairs for extend
 periods. Their treasuries include a wide variety of items—they are driven to gather
 a broad range of prizes rather than collecting one type of item intensively. To a
 cloud dragon, a diversiﬁed hoard is a perfect hoard.
-YOUNG CLOUD DRAGON
+YOUNG CLOUD DRAGON
 CREATURE 10
 UNCOMMON
 N
@@ -148,7 +148,21 @@ obscuring mist; 1st gust of wind (at will)
 PAGE 91
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868588
+4425100
 Bestiary 2
+90
+90
 PRIMAL DRAGON HOARDS
 Primal dragons may hail from other
 planes of existence than chromatic or
@@ -184,92 +198,103 @@ Cloud Walk The cloud dragon can tread on clouds or fog as though on solid ground
 Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one horn Strike in any order.
 Draconic Momentum The dragon recharges their Breath Weapon whenever they score
 a critical hit with a Strike.
-
-================================================================================
-# YOUNG CRYSTAL DRAGON
-================================================================================
-
-
-PRIMAL DRAGON RELIGION
-While religious primal dragons
-sometimes worship Apsu or Dahak
-(which dragon god they favor
-depends on their stance on good
-or evil), most prefer to worship
-elemental divinities.
+ADULT CLOUD DRAGON
+CREATURE 14
+UNCOMMON
+N
+HUGE
+AIR
+DRAGON
+ELEMENTAL
+Perception +28; darkvision, mist vision, scent (imprecise) 60 feet
+Languages Auran, Common, Draconic, Jotun
+Skills Acrobatics +23, Athletics +28, Deception +26, Diplomacy +26, Intimidation +28,
+Nature +24, Stealth+ 23, Survival +26
+Str +7, Dex +3, Con +5, Int +4, Wis +6, Cha +6
+Mist Vision As young cloud dragon.
+AC 36; Fort +26, Ref +23, Will +26; +1 status to all saves vs. magic
+HP 254; Immunities electricity, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 32
+Deﬂecting Cloud Ǻȓ As young cloud dragon.
+Speed 50 feet, ﬂy 160 feet; cloud walk
+Melee Ȱɵ jaws +29 (electricity, magical, reach 15 feet), Damage 3d10+15 piercing plus
+2d12 electricity
+Melee Ȱɵ claw +29 (agile, magical, reach 10 feet), Damage 3d10+15 slashing
+Melee Ȱɵ tail +27 (magical, reach 20 feet), Damage 3d12+15 bludgeoning
+Melee Ȱɵ horn +27 (deadly d10, magical, reach 15 feet), Damage 2d12+13 piercing
+Primal Innate Spells DC 36; 3rd wall of wind; 2nd gust of wind (at will), obscuring mist
 Breath Weapon ʚʖ (electricity, evocation, primal) The dragon breathes a thundercloud
-that deals 20d6 electricity damage in a 60-foot cone (DC 41 basic Reﬂex save). This
-cloud remains in the area for 1d4 rounds, with the eﬀects of obscuring mist. A creature
-that ends its turn inside of the cloud takes 10d6 electricity damage (DC 41 basic Reﬂex
-save). The cloud dragon can’t use Breath Weapon again for 1d4 rounds.
-Cloud Form Ȱɵ As adult cloud dragon
+that deals 15d6 electricity damage in a 50-foot cone (DC 35 basic Reﬂex save). They
+can’t use Breath Weapon again for 1d4 rounds.
+Cloud Form Ȱɵ (polymorph, primal, transmutation) The cloud dragon’s body becomes
+vaporous and misty. They gain the eﬀects of gaseous form, except their ﬂy Speed remains
+unchanged. The cloud dragon can use this action again to return to physical form.
 Cloud Walk As young cloud dragon.
 Draconic Frenzy ʚʖ As young cloud dragon.
 Draconic Momentum As young cloud dragon.
-Thundering Bite An ancient cloud dragon’s jaws Strike creates a deafening clap of
-thunder when it damages a foe. A creature that takes damage from the dragon’s
-jaws Strike must succeed at a DC 41 Fortitude save or be deafened for 1 minute (or
-permanently on a critical failure).
-CRYSTAL DRAGON
-Good-natured but vain, crystal dragons are beautiful creatures with brilliant
-hides made of multicolored crystal and gemstone. Their beauty is a source of
-great pride but is also something of a weakness, as crystal dragons are easily
-angered by insults about their appearance. Despite their relatively benign natures
-when compared to other true dragons, crystal dragons can be short tempered
-and prone to ﬁnding insults where none were intended. Although their opinions
-are changeable, crystal dragons prefer orderly environments and are not fond of
-sudden interruptions or distractions.
-Crystal dragons build their lairs in underground grottoes, where they cultivate
-environments of great beauty. Their exacting standards and vivid imaginations
-mean that they are always working to improve the appearance or layout of some
-part of their lair. These lairs are unique to each individual crystal dragon, but there
-are always plenty of reﬂective surfaces that allow the dragon to observe their own
-appearance. These range from crystals to reﬂecting pools to ﬁnely crafted mirrors,
-which are arranged throughout the lair in a pleasing array. Gifts of well-crafted or
-magical mirrors are an excellent way to curry favor with a crystal dragon.
-Although crystal dragons are easily distracted by their sparkling collections
-or their vanity, they remain good-hearted creatures at the core and make
-friends quickly. While a crystal dragon tends to ﬁnd evil creatures uncouth
-and unpleasant, any other nearby denizen or inhabitant of their home could
-become fast friends or beloved pets, depending upon the creature’s capacity
-for conversation (and for providing the frequent praise and compliments that
-crystal dragons hunger for).
-YOUNG CRYSTAL DRAGON
-CREATURE 7
-UNCOMMON
-NG
-LARGE
+ANCIENT CLOUD DRAGON
+CREATURE 19
+RARE
+N
+GARGANTUAN
+AIR
 DRAGON
-EARTH
 ELEMENTAL
-Perception +15; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 30 feet
-Languages Common, Draconic, Terran
-Skills Acrobatics +14, Athletics +16, Deception +15, Intimidation +15, Nature +15, Stealth
-+18, Survival +15
-Str +5, Dex +1, Con +3, Int +1, Wis +2, Cha +4
-AC 27; Fort +16, Ref +14, Will +15
-HP 105; Immunities paralyzed, sleep; Weaknesses sonic 5
-Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 25
-Twisting Tail Ǻȓ Trigger A creature within reach of the dragon’s tail uses a move action or
-leaves a square during a move action it’s using; Eﬀect The dragon makes a tail Strike
-at the creature with a –2 penalty. If it hits, the dragon disrupts the creature’s action.
-Speed 40 feet, burrow 30 feet, ﬂy 100 feet
-Melee Ȱɵ jaws +18 (sonic, reach 10 feet), Damage 2d8+8 slashing plus 2d6 piercing
-Melee Ȱɵ claw +18 (agile), Damage 2d6+8 slashing
-Melee Ȱɵ tail +16 (reach 15 feet), Damage 1d10+8 slashing
-Primal Innate Spells DC 25; 3rd color spray; Cantrips (3rd) dancing lights
+Perception +34; darkvision, mist vision, scent (imprecise) 60 feet
+Languages Auran, Common, Draconic, Jotun, Sylvan
+Skills Acrobatics +35, Athletics +38, Deception +34, Diplomacy +34, Intimidation +36,
+Nature +32, Stealth +35, Survival +36
+Str +9, Dex +5, Con +7, Int +5, Wis +7, Cha +7
+Mist Vision As young cloud dragon.
+AC 44; Fort +36, Ref +32, Will +34; +1 status to all saves vs. magic
+HP 355; Immunities electricity, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 40
+Deﬂecting Cloud Ǻȓ As young cloud dragon.
+Speed 60 feet, ﬂy 160 feet; cloud walk
+Melee Ȱɵ jaws +36 (electricity, magical, reach 20 feet, sonic), Damage 3d10+17 piercing
+plus 2d12 electricity, 4d6 sonic, and thundering bite
+Melee Ȱɵ claw +36 (agile, magical, reach 15 feet), Damage 4d10+17 slashing
+Melee Ȱɵ tail +34 (magical, reach 25 feet), Damage 4d12+17 bludgeoning
+Melee Ȱɵ horn +34 (deadly d12, magical, reach 20 feet), Damage 3d12+17 piercing
+Primal Innate Spells DC 42; 8th wind walk; 5th cloudkill; 4th gust of wind (at will), solid
+fog, wall of wind (at will)
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868588
+4425100
 
-================================================================================
 PAGE 93
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868590
+4425102
 Bestiary 2
+92
+92
 CRYSTAL DRAGON SPELLCASTERS
 Crystal dragon spellcasters tend to
 cast the following spells.
 YOUNG
 Primal Prepared Spells DC 25,
-attack +18; 3rd earthbind, meld into
+attack +18; 3rd earthbind, meld into
 stone; 2nd faerie ﬁre, glitterdust,
 shatter; 1st grease, mending,
 pass without trace; Cantrips (3rd)
@@ -277,7 +302,7 @@ acid splash, detect magic, light,
 prestidigitation, telekinetic projectile
 ADULT
 Primal Prepared Spells DC 30,
-attack +24; as young crystal
+attack +24; as young crystal
 dragon, plus 5th cloak of colors,
 wall of stone; 4th hallucinatory
 terrain, shape stone, stoneskin; 3rd
@@ -299,192 +324,98 @@ use Breath Weapon again for 1d4 rounds.
 Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one tail Strike in any order.
 Draconic Momentum The dragon recharges their Breath Weapon whenever they
 critically hit with a Strike.
-
-================================================================================
-# YOUNG MAGMA DRAGON
-================================================================================
-
-attack +34; as adult magma dragon,
-plus 8th earthquake, horrid wilting,
-power word stun; 7th ﬁery body,
-plane shift, volcanic eruption; 6th
-ﬂesh to stone; Cantrips (8th) detect
-magic, prestidigitation, produce
-ﬂame, read aura, tanglefoot
-YOUNG MAGMA DRAGON
-CREATURE 9
-UNCOMMON
-CN
-LARGE
-DRAGON
-ELEMENTAL
-FIRE
-Perception +18; darkvision, scent (imprecise) 60 feet
-Languages Common, Draconic, Ignan
-Skills Acrobatics +16, Athletics +19, Deception+14, Intimidation +18, Nature +15, Stealth +16,
-Survival +18
-Str +6, Dex +1, Con +4, Int +0, Wis +3, Cha +3
-AC 28; Fort +19, Ref +16, Will +18
-HP 175; Immunities ﬁre, paralyzed, sleep; Weaknesses cold 10
-Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 24
-Wing Deﬂection Ǻȓ Trigger The dragon is targeted with an attack; Eﬀect The dragon
-raises a wing, gaining a +2 circumstance bonus to AC against the triggering attack. If
-the dragon is Flying, they descend 10 feet after the attack.
-Speed 30 feet, ﬂy 100 feet, swim 30 feet; magma swim
-Melee Ȱɵ jaws +21 (ﬁre, reach 10 feet), Damage 2d10+10 piercing plus 2d6 ﬁre
-Melee Ȱɵ claw +21 (agile), Damage 2d10+10 slashing
-Melee Ȱɵ tail +19 (reach 15 feet), Damage 2d12+10 bludgeoning
-Melee Ȱɵ horns +19 (reach 10 feet), Damage 1d10+10 piercing
-Primal Innate Spells DC 26, attack +18; 4th burning hands (at will); Cantrips (4th)
-produce ﬂame
-Breath Weapon ʚʖ (evocation, ﬁre, primal) The dragon breathes a blast of magma that
-deals 5d6 ﬁre damage and 3d12 bludgeoning damage in a 30-foot cone (DC 28 basic
-Reﬂex save). They can’t use Breath Weapon again for 1d4 rounds.
-Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one horn Strike in any order.
-Draconic Momentum The dragon recharges their Breath Weapon whenever they score
-a critical hit with a Strike.
-Magma Swim A magma dragon’s swim Speed functions only when the dragon is
-Swimming through magma or molten lava.
-
-================================================================================
-# YOUNG UMBRAL DRAGON
-================================================================================
-
-attack +38; as adult umbral dragon,
-plus 9th disjunction, massacre, weird;
-8th disappearance, horrid wilting,
-maze; 7th eclipse burst, mask of
-terror, plane shift; Cantrips (9th) chill
-touch, ghost sound, ray of frost, read
-aura, sigil
-be nearby. Umbral dragons sometimes go to great lengths to obtain their favorite
-meals, even creating undead creatures that they then feast upon.
-For all their power, umbral dragons are uninterested in fair battles. When faced
-with foes that pose any kind of actual danger to them, umbral dragons ﬂee into
-the shadows and seek to strike back through pawns or minions rather than risk
-their own lives. Their treasure hoards are varied and diverse, often augmented by
-loot stolen from crypts the dragons have turned into feeding grounds. They have
-a strong respect for and interest in traditions and heirlooms, and they often seek
-to augment their hoards with items of great value that have been handed down
-through the generations of those whose corpses and ghosts they’ve fed upon.
-YOUNG UMBRAL DRAGON
+ADULT CRYSTAL DRAGON
 CREATURE 11
 UNCOMMON
-NE
-LARGE
-DRAGON
-SHADOW
-Perception +22; greater darkvision, scent (imprecise) 60 feet
-Languages Common, Draconic, Shadowtongue
-Skills Acrobatics +18, Athletics +22, Deception +22, Intimidation +22, Nature +20,
-Stealth +20, Survival +22
-Str +7, Dex +3, Con +5, Int +3, Wis +5, Cha +3
-AC 31; Fort +22, Ref +20, Will +22
-HP 195; Immunities negative, paralyzed, sleep
-Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 26
-Attack of Opportunity Ǻȓ Jaws only.
-Speed 40 feet, ﬂy 140 feet
-Melee Ȱɵ jaws +24 (negative, reach 10 feet), Damage 2d10+13 piercing plus 2d6 negative
-Melee Ȱɵ claw +24 (agile), Damage 2d10+13 slashing
-Melee Ȱɵ tail +22 (reach 15 feet), Damage 2d12+13 slashing
-Melee Ȱɵ wing +22 (reach 10 feet), Damage 1d10+13 slashing
-Primal Innate Spells DC 30; 4th darkness (×3); Cantrips (4th) detect magic
-Breath Weapon ʚʖ (necromancy, negative, primal) The dragon breathes a blast of
-darkness that deals 12d6 negative energy damage in a 30-foot cone (DC 30 basic
-Reﬂex save). They can’t use Breath Weapon again for 1d4 rounds. Undead creatures
-take 14d6 force damage instead of the negative damage.
-Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one wing Strike in
-any order.
-Draconic Momentum The dragon recharges their Breath Weapon whenever they score
-a critical hit with a Strike.
-Ghost Bane An umbral dragon’s Strikes aﬀect incorporeal creatures with the eﬀects of a
-ghost touch property rune, and an umbral dragon’s jaws deal an additional 4d6 force
-damage to undead.
-
-================================================================================
-# YAMARAJ
-================================================================================
-
-
-PSYCHOPOMP COURTS
-Psychopomps rarely oppose
-celestials or ﬁends. In fact, they
-frequently host such creatures in
-the Boneyard, particularly in the
-sprawling psychopomp courts where
-these outsiders petition for one
-soul or another to be remanded to
-their jurisdiction. Complicated cases
-are judged by yamarajes, while the
-thorniest or most politically delicate
-are handed by Pharasma herself.
-YAMARAJ
-The greatest judges among the psychopomps are the massive yamarajes, whose
-wisdom is legendary and whose edicts are unappealable except to ushers or Pharasma
-herself. A yamaraj resembles an immense dragon with dark, feathery scales and an
-emotionless, dispassionate gaze behind a feathered mask. When not serving as the
-senior magistrates, lords, and generals of the Boneyard, yamarajes pursue highly
-individualistic hobbies, such as gardening or literature. They are willing to halt in
-their duties to converse with mortals whose expertise matches their interests.
-YAMARAJ
-CREATURE 20
-UNCOMMON
-N
+NG
 HUGE
-MONITOR
-PSYCHOPOMP
-Perception +37; darkvision, lifesense 240 feet, true seeing
-Languages Abyssal, Celestial, Infernal, Requian; telepathy 120 feet, tongues
-Skills Acrobatics +33, Athletics +36, Boneyard Lore +40, Deception +34, Diplomacy +34,
-Intimidation +36, Legal Lore +40, Occultism +38, Religion +38, Society +38
-Str +10, Dex +7, Con +7, Int +10, Wis +7, Cha +6
-AC 45; Fort +33, Ref +31, Will +35; +1 status to all saves vs. magic
-HP 375, fast healing 20, lightning drinker; Immunities death eﬀects, disease, electricity
-(see lightning drinker); Resistances negative 20, poison 20
-Frightful Presence (aura, emotion, fear, mental) 60 feet, DC 39
-Lightning Drinker Whenever a yamaraj would take electricity damage if
-not for its immunity, its fast healing increases to 40 on its next turn.
-During that turn, if it uses its breath weapon, the beetles crackle with
-electricity and deal 2d12 additional electricity damage.
-Speed 35 feet, ﬂy 50 feet, swim 30 feet
-Melee Ȱɵ jaws +38 (magical, reach 15 feet), Damage 4d8+18 piercing
-plus Improved Grab and yamaraj venom and spirit touch
-Melee Ȱɵ claw +38 (agile, magical, reach 15 feet), Damage 4d4+18
-slashing plus spirit touch
-Melee Ȱɵ tail +38 (magical, reach 20 feet), Damage
-4d10+18 bludgeoning plus spirit touch
-Divine Innate Spells DC 44; 10th miracle, revival;
-9th bind soul, harm, heal, wail of the banshee; 8th
-chain lightning (×3), dispel magic (×3), spirit song,
-wall of force; 5th dimension door (at will), mind
-probe (at will); Constant (10th) true seeing
-Rituals DC 44; call spirit, resurrect
-Breath Weapon ʚʖ (divine, evocation) The yamaraj breathes
-a blast of beetles in a 50-foot cone that deals 14d8 slashing
-damage and 4d8 persistent slashing damage to creatures in the area
-(DC 42 Reﬂex save). It can’t use Breath Weapon again for 1d4 rounds.
-Critical Success The creature takes no damage.
-Success The creature takes half damage and is sickened 1.
-Failure The creature takes full damage and is sickened 2.
-Critical Failure The creature takes double damage and is sickened 3.
-Final Judgment A yamaraj’s miracle spells are used only to
-pronounce judgment, typically either to restore a dead or
-destroyed creature to life, bind a creature to the Boneyard, or
-banish a creature from the Boneyard.
-Spirit Touch As esobok, but 3d6.
-Yamaraj Venom (poison) While a creature is clumsy from this poison,
-it is doomed with the same value; Saving Throw DC 42
-Fortitude; Maximum Duration 10 rounds; Stage 1
-3d8 poison damage and clumsy 1 (1 round);
-Stage 2 5d8 poison damage and clumsy 2
-(1 round); Stage 3 7d8 poison damage and
-clumsy 3 (1 round)
+DRAGON
+EARTH
+ELEMENTAL
+Perception +20; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 30 feet
+Languages Common, Draconic, Terran, Undercommon
+Skills Acrobatics +19, Athletics +24, Deception +22, Intimidation +22, Nature +19,
+Stealth +21, Survival +20
+Str +7, Dex +2, Con +5, Int +2, Wis +3, Cha +5
+AC 33; Fort +24, Ref +19, Will +20; +1 status to all saves vs. magic
+HP 185; Immunities paralyzed, sleep; Weaknesses sonic 10
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 30
+Twisting Tail Ǻȓ As young crystal dragon.
+Speed 50 feet, burrow 35 feet, ﬂy 120 feet
+Melee Ȱɵ jaws +24 (sonic, reach 15 feet), Damage 2d8+13 slashing plus 3d6 piercing
+Melee Ȱɵ claw +24 (agile, magical, reach 10 feet), Damage 2d8+13 slashing
+Melee Ȱɵ tail +22 (magical, reach 20 feet), Damage 1d10+13 slashing
+Primal Innate Spells DC 30; 3rd color spray (×3), glitterdust, hypnotic pattern; Cantrips
+(5th) dancing lights
+Breath Weapon ʚʖ (evocation, primal) The dragon breathes a ﬂurry of piercing crystals
+that deal 12d6 piercing damage in a 40-foot cone (DC 30 basic Reﬂex save). They can’t
+use Breath Weapon again for 1d4 rounds.
+Crystallize Flesh Ȳ˓ (primal, transmutation) Trigger The crystal dragon damages a
+creature made of ﬂesh with a jaws Strike; Frequency once per day; Eﬀect The dragon
+embeds transformative crystals in the creature’s ﬂesh. The creature must attempt a
+DC 30 Fortitude save.
+Critical Success The target is unaﬀected.
+Success The target is slowed 1 for 1 round as portions of its ﬂesh turn crystalline.
+Failure The target is slowed 1 and must attempt a Fortitude save at the end of each
+of its turns; this ongoing save has the incapacitation trait. On a failed save, the
+slowed condition value increases by 1 (or by 2 on a critical failure). A successful
+save reduces the slowed condition value by 1. A creature unable to act due to the
+slowed condition from Crystallize Flesh is petriﬁed permanently, transforming
+into a crystalline statue. The eﬀect ends if the creature is petriﬁed or the slowed
+condition is removed.
+Critical Failure As failure, but the target is initially slowed 2.
+Draconic Frenzy ʚʖ As young crystal dragon.
+Draconic Momentum As young crystal dragon.
+ANCIENT CRYSTAL DRAGON
+CREATURE 16
+RARE
+NG
+GARGANTUAN
+DRAGON
+EARTH
+ELEMENTAL
+Perception +28; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 60 feet
+Languages Celestial, Common, Draconic, Terran, Undercommon
+Skills Acrobatics +22, Athletics +33, Deception +29, Intimidation +29, Nature +27,
+Stealth +28, Survival +26
+Str +9, Dex +5, Con +6, Int +5, Wis +5, Cha +7
+AC 42; Fort +30, Ref +27, Will +29; +1 status to all saves vs. magic
+HP 275; Immunities paralyzed, sleep; Weaknesses sonic 15
+Extra Reaction The dragon gains 2 reactions at the start of each of their turns.
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 37
+Scintillating Aura (aura, evocation, incapacitation, primal, visual) 30 feet. A swirling
+vortex of reﬂected color and light shimmers around the crystal dragon. Creatures in
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868590
+4425102
 
-================================================================================
 PAGE 213
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868710
+4425222
 Bestiary 2
+212
+212
 QLIPPOTH AND DEMONS
 Qlippoth ruled the Abyss for eons
 and still see themselves as its rightful
@@ -519,87 +450,91 @@ small creatures. It wears these bodies like a suit, but also adjusts and tailors
 else spawned from the Abyssal depths. The cythnigot’s most identifying feature is
 the long stalk of fungal material that extends from creature’s body, ending in a
 surprisingly strong set of fanged jaws.
+CYTHNIGOT
+CREATURE 1
+UNCOMMON
+CE
+TINY
+FIEND
+QLIPPOTH
+Perception +5; darkvision
+Languages Abyssal; telepathy (touch only)
+Skills Acrobatics +6, Occultism +7, Stealth +6
+Str +1, Dex +3, Con +4, Int +2, Wis +2, Cha +1
+AC 16; Fort +9, Ref +6, Will +5
+HP 14; Immunities controlled, fear; Weaknesses lawful 3; Resistances
+mental 3, physical 3 (except cold iron)
+Speed 30 feet, ﬂy 40 feet
+Melee Ȱɵ bite +8 (agile, chaotic, ﬁnesse, magical), Damage 1d10+1
+piercing plus 1d4 chaotic and tangle spores
+Occult Innate Spells DC 17; 4th read omens; 2nd detect alignment (at
+will, lawful only), paranoia; 1st phantom pain; Cantrips (1st) daze,
+detect magic
+Sickening Display Ȱɵ (concentrate, emotion, enchantment, fear,
+mental, occult, visual) The cythnigot presents its awful appearance
+fully, and creatures in a 10-foot emanation must attempt a DC 17
+Will save. Once a creature attempts this save, it’s temporarily
+immune to further Sickening Displays for 1 minute.
+Critical Success The creature is unaﬀected.
+Success The creature is ﬂat-footed until its next turn.
+Failure The creature is sickened 1, and is ﬂat-footed for as
+long as it’s sickened.
+Critical Failure The creature is sickened 2 and is ﬂat-footed
+for as long as it’s sickened.
+Tangle Spores (disease) A creature bitten by a cythnigot
+becomes aﬄicted by fast-growing spores that swiftly grow
+into twitching spikes and hideous pallid growths of hairlike
+ﬁbers. These growths erupt from the bite wound and writhe
+and wrap around the creature’s limbs. Plant creatures take
+a –2 circumstance penalty to save against tangle spores; Saving
+Throw DC 17 Fortitude; Maximum Duration 6 rounds; Stage 1 clumsy
+1 (1 round); Stage 2 clumsy 1 and ﬂat-footed (1 round); Stage 3 clumsy
+2, ﬂat-footed, and if you attempt a manipulate action, you must
+succeed at a DC 5 ﬂat check or it’s lost; roll the check
+after spending the action, but before any eﬀects
+are applied (1 round).
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868710
+4425222
 
-================================================================================
-# YELLOW MUSK CREEPER
-================================================================================
-
-
-Bestiary 2
-MASSIVE MUSK CREEPERS
-Ancient or specially cultivated musk
-creepers can grow to great size. Their
-pollen often changes color as they
-grow, and pollen of diﬀerent colors can
-alter the creeper’s thralls in diﬀerent
-ways. Some creepers even become
-intelligent after they’re awakened by
-primal magic. These few exert far more
-control over their thralls.
-Yellow Musk Creeper
-Made up of thick, green vines with numerous yellow ﬂowers, the yellow musk
-creeper grows at places where the ground is enriched with spilled blood and corpses,
-like battleﬁelds and graveyards. An ideal environment for the yellow musk creeper
-isn’t inhabited, but draws occasional humanoid visitors the plant can transform into
-thralls. The yellow musk creeper enraptures creatures with its bright yellow pollen
-to bring them close. It then physically alters their brains with its tendrils, implanting
-a seed in each to turn the creatures into mindless thralls. The yellow musk creeper
-might try to take over a sleeping creature, but it lacks the faculties to sneak up on
-anyone, and is likely to wake victims before it can drag itself close enough.
-The plant’s pollen can spread far on the wind but quickly becomes too diffuse to
-cause harm. Wilderness scouts learn to sniff out the distinctive musky scent of the
-pollen, which stays potent even in harmless quantities. A sprouting creeper is also
-easy to detect, since it grows from the rotting, messy corpse of a thrall creature.
-YELLOW MUSK CREEPER
-CREATURE 2
-N
-MEDIUM
-MINDLESS
-PLANT
-Perception +4; tremorsense (imprecise) 30 feet
-Skills Stealth +6
-Str +3, Dex +2, Con +4, Int –5, Wis +0, Cha –1
-AC 18; Fort +10, Ref +6, Will +4
-HP 34; Immunities mental; Weaknesses ﬁre 5
-Speed 5 feet
-Melee Ȱɵ tendril +9 (reach 10 feet), Damage 1d10+3 piercing
-Bore into Brain ̂ˬ (manipulate, mental) The creeper bores dozens
-of tendrils into the brain of a Small, Medium, or Large humanoid
-creature that’s unconscious, willing, or fascinated by Spray Pollen,
-and within reach of the creeper’s tendrils. The creature must succeed
-at a DC 18 Fortitude save or become stupeﬁed 1 (stupeﬁed 2
-on a critical failure). Subsequent failed saves against Bore
-into Brain increase the stupeﬁed value. If the creature
-reaches stupeﬁed 5, it is turned into a yellow musk thrall
-(see below). Boring into a creature’s brain doesn’t end
-fascination caused by Spray Pollen.
-Spray Pollen ʚʖ (mental, poison) The yellow musk creeper
-blasts yellow pollen in either a 30-foot line or a 15-foot
-cone. Each creature in the emanation must attempt a DC
-20 Will save. Once a creature succeeds at any save against
-Spray Pollen, it becomes temporarily immune for 24 hours.
-Success The creature is unaﬀected.
-Failure The creature is fascinated. For as long as it is fascinated, it must
-spend each of its actions to move closer to the yellow musk creeper
-as expediently as possible, while avoiding obvious dangers. If the
-creature is adjacent to the yellow musk creeper, it stays still
-and doesn’t act.
-Critical Failure As failure, but the condition doesn’t
-end automatically. The creature can attempt
-a new save at the end of each of its
-turns. On a success, the fascinated
-condition and other eﬀects end.
-YELLOW MUSK THRALL
-A creature transformed by a
-yellow musk creeper’s tendrils
-boring into its brain becomes a
-yellow musk thrall if it’s Small or Medium,
-or a yellow musk brute if Large (a Small
-
-================================================================================
 PAGE 302
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868799
+4425311
+U-Z
+U-Z
+301
+301
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 RECOVERY FROM THRALLDOM
 A creature that’s transformed into a
 yellow musk thrall or brute doesn’t
@@ -645,18 +580,6 @@ Pollen Touch When the thrall strikes a creature, that creature is exposed
 to yellow musk creeper pollen, as Spray Pollen (DC 14). The creature is
 fascinated by the yellow musk creeper that spawned the thrall, not by the
 thrall itself.
-
-================================================================================
-# YELLOW MUSK BRUTE
-================================================================================
-
-Limb Extension Ȳ˓ Trigger The yellow musk thrall is reduced to 4 HP or
-fewer; Eﬀect Creeper tendrils tear through the thrall’s limbs, causing its
-forearms to tear loose. The thrall’s melee reach increases by 5 feet.
-Pollen Touch When the thrall strikes a creature, that creature is exposed
-to yellow musk creeper pollen, as Spray Pollen (DC 14). The creature is
-fascinated by the yellow musk creeper that spawned the thrall, not by the
-thrall itself.
 YELLOW MUSK BRUTE
 CREATURE 2
 N
@@ -693,51 +616,37 @@ The powdered pollen from a yellow musk creeper addles the mind.
 Saving Throw DC 16 Will; Maximum Duration 2 rounds; Stage 1 fascinated by
 the poison cloud (1 round); Stage 2 fascinated by the poison cloud, and can
 use no actions but to move closer to the cloud’s point of origin (1 round)
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868799
+4425311
 
-================================================================================
 PAGE 303
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868800
+4425312
 Bestiary 2
-YETH HOUND ALLIES
-When an evil cult engages the
-services of a yeth hound, the
-process is more like forging an
-alliance than animal training. Yeth
-hound allies can provide much more
-complex services than a typical
-animal, but they also present the
-risk of possible treachery.
-Yeth Hound
-Wicked canine creatures who live for the thrill of the hunt, yeth hounds often
-serve evil masters as guardians and trackers. Yeth hounds resemble lean, sleek
-dogs with overlarge ears and narrow paws that can tread on air as easily as the
-ground. Despite their canine appearance, yeth hounds are remarkably intelligent,
-although they rarely display this intelligence except when devising intricate
-tactics to ensnare their quarry. Their eerie bays echo across the countryside
-when they are engaged in a hunt, and they particularly enjoy baying to frighten
-and disorient intelligent creatures. Yeth hound packs can number as many as a
-dozen members, each working in uncanny communion with its packmates to
-corner and kill their prey. Yeth hounds like to drag their victims back to their
-lairs to eat at their leisure, so these lairs often contain discarded treasures from
-the hounds’ previous meals.
-Yeth hounds despise two things: sunlight and other canines. They hunt
-only at night if they can, often breaking off their hunt at dawn to retreat to a
-subterranean lair or den, no matter how close they had come to catching their
-prey. Yeth hounds usually attack wargs, wolves, and similar creatures on sight,
-working to drive larger or more powerful canines from their hunting areas when
-then can’t simply overpower and kill them.
-Evil rangers, bestial demons, and wicked cults are frequently gifted yeth hound
-servants by ﬁendish patrons. Such hounds often serve as spies and are quick to
-turn against those who fail to advance the patrons’ wicked aims. The cult of
-Lamashtu, in particular, is fond of using yeth hounds as temple guardians.
-
-================================================================================
-# YETH HOUND
-================================================================================
-
-
-Bestiary 2
+302
+302
 YETH HOUND ALLIES
 When an evil cult engages the
 services of a yeth hound, the
@@ -793,7 +702,8 @@ concentrate,
 divine,
 enchantment, fear, mental) The yeth hound emits
 an unearthly howl audible up
-to 300 feet away. Any nonﬁend creature that hears the
+to 300 feet away. Any non-
+ﬁend creature that hears the
 howl must succeed at a DC 20
 Will save or become frightened
 1. Any creature that critically
@@ -810,11 +720,48 @@ critical success, the creature is temporarily immune
 to sinister bite for 1 minute. A creature that fails
 becomes frightened 1, or increases the value of its
 frightened condition by 1 if already frightened.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868800
+4425312
 
-================================================================================
 PAGE 304
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868801
+4425313
+U-Z
+U-Z
+303
+303
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ZOMOKS’ PRIMAL CALL
 Zomoks can use primal call without
 needing any secondary casters. The
@@ -834,3 +781,77 @@ the fall, and decaying to brown in winter. While zomoks can and often do swallow
 their foes, they have no real need to eat. Any creature they gulp down is typically
 left behind as a mangled corpse the next time the zomok travels via their Forest
 Step ability. Zomoks reach 35 to 40 feet in length and weigh 30 tons.
+ZOMOK
+CREATURE 16
+N
+GARGANTUAN
+DRAGON
+PLANT
+Perception +28; darkvision, tremorsense (imprecise) 60 feet
+Languages Arboreal, Common, Sylvan, Terran; speak with plants
+Skills Acrobatics +27, Athletics +33, Nature +29, Stealth +29, Survival +30
+Str +9, Dex +5, Con +9, Int +3, Wis +6, Cha +6
+AC 39; Fort +31, Ref +25, Will +28
+HP 310; Immunities paralyzed, poison, sleep, stunned; Weaknesses ﬁre 15
+Speed 30 feet, ﬂy 80 feet; pass without trace
+Melee Ȱɵ jaws +33 (magical, reach 15 feet), Damage 3d12+17 piercing plus Improved Grab
+Melee Ȱɵ claw +33 (agile, magical, reach 15 feet), Damage 3d8+17 slashing
+Melee Ȱɵ tail +33 (magical, reach 20 feet), Damage 3d10+17 bludgeoning
+Primal Innate Spells DC 34, attack +26; 8th charm (plant creatures only); 7th wall
+of thorns; 6th tangling creepers; Constant (4th) speak with plants; (1st) pass
+without trace
+Rituals DC 34; blight, plant growth, primal call (doesn’t require secondary casters)
+Entombing Breath ʚʖ (conjuration, earth, primal) The zomok blasts forth a 60-foot
+cone of earth and gravel, dealing 17d6 bludgeoning damage (DC 34 basic
+Reﬂex save); prone creatures take a –2 circumstance penalty to this saving
+throw. Creatures touching the ground that fail their saves take a 10-foot
+circumstance penalty to their Speeds and are restrained (Escape DC 34)
+on a critical failure. The zomok can’t use Entombing Breath again
+for 1d4 rounds.
+The bodies of creatures slain by Entombing Breath
+instantly decompose and are destroyed—they can be
+restored to life only by a 7th-level or higher spell or
+ritual that restores life. The creature’s equipment is
+unharmed but buried under 5 feet of earth.
+Forest
+Step
+Ȱɵ
+(conjuration,
+healing,
+necromancy,
+primal,
+teleportation)
+Frequency three times per day; Eﬀect The
+zomok teleports itself with the eﬀects
+of a 5th-level dimension door spell,
+but the zomok must begin and end
+the teleportation eﬀect in forest
+terrain. The zomok regains
+10d10
+Hit
+Points
+during
+this teleportation. Creatures
+swallowed by the zomok are
+left behind. The zomok can’t
+use Forest Step again for
+1d6+1 rounds.
+Swallow
+Whole
+Ȱɵ
+(attack) Huge, 3d12+9
+bludgeoning, Rupture 35
+Trample ̂ˬ Huge or
+smaller, tail, DC 32
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868801
+4425313

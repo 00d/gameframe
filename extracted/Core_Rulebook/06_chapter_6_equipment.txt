@@ -149,19 +149,25 @@ You might need to know the Bulk of a creature, especially
 if you need to carry someone off the battlefield. The table
 that follows lists the typical Bulk of a creature based on its
 size, but the GM might adjust this number.
- Size of Creature
+	Size of Creature
 Bulk
 
 Tiny
+1
 
 Small
+3
 
 Medium
+6
 
 Large
+12
 
 Huge
- Gargantuan
+24
+	 Gargantuan
+48
 Dragging
 In some situations, you might drag an object or creature
 rather than carry it. If you’re dragging something, treat
@@ -212,8 +218,8 @@ An item’s Hardness, Hit Points, and Broken Threshold
 usually depend on the material the item is made of. This
 information appears on page 577.
 Core Rulebook
+272
 
-================================================================================
 PAGE 274
 ================================================================================
 
@@ -221,27 +227,31 @@ TABLE 6–2: CHANGING EQUIPMENT
 Change
 Hands
 Action
-Draw, stow, or pick up an item 1
+Draw, stow, or pick up an item 1
 1 or 2
 Interact
-Pass an item to or take an item from a willing creature 2
+Pass an item to or take an item from a willing creature 2
 1 or 2
 Interact
 Drop an item to the ground
 1 or 2
 Release
 Detach a shield or item strapped to you
+1
 Interact
 Change your grip by removing a hand from an item
+2
 Release
 Change your grip by adding a hand to an item
+2
 Interact
-Retrieve an item from a backpack 3 or satchel
+Retrieve an item from a backpack 3 or satchel
+2
 Interact
-1 If you retrieve a two-handed item with only one hand, you still need to change your grip before you can wield or use it.
-2 A creature must have a hand free for someone to pass an item to them, and they might then need to change their grip if they
+1	 If you retrieve a two-handed item with only one hand, you still need to change your grip before you can wield or use it.
+2	 A creature must have a hand free for someone to pass an item to them, and they might then need to change their grip if they
 receive an item requiring two hands to wield or use.
-3 Retrieving an item stowed in your own backpack requires first taking off the backpack with a separate Interact action.
+3	 Retrieving an item stowed in your own backpack requires first taking off the backpack with a separate Interact action.
 Broken
 Broken is a condition that affects objects. An object is
 broken when damage has reduced its Hit Points below
@@ -249,7 +259,7 @@ its Broken Threshold. A broken object can’t be used for
 its normal function, nor does it grant bonuses—with the
 exception of armor. Broken armor still grants its item
 bonus to AC, but it also imparts a status penalty to AC
-depending on its category: –1 for broken light armor, –2 for
+depending on its category: –1 for broken light armor, –2 for
 broken medium armor, or –3 for broken heavy armor.
 A broken item still imposes penalties and limitations
 normally incurred by carrying, holding, or wearing it. For
@@ -280,8 +290,26 @@ armor). A shoddy suit of armor also worsens the armor’s
 check penalty by 2. A shoddy item’s Hit Points and Broken
 Threshold are each half that of a normal item of its type.
 EQUIPMENT
+6
+273
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 275
 ================================================================================
 
@@ -306,15 +334,15 @@ Getting in and out of armor is time consuming—so
 make sure you’re wearing it when you need it! Donning
 and removing armor are both activities involving many
 Interact actions. It takes 1 minute to don light armor, 5
-minutes to don medium or heavy armor, and 1 minute to
+minutes to don medium or heavy armor, and 1 minute to
 remove any armor.
 Armor Statistics
 Table 6–3: Unarmored Defense provides the statistics
 for the various forms of protection without wearing
-armor. Table 6–4: Armor provides the statistics for suits
+armor. Table 6–4: Armor provides the statistics for suits
 of armor that can be purchased and worn, organized
 by category. The columns in both tables provide the
-following statistics.
+following statistics.
 Category
 The armor’s category—unarmored, light armor, medium
 armor, or heavy armor—indicates which proficiency
@@ -372,16 +400,16 @@ Bulwark: The armor covers you so completely that
 it provides benefits against some damaging effects.
 On Reflex saves to avoid a damaging effect, such
 as a fireball, you add a +3 modifier instead of your
-Dexterity modifier.
+Dexterity modifier.
 Core Rulebook
+274
 
-================================================================================
 PAGE 276
 ================================================================================
 
 TABLE 6–3: UNARMORED DEFENSE
 Unarmored
-Price AC Bonus Dex Cap Check Penalty Speed Penalty
+Price	 AC Bonus	 Dex Cap	 Check Penalty	 Speed Penalty
 
 Bulk
 
@@ -396,7 +424,7 @@ No armor
 —
 
 —
-Explorer’s clothing 1 sp
+Explorer’s clothing	 1 sp
 +0
 +5
 —
@@ -407,7 +435,7 @@ L
 Comfort
 TABLE 6–4: ARMOR
 Light Armor
-Price AC Bonus Dex Cap Check Penalty Speed Penalty Strength
+Price	 AC Bonus	 Dex Cap	 Check Penalty	 Speed Penalty	 Strength
 Bulk
 Group
 Armor Traits
@@ -417,6 +445,7 @@ Padded armor
 +3
 —
 —
+10
 L
 —
 Comfort
@@ -426,6 +455,8 @@ Leather
 +4
 –1
 —
+10
+1
 —
 —
 Studded leather
@@ -434,6 +465,8 @@ Studded leather
 +3
 –1
 —
+12
+1
 —
 —
 Chain shirt
@@ -442,10 +475,12 @@ Chain shirt
 +3
 –1
 —
+12
+1
 —
 Flexible, Noisy
 Medium Armor
-Price AC Bonus Dex Cap Check Penalty Speed Penalty Strength
+Price	 AC Bonus	 Dex Cap	 Check Penalty	 Speed Penalty	 Strength
 Bulk
 Group
 Armor Traits
@@ -455,6 +490,8 @@ Hide
 +2
 –2
 –5 ft.
+14
+2
 Leather
 —
 Scale mail
@@ -463,6 +500,8 @@ Scale mail
 +2
 –2
 –5 ft.
+14
+2
 Composite
 —
 Chain mail
@@ -471,6 +510,8 @@ Chain mail
 +1
 –2
 –5 ft.
+16
+2
 Chain
 Flexible, noisy
 Breastplate
@@ -479,32 +520,40 @@ Breastplate
 +1
 –2
 –5 ft.
+16
+2
 Plate
 —
 Heavy Armor
-Price AC Bonus Dex Cap Check Penalty Speed Penalty Strength
+Price	 AC Bonus	 Dex Cap	 Check Penalty	 Speed Penalty	 Strength
 Bulk
 Group
 Armor Traits
-Splint mail (level 1) 13 gp
+Splint mail (level 1)	 13 gp
 +5
 +1
 –3
 –10 ft.
+16
+3
 Composite
 —
-Half plate (level 1) 18 gp
+Half plate (level 1)	 18 gp
 +5
 +1
 –3
 –10 ft.
+16
+3
 Plate
 —
-Full plate (level 2) 30 gp
+Full plate (level 2)	 30 gp
 +6
 +0
 –3
 –10 ft.
+18
+4
 Plate
 Bulwark
 MATERIALS
@@ -571,8 +620,26 @@ shirt constructed of the same metal rings as chainmail.
 However, it is much lighter than chainmail and protects
 only the torso, upper arms, and upper legs of its wearer.
 EQUIPMENT
+6
+275
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 277
 ================================================================================
 
@@ -637,15 +704,24 @@ Hardness
 HP
 BT
 Cloth (explorer’s clothing,
+1
+4
+2
 padded armor)
 Leather (hide, leather, studded
+4
+16
+8
 leather)
 Metal (breastplate, chain mail,
+9
+36
+18
 chain shirt, full plate, half plate,
 scale mail, splint mail)
 Core Rulebook
+276
 
-================================================================================
 PAGE 278
 ================================================================================
 
@@ -684,9 +760,13 @@ relevant for shields because of the Shield Block feat
 (page 266). The rules for Hardness appear on page 272.
 TABLE 6–5: SHIELDS
 
+
+
+
+
 Shield
 Price
-AC Bonus 1
+AC Bonus 1
 Speed Penalty
 Bulk
 Hardness
@@ -696,23 +776,30 @@ Buckler
 +1
 —
 L
+3
 6 (3)
 Wooden shield
 1 gp
 +2
 —
+1
+3
 12 (6)
 Steel shield
 2 gp
 +2
 —
+1
+5
 20 (10)
 Tower shield
 10 gp
-+2/+4 2
++2/+4 2
 –5 ft.
+4
+5
 20 (10)
-1 Gaining a shield’s circumstance bonus to AC requires using the Raise a Shield action (found on page 472).
+1  Gaining a shield’s circumstance bonus to AC requires using the Raise a Shield action (found on page 472).
 2 Getting the higher bonus for a tower shield requires using the Take Cover action (page 471) while the shield is raised.
 HP (BT)
 This column lists the shield’s Hit Points (HP) and Broken
@@ -750,12 +837,30 @@ they are typically made of wood reinforced with metal.
 Shields
 A shield can increase your character’s defense beyond the protection their armor provides.
 Your character must be wielding a shield in one hand to make use of it, and it grants its
-bonus to AC only if they use an action to Raise a Shield. This action grants the shield’s bonus
+bonus to AC only if they use an action to Raise a Shield. This action grants the shield’s bonus
 to AC as a circumstance bonus until their next turn starts. A shield’s Speed penalty applies
 whenever your character is holding the shield, whether they have raised it or not.
 EQUIPMENT
+6
+277
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 279
 ================================================================================
 
@@ -844,8 +949,8 @@ bows to even simple clubs. Full details on how you calculate the bonuses, modifi
 penalties for attack rolls and damage rolls are given in Chapter 9 on page 446, but they’re
 summarized here, followed by the rules for weapons and dozens of weapon choices.
 Core Rulebook
+278
 
-================================================================================
 PAGE 280
 ================================================================================
 
@@ -950,8 +1055,26 @@ if it has a lower weapon damage die. You can also purchase
 multiple weapons within your budget, allowing you to
 switch between them for different situations.
 EQUIPMENT
+6
+279
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 281
 ================================================================================
 
@@ -995,6 +1118,7 @@ Fist
 —
 1d4 B
 —
+1
 Brawling
 Agile, finesse, nonlethal, unarmed
 TABLE 6–7: MELEE WEAPONS
@@ -1007,61 +1131,80 @@ Hands
 Group
 Weapon Traits
 Club
+0
 1d6 B
+1
+1
 Club
 Thrown 10 ft.
 Dagger
 2 sp
 1d4 P
 L
+1
 Knife
 Agile, finesse, thrown 10 ft., versatile S
 Gauntlet
 2 sp
 1d4 B
 L
+1
 Brawling
 Agile, free-hand
 Light mace
 4 sp
 1d4 B
 L
+1
 Club
 Agile, finesse, shove
 Longspear
 5 sp
 1d8 P
+2
+2
 Spear
 Reach
 Mace
 1 gp
 1d6 B
+1
+1
 Club
 Shove
 Morningstar
 1 gp
 1d6 B
+1
+1
 Club
 Versatile P
 Sickle
 2 sp
 1d4 S
 L
+1
 Knife
 Agile, finesse, trip
 Spear
 1 sp
 1d6 P
+1
+1
 Spear
 Thrown 20 ft.
 Spiked gauntlet
 3 sp
 1d4 P
 L
+1
 Brawling
 Agile, free-hand
 Staff
+0
 1d4 B
+1
+1
 Club
 Two-hand d8
 Uncommon
@@ -1076,12 +1219,14 @@ Clan dagger
 2 gp
 1d4 P
 L
+1
 Knife
 Agile, dwarf, parry, versatile B
 Katar
 3 sp
 1d4 P
 L
+1
 Knife
 Agile, deadly d6, monk
 Martial Weapons
@@ -1094,77 +1239,104 @@ Weapon Traits
 Bastard sword
 4 gp
 1d8 S
+1
+1
 Sword
 Two-hand d12
 Battle axe
 1 gp
 1d8 S
+1
+1
 Axe
 Sweep
 Bo staff
 2 sp
 1d8 B
+2
+2
 Club
 Monk, parry, reach, trip
 Falchion
 3 gp
 1d10 S
+2
+2
 Sword
 Forceful, sweep
 Flail
 8 sp
 1d6 B
+1
+1
 Flail
 Disarm, sweep, trip
 Glaive
 1 gp
 1d8 S
+2
+2
 Polearm
 Deadly d8, forceful, reach
 Greataxe
 2 gp
 1d12 S
+2
+2
 Axe
 Sweep
 Greatclub
 1 gp
 1d10 B
+2
+2
 Club
 Backswing, shove
 Greatpick
 1 gp
 1d10 P
+2
+2
 Pick
 Fatal d12
 Greatsword
 2 gp
 1d12 S
+2
+2
 Sword
 Versatile P
 Guisarme
 2 gp
 1d10 S
+2
+2
 Polearm
 Reach, trip
 Halberd
 2 gp
 1d10 P
+2
+2
 Polearm
 Reach, versatile S
 Hatchet
 4 sp
 1d6 S
 L
+1
 Axe
 Agile, sweep, thrown 10 ft.
 Lance
 1 gp
 1d8 P
+2
+2
 Spear
 Deadly d8, jousting d6, reach
 Core Rulebook
+280
 
-================================================================================
 PAGE 282
 ================================================================================
 
@@ -1172,111 +1344,147 @@ Light hammer
 3 sp
 1d6 B
 L
+1
 Hammer
 Agile, thrown 20 ft.
 Light pick
 4 sp
 1d4 P
 L
+1
 Pick
 Agile, fatal d8
 Longsword
 1 gp
 1d8 S
+1
+1
 Sword
 Versatile P
 Main-gauche
 5 sp
 1d4 P
 L
+1
 Knife
 Agile, disarm, finesse, parry, versatile S
 Maul
 3 gp
 1d12 B
+2
+2
 Hammer
 Shove
 Pick
 7 sp
 1d6 P
+1
+1
 Pick
 Fatal d10
 Ranseur
 2 gp
 1d10 P
+2
+2
 Polearm
 Disarm, reach
 Rapier
 2 gp
 1d6 P
+1
+1
 Sword
 Deadly d8, disarm, finesse
 Sap
 1 sp
 1d6 B
 L
+1
 Club
 Agile, nonlethal
 Scimitar
 1 gp
 1d6 S
+1
+1
 Sword
 Forceful, sweep
 Scythe
 2 gp
 1d10 S
+2
+2
 Polearm
 Deadly d10, trip
 Shield bash
 —
 1d4 B
 —
+1
 Shield
 —
 Shield boss
 5 sp
 1d6 B
 —
+1
 Shield
 Attached to shield
 Shield spikes
 5 sp
 1d6 P
 —
+1
 Shield
 Attached to shield
 Shortsword
 9 sp
 1d6 P
 L
+1
 Sword
 Agile, finesse, versatile S
 Starknife
 2 gp
 1d4 P
 L
+1
 Knife
 Agile, deadly d6, finesse, thrown 20 ft.,
+
+
+
+
+
 
 versatile S
 Trident
 1 gp
 1d8 P
+1
+1
 Spear
 Thrown 20 ft.
 War flail
 2 gp
 1d10 B
+2
+2
 Flail
 Disarm, sweep, trip
 Warhammer
 1 gp
 1d8 B
+1
+1
 Hammer
 Shove
 Whip
 1 sp
 1d4 S
+1
+1
 Flail
 Disarm, finesse, nonlethal, reach, trip
 Uncommon
@@ -1291,79 +1499,103 @@ Dogslicer
 1 sp
 1d6 S
 L
+1
 Sword
 Agile, backstabber, finesse, goblin
 Elven curve blade
 4 gp
 1d8 S
+2
+2
 Sword
 Elf, finesse, forceful
 Filcher’s fork
 1 gp
 1d4 P
 L
+1
 Spear
 Agile, backstabber, deadly d6, finesse,
+
+
+
+
+
 
 halfling, thrown 20 ft.
 Gnome hooked
 2 gp
 1d6 B
+1
+1
 Hammer
 Gnome, trip, two-hand d10, versatile P
 hammer
 Horsechopper
 9 sp
 1d8 S
+2
+2
 Polearm
 Goblin, reach, trip, versatile P
 Kama
 1 gp
 1d6 S
 L
+1
 Knife
 Agile, monk, trip
 Katana
 2 gp
 1d6 S
+1
+1
 Sword
 Deadly d8, two-hand d10, versatile P
 Kukri
 6 sp
 1d6 S
 L
+1
 Knife
 Agile, finesse, trip
 Nunchaku
 2 sp
 1d6 B
 L
+1
 Club
 Backswing, disarm, finesse, monk
 Orc knuckle dagger
 7 sp
 1d6 P
 L
+1
 Knife
 Agile, disarm, orc
 Sai
 6 sp
 1d4 P
 L
+1
 Knife
 Agile, disarm, finesse, monk, versatile B
 Spiked chain
 3 gp
 1d8 S
+1
+2
 Flail
 Disarm, finesse, trip
 Temple sword
 2 gp
 1d8 S
+1
+1
 Sword
 Monk, trip
 Uncommon
-Advanced Weapons Price
+Advanced Weapons 	 Price
 Damage
 Bulk
 Hands
@@ -1372,22 +1604,29 @@ Weapon Traits
 Dwarven waraxe
 3 gp
 1d8 S
+2
+1
 Axe
 Dwarf, sweep, two-hand d12
 Gnome flickmace
 3 gp
 1d8 B
+2
+1
 Flail
 Gnome, reach
 Orc necksplitter
 2 gp
 1d8 S
+1
+1
 Axe
 Forceful, orc, sweep
 Sawtooth saber
 5 gp
 1d6 S
 L
+1
 Sword
 Agile, finesse, twin
 TABLE 6–8: RANGED WEAPONS
@@ -1404,24 +1643,35 @@ Blowgun
 1 sp
 1 P
 20 ft.
+1
 L
+1
 Dart
 Agile, nonlethal
 10 blowgun darts
 5 cp
 
+
+
 L
+
 
 Crossbow
 3 gp
 1d8 P
 120 ft.
+1
+1
+2
 Bow
 —
 10 bolts
 1 sp
 
+
+
 L
+
 
 Dart
 1 cp
@@ -1429,29 +1679,56 @@ Dart
 20 ft.
 —
 L
+1
 Dart
 Agile, thrown
 Hand crossbow
 3 gp
 1d6 P
 60 ft.
+1
 L
+1
 Bow
 —
 10 bolts
 1 sp
 
+
+
 L
+
 
 Heavy crossbow
 4 gp
 1d10 P
 120 ft.
+2
+2
+2
 Bow
 —
 EQUIPMENT
+6
+281
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 283
 ================================================================================
 
@@ -1459,7 +1736,10 @@ PAGE 283
 
 1 sp
 
+
+
 L
+
 
 Javelin
 1 sp
@@ -1467,18 +1747,25 @@ Javelin
 30 ft.
 —
 L
+1
 Dart
 Thrown
 Sling
+0
 1d6 B
 50 ft.
+1
 L
+1
 Sling
 Propulsive
 10 sling bullets
 1 cp
 
+
+
 L
+
 
 Martial Weapons
 Price
@@ -1491,56 +1778,84 @@ Group
 Weapon Traits
 Alchemical bomb*
 Varies
+Varies
 20 ft.
 —
 L
+1
 Bomb
 Varies
-Composite longbow 20 gp
+Composite longbow	 20 gp
 1d8 P
 100 ft.
+0
+2
 1+
 Bow
 Deadly d10, propulsive,
+
+
+
+
+
+
+
 
 volley 30 ft.
 10 arrows
 1 sp
 
+
+
 L
 
-Composite shortbow 14 gp
+
+Composite shortbow	 14 gp
 1d6 P
 60 ft.
+0
+1
 1+
 Bow
 Deadly d10, propulsive
 10 arrows
 1 sp
 
+
+
 L
+
 
 Longbow
 6 gp
 1d8 P
 100 ft.
+0
+2
 1+
 Bow
 Deadly d10, volley 30 ft.
 10 arrows
 1 sp
 
+
+
 L
+
 
 Shortbow
 3 gp
 1d6 P
 60 ft.
+0
+1
 1+
 Bow
 Deadly d10
 10 arrows
 1 sp
+
+
 
 L
 Uncommon
@@ -1557,17 +1872,24 @@ Halfling sling staff
 5 gp
 1d10 B
 80 ft.
+1
+1
+2
 Sling
 Halfling, propulsive
 10 sling bullets
 1 cp
+
+
 
 L
 Shuriken
 1 cp
 1d4 P
 20 ft.
+0
 —
+1
 Dart
 Agile, monk, thrown
 * Statistics for alchemical bombs can be found starting on page 544.
@@ -1605,7 +1927,7 @@ Deadly: On a critical hit, the weapon adds a weapon
 damage die of the listed size. Roll this after doubling the
 weapon’s damage. This increases to two dice if the weapon
 has a greater striking rune and three dice if the weapon has
-a major striking rune. For instance, a rapier with a greater
+a major striking rune. For instance, a rapier with a greater
 striking rune deals 2d8 extra piercing damage on a critical
 hit. An ability that changes the size of the weapon’s normal
 damage dice doesn’t change the size of its deadly die.
@@ -1640,8 +1962,8 @@ by your free-hand weapon to wield other items, perform
 manipulate actions, and so on. You can’t attack with a
 free-hand weapon if you’re wielding anything in that hand
 Core Rulebook
+282
 
-================================================================================
 PAGE 284
 ================================================================================
 
@@ -1704,7 +2026,7 @@ attack. A thrown weapon adds your Strength modifier to
 damage just like a melee weapon does. When this trait
 appears on a melee weapon, it also includes the range
 increment. Ranged weapons with this trait use the range
-increment specified in the weapon’s Range entry.
+increment specified in the weapon’s Range entry.
 Trip: You can use this weapon to Trip with the Athletics
 skill even if you don’t have a free hand. This uses the
 weapon’s reach (if different from your own) and adds the
@@ -1756,8 +2078,26 @@ equal to the result of the weapon damage die you rolled
 amount isn’t doubled, and no bonuses or other additional
 dice apply to this damage.
 EQUIPMENT
+6
+283
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 285
 ================================================================================
 
@@ -1877,8 +2217,8 @@ Dwarven Waraxe: This favored weapon of the dwarves
 has a large, ornate head mounted on a thick handle. This
 powerful axe can be wielded with one hand or two.
 Core Rulebook
+284
 
-================================================================================
 PAGE 286
 ================================================================================
 
@@ -1941,7 +2281,7 @@ axe blade attached.
 Halfling Sling Staff: This staff ends in a
 Y-shaped split that cradles a sling. The length of
 the staff provides excellent leverage when used
-two‑handed to fling rocks or bullets from the sling.
+two‑handed to fling rocks or bullets from the sling.
 Hand Crossbow: Sometimes referred to as an alley
 bow by rogues or ruffians, this small crossbow fires small
 bolts that are sometimes used to deliver poison to the
@@ -1985,7 +2325,7 @@ single piece of elm, hickory, or yew, has a powerful
 draw and is excellent at propelling arrows with
 great force and at an extreme distance. You must
 use two hands to fire a longbow, and it can’t be used
-while mounted.
+while mounted.
 Longspear: This very long spear, sometimes called a
 pike, is purely for thrusting rather than throwing. Used
 by many soldiers and city watch for crowd control and
@@ -1995,8 +2335,26 @@ Longsword: Longswords can be one-edged or
 two‑edged swords. Their blades are heavy and they’re
 between 3 and 4 feet in length.
 EQUIPMENT
+6
+285
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 287
 ================================================================================
 
@@ -2084,7 +2442,7 @@ Rapier: The rapier is a long and thin piercing
 blade with a basket hilt. It is prized among many
 as a dueling weapon.
 Sai: This piercing dagger is a metal spike flanked by a
-pair of prongs that can be used to trap an enemy’s weapon.
+pair of prongs that can be used to trap an enemy’s weapon.
 Sap: A sap has a soft wrapping around a
 dense core, typically a leather sheath around
 a lead rod. Its head is wider than its grip to
@@ -2113,8 +2471,8 @@ Shield Spikes: These metal spikes are strategically
 placed on the defensive side of the shield to deal
 piercing damage with a shield bash.
 Core Rulebook
+286
 
-================================================================================
 PAGE 288
 ================================================================================
 
@@ -2159,7 +2517,7 @@ from raw materials with the Craft skill. Sterling artisan’s
 tools give you a +1 item bonus to the check. Different
 sets are needed for different work, as determined by
 the GM; for example, blacksmith’s tools differ from
-woodworker’s tools.
+woodworker’s tools.
 Backpack: A backpack holds up to 4 Bulk of items. If
 you’re carrying or stowing the pack rather than wearing
 it on your back, its bulk is light instead of negligible.
@@ -2173,7 +2531,7 @@ tools as part of the action that requires them.
 Basic Crafter’s Book: This book contains the formulas
 (page 293) for Crafting the common items in this chapter.
 Belt Pouch: A belt pouch holds up to four items of
-light Bulk.
+light Bulk.
 Caltrops: These four-pronged metal spikes can cause
 damage to a creature’s feet. You can scatter caltrops in an
 empty square adjacent to you with an
@@ -2216,26 +2574,54 @@ explorer’s clothing, see pages 275–276.
 Fine clothing, suitable for a noble or royal, is made with
 expensive fabrics, precious metals, and intricate patterns.
 You gain a +1 item bonus to checks to Make an Impression
-on nobility or other upper-class folk while wearing highfashion fine clothing.
+on nobility or other upper-class folk while wearing high-
+fashion fine clothing.
 EQUIPMENT
+6
+287
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 289
 ================================================================================
 
 Item
 Price
-Bulk Hands
+Bulk	 Hands
 Adventurer’s pack
 7 sp
+2
 —
 Alchemist’s tools
 5 gp
-Expanded alchemist’s tools (level 3) 55 gp
+2
+2
+Expanded alchemist’s tools (level 3)	 55 gp
+2
+2
 Artisan’s tools
 4 gp
+2
+2
 Sterling artisan’s tools (level 3)
 50 gp
+2
+2
 Backpack
 1 sp
 —
@@ -2247,6 +2633,7 @@ Bandolier
 Basic crafter’s book
 1 sp
 L
+2
 Bedroll
 1 cp
 L
@@ -2258,20 +2645,31 @@ Belt pouch
 Caltrops
 3 sp
 L
+1
 Candle (10)
 1 cp
 —
+1
 Chain (10 feet)
 4 gp
+1
+2
 Chalk (10)
 1 cp
 —
+1
 Chest
 6 sp
+2
+2
 Climbing kit
 5 sp
+1
+2
 Extreme climbing kit (level 3)
 40 gp
+1
+2
 Clothing
 Ordinary
 1 sp
@@ -2296,20 +2694,27 @@ L
 Compass
 1 gp
 —
+1
 Lensatic compass (level 3)
 20 gp
 —
+1
 Cookware
 1 gp
+2
+2
 Crowbar
 5 sp
 L
+2
 Levered crowbar (level 3)
 20 gp
 L
+2
 Disguise kit
 2 gp
 L
+2
 Replacement cosmetics
 1 sp
 —
@@ -2317,142 +2722,205 @@ Replacement cosmetics
 Elite disguise kit (level 3)
 40 gp
 L
+2
 Elite cosmetics (level 3)
 5 sp
 —
 —
 Fishing tackle
 8 sp
+1
+2
 Professional fishing tackle (level 3)
 20 gp
+1
+2
 Flint and steel
 5 cp
 —
+2
 Formula book (blank)
 1 gp
+1
+1
 Grappling hook
 1 sp
 L
+1
 Hammer
 1 sp
 L
+1
 Healer’s tools
 5 gp
+1
+2
 Expanded healer’s tools (level 3)
 50 gp
+1
+2
 Holly and mistletoe
+0
 —
+1
 Hourglass
 3 gp
 L
+1
 Ladder (10-foot)
 3 cp
+3
+2
 Lantern
+
 
 Bull’s-eye
 1 gp
+1
+1
 Hooded
 7 sp
 L
+1
 Lock
 Poor lock (level 0)
 2 sp
 —
+2
 Simple lock (level 1)
 2 gp
 —
+2
 Average lock (level 3)
 15 gp
 —
+2
 Good lock (level 9)
 200 gp
 —
+2
 Superior lock (level 17)
 4,500 gp
 —
+2
 Magnifying glass (level 3)
 40 gp
 —
+1
 Manacles
 Poor manacles (level 0)
 3 sp
 —
+2
 Simple manacles (level 1)
 3 gp
 —
+2
 Average manacles (level 3)
 20 gp
 —
+2
 Good manacles (level 9)
 250 gp
 —
+2
 Item
 Price
-Bulk Hands
+Bulk	 Hands
 Superior manacles (level 17)
 5,000 gp
 —
+2
 Material component pouch
 5 sp
 L
+1
 Merchant’s scale
 2 sp
 L
+2
 Mirror
 1 gp
 —
+1
 Mug
 1 cp
 —
+1
 Musical instrument
+
 
 Handheld
 8 sp
+1
+2
 Virtuoso handheld (level 3)
 50 gp
+1
+2
 Heavy
 2 gp
+16
+2
 Virtuoso heavy (level 3)
 100 gp
+16
+2
 Oil (1 pint)
 1 cp
 —
+2
 Piton
 1 cp
 —
+1
 Rations (1 week)
 4 sp
 L
+1
 Religious symbol
+
 
 Wooden
 1 sp
 L
+1
 Silver
 2 gp
 L
+1
 Religious text
 1 gp
 L
+1
 Repair kit
 2 gp
+1
+2
 Superb repair kit (level 3)
 25 gp
+1
+2
 Rope
 5 sp
 L
+2
 Sack (5)
 1 cp
 L
+1
 Saddlebags
 2 sp
 L
+2
 Satchel
 1 sp
 —
+2
 Scroll case
 1 sp
 —
+2
 Sheath
 1 cp
 —
@@ -2460,38 +2928,58 @@ Sheath
 Signal whistle
 8 cp
 —
+1
 Snare kit
 5 gp
+2
+2
 Specialist snare kit (level 3)
 55 gp
+2
+2
 Soap
 2 cp
 —
+1
 Spellbook (blank)
 1 gp
+1
+1
 Spyglass
 20 gp
 L
+2
 Fine spyglass (level 4)
 80 gp
 L
+2
 Tack
 4 gp
+1
 —
 Ten-foot pole
 1 cp
+1
+2
 Tent
+
 
 Pup
 8 sp
 L
+2
 Four-person
 5 gp
+1
+2
 Pavilion (level 2)
 40 gp
+12
+2
 Thieves’ tools
 3 gp
 L
+2
 Replacement picks
 3 sp
 —
@@ -2499,14 +2987,18 @@ Replacement picks
 Infiltrator thieves’ tools (level 3)
 50 gp
 L
+2
 Infiltrator picks (level 3)
 3 gp
 —
 —
 Tool
 
+
 Long tool
 1 gp
+1
+2
 Short tool
 4 sp
 L
@@ -2514,37 +3006,45 @@ L
 Torch
 1 cp
 L
+1
 Vial
 5 cp
 —
+1
 Waterskin
 5 cp
 L
+1
 Writing set
 1 gp
 L
+2
 Extra ink and paper
 1 sp
 —
 —
 TABLE 6–10: UNCOMMON ADVENTURING GEAR
 Item
-Price Bulk Hands
+Price	 Bulk	Hands
 Scholarly journal (level 3)
 6 gp
 L
-Scholarly journal compendium (level 3) 30 gp
+1
+Scholarly journal compendium (level 3)	 30 gp
 L
+2
 Survey map (level 3)
 10 gp
 L
+1
 Survey map atlas (level 3)
 50 gp
 L
+2
 TABLE 6–9: ADVENTURING GEAR
 Core Rulebook
+288
 
-================================================================================
 PAGE 290
 ================================================================================
 
@@ -2554,95 +3054,113 @@ money on what your class needs, start with one of these kits.
 Note than an adventurer’s pack, which is included in each kit,
 contains a backpack, a bedroll, two belt pouches, 10 pieces of
 chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap,
-5 torches, and a waterskin.
+5 torches, and a waterskin.
 Alchemist
-Price 9 gp, 6 sp; Bulk 4 Bulk, 6 light;
-Money Left Over 5 gp, 4 sp
+Price 9 gp, 6 sp; Bulk 4 Bulk, 6 light;
+Money Left Over 5 gp, 4 sp
 Armor studded leather armor
 Weapons dagger, sling with 20 sling bullets
 Gear adventurer’s pack, alchemist’s tools, bandolier, basic
 crafter’s book, 2 sets of caltrops, sheath
 Options repair kit (2 gp)
 Barbarian
-Price 3 gp, 2 sp; Bulk 3 Bulk, 5 light;
-Money Left Over 11 gp, 8 sp
+Price 3 gp, 2 sp; Bulk 3 Bulk, 5 light;
+Money Left Over 11 gp, 8 sp
 Armor hide armor
 Weapons 4 javelins
 Gear adventurer’s pack, grappling hook, 2 sheaths
 Options greataxe (2 gp), greatclub (1 gp), greatsword
 (2 gp), or battle axe and steel shield (3 gp)
 Bard
-Price 6 gp, 8 sp; Bulk 4 Bulk, 3 light;
-Money Left Over 8 gp, 2 sp
+Price 6 gp, 8 sp; Bulk 4 Bulk, 3 light;
+Money Left Over 8 gp, 2 sp
 Armor studded leather armor
 Weapons dagger, rapier, sling with 20 sling bullets
-Gear adventurer’s pack, bandolier, handheld
+Gear adventurer’s pack, bandolier, handheld
 instrument, sheath
 Champion
-Price 3 gp, 8 sp; Bulk 3 Bulk, 7 light;
-Money Left Over 11 gp, 2 sp
+Price 3 gp, 8 sp; Bulk 3 Bulk, 7 light;
+Money Left Over 11 gp, 2 sp
 Armor hide armor
 Weapons dagger, 4 javelins
 Gear adventurer’s pack, crowbar, grappling hook, sheath
 Options your deity’s favored weapon (see the deity entries
 on pages 437–441; use the Price listed in this chapter)
 Cleric
-Price 1 gp 5 sp; Bulk 1 Bulk, 3 light;
-Money Left Over 13 gp
+Price 1 gp 5 sp; Bulk 1 Bulk, 3 light;
+Money Left Over 13 gp
 Gear adventurer’s pack, bandolier,
-2 sets of caltrops, religious symbol (wooden)
+2 sets of caltrops, religious symbol (wooden)
 Options your deity’s favored weapon (see the
 deity entries on pages 437–441; use the Price
 listed in this chapter), hide armor (2 gp)
 Druid
-Price 3 gp, 7 sp; Bulk 4 Bulk, 4 light;
-Money Left Over 11 gp, 3 sp
+Price 3 gp, 7 sp; Bulk 4 Bulk, 4 light;
+Money Left Over 11 gp, 3 sp
 Armor leather armor
 Weapons 4 javelins, longspear
 Gear adventurer’s pack, bandolier, holly and mistletoe
 Options healer’s tools (5 gp)
 Fighter
-Price 3 gp; Bulk 3 Bulk, 2 light; Money
-Left Over 12 gp
+Price 3 gp; Bulk 3 Bulk, 2 light; Money
+Left Over 12 gp
 Armor hide armor
 Weapons dagger
 Gear adventurer’s pack, grappling hook, sheath
 Options greatsword (2 gp), longbow with 20 arrows
 (6 gp, 2 sp), or longsword and steel shield (3 gp)
 Monk
-Price 4 gp, 9 sp; Bulk 4 Bulk, 2 light;
-Money Left Over 10 gp, 2 sp
+Price 4 gp, 9 sp; Bulk 4 Bulk, 2 light;
+Money Left Over 10 gp, 2 sp
 Weapons longspear, staff
-Gear adventurer’s pack, bandolier, climbing kit,
+Gear adventurer’s pack, bandolier, climbing kit,
 grappling hook, lesser smokestick
 Ranger
-Price 9 gp, 1 sp; Bulk 3 Bulk, 3 light;
-Money Left Over 5 gp, 9 sp
+Price 9 gp, 1 sp; Bulk 3 Bulk, 3 light;
+Money Left Over 5 gp, 9 sp
 Armor leather armor
 Weapons dagger, longbow with 20 arrows
 Gear adventurer’s pack, sheath
 Rogue
-Price 5 gp, 4 sp; Bulk 4 Bulk, 1 light;
-Money Left Over 9 gp, 6 sp
+Price 5 gp, 4 sp; Bulk 4 Bulk, 1 light;
+Money Left Over 9 gp, 6 sp
 Armor leather armor
 Weapons dagger, rapier
 Gear adventurer’s pack, climbing kit, sheath
 Options thieves’ tools (3 gp)
 Sorcerer
-Price 1 gp, 6 sp; Bulk 1 Bulk, 6 light;
-Money Left Over 12 gp, 9 sp
-Weapons dagger, slingshot with 20
+Price 1 gp, 6 sp; Bulk 1 Bulk, 6 light;
+Money Left Over 12 gp, 9 sp
+Weapons dagger, slingshot with 20
 sling bullets
 Gear adventurer’s pack, bandolier, 2 sets of caltrops, sheath
 Wizard
-Price 1 gp, 2 sp; Bulk 2 Bulk, 2 light;
-Money Left Over 11 gp, 8 sp
+Price 1 gp, 2 sp; Bulk 2 Bulk, 2 light;
+Money Left Over 11 gp, 8 sp
 Weapons staff
-Gear adventurer’s pack, material component pouch, writing set
+Gear adventurer’s pack, material component pouch, writing set
 Options crossbow with 20 bolts (3 gp, 2 sp)
 EQUIPMENT
+6
+289
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 291
 ================================================================================
 
@@ -2650,11 +3168,11 @@ Winter clothing allows you to negate the damage from
 severe environmental cold and reduce the damage from
 extreme cold to that of severe cold.
 Compass: A compass helps you Sense Direction or
-navigate, provided you’re in a location with uniform
+navigate, provided you’re in  a location with uniform
 magnetic fields. Without a compass, you take a –2 item
 penalty to these checks (similar to using a shoddy item).
-A lensatic compass gives you a +1
-item bonus to these checks.
+A lensatic compass gives you a +1
+item bonus to these checks.
 Crowbar: When Forcing Open
 an object that doesn’t have an
 easy grip, a crowbar makes
@@ -2707,8 +3225,8 @@ First Aid, Treat Disease, Treat Poison, or Treat Wounds.
 Expanded healer’s tools provide a +1 item bonus to such
 checks. When you carry the tools from place to place, you
 keep many of the components handy on your person, in
-pockets or bandoliers.
-Holly and Mistletoe: Plants of supernatural significance
+pockets or bandoliers.
+Holly and Mistletoe: Plants of supernatural significance
 provide
 a
 primal
@@ -2734,7 +3252,7 @@ with shutters, which you can close to block the light.
 Closing or opening the shutters takes an Interact action.
 Lock: Picking a poor lock requires two successful DC
 15 Thievery checks, a simple lock requires three successful
-DC 20 Thievery checks, an average lock requires four
+DC  20 Thievery checks, an average lock requires four
 successes at DC 25, a good lock requires five successes at
 DC 30, and a superior lock six successes at DC 40.
 Magnifying Glass: This quality handheld lens gives you
@@ -2755,7 +3273,7 @@ GM determines what effect manacles have, if any. Freeing
 a creature from poor manacles requires two successful
 DC 17 Thievery checks, simple manacles requires three
 successes at DC 22, average manacles require four successes
-at DC 27, good manacles require five successes at DC 32,
+at DC 27, good manacles require five successes at DC 32,
 and superior manacles require six successes at DC 42.
 Material Component Pouch: This pouch contains
 material components for those spells that require them.
@@ -2766,8 +3284,8 @@ bagpipes, a small set of chimes, small drums, fiddles and
 viols, flutes and recorders, small harps, lutes, trumpets,
 and similarly sized instruments. The GM might rule that
 Core Rulebook
+290
 
-================================================================================
 PAGE 292
 ================================================================================
 
@@ -2815,7 +3333,7 @@ tongs,
 woodworking tools, a whetstone, and oils for
 conditioning leather and wood. You can use a
 repair kit to Repair items using the Crafting skill. A
-superb repair kit gives you a +1 item bonus to the check.
+superb repair kit gives you a +1 item bonus to the check.
 Sack: A sack can hold up to 8 Bulk worth of items. A
 sack containing 2 Bulk or less can be worn on the body,
 usually tucked into a belt. You can carry a sack with one
@@ -2889,8 +3407,26 @@ Thieves’ Tools: You need thieves’ tools to Pick Locks or
 Disable Devices (of some types) using the Thievery skill.
 Infiltrator thieves’ tools add a +1 item bonus to checks
 EQUIPMENT
+6
+291
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 293
 ================================================================================
 
@@ -2930,9 +3466,9 @@ could likely access. The descriptions
 below are incomplete; each item’s full
 entry appears in Chapter 11 on the
 page listed in the table. Your GM
-might allow you to start with other
+might allow you  to start with other
 alchemical items from Chapter 11 on a
-case‑by‑case basis.
+case‑by‑case basis.
 TABLE 6–11: ALCHEMICAL GEAR
 Alchemical Bombs
 Price
@@ -2941,21 +3477,27 @@ Page
 Lesser acid flask
 3 gp
 L
+544
 Lesser alchemist’s fire
 3 gp
 L
+545
 Lesser bottled lightning
 3 gp
 L
+545
 Lesser frost vial
 3 gp
 L
+545
 Lesser tanglefoot bag
 3 gp
 L
+545
 Lesser thunderstone
 3 gp
 L
+545
 Elixirs
 Price
 Bulk
@@ -2963,12 +3505,15 @@ Page
 Lesser antidote
 3 gp
 L
+546
 Lesser antiplague
 3 gp
 L
+546
 Lesser elixir of life
 3 gp
 L
+548
 Alchemical Tools
 Price
 Bulk
@@ -2976,12 +3521,15 @@ Page
 Lesser smokestick
 3 gp
 L
+554
 Sunrod
 3 gp
 L
+554
 Tindertwig (10)
 2 sp
 —
+554
 Alchemical Bombs
 Alchemical bombs are consumable weapons that deal
 damage or produce special effects, and they sometimes
@@ -2989,7 +3537,7 @@ deal splash damage. For more on alchemical bombs, see
 page 544.
 Lesser Acid Flask: This alchemical bomb deals 1
 acid damage, 1d6 persistent acid damage, and 1 acid
-splash damage.
+splash damage.
 Lesser Alchemist’s Fire: This alchemical
 bomb deals 1d8 fire damage, 1 persistent
 fire damage, and 1 fire splash damage.
@@ -3025,7 +3573,7 @@ Fortitude saves against disease for 24 hours,
 including your saves against diseases’ progression.
 Lesser Elixir of Life: Drinking a lesser elixir of life
 restores 1d6 Hit Points and grants a +1 item bonus to
-saving throws against diseases and poisons for 10 minutes.
+saving throws against diseases and poisons for 10 minutes.
 Alchemical Tools
 Alchemical tools are a type of alchemical item you use,
 rather than drink or throw. For more on alchemical tools,
@@ -3037,8 +3585,8 @@ an Interact action to cause it to shed bright light in a
 20-foot radius (dim light in the next 20 feet) for 6 hours.
 Tindertwig: You can use a tindertwig to ignite
 Core Rulebook
+292
 
-================================================================================
 PAGE 294
 ================================================================================
 
@@ -3065,9 +3613,11 @@ Page
 Holy water
 3 gp
 L
+571
 Unholy water
 3 gp
 L
+571
 Potions
 Price
 Bulk
@@ -3075,12 +3625,14 @@ Page
 Minor healing potion
 3 gp
 L
+563
 Scrolls
 Price
 Bulk
 Page
-Scroll of a common 1st-level spell 4 gp
+Scroll of a common 1st-level spell	 4 gp
 L
+565
 Talismans
 Price
 Bulk
@@ -3088,6 +3640,7 @@ Page
 Potency crystal
 4 gp
 —
+568
 Consumable Magic Items
 You can typically purchase holy and unholy water in
 a settlement. Particularly good settlements tend to ban
@@ -3152,44 +3705,64 @@ formula another way. Reassembling the item from the
 formula works just like Crafting it from scratch; you use
 the disassembled parts as the necessary raw materials.
 TABLE 6–13: FORMULAS
- Item Level
+	 Item Level
 Formula Price
 Item Level
 Formula Price
 
 0*
 5 sp
+11
 70 gp
 
+1
 1 gp
+12
 100 gp
 
+2
 2 gp
+13
 150 gp
 
+3
 3 gp
+14
 225 gp
 
+4
 5 gp
+15
 325 gp
 
+5
 8 gp
+16
 500 gp
 
+6
 13 gp
+17
 750 gp
 
+7
 18 gp
+18
 1,200 gp
 
+8
 25 gp
+19
 2,000 gp
 
+9
 35 gp
+20
 3,500 gp
 
+10
 50 gp
-* Formulas for all 0-level common items from this chapter
+*	Formulas for all 0-level common items from this chapter
 can be purchased collectively in a basic crafter’s book.
 Items with Multiple Types
 If an item has multiple types of different levels, each
@@ -3197,8 +3770,26 @@ type has its own formula, and you need the formula for
 the specific type of item you want to Craft. For example,
 if you have a formula for a type I bag of holding but not
 EQUIPMENT
+6
+293
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 295
 ================================================================================
 
@@ -3214,53 +3805,66 @@ Bulk
 Hands
 Beverages
 
- Mug of ale
+
+	 Mug of ale
 1 cp
 L
- Keg of ale
+1
+	 Keg of ale
 2 sp
- Pot of coffee or tea
+2
+2
+	 Pot of coffee or tea
 2 cp
 L
- Bottle of wine
+1
+	 Bottle of wine
 1 sp
 L
- Bottle of fine wine
+1
+	 Bottle of fine wine
 1 gp
 L
+1
 Hireling (1 day)
 
- Unskilled
+
+	 Unskilled
 1 sp
 
- Skilled
+	 Skilled
 5 sp
 
 Lodging (1 day)
 
- Floor space
+
+	 Floor space
 3 cp
 
- Bed (for 1)
+	 Bed (for 1)
 1 sp
 
- Private room (for 2)
+	 Private room (for 2)
 8 sp
 
- Extravagant suite (for 6)
+	 Extravagant suite (for 6)
 10 gp
 
 Meals
 
- Poor meal
+
+	 Poor meal
 1 cp
 L
- Square meal
+2
+	 Square meal
 3 cp
 L
- Fine dining
+2
+	 Fine dining
 1 gp
 L
+2
 Stabling (1 day)
  2 cp
 
@@ -3269,16 +3873,17 @@ at least 1 cp
 
 Transportation (per 5 miles)
 
- Caravan
+
+	 Caravan
 3 cp
 
- Carriage
+	 Carriage
 2 sp
 
- Ferry or riverboat
+	 Ferry or riverboat
 4 cp
 
- Sailing ship
+	 Sailing ship
 6 cp
 
 Hirelings
@@ -3340,7 +3945,7 @@ Price*
 5th
 
 80 gp
-* Plus any cost required to cast the specific spell.
+*	Plus any cost required to cast the specific spell.
 Cost of Living
 Table 6–16 shows how much it costs to get by. This covers
 room and board, dues, taxes, and other fees.
@@ -3365,7 +3970,7 @@ Extravagant
 100 gp
 430 gp
 5,200 gp
-* You can attempt to Subsist using Society or Survival (page
+*	You can attempt to Subsist using Society or Survival (page
 240) for free.
 Animals
 The Prices for animals are listed both for renting and for
@@ -3399,8 +4004,8 @@ Riding dog
 6 cp per day
 4 gp
 Core Rulebook
+294
 
-================================================================================
 PAGE 296
 ================================================================================
 
@@ -3421,7 +4026,7 @@ Riding pony
 Warpony
 8 sp per day
 24 gp (level 2)
-* Might require a deposit equal to the purchase Price.
+*	Might require a deposit equal to the purchase Price.
 Barding
 You can purchase special armor for animals, called
 barding (shown on Table 6–18). All animals have a trained
@@ -3472,6 +4077,7 @@ Small or Medium
 +5
 –1
 –5 ft.
+2
 +3
 Large
 20 gp
@@ -3479,6 +4085,7 @@ Large
 +5
 –1
 –5 ft.
+4
 +3
 Heavy Barding
 Price
@@ -3494,6 +4101,7 @@ Small or Medium (level 2)
 +3
 –3
 –10 ft.
+4
 +5
 Large (level 3)
 50 gp
@@ -3501,6 +4109,7 @@ Large (level 3)
 +3
 –3
 –10 ft.
+8
 +5
 as negligible, so it can carry any number of items of 1
 Bulk. A Tiny creature doesn’t treat any items as having
@@ -3542,18 +4151,20 @@ Price and Bulk conversion for such items.
 TABLE 6–20: DIFFERENTLY SIZED ITEMS
 Creature
 
+
 Light
 Negligible
 Size
 Price
 Bulk
 Becomes
+Becomes
 Tiny
 Standard
 Half*
 —
 —
-Small or Med. Standard
+Small or Med.	 Standard
 Standard
 L
 —
@@ -3572,7 +4183,7 @@ Gargantuan
 ×8
 4 Bulk
 2 Bulk
-* An item that would have its Bulk reduced below 1 has
+*	An item that would have its Bulk reduced below 1 has
 light Bulk.
 For example, a morningstar sized for a Medium
 creature has a Price of 1 gp and 1 Bulk, so one made for a
@@ -3588,18 +4199,36 @@ Higher-level magic items that cost significantly more
 than 8 times the cost of a mundane item can use their
 listed Price regardless of size. Precious materials, however,
 have a Price based on the Bulk of the item, so multiply
-the Bulk value as described on Table 6–20, then use the
+the Bulk value as described on Table 6–20, then use the
 formula in the precious material’s entry to determine the
 item’s Price. See page 578 for more information.
 EQUIPMENT
+6
+295
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 297
 ================================================================================
 
 Core Rulebook
+296
 
-================================================================================
 PAGE 298
 ================================================================================
 
@@ -3633,13 +4262,56 @@ creatures summoned by conjuration spells have the summoned trait.
 Divination
 Divinations allow you to learn the secrets of the present, past,
 and future. They bestow good fortune, grant you the ability to
-perceive remote locations, and reveal secret knowledge.
+perceive remote locations, and reveal secret knowledge.
 Divinations often have the detection trait if they find something, the prediction
 trait if they grant you insight about what might happen in the future, the revelation
 trait if they show things as they truly are, or the scrying trait if they let you perceive
-another location.
+another location.
 Enchantment
 Enchantments affect the minds and emotions of other creatures—sometimes to
 influence and control them, and other times to bolster them to greater heights
-of courage. Enchantment spells almost always have the mental trait, and many have
+of courage. Enchantment spells almost always have the mental trait, and many have
 the emotion trait or the fear trait.
+Chapter 7: Spells
+Whether it comes in the form of mystic artifacts, mysterious creatures, or wizards weaving
+strange spells, magic brings fantasy and wonder to Pathfinder. This chapter explains how spells
+work and how spellcasters prepare and cast their spells.
+SPELLBOOKS
+Carefully maintained and
+jealously guarded, there are
+few things more valuable to a
+wizard than a spellbook. These
+repositories of magical lore are
+often trapped and warded to
+ensure that no one meddles
+with the secrets inside.
+Although spellbooks play
+a central role in a wizard’s
+daily routine, other prepared
+spellcasting classes have been
+known to use spellbooks to
+record uncommon or even rare
+spells. Such a resource allows
+a caster to treat the spell like
+any other common spell, so long
+as they can reference the book
+during their daily preparations.
+7
+297
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

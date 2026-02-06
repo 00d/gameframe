@@ -1,0 +1,126 @@
+Core Rulebook
+628
+aberration (trait) Aberrations are creatures from beyond the planes or corruptions
+of the natural order.
+ability This is a general term referring to rules that provide an exception to the basic
+rules. An ability could come from a number of sources, so “an ability that gives you
+a bonus to damage rolls” could be a feat, a spell, and so on.
+ability boost An ability boost allows you to increase one of your ability scores by 2,
+or by 1 if the ability score was already 18 or higher. When you get more than one
+ability boost at once, you must apply each to a different score. 20
+ability flaw An ability flaw decreases one of your ability scores by 2. 20, 26
+ability modifier A value added to calculations based on your ability score. 20
+ability score Each creature has six ability scores: Strength, Dexterity, Constitution,
+Intelligence, Wisdom, and Charisma. These scores represent a creature’s raw
+potential and basic attributes. 12, 19–20, 24, 26
+	 key ability (class) 67
+	 key ability (skill) 233
+	 retraining 481, 502
+	 rolling ability scores (alternative rule) 20
+abjuration (trait) Effects and magic items with this trait are associated with the
+abjuration school of magic, typically involving protection or wards. 297
+AC (Armor Class) See also Armor Class. 12, 29, 274, 447
+acid (damage type) 452
+acid (trait) Effects with this trait deal acid damage. Creatures with this trait have a
+magical connection to acid.
+Acrobatics (skill) Perform tasks requiring coordination and grace. (Dex) 240–241
+actions Discrete tasks that generate a specific effect, possibly requiring a check to
+determine the result. Actions can be used to accomplish a variety of things, such
+as moving, attacking, casting a spell, or interacting with an item or object. Most
+creatures can use up to 3 actions during their turn. 17, 461–463
+	 hostile actions 305
+	 single action ([one-action]) See also single action. 471
+Activate an Item (activity) You provide specified components to activate an alchemical
+or magical item. The number of actions this takes varies by item. 532–533
+activity A category of action that typically takes more than a single action. Activities
+on your turn take 2 actions ([two-actions]) or 3 actions ([three-actions]). Exploration and downtime
+activities can take minutes, hours, or days. 17, 461–462
+	 exploration activities 479–480
+	 in encounters 472
+adamantine (material) 578
+additive (trait) 75
+Administer First Aid [two-actions] (skill action) Stabilize a dying creature or stanch bleeding.
+(Medicine) 248
+advancement speed 509
+adventure A single narrative—including the setup, plot, and conclusion. The player
+characters play through an adventure over the course of one or more game
+sessions, and the adventure might be part of a larger campaign.
+	 using adventures (GM) 486–489
+aerial combat 478
+Affix a Talisman (activity) Activity used to attach a talisman to an item. 565
+affliction An affliction can affect a creature for a long time, over several different
+stages. The most common kinds are curses, diseases, and poisons. 457–458
+age 29
+agile (weapon trait) 282
+Aid [reaction] (basic action) Grant a bonus to an ally’s skill check or attack roll. 470
+air (trait) Effects with the air trait either manipulate or conjure air. Those that
+manipulate air have no effect in a vacuum or an area without air. Creatures with
+this trait consist primarily of air or have a magical connection to that element.
+alchemical (trait) Alchemical items are powered by reactions of alchemical reagents.
+Alchemical items aren’t magical and don’t radiate a magical aura. 543–554
+alchemist (class) 70–81
+	 alchemical items 543–554
+	 multiclass archetype 220
+Glossary and Index
+This appendix contains page references for essential rules of the game, full definitions for
+most traits, and partial definitions and calculations for many other rules.
+alchemist (trait)  This indicates abilities from the alchemist class.
+alignment Alignment represents a creature’s basic moral and ethical attitude on a
+law-to-chaos axis and a good-to-evil axis. 12, 28–29
+alignment (damage type) An umbrella category of damage including chaotic, evil,
+good, and lawful damage. 452
+ally An ally is someone on your side. You are not counted as your own ally. 456
+ammunition 280, 559–561
+anathema When a character violates restrictions on their behavior imposed by
+the source of their power, they can lose related abilities. 86–87, 106, 118, 130
+ancestry A broad family of people that a creature belongs to. Each player character
+chooses an ancestry as the first step of character creation. 12, 22, 24–25, 32–59
+angel (trait) This family of celestials is native to the plane of Nirvana. Most angels
+are neutral good, have darkvision, and have a weakness to evil damage.
+animal (trait) An animal is a creature with a relatively low intelligence. It typically
+doesn’t have an Intelligence ability modifier over –4, can’t speak languages, and
+can’t be trained in Intelligence-based skills.
+animal companion 214–217
+apex (trait) When you Invest an Item that has the apex trait, it improves one of
+your ability scores, either increasing it by 2 or to a total of 18, whichever grants
+the higher score. This gives you all the benefits of the new ability score until
+the investiture ends. An apex item grants this benefit only the first time it’s
+invested within a 24-hour period, and you can benefit from only one apex item
+at a time. If you attempt to invest an apex item when you already have one
+invested, you don’t gain the ability score increase, though you do gain any other
+effects of Investing the Item. 603–604
+aquatic combat 478
+Arcana (skill) Know things about arcane magic and creatures. (Int) 241
+arcane (trait) This magic comes from the arcane tradition, which is built on logic
+and rationality. Anything with this trait is magical. 299
+	 arcane spell list 307–309
+archetype A special additional theme for your character that you can choose using
+your class feats. 219–231
+archetype (trait) This feat belongs to an archetype. 219
+archon (trait) Members of this family of celestials are the protectors of Heaven and
+are lawful good. They have darkvision and a weakness to evil damage.
+area A specified shape and size of an effect. 304, 456–457
+armor 274–276
+	 magical and special armor 555–558
+	 runes 580–583
+Armor Class (AC) This score represents how hard it is to hit and damage a creature.
+It typically serves as the DC to hit a creature with an attack. AC = 10 + Dex
+modifier (up to your armor’s Dex Cap) + proficiency bonus + armor’s item bonus
+to AC + other bonuses + penalties. 12, 29, 274, 447
+Arrest a Fall [reaction] (specialty basic action) Use Acrobatics to slow your fall while
+flying. 472
+astral (trait) Astral creatures are native of the Astral Plane. They can survive the
+basic environmental effects of the Astral Plane.
+Athletics (skill) Perform deeds of physical prowess. (Str) 241–243
+attached (weapon trait) 282
+attack When a creature tries to harm another creature, it makes a Strike or uses
+another attack action. Most attacks require an attack roll and target Armor
+Class. Melee attack roll modifier = Str modifier (or optionally Dex modifier for a
+finesse weapon) + proficiency bonus + other bonuses + penalties; Ranged attack
+roll modifier = Dex modifier + proficiency bonus + other bonuses + penalties.
+27, 278, 446–447
+	 Aid (reaction used to grant a bonus to an ally’s attack roll) 470
+	 critical hits 445–446, 451, 471
+	 multiple attack penalty (–5 on your second attack, –10 on further attacks) 446
+	 nonlethal attack 453
+	 spell attack roll 305, 447–448

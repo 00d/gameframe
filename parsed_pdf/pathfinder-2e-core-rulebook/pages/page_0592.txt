@@ -1,0 +1,161 @@
+Success The creature is unaffected.
+Failure The snare marks the creature.
+Critical Failure The snare marks the creature, and the creature
+is blinded until the end of its next turn.
+OMNIDIRECTIONAL SPEAR SNARE
+SNARE 16
+CONSUMABLE
+ MECHANICAL
+ SNARE
+ TRAP
+Price 1,500 gp
+As soon as a creature enters the snare’s square, the snare
+unleashes wickedly powerful spears at the creature from all
+directions, dealing 19d8 piercing damage (DC 37 basic Reflex).
+SCYTHING BLADE SNARE
+SNARE 12
+CONSUMABLE
+ MECHANICAL
+ SNARE
+ TRAP
+Price 320 gp
+This snare sends a powerful series of scything blades to slice
+through a creature entering the snare’s square, dealing 14d8
+slashing damage (DC 31 basic Reflex).
+SIGNALING SNARE
+SNARE 1
+CONSUMABLE
+ MECHANICAL
+ SNARE
+ TRAP
+Price 3 gp
+A subtle snare used in hunting or tracking, a signaling snare
+often consists of carefully prepared earth, piled sand or
+stones, specific arrangements of vegetation, and so forth.
+When a creature enters a square of a signaling snare,
+nothing happens to the creature, but instead it causes a
+small, unobtrusive disruption to the terrain that allows the
+snare’s creator or another creature who knows what to look
+for to determine whether a creature of the appropriate size
+entered the square.
+SPIKE SNARE
+SNARE 1
+CONSUMABLE
+ MECHANICAL
+ SNARE
+ TRAP
+Price 3 gp
+This basic snare consists of hidden spikes that rely on a
+creature’s momentum to lacerate or potentially impale it as it
+enters the snare’s square, dealing 2d8 piercing damage. The
+creature must attempt a DC 17 basic Reflex saving throw.
+STALKER BANE SNARE
+SNARE 4
+UNCOMMON
+ CONSUMABLE
+ MECHANICAL
+ SNARE
+ TRAP
+Price 15 gp
+This snare explodes in a burst of cloying powder that can cling
+to a creature stepping into its square. A creature that enters
+the square of a stalker bane snare must attempt a DC  20
+Reflex save.
+Critical Success The target is unaffected.
+Success Powder sticks to the target, causing it to leave behind
+telltale footprints. Being invisible makes the target hidden,
+rather than undetected, to creatures that could see it if it
+weren’t invisible.
+Failure Powder clumps on the target, constantly flaking away.
+Being invisible makes the target concealed, rather than
+hidden or undetected, to creatures that could see it if it
+weren’t invisible.
+Critical Failure As failure, and the creature is blinded until the
+end of its next turn.
+STRIKING SNARE
+SNARE 8
+CONSUMABLE
+ MECHANICAL
+ SNARE
+ TRAP
+Price 75 gp
+You affix a trip line or other trigger to a group of either stones
+or wooden stakes to strike a creature that enters the snare’s
+square. The creature must attempt a DC 26 basic Reflex saving
+throw. If you choose stones, the snare deals 9d8 bludgeoning
+damage; if you choose spikes, it deals 9d8 piercing damage.
+STUNNING SNARE
+SNARE 12
+CONSUMABLE
+ MECHANICAL
+ SNARE
+ TRAP
+Price 320 gp
+You rig a snare to disorient a creature with a quick bash,
+leaving it with little ability to defend itself. The trap deals 6d6
+bludgeoning damage to the first creature to enter its square;
+that creature must attempt a DC 31 Reflex save.
+Critical Success The creature is unaffected.
+Success The creature takes half damage and is flat-footed for 1
+round and stunned 1.
+Failure The creature takes full damage and is flat-footed for 1
+round and stunned 2.
+Critical Failure The creature takes double damage and is
+flat-footed for 1 minute and stunned 4.
+TRIP SNARE
+SNARE 4
+CONSUMABLE
+ MECHANICAL
+ SNARE
+ TRAP
+Price 15 gp
+You set a cunning wire to trip a creature. A Medium or smaller
+creature that enters this snare’s square must attempt a DC 20
+Reflex save.
+If you want to create a trip snare to trip a larger creature,
+you must create a group of contiguous snares of a length equal
+to the edge of that larger creature’s space, and the creature
+must be moving such that it moves into the full set of snares.
+For example, three trip snares in a 15-foot-line can trip a Huge
+creature coming down a corridor into the line of snares.
+Critical Success The creature is unaffected.
+Success The creature is flat-footed until the start of its next turn.
+Failure The creature falls prone.
+Critical Failure The creature falls prone and takes 1d6
+bludgeoning damage.
+WARNING SNARE
+SNARE 4
+AUDITORY
+ CONSUMABLE
+ MECHANICAL
+ SNARE
+ TRAP
+Price 15 gp
+Using materials specific to the area, you connect a
+sound‑making component to a trip wire or a pressure plate.
+This snare is like an alarm snare, but its subtle sound blends
+into ambient noise. You can detect this sound as long as you’re
+within 1,000 feet of the snare and aren’t prevented from
+hearing it. Other creatures in that area who are searching
+might notice the sound if their Perception check result meets
+or exceeds your Craft DC.
+591
+11
+Crafting & Treasure
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

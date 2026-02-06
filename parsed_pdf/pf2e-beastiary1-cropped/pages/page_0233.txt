@@ -1,0 +1,97 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669085
+4425242
+Bestiary
+232
+MANTICORE TREASURE
+A manticore enjoys taking plunder
+from the corpses of its prey as
+trophies that ﬂatter its vanity and
+testify to its strength. It has little
+interest in money, but sometimes
+accepts gold and jewels as tribute.
+Manticore
+The manticore is a monstrous amalgamation of lion, dragon, and human with a
+penchant for feasting on human ﬂesh. Its distinctive tail is festooned with large
+quills like those of a porcupine, which the manticore ﬂings at prey by whipping
+its tail like a sling. These deadly spikes give the manticore the power to slaughter
+even well-armed warriors from the safety of the sky.
+Although the anthropomorphic face of the manticore suggests a keen intellect,
+most creatures of its kind are simple-minded killers. They can be clever liars,
+however, and their voices have a strangely musical sound that has lured many
+unwitting travelers into an ambush. A manticore discovered by uneducated
+humanoids (especially those who are both lawful and evil) can sometimes become
+the center of adoration and even worship; a manticore in this situation swiftly
+gives in to its laziness and allows its acolytes to bring it tribute in the form of
+food and treasure, feasting upon its own followers when offerings become scarce.
+Stronger humanoids who encounter a manticore can cow it through intimidation
+and violence, sometimes even forcing it into service as a mount. As long as the
+manticore is well fed with human ﬂesh and its master leads it to victory, a manticore
+mount can prove surprisingly loyal.
+MANTICORE
+CREATURE 6
+LE
+LARGE
+BEAST
+Perception +14; darkvision, scent (imprecise) 30 feet
+Languages Common
+Skills Acrobatics +10, Athletics +15, Intimidation +11,
+Survival +12
+Str +5, Dex +2, Con +4, Int –2, Wis +2, Cha –1
+AC 23; Fort +16, Ref +12, Will +12
+HP 90
+Speed 25 feet, ﬂy 40 feet
+Melee Ȱɵ jaws +17, Damage 2d8+8 piercing
+Melee Ȱɵ claw +17 (agile), Damage
+2d6+8 slashing
+Ranged Ȱɵ
+spike
++14
+(range
+increment 40 feet), Damage 1d10+5
+piercing
+Spike Volley Ȱɵ The manticore
+ﬂings up to two spikes from its
+tail, targeting either two diﬀerent
+creatures or a single creature. If
+the manticore targets two diﬀerent
+creatures, these creatures must be
+within 20 feet of one another, and
+the manticore makes a separate
+Strike against each; this counts as
+only one Strike for the manticore’s
+multiple attack penalty, and the
+penalty doesn’t increase until after
+both attacks. If the manticore ﬁres
+both spikes at the same creature, it
+makes a single Strike. If the attack hits, it
+deals the damage of a single spike, but the target
+is pinned in place, rendering it immobilized. A
+creature that succeeds at a DC 23 Athletics
+check (attempted as a single action) can
+pull the spike free.
+A manticore can hurl no more than 12
+spikes in 24 hours.
+MANTICORE LOCATIONS
+Manticores prefer lonely places
+in the wilderness far from
+humanoids, but they adapt
+easily to nearly any terrain.
+Manticores have been spotted in
+jungles, forests, deserts, and
+mountains.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669085
+4425242

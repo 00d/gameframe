@@ -1,0 +1,74 @@
+EXPLORERS
+The world is a wide, open place fraught with peril and adventure. Explorers use
+their knowledge of nature and survival skills to see every corner of the land.
+TORCHBEARER
+Torchbearers carry a light sources for seasoned explorers and serve as apprentices.
+TORCHBEARER
+CREATURE 0
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +5
+Languages Common
+Skills Acrobatics +5, Architecture Lore +2, Athletics +4, Stealth +5, Survival +3
+Str +2, Dex +3, Con +1, Int +0, Wis +1, Cha +1
+Items climbing kit, dagger, hand crossbow (20 bolts), tindertwig (5), torch (4)
+AC 15; Fort +5, Ref +7, Will +5
+HP 15
+Speed 25 feet
+Melee [one-action] torch +7, Damage 1d6+2 bludgeoning plus 1 fire
+Melee [one-action] dagger +5 (agile, versatile S), Damage 1d4+2 piercing
+Ranged [one-action] hand crossbow +5 (range increment 60 feet, reload 1), Damage 1d6 piercing
+Torch Combatant A torchbearer is adept at attacking with torches and deals 1 persistent fire
+damage when they critically hit with a torch.
+CHRONICLER
+Exploration means very little if no account of the details exist. Members of
+adventuring bands cherish chroniclers who record tales of their deeds.
+CHRONICLER
+CREATURE 3
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Map Lore +17, Nature +14, Scribing Lore +17, Society +12, Survival +14
+Str +2, Dex +2, Con +1, Int +4, Wis +4, Cha +0
+Items crossbow (20 bolts), dagger, journal, leather armor, maps, scroll of acid
+arrow, scroll of heal, staff
+AC 18; Fort +8, Ref +9, Will +9
+HP 45
+Live to Tell the Tale  Frequency once per day; Trigger The chronicler is dying;
+Effect The chronicler reduces their dying condition by 1. If the chronicler is no longer
+dying, they remain unconscious for at least 1 hour or until they regain 1 Hit Point.
+Speed 25 feet
+Melee [one-action] dagger +7 (agile, thrown 10 feet, versatile S), Damage 1d4+2
+piercing
+Melee [one-action] staff +7 (two-hand d8), Damage 1d4+2 bludgeoning
+Ranged [one-action] crossbow +7 (range increment 120 feet, reload 1), Damage
+1d8 piercing
+Primal Prepared Spells DC 20, attack +12; 2nd entangle, flaming
+sphere; 1st fleet step, longstrider, pass without trace; Cantrips
+(2nd) know direction, light, ray of frost, sigil, tanglefoot
+Scroll Mastery The chronicler can activate any scroll of a
+2nd-level spell or lower as if they had the spell on their spell list,
+regardless of its magical tradition.
+GUIDE
+Guides bring travelers, tourists, and adventurers into the wondrous
+natural world, using their expertise to avoid deadly monsters and gruesome hazards.
+TIPS FROM THE GUIDE
+You might allow PCs who Follow
+the Expert when led by a guide to
+continue to add their level to the
+skill check for some time afterward:
+1 hour if the guide is an expert,
+1 day for master, or 1 week for
+legendary. (The guide here has
+expert Athletics, Scouting Lore, and
+Survival.) A character can have this
+benefit for only one skill at a time.
+Gamemastery Guide
+216
+216
+CHRONICLER

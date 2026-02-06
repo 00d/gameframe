@@ -1,0 +1,129 @@
+POTION OF WATER BREATHING
+ITEM 3
+CONSUMABLE
+ MAGICAL
+ POTION
+ TRANSMUTATION
+Price 11 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+This filmy, gray potion smells of an old fish midden and tastes
+even worse. After drinking this potion, you gain the effects of
+a 2nd-level water breathing spell for 1 hour.
+SHRINKING POTION
+ITEM 4+
+CONSUMABLE
+ MAGICAL
+ POTION
+ TRANSMUTATION
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact; Onset 1 minute
+This fungus-flavored potion conveys the effects of the shrink
+spell to make you and all your gear smaller. After the onset,
+you remain small for 10 minutes.
+Type standard; Level 4; Price 15 gp
+Type greater; Level 8; Price 90 gp
+This potion has no onset, lasts for 1 hour, and grants the
+effects of a 4th-level shrink spell. In addition, you gain a +2
+item bonus to Stealth checks while shrunken.
+SERUM OF SEX SHIFT
+ITEM 7
+CONSUMABLE
+ MAGICAL
+ POTION
+ TRANSMUTATION
+Price 60 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+Upon drinking this potion, your biology instantly transforms to
+take on a set of sexual characteristics of your choice, changing
+your appearance and physiology accordingly. You have mild
+control over the details of this change, but you retain a strong
+“family resemblance” to your former appearance.
+The magic functions instantaneously and can’t be
+counteracted. Your new anatomy is as healthy and functional
+as your previous body’s, potentially allowing you to procreate
+(depending on your ancestry’s biology). Drinking a subsequent
+serum of sex shift allows you to either revert back to your
+original form or adopt other sexual characteristics, as you
+choose. The elixir has no effect if you are pregnant or from
+an ancestry with no sexual differentiation. Most ancestries
+have a wide spectrum of sexual differentiation, some common,
+others more rare.
+TRUESIGHT POTION 
+ITEM 16
+CONSUMABLE
+ DIVINATION
+ MAGICAL
+ POTION
+Price 1,500 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+Upon drinking this clear, refreshing potion, you can see things
+as they actually are. You gain the benefits of a 7th-level true
+seeing spell that has a counteract modifier of +25.
+TRUTH POTION
+ITEM 6
+UNCOMMON
+ CONSUMABLE
+ ENCHANTMENT
+ MAGICAL
+ MENTAL
+ POTION
+Price 46 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+For 10 minutes after drinking this astringent potion, you
+can’t intentionally lie and may be compelled to tell the truth.
+Upon drinking the potion, attempt a DC 19 Will save. You can
+voluntarily fail or critically fail.
+Success The potion does not affect you.
+Failure When you speak, you must tell the truth.
+Critical Failure As failure, and when someone asks you a
+question, you must attempt another DC 19 Will saving
+throw. If you fail this saving throw, you must answer the
+question truthfully if you are able to do so; if you succeed,
+you are temporarily immune to further attempts to ask the
+same question within the potion’s duration.
+Scrolls
+A scroll contains a single spell that you can cast without
+having to expend a spell slot. A scroll can be Crafted to
+contain nearly any spell, so the types of scrolls available
+are limited only by the number of spells in the game. The
+exceptions are cantrips, focus spells, and rituals, none of
+which can be put on scrolls. The spell on a scroll can
+be cast only once, and the scroll is destroyed as part of
+the casting. The spell on the scroll is cast at a particular
+spell level, as determined by the scroll. For instance, a
+scroll of magic missile (1st level) can be used to cast the
+1st-level version of magic missile, but not a magic missile
+heightened to 2nd level. If no level is listed, the scroll can
+be used to cast the spell at its lowest level.
+If you find a scroll, you can try to figure out what spell
+it contains. If the spell is a common spell from your spell
+list or a spell you know, you can spend a single Recall
+Knowledge action and automatically succeed at identifying
+the scroll’s spell. If it’s not, you must use Identify Magic
+(page 238) to learn what spell the scroll holds.
+Casting a Spell from a Scroll
+Casting a Spell from a scroll requires holding the scroll
+in one hand and activating it with a Cast a Spell activity
+using the normal number of actions for that spell.
+To Cast a Spell from a scroll, the spell must appear on
+your spell list. Because you’re the one Casting the Spell,
+use your spell attack roll and spell DC. The spell also
+gains the appropriate trait for your tradition (arcane,
+divine, occult, or primal).
+Any physical material components and costs are
+provided when a scroll is created, so you don’t need to
+provide them when Casting a Spell from a scroll. You
+must replace any required material component for that
+spell with a somatic component. If the spell requires a
+focus, you must have that focus to Cast the Spell from
+a scroll.
+Scroll Statistics
+All scrolls have the same base statistics unless noted
+otherwise. A scroll has light Bulk, and it must be held in
+one hand to be activated.
+Core Rulebook
+564

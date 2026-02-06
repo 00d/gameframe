@@ -1,0 +1,122 @@
+Heightened (+1) The number of gallons of water you can target
+increases by 1, or the number of pounds of food you can target
+increases by 5.
+ENLARGE
+SPELL 2
+POLYMORPH
+TRANSMUTATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 willing creature
+Duration 5 minutes
+Bolstered by magical power, the target grows to size Large.
+Its equipment grows with it but returns to natural size if
+removed. The creature is clumsy 1. Its reach increases by 5
+feet (or by 10 feet if it started out Tiny), and it gains a +2
+status bonus to melee damage. This spell has no effect on a
+Large or larger creature.
+Heightened (4th) The creature instead grows to size Huge.
+The status bonus to melee damage is +4 and the creature’s
+reach increases by 10 feet (or 15 feet if the creature started
+out Tiny). The spell has no effect on a Huge or larger creature.
+Heightened (6th) As level 4, but you can target up to 10 creatures.
+ENTANGLE
+SPELL 2
+PLANT
+TRANSMUTATION
+Traditions primal
+Cast [two-actions] somatic, verbal
+Range 120 feet; Area all squares in a 20-foot-radius burst that
+contain plants
+Duration 1 minute
+Plants in the area entangle creatures. The area counts as difficult
+terrain. Each round that a creature starts its turn in the area,
+it must attempt a Reflex save. On a failure, it takes a –10-foot
+circumstance penalty to its Speeds until it leaves the area, and
+on a critical failure, it is also immobilized for 1 round. Creatures
+can attempt to Escape at entangle’s DC to remove these effects.
+ENTHRALL
+SPELL 3
+AUDITORY
+ENCHANTMENT
+EMOTION
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 120 feet; Targets all creatures in range
+Saving Throw Will; Duration sustained
+Your words fascinate your targets. You speak or sing without
+interruption throughout the casting and duration. Targets
+who notice your speech or song might give their undivided
+attention; each target must attempt a Will save. The GM might
+grant a circumstance bonus (to a maximum of +4) if the target
+is of an opposing religion, ancestry, or political leaning, or is
+otherwise unlikely to agree with what you’re saying.
+Each creature that comes within range has to attempt a
+save when you Sustain the Spell. If you’re speaking, enthrall
+gains the linguistic trait.
+Critical Success The target is unaffected and notices that you
+tried to use magic.
+Success The target needn’t pay attention but doesn’t notice
+you tried to use magic (it might notice others are enthralled).
+Failure The target is fascinated with you. It can attempt another
+Will save if it witnesses actions or speech with which it
+disagrees. If it succeeds, it’s no longer fascinated and is
+temporarily immune for 1 hour. If the target is subject to a
+hostile act, or if another creature succeeds at a Diplomacy or
+Intimidation check against it, the fascination ends immediately.
+Critical Failure As failure, but the target can’t attempt a save
+to end the fascination if it disagrees with you.
+ETHEREAL JAUNT
+SPELL 7
+UNCOMMON
+CONJURATION
+TELEPORTATION
+Traditions divine, occult
+Cast [two-actions] somatic, verbal
+Duration sustained up to 1 minute
+You travel to the Ethereal Plane, which overlaps the Material
+Plane. Material Plane creatures can’t see you, and you can
+move through things on the Material Plane. You move at half
+your normal Speeds, but can move in any direction (including
+up and down).
+You can see onto the Material Plane within a radius of 60
+feet; it is gray, hazy, and concealed from you. You can’t affect
+the Material Plane, and you can’t be affected by the Material
+Plane except by force effects and abjurations originating there.
+When the spell ends, you return to the Material Plane. If
+you’re in the air, you fall (unless you can fly), and if you’re
+inside an object, you’re pushed into the nearest open space
+and take 1d6 damage per 5 feet you were pushed.
+If you cast this spell when not on the Material Plane, it is lost.
+Heightened (9th) You can target up to five additional willing
+creatures at a range of 30 feet. The duration is up to 10 minutes.
+FABRICATED TRUTH
+SPELL 10
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+Traditions occult
+Cast [three-actions] material, somatic, verbal
+Range 100 feet; Targets up to 5 creatures
+Saving Throw Will; Duration varies
+Choose a single statement you want the targets to believe. The
+fact could be narrow, such as “a dragon is circling overhead
+and wants to kill me”; wide-reaching, such as “all humanoids
+are disguised abominations”; or conceptual, such as “if I don’t
+live a kinder life, I’ll be punished in the afterlife.” The targets’
+experiences color how they react to this “truth” and how
+their behavior changes. If the statement changes what they
+perceive, they treat the change as a sudden revelation.
+The effect of the spell depends on the targets’ Will saves. If
+a target is already subject to fabricated truth, your spell tries
+to counteract it. If the counteract check fails, the outcome of
+the target’s saving throw can’t be worse than a success.
+Critical Success The target doesn’t believe the statement, and
+it knows you tried to trick it.
+Success The target doesn’t believe the statement or realize
+you tried to trick it.
+Failure The target believes the statement for a duration of 1 week.
+Critical Failure The target believes the statement with
+unlimited duration.
+Core Rulebook
+336

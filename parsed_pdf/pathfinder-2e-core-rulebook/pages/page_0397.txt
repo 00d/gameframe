@@ -1,0 +1,142 @@
+You learn a single enigmatic word connected to the creature’s
+fate in that time frame. Fate is notoriously inscrutable, and the
+word isn’t necessarily meant to be taken at face value, so the
+meaning is often clear only in hindsight. The GM rolls a secret
+DC 6 flat check. If the creature’s fate is too uncertain, or on a
+failed flat check, the spell yields the word “inconclusive.” Either
+way, the creature is then temporarily immune for 24 hours.
+REBUKE DEATH
+FOCUS 4
+UNCOMMON
+CLERIC
+HEALING
+NECROMANCY
+POSITIVE
+Domain healing
+Cast [one-action] to [three-actions] (somatic)
+Area 20-foot emanation; Targets 1 living creature per action
+spent to cast this spell
+You snatch creatures from the jaws of death. You can spend 1
+to 3 actions Casting this Spell, and you can target a number of
+creatures equal to the actions spent. Each target regains 3d6 Hit
+Points. If the target had the dying condition, coming back from
+dying due to this healing doesn’t increase its wounded condition.
+Heightened (+1) Increase the healing by 1d6.
+RETRIBUTIVE PAIN
+FOCUS 4
+UNCOMMON
+ABJURATION
+CLERIC
+MENTAL
+NONLETHAL
+Domain pain
+Cast [reaction] somatic
+Trigger A creature in range damages you.
+Range 30 feet; Targets the triggering creature
+Saving Throw basic Fortitude
+You vengefully reflect your pain upon your tormentor. The
+target takes mental damage equal to half the amount it dealt
+to you when it triggered the spell.
+SAFEGUARD SECRET
+FOCUS 4
+UNCOMMON
+ABJURATION
+CLERIC
+MENTAL
+Domain secrecy
+Cast 1 minute (somatic, verbal)
+Range 10 feet; Targets you and any number of willing allies
+Duration 1 hour
+You ensure a secret remains safe from prying spies. Choose one
+piece of information that at least some of the targets know;
+you can target a creature only if it remains within range for the
+full minute during which you Cast the Spell. The spell grants
+those who know the piece of knowledge you have chosen a
++4 status bonus to skill checks (typically Deception checks)
+to conceal this knowledge and to saving throws against spells
+that specifically attempt to obtain this knowledge from them
+and effects that would force them to reveal it.
+If you Cast this Spell again, any previous safeguard secret
+you had cast ends.
+SAVOR THE STING
+FOCUS 1
+UNCOMMON
+ATTACK
+CLERIC
+ENCHANTMENT
+MENTAL
+NONLETHAL
+Domain pain
+Cast [one-action] somatic
+Range touch; Targets 1 creature
+Saving Throw Will
+You inflict pain upon the target and revel in their anguish. This
+deals 1d4 mental damage and 1d4 persistent mental damage;
+the target must attempt a Will save. As long as the target is
+taking persistent damage from this spell, you gain a +1 status
+bonus to attack rolls and skill checks against the target.
+Critical Success The target is unaffected.
+Success The target takes half damage and no persistent damage.
+Failure The target takes full initial and persistent damage.
+Critical Failure The target takes double initial and
+persistent damage.
+Heightened (+1) The initial damage increases by 1d4 and the
+persistent damage increases by 1d4.
+SCHOLARLY RECOLLECTION
+FOCUS 1
+UNCOMMON
+CLERIC
+DIVINATION
+FORTUNE
+Domain knowledge
+Cast [reaction] verbal
+Trigger You attempt a Perception check to Seek, or you
+attempt a skill check to Recall Knowledge with a skill you’re
+trained in.
+Speaking a short prayer as you gather your thoughts, you’re
+blessed to find that your deity gave you just the right bit of
+information for your situation. Roll the triggering check twice
+and use the better result.
+SHARED NIGHTMARE
+FOCUS 4
+UNCOMMON
+CLERIC
+EMOTION
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+Domain nightmares
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration varies
+Merging minds with the target, you swap disorienting visions
+from one another’s nightmares. One of you will become
+confused, but which it’ll be depends on the target’s Will save.
+Critical Success You are confused for 1 round.
+Success At the start of your next turn, you spend your first
+action with the confused condition, then act normally.
+Failure As success, but the target is affected instead of you,
+spending its first action each turn confused. The duration
+is 1 minute.
+Critical Failure The target is confused for 1 minute.
+SOOTHING WORDS
+FOCUS 1
+UNCOMMON
+CLERIC
+EMOTION
+ENCHANTMENT
+MENTAL
+Domain family
+Cast [one-action] verbal
+Range 30 feet; Targets 1 ally
+Duration 1 round
+You attempt to calm the target by uttering soothing words
+in a calm and even tone. The target gains a +1 status bonus
+to Will saving throws. This bonus increases to +2 against
+emotion effects.
+In addition, when you Cast this Spell, you can attempt to
+counteract one emotion effect on the target.
+Heightened (5th) The bonus to saves increases to +2, or +3
+against emotion effects.
+Core Rulebook
+396

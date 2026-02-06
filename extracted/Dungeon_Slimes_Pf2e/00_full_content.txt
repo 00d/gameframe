@@ -7,14 +7,15 @@ PAGE 1
 ================================================================================
 
 Annomicon
-D U N G E O N S L I M E
+D U N G E O N  S L I M E
 The common Dungeon slime is typically formed
 from the residue of magical creatures or abandoned
 magical alchemical ingredients.
 They do not possess any special abilities, but their
 oobleck-like form is quite bouncy. It is rare to see
-even the lowliest of adventurers fall to such a simple creature.
-C A V E S L I M E
+even the lowliest of adventurers fall to such a sim-
+ple creature.
+C A V E  S L I M E
 Cave slimes are typically more bottom-heavy and
 are created through the interaction of magical
 natural flora and liquids in isolated locations. Over
@@ -24,7 +25,7 @@ a distinct form. These slimes tend to become more
 magic-hungry as they develop and seek to consume
 magical grass or rocks. Due to their nature, they
 often form in caves, hence their name.
-C A V E S L I M E creature 2
+C A V E  S L I M E                                       creature 2
 Hit Points 44
 Speed 30ft. 5 burrow.
 Perception +12, Tremorsense 30 feet, no vision.
@@ -33,7 +34,7 @@ Str +2, Dex +1, Con +4, Int -4, Wis -4, Cha -3
 AC 14; Fort +12, Ref +8, Will +6
 Immunities Critical hits, Mental, Precision, Unconscious,
 Visual, Blinded.
-Melee Smack [1 ACTION] +7, One target, Damage 1d8+4
+Melee Smack [1 ACTION]  +7, One target, Damage 1d8+4
 bludgeoning.
 Amorphous The slime can use the squeeze action as part
 of its move action and always gets one degree higher of
@@ -42,7 +43,7 @@ Coldbolt [2 ACTION] The Cave slimes can conjure a bolt
 of arcane energy at a target within 45ft by concentrating
 its innately magical form. A creature must succeed a DC
 10 Reflex saving throw or take 3d10 cold damage. (6/Day).
-D U N G E O N S L I M E creature 1
+D U N G E O N  S L I M E                        creature 1
 Hit Points 24
 Speed 25ft.
 Perception +9, Tremorsense 30 feet, no vision.
@@ -51,9 +52,9 @@ Str +1, Dex +2, Con +3, Int -4, Wis -4, Cha -3
 AC 12; Fort +2, Ref +12, Will +4
 Immunities Critical hits, Mental, Precision, Unconscious,
 Visual, Blinded.
-Melee Slam [1 ACTION] +6, One target, Damage 1d8+4
+Melee Slam [1 ACTION]  +6, One target, Damage 1d8+4
 bludgeoning.
-Bouncey [REACTION] The Dungeon Slime enjoys
+Bouncey [REACTION]  The Dungeon Slime enjoys
 bouncing around raipdly, allowing it to jump away when
 it senses danger, as reaction to an incoming melee attack
 roll the slime gains temporariy a +2 Status AC bonus for
@@ -63,15 +64,18 @@ Amorphous The slime can use the squeeze action as part
 of its move action and always gets one degree higher of
 successes.
 
+
 T A C T I C S
 Cave Slimes do not understand what is a living
-creature and will not fear approaching interlopers.
+creature and will not fear approaching interlop-
+ers.
 When it sees a creature from a distance it will
 start peppering it with Coldbolt off the bat, to
 “prepare” its meal.
 The Cave slimes detects softness, and will smack
 a creature wearing lighter armor due to its softer
 shell.
+
 
 T A C T I C S
 Dungeon Slimes are wary of other creatures and
@@ -82,14 +86,13 @@ the closest enemy.
 N SMALL OOZE MINDLESS
 UNCOMMON N SMALL OOZE MINDLESS
 
-================================================================================
 PAGE 2
 ================================================================================
 
 Annomicon
 UNCOMMON N SMALL OOZE MINDLESS
 RARE N SMALL OOZE MINDLESS
-A C I D I C S L I M E
+A C I D I C  S L I M E
 Acidic slimes are relatively uncommon compared
 to other types. They are typically created by the
 magical properties of creatures and items that have
@@ -99,14 +102,15 @@ acidic slime.
 Usually, only strong and chaotic magics can endure
 in acidic liquids, imparting a chaotic and aggressive
 nature to the slime formed by such magic.
-P O I S O N S L I M E
-Poison slimes are exceedingly rare, and their creation involves very specific methods. Often, they
+P O I S O N  S L I M E
+Poison slimes are exceedingly rare, and their cre-
+ation involves very specific methods. Often, they
 originate from other slime types that have perished
 and become filled with poison gas or natural fumes.
 Another common method is the deliberate creation
 by an alchemist who specializes in poisons or in
 toxic underground caves and dungeons.
-A C I D I C S L I M E creature 3
+A C I D I C  S L I M E                                creature 3
 Hit Points 44
 Speed 30ft. 5 burrow.
 Perception +12, Tremorsense 30 feet, no vision.
@@ -115,7 +119,7 @@ Str +2, Dex +1, Con +4, Int -4, Wis -4, Cha -3
 AC 14; Fort +16, Ref +9, Will +6
 Immunities Critical hits, Mental, Precision, Unconscious,
 Visual, Blinded.
-Melee Chomp! [1 ACTION] +7, One target, Damage 1d8+4
+Melee Chomp! [1 ACTION]  +7, One target, Damage 1d8+4
 Piercing, and 2d6 Acid Splash damage.
 Acid Slobber [2 ACTIONS] the Acidic slime targets three
 creatures, spitting acid at them dealing 2d6 Acid splash
@@ -128,7 +132,7 @@ puddle of acid wherever it was that stays for 1 round, a
 creature stepping into it takes 2d6 acid damage.
 whenever the Acidic Slime moves through it,
 it regains 1 health point.
-P O I S O N S L I M E creature 4
+P O I S O N  S L I M E                               creature 4
 Hit Points 33
 Speed 30ft. 5 burrow.
 Perception +11, Tremorsense 30 feet, no vision.
@@ -137,7 +141,7 @@ Str +1, Dex +5, Con +2, Int -4, Wis -4, Cha -3
 AC 16; Fort +4, Ref +19, Will +6
 Immunities Critical hits, Mental, Precision, Unconscious,
 Visual, Blinded.
-Ranged Fume +8, ,40ft,One target,
+Ranged Fume  +8, ,40ft,One target,
 Damage 2d8+4 Poison, and 1d6 Poison Splash damage.
 Amorphight The slime can use the squeeze action as part
 of its move action and always gets one degree higher of
@@ -145,7 +149,8 @@ successes, it also slowfalls, 10ft a round.
 Lighter than Air [FREE ACTION] The Poison Slime can
  jump into the air within 40ft, and can stick to walls
 T A C T I C S
-The Acidic slimes are aggressive, and use Multiattack every turn, and prefer attacking the biggest
+The Acidic slimes are aggressive, and use Multiat-
+tack every turn, and prefer attacking the biggest
 target in the area.
 It will run in circles before attacking to create
 Acidic puddles in the area.

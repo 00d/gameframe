@@ -1,0 +1,137 @@
+DRUGS
+Drugs offer short-term benefits with harmful side effects
+and long-term consequences. These short-term benefits,
+such as euphoria, draw many to drugs, but addiction
+keeps users hooked long after their first dose. A character
+can voluntarily fail their initial save against a drug, but for
+each dose they consume, they must attempt a saving throw
+against addiction, a disease that represents cravings and
+withdrawal. Addiction is unique to each drug, so a character
+can be affected by multiple instances of addiction at once.
+Certain drugs alter how addiction works for that
+drug, adding the virulent trait to the addiction, limiting
+the maximum stage a character can reach, or adding
+additional stages beyond those listed in the base affliction.
+ADDICTION
+DISEASE, LEVEL VARIES
+Track the maximum stage you reach with each drug’s addiction.
+This maximum stage is separate from your current addiction
+stage for the drug. The maximum stage can’t be reduced, even
+if you fully remove the disease. When you take the drug, two
+things happen: you attempt a saving throw against addiction,
+and you suppress the effects of addiction for 1 day. Failing
+a save against addiction caused by taking the drug causes
+you to go to 1 stage higher than the maximum stage you had
+previously reached (2 stages higher on a critical failure). If
+you’re currently suffering from addiction when you attempt
+a save from taking the drug, you can’t improve your stage; if
+you succeed at the save, the stage remains the same as it was.
+When you attempt your save against addiction each week,
+the stage you are currently at can’t get worse—it can only
+stay the same or improve. The conditions from addiction
+can’t be removed while you are affected by the addiction,
+and suppressing addiction by taking the drug only avoids the
+effects—it doesn’t remove the disease.
+Saving Throw Fortitude (DC equals that of the drug); Onset
+1 day; Stage 1 fatigued (1 week); Stage 2 fatigued and
+sickened 1 (1 week); Stage 3 fatigued, drained 1, and
+sickened 1 (1 week); Stage 4 fatigued, drained 2, sickened 2,
+and stupefied 2 (1 week)
+ALCOHOL
+ITEM 0
+ALCHEMICAL
+CONSUMABLE
+DRUG
+INGESTED
+POISON
+Price 1 cp or more
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+Alcohol is a common substance available in stunning variety.
+The Price of a dose of alcohol depends on the specific beverage.
+You can’t recover from the sickened condition from alcohol
+while affected.
+If you fail a saving throw against alcohol other than initial saves,
+the affliction’s stage doesn’t increase; the only way to increase the
+stage of alcohol’s affliction is to consume more alcohol.
+Saving Throw DC 12 Fortitude; Onset 10 minutes; Stage 1 +1
+item bonus to saving throws against fear effects (10 minutes);
+Stage 2 flat‑footed, +1 item bonus to saving throws against fear
+effects (10 minutes); Stage 3 clumsy 1, flat‑footed, stupefied 2
+(10 minutes); Stage 4 clumsy 2 and sickened 2 (10 minutes);
+Stage 5 clumsy 2, sickened 2, and stupefied 2 (10 minutes);
+Stage 6 unconscious (8 hours); Stage 7 death
+BLOODEYE COFFEE
+ITEM 0
+ALCHEMICAL
+CONSUMABLE
+DRUG
+INGESTED
+POISON
+Price 5 sp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+A strong blend including several spices common in the Padishah
+Empire of Kelesh, bloodeye coffee is a favorite morning drink
+across the Inner Sea region. The maximum addiction stage of
+bloodeye coffee never progresses beyond stage 1.
+Saving Throw DC 14 Fortitude; Onset 10 minutes; Maximum
+Duration 8 hours; Stage 1 +1 item bonus to AC and saves
+to which you are taking penalties caused by the fatigued
+condition (10 minutes); Stage 2 stupefied 1 (1 hour); Stage 3
+can’t recover from fatigued (1 day, after which the drug ends)
+FLAYLEAF
+ITEM 0
+ALCHEMICAL
+CONSUMABLE
+DRUG
+INGESTED
+INHALED
+POISON
+Price 1 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+The flayleaf plant is relatively common, though the mildly
+euphoric effects of smoking its dried leaves increase when it’s
+sourced from plants specifically grown to produce such effects.
+Saving Throw DC 12 Fortitude; Onset 10 minutes; Maximum
+Duration 4 hours; Stage 1 +1 item bonus to saving throws
+against mental effects (1 hour); Stage 2 fatigued and +1 item
+bonus to saving throws against mental effects (1 hour);
+Stage 3 fatigued and stupefied 1 (1 hour); Stage 4 fatigued,
+frightened 2, stupefied 2 (1 hour)
+BLOOD SAP
+ITEM 1
+ALCHEMICAL
+CONSUMABLE
+DRUG
+INGESTED
+POISON
+Price 4 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+This potent drug is distilled from a certain tropical vine into a
+deep‑red syrup that, over time, stains the user’s lips and teeth
+a vivid shade of red.
+Saving Throw DC 16 Fortitude; Onset 10 minutes; Maximum
+Duration 3 hours; Stage 1 drained 1, +1 item bonus to
+weapon and unarmed attack rolls, Acrobatics checks, and
+Athletics checks (10 minutes); Stage 2 slowed 1 (1 hour)
+REFINED PESH
+ITEM 1
+ALCHEMICAL
+CONSUMABLE
+DRUG
+INGESTED
+INHALED
+POISON
+Price 2 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+When eaten or smoked, pesh gives users a sense of well‑being,
+sometimes with hallucinations, aggression, and exhaustion.
+Saving Throw DC 12 Fortitude; Onset 1 minute; Maximum
+Duration 6 hours; Stage 1 stupefied 1 and a +2 item bonus to
+Gamemastery Guide
+120
+120

@@ -1,0 +1,117 @@
+Step twice and then Strike. The Strike must be made with the
+sword required by Peafowl Stance.
+PREVAILING POSITION [reaction]
+LEVEL 10
+MONK
+Prerequisites at least one stance feat
+Trigger You are targeted by an attack or attempt a Reflex
+saving throw against a damaging effect, and you are in a
+stance.
+Your willingness to flow from one stance to another lets you
+sacrifice their benefits to better protect yourself. You leave
+the stance you were in, gaining a +4 circumstance bonus
+to the triggering saving throw or to your AC against the
+triggering attack.
+12TH LEVEL
+DODGING ROLL [reaction]
+LEVEL 12
+MONK
+Prerequisites master in Acrobatics
+Trigger You take damage from an area effect that allows a
+Reflex save.
+You dodge a blow at the last possible moment. You Step and
+gain resistance to all damage equal to your level against the
+triggering effect. If your Step moves you out of the triggering
+effect’s area, this resistance is instead equal to your level
+plus your Dexterity modifier.
+FOCUSED SHOT [one-action]
+FEAT 12
+CONCENTRATE
+MONK
+Prerequisites Monastic Archer Stance
+Requirements You are in Monastic Archer Stance.
+You achieve a state of perfect calm before unleashing your
+attack, opening your mind to the minute movements of the
+world around you to increase your accuracy. Make a ranged
+weapon Strike against a target within your weapon’s first
+range increment. This Strike ignores the target’s concealed
+condition and all cover.
+OVERWHELMING BREATH [one-action]
+LEVEL 12
+CONCENTRATE
+METAMAGIC
+MONK
+Prerequisites ki spells
+You control your breathing and align it with your ki,
+exhaling with controlled force in order to overcome your
+opponent’s resistance. If you use your next action to Cast
+a Spell that has the monk trait and no duration, the spell
+and any Strikes you make as a result of casting it ignore an
+amount of the target’s resistance to physical damage equal
+to your level.
+14TH LEVEL
+FORM LOCK [one-action]
+FEAT 14
+ATTACK
+MONK
+Requirements You have a foe grabbed or restrained.
+Your ability to control your own ki empowers you to pressure
+other creatures into resuming their true forms. Attempt an
+Athletics check to counteract a polymorph effect currently
+affecting your target. If the target is somehow under the effect
+of multiple polymorph effects, you can choose which one to
+attempt to counteract, or the GM chooses randomly if the
+separate effects aren’t obvious. The target is then temporarily
+immune for 1 day.
+SHADOW’S WEB
+FEAT 14
+MONK
+Prerequisites ki spells
+Requirements You are in Clinging Shadows Initiate.
+You launch a wave of shadowy ki outward from your body,
+damaging your opponents and potentially binding them
+in place. You gain the shadow’s web ki spell (page 229).
+Increase the number of Focus Points in your focus pool by 1.
+WHIRLING BLADE STANCE [one-action]
+FEAT 14
+MONK
+STANCE
+Prerequisites Monastic Weaponry
+You enter a mindful stance that creates a deep connection
+between you and your monk weapons, allowing you to
+manipulate them with your ki even at a distance. All melee
+monk weapons you wield with the finesse trait gain the
+thrown 10 feet trait (unless they already have the thrown trait
+with a greater range).
+Once you’ve made a thrown Strike with such a weapon,
+you can use the precision of your throw to make additional
+strikes with it, even from a distance. Start from the space of
+the previous Strike’s target to determine the range increment
+and whether the new target has cover. At the end of your turn,
+the thrown weapon flies directly back to you in a straight line.
+If a solid barrier blocks its path, it falls to the ground after
+hitting the barrier.
+16TH LEVEL
+FLINGING BLOW [two-actions]
+FEAT 16
+MONK
+You take a moment to center yourself, then unleash a
+powerful blow that sends your target tumbling away. Make
+an unarmed Strike. If you hit, the target must succeed at a
+Fortitude save against your class DC or be pushed up to 10
+feet directly away from you (or 20 feet, on a critical failure)
+and fall prone. If another creature or physical object would
+prevent this movement, both your target and the blocking
+creature or object take 1d6 bludgeoning damage per 5 feet
+of movement that was prevented.
+MEDUSA’S WRATH
+FEAT 16
+MONK
+Prerequisites ki spells
+You learn a monstrous ki technique that infuses your blows
+with the petrifying power of a medusa’s gaze. You gain the
+medusa’s wrath ki spell (page 229). Increase the number of
+Focus Points in your focus pool by 1.
+Advanced Player's Guide
+130
+130

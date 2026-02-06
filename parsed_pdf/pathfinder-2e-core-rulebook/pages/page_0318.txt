@@ -1,0 +1,135 @@
+A bubble of pure air appears around the target’s head, allowing
+it to breathe normally. The effect ends as soon as the target
+returns to an environment where it can breathe normally.
+AIR WALK
+SPELL 4
+AIR
+TRANSMUTATION
+Traditions divine, primal
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 creature
+Duration 5 minutes
+The target can walk on air as if it were solid ground. It can ascend
+and descend in this way at a maximum of a 45-degree angle.
+ALARM
+SPELL 1
+ABJURATION
+Traditions arcane, divine, occult, primal
+Cast 10 minutes (material, somatic, verbal); Requirements 3
+gp silver bell focus
+Range touch; Area 20-foot burst
+Duration 8 hours
+You ward an area to alert you when creatures enter without your
+permission. When you cast alarm, select a password. Whenever
+a Small or larger corporeal creature enters the spell’s area without
+speaking the password, alarm sends your choice of a mental
+alert (in which case the spell gains the mental trait) or an audible
+alarm with the sound and volume of a hand bell (in which case
+the spell gains the auditory trait). Either option automatically
+awakens you, and the bell allows each creature in the area to
+attempt a DC 15 Perception check to wake up. A creature aware
+of the alarm must succeed at a Stealth check against the spell’s
+DC or trigger the spell when moving into the area.
+Heightened (3rd) You can specify criteria for which creatures
+sound the alarm spell—for instance, orcs or masked people.
+ALTER REALITY
+SPELL 10
+DIVINATION
+Traditions occult
+Cast [three-actions] material, somatic, verbal
+You use your occult lore and the power of your mind to manipulate
+the spiritual multiverse, resulting in any of the following effects:
+•	 Duplicate any occult spell of 9th level or lower.
+•	 Duplicate any non-occult spell of 7th level or lower.
+•	 Produce any effect whose power is equivalent to any
+occult spell 9th level or lower, or non-occult spell 7th
+level or lower.
+•	 Reverse certain effects that refer to the wish spell
+At the GM’s discretion, you can try to produce greater effects,
+but this is dangerous and the spell may have only a partial effect.
+ANATHEMATIC REPRISAL
+SPELL 4
+ENCHANTMENT
+MENTAL
+Traditions divine
+Cast [reaction] somatic, verbal; Trigger A creature performs an act
+anathema to your deity.
+Range 30 feet; Targets the triggering creature
+Saving Throw Will
+You punish a creature that transgresses against your deity,
+drawing upon the anguish you feel upon seeing one of your
+deity’s anathema committed.
+You can cast this spell only when a creature actively commits
+a unique act of anathema. For example, if creating undead
+were anathema to your deity, you could use anathematic
+reprisal on a necromancer who had just created undead in
+front of you, but not on an undead creature just for existing.
+You deal 4d6 mental damage to the target, but a basic Will
+save can reduce this damage. If it fails, it is also stupefied 1 for
+1 round. The creature is then temporarily immune for 1 minute.
+Heightened (+1) The damage increases by 1d6.
+ANIMAL FORM
+SPELL 2
+POLYMORPH
+TRANSMUTATION
+Traditions primal
+Cast [two-actions] somatic, verbal
+Duration 1 minute
+You call upon primal energy to transform yourself into a Medium
+animal battle form. When you first cast this spell, choose ape,
+bear, bull, canine, cat, deer, frog, shark, or snake. You can decide
+the specific type of animal (such as lion or snow leopard for cat),
+but this has no effect on the form’s Size or statistics. While in
+this form, you gain the animal trait. You can Dismiss the spell.
+You gain the following statistics and abilities regardless of
+which battle form you choose:
+•	 AC = 16 + your level. Ignore your armor’s check penalty
+and Speed reduction.
+•	 5 temporary Hit Points.
+•	 Low-light vision and imprecise scent 30 feet.
+•	 One or more unarmed melee attacks specific to the
+battle form you choose, which are the only attacks you
+can use. You’re trained with them. Your attack modifier
+is +9, and your damage bonus is +1. These attacks
+are Strength based (for the purpose of the enfeebled
+condition, for example). If your unarmed attack bonus
+is higher, you can use it instead.
+•	 Athletics modifier of +9, unless your own modifier
+is higher.
+You also gain specific abilities based on the type of animal
+you choose:
+•	 Ape Speed 25 feet, climb Speed 20 feet; Melee [one-action] fist,
+Damage 2d6 bludgeoning.
+•	 Bear Speed 30 feet; Melee [one-action] jaws, Damage 2d8 piercing;
+Melee [one-action] claw (agile), Damage 1d8 slashing.
+•	 Bull Speed 30 feet; Melee [one-action] horn, Damage 2d8 piercing.
+•	 Canine Speed 40 feet; Melee [one-action] jaws, Damage 2d8
+piercing.
+•	 Cat Speed 40 feet; Melee [one-action] jaws, Damage 2d6 piercing;
+Melee [one-action] claw (agile), Damage 1d10 slashing.
+•	 Deer Speed 50 feet; Melee [one-action] antler, Damage 2d6 piercing.
+•	 Frog Speed 25 feet, swim Speed 25 feet; Melee [one-action] jaws,
+Damage 2d6 bludgeoning; Melee [one-action] tongue (reach 15
+feet), Damage 2d4 bludgeoning.
+•	 Shark swim Speed 35 feet; Melee [one-action] jaws, Damage
+2d8 piercing; breathe underwater but not in air.
+317
+7
+SPELLS
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

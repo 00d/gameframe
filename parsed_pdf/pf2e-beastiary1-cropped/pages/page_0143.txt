@@ -1,0 +1,86 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668995
+4425152
+Bestiary
+142
+Eel
+Although these long, narrow ﬁsh share similarities in appearance, eels are a
+diverse group of creatures.
+Electric Eel
+Usually found in freshwater rivers and lakes, an electric eel is not particularly
+aggressive, but its ability to stun predators and prey alike can be dangerous to
+larger creatures searching for their next meals.
+ELECTRIC EEL
+CREATURE 1
+N
+SMALL
+ANIMAL
+AQUATIC
+Perception +4; low-light vision
+Skills Athletics +6, Stealth +7
+Str +1, Dex +2, Con +2, Int –5, Wis +1, Cha –1
+AC 16; Fort +7, Ref +7, Will +4
+HP 18; Resistances electricity 7
+Speed 5 feet, swim 30 feet
+Melee Ȱɵ jaws +6, Damage 1d6+3 piercing
+Melee Ȱɵ tail +6 (agile), Damage 1d4+1 bludgeoning plus 1d4 electricity and stunning shock
+Stunning Shock (incapacitation) A creature critically hit by the electric eel’s tail must
+attempt a DC 17 Fortitude save.
+Critical Success The creature is unaﬀected.
+Success The creature is stunned 1.
+Failure The creature is stunned 2.
+Critical Failure The creature is stunned 3.
+Giant Moray Eel
+Giant moray eels dwell in warm, tropical waters and build
+lairs in narrow, twisting caves made of coral. Their size,
+speed, and powerful bite make them dangerous to
+divers and ﬁshermen. Giant moray eels have rubbery
+hides that secrete a layer of mucus, making them
+difﬁcult to harm with some weapons.
+GIANT MORAY EEL
+CREATURE 5
+N
+LARGE
+ANIMAL
+AQUATIC
+Perception +11; low-light vision, scent (imprecise)
+30 feet
+Skills Acrobatics +9, Athletics +13, Stealth +13
+Str +6, Dex +2, Con +3, Int –4, Wis +2, Cha –1
+AC 21; Fort +14, Ref +13, Will +9
+HP 65; Resistances bludgeoning 5, piercing 5
+Ambush Ǻȓ Trigger A target creature passes within
+20 feet of the giant moray eel’s hiding place and has
+not detected the giant moray eel. Eﬀect The giant
+moray eel lunges out of its hiding place, Swims directly
+toward the triggering creature, and makes a jaws Strike
+against it. The target creature is ﬂat-footed to this attack.
+Speed 10 feet, swim 40 feet
+Melee Ȱɵ jaws +15 (reach 10 feet), Damage 2d6+8 piercing plus Grab
+Pharyngeal Jaws ʚʖ Requirements The giant moray eel has a creature
+grabbed in its jaws. Eﬀect The giant moray eel uses its second set of jaws to
+pull the prey into its gullet. The eel deals 1d6+4 piercing damage to the grabbed
+creature and gains a +2 circumstance bonus to its Swallow Whole attempts and to
+the DC for the creature to Escape. This eﬀect ends if the target Escapes or the giant
+moray eel Swallows it Whole.
+Swallow Whole Ȱɵ (attack) Small, 1d6+6 bludgeoning, Rupture 12
+EEL RESOURCES
+Hide harvested from electric eels
+can be used to create armor or
+items that provide protection
+from electricity.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668995
+4425152

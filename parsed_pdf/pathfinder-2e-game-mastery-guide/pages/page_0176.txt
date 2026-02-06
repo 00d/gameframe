@@ -1,0 +1,117 @@
+Pulled
+This method of propulsion is perhaps the most common,
+wherein a wheeled conveyance (such as a carriage or
+wagon) is pulled by one or more creatures. The Speed of
+the vehicle can never exceed that of the slowest creature
+pulling the vehicle. The creatures pulling the vehicle don’t
+act on their own; they instead act as part of the vehicle’s
+actions, and their movement as part of those actions
+triggers reactions just as it does for the vehicle itself and
+its pilot.
+When a pulled vehicle takes collision damage, so do the
+creatures pulling that vehicle (though they can typically
+attempt the basic Reflex saving throw to mitigate that
+damage). The death of one or more pulling creatures
+might damage or slow the vehicle, and it might cause the
+pilot to lose control.
+For a vehicle pulled by an animal or similarly
+unintelligent creature, a pilot can use Nature for piloting
+checks; for sapient pulling creatures, the pilot can instead
+use Diplomacy or Intimidation for piloting checks.
+rowed
+These vehicles are propelled by the power of creatures
+rowing the vehicle from within. The creatures rowing the
+vehicle act only as part of the vehicle’s actions, and their
+movement as part of those actions triggers reactions just
+as it does for the vehicle itself and its pilot (though rowers
+often have some degree of cover).
+When a rowed vehicle takes collision damage, so do the
+creatures rowing that vehicle (though they can typically
+attempt the basic Reflex saving throw to mitigate that
+damage). The death of one or more creatures might cause
+the vehicle to go out of control or slow the vehicle, but
+usually doesn’t damage the vehicle.
+ A pilot on a vehicle rowed by other people can use
+Diplomacy or Intimidation for piloting checks.
+wind
+Wind-propelled vehicles require some form of air
+movement to power them, and adverse wind conditions
+can cause them to stall or even go out of control. Wind
+vehicles that rely on cloth sails typically have weakness to
+fire. Pilots of wind-powered vehicles can use Nature for
+piloting checks.
+PILOTING A VEHICLE
+In encounter mode, a vehicle moves on its pilot’s turn, and
+the pilot must use their actions to control it. A vehicle can
+take part in only 1 move action each round, even if multiple
+creatures Take Control as pilots on the same round.
+VEHICLE MOMENTUM
+A vehicle in motion builds up momentum that keeps it
+in motion. Each round, if the vehicle has moved in the
+previous round, the pilot must either use another move
+action or Stop the vehicle. If the pilot does neither of
+these things on their turn (even if the pilot Delays), the
+vehicle continues to move and becomes uncontrolled, as
+described in Uncontrolled Vehicles on page 176.
+PILOTING CHECKS
+Many actions related to vehicles call for the pilot to
+attempt a piloting check. The skills a pilot can use for a
+piloting check are listed in the vehicle’s stat block, but
+most vehicles use Driving Lore or Piloting Lore along
+with others determined by their propulsion. The creature
+piloting a vehicle when an encounter begins can usually roll
+an appropriate piloting skill for that vehicle for initiative.
+The GM sets the DC of the piloting check using a
+standard DC for the vehicle’s level, with adjustments based
+on the circumstances. Generally speaking, an action that
+would move a vehicle through difficult terrain increases
+the DC to a hard DC for its level, and moving through
+greater difficult terrain increases the DC to incredibly hard.
+Other factors, such as turbulent winds for a wind-powered
+vehicle, monsters threatening the creatures pulling a pulled
+vehicle, or rough seas for a water-based vehicle could all
+increase the DC of a vehicle’s piloting checks.
+PILOTING ACTIONS
+Characters use the actions listed below to move and
+interact with vehicles. The effects of the reckless trait
+appear on page 176.
+BOARD [one-action]
+MOVE
+Requirements You are adjacent to a point of entry on the
+vehicle you are attempting to board.
+You board a vehicle through an open top, a door, a portal,
+or a hatch; if you’re already on board, you can instead use
+this action to disembark into an empty space adjacent to the
+vehicle’s point of entry. Using this action while the vehicle is
+in motion is challenging, requiring a successful Acrobatics or
+Athletics check with a DC equal to the vehicle’s AC.
+DRIVE (VARIES)
+MOVE
+Requirements You are piloting a vehicle.
+You pilot your vehicle to move. Decide how many actions you
+intend to spend before you begin Driving. The effects depend
+on the number of actions you spend. You can’t Drive through
+spaces occupied by creatures, even if they are allies.
+[one-action] Attempt a piloting check. On a success, the vehicle moves up to
+its Speed and can turn normally. On a failure, the vehicle moves
+its Speed in a straight line. On a critical failure, the vehicle
+moves its Speed in a straight line and becomes uncontrolled.
+[two-actions] (reckless) The vehicle moves up to twice its Speed in a
+straight line at the vehicle’s current heading.
+[three-actions] (reckless) You take a –5 penalty on your piloting check
+to maintain control of the vehicle. The vehicle moves up
+to three times its Speed in a straight line at the vehicle’s
+current heading.
+3
+Subsystems
+175
+175
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX

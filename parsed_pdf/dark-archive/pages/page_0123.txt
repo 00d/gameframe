@@ -1,0 +1,143 @@
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+21551668
+21551668
+21551668
+35663
+435663
+435663
+Simple Hazards
+MIRROR DOOR
+HAZARD –1
+MAGICAL
+TRAP
+VISUAL
+Stealth DC 15
+Description The reflection of a
+wall shows a phantom door
+where none exists. This door
+can only be manipulated
+while viewed through the
+mirror’s reflection.
+Disable DC 18 Thievery to open
+the door while viewing the
+reflection
+Appear [reaction] (arcane, illusion)
+Trigger A
+creature
+views
+the wall through a mirror’s
+reflection;
+Effect
+A
+door
+appears
+in
+the
+mirror’s
+reflection of the wall. The
+triggering creature can open
+and manipulate this door only
+as long as they view it through
+the mirror and only by succeeding at a DC 18 Thievery
+check to disable the trap.
+Reset automatic
+SHUFFLING HALL
+HAZARD –1
+MECHANICAL
+TRAP
+Stealth DC 15
+Description Four pressure plates along this mirrored hall
+rotate vertically when stepped on, sending a creature on
+the pressure plate tipping into an adjacent featureless room
+while simultaneously replacing the pressure plate and
+walls in the hall. Each pressure plate dumps creatures into
+a different room.
+Disable DC 12 Thievery to deactivate one pressure plate
+AC 18; Fort +2, Ref +5
+Hardness 4; HP 12 (BT 6); Immunities object immunities
+Flip [reaction] Trigger A creature steps on a pressure plate; Effect The
+floor and adjoining wall rotate up and over on a central axle,
+tipping the triggering creature into an adjacent featureless
+room and simultaneously replacing the pressure plate and
+wall with another set on the same axle. The triggering
+creature is pushed into an adjoining room, takes 1d8
+bludgeoning damage, and lands prone. A creature who
+succeeds at a DC 19 Reflex save takes no damage and rolls
+out of the way of the trap, returning to the space they were
+in before stepping on the pressure plate.
+Reset automatic
+CONFOUNDING PORTAL
+HAZARD 0
+ILLUSION
+MAGICAL
+MENTAL
+TRAP
+Stealth DC 16
+Description Tiny runes carved around a doorframe or on
+a hall’s walls surreptitiously confound creatures into
+circling the room or hallway they
+attempted to exit or pass through.
+Disable DC 17 Thievery to scratch
+out the runes, or DC 16 Arcana to
+destroy the runes
+Confounding
+Misdirection
+[reaction]
+(arcane, illusion, mental) Trigger
+A creature passes through the
+rune-carved doorway or hallway;
+Effect The creature is confused by
+the illusions and directed back into
+the room they attempted to exit
+through another doorway or back
+to the hallway’s beginning. This
+feels no different to the triggering
+creature than walking through the
+doorway or hallway, and onlookers
+are similarly befuddled. A creature
+who succeeds at a DC 19 Will save resists this illusion
+and exits the room or proceeds down the hall without
+being misdirected.
+Reset automatic
+DISORIENTING ILLUSIONS
+HAZARD 1
+ILLUSION
+MAGICAL
+TRAP
+VISUAL
+Stealth DC 20
+Description Illusions cloaking this chamber cause it to appear
+distorted and constantly shifting, with the room and all its
+contents appearing tilted, irregular, and in motion.
+Disable DC 17 Crafting (trained) to calculate the room’s
+dimensions despite the illusions, or dispel magic (1st level;
+counteract DC 17) to counteract the illusions
+Disorient [reaction] (arcane, illusion, mental, visual) Trigger A creature
+enters the room; Effect Illusions cause the appearance of
+the room and the objects inside it to constantly warp, shift,
+bend, and distort for 1 minute. Each creature in the room
+while it’s distorting must attempt a DC 17 Perception check.
+Critical Success The creature disbelieves the illusions and
+is unaffected.
+Success The creature disbelieves the illusions but still sees
+them. It treats the room as difficult terrain.
+Failure The creature is fooled by the illusions. It treats the
+room as difficult terrain and becomes sickened 1. As long
+as it remains in the room, it can’t reduce its sickened
+value below 1.
+HAZARDS OF PERCEPTION
+Hazards are traps and obstacles that can enhance exploration or be the focus of encounters entirely. Many of the
+hazards in this section involve bending perception, creating duplicates, or otherwise creating a spooky and unsettling
+atmosphere, perfect for haunted houses and similar locations.
+122
+122
+Confounding Portal
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+21551668
+21551668
+21551668
+35663
+435663
+435663

@@ -1,0 +1,93 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669111
+4425268
+Bestiary
+258
+OTYUGH “PETS”
+Otyughs happily wallow in and
+consume the garbage of other
+creatures, making them an
+eﬃcient (and ecological) disposal
+system for those bold enough
+to try such a tack. The problem,
+though, as such otyugh keepers
+soon realize, is supplying enough
+refuse to keep the nigh-insatiable
+otyugh from wandering oﬀ from
+its miasmic kennel.
+Otyugh
+Lords of sewers, ditches, and landﬁlls, otyughs are ﬁlthy monstrosities that stomp
+about on three massive legs in search of tasty garbage and refuse. Using two barbed
+tentacles to grasp and tear, guided by a third with a proliferation of eyes at the end,
+the otyugh has perfectly adapted to life in its cramped, disgusting environment,
+where it uses its appendages to see into tight spaces and grasp hidden prey.
+Most assume that otyughs originally evolved in swamps and moved into
+sewers as civilization encroached on their natural habitats. True or not, they are
+now one of the larger predators in those dank environs. Otyughs are territorial,
+but they have been known to form loose collectives, even giving each other
+important-sounding titles like “king of offal” and “duchess of slime” to indicate
+their rank and station in their sludgy underworld beneath the streets.
+Those who run across an otyugh might be surprised to hear it speak, shouting
+at intruders to leave its putrid home or demanding tribute in the form of trash or
+other prizes of dubious nature.
+OTYUGH
+CREATURE 4
+N
+LARGE
+ABERRATION
+Perception +10; darkvision, scent (imprecise) 30 feet
+Languages Common
+Skills Acrobatics +8, Athletics +14, Stealth +8 (+11 in lair)
+Str +6, Dex +2, Con +4, Int –2, Wis +2, Cha –2
+AC 20; Fort +12, Ref +8, Will +10
+HP 70; Immunities disease
+Stench (aura, olfactory) 40 feet. A creature entering the aura must succeed at
+a DC 20 Fortitude save or be sickened 1 (plus slowed 1 for the same duration
+on a critical failure). On a success, the creature is temporarily immune to
+the sickened and slowed eﬀects of this stench for 1 hour. Regardless of
+the save, while within the aura, creatures take a –2 circumstance penalty
+to saves against diseases. An otyugh’s stench is due to the oﬀal and refuse
+that it wallows in, so cleaning the creature thoroughly (with create water
+and suﬃcient scrubbing, for example) deactivates the aura, while a suﬃciently
+plugged nose allows an individual to avoid exposure to the stench.
+Speed 20 feet
+Melee Ȱɵ jaws +14, Damage 2d6+6 piercing plus ﬁlth fever
+Melee Ȱɵ tentacle +14 (agile, reach 10 feet), Damage 1d6+6 bludgeoning plus Grab
+Constrict Ȱɵ 1d6+6 bludgeoning, DC 22
+Reposition Ȱɵ The otyugh attempts to move all creatures that it
+has grabbed into other spaces within the reach of its tentacles,
+rolling a single Athletics check and comparing the result against
+each creature’s Fortitude DC.
+On a failure, the creature
+remains in place, and on
+a critical failure, the
+creature is no longer
+grabbed.
+Filth Fever (disease);
+The
+sickened
+and
+unconscious conditions
+from ﬁlth fever don’t
+improve on their own until the
+disease is cured. Saving Throw DC
+20 Fortitude; Stage 1 carrier with no
+ill eﬀect (1d4 hours); Stage 2 sickened 1 (1 day);
+Stage 3 sickened 1 and slowed 1 as long as it
+remains sickened (1 day); Stage 4 unconscious
+(1 day); Stage 5 dead
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669111
+4425268

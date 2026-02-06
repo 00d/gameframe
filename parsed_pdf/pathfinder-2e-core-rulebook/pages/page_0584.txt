@@ -1,0 +1,143 @@
+Type fortification; Level 12; Price 2,000 gp
+Type greater fortification; Level 18; Price 24,000 gp
+The flat check DC is 14.
+GLAMERED
+RUNE 5
+ILLUSION
+ MAGICAL
+Price 140 gp
+Usage etched onto armor
+This armor can be disguised with a mere thought.
+Activate [one-action] envision; Effect You change the shape and
+appearance of this armor to appear as ordinary or fine clothes
+of your imagining. The armor’s statistics do not change. Only a
+creature that is benefiting from true seeing or a similar effect
+can attempt to disbelieve this illusion, with a DC of 25.
+INVISIBILITY
+RUNE 8+
+ILLUSION
+ MAGICAL
+Usage etched onto light armor
+Light seems to partially penetrate this armor.
+Activate [one-action] command; Frequency once per day; Effect
+Whispering the command word, you become invisible for 1
+minute, gaining the effects of a 2nd-level invisibility spell.
+Type invisibility; Level 8; Price 500 gp
+Type greater invisibility; Level 10; Price 1,000 gp
+You can activate the armor up to three times per day.
+Craft Requirements Supply one casting of invisibility.
+SHADOW
+RUNE 5+
+MAGICAL
+ TRANSMUTATION
+Usage etched onto light or medium nonmetallic armor
+Armor with this rune becomes hazy black. You gain a +1 item
+bonus to Stealth checks while wearing the armor.
+Type shadow; Level 3; Price 55 gp
+Type greater shadow; Level 9; Price 650 gp
+The item bonus is +2.
+Type major shadow; Level 17; Price 14,000 gp
+The item bonus is +3.
+SLICK
+RUNE 3+
+MAGICAL
+ TRANSMUTATION
+Usage etched onto armor
+This property makes armor slippery, as though it were coated
+with a thin film of oil. You gain a +1 item bonus to Acrobatics
+checks to Escape and Squeeze.
+Type slick; Level 3; Price 45 gp
+Type greater slick; Level 8; Price 450 gp
+The item bonus is +2.
+Type major slick; Level 16; Price 9,000 gp
+The item bonus is +3.
+Weapon Property Runes
+ANARCHIC
+RUNE 11
+CHAOTIC
+ EVOCATION
+ MAGICAL
+Price 1,400 gp
+Usage etched onto a weapon without an axiomatic rune
+An anarchic rune is jagged and asymmetrical, channeling
+chaotic energy. A weapon with this rune deals an additional
+1d6 chaotic damage against lawful targets. If you are lawful,
+you are enfeebled 2 while carrying or wielding this weapon.
+When you critically succeed at a Strike with this weapon
+against a lawful creature, roll 1d6. On a 1 or 2, you deal double
+minimum damage; on a 3 or 4, double your damage normally; on
+a 5 or 6, you deal double maximum damage.
+Craft Requirements You are chaotic.
+AXIOMATIC
+RUNE 11
+EVOCATION
+ LAWFUL
+ MAGICAL
+Price 1,400 gp
+Usage etched onto a weapon without an anarchic rune
+Complex and symmetrical, an axiomatic rune imbues a weapon
+with lawful energy. A weapon with this rune deals an additional
+1d6 lawful damage against chaotic targets. If you are chaotic,
+you are enfeebled 2 while carrying or wielding this weapon.
+When you critically succeed at an attack roll with this
+weapon against a chaotic creature, instead of rolling, count
+each weapon damage die as average damage rounded up
+(3 for d4, 4 for d6, 5 for d8, 6 for d10, 7 for d12).
+Craft Requirements You are lawful.
+CORROSIVE
+RUNE 8+
+ACID
+ CONJURATION
+ MAGICAL
+Usage etched onto a weapon
+Acid sizzles across the surface of the weapon. When you hit
+with the weapon, add 1d6 acid damage to the damage dealt.
+In addition, on a critical hit, the target’s armor (if any) takes
+3d6 acid damage (before applying Hardness); if the target has
+a shield raised, the shield takes this damage instead.
+Type corrosive; Level 8; Price 500 gp
+Type greater corrosive; Level 15; Price 6,500 gp
+The acid damage dealt by this weapon ignores the target’s acid
+resistance. Increase the acid damage dealt to armor or a shield
+on a critical hit to 6d6.
+DANCING
+RUNE 13
+UNCOMMON
+ EVOCATION
+ MAGICAL
+Price 2,700 gp
+Usage etched onto a melee weapon
+A dancing weapon flies autonomously and strikes your foes.
+Activate [two-actions] command, Interact; Effect You Release the
+weapon and it dances through the air, fighting on its own
+against the last enemy you attacked, or the nearest enemy to it
+if your target has been defeated. At the end of your turn each
+round, the weapon can Fly up to its fly Speed of 40 feet, and
+then can either Fly again or Strike one creature within its reach.
+The weapon has a space of 5 feet, but it doesn’t block or
+impede enemies attempting to move though that space, nor
+does it benefit from or provide flanking. The weapon can’t move
+through an enemy’s space. The weapon can’t use reactions, and
+its Fly actions don’t trigger reactions.
+While it’s activated, a dancing weapon makes Strikes with an
+attack modifier of +24 plus its item bonus to attack rolls. It uses
+583
+11
+Crafting & Treasure
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

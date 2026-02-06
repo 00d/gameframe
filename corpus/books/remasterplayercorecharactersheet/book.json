@@ -1,0 +1,16 @@
+{
+  "id": "remasterplayercorecharactersheet",
+  "book_dir": "RemasterPlayerCoreCharacterSheet",
+  "book_name": "RemasterPlayerCoreCharacterSheet",
+  "display_name": "Remaster Player Core Character Sheet",
+  "source_pdf": "RemasterPlayerCoreCharacterSheet.pdf",
+  "paths": {
+    "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/RemasterPlayerCoreCharacterSheet",
+    "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/RemasterPlayerCoreCharacterSheet.pdf",
+    "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/remasterplayercorecharactersheet"
+  },
+  "metrics": {
+    "missing_text_pages": 0,
+    "avg_page_jaccard": 1.0
+  }
+}

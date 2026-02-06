@@ -1,0 +1,107 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669038
+4425195
+E-G
+185
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
+ALCHEMICAL GOLEMS
+When an alchemical golem is
+defeated or disabled, if any of its
+ﬁrst four alchemical chambers
+(1–4) remain intact, the chamber
+can be salvaged and used as a
+lesser alchemical bomb of the
+corresponding type: acid ﬂask,
+frost vial, bottled lightning, or
+alchemist's ﬁre, respectively.
+attempt to create from simple base elements, these monstrosities are far from
+human. In isolated cases, echoes of a personality might rise in a ﬂesh golem if
+the brain used as part of its construction belonged to a particularly powerful
+personality, but such tragic instances are (thankfully) rare in the extreme.
+FLESH GOLEM
+CREATURE 8
+UNCOMMON
+N
+LARGE
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +12; darkvision
+Skills Athletics +19
+Str +5, Dex –1, Con +3, Int –5, Wis +0, Cha –5
+AC 26; Fort +18, Ref +14, Will +15
+HP 140; Immunities bleed, disease, death eﬀects, electricity, doomed, drained, fatigued,
+healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed,
+poison, sickened, unconscious; Resistances physical 5 (except adamantine)
+Berserk A severely damaged ﬂesh golem has a chance of going berserk. If it has 40 or
+fewer HP at the start of its turn, the golem must succeed at a DC 5 ﬂat check or go
+berserk. A berserk golem wildly attacks the nearest living creature, or the nearest
+object if no creatures are nearby.
+Golem Antimagic harmed by ﬁre (5d8, 3d4 from areas or persistent damage); healed by
+electricity (area 2d4 HP); slowed by cold
+Vulnerable to Flesh to Stone Casting a ﬂesh to stone spell on the ﬂesh golem aﬀects
+the golem normally.
+Electric Reﬂexes Ǻȓ Trigger The golem takes electricity damage and a creature is
+adjacent to it. Eﬀect The golem lashes out and tries to grab a nearby creature. The
+golem attempts an Athletics check to Grapple an adjacent creature. The creature
+also takes 3d6 electricity damage on a success, or 6d6 electricity damage on a
+critical success.
+Speed 25 feet
+Melee Ȱɵ ﬁst +20 (magical, reach 10 feet), Damage 2d10+7 bludgeoning
+Berserk Slam Ȱɵ Requirement The ﬂesh golem is berserk. Eﬀect The ﬂesh golem Strikes
+with its ﬁst at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and
+knocks the target prone.
+Alchemical Golem
+This golem is a walking alchemical nightmare capable of inﬂicting all
+manner of painful wounds. Its ability to follow orders is granted
+by the otherwise mindless humanoid brain that ﬂoats in its
+dome-like head. In exceptionally rare cases, the brain used
+in its creation might retain fragments of memories or
+even actual intellect, resulting in an alchemical golem
+with a personality and agenda of its own.
+ALCHEMICAL GOLEM
+CREATURE 9
+UNCOMMON
+N
+LARGE
+ALCHEMICAL
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +15; darkvision
+Skills Athletics +22
+Str +6, Dex +4, Con +3, Int –5, Wis +0, Cha –5
+AC 27; Fort +20, Ref +19, Will +15
+HP 150; Immunities acid, bleed, death eﬀects, disease, doomed, drained, fatigued,
+healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison,
+sickened, unconscious; Resistances physical 12 (except adamantine or bludgeoning)
+Alchemical Chambers An alchemical golem’s body contains six alchemical chambers ﬁlled
+with diﬀerent substances. When an alchemical golem ability calls upon a randomly
+determined alchemical eﬀect, roll 1d6 and consult the following (if you roll the result of
+a chamber that was shattered, there is no alchemical eﬀect):
+1 acid damage; 2 cold damage; 3 electricity damage; 4 ﬁre damage; 5 poison damage;
+6 sickness: DC 26 Fortitude save or sickened 1 (sickened 2 on a critical failure)
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669038
+4425195

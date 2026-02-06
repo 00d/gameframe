@@ -1,0 +1,71 @@
+ENDURING MIGHT
+FOCUS 4
+UNCOMMON
+ABJURATION
+CLERIC
+Domain might
+Cast [reaction] somatic
+Trigger An attack or effect would deal damage to you.
+Your own might mingles with divine power to protect you. You
+gain resistance equal to 8 plus your Strength modifier against
+all damage from the triggering attack or effect.
+Heightened (+1) The resistance increases by 2.
+ERADICATE UNDEATH
+FOCUS 4
+UNCOMMON
+CLERIC
+NECROMANCY
+POSITIVE
+Domain death
+Cast [two-actions] somatic, verbal
+Area 30-foot cone
+Saving Throw basic Fortitude
+A massive deluge of life energy causes the undead to
+fall apart. Each undead creature in the area takes 4d12
+positive damage.
+Heightened (+1) The damage increases by 1d12.
+FACE IN THE CROWD
+FOCUS 1
+UNCOMMON
+CLERIC
+ILLUSION
+VISUAL
+Domain cities
+Cast [one-action] somatic
+Duration 1 minute
+While in a crowd of roughly similar creatures, your appearance
+becomes bland and nondescript. You gain a +2 status bonus
+to Deception and Stealth checks to go unnoticed among the
+crowd, and you ignore difficult terrain caused by the crowd.
+Heightened (3rd) The spell gains a range of 10 feet and can
+target up to 10 creatures.
+FIRE RAY
+FOCUS 1
+UNCOMMON
+ATTACK
+CLERIC
+EVOCATION
+FIRE
+Domain fire
+Cast [two-actions] somatic, verbal
+Range 60 feet; Targets 1 creature or object
+A blazing band of fire arcs through the air. Make a spell attack
+roll. The ray deals 2d6 fire damage.
+Critical Success The ray deals double damage and 1d4
+persistent fire damage.
+Success The ray deals full damage.
+Heightened (+1) The ray’s initial damage increases by 2d6,
+and the persistent fire damage on a critical success increases
+by 1d4.
+FLAME BARRIER
+FOCUS 4
+UNCOMMON
+ABJURATION
+CLERIC
+Domain fire
+Cast [reaction] verbal
+Trigger An effect would deal fire damage to either you or an
+ally within range.
+Range 60 feet; Targets the creature that would take fire damage
+Core Rulebook
+392

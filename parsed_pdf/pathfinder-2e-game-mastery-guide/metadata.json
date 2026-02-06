@@ -1,0 +1,1815 @@
+{
+  "generated_at_utc": "2026-02-06T18:30:31.609791+00:00",
+  "source_pdf": "Pathfinder-2e-Game-Mastery-Guide.pdf",
+  "book_slug": "pathfinder-2e-game-mastery-guide",
+  "total_pages": 258,
+  "pages_with_text": 258,
+  "pages": [
+    {
+      "page": 1,
+      "chars": 111,
+      "words": 16,
+      "has_text": true,
+      "sha1": "2bb6f3eb07531362f81fce9fc2b4bd72b30a5755"
+    },
+    {
+      "page": 2,
+      "chars": 36,
+      "words": 4,
+      "has_text": true,
+      "sha1": "f80eec83c90c39ace4fa53e6705151ac3d311890"
+    },
+    {
+      "page": 3,
+      "chars": 2239,
+      "words": 323,
+      "has_text": true,
+      "sha1": "e45b723ee8f8a69e36179aa6121cdca740aa1599"
+    },
+    {
+      "page": 4,
+      "chars": 580,
+      "words": 88,
+      "has_text": true,
+      "sha1": "c991429a5acd51090c266fcc7a8b59e0513e1d8c"
+    },
+    {
+      "page": 5,
+      "chars": 2175,
+      "words": 372,
+      "has_text": true,
+      "sha1": "c5d272b7f9ac56d280a89d154c7a7c6e1c5a1fc8"
+    },
+    {
+      "page": 6,
+      "chars": 5118,
+      "words": 893,
+      "has_text": true,
+      "sha1": "e31161285843f6e6568e842b6c8c9ca40b2efc27"
+    },
+    {
+      "page": 7,
+      "chars": 20,
+      "words": 3,
+      "has_text": true,
+      "sha1": "497cba0e9ce868ee571d4244559890d3cea13c02"
+    },
+    {
+      "page": 8,
+      "chars": 5439,
+      "words": 884,
+      "has_text": true,
+      "sha1": "6ec9f035c601a33f03ae40275f578c05c1651463"
+    },
+    {
+      "page": 9,
+      "chars": 5878,
+      "words": 1009,
+      "has_text": true,
+      "sha1": "830f7ede213e5cb1cf6f5d72fc68640f4922f724"
+    },
+    {
+      "page": 10,
+      "chars": 5756,
+      "words": 983,
+      "has_text": true,
+      "sha1": "41d37304c939d86798b74378c7d3c846cb3d055a"
+    },
+    {
+      "page": 11,
+      "chars": 5326,
+      "words": 933,
+      "has_text": true,
+      "sha1": "d37dc6c15ae5992b7210639cad7641c250231434"
+    },
+    {
+      "page": 12,
+      "chars": 3512,
+      "words": 601,
+      "has_text": true,
+      "sha1": "2efd7cb94188f8f723a8560c1fe96bdbe46ff363"
+    },
+    {
+      "page": 13,
+      "chars": 5450,
+      "words": 966,
+      "has_text": true,
+      "sha1": "510357adc1781e5dbaf270f932295d622e48c330"
+    },
+    {
+      "page": 14,
+      "chars": 5824,
+      "words": 1022,
+      "has_text": true,
+      "sha1": "325266fd7f9bfccb42ab237bb7980f8d20ccf0f3"
+    },
+    {
+      "page": 15,
+      "chars": 5494,
+      "words": 947,
+      "has_text": true,
+      "sha1": "0b24f4a619b3a55c4a105bf18d51aad1db1f1be7"
+    },
+    {
+      "page": 16,
+      "chars": 2986,
+      "words": 512,
+      "has_text": true,
+      "sha1": "56a3b6d3e883b810eafe4ab700afcc504a7765db"
+    },
+    {
+      "page": 17,
+      "chars": 5732,
+      "words": 985,
+      "has_text": true,
+      "sha1": "4788ce60592f7f3ef14b35daff1a67300f0c0fa1"
+    },
+    {
+      "page": 18,
+      "chars": 5274,
+      "words": 880,
+      "has_text": true,
+      "sha1": "144835f4f856457044e34f79eeb9971cf16d3636"
+    },
+    {
+      "page": 19,
+      "chars": 4675,
+      "words": 718,
+      "has_text": true,
+      "sha1": "38f7e791737f6f2bca438bccd950b9ffd0fcf7b1"
+    },
+    {
+      "page": 20,
+      "chars": 2903,
+      "words": 496,
+      "has_text": true,
+      "sha1": "6b1fd06491f98fdddcfef8ac6c5c833243b49aa5"
+    },
+    {
+      "page": 21,
+      "chars": 2873,
+      "words": 513,
+      "has_text": true,
+      "sha1": "8334c87076e08498df52f1972322eeec57734345"
+    },
+    {
+      "page": 22,
+      "chars": 5422,
+      "words": 929,
+      "has_text": true,
+      "sha1": "a3cb20bd8f0a61de1855ba46b651f96e184b2077"
+    },
+    {
+      "page": 23,
+      "chars": 5279,
+      "words": 912,
+      "has_text": true,
+      "sha1": "2e72b692c66d5e8ec7784086491a6409b423cfe8"
+    },
+    {
+      "page": 24,
+      "chars": 2873,
+      "words": 503,
+      "has_text": true,
+      "sha1": "cd0f2d7ed81cea693a3ac3f3398df484dce11aab"
+    },
+    {
+      "page": 25,
+      "chars": 3014,
+      "words": 547,
+      "has_text": true,
+      "sha1": "61ae4869565193198c7e66299f7a98ecde99f8e6"
+    },
+    {
+      "page": 26,
+      "chars": 4610,
+      "words": 805,
+      "has_text": true,
+      "sha1": "54f4f73528acdcc3ebe621895340c6379ed16f14"
+    },
+    {
+      "page": 27,
+      "chars": 5167,
+      "words": 900,
+      "has_text": true,
+      "sha1": "727811916012f5b090b755cae806aaf63dd22538"
+    },
+    {
+      "page": 28,
+      "chars": 3785,
+      "words": 622,
+      "has_text": true,
+      "sha1": "fcff81271423184ca5eec555c1e420901e0d627f"
+    },
+    {
+      "page": 29,
+      "chars": 4349,
+      "words": 739,
+      "has_text": true,
+      "sha1": "4c134ddf120cb296f893b392e44ddcf8864bd23c"
+    },
+    {
+      "page": 30,
+      "chars": 5690,
+      "words": 1007,
+      "has_text": true,
+      "sha1": "599f0c89d81e0bfd97b1497c9c77c0ab114df559"
+    },
+    {
+      "page": 31,
+      "chars": 3182,
+      "words": 555,
+      "has_text": true,
+      "sha1": "bfd6a9e3de41574eba7728d794414396ac4a4394"
+    },
+    {
+      "page": 32,
+      "chars": 5615,
+      "words": 941,
+      "has_text": true,
+      "sha1": "781108ce7807cabd1cc897327c8f9b20941887a6"
+    },
+    {
+      "page": 33,
+      "chars": 5291,
+      "words": 918,
+      "has_text": true,
+      "sha1": "87a0127939292a61aba3bfa61909151810a3733e"
+    },
+    {
+      "page": 34,
+      "chars": 5167,
+      "words": 850,
+      "has_text": true,
+      "sha1": "ad907656a2d37054392032317a0751db8f564b58"
+    },
+    {
+      "page": 35,
+      "chars": 2730,
+      "words": 458,
+      "has_text": true,
+      "sha1": "ca981d1bc9811700d2768bd93d2fb22864dab572"
+    },
+    {
+      "page": 36,
+      "chars": 4890,
+      "words": 823,
+      "has_text": true,
+      "sha1": "26df7bae3d244629a4d133829097bf5c70a6161e"
+    },
+    {
+      "page": 37,
+      "chars": 4677,
+      "words": 782,
+      "has_text": true,
+      "sha1": "c805f2488c4f696a39d01b4f933d6d28c24b0b04"
+    },
+    {
+      "page": 38,
+      "chars": 2641,
+      "words": 438,
+      "has_text": true,
+      "sha1": "ad2363cd2cbabb3a17655b7ad9456d13431235ce"
+    },
+    {
+      "page": 39,
+      "chars": 5400,
+      "words": 931,
+      "has_text": true,
+      "sha1": "5de56058306b55324ed38bc867a3f91705195870"
+    },
+    {
+      "page": 40,
+      "chars": 5626,
+      "words": 980,
+      "has_text": true,
+      "sha1": "f4d66b9530785a658006da2594599838ac879ced"
+    },
+    {
+      "page": 41,
+      "chars": 5337,
+      "words": 891,
+      "has_text": true,
+      "sha1": "d36e096f787eb5e98ae0128fe8ed748b4afc8577"
+    },
+    {
+      "page": 42,
+      "chars": 5387,
+      "words": 862,
+      "has_text": true,
+      "sha1": "cd32c20a67886f3ab06757f4c5d7ef8c2cc9c709"
+    },
+    {
+      "page": 43,
+      "chars": 2383,
+      "words": 363,
+      "has_text": true,
+      "sha1": "c594f8d78241a9817e0fee823f9197a65a8ce684"
+    },
+    {
+      "page": 44,
+      "chars": 3266,
+      "words": 531,
+      "has_text": true,
+      "sha1": "6ba3e2ac679a44d9c836ebe6fb581315fd4dc3c6"
+    },
+    {
+      "page": 45,
+      "chars": 5506,
+      "words": 933,
+      "has_text": true,
+      "sha1": "550a3a2568e067e8b4a0cc1a984474c9cc22005a"
+    },
+    {
+      "page": 46,
+      "chars": 2542,
+      "words": 427,
+      "has_text": true,
+      "sha1": "efe1ce724e48c751ff86f2d945b68755283e52d3"
+    },
+    {
+      "page": 47,
+      "chars": 5310,
+      "words": 876,
+      "has_text": true,
+      "sha1": "1b90ee2859a3709f1a6df3e774fae3eea9a2d32c"
+    },
+    {
+      "page": 48,
+      "chars": 2790,
+      "words": 456,
+      "has_text": true,
+      "sha1": "cf5dfa408f731b182fb33ab2aabaa282c81f1a87"
+    },
+    {
+      "page": 49,
+      "chars": 5815,
+      "words": 978,
+      "has_text": true,
+      "sha1": "d7382fa5ff5316ce40826475698629e51f801df4"
+    },
+    {
+      "page": 50,
+      "chars": 3085,
+      "words": 524,
+      "has_text": true,
+      "sha1": "2ff40bb52e3c14873bcfb149622f116bbe519e67"
+    },
+    {
+      "page": 51,
+      "chars": 5948,
+      "words": 1002,
+      "has_text": true,
+      "sha1": "14744887dc0ed42e46fc51acc5e59ada2422c990"
+    },
+    {
+      "page": 52,
+      "chars": 4737,
+      "words": 880,
+      "has_text": true,
+      "sha1": "95935d22ebeb97f3c929c2fdc8f2961422857862"
+    },
+    {
+      "page": 53,
+      "chars": 4970,
+      "words": 868,
+      "has_text": true,
+      "sha1": "802aaa4d09f0fd01eb197daae719ae2d6cc01ff9"
+    },
+    {
+      "page": 54,
+      "chars": 132,
+      "words": 19,
+      "has_text": true,
+      "sha1": "f3dc0d6ead4eb26dda8307bbfcf9c980ccd9b992"
+    },
+    {
+      "page": 55,
+      "chars": 24,
+      "words": 4,
+      "has_text": true,
+      "sha1": "b5c470ad73dd181b19613b96e0caf302778e94f9"
+    },
+    {
+      "page": 56,
+      "chars": 4799,
+      "words": 829,
+      "has_text": true,
+      "sha1": "df370c96e3affd24d3cd0c28b0ecffaf1fb54959"
+    },
+    {
+      "page": 57,
+      "chars": 2984,
+      "words": 509,
+      "has_text": true,
+      "sha1": "f5fef374024d2df2b7b8724fec81fc69e77b538b"
+    },
+    {
+      "page": 58,
+      "chars": 5055,
+      "words": 835,
+      "has_text": true,
+      "sha1": "48d6138eec69602a22082aecdb03b4c2608b354c"
+    },
+    {
+      "page": 59,
+      "chars": 3614,
+      "words": 600,
+      "has_text": true,
+      "sha1": "0a02c09dc0e82a5682acb43959a70d3dc8946a64"
+    },
+    {
+      "page": 60,
+      "chars": 4875,
+      "words": 860,
+      "has_text": true,
+      "sha1": "a0d0045ad376295f1de52b3d5182a03339cafc19"
+    },
+    {
+      "page": 61,
+      "chars": 4841,
+      "words": 863,
+      "has_text": true,
+      "sha1": "480a6c4ac9658bba34638fff58a69a98a10287f8"
+    },
+    {
+      "page": 62,
+      "chars": 4152,
+      "words": 799,
+      "has_text": true,
+      "sha1": "322939a0ff0561461f9e138f1b40cab2cfc8912a"
+    },
+    {
+      "page": 63,
+      "chars": 3863,
+      "words": 768,
+      "has_text": true,
+      "sha1": "a94fd145fb7ebc61788e9529638582a660cbf58f"
+    },
+    {
+      "page": 64,
+      "chars": 3951,
+      "words": 694,
+      "has_text": true,
+      "sha1": "36a84995bd530f40a264a8fa02c223fad52dd60a"
+    },
+    {
+      "page": 65,
+      "chars": 4812,
+      "words": 881,
+      "has_text": true,
+      "sha1": "e4f8b35af4253ca3a55df99426548ba33b025a38"
+    },
+    {
+      "page": 66,
+      "chars": 5874,
+      "words": 1018,
+      "has_text": true,
+      "sha1": "f7df01be81bef85ba7ea5af2e1900ab01f201a86"
+    },
+    {
+      "page": 67,
+      "chars": 3803,
+      "words": 728,
+      "has_text": true,
+      "sha1": "05165c1479ccd93ca05005d83550f9d72da07e54"
+    },
+    {
+      "page": 68,
+      "chars": 4054,
+      "words": 691,
+      "has_text": true,
+      "sha1": "9fb8977442bcba033f28472faf24581c289c052d"
+    },
+    {
+      "page": 69,
+      "chars": 5071,
+      "words": 903,
+      "has_text": true,
+      "sha1": "478d727d5aeeb8a99afa5ce7b6969f51117e4e25"
+    },
+    {
+      "page": 70,
+      "chars": 5932,
+      "words": 999,
+      "has_text": true,
+      "sha1": "17b1e32e126f7338cbdee040c8241747d3b06bf8"
+    },
+    {
+      "page": 71,
+      "chars": 3355,
+      "words": 513,
+      "has_text": true,
+      "sha1": "72ddfe8463adeb2cf509e21e5a72e9723a43a884"
+    },
+    {
+      "page": 72,
+      "chars": 2891,
+      "words": 416,
+      "has_text": true,
+      "sha1": "d3611d01cbef0f527d63e8271719b8d96c567669"
+    },
+    {
+      "page": 73,
+      "chars": 5434,
+      "words": 952,
+      "has_text": true,
+      "sha1": "57002afc9fc5273e85da5a62afb53377c9edf57b"
+    },
+    {
+      "page": 74,
+      "chars": 7450,
+      "words": 1110,
+      "has_text": true,
+      "sha1": "051d2abbaadf50fbcee1a061f4ee0ab6b66b2a83"
+    },
+    {
+      "page": 75,
+      "chars": 3382,
+      "words": 550,
+      "has_text": true,
+      "sha1": "9560803773af2f6570b759a7e267b82000613361"
+    },
+    {
+      "page": 76,
+      "chars": 4266,
+      "words": 875,
+      "has_text": true,
+      "sha1": "1ec37642190faede53c1bd201f7d58d2fb0c9b14"
+    },
+    {
+      "page": 77,
+      "chars": 5450,
+      "words": 987,
+      "has_text": true,
+      "sha1": "041dd4ef22ada0994e346977cc5db892ac77363f"
+    },
+    {
+      "page": 78,
+      "chars": 3888,
+      "words": 640,
+      "has_text": true,
+      "sha1": "91a38f5a23bf36394e852d2fb30e9b8fe9b0aa10"
+    },
+    {
+      "page": 79,
+      "chars": 5124,
+      "words": 852,
+      "has_text": true,
+      "sha1": "7b4ff071171fbc2fd219468fa705d1bf9bb366b2"
+    },
+    {
+      "page": 80,
+      "chars": 3913,
+      "words": 664,
+      "has_text": true,
+      "sha1": "4623fc55df308d036f6283a5f1e9deed99716c11"
+    },
+    {
+      "page": 81,
+      "chars": 5371,
+      "words": 887,
+      "has_text": true,
+      "sha1": "0fc6d35105a595f534ac8f78cc5af2242a8361bb"
+    },
+    {
+      "page": 82,
+      "chars": 5509,
+      "words": 901,
+      "has_text": true,
+      "sha1": "bd38b39c13bd04f2ce8d3f9a9e3a9ab99cd36000"
+    },
+    {
+      "page": 83,
+      "chars": 5464,
+      "words": 979,
+      "has_text": true,
+      "sha1": "b09a2ac58b950479e892b9be98089532d2ee6f52"
+    },
+    {
+      "page": 84,
+      "chars": 5673,
+      "words": 972,
+      "has_text": true,
+      "sha1": "33f42dcd83a5c047cab97161374039e6941b8853"
+    },
+    {
+      "page": 85,
+      "chars": 5155,
+      "words": 872,
+      "has_text": true,
+      "sha1": "3094c495e89566126979cc6a238a73370117c069"
+    },
+    {
+      "page": 86,
+      "chars": 3166,
+      "words": 576,
+      "has_text": true,
+      "sha1": "8fec7d6b6597043dcdd85bf370c86e714c823c9a"
+    },
+    {
+      "page": 87,
+      "chars": 4401,
+      "words": 751,
+      "has_text": true,
+      "sha1": "d201599c8e78adf5d59b7b4726264ce16d8187c9"
+    },
+    {
+      "page": 88,
+      "chars": 2089,
+      "words": 348,
+      "has_text": true,
+      "sha1": "3c71b6c4fd882f3aef3dd748b0f67261d04ce7b0"
+    },
+    {
+      "page": 89,
+      "chars": 4529,
+      "words": 745,
+      "has_text": true,
+      "sha1": "0ac5586503ddc186718fda9bcf58728f5c7f90d8"
+    },
+    {
+      "page": 90,
+      "chars": 5481,
+      "words": 918,
+      "has_text": true,
+      "sha1": "93eb1e7b8caa3a6dd85835d614f24cb80db9550a"
+    },
+    {
+      "page": 91,
+      "chars": 4943,
+      "words": 859,
+      "has_text": true,
+      "sha1": "10ae83914a7aa6b6af13d55c855b4c0af2a16490"
+    },
+    {
+      "page": 92,
+      "chars": 5353,
+      "words": 935,
+      "has_text": true,
+      "sha1": "75252fb506bfe4bcc71dcc992176c53816a95a74"
+    },
+    {
+      "page": 93,
+      "chars": 3347,
+      "words": 578,
+      "has_text": true,
+      "sha1": "c02c89677f6ad656e249521ed77dbab372438d94"
+    },
+    {
+      "page": 94,
+      "chars": 4940,
+      "words": 815,
+      "has_text": true,
+      "sha1": "4e37ce92963ecefef1acb29817fa54baf54409bd"
+    },
+    {
+      "page": 95,
+      "chars": 3648,
+      "words": 642,
+      "has_text": true,
+      "sha1": "ea26aed096cccfccd7211f14de8124225645f88c"
+    },
+    {
+      "page": 96,
+      "chars": 5602,
+      "words": 973,
+      "has_text": true,
+      "sha1": "d4496b4740c3beaa63da434bbe457a6fc4a5851a"
+    },
+    {
+      "page": 97,
+      "chars": 4751,
+      "words": 810,
+      "has_text": true,
+      "sha1": "67e84651c93bc7c00c0e8378cbbc8923df1a1e57"
+    },
+    {
+      "page": 98,
+      "chars": 3672,
+      "words": 573,
+      "has_text": true,
+      "sha1": "3fd15569d2c8f81f3336d2ea04b117ce4beb1842"
+    },
+    {
+      "page": 99,
+      "chars": 4101,
+      "words": 693,
+      "has_text": true,
+      "sha1": "eebbe9193d3ed8c92a2b8f010382335acfb6258d"
+    },
+    {
+      "page": 100,
+      "chars": 4791,
+      "words": 795,
+      "has_text": true,
+      "sha1": "d4d27e1b095e86ab7f74f4edbf8bd587b4c5fb4d"
+    },
+    {
+      "page": 101,
+      "chars": 4620,
+      "words": 782,
+      "has_text": true,
+      "sha1": "14bb288d93ef3fa8f6d30f70563b8ddc42322827"
+    },
+    {
+      "page": 102,
+      "chars": 4696,
+      "words": 784,
+      "has_text": true,
+      "sha1": "a39c54ac603775363bb7f0a5f1fa66534628c4b1"
+    },
+    {
+      "page": 103,
+      "chars": 4291,
+      "words": 718,
+      "has_text": true,
+      "sha1": "a6fb882c30429fc5de0044372bcfbb542174cd3b"
+    },
+    {
+      "page": 104,
+      "chars": 4558,
+      "words": 764,
+      "has_text": true,
+      "sha1": "2397a5a0d860262d20c7aa39ce98cf35175839d3"
+    },
+    {
+      "page": 105,
+      "chars": 4365,
+      "words": 757,
+      "has_text": true,
+      "sha1": "e59cb8e788c53dc3117f226361479c3c2dc0c3c2"
+    },
+    {
+      "page": 106,
+      "chars": 4734,
+      "words": 799,
+      "has_text": true,
+      "sha1": "38b01d38912239cd5fde0666a4b11e5b9aaf178a"
+    },
+    {
+      "page": 107,
+      "chars": 5148,
+      "words": 870,
+      "has_text": true,
+      "sha1": "a0724c037a6f0a59c53b06b3151e6fb6bc77887b"
+    },
+    {
+      "page": 108,
+      "chars": 5145,
+      "words": 917,
+      "has_text": true,
+      "sha1": "4f6014371d1c34c2974e8c3da603e9778eb05a3f"
+    },
+    {
+      "page": 109,
+      "chars": 5552,
+      "words": 963,
+      "has_text": true,
+      "sha1": "4ac99184b76cc5f0854544f33fc22f9bc0130c86"
+    },
+    {
+      "page": 110,
+      "chars": 5441,
+      "words": 939,
+      "has_text": true,
+      "sha1": "161e435bfb4cab7bdc94f3bbcf2e026f7730b832"
+    },
+    {
+      "page": 111,
+      "chars": 5661,
+      "words": 973,
+      "has_text": true,
+      "sha1": "43cbab1211bbb26bed78c89aec7dd58621914619"
+    },
+    {
+      "page": 112,
+      "chars": 5342,
+      "words": 842,
+      "has_text": true,
+      "sha1": "ba3e0b148109ca182b100aca79e1af811b363dad"
+    },
+    {
+      "page": 113,
+      "chars": 5743,
+      "words": 968,
+      "has_text": true,
+      "sha1": "aba3bee9b8b4c4e511225a1766705d4c98a7658c"
+    },
+    {
+      "page": 114,
+      "chars": 2932,
+      "words": 525,
+      "has_text": true,
+      "sha1": "3203bc758cb30737cde6bdbec4a1d72bc4c42291"
+    },
+    {
+      "page": 115,
+      "chars": 3819,
+      "words": 641,
+      "has_text": true,
+      "sha1": "287e7a019170f34dd58e8fa65a1b9f2d4114e491"
+    },
+    {
+      "page": 116,
+      "chars": 4804,
+      "words": 791,
+      "has_text": true,
+      "sha1": "3b1af784edfae2f29c3223009a67f4d491c70312"
+    },
+    {
+      "page": 117,
+      "chars": 4684,
+      "words": 805,
+      "has_text": true,
+      "sha1": "dc6e26d4108978e29b9069ed3a6b137aff5563d2"
+    },
+    {
+      "page": 118,
+      "chars": 5018,
+      "words": 859,
+      "has_text": true,
+      "sha1": "9cf69f6f884f58ea2c9e881d137ccd5661b66533"
+    },
+    {
+      "page": 119,
+      "chars": 4929,
+      "words": 843,
+      "has_text": true,
+      "sha1": "3dd1e21e7d84370c034de2b304b8899dcadf957b"
+    },
+    {
+      "page": 120,
+      "chars": 3469,
+      "words": 604,
+      "has_text": true,
+      "sha1": "3f9c2e1be43b48f7155faeb9207df1d59abf608d"
+    },
+    {
+      "page": 121,
+      "chars": 5277,
+      "words": 883,
+      "has_text": true,
+      "sha1": "0d6b03b93a665d720c6e9c0bce09b80c12fea292"
+    },
+    {
+      "page": 122,
+      "chars": 4675,
+      "words": 795,
+      "has_text": true,
+      "sha1": "284c06a551a161d0434badfca8a7f0de03941807"
+    },
+    {
+      "page": 123,
+      "chars": 4935,
+      "words": 851,
+      "has_text": true,
+      "sha1": "f4a8f8205cd554e82ba794548a89da8fa1e9d7fa"
+    },
+    {
+      "page": 124,
+      "chars": 5136,
+      "words": 804,
+      "has_text": true,
+      "sha1": "664004cdd494c62f731a0e460e733f4378909389"
+    },
+    {
+      "page": 125,
+      "chars": 5206,
+      "words": 799,
+      "has_text": true,
+      "sha1": "0243171deaff6a830761b65ded77183afbbc935b"
+    },
+    {
+      "page": 126,
+      "chars": 2745,
+      "words": 444,
+      "has_text": true,
+      "sha1": "08940fc19c9f8c201ec468bee8d984dfb9cc566a"
+    },
+    {
+      "page": 127,
+      "chars": 5637,
+      "words": 903,
+      "has_text": true,
+      "sha1": "5dc59ef7f85d1e85b2be680ae1d233d300cf87b7"
+    },
+    {
+      "page": 128,
+      "chars": 5399,
+      "words": 855,
+      "has_text": true,
+      "sha1": "b1f4bf59154b925e35398a8bc84f00a91db34c6f"
+    },
+    {
+      "page": 129,
+      "chars": 5487,
+      "words": 884,
+      "has_text": true,
+      "sha1": "583c2907fb095c74056818f239e44831a956e86c"
+    },
+    {
+      "page": 130,
+      "chars": 3058,
+      "words": 498,
+      "has_text": true,
+      "sha1": "cf9784e7aee27d7e04404462e03b1c6158ba0f63"
+    },
+    {
+      "page": 131,
+      "chars": 5617,
+      "words": 895,
+      "has_text": true,
+      "sha1": "ffa91af885eb9c70c5cb90d420195aa22511a3d6"
+    },
+    {
+      "page": 132,
+      "chars": 2359,
+      "words": 316,
+      "has_text": true,
+      "sha1": "5fb09fa2d1b031dd0b0e9dae3236de7815cd9d05"
+    },
+    {
+      "page": 133,
+      "chars": 5233,
+      "words": 845,
+      "has_text": true,
+      "sha1": "596d17d720582e92432e1f7a90d213daeb4a0f4c"
+    },
+    {
+      "page": 134,
+      "chars": 2706,
+      "words": 423,
+      "has_text": true,
+      "sha1": "c632817eadd2fdee8863bcab073647ba18d0ed61"
+    },
+    {
+      "page": 135,
+      "chars": 5488,
+      "words": 857,
+      "has_text": true,
+      "sha1": "295c387c02a026b471954bf4e593d8b62603248d"
+    },
+    {
+      "page": 136,
+      "chars": 4717,
+      "words": 743,
+      "has_text": true,
+      "sha1": "5c7d1f8593878d598f6a6caa7a455a199d9fd879"
+    },
+    {
+      "page": 137,
+      "chars": 5185,
+      "words": 863,
+      "has_text": true,
+      "sha1": "66d8807fc277fa3833ba725aaa2597d13d3ac203"
+    },
+    {
+      "page": 138,
+      "chars": 6144,
+      "words": 1029,
+      "has_text": true,
+      "sha1": "b19098cffebc906ab715a811589f2ac40ccd9091"
+    },
+    {
+      "page": 139,
+      "chars": 2662,
+      "words": 444,
+      "has_text": true,
+      "sha1": "638f70ebd92988419d04490d3542f39892af3e38"
+    },
+    {
+      "page": 140,
+      "chars": 6156,
+      "words": 947,
+      "has_text": true,
+      "sha1": "482c472bf2f4f67232de8f03650b927ea9c70720"
+    },
+    {
+      "page": 141,
+      "chars": 6180,
+      "words": 1002,
+      "has_text": true,
+      "sha1": "15042737969595d8c20237882efa6d20c2fb7711"
+    },
+    {
+      "page": 142,
+      "chars": 6164,
+      "words": 978,
+      "has_text": true,
+      "sha1": "4feed74ccbf1be2ad5fcda580616c51f8c951dd1"
+    },
+    {
+      "page": 143,
+      "chars": 5854,
+      "words": 902,
+      "has_text": true,
+      "sha1": "278633dfd1390759dc0ebaa8337499de227a93b4"
+    },
+    {
+      "page": 144,
+      "chars": 2873,
+      "words": 429,
+      "has_text": true,
+      "sha1": "3b23eae261909771c0d94b8b6bebf6114266fce1"
+    },
+    {
+      "page": 145,
+      "chars": 6058,
+      "words": 914,
+      "has_text": true,
+      "sha1": "46438fc164b08c6b98ac695b1f9cd23deda67a17"
+    },
+    {
+      "page": 146,
+      "chars": 6016,
+      "words": 947,
+      "has_text": true,
+      "sha1": "94e86f017278376617805dad47152bc5c04014d2"
+    },
+    {
+      "page": 147,
+      "chars": 26,
+      "words": 4,
+      "has_text": true,
+      "sha1": "9279543ec008bdbe79d383751974fd453d481971"
+    },
+    {
+      "page": 148,
+      "chars": 4345,
+      "words": 733,
+      "has_text": true,
+      "sha1": "5d5bd873d6e4081aaeeacc315497d6bb51d88ad3"
+    },
+    {
+      "page": 149,
+      "chars": 4281,
+      "words": 732,
+      "has_text": true,
+      "sha1": "c70db31329fbfc65ae5d7f67ff45171b2ed8cbfa"
+    },
+    {
+      "page": 150,
+      "chars": 5504,
+      "words": 935,
+      "has_text": true,
+      "sha1": "2580e12862d8c848e2c54521d511787e31e5c8ef"
+    },
+    {
+      "page": 151,
+      "chars": 2564,
+      "words": 424,
+      "has_text": true,
+      "sha1": "2cbef286c3a953acfa10bf965a91f2b483bb67f2"
+    },
+    {
+      "page": 152,
+      "chars": 2814,
+      "words": 463,
+      "has_text": true,
+      "sha1": "a71a9ce3ad02ced05fff48e52afaf6bc771a67f6"
+    },
+    {
+      "page": 153,
+      "chars": 5106,
+      "words": 852,
+      "has_text": true,
+      "sha1": "e766eac6df0220f175a8077f75df6c3fb462b43a"
+    },
+    {
+      "page": 154,
+      "chars": 2582,
+      "words": 447,
+      "has_text": true,
+      "sha1": "4318d176edddef2e2dea76652d58d7cff527d29d"
+    },
+    {
+      "page": 155,
+      "chars": 4040,
+      "words": 664,
+      "has_text": true,
+      "sha1": "fb89abb21715de0ecea706eda830002ad1fe65cc"
+    },
+    {
+      "page": 156,
+      "chars": 5459,
+      "words": 922,
+      "has_text": true,
+      "sha1": "0d5c922769ded7884944dfef54179b0436fc45bd"
+    },
+    {
+      "page": 157,
+      "chars": 5475,
+      "words": 913,
+      "has_text": true,
+      "sha1": "4acfddc3139cf1b398c19b0751fcb2d1c2b470fb"
+    },
+    {
+      "page": 158,
+      "chars": 5886,
+      "words": 1041,
+      "has_text": true,
+      "sha1": "5f5aca7eaf3bf83e02b10e436a5aa2b4c7eb44c1"
+    },
+    {
+      "page": 159,
+      "chars": 2674,
+      "words": 481,
+      "has_text": true,
+      "sha1": "51f6cd721301a4e21eb39925a3b550137ae34f97"
+    },
+    {
+      "page": 160,
+      "chars": 3330,
+      "words": 578,
+      "has_text": true,
+      "sha1": "49a5a000cbb5857a4f19e74cdb1c53cccbf470e9"
+    },
+    {
+      "page": 161,
+      "chars": 5335,
+      "words": 891,
+      "has_text": true,
+      "sha1": "cd885e85e7de498567253d4901ee114b0c2fac64"
+    },
+    {
+      "page": 162,
+      "chars": 5534,
+      "words": 912,
+      "has_text": true,
+      "sha1": "aee362b44dd7417c665ccd8320aa8d912a4f89b5"
+    },
+    {
+      "page": 163,
+      "chars": 5639,
+      "words": 908,
+      "has_text": true,
+      "sha1": "66c9c535a0b5b7624f0521f8c0e235e5b1234da6"
+    },
+    {
+      "page": 164,
+      "chars": 5025,
+      "words": 817,
+      "has_text": true,
+      "sha1": "95f8ab42a2ed204d301649a10280ef1e80bbeab3"
+    },
+    {
+      "page": 165,
+      "chars": 4138,
+      "words": 683,
+      "has_text": true,
+      "sha1": "1b86c4f61d13abf61af3a9812b789f1753e0706d"
+    },
+    {
+      "page": 166,
+      "chars": 2376,
+      "words": 384,
+      "has_text": true,
+      "sha1": "461d1257204df899471dd9d4f4b6ffc4f13f6e53"
+    },
+    {
+      "page": 167,
+      "chars": 2494,
+      "words": 403,
+      "has_text": true,
+      "sha1": "0ff57a8c9142a690910fffcd68003f68399a4335"
+    },
+    {
+      "page": 168,
+      "chars": 5418,
+      "words": 871,
+      "has_text": true,
+      "sha1": "da3982372b11098f03b571a620085e0e480da2ab"
+    },
+    {
+      "page": 169,
+      "chars": 4454,
+      "words": 755,
+      "has_text": true,
+      "sha1": "2ec861ef079ad663d766a03a9173f4857b9648c8"
+    },
+    {
+      "page": 170,
+      "chars": 2948,
+      "words": 488,
+      "has_text": true,
+      "sha1": "bdcb68d837b677d9e42a43de5651e1f6e4dd941c"
+    },
+    {
+      "page": 171,
+      "chars": 5298,
+      "words": 875,
+      "has_text": true,
+      "sha1": "be3d8fc244bb42cc5affcc0643e5d27719d326ec"
+    },
+    {
+      "page": 172,
+      "chars": 2239,
+      "words": 386,
+      "has_text": true,
+      "sha1": "e8f0b8684dc7c6ddd3aaf690b696fe9a97f053cb"
+    },
+    {
+      "page": 173,
+      "chars": 4477,
+      "words": 717,
+      "has_text": true,
+      "sha1": "a55bc59f1b622daf746b35e617962559475f885b"
+    },
+    {
+      "page": 174,
+      "chars": 4970,
+      "words": 832,
+      "has_text": true,
+      "sha1": "87a0fb7ed8a8b0eab0040a35f85cf3b844261c97"
+    },
+    {
+      "page": 175,
+      "chars": 5090,
+      "words": 843,
+      "has_text": true,
+      "sha1": "76cd156e7f8d931548332359709002acccceda8f"
+    },
+    {
+      "page": 176,
+      "chars": 5315,
+      "words": 899,
+      "has_text": true,
+      "sha1": "1b8155657b706cd9c8521001fd193844956b10da"
+    },
+    {
+      "page": 177,
+      "chars": 2503,
+      "words": 419,
+      "has_text": true,
+      "sha1": "afb247eb016916228dbb7bff1a7cf934dfd7b406"
+    },
+    {
+      "page": 178,
+      "chars": 5361,
+      "words": 901,
+      "has_text": true,
+      "sha1": "ea3ae35e2638d8a85e12cfd03129daf0dacf699e"
+    },
+    {
+      "page": 179,
+      "chars": 2590,
+      "words": 461,
+      "has_text": true,
+      "sha1": "040054c6e3cabf895be69a7a91a5070bb92eedf5"
+    },
+    {
+      "page": 180,
+      "chars": 3378,
+      "words": 592,
+      "has_text": true,
+      "sha1": "fa1a10ef0dace57879d57893cf6973938e42441b"
+    },
+    {
+      "page": 181,
+      "chars": 26,
+      "words": 4,
+      "has_text": true,
+      "sha1": "2755b9107a722c382911971d6b4dbf6f37179e18"
+    },
+    {
+      "page": 182,
+      "chars": 4632,
+      "words": 769,
+      "has_text": true,
+      "sha1": "1f68ad91e4f6252e78489363d24e2a9511829f28"
+    },
+    {
+      "page": 183,
+      "chars": 4768,
+      "words": 826,
+      "has_text": true,
+      "sha1": "d8bb5ee75d3cb6809588e9e256ab2e168361b5f8"
+    },
+    {
+      "page": 184,
+      "chars": 4342,
+      "words": 771,
+      "has_text": true,
+      "sha1": "571b56672ccd1f96227c7588a720802589c39500"
+    },
+    {
+      "page": 185,
+      "chars": 4444,
+      "words": 709,
+      "has_text": true,
+      "sha1": "6812b2e2f78f940cf52cb0b63e2d3c1af74d1729"
+    },
+    {
+      "page": 186,
+      "chars": 3331,
+      "words": 537,
+      "has_text": true,
+      "sha1": "9a139c6c4a91020283e93e56c22c61670d8b2679"
+    },
+    {
+      "page": 187,
+      "chars": 3050,
+      "words": 502,
+      "has_text": true,
+      "sha1": "de27b174fe9f2228da282b10bee7a6f62ebfde3b"
+    },
+    {
+      "page": 188,
+      "chars": 4754,
+      "words": 856,
+      "has_text": true,
+      "sha1": "5d5a49df3dbb13498cd7ebff7a6c84c77de99366"
+    },
+    {
+      "page": 189,
+      "chars": 5525,
+      "words": 960,
+      "has_text": true,
+      "sha1": "ba957f397d93d1903f52d15ebdd578b3449c5362"
+    },
+    {
+      "page": 190,
+      "chars": 2594,
+      "words": 416,
+      "has_text": true,
+      "sha1": "401df628188890ceeffeb67e7a9c2cba93194e14"
+    },
+    {
+      "page": 191,
+      "chars": 5558,
+      "words": 937,
+      "has_text": true,
+      "sha1": "b26379ffa2b60133122060ad9e32830e58ded800"
+    },
+    {
+      "page": 192,
+      "chars": 5420,
+      "words": 891,
+      "has_text": true,
+      "sha1": "ca8aa152a1f504de8e572a89d296fe3fd0f3fa53"
+    },
+    {
+      "page": 193,
+      "chars": 2931,
+      "words": 459,
+      "has_text": true,
+      "sha1": "c755ef8feb8d6c504e1e3b3e50389c51e9ae8647"
+    },
+    {
+      "page": 194,
+      "chars": 2853,
+      "words": 449,
+      "has_text": true,
+      "sha1": "362748fe5c5519cc095896fdc614be409a15f34e"
+    },
+    {
+      "page": 195,
+      "chars": 5368,
+      "words": 858,
+      "has_text": true,
+      "sha1": "cf3bd3d08b651a3e5151ac06d233ed79405b8b4e"
+    },
+    {
+      "page": 196,
+      "chars": 3820,
+      "words": 634,
+      "has_text": true,
+      "sha1": "6632559b37cb0b087f7e5c251e210650e1e0a931"
+    },
+    {
+      "page": 197,
+      "chars": 3533,
+      "words": 644,
+      "has_text": true,
+      "sha1": "2912f391efced843e196727b3fd27b165766b675"
+    },
+    {
+      "page": 198,
+      "chars": 3288,
+      "words": 584,
+      "has_text": true,
+      "sha1": "a73bad4d9a1a9b4066ad9299909fb8f73a0e9ebf"
+    },
+    {
+      "page": 199,
+      "chars": 4599,
+      "words": 789,
+      "has_text": true,
+      "sha1": "73692695cc0cd7c08b5ffecda8d9055f2960bd2d"
+    },
+    {
+      "page": 200,
+      "chars": 3039,
+      "words": 499,
+      "has_text": true,
+      "sha1": "0db8013313243bfc693e7f952c6c9e629c7f397e"
+    },
+    {
+      "page": 201,
+      "chars": 3904,
+      "words": 656,
+      "has_text": true,
+      "sha1": "f29d0ebae716af6ed5b645382ae16c89b0b25b69"
+    },
+    {
+      "page": 202,
+      "chars": 3413,
+      "words": 570,
+      "has_text": true,
+      "sha1": "c0bc25d6bd52bf7dd068e5d07baedddcbd90dd3c"
+    },
+    {
+      "page": 203,
+      "chars": 26,
+      "words": 4,
+      "has_text": true,
+      "sha1": "bf13290713030850051c2664adfd78fa7acf2099"
+    },
+    {
+      "page": 204,
+      "chars": 3836,
+      "words": 665,
+      "has_text": true,
+      "sha1": "6162467fd730ceb1e7b497f3b6498e7c4d7d6940"
+    },
+    {
+      "page": 205,
+      "chars": 3221,
+      "words": 558,
+      "has_text": true,
+      "sha1": "9da03b2d4d0e9780d522b980690346457a6a26cf"
+    },
+    {
+      "page": 206,
+      "chars": 2802,
+      "words": 518,
+      "has_text": true,
+      "sha1": "a59a926d7566c1ef37f3f980be3b54fccbd5d756"
+    },
+    {
+      "page": 207,
+      "chars": 2932,
+      "words": 465,
+      "has_text": true,
+      "sha1": "5b82504212ffc0f333901aacd85f8037fbb914ff"
+    },
+    {
+      "page": 208,
+      "chars": 3334,
+      "words": 546,
+      "has_text": true,
+      "sha1": "764cd3cc7570b6d4fe409512a67f1c5322df4317"
+    },
+    {
+      "page": 209,
+      "chars": 2901,
+      "words": 460,
+      "has_text": true,
+      "sha1": "faa67cda14705d41078f9ed162cbe2b579900694"
+    },
+    {
+      "page": 210,
+      "chars": 3230,
+      "words": 493,
+      "has_text": true,
+      "sha1": "a4690f5e39fc188df52ff1ea13f1bcfe0b0fb928"
+    },
+    {
+      "page": 211,
+      "chars": 3243,
+      "words": 513,
+      "has_text": true,
+      "sha1": "5a753fc9b0d7c5d2553b89d1315b2d8bb1cd09c0"
+    },
+    {
+      "page": 212,
+      "chars": 3284,
+      "words": 519,
+      "has_text": true,
+      "sha1": "8f5a4eac8df4f3ada25aa4660f540a081275a3a7"
+    },
+    {
+      "page": 213,
+      "chars": 2981,
+      "words": 468,
+      "has_text": true,
+      "sha1": "8d2447b7fefcb51f2036df44dd6affb61635e949"
+    },
+    {
+      "page": 214,
+      "chars": 3243,
+      "words": 515,
+      "has_text": true,
+      "sha1": "e716e99d2ef371d36557aa21981a4a22c2460232"
+    },
+    {
+      "page": 215,
+      "chars": 2865,
+      "words": 474,
+      "has_text": true,
+      "sha1": "8f00f82db807fc8f8594448cdd5590f0f5bcf245"
+    },
+    {
+      "page": 216,
+      "chars": 3556,
+      "words": 589,
+      "has_text": true,
+      "sha1": "5fba44c7768996a1d7a0a14e0afacc6dfe40436d"
+    },
+    {
+      "page": 217,
+      "chars": 2920,
+      "words": 485,
+      "has_text": true,
+      "sha1": "15de0634f4569beced1b4788e7a1e05db83dde65"
+    },
+    {
+      "page": 218,
+      "chars": 2934,
+      "words": 482,
+      "has_text": true,
+      "sha1": "16d35b52748e7ac31df88dd6aaceb015b0b9918e"
+    },
+    {
+      "page": 219,
+      "chars": 3441,
+      "words": 564,
+      "has_text": true,
+      "sha1": "132efa9ce29cc024be63a7b3e1d25b1f641132fc"
+    },
+    {
+      "page": 220,
+      "chars": 3060,
+      "words": 522,
+      "has_text": true,
+      "sha1": "65b5c7610a70efc9baa2bd9a403915d4fc67af73"
+    },
+    {
+      "page": 221,
+      "chars": 2907,
+      "words": 472,
+      "has_text": true,
+      "sha1": "b2827f7016d66c207a49717aaedc24423d44c765"
+    },
+    {
+      "page": 222,
+      "chars": 3280,
+      "words": 543,
+      "has_text": true,
+      "sha1": "24c347eb11c3be891711e04e3f7f68dbe6abec2f"
+    },
+    {
+      "page": 223,
+      "chars": 2660,
+      "words": 461,
+      "has_text": true,
+      "sha1": "b40a5622663e4f3b3b81393c4aee25c518fad3ba"
+    },
+    {
+      "page": 224,
+      "chars": 3104,
+      "words": 521,
+      "has_text": true,
+      "sha1": "925b07144f29ba37c612d605013b2f5036d602ea"
+    },
+    {
+      "page": 225,
+      "chars": 3110,
+      "words": 522,
+      "has_text": true,
+      "sha1": "b127d3759b10be14cd5c5d9ed23d215c246eec70"
+    },
+    {
+      "page": 226,
+      "chars": 3318,
+      "words": 551,
+      "has_text": true,
+      "sha1": "1be095a3d03296d55c6955c590cc4c565bffc324"
+    },
+    {
+      "page": 227,
+      "chars": 2773,
+      "words": 464,
+      "has_text": true,
+      "sha1": "525c2bbe50bcb76f0132bb4296b5082c4e2c8e72"
+    },
+    {
+      "page": 228,
+      "chars": 3147,
+      "words": 514,
+      "has_text": true,
+      "sha1": "168bfbab2ec081013210d4ce31cd29b122f4bb82"
+    },
+    {
+      "page": 229,
+      "chars": 2985,
+      "words": 499,
+      "has_text": true,
+      "sha1": "3c217abb06cd2805f540a18bdee4b3742b2ee8e5"
+    },
+    {
+      "page": 230,
+      "chars": 3458,
+      "words": 569,
+      "has_text": true,
+      "sha1": "2be0c218d1dfe85cd1643938759dda163d752e0f"
+    },
+    {
+      "page": 231,
+      "chars": 2976,
+      "words": 477,
+      "has_text": true,
+      "sha1": "3728c48962ee2f0a7d8276d7b8433840e107da3b"
+    },
+    {
+      "page": 232,
+      "chars": 3917,
+      "words": 639,
+      "has_text": true,
+      "sha1": "5af1401dcd7d69bd8317539187402d08486309b5"
+    },
+    {
+      "page": 233,
+      "chars": 2896,
+      "words": 487,
+      "has_text": true,
+      "sha1": "3e23fc4a9f99160187bd93f60c88ae16d7a57321"
+    },
+    {
+      "page": 234,
+      "chars": 2886,
+      "words": 475,
+      "has_text": true,
+      "sha1": "96bf167489e17cca30965bebd810c94ce4048b62"
+    },
+    {
+      "page": 235,
+      "chars": 2876,
+      "words": 492,
+      "has_text": true,
+      "sha1": "dc09d4a0b00f7051a29100e0ff3fccacac68f77f"
+    },
+    {
+      "page": 236,
+      "chars": 3270,
+      "words": 545,
+      "has_text": true,
+      "sha1": "1f0e6fc58edd9026fd39adbf78b152e5c51cb8c0"
+    },
+    {
+      "page": 237,
+      "chars": 2598,
+      "words": 440,
+      "has_text": true,
+      "sha1": "cf1606bdb130cbfc903bd3dcc1133fb9b020a990"
+    },
+    {
+      "page": 238,
+      "chars": 3133,
+      "words": 510,
+      "has_text": true,
+      "sha1": "06e2adab51b063df1796983ae97d7ba7dc597083"
+    },
+    {
+      "page": 239,
+      "chars": 2848,
+      "words": 474,
+      "has_text": true,
+      "sha1": "d06f194d3643dc5d14e958ab3b7b0bf198d82176"
+    },
+    {
+      "page": 240,
+      "chars": 3324,
+      "words": 555,
+      "has_text": true,
+      "sha1": "eb34c7596fd0fb523c38f1fd49d16051aeedc42d"
+    },
+    {
+      "page": 241,
+      "chars": 2874,
+      "words": 457,
+      "has_text": true,
+      "sha1": "29704e3e76440999b5b8b9050a4dfe2b4f7f396a"
+    },
+    {
+      "page": 242,
+      "chars": 3209,
+      "words": 511,
+      "has_text": true,
+      "sha1": "b275f1979cce0fe87242d26a4e5f132e32a1d288"
+    },
+    {
+      "page": 243,
+      "chars": 2838,
+      "words": 480,
+      "has_text": true,
+      "sha1": "9b6faff26181cc3960482606a9b4c2ade3128ff3"
+    },
+    {
+      "page": 244,
+      "chars": 2969,
+      "words": 501,
+      "has_text": true,
+      "sha1": "b0f5dd97e3320e9f9626dec737c56be6b80fac03"
+    },
+    {
+      "page": 245,
+      "chars": 2917,
+      "words": 446,
+      "has_text": true,
+      "sha1": "e9fb3e5b58366b5d8acc6713a5e22da3411a099a"
+    },
+    {
+      "page": 246,
+      "chars": 2882,
+      "words": 448,
+      "has_text": true,
+      "sha1": "c805d9c5e37556c4f4e64cc9f02adb9a67a678df"
+    },
+    {
+      "page": 247,
+      "chars": 2850,
+      "words": 452,
+      "has_text": true,
+      "sha1": "688619c5460344a1df020f595152bc743ff1ecbb"
+    },
+    {
+      "page": 248,
+      "chars": 3132,
+      "words": 501,
+      "has_text": true,
+      "sha1": "dea3c58adee7303453dea9daa274df3e72991691"
+    },
+    {
+      "page": 249,
+      "chars": 3328,
+      "words": 538,
+      "has_text": true,
+      "sha1": "12763588912e8648238c2540ab02867b539d6630"
+    },
+    {
+      "page": 250,
+      "chars": 3599,
+      "words": 604,
+      "has_text": true,
+      "sha1": "fe8645a8a2407caace9e462183eb6d83dd20ab18"
+    },
+    {
+      "page": 251,
+      "chars": 4236,
+      "words": 668,
+      "has_text": true,
+      "sha1": "b485c525594d15570e85f35f9fd3785dfe414843"
+    },
+    {
+      "page": 252,
+      "chars": 4719,
+      "words": 759,
+      "has_text": true,
+      "sha1": "5fdec01dfcf4e4399578e07a78d185076416e45c"
+    },
+    {
+      "page": 253,
+      "chars": 4298,
+      "words": 684,
+      "has_text": true,
+      "sha1": "d67f1f69c7d82595444a41efef4632c3e96a9130"
+    },
+    {
+      "page": 254,
+      "chars": 4611,
+      "words": 746,
+      "has_text": true,
+      "sha1": "1106a6b8de127671ff436588616a2d7c18ab42ac"
+    },
+    {
+      "page": 255,
+      "chars": 4835,
+      "words": 786,
+      "has_text": true,
+      "sha1": "df9dedf4edc4e1b28a73e8e2bc6ec050aa5eb9cb"
+    },
+    {
+      "page": 256,
+      "chars": 12777,
+      "words": 1947,
+      "has_text": true,
+      "sha1": "d62a1568d56056a5ba57d54ec7597a4d3e02d01e"
+    },
+    {
+      "page": 257,
+      "chars": 629,
+      "words": 106,
+      "has_text": true,
+      "sha1": "934f6e23f104f1d9645292cc059f2bbd86137bb9"
+    },
+    {
+      "page": 258,
+      "chars": 527,
+      "words": 82,
+      "has_text": true,
+      "sha1": "11373a0b92a353a9b5d5aaea6ad273209fa9e1fa"
+    }
+  ]
+}

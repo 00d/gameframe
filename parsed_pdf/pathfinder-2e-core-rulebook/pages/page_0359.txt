@@ -1,0 +1,130 @@
+PLANT FORM
+SPELL 5
+PLANT
+POLYMORPH
+TRANSMUTATION
+Traditions primal
+Cast [two‑actions] somatic, verbal
+Duration 1 minute
+Taking inspiration from verdant creatures, you transform into
+a Large plant battle form. You must have space to expand into
+or the spell is lost. When you cast this spell, choose arboreal,
+flytrap, or shambler. You can substitute a similar specific plant
+to turn into (such as a pitcher plant instead of a flytrap), but
+this has no effect on the form’s Size or statistics. While in this
+form, you gain the plant trait. You can Dismiss the spell.
+You gain the following statistics and abilities regardless of
+which battle form you choose:
+•	 AC = 19 + your level. Ignore your armor’s check penalty
+and Speed reduction.
+•	 12 temporary Hit Points.
+•	 Resistance 10 to poison.
+•	 Low-light vision.
+•	 One or more unarmed melee attacks specific to the
+battle form you choose, which are the only attacks
+you can use. You’re trained with them. Your attack
+modifier is +17, and your damage bonus is +11. These
+attacks are Strength based (for the purpose of the
+enfeebled condition, for example). If your unarmed
+attack modifier is higher, you can use it instead.
+•	 Athletics modifier of +19, unless your own modifier
+is higher.
+You also gain specific abilities based on the type of plant
+you choose:
+•	 Arboreal Speed 30 feet; Melee [one‑action] branch (reach 15
+feet), Damage 2d10 bludgeoning; Melee [one‑action] foot,
+Damage 2d8 bludgeoning; you can speak in this
+form, but you still can’t Cast a Spell or supply verbal
+components.
+•	 Flytrap Speed 15 feet; resistance 10 to acid; Melee [one‑action]
+leaf (reach 10 feet), Damage 2d8 piercing, and you can
+spend an action after a hit to Grab the target.
+•	 Shambler Speed 20 feet, swim Speed 20 feet;
+resistance 10 to electricity; Melee [one‑action] vine (reach 15
+feet), Damage 2d8 slashing.
+Heightened (6th) Your battle form is Huge, and the reach
+of your attacks increases by 5 feet. You instead gain
+AC = 22 + your level, 24 temporary HP, attack modifier +21,
+damage bonus +16, and Athletics +22.
+POLAR RAY
+SPELL 8
+COLD
+EVOCATION
+Traditions arcane, primal
+Cast [two‑actions] somatic, verbal
+Range 120 feet; Targets 1 creature or object
+You fire a blue-white ray of freezing air and swirling sleet from
+your finger that can chill your target to the bones. You must
+succeed at a spell attack roll to affect the target, which then
+takes 10d8 cold damage and is drained 2.
+Heightened (+1) The damage increases by 2d8.
+POSSESSION
+SPELL 7
+UNCOMMON
+INCAPACITATION
+MENTAL
+NECROMANCY
+POSSESSION
+Traditions occult
+Cast [two‑actions] somatic, verbal
+Range 30 feet; Targets 1 living creature
+Saving Throw Will; Duration 1 minute
+You send your mind and soul into the target’s body, attempting
+to take control. The target must attempt a Will save. You can
+choose to use the effects of a degree of success more favorable
+to the target if you prefer.
+While you’re possessing a target, your own body is
+unconscious and can’t wake up normally. You can sense
+everything the possessed target does. You can Dismiss this
+spell. If the possessed body dies, the spell ends and you
+must succeed at a Fortitude save against your spell DC or
+be paralyzed for 1 hour, or 24 hours on a critical failure. If
+the spell ends during an encounter, you act just before the
+possessed creature’s initiative count.
+Critical Success The target is unaffected.
+Success You possess the target but can’t control it. You ride
+along in the body while the spell lasts.
+Failure You possess the target and take partial control of it.
+You no longer have a separate turn; instead, you might
+control the target. At the start of each of the target’s turns,
+it attempts another Will save. If it fails, it’s controlled by you
+on that turn; if it succeeds, it chooses its own actions; and
+if it critically succeeds, it forces you out and the spell ends.
+Critical Failure You possess the target fully, and it can only
+watch as you manipulate it like a puppet. The target is
+controlled by you.
+Heightened (9th) The duration is 10 minutes, and you can
+physically enter the creature’s body, protecting your physical
+body while the spell lasts.
+POWER WORD BLIND
+SPELL 7
+UNCOMMON
+AUDITORY
+ENCHANTMENT
+MENTAL
+Traditions arcane
+Cast [one‑action] verbal
+Range 30 feet; Targets 1 creature
+Duration varies
+You utter an arcane word of power that can make the target
+blinded upon hearing it. Once targeted, the target is then
+temporarily immune for 10 minutes. The effect of the spell
+depends on the target’s level.
+11th or Lower The target is blinded permanently.
+12th–13th The target is blinded for 1d4 minutes.
+14th or Higher The target is dazzled for 1 minute.
+Heightened (+1) The levels at which each outcome applies
+increase by 2.
+POWER WORD KILL
+SPELL 9
+UNCOMMON
+AUDITORY
+DEATH
+ENCHANTMENT
+MENTAL
+Traditions arcane
+Cast [one‑action] verbal
+Range 30 feet; Targets 1 creature
+Duration varies
+Core Rulebook
+358

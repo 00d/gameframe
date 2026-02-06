@@ -53,6 +53,27 @@ of reality.
 PAGE 12
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668864
+4425021
+A-C
+11
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 AC 45; Fort +32, Ref +31, Will +37; +1 status to all saves vs. magic
 HP 335, regeneration 20 (deactivated by chaotic); Immunities negative, positive;
 Weaknesses chaotic 20
@@ -71,7 +92,8 @@ of movement
 Energy Touch A pleroma’s touch deals its choice of positive or negative damage, but
 neither energy can be used to heal a creature.
 Sphere of Creation ʚʖ (incapacitation, magical) Three
-times per day, a pleroma can manifest a 2-footdiameter sphere of white energy that hovers
+times per day, a pleroma can manifest a 2-foot-
+diameter sphere of white energy that hovers
 above its left hand. By using a single action,
 which has the concentrate trait, the pleroma can
 cause the sphere to ﬂy 10 feet. The sphere can
@@ -121,12 +143,30 @@ four-armed bythos and the weirdly
 symmetrical theletos, which
 moderates the duality between
 freedom and fate.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668864
+4425021
 
-================================================================================
 PAGE 13
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668865
+4425022
 Bestiary
+12
 Alghollthu
 In bygone millennia, aquatic monsters known as alghollthus used their occult
 powers to conquer and rule vast parts of the world. Their empires contained
@@ -157,7 +197,8 @@ ulat-kinis, a servitor race created from human stock
 to serve as rank-and-ﬁle soldiers in alghollthu armies.
 At the zenith of alghollthu power, ulat-kinis formed
 massive legions and enjoyed signiﬁcant power over other species. When the
-alghollthus retreated from the world, they abandoned teeming hordes of ulatkinis. Although these erstwhile soldiers tried to continue their conquering
+alghollthus retreated from the world, they abandoned teeming hordes of ulat-
+kinis. Although these erstwhile soldiers tried to continue their conquering
 ways, their numbers declined rapidly in battleﬁeld defeats and purposeful
 exterminations enacted by their enemies. Ulat-kini society
 degenerated, so that now only a few enclaves exist
@@ -165,56 +206,67 @@ in the depths of the earth or along isolated
 coastlines. Few remember their own species’
 name, instead using the epithet their foes
 gave them: “skum.”
+SKUM
+CREATURE 2
+LE
+MEDIUM
+AMPHIBIOUS
+HUMANOID
+Perception +6; darkvision
+Languages Alghollthu, Undercommon
+Skills Athletics +8, Intimidation +4, Stealth +7
+Str +4, Dex +1, Con +3, Int +0, Wis +0, Cha –2
+Items trident
+AC 16; Fort +7, Ref +7, Will +4
+HP 40; Resistances cold 5
+Speed 20 feet, swim 40 feet
+Melee Ȱɵ trident +10, Damage 1d8+4 piercing
+Melee Ȱɵ claw +10 (agile), Damage 1d6+4
+slashing
+Melee Ȱɵ fangs +10, Damage 2d4+4 piercing
+Ranged Ȱɵ trident +7 (thrown 20 feet),
+Damage 1d8+3 piercing
+ALGHOLLTHU DOMAINS
+The ruling castes of the alghollthu
+species dwell in oceanic depths
+or underground waterways, while
+their servitors like ulat-kinis and
+ugothols can often be found in
+coastal regions and marshes.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668865
+4425022
 
-================================================================================
-# PURPLE WORM
-================================================================================
-
-
-Bestiary
-Cave Worm
-Cave worms are gigantic scavengers that bore through the depths of the world,
-eating whatever material they ﬁnd. Named for their distinctive colorations, these
-worms are ravenous and display overwhelming destructive capabilities. Cave worms
-of different colors and abilities lurk in the more remote corners of the world—tales
-speak of white worms that dwell within immense glaciers or icebergs and gray
-worms that burrow through the boneyards of long-forgotten ruins, to name a few.
-Purple Worm
-The purple worm is the most common and infamous of the cave worms, a
-much‑feared monster wandering the twisting tunnels of the Darklands that is capable
-of carving out entire cave systems. Tunnels bored by a purple worm don’t always last
-long after these creature’s passage, and areas where they nest are maddening mazes
-of passageways that lead nowhere, yet navigating the labyrinth to ﬁnd the worm’s
-central nest often yields amazing treasures left behind by the worm’s prior victims.
-PURPLE WORM
-CREATURE 13
-N
-GARGANTUAN
-ANIMAL
-Perception +20; darkvision, tremorsense (imprecise) 100 feet
-Skills Athletics +30
-Str +9, Dex –1, Con +7, Int –5, Wis –1, Cha –1
-BELLY OF THE BEAST
-The adventure need not end simply
-because the party was ingloriously
-swallowed whole by a giant cave
-worm. Perhaps the PCs ﬁnd an
-undigested item that helps them
-survive the inhospitable environ,
-or maybe the worm regurgitates
-them in a cavern far oﬀ from
-where they started. Whatever
-the speciﬁcs, you can easily draw
-from folklore and popular ﬁction
-to create your own "belly of the
-worm" adventure for heroes who
-wind up on the wrong side of the
-monster’s scales.
-
-================================================================================
 PAGE 58
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668910
+4425067
+A-C
+57
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 RAVENOUS TUNNELERS
 Cave worms are infamous for
 being nearly unstoppable and for
@@ -281,91 +333,54 @@ that an azure worm that burrows into a tunnel often brings with it waters from
 the submerged river or lake it calls home. When it becomes obvious that an
 azure worm is near a Darklands settlement, the inhabitants quickly establishing
 a hunting party to deal with the menace before it can bring ruin.
+AZURE WORM
+CREATURE 15
+UNCOMMON
+N
+GARGANTUAN
+AMPHIBIOUS
+ANIMAL
+Perception +22; darkvision, tremorsense (imprecise) 100 feet
+Skills Athletics +33, Stealth +20 (+25 in water)
+Str +10, Dex –1, Con +8, Int –5, Wis –1, Cha –1
+AC 35; Fort +32, Ref +20, Will +23
+HP 320
+Inexorable As purple worm.
+Shake It Oﬀ Ǻȓ As purple worm.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668910
+4425067
 
-================================================================================
-# PHISTOPHILUS
-================================================================================
-
-
-Bestiary
-INFERNAL CONTRACTS
-The infernal contracts created by
-contract devils are not the only
-ways a devil can engage a mortal in
-a binding agreement, but they are
-the most convenient. Other devils
-must perform complex rituals or
-jump through bureaucratic hoops to
-organize a contract with a mortal,
-and in most cases the easiest
-solution for devils in this situation
-is to simply enlist the aid of a
-contract devil.
-prices seemingly lesser than their soul all at once, though in this case, the devil
-carefully manipulates the price to drive the signatory toward the forces of
-law and evil, and therefore ultimately to Hell anyway. Contract devils are tall
-creatures with skin tones that range from bronze to crimson and large curving
-horns extending from their bodies, over which they often drape favored or
-important contracts.
-PHISTOPHILUS
-CREATURE 10
-LE
-MEDIUM
-DEVIL
-FIEND
-Perception +21; greater darkvision
-Languages Abyssal, Aklo, Celestial, Common, Draconic, Infernal, Undercommon;
-telepathy 100 feet, tongues
-Skills Arcana +19, Deception +23, Diplomacy +21, Intimidation +21, Legal Lore +25,
-Religion +19, Society +19, Stealth +18
-Str +3, Dex +4, Con +4, Int +7, Wis +5, Cha +5
-AC 30; Fort +18, Ref +18, Will +23; +1 status to all saves vs. magic
-HP 150; Immunities ﬁre, ward contract; Weaknesses good 10; Resistances physical
-10 (except silver), poison 10
-Ward Contract A signed contract carried by a living contract devil (including
-draped over its horns) is immune to damage from all creatures other than
-that contract devil. A contract devil is immune to mental eﬀects that would
-make it destroy, nullify, or alter a contract.
-Speed 25 feet
-Melee Ȱɵ binding contract +23 (agile, disarm, evil, magical, reach 10 feet, trip),
-Damage 3d6+11 slashing plus 1d6 evil, Grab, and infernal wound
-Melee Ȱɵ horn +21 (magical), Damage 3d10+11 piercing and
-infernal wound
-Divine Innate Spells DC 31; 10th scrying (at will, see infernal
-investment) 7th plane shift; 5th dimension door, ﬁreball,
-illusory scene, lightning bolt, locate (at will), mind probe,
-sending (at will); 4th dimension door (at will), private
-sanctum, silence; 3rd mind reading (at will); Cantrips
-(7th) detect magic; Constant (5th) tongues
-Rituals DC 31; infernal pact
-Draft Contract ̂ˬ (conjuration, divine, manipulate)
-The contract devil produces an infernal contract for
-a single living mortal. This contract can grant a wide
-range of abilities and eﬀects, akin to the power of a
-wish spell but fulﬁlled to the letter by the contract
-devil. To receive any of those beneﬁts, the mortal must
-willingly sign its true name to the contract. At that
-point, the mortal’s soul is bound to the contract devil
-and Hell.
- While the contract is in eﬀect, the victim can’t be
-restored to life except by wish or similar magic. If
-the mortal is restored to life by those means, the
-contract devil knows which mortal came to life and
-can locate the creature or creatures who restored
-the mortal to life for 1 year, gaining the eﬀects of a
-locate spell with unlimited range. Avoiding the terms
-of an infernal contract is diﬃcult and often dangerous.
-Infernal Investment A contract devil can cast a 10th-level innate scrying spell
-at will, but only to target a creature with which it has a contract. The target
-automatically critically fails its save.
-Infernal Wound (divine, necromancy) As barbazu, but the
-persistent bleed damage is 3d6, and the counteract DC to
-use healing magic is 29.
-
-================================================================================
 PAGE 92
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668944
+4425101
+D
+91
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 FIRE AND ICE
 The classic depiction of Hell
 is of a burning wasteland of
@@ -394,30 +409,70 @@ outstanding skill might amuse an ice devil enough for the gelugon to agree to
 a contest of strategy, typically a strategic board game like chess, to decide a
 dispute. In the unlikely event the devil loses such a contest, they inevitably go to
 great lengths to later obtain that mortal’s services for their own infernal ends.
-
-================================================================================
-# PIT FIEND
-================================================================================
-
-PIT FIEND
-CREATURE 20
+GELUGON
+CREATURE 13
 LE
 LARGE
 DEVIL
 FIEND
-Perception +37; greater darkvision, true seeing
+Perception +26; greater darkvision
 Languages Celestial, Common, Draconic, Infernal; telepathy 100 feet
-Skills Acrobatics +34, Arcana +32, Athletics +33, Deception +39, Diplomacy +34,
-Intimidation +39, Religion +37, Society +36, Stealth +34
-Str +9, Dex +8, Con +9, Int +8, Wis +9, Cha +8
-AC 46; Fort +37, Ref +32, Will +35; +1 status to all saves vs. magic
-HP 335, regeneration 30 (deactivated by good); Immunities ﬁre; Weaknesses good 15;
-Resistances physical 15 (except silver), poison 15
+Skills Acrobatics +22, Athletics +23, Deception +25, Diplomacy +25, Intimidation +23,
+Religion +26, Society +25, Stealth +22, Warfare Lore +30
+Str +6, Dex +5, Con +5, Int +8, Wis +5, Cha +4
+Items +1 striking longspear
+AC 34; Fort +24, Ref +24, Will +26; +1 status to all saves vs. magic
+HP 215; Immunities cold, ﬁre; Weaknesses good 10; Resistances physical 10
+(except silver), poison 10
+Frightful Presence (aura, divine, emotion, enchantment, fear, mental) 10 feet, DC 31
+Attack of Opportunity Ǻȓ
+Speed 35 feet, ﬂy 35 feet (from ﬂy)
+Melee Ȱɵ frost longspear +28 (cold, evil, magical, reach 15 feet), Damage 2d8+12 piercing
+plus 1d6 cold, 1d6 evil, and slowing frost
+Melee Ȱɵ tail +25 (agile, cold, evil, magical, reach 10 feet), Damage 2d6+12 bludgeoning
+plus 2d6 cold, 1d6 evil, and slowing frost
+Ranged Ȱɵ frost longspear
++27 (cold, magical, thrown
+20 feet), Damage 2d8+12
+piercing plus 1d6 cold
+Divine Innate Spells DC 33; 7th cone of cold
+(×2); 6th illusory scene; 5th dimension door, wall
+of ice (×3); 4th dimension door (at will); Cantrips
+(7th) ray of frost; Constant (4th) ﬂy
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668944
+4425101
 
-================================================================================
 PAGE 94
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668946
+4425103
+D
+93
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 OTHER DEVILS
 The devils presented on these
 pages are a small sampling of the
@@ -485,12 +540,30 @@ Pit Fiend Venom (poison); Saving Throw DC 43 Fortitude; Maximum
 Duration 10 rounds; Stage 1 6d6 poison damage and drained 1 (1
 round); Stage 2 7d6 poison damage and drained 2 (1 round); Stage 3 8d6
 poison damage and drained 3 (1 round)
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668946
+4425103
 
-================================================================================
 PAGE 95
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668947
+4425104
 Bestiary
+94
 DEZULLON VENOM
 The dezullon is most well known
 for the psychoactive eﬀects of
@@ -526,167 +599,75 @@ leaves that protrude from the inside of their pitchers like
 a leech’s teeth. This latter variety is especially dangerous,
 since the leaves can all but eviscerate creatures that become
 ensconced inside their pitchers.
+DEZULLON
+CREATURE 10
+N
+MEDIUM
+PLANT
+Perception +18; low-light vision
+Skills Acrobatics +21, Athletics +19, Stealth +21 (+24 in forests or swamps)
+Str +5, Dex +7, Con +3, Int –4, Wis +2, Cha –1
+AC 30; Fort +17, Ref +21, Will +16
+HP 130, regeneration 15 (deactivated by ﬁre); Resistances acid 20
+Stench (aura, olfactory) 30 feet. A creature entering the emanation must
+attempt a DC 27 Fortitude save. On a failure, the creature is sickened 1, and
+on a critical failure is also slowed 1. While within the aura, the creature
+takes a –2 circumstance penalty to saves to
+recover from the sickened condition. A
+creature that succeeds at the save is
+temporarily immune to this eﬀect for
+1 minute.
+Speed 25 feet; climb 30 feet
+Melee Ȱɵ vine +21 (acid, agile),
+Damage 3d6+8 bludgeoning plus
+3d6 acid and Grab
+Ranged Ȱɵ acid glob +23 (acid, range
+30 feet), Damage 4d8 acid plus
+amnesia venom
+Amnesia Venom (mental, poison); Saving Throw
+DC 29 Fortitude; Maximum Duration 6 rounds; Stage
+1 ﬂat-footed (1 round); Stage 2 ﬂat-footed and clumsy 1
+(1 round); Stage 3 confused, ﬂat-footed, and clumsy 2 (1 round).
+Constrict Ȱɵ 2d6+2 bludgeoning
+Root Ȱɵ (concentrate) Until the next time it acts, the dezullon
+appears to be a normal pitcher plant. It has an
+automatic result of 41 (44 in forests or swamps)
+on Deception checks and DCs to pass as a
+non‑creature plant.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668947
+4425104
 
-================================================================================
-# PUGWAMPI
-================================================================================
-
-
-GREMLIN “TREASURE”
-All gremlins are hoarders, and their
-nests are cluttered with objects
-both valuable and worthless.
-Sorting through a gremlin nest can
-reveal unexpected treasures like
-pieces of jewelry or minor magic
-items, but care must also be taken
-to avoid being cut on rusty shards
-of metal, picking up cursed items,
-or disturbing a hidden nest of
-venomous vermin.
-PUGWAMPI
-CREATURE 0
-NE
-TINY
-FEY
-GREMLIN
-Perception +6 (–2 to hear things); darkvision
-Languages Gnoll, Undercommon
-Skills Crafting +2, Deception +2, Nature +4, Stealth +5, Thievery +5
-Str –3, Dex +3, Con +0, Int +0, Wis +2, Cha –2
-Items shortbow (60 arrows), shortsword
-AC 16, Fort +5, Ref +8, Will +6
-HP 17; Weaknesses cold iron 2
-Unluck Aura (aura, divination, mental, misfortune, primal) 20 feet. Creatures other than
-animals, gremlins, and gnolls in the aura become extremely unlucky (DC 16 Will save;
-creature must roll this Will save twice and take the worse result). On a successful
-save, the creature is temporarily immune to pugwampi unluck auras for 24 hours. On
-a failure, the creature must roll twice and take the worse result on all checks as long
-as it is within the aura.
-Speed 25 feet
-Melee Ȱɵ shortsword +8 (agile, ﬁnesse, magical, versatile S), Damage 1d6–3 slashing
-Ranged Ȱɵ shortbow +8 (deadly 1d10, magical, range increment 60 feet, reload 0),
-Damage 1d6 piercing
-Primal Innate Spells DC 16; 2nd speak with animals (at will); Cantrips
-(1st) prestidigitation
-Jinkin
-Jinkins are sadistic tinkers who steal and sabotage items and take great
-pride in their power to curse precious objects. They hold grudges and
-create convoluted plans for revenge whenever they feel slighted, such as
-when a creature dares to remove one of their curses. Rarely content to
-wreak simple mayhem, jinkins also take immense pleasure in torture and
-murder, though they prefer to lead
-victims into traps designed to capture
-or incapacitate rather than kill outright.
-Deep pits are favorites, since victims
-who survive the fall face a slow death from
-starvation and thirst. Jinkins enjoy gathering
-at the edge of pits to mock, tease, and torment.
-
-================================================================================
-# PEGASUS
-================================================================================
-
-
-Bestiary
-CORRUPTED PEGASI
-When a foul inﬂuence from the
-ﬁendish planes, a necromantic
-blight, or any other sinister
-inﬂuence spreads through a
-wilderness, pegasi can become
-corrupted. These neutral evil
-pegasi have the same statistics
-as those presented here, but are
-much more violent.
-Pegasus
-The pegasus is a winged horse prized for its capacity to serve as an aerial mount.
-Unfortunately for those who desire a saddle-trained pegasus, pegasi are wild
-creatures and do not readily accept even well-intentioned riders. Pegasi actively
-resist being mounted or controlled by evil creatures, attempting to buck an
-unwanted rider at every opportunity. A typical pegasus stands 6 feet high at the
-shoulder, weighs 1,500 pounds, and has a wingspan of 20 feet.
-Pegasi are highly intelligent beasts and have a strong sense of pride and
-honor. The best way to entreat a pegasus is by speaking to it with grace and
-offering gifts appropriate to a creature of such majesty. Prospective riders who
-seek the mount for a worthy cause or virtuous quest have a much easier time
-coaxing a pegasus into granting its favor. Regardless, a pegasus never accepts
-a bit or saddle, for reasons both practical (a standard horse saddle
-interferes with its wings) and purely egotistical.
-In the wild, pegasi live in small herds and establish
-territories on remote mountains where they
-are relatively safe
-from hunters and
-slavers. They mature at the
-same rate as horses and can even
-breed with other equines, though the
-outcome of such unions is typically a foal with
-the traits of its least magical parent. On rare occasions,
-the interbreeding of a pegasus and a unicorn may result in
-a winged unicorn with characteristics of both parents and an
-unrivaled sense of righteousness.
-Some pegasi carry in them the blood of a mighty and heroic ancestor. These
-champions of pegasus-kind dedicate their long lives to the pursuit of justice.
-They possess powerful supernatural abilities to aid them in this ﬁght, such as
-resistance to ﬁre and poison, immunity to petriﬁcation, and holy hoof attacks.
-PEGASUS
-CREATURE 3
-NG
-LARGE
-BEAST
-Perception +12; darkvision, scent (imprecise) 30 feet
-Languages Common (can’t speak any language)
-Skills Acrobatics +11, Athletics +10
-Str +3, Dex +4, Con +2, Int +0, Wis +2, Cha +3
-AC 19; Fort +9, Ref +11, Will +7
-HP 55
-Buck Ǻȓ DC 19
-Speed 40 feet, ﬂy 80 feet
-Melee Ȱɵ hoof +10, Damage 1d8+5 bludgeoning
-Melee Ȱɵ wing +10 (agile), Damage 1d6+5 bludgeoning
-Assisted Mount Ȱɵ Requirement The pegasus is Flying without a rider. Eﬀect The
-pegasus Flies. At any point during the movement, it can allow a willing adjacent
-creature to Mount it. That creature must use a reaction to do so.
-Gallop ʚʖ The pegasus uses 2 move actions, each of which can be either Stride or
-Fly. It gains a +20-foot circumstance bonus to its Speeds during a Gallop.
-
-================================================================================
 PAGE 262
 ================================================================================
 
-SERVANTS OF SARENRAE
-While phoenixes are not denizens
-of the Outer Planes, they have
-long been associated with the
-goddess Sarenrae. Indeed, many
-phoenixes view the Dawnﬂower as
-their patron and subscribe to her
-mission of redeeming those who
-have fallen to evil.
-Phoenix
-The phoenix is a primordial bird made of heat and ﬂame that dwells in the
-most inhospitable regions of the desert. Though highly intelligent and brimming
-with compassion, the phoenix is best-known for its iconic ability to resurrect
-itself when slain, emerging reborn from the ashes of its own corpse. Phoenixes
-are often sought out for their knowledge or healing abilities, as they cannot
-abide the sight of suffering and deny their succor only to the most foul and
-irredeemable of creatures.
-Phoenixes enjoy the company of metallic dragons, and when the two dwell in
-close proximity, they can forge lifelong friendships, sharing their resources and
-words of wisdom while keeping each other updated on regional news.
-While most phoenixes are benevolent, they are not infallible. When a
-phoenix loses its way or falls under the inﬂuence of evil, it still retains its strong
-appetite for knowledge. Evil phoenixes are known
-to assault universities and libraries in their pursuit
-for power—not only to gain new information, but
-also to set ﬁre to the texts and thus hoard that
-knowledge for themselves.
-
-================================================================================
-# PHOENIX
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669114
+4425271
+O-R
+261
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 SERVANTS OF SARENRAE
 While phoenixes are not denizens
 of the Outer Planes, they have
@@ -744,25 +725,43 @@ save. While this aura is active, any adjacent creature that hits the phoenix wit
 melee attack or otherwise touches it takes 2d6 ﬁre damage. The phoenix can activate
 or deactivate the aura with a single action, which has the concentrate trait.
 Speed 25 feet, ﬂy 70 feet
-Melee Ȱɵ beak +30 (finesse, fire, magical, reach 20 feet), Damage 1d12+9 piercing
+Melee Ȱɵ beak +30 (finesse, fire, magical, reach 20 feet), Damage 1d12+9 piercing
 plus 3d8 fire and 2d10 persistent fire
 Melee Ȱɵ talon +30 (agile, ﬁnesse, ﬁre, magical, reach 20 feet), Damage 1d6+6 piercing
 plus 3d8 ﬁre and 2d10 persistent ﬁre
-Ranged Ȱɵ flame jet +30 (fire, range increment 40 feet), Damage 6d6 fire plus 2d10
+Ranged Ȱɵ flame jet +30 (fire, range increment 40 feet), Damage 6d6 fire plus 2d10
 persistent fire
 Primal Innate Spells DC 39; 8th continual flame (at will), dispel magic (×3), flame
 strike, heal (×3), remove curse, wall of fire (×3); 7th dispel magic (at will); 6th
 restoration (×3); Cantrips (8th) light; Constant (8th) detect magic; (6th) see
 invisibility
-Flaming Strafe Ȱɵ (evocation, ﬁre, primal) The phoenix blazes with superheated ﬂame
+Flaming Strafe Ȱɵ (evocation, ﬁre, primal) The phoenix blazes with superheated ﬂame
 and Flies up to its Speed. It deals 6d6 ﬁre damage to each creature within 20 feet of
 each square it moves through (DC 37 basic Reﬂex save).
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669114
+4425271
 
-================================================================================
 PAGE 263
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669115
+4425272
 Bestiary
+262
 OTHER PLANAR SCIONS
 As many types of planar scions
 exist as planes of existence, and
@@ -788,97 +787,87 @@ Tieﬂings are planar scions with ﬁendish blood. One of the most common types 
 pitborn, who bear a demonic corruption infesting their mortal bloodline. Some
 strive to live above their forebear’s ﬁendish reputation, but many, such as this
 tieﬂing adept, simply accept their label and delve fully into evil.
-
-================================================================================
-# POLTERGEIST
-================================================================================
-
-
-Bestiary
-POLTERGEIST TREASURE
-A poltergeist needs items to
-hurl as weapons, and over the
-centuries of use, only durable
-objects survive its rampages.
-Silver dinnerware, hatchets, and
-books might all be found in a
-poltergeist’s collection.
-Poltergeist
-When a creature dies, and for whatever reason its spirit is unable or unwilling
-to leave the site of its death, that spirit may manifest as a poltergeist: a restless
-invisible spirit that is still able to manipulate physical objects. Many poltergeists
-perished in a way that resulted from or has led to extreme emotional trauma.
-POLTERGEIST
-CREATURE 5
-LE
+TIEFLING  ADEPT
+CREATURE 3
+CE
 MEDIUM
-INCORPOREAL
-SPIRIT
-UNDEAD
-Perception +11; darkvision
-Languages Common
-Skills Acrobatics +14, Intimidation +15, Stealth +14
-Str –5, Dex +5, Con +0, Int –1, Wis +2, Cha +4
-Site Bound A poltergeist is tied to a location and can’t travel more than 120 feet from
-the place where it was created or formed. Some poltergeists are instead bound to a
-speciﬁc room, building, or similar area.
-AC 22; Fort +9, Ref +14, Will +13
-HP 55, rejuvenation; Immunities death eﬀects, disease, paralyzed, poison, precision,
-unconscious; Resistances all damage 5 (except force, ghost touch, or positive; double
-resistance against non-magical)
-Natural Invisibility A poltergeist is naturally invisible. It becomes
-visible only when it uses Frighten.
-Rejuvenation (necromancy, occult) When a poltergeist is
-destroyed, it re-forms, fully healed, where it was destroyed
-after 2d4 days. A poltergeist can be permanently destroyed
-only if someone determines the reason for its existence and
-sets right whatever prevents the spirit from resting.
-Telekinetic Defense Ǻȓ Trigger A creature approaches within
-10 feet of the poltergeist. Eﬀect The poltergeist makes a
-telekinetic object Strike against the triggering creature.
-Speed ﬂy 20 feet
-Ranged Ȱɵ telekinetic object +13 (evocation, magical, occult,
-range increment 60 feet), Damage 2d12 bludgeoning,
-piercing, or slashing (depending on object)
-Occult Innate Spells DC 23, attack +13; 3rd telekinetic
-maneuver (at will); Cantrips (3rd) mage hand
-Frighten Ȱɵ (concentrate, emotion, fear, incapacitation,
-mental); Requirement The poltergeist must be invisible.
-Eﬀect The poltergeist becomes visible, appearing as a
-skeletal, ghostlike humanoid. Each creature within 30 feet
-must attempt a DC 21 Will save, becoming frightened 2 on a failure.
-On a critical failure, it’s also ﬂeeing for as long as it’s frightened. On
-a success, the creature is temporarily immune for 1 minute. At the
-start of its next turn, the poltergeist becomes invisible again.
-Telekinetic Storm ʚʖ (concentrate, evocation, occult); The
-poltergeist telekinetically throws numerous small objects,
-such as dozens of pieces of silverware or books, either
-spreading them out among multiple foes or directing
-them at one target.
-•
-When this eﬀect is spread out among multiple foes,
-the poltergeist makes a telekinetic object Strike at a
-–2 penalty against each creature within 30 feet. These
-count as one attack for the poltergeist’s multiple attack
-penalty, and the penalty doesn’t increase until after all
-the attacks.
-• When this eﬀect has only one target, the poltergeist makes a telekinetic object
-Strike against the target, and the damage increases to 3d12. It deals 1d12 damage
-on a failure, and no damage on a critical failure.
-DISTURBED REST
-One of the most common ways
-for a poltergeist to form is when
-its burial site is desecrated by
-the construction of a dwelling.
-This is usually an accident, but
-some evil creatures seek out such
-burial sites, intentionally creating
-poltergeists to serve as guardians.
+HUMAN
+HUMANOID
+TIEFLING
+Perception +6; darkvision
+Languages Abyssal, Common
+Skills Abyss Lore +9, Acrobatics +7, Arcana +9, Deception +9,
+Intimidation +7, Occultism +9, Religion +6, Society +9, Stealth +7
+Str +0, Dex +2, Con +0, Int +4, Wis +1, Cha + 2
+Items dagger, explorer’s clothing, spellbook, staﬀ
+AC 17; Fort +5, Ref +7, Will +8
+HP 29
+Speed 25 feet
+Melee Ȱɵ staﬀ +6 (two-handed 1d8), Damage 1d6 bludgeoning
+Melee Ȱɵ dagger +7 (agile, ﬁnesse, versatile S), Damage 1d4
+piercing
+Ranged Ȱɵ dagger +7 (agile, thrown 10 feet, versatile S), Damage 1d4+1 piercing
+Arcane Prepared Spells DC 21, attack +11; 2nd ﬂaming sphere, invisibility; 1st
+charm, magic missile, ray of enfeeblement; Cantrips (2nd) chill touch, detect
+magic, mage hand, shield, tanglefoot
+Divine Innate Spells DC 17; 2nd darkness
+Drain Bonded Item Ȳ˓ Frequency Once per day; Requirements
+The adept hasn’t acted yet on this turn. Eﬀect The adept
+expends the power stored in its staﬀ. This gives the adept the
+ability to cast one prepared spell it had already previously
+cast today (choosing a diﬀerent spell level each time),
+without spending a spell slot. The adept must still Cast
+the Spell and meet the spell’s other requirements.
+Duskwalker
+Duskwalkers are infused with the same energies
+as psychopomps. These ashen scions are reborn
+on the Material Plane to serve as guardians of
+the cycle of life and death.
+DUSKWALKER GHOST HUNTER	 CREATURE 4
+N
+MEDIUM
+DUSKWALKER
+HUMAN
+HUMANOID
+Perception +10; darkvision
+Languages Common, Necril
+Skills Acrobatics +10, Athletics +8, Deception +6,
+Intimidation +6, Nature +8, Stealth +12, Survival +8
+Str +2, Dex +4, Con +1, Int +0, Wis +2, Cha +0
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669115
+4425272
 
-================================================================================
 PAGE 266
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669118
+4425275
+O-R
+265
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 WHAT IS A KAMI?
 The spirit creatures known
 collectively as kami were originally
@@ -928,11 +917,6 @@ spring. Any attempt to coerce or trick a poracha into service is ill advised, fo
 sacred beasts have many friends among the kami as well as others of their kind.
 Though they generally don’t travel in groups, porachas know where to ﬁnd more of
 their kind in times of need, and an organized pack of porachas is a disorienting threat.
-
-================================================================================
-# PORACHA
-================================================================================
-
 PORACHA
 CREATURE 4
 UNCOMMON
@@ -946,8 +930,8 @@ Str +3, Dex +5, Con +3, Int +0, Wis +2, Cha +3
 AC 23; Fort +9, Ref +13, Will +10
 HP 50; Weaknesses sonic 5
 Speed 40 feet
-Melee Ȱɵ jaws +13 (ﬁnesse, magical), Damage 2d6+7 piercing
-Melee Ȱɵ claw +13 (agile, ﬁnesse, magical), Damage 2d4+7 slashing
+Melee Ȱɵ jaws +13 (ﬁnesse, magical), Damage 2d6+7 piercing
+Melee Ȱɵ claw +13 (agile, ﬁnesse, magical), Damage 2d4+7 slashing
 Jaunt Ȱɵ (conjuration, move, primal, teleportation) The
 poracha teleports up to 40 feet. It must have line of
 sight to the space it teleports to. It can’t use Jaunt
@@ -964,12 +948,30 @@ only mental actions or Jaunt; if it Jaunts, it leaves
 the object and appears where it chooses. If a
 creature Strikes the object, the poracha is
 expelled unharmed.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669118
+4425275
 
-================================================================================
 PAGE 267
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669119
+4425276
 Bestiary
+266
 PROTEAN DIVINITIES
 The most powerful of all proteans
 are a group of demigods known
@@ -1008,13 +1010,21 @@ otherwise, a warpwave effect lasts for 1d4 rounds, and a new warpwave effect
 negates any previous warpwave effect already affecting a creature.
 D8
 Warpwave Eﬀect
+1
 Clumsy 2 (3 on a critical failure)
+2
 Confused and gains 4d6 temporary Hit Points
+3
 Dazzled (permanent on a critical failure)
+4
 Enfeebled 2 (3 on a critical failure)
+5
 Immobilized by ﬁlaments of energy
+6
 Quickened (Stride, Strike, or Step only)
+7
 Slowed 1
+8
 Stupeﬁed 2 (3 on a critical failure)
 Voidworm
 Other proteans don’t consider the ﬂying, iridescent beings known as voidworms
@@ -1032,123 +1042,59 @@ years as they wait for the object of their curiosity to change. Minor changes—
 such as a tree’s change of color in the fall, a corpse’s slow decay, or periodic
 venting of steam from a geyser—all fascinate voidworms. A voidworm is about
 2 feet long and weighs 2 pounds.
-
-================================================================================
-# PTERANODON
-================================================================================
-
-
-Bestiary
-ON PRIMEVAL WINGS
-Although not true dinosaurs,
-pterosaurs are often found in
-the same regions as dinosaurs
-and other megafauna, wheeling
-in the skies above and adding to
-the general primeval ambiance of
-these lost worlds.
-Pterosaur
-Pterosaurs are primitive ﬂying creatures. While many are smaller than a human,
-the two presented below are quite a bit larger. Each of these creatures could
-pose a serious threat to a person.
-These ﬂying reptiles can be found in a wide selection of regions, but they tend
-to soar above warm or temperate climates.
-Pteranodon
-Pteranodons are quick and agile reptiles with 20-foot wingspans that enable them
-to hover on wind currents for hours. These creatures have long beaks and equally
-long crests that protrude from the backs of their heads.
-PTERANODON
-CREATURE 2
-N
-LARGE
-ANIMAL
-Perception +8; low-light vision, scent (imprecise) 30 feet
-Skills Acrobatics +10, Athletics +7
-Str +3, Dex +4, Con +1, Int –4, Wis +2, Cha –1
-AC 18; Fort +7, Ref +10, Will +6
-HP 35
-Speed 10 feet, ﬂy 40 feet
-Melee Ȱɵ beak +10, Damage 1d10+3 piercing
-Swoop ʚʖ The pteranodon Flies up to its Speed and makes one beak Strike
-at any point during that movement.
-Quetzalcoatlus
-Quetzalcoatlus are the largest ﬂying members of the
-pterosaur family and are often mistaken for dragons due
-to their immense size and 40-foot wingspans.
-Quetzalcoatlus are carnivorous, feeding on a variety
-of reptiles, mammals, large ﬁsh, amphibians, and other
-invertebrates. They are not inherently aggressive
-creatures and are happy to scavenge for food, but
-when presented with live prey they readily attack
-almost any creature smaller than themselves.
-
-================================================================================
-# PIXIE
-================================================================================
-
-Cantrips (2nd) ghost sound
-Fiddle Ȱɵ (auditory, emotion, enchantment, mental, primal) A grig can rub its legs
-together to create a catchy ﬁddling tune that compels others within 30 feet to dance
-about, with varying eﬀects depending on a DC 18 Will save. A listener is temporarily
-immune for 10 minutes on a success, but otherwise, if the grig continues to Fiddle
-each round, the creature receives no additional saves.
-Success No eﬀect.
-Failure Flat-footed and –10-foot status penalty to Speeds.
-Critical Failure As failure, and also slowed 1.
-Pixie
-Insatiably curious, overly excitable, and just a bit puckish,
-pixies are wanderers and tricksters who use their pixie
-dust to create all sorts of whimsical situations, as well as
-to defend themselves. Other creatures often have trouble
-understanding a pixie’s rapid, rambling way of speaking.
-PIXIE
-CREATURE 4
+VOIDWORM
+CREATURE 1
 CN
-SMALL
-FEY
-SPRITE
-Perception +12; low-light vision
-Languages Common, Sylvan
-Skills Acrobatics +13, Deception +11, Nature +10, Stealth +11
-Str –1, Dex +5, Con +1, Int +3, Wis +2, Cha +3
-Items longbow (60 arrows), shortsword
-AC 23; Fort +8, Ref +14, Will +12; +1 status to
-all saves vs. magic
-HP 40; Weaknesses cold iron 5
-Speed 15 feet, ﬂy 45 feet
-Melee Ȱɵ shortsword +13 (agile, ﬁnesse, magical,
-versatile S), Damage 1d6+4 piercing
-Ranged Ȱɵ longbow +13 (deadly 1d10, magical, range increment
-100 feet, reload 0, volley 20 feet), Damage 1d8+4 piercing
-Primal Innate Spells DC 21; 4th invisibility (at will; self
-only); 3rd dispel magic; 2nd entangle, faerie ﬁre; 1st illusory
-disguise; Cantrips (2nd) dancing lights, detect magic,
-ghost sound, shield
-Sprinkle Pixie Dust Ȱɵ (manipulate) The pixie
-sprinkles pixie dust onto one of its arrows.
-If the pixie hits a creature with that
-arrow before the pixie’s next
-turn, the arrow inﬂicts one of
-the following special eﬀects instead of dealing damage.
-Each eﬀect depends on the target’s DC 21 Will save. On
-a critical hit, the target treats its save result as one
-degree worse.
-• Charm (emotion, enchantment, incapacitation,
-mental) The target suﬀers the eﬀects of a charm spell, except it doesn’t gain a
-bonus to its save if the only hostile act was the pixie ﬁring its bow, and the pixie can
-choose to direct the target’s adoration toward another creature rather than itself.
-• Memory Loss (divination, mental) On a failed Will save, the target loses the last 5
-minutes of its memory.
-• Sleep (enchantment, incapacitation, mental, sleep) The target suﬀers the eﬀects of
-a 3rd-level sleep spell.
-• Subdual (enchantment, mental, nonlethal) The target takes 4d6 mental damage,
-depending on its basic Will save.
+TINY
+MONITOR
+PROTEAN
+Perception +4; entropy sense (imprecise) 30 feet, darkvision
+PROTEAN NAMES
+Individual proteans have two
+names: a traditional name in
+their hissing, confusing language;
+and an honorary title. The latter
+is easily translated to other
+languages, but a protean’s
+traditional name can only rarely be
+uttered in any tongue other than
+Protean. As such, most proteans
+tend to go by their titles when
+dealing with outsiders, referring to
+themselves as, for example, “Song
+of Gentle Poison” or “Sibilant Cry
+of the Storm.”
+OTHER PROTEANS
+Many other proteans beyond
+those presented here dwell in the
+Maelstrom, including the spectral
+pelagastrs, the nearly humanoid
+shapechanging ourdivars, and the
+incredibly powerful izﬁitars.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669119
+4425276
 
-================================================================================
 PAGE 311
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669163
+4425320
 Bestiary
+310
 JINX EATERS
 In the pirate-controlled archipelago
 of the Shackles, tengus occupy a
@@ -1198,33 +1144,70 @@ people of uncommon ancestry. Few true tengu communities exist, and
 those that do are often exiled to ghettos and other forgotten city
 quarters. From an early age, tengus learn that the world is not a
 friendly place and that they must look out for themselves.
-
-================================================================================
-# PLAGUE ZOMBIE
-================================================================================
-
-jaws Ȱɵ (attack); Requirement The zombie has a creature grabbed or restrained.
-Eﬀect The zombie makes a jaws unarmed melee Strike against the grabbed or
-restrained creature with an attack modiﬁer of +7 that deals 1d8+3 piercing damage.
-Plague Zombie
-Plague zombies are infested with hideous contagions.
-PLAGUE ZOMBIE
-CREATURE 1
-NE
+TENGU SNEAK
+CREATURE 2
+CN
 MEDIUM
-MINDLESS
-UNDEAD
-ZOMBIE
-Perception +3; darkvision
-Skills Athletics +7
-Str +4, Dex –2, Con +3, Int –5, Wis +0, Cha –2
-Slow As zombie shambler.
-AC 13; Fort +6, Ref +3, Will +4
+HUMANOID
+TENGU
+Perception +6; low-light vision
+Languages Common, Tengu, plus two others
+Skills Acrobatics +8, Athletics +6, Deception +7, Diplomacy +5, Society
++5, Stealth +8, Thievery +8
+Str +2, Dex +4, Con +1, Int +1, Wis +0, Cha +1
+Items rapier, shortbow, studded leather armor
+AC 19; Fort +7, Ref +10, Will +4
+HP 27
+Speed 25 feet
+Melee Ȱɵ rapier +10 (deadly 1d8, disarm, ﬁnesse), Damage 1d6+2
+piercing
+Melee Ȱɵ beak +10 (ﬁnesse), Damage 1d4+2 piercing
+Ranged Ȱɵ shortbow +10 (deadly 1d10, range increment 60 feet,
+reload 0), Damage 1d6 piercing
+Go for the Eyes Ǻȓ (incapacitation) Trigger The tengu critically hits with
+a beak Strike. Eﬀect The tengu attempts to peck out its victim’s eyes. The
+target must attempt a DC 17 Fortitude save.
+Success Unaﬀected.
+Failure Blinded for 1 round.
+Critical Failure Blinded until healed to maximum HP.
+Sneak Attack The tengu deals 1d6 extra precision damage to ﬂat-
+footed creatures.
+Surprise Attacker On the ﬁrst round of combat, creatures that haven’t
+acted yet are ﬂat-footed to the tengu.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669163
+4425320
 
-================================================================================
 PAGE 342
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669194
+4425351
+U-Z
+341
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 RISEN FROM THE GRAVE
 Zombies are often created using
 unwholesome necromantic rituals.
@@ -1251,3 +1234,62 @@ negative damage (1 day); Stage 4 1d6 negative damage (1 day); Stage 5 dead, risi
 a plague zombie immediately
 Zombie Brute
 Necromantic augmentations have granted this zombie increased size and power.
+ZOMBIE BRUTE
+CREATURE 2
+NE
+LARGE
+MINDLESS
+UNDEAD
+ZOMBIE
+Perception +4; darkvision
+Skills Athletics +9
+Str +5, Dex –3, Con +4, Int –5, Wis +0, Cha –2
+Slow As zombie shambler.
+AC 15; Fort +10, Ref +3, Will +6
+HP 70, negative healing; Immunities death eﬀects, disease, mental,
+paralyzed, poison, unconscious; Weaknesses positive 10,
+slashing 10
+Speed 25 feet
+Melee Ȱɵ ﬁst +11 (reach 10 feet), Damage 1d12+5
+bludgeoning plus Improved Push 5 feet
+Zombie Hulk
+These towering horrors are animated from the corpses of monstrosities.
+ZOMBIE HULK
+CREATURE 6
+NE
+HUGE
+MINDLESS
+UNDEAD
+ZOMBIE
+Perception +8; darkvision
+Skills Athletics +18
+Str +7, Dex –1, Con +4, Int –5, Wis +0, Cha –2
+Slow As zombie shambler.
+AC 21; Fort +16, Ref +9, Will +12
+HP 160, negative healing; Immunities death eﬀects, disease,
+mental, paralyzed, poison, unconscious; Weaknesses positive
+10, slashing 10
+Speed 25 feet
+Melee Ȱɵ hunk of meat +17 (reach 15 feet), Damage 2d10+9 bludgeoning
+Ranged Ȱɵ hunk of meat +9 (thrown 10 feet), Damage 2d10+9
+bludgeoning
+Ranged Ȱɵ corpse +17 (brutal, range increment 30 feet), Damage
+2d6+9 bludgeoning
+Corpse Throwing A zombie hulk can throw corpses at foes. While
+any Medium dead body will do, they sometimes throw zombie
+shamblers, who take just as much damage from being thrown as
+the target they hit. A thrown shambler lands prone, but if it’s not
+destroyed, it can rise and use other actions normally.
+Wide Swing Ȱɵ The zombie hulk makes a hunk of meat Strike and
+compares the attack roll result to the AC of up to two foes, each
+of whom must be within the Strike’s reach. This attack counts
+as two attacks for the zombie hulk’s multiple attack penalty.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669194
+4425351

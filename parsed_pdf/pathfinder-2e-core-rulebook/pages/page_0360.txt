@@ -1,0 +1,138 @@
+You utter the most powerful arcane word of power. Once
+targeted, the target is then temporarily immune for 10
+minutes. The effect of the spell depends on the target’s level.
+14th or Lower The target dies instantly.
+15th If the target has 50 Hit Points or fewer, it dies instantly;
+otherwise, it drops to 0 Hit Points and becomes dying 1, or
+increases its dying condition by 1 if it’s already dying.
+16th or Higher The target takes 50 damage; if this brings the
+target to 0 Hit Points, the target dies instantly.
+Heightened (10th) The levels at which each outcome applies
+increase by 2.
+POWER WORD STUN
+SPELL 8
+UNCOMMON
+AUDITORY
+ENCHANTMENT
+MENTAL
+Traditions arcane
+Cast [one‑action] verbal
+Range 30 feet; Targets 1 creature
+Duration varies
+You stun the target with an arcane word of power. Once
+targeted, the target is then temporarily immune for 10
+minutes. The effect of the spell depends on the target’s level.
+13th or Lower The target is stunned for 1d6 rounds.
+14th–15th The target is stunned for 1 round.
+16th or Higher The target is stunned 1.
+Heightened (+1) The levels at which each outcome applies
+increase by 2.
+PRESTIDIGITATION
+CANTRIP 1
+CANTRIP
+EVOCATION
+Traditions arcane, divine, occult, primal
+Cast [two‑actions] somatic, verbal
+Range 10 feet; Targets 1 object (cook, lift, or tidy only)
+Duration sustained
+The simplest magic does your bidding. You can perform simple
+magical effects for as long as you Sustain the Spell. Each time
+you Sustain the Spell, you can choose one of four options.
+•	 Cook Cool, warm, or flavor 1 pound of nonliving material.
+•	 Lift Slowly lift an unattended object of light Bulk or
+less 1 foot off the ground.
+•	 Make Create a temporary object of negligible Bulk,
+made of congealed magical substance. The object
+looks crude and artificial and is extremely fragile—it
+can’t be used as a tool, weapon, or spell component.
+•	 Tidy Color, clean, or soil an object of light Bulk or less.
+You can affect an object of 1 Bulk with 10 rounds of
+concentration, and a larger object a 1 minute per Bulk.
+Prestidigitation can’t deal damage or cause adverse
+conditions. Any actual change to an object (beyond what is
+noted above) persists only as long as you Sustain the Spell.
+PRIMAL HERD
+SPELL 10
+POLYMORPH
+TRANSMUTATION
+Traditions primal
+Cast [two‑actions] somatic, verbal
+Range 30 feet; Targets you and up to 5 willing targets
+Duration 1 minute
+Summoning the power of the natural world, you transform
+the targets into a herd of mammoths, and they each assume
+a Huge battle form. Each target must have enough space to
+expand into or the spell fails for that target. Each target gains
+the animal trait. Each target can Dismiss the spell’s effects on
+themself. Each target gains the following while transformed:
+•	 AC = 22 + the target’s level. Ignore any armor check
+penalty and Speed reduction.
+•	 20 temporary Hit Points.
+•	 Speed 40 feet.
+•	 Low-light vision.
+•	 The following unarmed melee attacks, which are the
+only attacks the target can use. They’re trained with
+them. When attacking with these attacks, the target
+uses their attack modifier with the proficiency and
+item bonuses of their most favorable weapon or
+unarmed Strike, and the damage is listed for each
+attack. These attacks are Strength based (for the
+purpose of the enfeebled condition, for example). If the
+target’s unarmed attack modifier is higher, they can
+use it instead. Melee [one‑action] tusk (reach 15 feet), Damage
+4d8+19 piercing; Melee [one‑action] trunk (agile, reach 15 feet),
+Damage 4d6+16 bludgeoning; Melee [one‑action] foot (agile,
+reach 15 feet), Damage 4d6+13 bludgeoning.
+•	 Athletics modifier of +30, unless the target’s own
+modifier is higher.
+•	 Trample [three‑actions] You move up to twice your Speed and
+move through the space of Large or smaller creatures,
+trampling each creature whose space you enter. A
+trampled creature takes damage from its foot Strike
+based on a basic Reflex save (DC = 19 + the target’s level).
+PRIMAL PHENOMENON
+SPELL 10
+DIVINATION
+Traditions primal
+Cast [three‑actions] material, somatic, verbal
+You request a direct intercession from the natural world.
+Nature always refuses unnatural requests and might grant a
+different request (potentially more powerful or better fitting its
+character) than the one you asked for. A primal phenomenon
+spell can do any of the following things.
+•	 Duplicate any primal spell of 9th level or lower.
+•	 Duplicate any non-primal spell of 7th level or lower.
+•	 Produce any effect whose power level is in line with
+the above effects.
+•	 Reverse certain effects that refer to the wish spell.
+At the GM’s discretion, you can try to use primal phenomenon
+to produce greater effects than these, but doing so may be
+dangerous, or the spell may have only a partial effect.
+PRISMATIC SPHERE
+SPELL 9
+ABJURATION
+LIGHT
+Traditions arcane, occult
+Cast [two‑actions] somatic, verbal
+Range 10 feet
+Duration 1 hour
+359
+7
+SPELLS
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

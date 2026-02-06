@@ -97,7 +97,7 @@ modifier, add your ability modifier for the skill’s key ability,
 your proficiency bonus for the skill, and any other bonuses
 and penalties.
 Skill modifier = modifier of the skill’s key ability
-score + proficiency bonus + other bonuses + penalties
+score + proficiency bonus + other bonuses + penalties
 When writing down the modifier on your character
 sheet, you should write down only the numbers that always
 apply—typically just your ability modifier and proficiency
@@ -112,14 +112,19 @@ Task Difficulty
 Simple DC
 
 Untrained
+10
 
 Trained
+15
 
 Expert
+20
 
 Master
+30
 
 Legendary
+40
 When someone or something tests your skill, they
 attempt a check against your skill DC, which is equal to 10
 plus your skill modifier. A skill DC works like any other DC
@@ -129,7 +134,8 @@ information about modifiers, bonuses, and penalties.
 Armor and Skills
 Some armor imposes a penalty on specific skill checks and
 DCs. If a creature is wearing armor that imparts a skill
-penalty, that penalty is applied to the creature’s Strengthand Dexterity-based skill checks and skill DCs, unless the
+penalty, that penalty is applied to the creature’s Strength-
+and Dexterity-based skill checks and skill DCs, unless the
 action has the attack trait. Check penalties from armor are
 detailed on page 274 in Chapter 6: Equipment.
 Secret Checks
@@ -157,26 +163,32 @@ General skill actions are skill actions that can be used
 with multiple different skills. When you use a general skill
 action, you might use your modifier from any skill that lists
 it as one of the skill’s actions, depending on the situation.
- General Skill Action
+	 General Skill Action
 Proficiency
 Page
 
 Decipher Writing
 Trained
+234
 
 Earn Income
 Trained
+236
 
 Identify Magic
 Trained
+238
 
 Learn a Spell
 Trained
- Recall Knowledge [one-action]
+238
+	 Recall Knowledge [one-action]
 Untrained
+238
 
 Subsist
 Untrained
+240
 Decipher Writing (Trained)
 When you encounter particularly archaic or esoteric texts,
 the GM might require you to Decipher the Writing before
@@ -197,12 +209,12 @@ read, though the GM might allow you to attempt to decipher
 text written in an unfamiliar language using Society instead.
 The DC is determined by the GM based on the state or
 complexity of the document. The GM might have you roll one
-check for a short text or a check for each section of a larger text.
+check for a short text or a check for each section of a larger text.
 Critical Success You understand the true meaning of the text.
 Success You understand the true meaning of the text. If it was
 a coded document, you know the general meaning but might
 not have a word-for-word translation.
-Failure You can’t understand the text and take a –2 circumstance
+Failure You can’t understand the text and take a –2 circumstance
 penalty to further checks to decipher it.
 Critical Failure You believe you understand the text on that
 page, but you have in fact misconstrued its message.
@@ -210,8 +222,8 @@ Sample Decipher Tasks
 Trained entry-level philosophy treatise
 Expert complex code, such as a cipher
 Core Rulebook
+234
 
-================================================================================
 PAGE 236
 ================================================================================
 
@@ -225,139 +237,197 @@ Dexterity
 Balance [one-action]
 Maneuver in Flight [one-action]
 
+
 Tumble Through [one-action]
-Squeeze E
+Squeeze E
 Arcana
 Intelligence
-Recall Knowledge G [one-action]
-Borrow an Arcane Spell E
+Recall Knowledge G [one-action]
+Borrow an Arcane Spell E
 
-Decipher Writing E, G
 
-Identify Magic E, G
 
-Learn a Spell E, G
+Decipher Writing E, G
+
+
+
+Identify Magic E, G
+
+
+
+Learn a Spell E, G
 Athletics
 Strength
 Climb [one-action]
 Disarm [one-action]
 
+
 Force Open [one-action]
+
 
 Grapple [one-action]
 
+
 High Jump [two-actions]
+
 
 Long Jump [two-actions]
 
+
 Shove [one-action]
 
+
 Swim [one-action]
+
 
 Trip [one-action]
 Crafting
 Intelligence
-Recall Knowledge G [one-action]
-Craft D
+Recall Knowledge G [one-action]
+Craft D
 
-Repair E
-Earn Income D, G
 
-Identify Alchemy E
+Repair E
+Earn Income D, G
+
+
+
+Identify Alchemy E
 Deception
 Charisma
 Create a Diversion [one-action]
 Feint [one-action]
 
-Impersonate E
+
+Impersonate E
+
 
 Lie
 Diplomacy
 Charisma
-Gather Information E
+Gather Information E
 
-Make an Impression E
+
+Make an Impression E
+
 
 Request [one-action]
 Intimidation
 Charisma
-Coerce E
+Coerce E
+
 
 Demoralize [one-action]
 Lore
 Intelligence
-Recall Knowledge G [one-action]
-Earn Income D, G
+Recall Knowledge G [one-action]
+Earn Income D, G
 Medicine
 Wisdom
 Administer First Aid [two-actions]
-Treat Disease D
+Treat Disease D
 
-Recall Knowledge G [one-action]
+
+Recall Knowledge G [one-action]
 Treat Poison [one-action]
 
-Treat Wounds E
+
+
+Treat Wounds E
 Nature
 Wisdom
 Command an Animal [one-action]
-Identify Magic E, G
+Identify Magic E, G
 
-Recall Knowledge G [one-action]
-Learn a Spell E, G
+
+Recall Knowledge G [one-action]
+Learn a Spell E, G
 Occultism
 Intelligence
-Recall Knowledge G [one-action]
-Decipher Writing E, G
+Recall Knowledge G [one-action]
+Decipher Writing E, G
 
-Identify Magic E, G
 
-Learn a Spell E, G
+
+Identify Magic E, G
+
+
+
+Learn a Spell E, G
 Performance
 Charisma
 Perform [one-action]
-Earn Income D, G
+Earn Income D, G
 Religion
 Wisdom
-Recall Knowledge G [one-action]
-Decipher Writing E, G
+Recall Knowledge G [one-action]
+Decipher Writing E, G
 
-Identify Magic E, G
 
-Learn a Spell E, G
+
+Identify Magic E, G
+
+
+
+Learn a Spell E, G
 Society
 Intelligence
-Recall Knowledge G [one-action]
-Create Forgery D
+Recall Knowledge G [one-action]
+Create Forgery D
 
-Subsist D, G
-Decipher Writing E, G
+
+Subsist D, G
+Decipher Writing E, G
 Stealth
 Dexterity
 Conceal an Object [one-action]
 
+
 Hide [one-action]
+
 
 Sneak [one-action]
 Survival
 Wisdom
-Sense Direction E
-Cover Tracks E
+Sense Direction E
+Cover Tracks E
 
-Subsist D, G
-Track E
+
+Subsist D, G
+Track E
 Thievery
 Dexterity
 Palm an Object [one-action]
 Disable a Device [two-actions]
 
+
 Steal [one-action]
 Pick a Lock [two-actions]
-D This skill action can be used only during downtime.
-E This skill action is used during exploration.
-G This is a general skill action, with a description appearing on pages 234–240 instead of under the entries for the
- various skills it’s used for.
+D	This skill action can be used only during downtime.
+E	This skill action is used during exploration.
+G	This is a general skill action, with a description appearing on pages 234–240 instead of under the entries for the
+	 various skills it’s used for.
+4
+Skills
+235
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 237
 ================================================================================
 
@@ -425,140 +495,161 @@ Expert
 Master
 Legendary
 
+0
 1 cp
 5 cp
 5 cp
 5 cp
 5 cp
 
+1
 2 cp
 2 sp
 2 sp
 2 sp
 2 sp
 
+2
 4 cp
 3 sp
 3 sp
 3 sp
 3 sp
 
+3
 8 cp
 5 sp
 5 sp
 5 sp
 5 sp
 
+4
 1 sp
 7 sp
 8 sp
 8 sp
 8 sp
 
+5
 2 sp
 9 sp
 1 gp
 1 gp
 1 gp
 
+6
 3 sp
 1 gp, 5 sp
 2 gp
 2 gp
 2 gp
 
+7
 4 sp
 2 gp
 2 gp, 5 sp
 2 gp, 5 sp
 2 gp, 5 sp
 
+8
 5 sp
 2 gp, 5 sp
 3 gp
 3 gp
 3 gp
 
+9
 6 sp
 3 gp
 4 gp
 4 gp
 4 gp
 
+10
 7 sp
 4 gp
 5 gp
 6 gp
 6 gp
 
+11
 8 sp
 5 gp
 6 gp
 8 gp
 8 gp
 
+12
 9 sp
 6 gp
 8 gp
 10 gp
 10 gp
 
+13
 1 gp
 7 gp
 10 gp
 15 gp
 15 gp
 
+14
 1 gp, 5 sp
 8 gp
 15 gp
 20 gp
 20 gp
 
+15
 2 gp
 10 gp
 20 gp
 28 gp
 28 gp
 
+16
 2 gp, 5 sp
 13 gp
 25 gp
 36 gp
 40 gp
 
+17
 3 gp
 15 gp
 30 gp
 45 gp
 55 gp
 
+18
 4 gp
 20 gp
 45 gp
 70 gp
 90 gp
 
+19
 6 gp
 30 gp
 60 gp
 100 gp
 130 gp
 
+20
 8 gp
 40 gp
 75 gp
 150 gp
 200 gp
- 20 (critical success)
+	20 (critical success)
 —
 50 gp
 90 gp
 175 gp
 300 gp
 Core Rulebook
+236
 
-================================================================================
 PAGE 238
 ================================================================================
 
@@ -631,7 +722,7 @@ sets the DC at 20.
 Harsk rolls a 4 on his Tea Lore check for a result of 11.
 Poor Harsk has failed! He earns only 2 sp for his efforts
 and continues working for 3 more days, for a total of
-8 sp.
+8 sp.
 At that point, the GM offers Harsk a choice: either he
 can finish out the week with the tea master and look
 for a new job, or he can lower his ambitions and serve
@@ -660,14 +751,34 @@ of 42. Success! The engagement lasts for a week, and
 at the end, the grateful celestials present Lem with a
 beautiful living diamond rose in constant bloom worth
 1,400 gold pieces (200 gp per day for 7 days).
-With 23 days of downtime left, Lem accepts a 14thlevel task performing at a prestigious bardic college for
+With 23 days of downtime left, Lem accepts a 14th-
+level task performing at a prestigious bardic college for
 members of a royal court. The GM secretly sets the DC
 at 32, and Lem critically succeeds, earning 28 gp per day
 for a total of 644 gp. Between the two performances,
 Lem has earned just over 2,000 gold pieces during his
 downtime—though he’s not sure he’ll ever sell that rose.
+4
+Skills
+237
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 239
 ================================================================================
 
@@ -752,14 +863,14 @@ use the corresponding skill to do so. For example, if you were
 a cleric with the bard multiclass archetype, you couldn’t use
 Religion to add an occult spell to your bardic spell repertoire.
 To learn the spell, you must do the following:
-• Spend 1 hour per level of the spell, during which you
+•	 Spend 1 hour per level of the spell, during which you
 must remain in conversation with a person who knows
 the spell or have the magical writing in your possession.
-• Have materials with the Price indicated in Table 4–3.
-• Attempt a skill check for the skill corresponding to your
+•	 Have materials with the Price indicated in Table 4–3.
+•	 Attempt a skill check for the skill corresponding to your
 tradition (DC determined by the GM, often close to the
 DC on Table 4–3). Uncommon or rare spells have higher
-DCs; full guidelines for the GM appear on page 503.
+DCs; full guidelines for the GM appear on page 503.
 If you have a spellbook, Learning a Spell lets you add the
 spell to your spellbook; if you prepare spells from a list, it’s
 added to your list; if you have a spell repertoire, you can select
@@ -777,33 +888,43 @@ Typical DC
 
 1st or cantrip
 2 gp
+15
 
 2nd
 6 gp
+18
 
 3rd
 16 gp
+20
 
 4th
 36 gp
+23
 
 5th
 70 gp
+26
 
 6th
 140 gp
+28
 
 7th
 300 gp
+31
 
 8th
 650 gp
+34
 
 9th
 1,500 gp
+36
 
 10th
 7,000 gp
+41
 Recall Knowledge (Untrained)
 To remember useful information on a topic, you can
 attempt to Recall Knowledge. You might know basic
@@ -811,12 +932,12 @@ information about something without needing to attempt
 a check, but Recall Knowledge requires you to stop and
 think for a moment so you can recollect more specific
 Core Rulebook
+238
 
-================================================================================
 PAGE 240
 ================================================================================
 
-facts and apply them. You might even need to spend time
+facts and apply them. You might even need to spend time
 investigating first. For instance, to use Medicine to learn
 the cause of death, you might need to conduct a forensic
 examination before attempting to Recall Knowledge.
@@ -840,19 +961,19 @@ topics might appear on multiple lists, but the skills could
 give different information. For example, Arcana might tell
 you about the magical defenses of a golem, whereas Crafting
 could tell you about its sturdy resistance to physical attacks.
-• Arcana: Arcane theories, magical traditions,
+•	 Arcana: Arcane theories, magical traditions,
 creatures of arcane significance, and arcane planes.
-• Crafting: Alchemical reactions and creatures, item
+•	 Crafting: Alchemical reactions and creatures, item
 value, engineering, unusual materials, and constructs.
-• Lore: The subject of the Lore skill’s subcategory.
-• Medicine: Diseases, poisons, wounds, and forensics.
-• Nature: The environment, flora, geography, weather,
+•	 Lore: The subject of the Lore skill’s subcategory.
+•	 Medicine: Diseases, poisons, wounds, and forensics.
+•	 Nature: The environment, flora, geography, weather,
 creatures of natural origin, and natural planes.
-• Occultism: Ancient mysteries, obscure philosophy,
+•	 Occultism: Ancient mysteries, obscure philosophy,
 creatures of occult significance, and esoteric planes.
-• Religion: Divine agents, divine planes, theology,
+•	 Religion: Divine agents, divine planes, theology,
 obscure myths, and creatures of religious significance.
-• Society: Local history, key personalities, legal
+•	 Society: Local history, key personalities, legal
 institutions, societal structure, and humanoid culture.
 The GM might allow checks to Recall Knowledge
 using other skills. For example, you might assess the skill
@@ -871,8 +992,27 @@ Master hierarchy of a genie noble court, major extraplanar
 temples of a deity
 Legendary existence of a long-lost noble heir, secret
 doctrines of a religion
+4
+Skills
+239
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 241
 ================================================================================
 
@@ -980,8 +1120,8 @@ attempted (for instance, being blown off course if you were
 trying to fly against a strong wind).
 Critical Failure As failure, but the consequence is more dire.
 Core Rulebook
+240
 
-================================================================================
 PAGE 242
 ================================================================================
 
@@ -998,7 +1138,7 @@ can barely fit through. This action is for exceptionally small
 spaces; many tight spaces are difficult terrain (page 475) that
 you can move through more quickly and without a check.
 Critical Success You squeeze through the tight space in
-1 minute per 10 feet of squeezing.
+1 minute per 10 feet of squeezing.
 Success You squeeze through in 1 minute per 5 feet.
 Critical Failure You become stuck in the tight space. While
 you’re stuck, you can spend 1 minute attempting another
@@ -1013,16 +1153,16 @@ Arcana (Int)
 Arcana measures how much you know about arcane
 magic and creatures. Even if you’re untrained, you can
 Recall Knowledge (page 238).
-• Recall Knowledge about arcane theories; magic
+•	 Recall Knowledge about arcane theories; magic
 traditions; creatures of arcane significance (like
 dragons and beasts); and the Elemental, Astral,
 and Shadow Planes.
 Arcana Trained ACTIONS
 You must be trained in Arcana to use it for the following
 general skill actions (page 234).
-• Decipher Writing about arcane theory.
-• Identify Magic, particularly arcane magic.
-• Learn a Spell from the arcane tradition.
+•	 Decipher Writing about arcane theory.
+•	 Identify Magic, particularly arcane magic.
+•	 Learn a Spell from the arcane tradition.
 BORROW AN ARCANE SPELL
 CONCENTRATE
 EXPLORATION
@@ -1048,8 +1188,27 @@ Requirements You have both hands free.
 You move up, down, or across an incline. Unless it’s
 particularly easy, you must attempt an Athletics check. The
 GM determines the DC based on the nature of the incline and
+4
+Skills
+241
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 243
 ================================================================================
 
@@ -1073,17 +1232,33 @@ TABLE 4–4: CLIMB AND SWIM DISTANCE
 This table provides a quick reference for how far you can
 move with a Climb or Swim action.
 
- Climb Distance
- Swim Distance
+	Climb Distance
+	Swim Distance
 Speed
 Success
 Critical
 Success
 Critical
 5–15 feet
+5
+5
+5
+10
 20–35 feet
+5
+10
+10
+15
 40–55 feet
+10
+15
+15
+20
 60–65 feet
+15
+20
+20
+25
 FORCE OPEN [one-action]
 ATTACK
 Using your body, a lever, or some other tool, you attempt
@@ -1164,8 +1339,8 @@ situation, as determined by the GM.
 Success Increase the maximum horizontal distance you Leap
 to the desired distance.
 Core Rulebook
+242
 
-================================================================================
 PAGE 244
 ================================================================================
 
@@ -1259,7 +1434,7 @@ Crafting (Int)
 You can use this skill to create, understand, and repair items.
 Even if you’re untrained, you can Recall Knowledge
 (page 238).
-• Recall Knowledge about alchemical reactions, the
+•	 Recall Knowledge about alchemical reactions, the
 value of items, engineering, unusual materials,
 and alchemical or mechanical creatures. The GM
 determines which creatures this applies to, but it
@@ -1269,13 +1444,32 @@ EXPLORATION
 MANIPULATE
 Requirements You have a repair kit (page 291).
 You spend 10 minutes attempting to fix a damaged item, placing
-the item on a stable surface and using the repair kit with
+the item on a stable surface and using the repair  kit with
+4
+Skills
+243
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 245
 ================================================================================
 
-both hands. The GM sets the DC, but it’s usually about the same
+both hands. The GM sets the DC, but it’s usually about the same
 DC to Repair a given item as it is to Craft it in the first place. You
 can’t Repair a destroyed item.
 Critical Success You restore 10 Hit Points to the item, plus an
@@ -1291,7 +1485,7 @@ item’s Hardness to this damage.
 Crafting Trained Actions
 You must be trained in Crafting to use it to Earn Income
 (page 236).
-• Earn Income by crafting goods for the market.
+•	 Earn Income by crafting goods for the market.
 CRAFT
 DOWNTIME
 MANIPULATE
@@ -1300,16 +1494,16 @@ Alchemical Crafting skill feat to create alchemical items, the
 Magical Crafting skill feat to create magic items, and the Snare
 Crafting feat to create snares.
 To Craft an item, you must meet the following requirements:
-• The item is your level or lower. An item that doesn’t list
+•	 The item is your level or lower. An item that doesn’t list
 a level is level 0. If the item is 9th level or higher, you
 must be a master in Crafting, and if it’s 16th or higher,
 you must be legendary.
-• You have the formula for the item; see Getting
+•	 You have the formula for the item; see Getting
 Formulas below for more information.
-• You have an appropriate set of tools and, in many
+•	 You have an appropriate set of tools and, in many
 cases, a workshop. For example, you need access to a
 smithy to forge a metal shield.
-• You must supply raw materials worth at least half the
+•	 You must supply raw materials worth at least half the
 item’s Price. You always expend at least that amount
 of raw materials when you Craft successfully. If you’re
 in a settlement, you can usually spend currency to get
@@ -1330,8 +1524,8 @@ and using your own level instead of a task level. After any of
 these downtime days, you can complete the item by spending
 the remaining portion of its Price in materials. If the downtime
 Core Rulebook
+244
 
-================================================================================
 PAGE 246
 ================================================================================
 
@@ -1364,7 +1558,7 @@ You can gain access to the formulas for all common
 items in Chapter 6: Equipment by purchasing a basic
 crafter’s book (page 287). See the rules on page 293 for
 information on how to acquire other formulas.
- IDENTIFY ALCHEMY
+ IDENTIFY ALCHEMY
 CONCENTRATE
 EXPLORATION
 SECRET
@@ -1382,7 +1576,7 @@ other forms of subterfuge.
 CREATE A DIVERSION [one-action]
 MENTAL
 With a gesture, a trick, or some distracting words, you can
-create a diversion that draws creatures’ attention elsewhere.
+create a diversion that draws creatures’ attention elsewhere.
 If you use a gesture or trick, this action gains the manipulate
 trait. If you use distracting words, it gains the auditory and
 linguistic traits.
@@ -1393,7 +1587,7 @@ has a Crafting modifier of +13 and the Magical Crafting
 feat. With 2 weeks of downtime ahead of him, he decides
 to craft a striking rune, a 4th-level item. The GM secretly
 chooses a DC of 19.
-The item has a Price of 65 gp, so Ezren prepares 32 gp,
+The item has a Price of 65 gp, so Ezren prepares 32 gp,
 5 sp worth of raw materials. He has another 32 gp, 5 sp
 worth of raw materials on hand. After spending 4 days
 building and incanting spells, he rolls a 12 on his Crafting
@@ -1443,8 +1637,27 @@ something you are not. Assembling a convincing disguise takes
 10 minutes and requires a disguise kit (found on page 290), but
 a simpler, quicker disguise might do the job if you’re not trying
 to imitate a specific individual, at the GM’s discretion.
+4
+Skills
+245
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 247
 ================================================================================
 
@@ -1558,20 +1771,20 @@ and beliefs of the characters you’re interacting with, and
 their attitudes can change in accordance with the story.
 The attitudes are detailed in the Conditions Appendix and
 are summarized here.
-• Helpful: Willing to help you and responds favorably to
+•	 Helpful: Willing to help you and responds favorably to
 your requests.
 Core Rulebook
+246
 
-================================================================================
 PAGE 248
 ================================================================================
 
-• Friendly: Has a good attitude toward you, but won’t
+•	 Friendly: Has a good attitude toward you, but won’t
 necessarily stick their neck out to help you.
-• Indifferent: Doesn’t care about you either way. (Most
+•	 Indifferent: Doesn’t care about you either way. (Most
 NPCs start out indifferent.)
-• Unfriendly: Dislikes you and doesn’t want to help you.
-• Hostile: Actively works against you—and might attack
+•	 Unfriendly: Dislikes you and doesn’t want to help you.
+•	 Hostile: Actively works against you—and might attack
 you just because of their dislike.
 No one can ever change the attitude of a player character
 with these skills. You can roleplay interactions with
@@ -1611,7 +1824,7 @@ MENTAL
 With threats either veiled or overt, you attempt to bully a
 creature into doing what you want. You must spend at least 1
 minute of conversation with a creature you can see and that
-can either see or sense you. At the end of the conversation,
+can either see or sense you. At the end of the conversation,
 attempt an Intimidation check against the target’s Will DC,
 modified by any circumstances the GM determines. The
 attitudes referenced in the effects below are summarized in
@@ -1639,7 +1852,8 @@ AUDITORY
 CONCENTRATE
 EMOTION
 MENTAL
-With a sudden shout, a well-timed taunt, or a cutting putdown, you can shake an enemy’s resolve. Choose a creature
+With a sudden shout, a well-timed taunt, or a cutting put-
+down, you can shake an enemy’s resolve. Choose a creature
 within 30 feet of you who you’re aware of. Attempt an
 Intimidation check against that target’s Will DC. If the target
 does not understand the language you are speaking, you’re
@@ -1656,7 +1870,7 @@ Military Lore, Sailing Lore, Vampire Lore, or any similar
 subcategory of the skill. Each subcategory counts as its
 own skill, so applying a skill increase to Planar Lore
 wouldn’t increase your proficiency with Sailing Lore,
-for example.
+for example.
 You gain a specific subcategory of the Lore skill from
 your background. The GM determines what other
 subcategories they’ll allow as Lore skills, though these
@@ -1675,13 +1889,32 @@ apply to a check or that would overlap with another skill
 in the circumstances, you can use the skill with the better
 skill modifier or the one you would prefer to use. If there’s
 any doubt whether a Lore skill applies to a specific topic
-or action, the GM decides whether it can be used or not.
+or action, the GM decides whether it can be used or not.
 Even if you’re untrained in Lore, you can use it to
 Recall Knowledge (page 238).
-• Recall Knowledge about the subject of your Lore
+•	 Recall Knowledge about the subject of your Lore
 skill’s subcategory.
+4
+Skills
+247
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 249
 ================================================================================
 
@@ -1690,60 +1923,60 @@ You can learn any Lore skill your GM gives you permission
 to take. The following list covers a wide variety of
 common Lore topics appropriate for most campaigns.
 Backgrounds often grant you a Lore from this list.
-• Academia Lore
-• Accounting Lore
-• Architecture Lore
-• Art Lore
-• Circus Lore
-• Engineering Lore
-• Farming Lore
-• Fishing Lore
-• Fortune-Telling Lore
-• Games Lore
-• Genealogy Lore
-• Gladiatorial Lore
-• Guild Lore
-• Heraldry Lore
-• Herbalism Lore
-• Hunting Lore
-• Labor Lore
-• Legal Lore
-• Library Lore
-• Lore about a specific deity (Abadar Lore, Iomedae
+•	 Academia Lore
+•	 Accounting Lore
+•	 Architecture Lore
+•	 Art Lore
+•	 Circus Lore
+•	 Engineering Lore
+•	 Farming Lore
+•	 Fishing Lore
+•	 Fortune-Telling Lore
+•	 Games Lore
+•	 Genealogy Lore
+•	 Gladiatorial Lore
+•	 Guild Lore
+•	 Heraldry Lore
+•	 Herbalism Lore
+•	 Hunting Lore
+•	 Labor Lore
+•	 Legal Lore
+•	 Library Lore
+•	 Lore about a specific deity (Abadar Lore, Iomedae
 Lore, etc.)
-• Lore about a specific creature or narrow category of
+•	 Lore about a specific creature or narrow category of
 creatures (Demon Lore, Owlbear Lore, Vampire Lore, etc.)
-• Lore of a specific plane other than the Material Plane,
+•	 Lore of a specific plane other than the Material Plane,
 or the plane in which the game is set if not the Material
 Plane (Abyss Lore, Astral Plane Lore, Heaven Lore, etc.)
-• Lore about a specific settlement (Absalom Lore,
+•	 Lore about a specific settlement (Absalom Lore,
 Magnimar Lore, etc.)
-• Lore about a specific terrain (Mountain Lore, River
+•	 Lore about a specific terrain (Mountain Lore, River
 Lore, etc.)
-• Lore of a type of food or drink (Alcohol Lore, Baking
+•	 Lore of a type of food or drink (Alcohol Lore, Baking
 Lore, Butchering Lore, Cooking Lore, Tea Lore, etc.)
-• Mercantile Lore
-• Midwifery Lore
-• Milling Lore
-• Mining Lore
-• Sailing Lore
-• Scouting Lore
-• Scribing Lore
-• Stabling Lore
-• Tanning Lore
-• Theater Lore
-• Underworld Lore
-• Warfare Lore
+•	 Mercantile Lore
+•	 Midwifery Lore
+•	 Milling Lore
+•	 Mining Lore
+•	 Sailing Lore
+•	 Scouting Lore
+•	 Scribing Lore
+•	 Stabling Lore
+•	 Tanning Lore
+•	 Theater Lore
+•	 Underworld Lore
+•	 Warfare Lore
 Lore Trained Action
 You must be trained in Lore to use it to Earn Income
 (page 236).
-• Earn Income by using your knowledge to practice
+•	 Earn Income by using your knowledge to practice
 a trade.
 Medicine (Wis)
 You can patch up wounds and help people recover from
 diseases and poisons. Even if you’re untrained in Medicine,
 you can use it to Recall Knowledge (page 238).
-• Recall Knowledge about diseases, injuries, poisons,
+•	 Recall Knowledge about diseases, injuries, poisons,
 and other ailments. You can use this to perform
 forensic examinations if you spend 10 minutes
 (or more, as determined by the GM) checking for
@@ -1756,11 +1989,11 @@ You perform first aid on an adjacent creature that is dying or
 bleeding. If a creature is both dying and bleeding, choose which
 ailment you’re trying to treat before you roll. You can Administer
 First Aid again to attempt to remedy the other effect.
-• Stabilize Attempt a Medicine check on a creature that
+•	 Stabilize Attempt a Medicine check on a creature that
 has 0 Hit Points and the dying condition. The DC is
 equal to 5 + that creature’s recovery roll DC (typically
 15 + its dying value).
-• Stop Bleeding Attempt a Medicine check on a creature
+•	 Stop Bleeding Attempt a Medicine check on a creature
 that is taking persistent bleed damage (page 452),
 giving them a chance to make another flat check to
 remove the persistent damage. The DC is usually the DC
@@ -1793,8 +2026,8 @@ Requirements You have healer’s tools (page 290).
 You treat a patient to prevent the spread of poison. Attempt a
 Medicine check against the poison’s DC. After you attempt to
 Core Rulebook
+248
 
-================================================================================
 PAGE 250
 ================================================================================
 
@@ -1840,7 +2073,7 @@ You know a great deal about the natural world, and you
 command and train animals and magical beasts. Even
 if you’re untrained in Nature, you can use it to Recall
 Knowledge (page 238).
-• Recall Knowledge about fauna, flora, geography,
+•	 Recall Knowledge about fauna, flora, geography,
 weather, the environment, creatures of natural origin
 (like animals, beasts, fey, and plants), the First World,
 the Material Plane, and the Elemental Planes.
@@ -1888,14 +2121,14 @@ and it takes some other action determined by the GM.
 Nature Trained Actions
 You must be trained in Nature to use it for the following
 general skill actions (page 234).
-• Identify Magic, particularly primal magic.
-• Learn a Spell from the primal tradition.
+•	 Identify Magic, particularly primal magic.
+•	 Learn a Spell from the primal tradition.
 Occultism (Int)
 You know a great deal about ancient philosophies, esoteric
 lore, obscure mysticism, and supernatural creatures. Even
 if you’re untrained in Occultism, you can use it to Recall
 Knowledge (page 238).
-• Recall Knowledge about ancient mysteries; obscure
+•	 Recall Knowledge about ancient mysteries; obscure
 philosophies; creatures of occult significance (like
 aberrations, spirits, and oozes); and the Positive
 Energy, Negative Energy, Shadow, Astral, and
@@ -1903,16 +2136,35 @@ Ethereal Planes.
 Occultism Trained Actions
 You must be trained in Occultism to use it for the
 following general skill actions (page 234).
+4
+Skills
+249
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 251
 ================================================================================
 
-• Decipher Writing on occult topics, including
+•	 Decipher Writing on occult topics, including
 complex metaphysical systems, syncretic principles,
 weird philosophies, and incoherent ramblings.
-• Identify Magic, particularly occult magic.
-• Learn a Spell from the occult tradition.
+•	 Identify Magic, particularly occult magic.
+•	 Learn a Spell from the occult tradition.
 Performance (Cha)
 You are skilled at a form of performance, using your
 talents to impress a crowd or make a living.
@@ -1932,7 +2184,8 @@ Performance Traits
 When you use an action that utilizes the Performance
 skill, it gains one or more traits relevant to the type of
 performance. The GM might change these depending on
-the circumstances, but the most common performancebased traits are listed below.
+the circumstances, but the most common performance-
+based traits are listed below.
 Performance
 Additional Traits
 Act or perform comedy
@@ -1967,7 +2220,7 @@ Legendary audience of major royalty or otherworldly beings
 Performance Trained Action
 You must be trained in Performance to use it to Earn
 Income (page 236).
-• Earn Income by staging a performance.
+•	 Earn Income by staging a performance.
 Religion (Wis)
 The secrets of deities, dogma, faith, and the realms of
 divine creatures both sublime and sinister are open to
@@ -1975,7 +2228,7 @@ you. You also understand how magic works, though
 your training imparts a religious slant to that knowledge.
 Even if you’re untrained in Religion, you can use it to Recall
 Knowledge (page 238).
-• Recall Knowledge about divine agents, the finer
+•	 Recall Knowledge about divine agents, the finer
 points of theology, obscure myths regarding a
 faith, and creatures of religious significance (like
 celestials, fiends, and undead), the Outer Sphere,
@@ -1983,10 +2236,10 @@ and the Positive and Negative Energy Planes.
 Religion Trained Actions
 You must be trained in Religion to use it for the following
 general skill actions (page 234).
-• Decipher Writing of a religious nature, including
+•	 Decipher Writing of a religious nature, including
 allegories, homilies, and proverbs.
-• Identify Magic, particularly divine magic.
-• Learn a Spell from the divine tradition.
+•	 Identify Magic, particularly divine magic.
+•	 Learn a Spell from the divine tradition.
 Society (Int)
 You understand the people and systems that make
 civilization run, and you know the historical events that
@@ -1995,24 +2248,24 @@ that knowledge to navigate the complex physical, societal,
 and economic workings of settlements. Even if you’re
 untrained in Society, you can use it for the following
 general skill actions (page 234).
-• Recall Knowledge about local history, important
+•	 Recall Knowledge about local history, important
 personalities, legal institutions, societal structure,
 and humanoid cultures. The GM might allow
 Society to apply to other creatures that are major
 elements of society in your region, such as the
 draconic nobility in a kingdom of humans ruled
 by dragons.
-• Subsist in a settlement by finding shelter, scrounging,
+•	 Subsist in a settlement by finding shelter, scrounging,
 or begging for food.
 Society Trained Actions
 You must be trained in Society to use it to Decipher
 Writing (page 234).
-• Decipher Writing that’s a coded message, text
+•	 Decipher Writing that’s a coded message, text
 written in an incomplete or archaic form, or in
 some cases, text in a language you don’t know.
 Core Rulebook
+250
 
-================================================================================
 PAGE 252
 ================================================================================
 
@@ -2020,13 +2273,13 @@ CREATE FORGERY
 DOWNTIME
 SECRET
 You create a forged document, usually over the course of a
-day or a week. You must have the proper writing material to
+day or a week. You must have the proper writing material to
 create a forgery. When you Create a Forgery, the GM rolls a
 secret DC 20 Society check. If you succeed, the forgery is of
 good enough quality that passive observers can’t notice the
 fake. Only those who carefully examine the document and
 attempt a Perception or Society check against your Society
-DC can do so.
+DC can do so.
 If the document’s handwriting doesn’t need to be specific
 to a person, you need only to have seen a similar document
 before, and you gain up to a +4 circumstance bonus to your
@@ -2075,12 +2328,12 @@ BEING STEALTHY
 If you want to sneak around when there are creatures
 that can see you, you can use a combination of Hide and
 Sneak to do so.
-• First, Hide behind something (either by taking
+•	 First, Hide behind something (either by taking
 advantage of cover or having the concealed condition
 due to fog, a spell, or a similar effect). A successful
 Stealth check makes you hidden, though the creatures
 still know roughly where you are.
-• Second, now that you’re hidden, you can Sneak. That
+•	 Second, now that you’re hidden, you can Sneak. That
 means you can move at half your Speed and attempt
 another Stealth check. If it’s successful, you’re now
 undetected. That means the creatures don’t know
@@ -2121,12 +2374,32 @@ If you successfully become hidden to a creature but
 then cease to have cover or greater cover against it or be
 concealed from it, you become observed again. You cease
 being hidden if you do anything except Hide, Sneak, or Step.
+4
+Skills
+251
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 253
 ================================================================================
 
-If you attempt to Strike a creature, the creature remains flatfooted against that attack, and you then become observed. If
+If you attempt to Strike a creature, the creature remains flat-
+footed against that attack, and you then become observed. If
 you do anything else, you become observed just before you
 act unless the GM determines otherwise. The GM might allow
 you to perform a particularly unobtrusive action without
@@ -2186,7 +2459,7 @@ You are adept at living in the wilderness, foraging for
 food and building shelter, and with training you discover
 the secrets of tracking and hiding your trail. Even if you’re
 untrained, you can still use Survival to Subsist (page 240).
-• Subsist in the wild by foraging for food and
+•	 Subsist in the wild by foraging for food and
 building shelter.
 SENSE DIRECTION
 EXPLORATION
@@ -2238,8 +2511,8 @@ attempting additional checks for up to 1 hour. In some cases,
 you might Track in an encounter. In this case, Track is a single
 action and doesn’t have the exploration trait, but you might
 Core Rulebook
+252
 
-================================================================================
 PAGE 254
 ================================================================================
 
@@ -2347,7 +2620,29 @@ opening a complex lock.
 Critical Failure You break your tools. Fixing them requires using
 Crafting to Repair them or else swapping in replacement
 picks (costing 3 sp, or 3 gp for infiltrator thieves’ tools).
+4
+Skills
+253
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix
 
-================================================================================
 PAGE 255
 ================================================================================
+
+Core Rulebook
+254

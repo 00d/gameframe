@@ -1,0 +1,214 @@
+#!/usr/bin/env python3
+"""
+Create a canonical corpus layout that links PDFs, extracted text, and parsed pages
+under one stable structure.
+
+Usage:
+  python scripts/reorganize_corpus.py
+  python scripts/reorganize_corpus.py --apply
+"""
+
+from __future__ import annotations
+
+import argparse
+import os
+import re
+import shutil
+from pathlib import Path
+from typing import Dict, List
+
+from corpus_common import (
+    CORPUS_DIR,
+    EXTRACTED_DIR,
+    PARSED_PDF_DIR,
+    PDF_DIR,
+    REPORTS_DIR,
+    read_json,
+    slugify,
+    utc_now_iso,
+    write_json,
+    write_text,
+)
+
+
+def load_parsed_by_pdf(parsed_dir: Path) -> Dict[str, Path]:
+    mapping: Dict[str, Path] = {}
+    for metadata_path in sorted(parsed_dir.glob("*/metadata.json")):
+        metadata = read_json(metadata_path)
+        source_pdf = str(metadata.get("source_pdf", "")).strip()
+        if source_pdf:
+            mapping[source_pdf.lower()] = metadata_path.parent
+    return mapping
+
+
+def safe_display_name(value: str) -> str:
+    display = value.replace("_", " ").strip()
+    display = re.sub(r"([a-z])([A-Z])", r"\1 \2", display)
+    display = re.sub(r"([A-Za-z])(\d)", r"\1 \2", display)
+    display = re.sub(r"(\d)([A-Za-z])", r"\1 \2", display)
+    display = re.sub(r"\bPf 2 e\b", "PF2e", display, flags=re.IGNORECASE)
+    display = re.sub(r"\bAmp\b", "&", display)
+    display = re.sub(r"\s+", " ", display).strip()
+    return display or value
+
+
+def build_catalog(
+    extracted_dir: Path,
+    parsed_dir: Path,
+    compare_report: Dict | None,
+) -> Dict:
+    parsed_by_pdf = load_parsed_by_pdf(parsed_dir)
+    extracted_books = sorted(path for path in extracted_dir.iterdir() if path.is_dir())
+
+    compare_by_book = {}
+    if compare_report:
+        for row in compare_report.get("books", []):
+            compare_by_book[row.get("book_dir")] = row
+
+    entries: List[Dict] = []
+    for book_dir in extracted_books:
+        metadata_path = book_dir / "metadata.json"
+        metadata = read_json(metadata_path) if metadata_path.exists() else {}
+        source_pdf = str(metadata.get("source_pdf", "")).strip() or None
+        book_name = str(metadata.get("book_name", book_dir.name))
+        book_id = slugify(book_name)
+
+        source_pdf_path = (PDF_DIR / source_pdf) if source_pdf else None
+        parsed_path = parsed_by_pdf.get(source_pdf.lower()) if source_pdf else None
+
+        compare_row = compare_by_book.get(book_dir.name, {})
+        page_cmp = compare_row.get("page_comparison", {})
+
+        entries.append(
+            {
+                "id": book_id,
+                "book_dir": book_dir.name,
+                "book_name": book_name,
+                "display_name": safe_display_name(book_name),
+                "source_pdf": source_pdf,
+                "paths": {
+                    "extracted_dir": str(book_dir.resolve()),
+                    "source_pdf": str(source_pdf_path.resolve()) if source_pdf_path and source_pdf_path.exists() else None,
+                    "parsed_dir": str(parsed_path.resolve()) if parsed_path and parsed_path.exists() else None,
+                },
+                "metrics": {
+                    "missing_text_pages": len(page_cmp.get("missing_text_pages", [])),
+                    "avg_page_jaccard": page_cmp.get("avg_jaccard"),
+                },
+            }
+        )
+
+    return {
+        "generated_at_utc": utc_now_iso(),
+        "inputs": {
+            "pdf_dir": str(PDF_DIR.resolve()),
+            "parsed_dir": str(parsed_dir.resolve()),
+            "extracted_dir": str(extracted_dir.resolve()),
+        },
+        "entries": sorted(entries, key=lambda row: row["id"]),
+    }
+
+
+def _prepare_target(path: Path) -> None:
+    if path.exists() or path.is_symlink():
+        if path.is_symlink() or path.is_file():
+            path.unlink()
+        elif path.is_dir():
+            shutil.rmtree(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+
+
+def create_link_or_copy(target: Path, link_path: Path, use_copy: bool) -> None:
+    _prepare_target(link_path)
+    if use_copy:
+        if target.is_dir():
+            shutil.copytree(target, link_path)
+        else:
+            shutil.copy2(target, link_path)
+        return
+
+    rel_target = Path(os.path.relpath(target, link_path.parent))
+    link_path.symlink_to(rel_target, target_is_directory=target.is_dir())
+
+
+def apply_layout(catalog: Dict, output_dir: Path, use_copy: bool) -> None:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    books_root = output_dir / "books"
+    books_root.mkdir(parents=True, exist_ok=True)
+
+    for entry in catalog["entries"]:
+        book_root = books_root / entry["id"]
+        book_root.mkdir(parents=True, exist_ok=True)
+
+        write_json(book_root / "book.json", entry)
+        readme = "\n".join(
+            [
+                f"# {entry['display_name']}",
+                "",
+                "This directory is generated by `scripts/reorganize_corpus.py`.",
+                "It provides a stable pointer layout for source/content assets.",
+                "",
+                "## Metrics",
+                f"- Missing text pages: {entry['metrics']['missing_text_pages']}",
+                f"- Avg page Jaccard: {entry['metrics']['avg_page_jaccard']}",
+                "",
+            ]
+        )
+        write_text(book_root / "README.md", readme)
+
+        links_root = book_root / "links"
+        links_root.mkdir(parents=True, exist_ok=True)
+
+        extracted_target = Path(entry["paths"]["extracted_dir"])
+        create_link_or_copy(extracted_target, links_root / "extracted", use_copy)
+
+        if entry["paths"]["source_pdf"]:
+            create_link_or_copy(Path(entry["paths"]["source_pdf"]), links_root / "source.pdf", use_copy)
+        if entry["paths"]["parsed_dir"]:
+            create_link_or_copy(Path(entry["paths"]["parsed_dir"]), links_root / "parsed_pdf", use_copy)
+        stale_rules_link = links_root / "rules"
+        if stale_rules_link.exists() or stale_rules_link.is_symlink():
+            if stale_rules_link.is_dir() and not stale_rules_link.is_symlink():
+                shutil.rmtree(stale_rules_link)
+            else:
+                stale_rules_link.unlink()
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Build and optionally apply a canonical corpus layout.")
+    parser.add_argument("--extracted-dir", type=Path, default=EXTRACTED_DIR)
+    parser.add_argument("--parsed-dir", type=Path, default=PARSED_PDF_DIR)
+    parser.add_argument(
+        "--compare-report",
+        type=Path,
+        default=REPORTS_DIR / "corpus_compare_report.json",
+        help="Optional comparison report for richer metrics",
+    )
+    parser.add_argument("--output-dir", type=Path, default=CORPUS_DIR)
+    parser.add_argument(
+        "--plan-json",
+        type=Path,
+        default=REPORTS_DIR / "corpus_reorganization_plan.json",
+        help="Where to write the generated catalog/plan",
+    )
+    parser.add_argument("--apply", action="store_true", help="Create/update corpus layout on disk")
+    parser.add_argument("--copy", action="store_true", help="Copy data instead of symlinking (larger and slower)")
+    args = parser.parse_args()
+
+    compare_report = read_json(args.compare_report) if args.compare_report.exists() else None
+    catalog = build_catalog(args.extracted_dir, args.parsed_dir, compare_report)
+    write_json(args.plan_json, catalog)
+
+    if args.apply:
+        apply_layout(catalog, args.output_dir, use_copy=args.copy)
+        write_json(args.output_dir / "index.json", catalog)
+        print(f"[applied] {args.output_dir}")
+    else:
+        print("[dry-run] no filesystem reorganization applied")
+
+    print(f"[plan] {args.plan_json}")
+    print(f"[books] {len(catalog['entries'])}")
+
+
+if __name__ == "__main__":
+    main()

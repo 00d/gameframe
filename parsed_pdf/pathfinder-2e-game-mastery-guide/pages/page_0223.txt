@@ -1,0 +1,76 @@
+Gamemastery Guide
+222
+222
+LABORERS
+Every day, laborers perform backbreaking physical work.
+SERVANT
+Maids, butlers, and majordomos alike, servants are skilled at keeping a home in
+working order and protecting the interests of their employers.
+SERVANT
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +9
+Languages Common
+Skills Acrobatics +5, Diplomacy +4, Household Lore +4, Society +2
+Str +1, Dex +3, Con +1, Int +0, Wis +1, Cha +2
+Items cutlery (10), servant’s uniform, serving platter (Hardness 3, HP 6, BT 3)
+AC 15 (16 with platter raised); Fort +5, Ref +7, Will +3
+HP 9
+Raise a Shield  The serving platter has the same statistics as a buckler, but requires
+a hand to hold.
+Speed 25 feet
+Melee  cutlery +5 (agile, versatile S), Damage 1d4+1 piercing
+Ranged  cutlery +5 (agile, thrown 15 feet, versatile S), Damage 1d4+1 piercing
+DOCKHAND
+Working to load and unload cargo from ships, dockhands are considered
+unruly, but many stay focused and work hard until the job is done. Some
+do celebrate the end of their work day with rowdy drinking.
+DOCKHAND
+CREATURE 0
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +3
+Languages Common
+Skills Acrobatics +3, Athletics +5, Intimidation +3, Labor Lore +4
+Str +3, Dex +1, Con +3, Int +0, Wis +1, Cha +1
+Items empty bottle (3), leather armor, whiskey (1 bottle)
+AC 14; Fort +7, Ref +5, Will +3
+HP 20
+Speed 25 feet
+Melee  fist +7 (agile, nonlethal), Damage 1d4+3 bludgeoning
+Ranged  bottle +5 (agile, thrown 20 feet), Damage 1d6+3 bludgeoning
+Heft Crate  (manipulate) Requirements The dockhand is adjacent to a crate; Effect
+The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate
+breaks open in a 5-foot burst. Each creature within the area takes 2d6 bludgeoning
+damage (DC 13 basic Reflex save), and the area becomes difficult terrain until cleared.
+Swig  (manipulate) The dockhand Interacts to either draw a bottle of alcohol
+or pick up a nearby unattended bottle of alcohol and drink the whole thing. For
+1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving
+throws against fear, but they become clumsy 1.
+FARMER
+Workers of the fields, vineyards, and orchards of the world, farmers are
+known for their rugged endurance and their skill with both plants and animals.
+FARMER
+CREATURE 0
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+LABORER GAMES
+Laborers tend to play games when
+the work is slow or while on break.
+Common games include Gremlin
+Row, which involves rolling dice and
+trying to match them, as well as
+Fishing with Fire, in which players
+try to get all the cards of one type
+from a deck without losing all of their
+own cards and getting “burned.”
+SERVANT

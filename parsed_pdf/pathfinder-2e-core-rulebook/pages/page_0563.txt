@@ -1,0 +1,141 @@
+A vial of oil of mending appears to have countless translucent
+threads swirling within. Applying this oil to an item casts a
+2nd-level mending spell to repair the item.
+OIL OF POTENCY
+ITEM 2
+CONSUMABLE
+ MAGICAL
+ OIL
+ TRANSMUTATION
+Price 7 gp
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+When you apply this thick, viscous oil to a non-magical weapon
+or suit of armor, that item immediately becomes magically
+potent. If the item is a weapon, it temporarily becomes a
++1 striking weapon, or, if it’s armor, it temporarily becomes
++1 resilient armor. This lasts for 1 minute.
+OIL OF REPULSION 
+ITEM 11
+ABJURATION
+ CONSUMABLE
+ MAGICAL
+ OIL
+Price 175 gp
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+This oil contains magnetically charged iron filings repelled into
+opposite ends of the vial. For 1 minute after you apply this oil
+to armor, any creature that hits you with a melee Strike must
+attempt a DC 28 Fortitude save with the following effects.
+Success The creature is unaffected.
+Failure The creature is pushed up to 10 feet away from you
+(the GM determines the direction).
+Critical Failure As failure, and the creature is also knocked prone.
+OIL OF WEIGHTLESSNESS
+ITEM 2+
+CONSUMABLE
+ MAGICAL
+ OIL
+ TRANSMUTATION
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+You can spread this shimmering oil on an item of 1 Bulk or less
+to make it feel weightless. It has negligible Bulk for 1 hour.
+Type oil of weightlessness; Level 2; Price 6 gp
+Type greater oil of weightlessness; Level 6; Price 36 gp
+This oil can affect an item of 2 Bulk or less and lasts 8 hours.
+SALVE OF ANTIPARALYSIS
+ITEM 6+
+CONSUMABLE
+ HEALING
+ MAGICAL
+ NECROMANCY
+ OIL
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+Applying this filmy salve to a creature helps it overcome
+magical paralysis. The creature recovers as if it were the
+target of a 3rd-level remove paralysis spell.
+Type salve of antiparalysis; Level 6; Price 40 gp
+Type greater salve of antiparalysis; Level 12; Price 325 gp
+A greater salve of antiparalysis can potentially remove
+petrification. The creature recovers as if it were the target
+of both a 6th-level remove paralysis spell and a stone to
+flesh spell.
+SALVE OF SLIPPERINESS
+ITEM 5
+CONSUMABLE
+ MAGICAL
+ OIL
+ TRANSMUTATION
+Price 25 gp Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+This greenish, persistent grease can be applied to armor
+to make it extremely slippery for 8 hours, granting the
+wearer a +2 item bonus to Acrobatics checks to Escape or
+to Squeeze.
+Potions
+A potion is a magical liquid activated when you drink it,
+which uses it up. Potions have the potion trait. You can
+activate a potion with an Interact action as you drink it
+or feed it to another creature. You can feed a potion only
+to a creature that is within reach and willing or otherwise
+so helpless that it can’t resist. You usually need only one
+hand to consume a potion or feed it to another creature.
+BARKSKIN POTION
+ITEM 4
+ABJURATION
+ CONSUMABLE
+ POTION
+ PRIMAL
+Price 15 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+After you drink this bitter draft, your skin thickens like
+bark. You gain the effects of a 2nd-level barkskin spell for
+10 minutes.
+DRAGON’S BREATH POTION
+ITEM 7+
+CONSUMABLE
+ EVOCATION
+ MAGICAL
+ POTION
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+This liquid contains blood from a certain type of dragon. For
+1 hour after you imbibe the concoction, you can unleash a
+breath weapon used by that type of dragon. The potency of
+the breath depends on the potion’s type, based on the age
+of the dragon whose blood was used to make the potion.
+This potion has the trait matching the damage type of the
+breath weapon.
+Exhaling dragon breath uses a single action. The damage
+type and the area of the dragon breath depend on the type
+of dragon blood in the potion, as shown in the table below.
+Regardless of the dragon type, the breath weapon deals 4d6
+damage, and each creature in the area must attempt a DC 23
+basic save of a type determined by the type of the dragon.
+After you use the breath weapon, you can’t do so again for
+1d4 rounds.
+Type young; Level 7; Price 70 gp
+Type adult; Level 12; Price 400 gp
+The damage is 6d6 and the save DC is 29.
+Type wyrm; Level 17; Price 3,000 gp
+The damage is 10d6 and the save DC is 37.
+Dragon Type
+Breath Weapon (Save)
+Black or copper
+30-foot line of acid (Reflex)
+Blue or bronze
+30-foot line of electricity (Reflex)
+Brass
+30-foot line of fire (Reflex)
+Green
+15-foot cone of poison (Fortitude)
+Gold or red
+15-foot cone of fire (Reflex)
+Silver or white
+15-foot cone of cold (Reflex)
+Core Rulebook
+562

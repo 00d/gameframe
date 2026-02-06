@@ -4,6 +4,21 @@
 PAGE 150
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 tray that wielders can load with powder and shot and
 then quickly prep to fire with minimal effort. Many
 dwarves of Dongun Hold have gone so far as to retire
@@ -117,8 +132,9 @@ availability of black powder from Tian Xia low enough,
 that the practice is largely discontinued. Preserving or
 seasoning your rations with black powder would be akin
 to salting a steak with gold!
+149
+149
 
-================================================================================
 PAGE 151
 ================================================================================
 
@@ -210,8 +226,8 @@ Typically, switching between configurations of a modular
 weapon allows it to deal different types of damage (listed
 in the trait, such as “modular B, P, or S”), though it’s
 TABLE 4—1: MELEE WEAPONS
-Simple Weapons Price
-Damage Bulk
+Simple Weapons	 Price
+Damage	 Bulk
 Hands
 Group
 Weapon Traits
@@ -219,15 +235,17 @@ Forked bipod
 3 sp
 1d4 P
 L
+1
 Spear
 Agile, deadly d6, finesse
 Knuckle duster
 3 sp
 1d4 B
 L
-Brawling Agile, free-hand, monk
-Martial Weapons Price
-Damage Bulk
+1
+Brawling	 Agile, free-hand, monk
+Martial Weapons	 Price
+Damage	 Bulk
 Hands
 Group
 Weapon Traits
@@ -238,7 +256,7 @@ L
 1 or 2*
 Knife
 Agile, attached to crossbow or firearm, finesse
-Reinforced stock 2 sp
+Reinforced stock	 2 sp
 1d4 B
 L
 1 or 2*
@@ -246,11 +264,27 @@ Club
 Attached to crossbow or firearm, finesse, two-hand d6
 *An attached bayonet or reinforced stock requires the same number of hands as the weapon it’s attached to. A detached
 bayonet requires one hand.
+150
+150
 
-================================================================================
 PAGE 152
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 possible for a modular weapon’s description to list more
 complicated configurations.
 Repeating: Repeating weapons can’t be loaded
@@ -266,237 +300,354 @@ Uncommon
 Simple Weapons
 Price
 Damage
-Range Reload Bulk Hands
+Range	 Reload	 Bulk	 Hands
 Group
 Weapon Traits
 Air repeater
 5 gp
 1d4 P
 30 ft.
+0
 L
+1
 Firearm
 Agile, repeating
 Magazine with 6 pellets
 6 sp
+
+
 
 L
 Coat pistol
 6 gp
 1d4 P
 30 ft.
+1
 L
+1
 Firearm
 Concealable, concussive, fatal d8
 Fire lance
 5 gp
 1d6 P
 10 ft.
+2
+2
+2
 Firearm
 Fatal d10
 10 rounds
 1 sp
+
+
 
 L
 Flintlock musket
 7 gp
 1d6 P
 70 ft.
+1
+1
+2
 Firearm
 Concussive, fatal d10
 10 rounds
 1 sp
+
+
 
 L
 Flintlock pistol
 6 gp
 1d4 P
 40 ft.
+1
+1
+1
 Firearm
 Concussive, fatal d8
 10 rounds
 1 sp
 
+
+
 L
 Hand cannon
-5 gp 1d6 modular 30 ft.
+5 gp	 1d6 modular	 30 ft.
+1
+1
+1
 Firearm
 Modular B, P, or S
 10 rounds
 1 sp
+
+
 
 L
 Long air repeater
 9 gp
 1d4 P
 60 ft.
+0
+1
+1
 Firearm
 Repeating
 Magazine with 8 pellets
 8 sp
+
+
 
 L
 Uncommon
 Martial Weapons
 Price
 Damage
-Range Reload Bulk Hands
+Range	 Reload	 Bulk	 Hands
 Group
 Weapon Traits
 Arquebus
 10 gp
 1d8 P
 150 ft.
+1
+2
+2
 Firearm
 Concussive, fatal d12, kickback
 10 rounds
 1 sp
+
+
 
 L
 Blunderbuss
 8 gp
 1d8 P
 40 ft.
+1
+2
+2
 Firearm
 Concussive, scatter 10 ft.
 10 rounds
 1 sp
+
+
 
 L
 Clan pistol
 5 gp
 1d6 P
 80 ft.
+1
 L
+1
 Firearm
 Concussive, dwarf, fatal d10
 Double-barreled musket
 11 gp
 1d6 P
 60 ft.
+1
+1
+2
 Firearm
 Concussive, double barrel,
 (level 1)
 
+
+
+
+
+
+
 fatal d10
 10 rounds
 1 sp
+
+
 
 L
 Double-barreled pistol
 7 gp
 1d4 P
 30 ft.
+1
+1
+1
 Firearm
-Concussive, double barrel, fatal d8
+Concussive, double barrel, fatal d8
 10 rounds
 1 sp
+
+
 
 L
 Dragon mouth pistol
 9 gp
 1d6 P
 20 ft.
+1
+1
+1
 Firearm
 Concussive, scatter 5 ft.
 10 rounds
 1 sp
+
+
 
 L
 Dueling pistol (level 1)
 12 gp
 1d6 P
 60 ft.
+1
 L
+1
 Firearm
 Concealable, concussive, fatal d10
 10 rounds
 1 sp
+
+
 
 L
 Harmona gun
 10 gp
 1d10 B
 150 ft.
+1
+2
+2
 Firearm
 Kickback
 5 rounds
 1 sp
+
+
 
 L
 Jezail (level 1)
 11 gp
 1d8 P
 90 ft.
+1
+1
+1
 Firearm
 Concussive, fatal aim d12
 10 rounds
 1 sp
+
+
 
 L
 Mithral tree
 9 gp
 1d6 P
 150 ft.
+1
+1
+2
 Firearm
 Concussive, elf, fatal d10, parry
 10 rounds
 1 sp
+
+
 
 L
 Pepperbox
 12 gp
 1d4 P
 60 ft.
+1
+1
+1
 Firearm
 Capacity 3, concussive, fatal d8
 10 rounds
 1 sp
+
+
 
 L
 Slide pistol (level 1)
 16 gp
 1d6 P
 30 ft.
+1
+2
+1
 Firearm
 Capacity 5, concussive, fatal d10
 10 rounds
 1 sp
+
+
 
 L
 Uncommon
 Advanced Weapons
 Price
 Damage
-Range Reload Bulk Hands
+Range	 Reload	 Bulk	 Hands
 Group
 Weapon Traits
 Dwarven scattergun
 10 gp
 1d8 P
 50 ft.
+1
+2
+2
 Firearm
 Concussive, dwarf, kickback,
 (level 1)
 
+
+
+
+
+
+
 scatter 10 ft.
 5 rounds
 1 sp
+
+
 
 L
 Flingflenser
 6 gp
 1d6 S
 30 ft.
+1
+1
+2
 Firearm
 Backstabber, fatal d10, goblin,
+
+
+
+
+
+
+
 
 scatter 5 ft.
 5 rounds
 1 sp
 
-L
 
-================================================================================
+
+L
+151
+151
+
 PAGE 153
 ================================================================================
 
@@ -608,11 +759,27 @@ their effects. If such a misfire happens as a result of an
 attack (due to an action that causes a misfire on a failed
 attack, for example), it retroactively makes the attack a
 critical failure.
+152
+152
 
-================================================================================
 PAGE 154
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 Dwarven Scattergun: A favored weapon of dwarf
 scouts from Dongun Hold, the dwarven scattergun is a
 powerful weapon designed to take advantage of a dwarf’s
@@ -725,9 +892,10 @@ Slide Pistol: Also known as a harmonica gun,
 this weapon is essentially a stock, trigger, and firing
 mechanism attached to a sliding brace of barrels that can
 each hold a round of ammunition.
+153
+153
 Slide Pistol
 
-================================================================================
 PAGE 155
 ================================================================================
 
@@ -842,12 +1010,28 @@ Usage held in 2 hands; Bulk 2
 A drake rifle is a firearm made from the saliva glands of
 a drake. The firearm launches small bursts of empowered
 spittle instead of typical rounds of ammunition. A drake rifle
+154
+154
 Rare Breath Blaster
 
-================================================================================
 PAGE 156
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 is a +1 weapon. It’s a distinct type of martial firearm that
 deals 1d10 damage with a range increment of 150 feet and
 reload 1. It deals acid, cold, electricity, fire, or poison damage,
@@ -866,11 +1050,11 @@ the target. This splash damage is of the same type as its
 normal damage.
 On a hit, the drake rifle provides one of the following
 additional effects based on its damage type:
-• Acid Clinging acid makes it painful and sickening to
+•	 Acid Clinging acid makes it painful and sickening to
 move. The target becomes sickened 1.
-• Cold Frozen spittle clings to the target. The target takes
+•	 Cold Frozen spittle clings to the target. The target takes
 a –10-foot status penalty to their Speeds for 1 minute.
-• Electricity
+•	 Electricity
 Small
 bursts
 of
@@ -881,14 +1065,14 @@ target
 becomes
 dazzled and flat-footed
 for 1d4 rounds.
-• Fire
+•	 Fire
 A
 massive
 explosion
 knocks
 the target back. The target is pushed 10 feet away from
 you, and if it’s on the ground, it falls prone.
-• Poison Noxious vapors fill the target’s lungs. The target
+•	 Poison Noxious vapors fill the target’s lungs. The target
 becomes enfeebled 1 and clumsy 1 for 1 minute.
 Craft Requirements The initial raw materials must include
 the saliva glands of a ritually hunted drake with a breath
@@ -976,9 +1160,10 @@ Usage held in 2 hands; Bulk 2
 A spider gun is a +1 striking weapon. It’s a distinct type
 of martial firearm made from the fangs and spinneret of
 a Large spider. It deals 1d10 poison damage with a range
+155
+155
  Petrification Cannon
 
-================================================================================
 PAGE 157
 ================================================================================
 
@@ -1098,12 +1283,28 @@ It has a +27 bonus to Grapple, and its ink spray DC is 37.
 Craft Requirements The initial raw materials must include
 the tentacles and ink glands of a creature with a tentacle
 Strike and ink.
+156
+156
 Tentacle Cannon
 
-================================================================================
 PAGE 158
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 Cobbled Firearms
 Goblins are nothing if not creative and adaptable, and
 have a unique gift for recognizing an advantage when
@@ -1177,7 +1378,7 @@ instead of a simple weapon. It has the
 fatal d12 trait and a range of 20 feet. It also
 has the following modified critical failure
 condition:
-Critical Failure The attack misses, the weapon
+Critical Failure The attack misses, the weapon
 misfires, and you take 1d12 fire damage as it
 explodes in your face.
 MAGICAL COBBLED FIREARMS
@@ -1219,10 +1420,11 @@ Cobbled: This firearm is cobbled together and likely to
 misfire. No matter how well you upkeep it, on a failed
 attack roll, the attack misses and you must roll a DC 5 flat
 check. If you fail this check, the weapon misfires.
+157
+157
 Spoon Gun
 Liar’s Gun
 
-================================================================================
 PAGE 159
 ================================================================================
 
@@ -1243,30 +1445,40 @@ Uncommon
 Martial Weapons
 Price
 Damage
-Range Reload Bulk Hands
+Range	 Reload	 Bulk	 Hands
 Group
 Weapon Traits
 Axe musket (level 1)
 10 gp
 1d6 P
 40 ft.
+1
+2
+2
 Firearm
 Concussive, fatal 1d10
 Melee usage
 
 1d8 S
 
+
+2
+2
 Axe
 Critical fusion, sweep
 10 rounds
 1 sp
+
+
 
 L
 Black powder
 8 gp
 1d4 P
 30 ft.
+1
 L
+1
 Firearm
 Concussive, fatal d8
 knuckle dusters
@@ -1274,52 +1486,80 @@ Melee usage
 
 1d4 B
 
+
 L
-Brawling Agile, critical fusion
+1
+Brawling	 Agile, critical fusion
 10 rounds
 1 sp
+
+
 
 L
 Cane pistol
 8 gp
 1d4 P
 30 ft.
+1
+1
+1
 Firearm
 Concussive, fatal d8
 Melee usage
 
 1d6 B
 
+
+1
+1
 Club
 Critical fusion, thrown 10 ft.
 10 rounds
 1 sp
+
+
 
 L
 Dagger pistol
 8 gp
 1d4 P
 30 ft.
+1
 L
+1
 Firearm
 Concussive, fatal d8
 Melee usage
 
 1d4 P
 
+
 L
+1
 Knife
 Agile, critical fusion, finesse,
+
+
+
+
+
+
+
 
 thrown 10 ft., versatile P
 10 rounds
 1 sp
+
+
 
 L
 Gnome amalgam musket
 10 gp
 1d6 P
 40 ft.
+2
+2
+2
 Firearm
 Concussive, fatal 1d10, gnome
 (level 1)
@@ -1327,142 +1567,254 @@ Melee usage
 
 1d8 B
 
-Hammer Critical fusion, gnome, trip,
+
+2
+2
+Hammer	 Critical fusion, gnome, trip,
+
+
+
+
+
+
+
 
 versatile P
 10 rounds
 1 sp
+
+
 
 L
 Gun sword (level 1)
 13 gp
 1d8 P
 50 ft.
+1
+2
+2
 Firearm
 Concussive, kickback
 Melee usage
 
 1d8 S
 
+
+2
+2
 Sword
 Critical fusion, versatile P
 10 rounds
 1 sp
+
+
 
 L
 Hammer gun (level 1)
 13 gp
 1d6 P
 60 ft.
+1
+2
+2
 Firearm
 Concussive, fatal 1d10
 Melee usage
 
 1d8 B
 
-Hammer Critical fusion, shove
+
+2
+2
+Hammer	 Critical fusion, shove
 10 rounds
 1 sp
+
+
 
 L
 Mace multipistol
 13 gp
 1d4 P
 20 ft.
+1
+1
+1
 Firearm
 Capacity 3, concussive, fatal d8
 Melee usage
 
 1d6 B
 
+
+1
+1
 Club
 Critical fusion, shove
 10 rounds
 1 sp
+
+
 
 L
 Piercing wind
 15 gp
 1d6 P
 40 ft.
+1
+1
+1
 Firearm
 Concussive, fatal aim d10
 Melee usage
 
 1d4 S
 
+
+1
+1
 Sword
 Critical fusion, finesse, forceful,
+
+
+
+
+
+
+
 
 sweep
 10 rounds
 1 sp
+
+
 
 L
 Rapier pistol
 10 gp
 1d4 P
 30 ft.
+1
+1
+1
 Firearm
 Concussive, fatal d8
 Melee usage
 
 1d4 P
 
+
+1
+1
 Sword
 Critical fusion, deadly d8,
+
+
+
+
+
+
+
 
 disarm, finesse
 10 rounds
 1 sp
 
+
+
 L
-Three peaked tree (level 1) 12 gp
+Three peaked tree (level 1)	 12 gp
 1d4 P
 60 ft.
+1
+2
+2
 Firearm
 Concussive, elf, fatal 1d8, parry
 Melee usage
 
 1d8 P
 
+
+2
+2
 Spear
 Critical fusion, elf, tethered,
+
+
+
+
+
+
+
 
 thrown 20 ft.
 10 rounds
 1 sp
+
+
 
 L
 Uncommon
 Advanced Weapons
 Price
 Damage
-Range Reload Bulk Hands
+Range	 Reload	 Bulk	 Hands
 Group
 Weapon Traits
-Explosive dogslicer (level 1) 10 gp
+Explosive dogslicer (level 1)	 10 gp
 1d6 S
 20 ft.
+1
+2
+2
 Firearm
 Backstabber, goblin, scatter 5 ft.
 Melee usage
 
 1d6 S
 
+
+2
+2
 Sword
 Backstabber, critical fusion,
+
+
+
+
+
+
+
 
 finesse, goblin
 5 rounds
 1 sp
 
-L
 
-================================================================================
+
+L
+158
+158
+
 PAGE 160
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 COMBINATION WEAPON DESCRIPTIONS
 The weapons listed in Table 4–3: Uncommon Combination
 Weapons are detailed below.
@@ -1574,10 +1926,11 @@ have a free hand, you can use an Interact
 action to pull the weapon back into your grasp after you
 have thrown it as a ranged attack or after it has been
 disarmed (unless it’s being held by another creature).
+159
+159
 Axe Musket
 Piercing Wind
 
-================================================================================
 PAGE 161
 ================================================================================
 
@@ -1620,7 +1973,8 @@ TRANSMUTATION
 Usage held in 2 hands; Bulk 2
 This walnut and brass +1 striking blunderbuss has a natural
 look, with wood worn smooth by time, but left knotted and
-gnarled. The handgrip beneath the flared muzzle is a wellpositioned bulging tree knot, and the long stock looks as if it
+gnarled. The handgrip beneath the flared muzzle is a well-
+positioned bulging tree knot, and the long stock looks as if it
 was grown to fit you. On closer examination, the whorls and
 rings in the wood resemble eyes.
 Arboreal’s revenge is a haunted firearm constructed with
@@ -1660,7 +2014,8 @@ a –10-foot circumstance penalty to their Speeds as roots
 rapidly sprout from their wounds, which lasts until they
 Escape (DC 20).
 Activate [two-actions] command, Interact; Frequency once per day;
-Effect You cast barkskin from the blunderbuss as a 2ndlevel primal spell. However,
+Effect You cast barkskin from the blunderbuss as a 2nd-
+level primal spell. However,
 the weakness to fire imposed
 by barkskin is cumulative
 with the weakness to fire
@@ -1697,12 +2052,28 @@ awaken fatigued. If you no longer possess the immolation
 clan pistol, the spirit of its dwarven smith is enraged by
 your neglect; you awaken fatigued and aflame, taking 2d6
 persistent fire damage.
+160
+160
 Immolation Clan Pistol
 
-================================================================================
 PAGE 162
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 Regardless, these nightmares possess clues to the spirit’s
 life. If you take the immolation hand cannon to the site of its
 creation and repair it with tools belonging to the tormented
@@ -1828,9 +2199,10 @@ care into its creation that the weapon gained a spark of
 sentience. However, at first it was completely incapable of
 expressing itself. This led a seething frustration to grow
 within the weapon, as it yearned desperately to respond to
+161
+161
 Animate Dreamer
 
-================================================================================
 PAGE 163
 ================================================================================
 
@@ -1952,11 +2324,27 @@ to control the severed or detached limb. A creature with
 an integrated firearm can’t use the arm replaced by the
 firearm for any actions or tasks other than wielding
 and firing the firearm.
+162
+162
 
-================================================================================
 PAGE 164
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 Patriotic to the extreme, this +2 flaming greater striking
 flintlock musket was among the first firearms forged in the
 Gunworks and was wielded by Ancil Alkenstar, founder of
@@ -2033,9 +2421,10 @@ Communication speech (Common)
 Skills Intimidation +19, Navigation Lore +14, Sailing Lore +14
 Int +0, Wis +2, Cha +4
 Will +16
+163
+163
  Integrated Firearms
 
-================================================================================
 PAGE 165
 ================================================================================
 
@@ -2090,11 +2479,27 @@ from a single large fang, worn with age and cracked with
 red lines. The tip of the fang has been filed down, but still
 leaks black fluid occasionally. It was fashioned from the
 tooth of the tor linnorm Hyldarf by a half-Ulfen gunsmith
+164
+164
 
-================================================================================
 PAGE 166
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 from Tian Xia who sought the title of linnorm king. Though
 the smith failed to slay the linnorm, he did claim the mighty
 dragon’s tooth and fashion it into a magic firearm that still
@@ -2215,8 +2620,9 @@ of 10 souls. Creatures whose souls are protected by outside
 forces, such as a lich’s soul cage, are immune to this
 effect, though the process, while painful, does not prevent
 the soul from going to the afterlife or being resurrected.
+165
+165
 
-================================================================================
 PAGE 167
 ================================================================================
 
@@ -2315,7 +2721,8 @@ This +2 striking fearsome dueling pistol (Advanced Player’s
 Guide 260) is made from fine tigerwood, with the head
 of a tiger as the muzzle. Beneath the tiger head is a claw
 shaped bayonet. One of a set of four guns crafted as a gift
-to a Zenj family for delivery of rare healing and diseaseabating herbs during an outbreak of a deadly disease in the
+to a Zenj family for delivery of rare healing and disease-
+abating herbs during an outbreak of a deadly disease in the
 Grand Duchy of Alkenstar, these firearms are now passed
 down to those who have done brave acts in service to the
 Zenj people. The flintlock sparks thrown by this weapon
@@ -2336,12 +2743,28 @@ with a spell DC of 28. While phantasmal killer typically
 takes the shape of the target’s worst fear, this effect
 always appears to the target in the form of a majestic and
 ferocious tiger.
+166
+166
 Pistol of Wonder
 
-================================================================================
 PAGE 168
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 PISTOL OF WONDER
 ITEM 13
 RARE
@@ -2375,12 +2798,14 @@ Wondrous Effect
 The pistol casts phantom steed (4th level) to
 produce a pale horse adjacent to you; only you
 can ride it.
+3
 The target becomes a shiny metal color (bronze,
 copper, or iron) and any sound or speech becomes
 tinny and robotic in nature; this effect lasts 1
 month.
 4–5
 The pistol casts dimensional anchor.
+6
 Modify memory (6th level) causes the target to
 forget you ever existed; you can’t Sustain the
 Spell.
@@ -2402,14 +2827,17 @@ but takes falling damage equal to the distance
 it moved (if it hits another creature, the other
 creature takes the same amount of falling
 damage).
+20
 You don’t need to eat or drink for 1 week.
 21–25
 The pistol casts cloudkill.
-26–30 The pistol casts heroism on you.
+26–30	 The pistol casts heroism on you.
+31
 The pistol casts tree shape on you, except you
 appear as a Medium wooden grave marker
 bearing your name and the current date; you can’t
 Dismiss the spell for 1 round.
+32
 The pistol casts mask of terror, except the target
 appears as a more fearsome and violent version of
 itself to all observers.
@@ -2425,28 +2853,32 @@ duration of 1d10 rounds.
 38–47
 The pistol casts hydraulic push (4th level) as water
 streams from the pistol.
-48–50 The pistol casts dimension door on you,
+48–50	 The pistol casts dimension door on you,
 teleporting you to the space adjacent to the target
 opposite your current position; if that space isn’t
 clear, you instead teleport to the nearest open
 space.
+51
 The pistol casts disintegrate.
+52
 Dozens of tattered, nonmagical playing cards
 burst from the pistol’s barrel.
-53–54 Shadows crowd around the target, making all
+53–54	 Shadows crowd around the target, making all
 creatures concealed to the target while not in
 bright light; this effect lasts for 1 hour.
 55–57
 Normal vegetation within 30 feet of the target
 immediately dies and turns to ash.
+58
 The pistol casts dinosaur form on you to
 transform you into a triceratops; the pistol
 protrudes from the base of your front horn, and
 you can fire (but not reload) the pistol while in
 this form.
+59
 All non-artifact ammunition in your possession
 crumbles to dust.
-60–69 You are quickened for 1 minute. You can use the
+60–69	 You are quickened for 1 minute. You can use the
 extra action only to reload or fire the pistol.
 70–71
 The target is quickened for 1 minute. It can use
@@ -2456,24 +2888,27 @@ The pistol casts phantasmal killer.
 80–81
 Dozens of bullet holes appear in the target’s
 nonmagical clothing. The effect is purely cosmetic.
-82–85 The pistol casts outcast’s curse.
+82–85	 The pistol casts outcast’s curse.
+86
 The pistol vanishes, reappearing among your
 possessions once it can be activated again.
 87–91
 The pistol casts solid fog, but with swirling dust
 and sand instead of fog.
-92–96 The pistol casts stoneskin on you, making your
+92–96	 The pistol casts stoneskin on you, making your
 skin rough and leathery; the target ignores the
 resistance you gain from this spell, and the
 target’s attacks don’t reduce the spell’s duration.
-97–99 The pistol casts uncontrollable dance with
+97–99	 The pistol casts uncontrollable dance with
 a duration of 3 rounds, even on a failure or
 critical failure.
+100
 Reroll two results and apply both in the order
 rolled; further results of 100 on these rerolls have
 no effect.
+167
+167
 
-================================================================================
 PAGE 169
 ================================================================================
 
@@ -2527,11 +2962,27 @@ from this book.
 Type awakened cold iron shot; Level 17; Price 2,300 gp
 The shot is a high-grade cold iron bullet. The awakened cold iron
 attempts to disrupt enchantments the target placed on others’
+168
+168
 
-================================================================================
 PAGE 170
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 minds. You can name a creature you believe to be enchanted
 by your target or allow the shot to choose an enchanted
 creature randomly. On a hit, the shot attempts to counteract the
@@ -2645,13 +3096,15 @@ CONSUMABLE
 Price 22 gp
 Ammunition round
 Activate [one-action] Interact
-Eroding bullets cast a faint green glow, and smell like the sicklysweet organic gases that rise from corpses. Handling an eroding
+Eroding bullets cast a faint green glow, and smell like the sickly-
+sweet organic gases that rise from corpses. Handling an eroding
 bullet without gloves deals 1 point of acid damage and leaves
 the putrid scent coated on your fingers. Upon Striking an enemy,
+169
+169
 Awakened Metal Shot
 Feather Token Bullet
 
-================================================================================
 PAGE 171
 ================================================================================
 
@@ -2711,11 +3164,27 @@ These cartridges are filled with sticky clear glue. When a glue
 bullet hits, a syrupy webbing coats the target and sticks to the
 ground or a nearby surface, hindering their movement. The
 target takes a –10-foot circumstance penalty to its Speeds for
+170
+170
 
-================================================================================
 PAGE 172
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 2d4 rounds, or until it Escapes against a DC of 18. On a critical
 hit, the target is also immobilized until it Escapes.
 METEOR SHOT
@@ -2843,9 +3312,10 @@ occupied space fails to deploy and is wasted), they are
 incredibly useful for providing cover where none existed
 previously, making a quick escape, or coordinating an
 innovative heist.
+171
+171
 Meteor Shot
 
-================================================================================
 PAGE 173
 ================================================================================
 
@@ -2893,11 +3363,27 @@ using a specific ability or due to using an unreliable
 black powder siege weapon with the cobbled trait, such
 as a siege weapon created at the risky pirate volcano
 foundry known as the Motaku Ironworks.
+172
+172
 
-================================================================================
 PAGE 174
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 HISTORY OF BLACK POWDER
 ARTILLERY ON GOLARION
 As with any other realm of scientific advancement, siege
@@ -3010,8 +3496,9 @@ a large bell. While they are capable of moving very slowly,
 their clumsy and weighty design means bombards usually
 remain stationary. This in turn means they’re often used
 more defensively than offensively.
+173
+173
 
-================================================================================
 PAGE 175
 ================================================================================
 
@@ -3065,11 +3552,27 @@ Load [two-actions] (manipulate) 2 times, requires a successful DC 20
 Athletics check
 Launch [one-action] (manipulate, range increment 300 feet) 8d12
 bludgeoning, single target, DC 27 Reflex
+174
+174
 
-================================================================================
 PAGE 176
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 FIREDRAKE
 ITEM 8
 UNCOMMON
@@ -3147,6 +3650,7 @@ Load
 3 times, requires a
 successful
 DC
+20
 Athletics check
 Launch [one-action] (manipulate, range
 increment 500 feet) 8d12 bludgeoning,
@@ -3192,10 +3696,11 @@ Rather than a shoot a single, large projectile like a boulder, the
 hwacha fires dozens of rocket-propelled arrows at once. The
 frame of the hwacha holds 100 tubes, each loaded with an
 arrow or a small bundle of arrows wrapped with a small amount
+175
+175
 Fiend’s Mouth Cannon
 Hwacha
 
-================================================================================
 PAGE 177
 ================================================================================
 
@@ -3249,11 +3754,27 @@ Crew 4 to 6; Proficiency martial
 AC 32; Fort +26, Reflex +18
 Hardness 15; HP 200 (BT 100); Immunities object immunities
 Speed 10 feet (pulled or pushed)
+176
+176
 
-================================================================================
 PAGE 178
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 CHAIN SHOT
 A special type of ammunition for siege weapons,
 chain shot is built to demolish masts, sails, and airship
@@ -3267,7 +3788,8 @@ one object instead of using its normal targets or area.
 The target takes no damage, but on a failed Reflex save,
 the object’s mast, sail, or gasbag becomes broken. The
 pilot can attempt a piloting check in place of this Reflex
-save. A broken mast, sail, or gasbag prevents a windpropelled vessel from moving, except by other means of
+save. A broken mast, sail, or gasbag prevents a wind-
+propelled vessel from moving, except by other means of
 propulsion if available. For instance, a galley could still be
 rowed if it had enough rowers. An airship with a broken
 gasbag instead begins to slowly descend as it leaks gas,
@@ -3361,8 +3883,9 @@ end of the sambuca can be lowered by teams operating the
 pulleys in concert. This requires three crew members on each
 ship, and they can lower the far end of the sambuca by 15
 feet each round they work.
+177
+177
 
-================================================================================
 PAGE 179
 ================================================================================
 
@@ -3384,6 +3907,7 @@ Hands
 Earplugs
 1 sp
 —
+1
 TABLE 4–5: UNCOMMON TOOLS AND ACCESSORIES
 Item
 Price
@@ -3407,6 +3931,7 @@ TOOLS AND ACCESSORIES
 Firearm cleaning kit
 1 sp
 L
+2
 Practice targets (10)
 2 sp
 L
@@ -3414,11 +3939,15 @@ L
 Silencer
 1 sp
 L
+1
 Tripod
 2 sp
+1
+2
 Waterproof firearm
 2 sp
 L
+2
 carrying case
 Camouflage Suit: This lightweight mesh fits easily over
 light armor. The suit is designed to incorporate local
@@ -3435,11 +3964,27 @@ it consistently.
 A suit prepared in this manner grants you a +1 item
 bonus to Stealth checks while you attempt to Hide or
 Sneak in the specific environment it has been prepared for.
+178
+178
 
-================================================================================
 PAGE 180
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 ATTACHED CUSTOMIZATION OPTIONS
 This section introduces two new types of item that can
 be attached to a firearm: scopes and firing mechanisms.
@@ -3551,12 +4096,14 @@ INVESTED
 MAGICAL
 Price 60 gp
 Usage worn; Bulk L
+179
+179
 
-================================================================================
 PAGE 181
 ================================================================================
 
-This incredibly spacious bandolier can hold up to 4 onehanded crossbows or firearms that take no more than
+This incredibly spacious bandolier can hold up to 4 one-
+handed crossbows or firearms that take no more than
 1 action to completely reload (typically meaning that
 weapons with the capacity or repeating traits won’t fit in
 the bandolier’s holsters). A gunner’s bandolier can be etched
@@ -3632,27 +4179,35 @@ Type lucky draw bandolier; Level 9; Price 700 gp
 Type greater lucky draw bandolier; Level 12; Price 2,000 gp
 You can activate a greater lucky draw bandolier once per
 hour instead of being able to activate it once per day.
-d6 Ability (Suit)
+d6	 Ability (Suit)
 Ammunition
+1
 Strength (Hammer)
 Meteor shot (page 171)
+2
 Dexterity (Key)
 Storm arrow
+3
 Constitution (Shield)
 Corrosive ammunition
+4
 Intelligence (Book)
 Explosive shot
+5
 Wisdom (Star)
 Terrifying ammunition
 
+
 (Advanced Player’s Guide 259)
+6
 Charisma (Crown)
 Fairy bullet (page 170)
 SCOPES
 Scopes for firearms and crossbows
 have existed, in one form or another,
 for many years, though they’ve
-recently become one of the most soughtafter luxury items for gun enthusiasts in
+recently become one of the most sought-
+after luxury items for gun enthusiasts in
 Alkenstar and in various regions that have
 gotten their hands on Alkenstar firearms
 (whether through legal means or otherwise).
@@ -3679,12 +4234,28 @@ into their design. While relatively useless under normal
 lighting conditions, these crystals can help bring things
 into focus when used in dim light. The scope is then given
 an enchantment to enhance these properties for use in
+180
+180
 Magnifying Scope
 
-================================================================================
 PAGE 182
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 darkness. The scope grants you a +1 item bonus to Perception
 checks involving sight in areas of dim light visible through
 the scope (as well as in areas of darkness, if the scope has
@@ -3735,8 +4306,9 @@ weapon to which the scope is attached by 5 feet until
 the beginning of your next turn or until you’re no longer
 wielding the weapon, whichever comes first.
 Type magnifying scope; Level 3; Price 70 gp
+181
+181
 
-================================================================================
 PAGE 183
 ================================================================================
 
@@ -3855,12 +4427,28 @@ Type monopod; Level 1; Price 2 sp
 Monopods are lighter and can be deployed with a single
 hand using the same action as drawing the firearm. They
 still require an Interact action to retrieve. Monopods are
+182
+182
 Portable Weapon Mount
 
-================================================================================
 PAGE 184
 ================================================================================
 
+Introduction
+Gears
+Characters
+Gears
+Equipment
+Guns
+Characters
+Guns
+Equipment
+The Rotating
+Gear
+Glossary
+And Index
+Guns &
+GEARS
 less stable than a tripod, and firing a kickback weapon from
 a monopod without the necessary Strength reduces the
 penalty to a –1 circumstance penalty instead of removing
@@ -3954,7 +4542,8 @@ fired, the ejectors hasten the reloading
 process by ejecting the spent
 detritus from the fired rounds.
 This allows you to reload
-both barrels of the doublebarreled weapon as a single
+both barrels of the double-
+barreled weapon as a single
 Interact action the next time
 you reload the weapon as
 long as you do so before the
@@ -3974,9 +4563,10 @@ firearms with the kickback or scatter traits, and attaching
 large bore modifications takes 1 hour, though this time can
 overlap with the standard time required to maintain and
 clean your firearm to prevent misfires.
+183
+183
 Blazons of shared power
 
-================================================================================
 PAGE 185
 ================================================================================
 
@@ -4108,3 +4698,5 @@ expert with the affixed firearm or crossbow and an expert
 in Perception.
 This colorful marble dangles from a leather thong wrapped
 around the affixed weapon. When you activate the band, for
+184
+184

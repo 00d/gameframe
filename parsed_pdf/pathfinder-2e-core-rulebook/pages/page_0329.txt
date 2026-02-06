@@ -1,0 +1,143 @@
+DEATH KNELL
+SPELL 2
+ATTACK
+DEATH
+NECROMANCY
+Traditions divine, occult
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 living creature that has 0 HP
+Saving Throw Will
+You snuff the life out of a creature on the brink of death. The
+target must attempt a Will save. If this kills it, you gain 10
+temporary HP and a +1 status bonus to attack and damage rolls
+for 10 minutes.
+Critical Success The target is unaffected.
+Success The target’s dying value increases by 1.
+Failure The target dies.
+DEATH WARD
+SPELL 5
+ABJURATION
+Traditions divine, occult, primal
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 living creature touched
+Duration 10 minutes
+You shield a creature from the ravages of negative energy.
+It receives a +4 status bonus to saves against death and
+negative effects, gains negative resistance 10, and suppresses
+the effects of the doomed condition.
+DETECT ALIGNMENT
+SPELL 1
+UNCOMMON
+DETECTION
+DIVINATION
+Traditions divine, occult
+Cast [two-actions] somatic, verbal
+Area 30-foot emanation
+Your eyes glow as you sense aligned auras. Choose chaotic,
+evil, good, or lawful. You detect auras of that alignment. You
+receive no information beyond presence or absence. You can
+choose not to detect creatures or effects you’re aware have
+that alignment.
+Only creatures of 6th level or higher—unless divine
+spellcasters, undead, or beings from the Outer Sphere—have
+alignment auras.
+Heightened (2nd) You learn each aura’s location and strength.
+ALIGNMENT AURA
+The strength of an alignment aura depends on the level
+of the creature, item, or spell. The auras of undead, clerics
+and other divine spellcasters with a patron deity, and
+creatures from the Outer Sphere are one step stronger
+than normal (faint instead of none, for example).
+
+Creature or
+Spell or
+
+Item Level
+Effect Level
+Aura Strength
+
+0–5
+—
+None
+
+6–10
+0–3
+Faint
+
+11–15
+4–7
+Moderate
+
+16–20
+8–9
+Powerful
+
+21+
+10
+Overwhelming
+DETECT MAGIC
+CANTRIP 1
+CANTRIP
+DETECTION
+DIVINATION
+Traditions arcane, divine, occult, primal
+Cast [two-actions] somatic, verbal
+Area 30-foot emanation
+You send out a pulse that registers the presence of magic. You
+receive no information beyond the presence or absence of magic.
+You can choose to ignore magic you’re fully aware of, such as the
+magic items and ongoing spells of you and your allies.
+You detect illusion magic only if that magic’s effect has a lower
+level than the level of your detect magic spell. However, items
+that have an illusion aura but aren’t deceptive in appearance
+(such as an invisibility potion) typically are detected normally.
+Heightened (3rd) You learn the school of magic for the highest-
+level effect within range that the spell detects. If multiple
+effects are equally strong, the GM determines which you learn.
+Heightened (4th) As 3rd level, but you also pinpoint the source
+of the highest-level magic. Like for an imprecise sense, you
+don’t learn the exact location, but can narrow down the source
+to within a 5-foot cube (or the nearest if larger than that).
+DETECT POISON
+SPELL 1
+UNCOMMON
+DETECTION
+DIVINATION
+Traditions divine, primal
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 object or creature
+You detect whether a creature is venomous or poisonous, or if
+an object is poison or has been poisoned. You do not ascertain
+whether the target is poisonous in multiple ways, nor do you
+learn the type or types of poison. Certain substances, like lead
+and alcohol, are poisons and so mask other poisons.
+Heightened (2nd) You learn the number and types of poison.
+DETECT SCRYING
+SPELL 4
+UNCOMMON
+DETECTION
+DIVINATION
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Area 30-foot emanation
+Duration 1 hour
+By tapping into trace divinatory auras, you detect the presence
+of scrying effects in the area. If detect scrying is higher level
+than a scrying effect, you gain a glimpse of the scrying
+creature and learn its approximate distance and direction.
+Heightened (6th) The duration is until the next time you make
+your daily preparations.
+DIMENSION DOOR
+SPELL 4
+CONJURATION
+TELEPORTATION
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 120 feet
+Opening a door that bypasses normal space, you instantly
+transport yourself and any items you’re wearing and holding
+from your current space to a clear space within range you can
+see. If this would bring another creature with you—even if you’re
+carrying it in an extradimensional container—the spell is lost.
+Core Rulebook
+328

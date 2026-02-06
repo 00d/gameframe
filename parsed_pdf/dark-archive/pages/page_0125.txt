@@ -1,0 +1,142 @@
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+21551670
+21551670
+21551670
+35665
+435665
+435665
+Disable DC 38 Thievery (master) to deface the mirror’s pane,
+or dispel magic (7th level; counteract DC 36) to dispel the
+mirror or counteract the transformation
+AC 33; Fort +28, Ref +22
+Hardness 24; HP 90 (BT 45); Immunities object immunities
+Painful Transformation [reaction] (attack) Trigger A creature is
+reflected in the mirror; Effect The triggering creature’s body
+is painfully squished, stretched, and distorted to match
+their reflection. The creature
+takes 6d10+30 force damage
+and must attempt a DC 39
+Fortitude save.
+Critical Success The target is
+unaffected.
+Success The target takes half
+damage and is clumsy 1 and
+enfeebled 1 for 1 round.
+Failure The target takes full
+damage and is clumsy 2 and
+enfeebled 2 for 4 rounds.
+Critical Failure The target
+takes double damage and
+is clumsy 2 and enfeebled
+2 for 1 minute. As long as
+the creature is clumsy or
+enfeebled, it additionally
+takes a –10-foot status penalty to its Speeds.
+When the effects of this trap end, the triggering
+creature’s transformation ends, and its body reverts to
+its natural form.
+Reset 1 day
+SIGIL OF DEEPEST FEARS
+HAZARD 17
+MAGICAL
+TRAP
+Stealth DC 43 (master)
+Description An arcane sigil forces creatures to confront their
+greatest fear.
+Disable DC 43 Thievery (master) to drain the sigil’s power
+harmlessly, or dispel magic (9th level; counteract DC 42) to
+counteract the sigil
+Face Your Fear [reaction] (arcane, death, emotion, fear, illusion,
+mental) Trigger A creature moves within 10 feet of the sigil;
+Effect All creatures within 120 feet of the sigil are affected
+by a weird spell (DC 40 Will save).
+Reset 1 day
+SPIRIT WINDOW
+HAZARD 20
+HAUNT
+Stealth DC 51
+Description Spirits trapped inside a haunted window harm
+those who touch the window.
+Disable DC 48 Occultism (legendary) to free the spirits from
+the mirror, or DC 48 Religion (legendary) to banish the spirits
+AC 45; Fort +36, Ref +30
+Hardness 35 (window); HP 132 (BT 66); Immunities object
+immunities
+Siphon Soul [reaction] (evil, necromancy, negative, occult) Trigger A
+creature touches the window; Effect The triggering creature
+takes 8d10+44 negative damage (DC 42 basic Will save)
+as the window attempts to steal their soul. If this damage
+would kill the target, its soul is trapped inside the window
+with the effects of bind soul.
+Reset 1 round
+Complex
+Hazards
+CLONE MIRRORS
+HAZARD 6
+COMPLEX
+MAGICAL
+TRAP
+Stealth DC 21
+Description
+Two
+opposing
+mirrors spawn illusory duplicates
+of creatures in the hall in an
+unending tide.
+Disable DC 28 Thievery (expert)
+to
+reposition
+each
+mirror,
+or
+dispel magic (3rd
+level;
+counteract DC 25) to counteract
+each mirror
+AC 21; Fort +17, Ref +11
+Hardness 13 per mirror; HP
+54 (BT 27); Immunities object
+immunities
+Spawn Reflection [reaction] (illusion) Trigger A creature is reflected
+in the mirror; Effect The mirror creates a reflection of the
+triggering creature, which Steps out of the mirror and into
+the hall. The trap then rolls initiative.
+Routine (2 actions) This trap loses 1 action for each mirror
+disabled. Each mirror uses 1 action to Spawn a Reflection
+of a creature reflected in the mirror. The hazard can have
+a maximum of four reflections spawned at once.
+Reflection AC 24; Fort +11, Ref +17
+Reflection HP 30; Immunities object immunities
+Reflection Routine (2 actions) Each reflection has 2 actions
+which it uses to Step, Stride, or Strike (in any combination).
+Reflections can act on the same turn they’re created.
+Reflection Speed 50 feet
+Melee [one-action] reflected weapon +17 (versatile P, versatile S),
+Damage 2d6+8 bludgeoning
+Reset 1 day
+CONSTRICTING HALL
+HAZARD 8
+COMPLEX
+MAGICAL
+TRAP
+Stealth DC 31
+Description A hall’s four walls become fluid and elastic when
+a creature reaches the hall’s midpoint.
+Disable DC 28 Thievery (trained) to stabilize each wall, or
+dispel magic (4th level; counteract DC 26) to counteract
+each wall
+Lose Form [reaction] (occult, transmutation) Trigger A creature
+reaches the hall’s midpoint; Effect The hall’s walls lose
+their rigidity, becoming fluid and elastic. The hall becomes
+124
+124
+Clone Mirrors
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+21551670
+21551670
+21551670
+35665
+435665
+435665

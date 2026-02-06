@@ -1,0 +1,115 @@
+Bulk Limits
+You can carry an amount of Bulk equal to 5 plus your
+Strength modifier without penalty; if you carry more, you
+gain the encumbered condition. You can’t hold or carry
+more Bulk than 10 plus your Strength modifier.
+Encumbered
+You are carrying more weight than you can manage.
+While you’re encumbered, you’re clumsy 1 and take
+a –10-foot penalty to all your Speeds. As with all
+penalties to your Speed, this can’t reduce your Speed
+below 5 feet.
+Bulk Values
+Items can have a number to indicate their Bulk value,
+or they can be light (indicated by an L) or negligible
+(indicated by a —) for the purpose of determining Bulk.
+For instance, full plate armor is 4 Bulk, a longsword is
+1 Bulk, a dagger or scroll is light, and a piece of chalk is
+negligible. Ten light items count as 1 Bulk, and you round
+down fractions (so 9 light items count as 0 Bulk, and 11
+light items count as 1 Bulk). Items of negligible Bulk don’t
+count toward Bulk unless you try to carry vast numbers
+of them, as determined by the GM.
+Estimating an Item’s Bulk
+As a general rule, an item that weighs 5 to 10 pounds is 1
+Bulk, an item weighing less than a few ounces is negligible,
+and anything in between is light. Particularly awkward or
+unwieldy items might have higher Bulk values. For example,
+a 10-foot pole isn’t heavy, but its length makes it difficult
+for you to move while you have one on your person, so its
+Bulk is 1. Items made for larger or smaller creatures have
+greater or lesser Bulk, as described on page 295.
+Bulk of Coins
+Coins are a popular means of exchange due to their
+portability, but they can still add up. A thousand coins
+of any denomination or combination of denominations
+count as 1 Bulk. It’s not usually necessary to determine
+the Bulk of coins in fractions of 1,000; simply round
+down fractions of 1,000. In other words, 100 coins
+don’t count as a light item, and 1,999 coins are 1 Bulk,
+not 2.
+Bulk of Creatures
+You might need to know the Bulk of a creature, especially
+if you need to carry someone off the battlefield. The table
+that follows lists the typical Bulk of a creature based on its
+size, but the GM might adjust this number.
+	Size of Creature
+Bulk
+
+Tiny
+1
+
+Small
+3
+
+Medium
+6
+
+Large
+12
+
+Huge
+24
+	 Gargantuan
+48
+Dragging
+In some situations, you might drag an object or creature
+rather than carry it. If you’re dragging something, treat
+its Bulk as half. Typically, you can drag one thing at
+a time, you must use both hands to do so, and you
+drag slowly—roughly 50 feet per minute unless you
+have some means to speed it up. Use the total Bulk of
+what you’re dragging, so if you have a sack laden with
+goods, use the sum of all the Bulk it carries instead of an
+individual item within.
+Wielding Items
+Some abilities require you to wield an item, typically a
+weapon. You’re wielding an item any time you’re holding
+it in the number of hands needed to use it effectively.
+When wielding an item, you’re not just carrying it
+around—you’re ready to use it. Other abilities might
+require you to merely carry or have an item. These apply
+as long as you have the item on your person; you don’t
+have to wield it.
+Item Damage
+An item can be broken or destroyed if it takes enough
+damage. Every item has a Hardness value. Each time an
+item takes damage, reduce any damage the item takes by
+its Hardness. The rest of the damage reduces the item’s
+Hit Points. Normally an item takes damage only when
+a creature is directly attacking it—commonly targeted
+items include doors and traps. A creature that attacks
+you doesn’t normally damage your armor or other gear,
+even if it hits you. However, the Shield Block reaction can
+cause your shield to take damage as you use it to prevent
+damage to yourself, and some monsters have exceptional
+abilities that can damage your items.
+An item that takes damage can become broken
+and eventually destroyed. It becomes broken when
+its Hit Points are equal to or lower than its Broken
+Threshold (BT); once its Hit Points are reduced to 0,
+it is destroyed. A broken item has the broken condition
+until Repaired above its Broken Threshold. Anything
+that automatically makes an item broken immediately
+reduces its Hit Points to its Broken Threshold if the item
+had more Hit Points than that when the effect occurred.
+If an item has no Broken Threshold, then it has no
+relevant changes to its function due to being broken,
+but it’s still destroyed at 0 Hit Points. (See the broken
+condition definition on page 273 for more information.)
+A destroyed item can’t be Repaired.
+An item’s Hardness, Hit Points, and Broken Threshold
+usually depend on the material the item is made of. This
+information appears on page 577.
+Core Rulebook
+272

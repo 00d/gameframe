@@ -1,0 +1,86 @@
+5
+NPC Gallery
+209
+209
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+RUFFIAN
+Using their strength to bully others into submission, ruffians often work as
+bodyguards and enforcers for powerful criminals like charlatans and fences.
+RUFFIAN
+CREATURE 2
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +8
+Languages Common
+Skills Athletics +7, Intimidation +6, Stealth +6
+Str +3, Dex +2, Con +3, Int −1, Wis +2, Cha +0
+Items club, sling (10 bullets), studded leather armor
+AC 18; Fort +9, Ref +8, Will +6
+HP 32
+Attack of Opportunity 
+Speed 25 feet
+Melee [one-action] club +9, Damage 1d6+5 bludgeoning
+Ranged [one-action] sling +8 (propulsive, range increment 50 feet, reload 1), Damage 1d6+5 bludgeoning
+Ranged [one-action] club +8 (thrown 10 feet), Damage 1d6+5 bludgeoning
+Brutal Beating The ruffian’s brutality shakes foes’ confidence. When the ruffian
+deals damage on a critical hit, the target is frightened 1, and the ruffian can knock
+the target up to 10 feet away (this is forced movement).
+Snagging Strike [one-action] Trigger The ruffian has one hand free, and its target is within
+reach of that hand; Effect The ruffian makes a melee Strike while
+keeping one hand free. If this Strike hits, the target is flat-footed until
+the start of the ruffian’s next turn or until it leaves the ruffian’s reach,
+whichever comes first.
+Sneak Attack The ruffian deals an extra 1d6 precision damage to flat-footed
+creatures.
+CHARLATAN
+Charlatans use pretense and misdirection to swindle money and other valuables
+from the credulous and confused. Selling snake oil (literally or figuratively),
+distracting marks to pick their pockets, or faking mediumship are classic grifts.
+CHARLATAN
+CREATURE 3
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Acrobatics +8, Deception +11, Diplomacy +9, Occultism +7, Performance
++11, Society +7, Stealth +8, Thievery +8, Underworld Lore +9
+Str +0, Dex +3, Con +0, Int +2, Wis +1, Cha +4
+Items disguise kit, lute, sap, shortsword, thieves’ tools
+Versatile Performance The charlatan can use Performance instead of Diplomacy to Make
+an Impression and instead of Intimidation to Demoralize. They can also use an acting
+Performance instead of Deception to Impersonate.
+AC 18; Fort +5, Ref +8, Will +10
+HP 40
+Speed 25 feet
+Melee [one-action] shortsword +10 (agile, versatile S), Damage 1d6+2 piercing
+Melee [one-action] sap +7 (agile, nonlethal), Damage 1d6+2 bludgeoning
+Occult Spontaneous Spells DC 20, attack +10; 2nd (2 slots) charm, illusory disguise,
+invisibility; 1st (3 slots) illusory disguise, magic aura, unseen servant, ventriloquism;
+Cantrips (2nd) daze, ghost sound, mage hand, message, prestidigitation
+Bard Composition Spells 1 Focus Point, DC 19; 1st counter performance (Core Rulebook
+386); Cantrips (1st) inspire courage (Core Rulebook 386)
+Sneak Attack The charlatan deals an extra 1d6 precision damage to flat-footed creatures.
+MORE SCAMS
+• Fraudsters sell fake alchemical
+items, medicines, charms,
+talismans, or other minor magics.
+• Unscrupulous moneylenders
+take advantage of lax business
+regulations to employ predatory
+repayment terms.
+• Phony fortune-tellers and
+mediums use cold-reading
+techniques to lull gullible marks.
+CHARLATAN

@@ -1,0 +1,119 @@
+Spell Descriptions
+AGONIZING DESPAIR
+SPELL 3
+EMOTION
+ENCHANTMENT
+FEAR
+MENTAL
+Traditions arcane, divine, occult
+Cast [two-actions] verbal, somatic
+Range 60 feet; Targets 1 creature
+Saving Throw Will
+Your target’s mind tumbles down a deep well of dread,
+dwelling so intently on deep-seated fears that it’s painful. The
+target takes 4d6 mental damage with a Will saving throw.
+Critical Success The target is unaffected.
+Success The target takes half damage and becomes frightened 1.
+Failure The target takes full damage and becomes frightened 2.
+Critical Failure The target takes double damage and becomes
+frightened 3.
+Heightened (+1) Increase the damage by 2d6.
+ANIMATE DEAD
+SPELL 1
+NECROMANCY
+Traditions arcane, divine, occult
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+Your magic dredges up a corpse or skeleton and fills it with
+necromantic life, and you force the dead to fight at your
+command. You summon a common creature that has the
+undead trait and whose level is –1; this creature gains the
+summoned trait. Heightening the spell increases the maximum
+level of creature you can summon.
+Heightened (2nd) Level 1.
+Heightened (3rd) Level 2.
+Heightened (4th) Level 3.
+Heightened (5th) Level 5.
+Heightened (6th) Level 7.
+Heightened (7th) Level 9.
+Heightened (8th) Level 11.
+Heightened (9th) Level 13.
+Heightened (10th) Level 15.
+ANIMATE ROPE
+SPELL 1
+TRANSMUTATION
+ Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 100 feet; Targets up to 50 feet of rope or a nonliving
+rope-like object
+Duration sustained up to 1 minute
+You cause a length or section of rope or a rope-like object to
+animate and follow simple commands. You can give it two
+commands when you Cast the Spell, and one command each
+time you Sustain the Spell.
+• Bind (attack) The rope attempts to partially bind a
+creature. Attempt a spell attack roll against the target’s
+Reflex DC. If you succeed, the target takes a –10-foot
+circumstance penalty to its Speed (–20-foot on a critical
+success). This ends if the target Escapes against your
+spell DC or breaks the rope. (A standard adventuring rope
+has Hardness 2, HP 8, and a Broken Threshold of 4.)
+• Coil The rope forms a tidy, coiled stack.
+• Crawl The rope inches along the ground like a snake,
+moving one of its ends 10 feet. The rope must move along
+a surface, but that surface doesn’t need to be horizontal.
+• Knot The rope ties a sturdy knot in itself.
+• Loop The rope forms a simple loop at one or both ends, or
+straightens itself back out.
+• Tie The rope ties itself around a willing creature or an
+object that’s unattended or attended by a willing creature.
+• Undo The rope undoes one of its knots, ties, or bindings.
+Heightened (+2) The range increases by 50 feet, and you can
+animate 50 more feet of rope.
+ANIMATED ASSAULT
+SPELL 2
+EVOCATION
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 120 feet; Area 10-foot burst
+Saving Throw basic Reflex; Duration sustained up to 1 minute
+You use your mind to manipulate unattended objects in the
+area, temporarily animating them to attack. The objects hover
+in the air, then hurl themselves at nearby creatures in a chaotic
+flurry of debris. This assault deals 2d10 bludgeoning damage
+(basic Reflex save) to each creature in the area. On subsequent
+rounds, you can Sustain this Spell, dealing 1d10 bludgeoning
+damage (basic Reflex save) to each creature in the area.
+Heightened (+2) The initial damage increases by 2d10 and the
+subsequent damage increases by 1d10.
+AQUEOUS ORB
+SPELL 3
+CONJURATION
+WATER
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 60 feet
+Duration sustained up to 1 minute
+A sphere of water 10 feet in diameter forms in an unoccupied
+space in range, either on the ground or on the surface of a
+liquid. When you Cast the Spell and each time you Sustain the
+Spell, you can roll the orb, moving it up to 10 feet along the
+ground or the surface of a liquid. Unlike most spells, you can
+gain this effect multiple times in the same round by Sustaining
+the Spell multiple times. The orb can move through the spaces
+of any creatures or obstacles that wouldn’t stop the flow of
+water. It extinguishes non-magical fires it moves through of its
+size or smaller, and it attempts to counteract any magical fires
+it moves through. If it fails to counteract a given fire, it can’t
+counteract that fire for the duration of the spell.
+The orb can also collect creatures it moves through. Any Large
+or smaller creature whose space the orb tries to move through
+can attempt a Reflex save against your spell DC to avoid being
+engulfed. If a creature succeeds at this save, it can either let the
+orb pass (remaining in its space or moving out of the orb’s path
+into a space of the creature’s choice) or allow itself to be pushed
+in front of the orb to the end of the orb’s movement. The orb can
+Advanced Player's Guide
+214
+214

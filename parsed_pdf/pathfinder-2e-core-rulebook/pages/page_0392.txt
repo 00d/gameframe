@@ -1,0 +1,156 @@
+Failure As success, but the duration is 1 minute.
+Critical Failure As success, but the duration is 1 minute, and
+the target is also blinded for the duration. It can attempt
+a new save at the end of each of its turns. If it succeeds,
+it’s no longer blinded, but its darkvision or low-light vision
+remains suppressed.
+DAZZLING FLASH
+FOCUS 1
+UNCOMMON
+CLERIC
+EVOCATION
+LIGHT
+VISUAL
+Domain sun
+Cast [two-actions] material, verbal
+Area 15-foot cone
+Saving Throw Fortitude
+You raise your religious symbol and create a blinding flash of
+light. Each creature in the area must attempt a Fortitude save.
+Critical Success The creature is unaffected.
+Success The creature is dazzled for 1 round.
+Failure The creature is blinded for 1 round and dazzled for 1
+minute. The creature can spend an Interact action rubbing
+its eyes to end the blinded condition.
+Critical Failure The creature is blinded for 1 round and dazzled
+for 1 hour.
+Heightened (3rd) The area increases to a 30-foot cone.
+DEATH’S CALL
+FOCUS 1
+UNCOMMON
+CLERIC
+NECROMANCY
+Domain death
+Cast [reaction] verbal
+Trigger A living creature within 20 feet of you dies, or an
+undead creature within 20 feet of you is destroyed.
+Duration 1 minute
+Seeing another pass from this world to the next invigorates you.
+You gain temporary Hit Points equal to the triggering creature’s
+level plus your Wisdom modifier. If the triggering creature was
+undead, double the number of temporary Hit Points you gain .
+These last for the duration of the spell, and the spell ends if all
+the temporary Hit Points are depleted earlier.
+DELUSIONAL PRIDE
+FOCUS 4
+UNCOMMON
+CLERIC
+EMOTION
+ENCHANTMENT
+MENTAL
+Domain confidence
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration varies
+You make the target overconfident, leading it to ascribe failure
+to external factors. If the target fails at an attack roll or skill
+check, it takes a –1 status penalty to attack rolls and skill
+checks until the end of its turn (or the end of its next turn, if it
+attempted the roll outside its turn). If the creature fails a second
+time while taking this penalty, the penalty increases to –2. The
+duration depends on the target’s Will save. After attempting its
+save, the creature becomes temporarily immune for 24 hours.
+Critical Success The target is unaffected.
+Success The duration is 1 round.
+Failure The duration is 10 minutes.
+Critical Failure The duration is 24 hours.
+DESTRUCTIVE AURA
+FOCUS 4
+UNCOMMON
+CLERIC
+EVOCATION
+Domain destruction
+Cast [two-actions] somatic, verbal
+Area 15-foot emanation
+Duration 1 minute
+Swirling sands of divine devastation surround you, weakening
+the defenses of all they touch. Reduce the resistances of
+creatures in the area (including yourself) by 2.
+Heightened (+2) Reduce the resistances by an additional 2.
+DISPERSE INTO AIR
+FOCUS 4
+UNCOMMON
+AIR
+CLERIC
+POLYMORPH
+TRANSMUTATION
+Domain air
+Cast [reaction] somatic
+Trigger You take damage from an enemy or a hazard.
+After taking the triggering damage, you transform into air. Until
+the end of the current turn, you can’t be attacked or targeted, you
+don’t take up space, you can’t act, and any auras or emanations
+you have are suppressed. At the end of the turn, you re-form in
+any space you can occupy within 15 feet of where you were when
+you dispersed. Any auras or emanations you had are restored as
+long as their duration didn’t run out while you were dispersed.
+DOWNPOUR
+FOCUS 4
+UNCOMMON
+CLERIC
+EVOCATION
+WATER
+Domain water
+Cast [two-actions] somatic, verbal
+Range 120 feet; Area 30-foot burst
+Duration 1 minute
+You call forth a torrential downpour, which extinguishes non-
+magical flames. Creatures in the area are concealed and gain
+fire resistance 10. Creatures outside the area are concealed to
+those inside the area. Creatures with weakness to water that
+end their turns in the area take damage equal to their weakness.
+Heightened (+1) The fire resistance increases by 2.
+DREAMER’S CALL
+FOCUS 4
+UNCOMMON
+CLERIC
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+Domain dreams
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration until the end of the target’s next turn
+The target becomes distracted and suggestible, inundated by
+vivid daydreams.
+Critical Success The target is unaffected.
+Success The target’s attention wavers. It becomes flat-footed
+and fascinated by its daydreams.
+Failure As success, except that you appear in the dream and
+give a suggestion. This can be to approach you, run away
+(as if it had the fleeing condition), Release what it’s holding,
+Drop Prone, or stand in place. The creature follows this
+course of action as its first action after you Cast the Spell.
+Critical Failure As failure, but the target follows the course
+of action for as many actions as possible for the spell’s
+duration, and it does nothing else.
+391
+7
+SPELLS
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

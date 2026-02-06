@@ -1,0 +1,95 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668873
+4425030
+Bestiary
+20
+Animated Object
+Granted a semblance of life through the use of rituals or other strange magic,
+animated objects take many forms and serve a variety of uses. A few examples
+of typical animated objects are listed below. Many of these creatures serve as
+guardians, surprising unsuspecting adventurers when they suddenly attack.
+Others serve as idle distractions for the exceptionally rich, simple servants
+created to handle odd jobs, and the like.
+Animated Broom
+Animated brooms perform menial tasks of cleaning and upkeep, but they can
+step in to defend a room from intrusion if needed. These simple animated
+objects can be found with greater frequency than more complicated and
+costly objects.
+ANIMATED BROOM
+CREATURE –1
+N
+SMALL
+CONSTRUCT
+MINDLESS
+Perception +3; darkvision
+Skills Athletics +5
+Str +0, Dex +1, Con +0, Int –5, Wis +0, Cha –5
+AC 16 (14 when broken); construct armor; Fort +3, Ref +6, Will +3
+HP 6; Hardness 2; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued,
+healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
+Construct Armor Like normal objects, an animated broom has Hardness. This Hardness
+reduces any damage it takes by an amount equal to the Hardness. Once an animated
+broom is reduced to less than half its Hit Points, or immediately upon being damaged
+by a critical hit, its construct armor breaks and its Armor Class is reduced to 14.
+Speed 15 feet
+Melee Ȱɵ bristles +6 (agile, magical, ﬁnesse), Damage 1d4 bludgeoning plus dust
+Dust A creature hit by an animated broom’s bristles must succeed at a DC 15 Fortitude
+save or spend its next action coughing. Even if hit by multiple dust attacks, the
+creature has to spend only 1 action coughing to clear the dust out. A creature that
+doesn’t breathe is immune to this eﬀect.
+Animated Armor
+Suits of animated armor see use both as guardians and as training partners in
+high-end martial academies able to afford the extravagance. They are most often
+found in wizard laboratories and ancient dungeons.
+ANIMATED ARMOR
+CREATURE 2
+N
+MEDIUM
+CONSTRUCT
+MINDLESS
+Perception +6; darkvision
+Skills Athletics +9
+Str +3, Dex –3, Con +4, Int –5, Wis +0, Cha –5
+AC 17 (13 when broken); construct armor; Fort +10, Ref +3, Will +4
+HP 20; Hardness 9; Immunities bleed, death eﬀects, disease, doomed,
+drained, fatigued, healing, mental, necromancy, nonlethal attacks,
+paralyzed, poison, sickened, unconscious
+Construct Armor As animated broom, but reduced to AC 13 when broken.
+Speed 20 feet
+Melee Ȱɵ glaive +11 (deadly 1d8, forceful, magical, reach 10 feet), Damage
+1d8+4 slashing
+Melee Ȱɵ gauntlet +9 (agile, free-hand, magical), Damage 1d6+4 bludgeoning
+Animated Statue
+Animated statues are often used to guard crypts, small shrines, or areas in
+government buildings where they can be positioned amid normal statues to
+hide their true nature until an intruder arouses their ire. Adventurers’ suspicions
+ANIMATING OBJECTS
+Most animated objects
+encountered by adventurers are
+permanently animated creatures,
+either created by rituals or given
+life by infusions of positive energy.
+Restless spirits, certain ghosts, and
+other haunting undead inﬂuences
+can also give rise to animated
+objects, although in cases like
+the poltergeist (page 264), what
+appears to be an animated object
+may merely be an evil force using
+its magic to hurl furnishings about
+as weapons.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668873
+4425030

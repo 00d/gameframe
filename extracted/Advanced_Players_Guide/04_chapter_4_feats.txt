@@ -196,15 +196,19 @@ Level
 Prerequisites
 Benefits
 Forensic Acumen
+1
 Trained in Medicine
 Rapidly examine a body and Recall Knowledge about it
 Inoculation
+1
 Trained in Medicine
 Grant patients +2 to saves against getting a disease again
 Risky Surgery
+1
 Trained in Medicine
 Deal damage to a patient to gain +2 to Treat Wounds
 Advanced First Aid
+7
 Master in Medicine
 Use First Aid to reduce frightened and sickened condition values
 Nature Skill Feats
@@ -212,9 +216,11 @@ Level
 Prerequisites
 Benefits
 Express Rider
+1
 Trained in Nature
 Increase your mount’s travel speed
 Influence Nature
+7
 Master in Nature
 Influence the behavior of certain animals in the area
 Occultism Skill Feats
@@ -222,15 +228,19 @@ Level
 Prerequisites
 Benefits
 Deceptive Worship
+1
 Trained in Occultism
 Pass yourself off as a member of a religion
 Root Magic
+1
 Trained in Occultism
 Create a token that grants a bonus against a spell or haunt
 Schooled in Secrets
+1
 Trained in Occultism
 Gather Information about secret societies and mystery cults
 Disturbing Knowledge
+7
 Master in Occultism
 Frighten foes with occult secrets
 Performance Skill Feats
@@ -238,6 +248,7 @@ Level
 Prerequisites
 Benefits
 Distracting Performance
+2
 Expert in Performance
 Create a Diversion for an ally
 Religion Skill Feats
@@ -245,10 +256,13 @@ Level
 Prerequisites
 Benefits
 Pilgrim’s Token
+1
 Trained in Religion
 A religious token lets you act first on a tie for initiative
 Exhort the Faithful
+2
 Expert in Religion, follower +2 to Request something of or Coerce members of your
+
 
 of a specific religion
 own faith
@@ -257,12 +271,15 @@ Level
 Prerequisites
 Benefits
 Eye for Numbers
+1
 Trained in Society
 +2 to Decipher Writing about math and count items quickly
 Glean Contents
+1
 Trained in Society
 Decipher Writing even when you can’t see the document well
 Criminal
+2
 Expert in Society,
 Leverage your underworld connections for favors
 Connections
@@ -270,20 +287,26 @@ Connections
 Streetwise
 from criminals
 Quick Contacts
+2
 Expert in Society;
 Spend only 1 day to use Connections or Underworld
+
 
 Connections or
 Connections
 
+
 Underworld Connections
 Underground Network
+2
 Expert in Society,
 Gather Information without drawing attention and gain a bonus
+
 
 Streetwise
 to Recall Knowledge about that subject
 Biographical Eye
+7
 Master in Society
 Intuit details about someone’s profession and residence.
 Stealth Skill Feats
@@ -291,9 +314,11 @@ Level
 Prerequisites
 Benefits
 Armored Stealth
+2
 Expert in Stealth
 Reduce the Stealth penalty of your armor
 Shadow Mark
+2
 Expert in Stealth
 Targets you’re following take a penalty to notice you
 Survival Skill Feats
@@ -301,6 +326,7 @@ Level
 Prerequisites
 Benefits
 Legendary Guide
+15
 Legendary in Survival
 Increase your party’s travel speed through wilderness terrain
 Thievery Skill Feats
@@ -308,11 +334,13 @@ Level
 Prerequisites
 Benefits
 Concealing Legerdemain
+1
 Trained in Thievery
 Conceal an Object using Stealth instead of Thievery
 Advanced Player's Guide
+202
+202
 
-================================================================================
 PAGE 204
 ================================================================================
 
@@ -440,8 +468,21 @@ take at least 1 action. Typically, the retort needs to use a
 linguistic Charisma-based skill action.
 Success As critical success, but the penalty is –2.
 Critical Failure Your quip is atrocious. You take the same
+Feats
+4
+203
+203
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 205
 ================================================================================
 
@@ -566,8 +607,9 @@ you without increasing the difficulty of the check or taking
 more time to Gather Information. Anyone trying to Gather
 Information to determine if someone else was asking around
 Advanced Player's Guide
+204
+204
 
-================================================================================
 PAGE 206
 ================================================================================
 
@@ -632,8 +674,21 @@ or to follow your directions. When you Request something
 of or Coerce members of your own faith, you can attempt a
 Religion check instead of Diplomacy or Intimidation, and you
 gain a +2 circumstance bonus to the check. On a critically
+Feats
+4
+205
+205
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 207
 ================================================================================
 
@@ -758,8 +813,9 @@ the Scout exploration activity, you grant your allies a +2
 circumstance bonus to their initiative rolls instead of a +1
 circumstance bonus.
 Advanced Player's Guide
+206
+206
 
-================================================================================
 PAGE 208
 ================================================================================
 
@@ -824,8 +880,21 @@ for your party through wilderness terrain, your party gains a
 calculating the party’s travel speed, your party’s travel speed
 doesn’t decrease in difficult terrain, and greater difficult terrain
 halves your party’s travel speed instead of reducing it to a third.
+Feats
+4
+207
+207
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 209
 ================================================================================
 
@@ -954,8 +1023,9 @@ Prerequisites trained in Occultism
 You notice the signs and symbols that members of mystery
 cults and other secret societies use to declare their affiliation
 Advanced Player's Guide
+208
+208
 
-================================================================================
 PAGE 210
 ================================================================================
 
@@ -1079,14 +1149,28 @@ If you’re legendary in Athletics, as long as you start on solid
 ground, any part of your Stride can cross the water’s surface,
 even if you aren’t moving a straight line, though you still fall
 into the water if you don’t end your movement on solid ground.
+Feats
+4
+209
+209
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index
 
-================================================================================
 PAGE 211
 ================================================================================
 
 Advanced Player's Guide
+210
+210
 
-================================================================================
 PAGE 212
 ================================================================================
 
@@ -1152,3 +1236,69 @@ idea of what this looks like for you, and refine it during play. What you need t
 do to Refocus is broadly defined to allow a variety of methods that make sense
 in the story. One witch might share a treat to commune with their familiar, while
 another might endure a lecture from their familiar on their patron’s virtues.
+CHAPTER 5: SPELLS
+Here you’ll find spells beyond those listed in the Core Rulebook, including ones that
+dispense horrid curses, make you immune to nearly all types of harm, and manifest
+mischievous monkey spirits to vex your foes! The following pages contain new magical
+powers for casters of every tradition.
+SPELL COMPONENTS
+The rules about how spell components
+work when casting are located on page
+303 of the Core Rulebook. But it can
+also help to understand what these
+components might mean to spellcasters.
+Shouting out verbal components
+forces magic out into the world via a
+word laden with magical power. Spells
+that require only a verbal component
+tend to be direct and forceful, such as
+power word kill or power word stun.
+Verbal components are especially
+unsubtle, so spells that benefit from
+stealth, such as invisibility, might not
+have any verbal components in favor of
+having somatic components, material
+components, or both.
+Somatic components, such as
+twisting your hand in a complex
+gesture, shape magical energy
+into directed forms. While verbal
+components bring forward powerful
+forces, somatic components compel
+those forces to obey the spellcaster’s
+wishes. Spells that have only somatic
+components typically have a physical
+effect or require touching a creature.
+Material components aren’t
+ubiquitous like somatic and verbal
+components. They’re used primarily for
+spells with physical effects, especially
+ones with a longer duration or that alter
+or control a large area, such as walls or
+zones of dangerous terrain. A material
+component pouch typically contains
+everything you need. This doesn’t mean
+the materials are interchangeable,
+though—one spell might need powdered
+iron and another a particular gemstone.
+Certain spells have focus components,
+objects of concentrated power that
+don’t get used up in the same way that
+material components do. Essential for
+shaping and attuning the magic of the
+spell, these might be intriguing and
+elegant items in their own right.
+Spells
+5
+211
+211
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index

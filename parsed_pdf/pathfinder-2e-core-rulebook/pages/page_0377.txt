@@ -1,0 +1,123 @@
+SUMMON GIANT
+SPELL 5
+CONJURATION
+Traditions primal
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You conjure a giant to fight for you. This works like summon
+animal (page 375), except you summon a common creature
+that has the giant trait and whose level is 5 or lower.
+Heightened As summon animal.
+SUMMON PLANT OR FUNGUS
+SPELL 1
+CONJURATION
+Traditions primal
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You conjure a plant or fungus to fight for you. This works like
+summon animal (page 375), except you summon a common
+creature that has the plant or fungus trait and whose level is –1.
+Heightened As summon animal.
+SUNBURST
+SPELL 7
+EVOCATION
+FIRE
+LIGHT
+POSITIVE
+Traditions divine, primal
+Cast [two-actions] somatic, verbal
+Range 500 feet; Area 60-foot burst
+Saving Throw Reflex
+A powerful globe of searing sunlight explodes in the area,
+dealing 8d10 fire damage to creatures and objects in the
+area, plus 8d10 additional positive damage to undead
+creatures. Each creature and object in the area must
+attempt a Reflex save.
+Critical Success The creature or object is unaffected.
+Success The creature or object takes half damage.
+Failure The creature or object takes full damage.
+Critical Failure The creature or object takes full damage. If it’s
+a creature, it becomes blinded permanently.
+If the globe overlaps with an area of magical darkness,
+sunburst attempts to counteract the darkness effect.
+Heightened (+1) The fire damage increases by 1d10, and the
+positive damage against undead increases by 1d10.
+SYNAPTIC PULSE
+SPELL 5
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+Traditions occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Area 30-foot emanation
+Saving Throw Will; Duration 1 round
+You emit a pulsating mental blast that penetrates the minds of
+all enemies in the area. Each creature in the area must attempt
+a Will save.
+Critical Success The creature is unaffected.
+Success The creature is stunned 1.
+Failure The creature is stunned 2.
+Critical Failure The creature is stunned for 1 round.
+SYNESTHESIA
+SPELL 5
+DIVINATION
+MENTAL
+Traditions occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration 1 minute
+The target’s senses are suddenly rewired in unexpected ways,
+causing them to process noises as bursts of color, smells as
+sounds, and so on. This has three effects, and the target must
+attempt a Will save.
+•	 Due to the distraction, the target must succeed at a DC
+5 flat check each time it uses a concentrate action, or
+the action fails and is wasted.
+•	 The target’s difficulty processing visual input makes all
+creatures and objects concealed from it.
+•	 The creature has trouble moving, making it clumsy 3 and
+giving it a –10-foot status penalty to its Speeds.
+Critical Success The target is unaffected.
+Success The target is affected for 1 round.
+Failure The target is affected for 1 minute.
+Critical Failure As failure, and the target is stunned 2 as it
+attempts to process the sensory shifts.
+Heightened (9th) You can target up to five creatures.
+TALKING CORPSE
+SPELL 4
+UNCOMMON
+NECROMANCY
+Traditions divine, occult
+Cast 10 minutes (material, somatic, verbal)
+Range touch; Targets 1 corpse
+Saving Throw Will; Duration 10 minutes
+You grant the target corpse a semblance of life, which it uses
+to speak the answers to three questions posed to it. This
+spell calls on the physical body’s latent memories rather than
+summoning back the deceased’s spirit, so the corpse must
+be mostly intact for the spell to function. The more damage
+the corpse has taken, the more inaccurate or patchwork its
+answers are, and it must have a throat and mouth to speak
+at all. If anyone has previously cast this spell on the corpse
+in the last week, the spell automatically fails. The corpse can
+attempt a Will save to resist answering the questions using
+the statistics of the original creature at its time of death,
+with the following effects.
+Critical Success The target can lie or refuse to answer your
+questions, and the target’s spirit haunts you for 24 hours,
+bothering you and causing you to be unable to gain any rest
+for that time.
+Success The target can provide false information or refuse
+to answer your questions.
+Failure The target must answer truthfully, but its answers can
+be brief, cryptic, and repetitive. It can still mislead you or
+attempt to stall so that the spell’s duration runs out before
+you can ask all your questions.
+Critical Failure As failure, but the target’s answers are
+more direct and less repetitive, though still cryptic. It
+takes a –2 status penalty to Deception checks to deceive
+or mislead you.
+Core Rulebook
+376

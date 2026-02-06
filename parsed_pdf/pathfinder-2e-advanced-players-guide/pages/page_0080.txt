@@ -1,0 +1,131 @@
+Failure You recall incorrect information or gain an erroneous
+or misleading clue.
+Critical Failure You recall two pieces of incorrect information
+or gain two erroneous or misleading clues.
+REACH SPELL [one-action]
+FEAT 1
+CONCENTRATE
+METAMAGIC
+ORACLE
+You can extend your spells’ range. If the next action you use is
+to Cast a Spell that has a range, increase that spell’s range by
+30 feet. As is standard for increasing spell ranges, if the spell
+normally has a range of touch, you extend its range to 30 feet.
+WIDEN SPELL [one-action]
+FEAT 1
+MANIPULATE
+METAMAGIC
+ORACLE
+You manipulate the energy of your spell, causing it to affect a
+wider area. If the next action you use is to Cast a Spell that has
+an area of a burst, cone, or line and doesn’t have a duration,
+increase the area of that spell. Add 5 feet to the radius of a
+burst that normally has a radius of at least 10 feet (a burst
+with a smaller radius isn’t affected). Add 5 feet to the length
+of a cone or line that is normally 15 feet long or smaller, and
+add 10 feet to the length of a larger cone or line.
+2ND LEVEL
+CANTRIP EXPANSION
+FEAT 2
+ORACLE
+Study broadens your range of simple spells. Add two additional
+cantrips from your spell list to your repertoire.
+DIVINE AEGIS [reaction]
+FEAT 2
+ABJURATION
+DIVINE
+ORACLE
+Trigger You attempt a saving throw against a magical effect,
+but you haven’t rolled yet.
+You summon divine energy to shield yourself, offering
+protection against other traditions but leaving you exposed
+to other divine effects. Until the beginning of your next turn,
+you gain a +1 circumstance bonus to saving throws against
+non-divine magical effects, but you also take a –1 circumstance
+penalty to saves against divine effects.
+DOMAIN ACUMEN
+FEAT 2
+ORACLE
+Every oracle’s mystery touches on a divine domain of the
+deities that fuel it; you can access that power. Choose one of
+the domains associated with your mystery for which you don’t
+already have an initial domain spell. You gain an initial domain
+spell from that domain, which you cast as a revelation spell.
+It gains the cursebound trait. Increase the number of Focus
+Points in your focus pool by 1.
+4TH LEVEL
+BESPELL WEAPON [free-action]
+FEAT 4
+ORACLE
+Frequency once per turn
+Requirements Your most recent action was to cast a non-
+cantrip spell.
+You siphon the residual energy from the last spell you cast
+into one weapon you’re wielding. Until the end of your turn,
+the weapon deals an extra 1d6 damage of a type depending on
+the school of the spell you just cast.
+• Abjuration force damage
+• Conjuration or Transmutation same type as the weapon
+• Divination, Enchantment, or Illusion mental damage
+• Evocation a type the spell dealt, or force damage if the
+spell didn’t deal damage
+• Necromancy negative damage
+DIVINE ACCESS
+FEAT 4
+ORACLE
+Your ability to tap into divine magic surpasses the spells
+traditionally available to you (the divine spell list). Choose one
+deity who grants one of your mystery’s granted domains. Add
+up to three cleric spells of your choice granted by that deity to
+your spell list. You can select from these spells when you add
+or swap spells in your spell repertoire.
+Special You can select this feat more than once. You can’t
+choose the same spells more than once, but you can choose
+a different domain or a different deity with the same domain
+you’ve previously selected with this feat.
+VISION OF WEAKNESS
+FEAT 4
+ORACLE
+You can call upon divine insights to single out your foes’ weak
+points. You learn the vision of weakness revelation spell (page
+234). Increase the number of Focus Points in your focus pool by 1.
+6TH LEVEL
+ADVANCED REVELATION
+FEAT 6
+ORACLE
+Prerequisites initial revelation spell
+You learn an advanced revelation spell associated with your
+mystery. Increase the number of Focus Points in your focus
+pool by 1.
+SPIRITUAL SENSE
+FEAT 6
+DIVINATION
+DIVINE
+ORACLE
+You have a vague connection to the Ethereal Plane that
+enables you to notice spirits. While you’re exploring but not
+Searching, the GM rolls a secret check for you to find haunts
+that usually require Searching, as well as spirits, creatures
+on the Ethereal Plane, and beings made entirely of spiritual
+essence such as celestials, fiends, and monitors.
+You can also potentially notice ethereal creatures and
+spirits inside solid objects, provided they are within 30 feet
+of you. This applies while Searching, while Seeking, and on
+the automatic secret check you gain while exploring even
+if you aren’t Searching. You can still notice spirits only on a
+successful check, and you can’t see them if they’re more than
+5 feet inside an object.
+Classes
+2
+79
+79
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& index

@@ -1,0 +1,106 @@
+ITEM NAME
+ITEM [LEVEL]
+TRAITS
+Price This entry lists the item’s Price. An item that has multiple
+types includes Price for each type in its entry.
+Ammunition Magic ammunition lists the types of ammunition
+available for that kind of item.
+Usage This entry describes whether the item is held, worn, or
+affixed to or etched onto another item; Bulk The item’s Bulk
+is listed here (the rules for Bulk appear on page 271). Runes
+don’t have a Bulk entry.
+Activate The number of actions needed to Activate the Item
+appear here, followed by the components in parentheses.
+You can find activation rules on page 532. This entry
+appears here for consumables and lower in the stat block
+for permanent items that can be activated. This section
+might also have Frequency, Trigger, or Requirements
+entries as necessary.
+Onset This entry appears if the item’s effect is delayed, which
+most often occurs with alchemical poisons. The onset is
+the amount of time that elapses between when a character
+Activates an Item and any effect occurs.
+The section after the line describes the item and its constant
+abilities. If the item can be activated and doesn’t have an
+Activate entry above, that entry appears here in a paragraph
+beginning with “Activate.”
+Type If multiple types of the item exist, entries here indicate
+the name of each type, its level, its Price, and any other
+relevant details or alterations from the above description.
+Craft Requirements An item that has special requirements to
+be Crafted details those requirements here.
+Level
+An item’s level indicates what level of adventurer the item
+is best suited for. There’s no limit to the items a character
+can use, though. A 3rd-level character who finds an
+item of 4th level or higher while adventuring can use it
+normally. Likewise, they can purchase the item if they can
+find it for sale and can afford it.
+When making items, a character’s level must be equal
+to or higher than the item’s level in order to Craft it. In
+addition to anything listed in the Craft Requirements
+entry in the item’s stat block, the crafter must have the
+appropriate skill proficiencies and feats, as well as the
+item’s formula; see the Craft activity on page 244 for
+more information about these requirements.
+Multiple Types
+If multiple types of an item exist, the title line gives the
+minimum level followed by a plus symbol (“+”). The
+description includes information on the base version of the
+item, and the Type entries at the bottom of the stat block
+lists the specifics for each version, including the level, Price,
+and any modified or added abilities of the different types.
+For some items, the types listed are upgrades to the base
+item. For other items, such as aeon stones and wondrous
+figurines, each type is distinct from the others.
+like the Sustain a Spell action (found on page 304). If an
+item’s description states that you can sustain the effect, that
+effect lasts until the end of your turn in the round after you
+Activated the Item. You can use a Sustain an Activation
+action on that turn to extend the duration.
+[one-action] SUSTAIN AN ACTIVATION
+CONCENTRATE
+Requirements You have at least one magic item activation that
+you can sustain, and you are not fatigued.
+Choose one magic item activation with a sustained duration
+you have in effect. The duration of that activation continues
+until the end of your next turn. Some activations may have
+slightly different or expanded effects if you sustain them.
+Sustaining an Activation for more than 10 minutes (100
+rounds) ends the activation and makes you fatigued unless
+the item’s description states a different maximum duration
+(such as “up to 1 minute” or “up to 1 hour”).
+If your Sustain an Activation action is disrupted, the item’s
+effect immediately ends.
+Dismissing Activations
+Some item effects can be dismissed, ending the duration
+early due to you or the target taking action. Dismissing
+an activation requires using the Dismiss action.
+[one-action] DISMISS
+CONCENTRATE
+You end one spell effect or magic item effect. This must be an
+effect that you are allowed to dismiss, as defined by the spell
+or item. Dismissal might end the effect entirely, or might end
+it just for a certain target or targets, depending on the spell
+or item.
+Reading Items
+Hundreds of items lie ahead. Each item is presented in a
+stat block, much like spells or feats. The example below
+shows the structure of an item stat block and gives a
+brief description of each entry. Entries appear only when
+applicable, so not all items will have every entry described
+here. Detailed rules governing aspects of the stat block
+specific to items appear after the stat block.
+ITEM RARITY
+Like many other aspects of the rules, items have rarities.
+Player characters might find uncommon magic items for
+sale, but only infrequently and often by private sellers
+or in clandestine markets. Their formulas are often
+guarded and not readily available. Unless the GM decides
+otherwise, a character cannot purchase rare items, and
+their formulas are lost to time.
+Rarities for uncommon and rare treasures are indicated
+by the first trait in the stat block. Unique items are indicated
+in the same way, though there are none in this book.
+Core Rulebook
+534

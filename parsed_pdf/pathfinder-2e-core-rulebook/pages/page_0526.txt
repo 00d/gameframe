@@ -1,0 +1,139 @@
+target succeeds, it is subject to the effects of a failure instead.
+If the target fails, it is reduced to 0 Hit Points and dies.
+HAMMER OF FORBIDDANCE
+HAZARD 11
+MAGICAL
+MECHANICAL
+TRAP
+Stealth DC 30 (expert)
+Description An enormous hammer at an edifice’s entrance
+swings down in an attempt to damage a creature entering
+an area, push it back, and prevent it from going any further.
+Disable Thievery DC 28 (expert) once on the hammer itself
+and once on its joint to prevent the hammer from swinging
+AC 32; Fort +24, Ref +15
+Hammer Hardness 22, Hammer HP 88 (BT 44); Joint Hardness
+16, Joint HP 64 (BT 32); Immunities critical hits, object
+immunities, precision damage
+Forbid Entry [reaction] (abjuration, attack, divine); Trigger A creature
+attempts to enter through the entrance. Effect The hammer
+swings down, making an attack against the triggering creature.
+Melee hammer +28, Damage 6d8+20 bludgeoning plus the
+target is knocked back 10 feet and must succeed at a DC
+30 Will save or be unable to enter the edifice through
+any entrance for 24 hours (on a critical hit, the target
+automatically fails the Will save); no multiple attack penalty
+Reset The trap resets over the course of the round, and is
+ready to swing again 1 round later.
+POLYMORPH TRAP
+HAZARD 12
+MAGICAL
+TRAP
+Stealth DC 34 (trained)
+Description A Druidic glyph tries to transforms a trespasser
+into an animal.
+Disable Thievery DC 32 (master) to drain the glyph’s power
+harmlessly, or dispel magic (6th level; counteract DC 30) to
+counteract the glyph
+Baleful Polymorph [reaction] (primal, transmutation); Trigger
+A creature moves within 30 feet of the glyph without
+speaking the passphrase in Druidic. Effect The creature is
+targeted by baleful polymorph (DC 32 Will save).
+PLANAR RIFT
+HAZARD 13
+MAGICAL
+TRAP
+Stealth DC 35 (trained)
+Description A rift attempts to draw creatures into another
+plane (the GM chooses the specific plane).
+Disable Thievery DC 33 (master) to assemble a rift seal using
+objects strongly grounded to your plane, or dispel magic
+(7th level; counteract DC 31) to counteract the rift
+Into the Great Beyond [reaction] (conjuration, occult, teleportation);
+Trigger A creature moves within 10 feet of the rift. Effect The
+triggering creature and all creatures within 30 feet of the
+rift are drawn into another plane. Each creature can attempt
+a DC 33 Reflex save to avoid this fate.
+FROZEN MOMENT
+HAZARD 17
+MAGICAL
+TRAP
+Stealth DC 40 (master)
+Description Warding magic attempts to trap intruders or
+would-be thieves in a disrupted time flow.
+Disable Thievery DC 38 (legendary) to rapidly disassemble
+the spell’s myriad components in a single blink of an eye;
+or dispel magic (9th level; counteract DC 36) to counteract
+the trap before it triggers or to counteract the effect on one
+creature after the trap is triggered
+Adrift in Time [reaction] (occult, transmutation); Trigger A creature
+touches the warded object or area. Effect The triggering
+creature and all creatures within 30 feet are trapped
+in a disrupted time flow (DC 38 Fortitude negates). The
+creatures’ minds move so quickly that each round seems to
+last a century, but their bodies and magical energies move
+so slowly that they can’t use any actions except Recall
+Knowledge. An affected creature must attempt a DC 36 Will
+saving throw against a warp mind spell immediately and
+again for every minute of real time that passes while the
+creature is trapped in the frozen moment. This effect has an
+unlimited duration but can be counteracted.
+VORPAL EXECUTIONER
+HAZARD 19
+MECHANICAL
+TRAP
+Stealth DC 43 (expert)
+Description A wickedly sharp saw blade descends and
+travels along grooves in a complex path throughout the room,
+attempting to decapitate everyone within.
+Disable Thievery DC 41 (expert) at four different junctions to
+jam all the saw blade’s possible paths, preventing it from
+traveling through the room
+AC 43; Fort +32, Ref +32
+Hardness 30; HP 120 (BT 60) per junction; Immunities critical
+hits, object immunities, precision damage
+Total Decapitation [reaction] (attack, death); Trigger A creature
+attempts to exit the room. Effect The saw blade travels
+along its path, making one Strike against each creature in
+the room, twisting and varying its height for a maximum
+chance of beheading its targets.
+Melee saw blade +40 (deadly d12), Damage 6d12+25 slashing
+plus decapitation; no multiple attack penalty
+Decapitation On a critical hit, a target must succeed at a DC
+39 Fortitude save or be decapitated, dying instantly unless
+it can survive without a head.
+Reset The trap resets over the course of the round and can be
+triggered again 1 round later.
+SECOND CHANCE
+HAZARD 21
+MAGICAL
+TRAP
+Stealth DC 44 (legendary)
+Description Powerful warding magic tied to an object or
+location tries to regress the ages of a creature and its allies.
+Disable Thievery DC 46 (legendary) to take apart the spell one
+tiny piece at a time, with eyes closed, while recalling every
+vivid life memory in order, starting from the earliest memory
+In the Beginning [reaction] (divine, transmutation); Trigger A creature
+tries to steal the object or intrude upon the location. If
+someone uses a proxy or dupe for the theft or intrusion, the
+GAME MASTERING
+525
+10
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

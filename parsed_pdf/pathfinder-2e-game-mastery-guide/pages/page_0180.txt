@@ -1,0 +1,108 @@
+Piloting Check Piloting Lore (DC 14) or Nature (DC 16)
+AC 10; Fort +6
+Hardness 0, HP 16 (BT 8); Immunities critical hits, object
+immunities, precision damage; Weaknesses 5 fire
+Speed fly 25 feet (wind)
+Collision 2d4 (DC 14)
+Starting Drop The only way to launch a glider is to jump off
+a steep incline with favorable wind conditions. The glider
+is uncontrolled and falls 60 feet each round until the pilot
+successfully Takes Control. If the glider hits the ground
+before the pilot successfully Takes Control, the pilot and
+the glider each take falling damage.
+ROWBOAT
+VEHICLE 0
+MEDIUM
+Price 15 gp
+Space 10 feet long, 5 feet wide, 3 feet high
+Crew 1 pilot; Passengers 2
+Piloting Check Athletics (DC 16) or Sailing Lore (DC 14)
+AC 10; Fort +6
+Hardness 5, HP 16 (BT 8); Immunities critical hits, object
+immunities, precision damage
+Speed swim 20 feet (rowed)
+Collision 2d4 (DC 14)
+Portaged The rowboat can be carried overland by 2 Medium
+creatures or 1 Large creature. Those creatures are
+encumbered when doing so.
+SAILING SHIP
+VEHICLE 9
+GARGANTUAN
+Price 2,000 gp
+Space 75 feet long, 20 feet wide, 25 feet high
+Crew 1 pilot, 8 crew; Passengers 10
+Piloting Check Sailing Lore (DC 26), Diplomacy (DC 28), or
+Intimidation (DC 28)
+AC 23; Fort +18
+Hardness 15, HP 150 (BT 75); Immunities critical hits, object
+immunities, precision damage; Weaknesses 15 fire until broken
+Speed swim 40 feet (wind)
+Collision 6d10 (DC 26)
+Sluggish This vehicle must move twice its length for each
+90-degree turn it makes.
+SLEIGH
+VEHICLE 1
+LARGE
+Price 50 gp
+Space 10 feet long, 5 feet wide, 4 feet high
+Crew 1 pilot; Passengers 1
+Piloting Check Driving Lore (DC 15) or Nature (DC 17 to DC 25,
+depending on pulling creature)
+AC 11; Fort +7
+Hardness 5, HP 18 (BT 9); Immunities critical hits,
+object immunities, precision damage
+Speed the Speed of the slowest pulling
+creature (pulled by 2 Large creatures or
+6 Medium creatures)
+Collision 2d6 (DC 15)
+Ice Traverser Ice and snow are not difficult terrain to a sleigh,
+but all other terrains are difficult terrain for it.
+Sluggish This vehicle must move twice its length for each
+90-degree turn it makes.
+STEAM GIANT
+VEHICLE 14
+RARE
+HUGE
+Price 12,500 gp
+Space 20 feet long, 20 feet wide, 25 feet high
+Crew 1 pilot, 3 crew; Passengers 4
+Piloting Check Driving Lore (DC 32) or Crafting (DC 34)
+AC 33; Fort +28
+Hardness 20, HP 200 (BT 100); Immunities critical hits, object
+immunities, precision damage
+Speed 20 feet (alchemical)
+Collision 10d10 (DC 29)
+Flame Jet [three-actions] (fire) Two crew members each perform a
+3-action activity on their turn to produce a gout of flames
+that erupts at the end of the second character’s turn from
+any corner of any space the steam giant occupies. The flames
+deal 6d8 fire damage to each creature in a 30-foot cone (DC
+32 basic Reflex save). The flame jet stops working if the
+steam giant is broken.
+WAGON
+VEHICLE 1
+LARGE
+Price 25 gp
+Space 10 feet long, 10 feet wide, 7 feet high
+Crew 1 pilot; Passengers 2
+Piloting Check Driving Lore (DC 15) or Nature (DC 17 to DC 25,
+depending on the pulling creature)
+AC 11; Fort +7
+Hardness 5, HP 18 (BT 9); Immunities critical hits, object
+immunities, precision damage
+Speed the Speed of the slowest pulling creature (pulled by 2
+Large creatures)
+Collision 2d6 (DC 15)
+3
+Subsystems
+179
+179
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX

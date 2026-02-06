@@ -110,7 +110,17 @@ for 1 round.
 PAGE 341
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669193
+4425350
 Bestiary
+340
 CREATING ZOMBIES
 To create a zombie creature, start
 with a zombie of the appropriate
@@ -171,84 +181,42 @@ Eﬀect The zombie makes a jaws unarmed melee Strike against the grabbed or
 restrained creature with an attack modiﬁer of +7 that deals 1d8+3 piercing damage.
 Plague Zombie
 Plague zombies are infested with hideous contagions.
-
-================================================================================
-# ZOMBIE BRUTE
-================================================================================
-
-jaws Ȱɵ (attack); As zombie shambler, but with an attack bonus of +9 that deals 1d12+4
-piercing damage. A creature damaged by the jaws is exposed to zombie rot.
-Zombie Rot (disease, necromancy); An infected creature can’t heal damage it takes from
-zombie rot until it has been cured of the disease. Saving Throw DC 18 Fortitude; Stage
-1 carrier with no ill eﬀect (1 day); Stage 2 1d6 negative damage (1 day); Stage 3 1d6
-negative damage (1 day); Stage 4 1d6 negative damage (1 day); Stage 5 dead, rising as
-a plague zombie immediately
-Zombie Brute
-Necromantic augmentations have granted this zombie increased size and power.
-ZOMBIE BRUTE
-CREATURE 2
+PLAGUE ZOMBIE
+CREATURE 1
 NE
-LARGE
+MEDIUM
 MINDLESS
 UNDEAD
 ZOMBIE
-Perception +4; darkvision
-Skills Athletics +9
-Str +5, Dex –3, Con +4, Int –5, Wis +0, Cha –2
+Perception +3; darkvision
+Skills Athletics +7
+Str +4, Dex –2, Con +3, Int –5, Wis +0, Cha –2
 Slow As zombie shambler.
-AC 15; Fort +10, Ref +3, Will +6
-HP 70, negative healing; Immunities death eﬀects, disease, mental,
-paralyzed, poison, unconscious; Weaknesses positive 10,
-slashing 10
-Speed 25 feet
-Melee Ȱɵ ﬁst +11 (reach 10 feet), Damage 1d12+5
-bludgeoning plus Improved Push 5 feet
-Zombie Hulk
-These towering horrors are animated from the corpses of monstrosities.
+AC 13; Fort +6, Ref +3, Will +4
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669193
+4425350
 
-================================================================================
-# ZOMBIE HULK
-================================================================================
-
-bludgeoning plus Improved Push 5 feet
-Zombie Hulk
-These towering horrors are animated from the corpses of monstrosities.
-ZOMBIE HULK
-CREATURE 6
-NE
-HUGE
-MINDLESS
-UNDEAD
-ZOMBIE
-Perception +8; darkvision
-Skills Athletics +18
-Str +7, Dex –1, Con +4, Int –5, Wis +0, Cha –2
-Slow As zombie shambler.
-AC 21; Fort +16, Ref +9, Will +12
-HP 160, negative healing; Immunities death eﬀects, disease,
-mental, paralyzed, poison, unconscious; Weaknesses positive
-10, slashing 10
-Speed 25 feet
-Melee Ȱɵ hunk of meat +17 (reach 15 feet), Damage 2d10+9 bludgeoning
-Ranged Ȱɵ hunk of meat +9 (thrown 10 feet), Damage 2d10+9
-bludgeoning
-Ranged Ȱɵ corpse +17 (brutal, range increment 30 feet), Damage
-2d6+9 bludgeoning
-Corpse Throwing A zombie hulk can throw corpses at foes. While
-any Medium dead body will do, they sometimes throw zombie
-shamblers, who take just as much damage from being thrown as
-the target they hit. A thrown shambler lands prone, but if it’s not
-destroyed, it can rise and use other actions normally.
-Wide Swing Ȱɵ The zombie hulk makes a hunk of meat Strike and
-compares the attack roll result to the AC of up to two foes, each
-of whom must be within the Strike’s reach. This attack counts
-as two attacks for the zombie hulk’s multiple attack penalty.
-
-================================================================================
 PAGE 343
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669195
+4425352
 Bestiary
+342
 Ability Glossary
 The following creature abilities are listed here because
 they are shared by many creatures or are highly complex.
@@ -332,7 +300,7 @@ changes are listed in its stat block.
 Constant Spells A constant spell aﬀects the monster without the
 monster needing to cast it, and its duration is unlimited. If a
 constant spell gets counteracted, the monster can reactivate it
-by spending the normal spellcasting actions the spell requires.
+by spending the normal spellcasting actions the spell requires.
 Constrict Ȱɵ The monster deals the listed amount of damage
 to any number of creatures grabbed or restrained by it.
 Each of those creatures can attempt a basic Fortitude save
@@ -345,7 +313,8 @@ formed, each of its members gains elite adjustments (page
 6), adjusting their levels accordingly. Coven members can
 sense other members’ locations and conditions by spending
 a single action, which has the concentrate trait, and can
-sense what another coven member is sensing as a twoaction activity, which has the concentrate trait as well.
+sense what another coven member is sensing as a two-
+action activity, which has the concentrate trait as well.
 Covens also grant spells and rituals to their members, but
 these can be cast only in cooperation between three coven
 members who are all within 30 feet of one another. A coven
@@ -361,11 +330,39 @@ following spells, which the coven can cast at any level up
 to 5th: augury, charm, clairaudience, clairvoyance, dream
 message, illusory disguise, illusory scene, prying eye, and
 talking corpse. Individual creatures with the coven ability
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669195
+4425352
 
-================================================================================
 PAGE 344
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669196
+4425353
+343
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 also grant additional spells to any coven they join. A coven
 can also cast the control weather ritual (Core Rulebook 411),
 with a DC of 23 instead of the standard DC.
@@ -480,12 +477,30 @@ this distance is doubled.
 Regeneration This monster regains the listed number of Hit
 Points each round at the beginning of its turn. Its dying
 condition never increases beyond dying 3 as long as its
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669196
+4425353
 
-================================================================================
 PAGE 345
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669197
+4425354
 Bestiary
+344
 regeneration is active. However, if it takes damage of a type
 listed in the regeneration entry, its regeneration deactivates
 until the end of its next turn. Deactivate the regeneration
@@ -598,11 +613,39 @@ common creatures. They typically can’t be summoned. The
 DC of Recall Knowledge checks related to this creature is
 increased by 2.
 Rare As the name suggests, these creatures are rare. They
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669197
+4425354
 
-================================================================================
 PAGE 346
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669198
+4425355
+345
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 typically can’t be summoned. The DC of Recall Knowledge
 checks related to this creature is increased by 5.
 Unique A creature with this rarity is one of a kind. The DC
@@ -635,13 +678,14 @@ Huge A Huge creature takes up a 15-foot-by-15-foot space
 (9 squares on the grid). It typically has a reach of 15 feet if
 the creature is tall or 10 feet if the creature is long.
 Large A Large creature takes up a 10-foot-by-10-foot space
-(4 squares on the grid). It typically has a reach of 10 feet if
+(4 squares on the grid). It typically has a reach of 10 feet if
 the creature is tall or 5 feet if the creature is long.
 Medium A Medium creature takes up a 5-foot-by-5-foot space
 (1 square on the grid) and typically has a reach of 5 feet.
 Small A Small creature takes up a 5-foot-by-5-foot space
-(1 square on the grid) and typically has a reach of 5 feet.
-Tiny A creature of this size takes up less than a 5-foot-by-5foot space (1 square on the grid), and multiple Tiny creatures
+(1 square on the grid) and typically has a reach of 5 feet.
+Tiny A creature of this size takes up less than a 5-foot-by-5-
+foot space (1 square on the grid), and multiple Tiny creatures
 can occupy the same square on the grid. At least four Tiny
 creatures can occupy the same square, and even more can
 occupy the same square, at the GM’s discretion. They can
@@ -711,12 +755,30 @@ modiﬁer instead of Dexterity on the attack roll.
 Finesse: This melee attack is Dexterity-based. Even if a
 weapon normally has the ﬁnesse trait, this trait is omitted
 in the Strike entry if the monster is applying its Strength.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669198
+4425355
 
-================================================================================
 PAGE 347
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669199
+4425356
 Bestiary
+346
 can survive the basic environmental eﬀects of planes in the
 Outer Sphere.
 Changeling These humanoids are the children of hags
@@ -831,11 +893,39 @@ or objects.
 Incorporeal creatures usually have immunity to eﬀects
 or conditions that require a physical body, like disease,
 poison, and precision damage. They usually have resistance
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669199
+4425356
 
-================================================================================
 PAGE 348
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669200
+4425357
+347
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 against all damage (except force damage and damage from
 Strikes with the ghost touch property rune), with double
 the resistance against non-magical damage.
@@ -938,7 +1028,7 @@ New Rituals
 Some creatures from the Outer Planes can use special
 rituals to call their kin or transport themselves to another
 plane. These are the rituals used by angels, demons,
-and devils.
+and devils.
 ABYSSAL PACT
 RITUAL 1
 UNCOMMON
@@ -950,12 +1040,30 @@ than double Abyssal pact’s spell level, two demons whose
 levels are each at least 2 less than double the spell level,
 or three demons whose levels are each at least 3 less than
 double the spell level.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669200
+4425357
 
-================================================================================
 PAGE 349
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669201
+4425358
 Bestiary
+348
 Critical Success You conjure the demon or demons. They are
 eager to pursue the task, so they don’t ask for a favor.
 Success You conjure the demon or demons. They are not eager
@@ -973,14 +1081,14 @@ Primary Check Religion (expert; you must be an angel)
 You transport yourself to either a celestial plane or a world
 on the Material Plane where worshippers of your patron can
 be found. You must be of no higher level than double angelic
-messenger’s spell level.
+messenger’s spell level.
 Critical Success As success, but if you’ve never visited that
 plane or world before, you appear right in front of the
 message’s intended recipient.
 Success You arrive on the target plane or world at the last
 location you visited on that plane or world, or to a random
 location within 10d10 miles of your message’s intended
-recipient if you’ve never visited that plane or world before.
+recipient if you’ve never visited that plane or world before.
 Failure You don’t travel.
 Critical Failure You accidentally travel to the wrong plane,
 possibly a dangerous plane.
@@ -1001,7 +1109,7 @@ for 1d4 weeks.
 Success The devils are sent to you and serve you for 1d4 days.
 Failure Your request is denied.
 Critical Failure Not only is your request denied, but the
-powerful devil sends word of its displeasure to your master.
+powerful devil sends word of its displeasure to your master.
 New Languages
 Some creatures in this book speak languages not found on
 page 65 of the Pathﬁnder Core Rulebook. The languages
@@ -1019,6 +1127,7 @@ Boggard
 Boggards
 Caligni
 Calignis
+Cyclops
 Cyclops
 Daemonic
 Daemons
@@ -1041,10 +1150,10 @@ Aberration
 Level 1 reefclaw; Level 2 sinspawn; Level 3 grothlut, rust
 monster, web lurker; Level 4 faceless stalker, mimic, otyugh;
 Level 5 cloaker, gibbering mouther; Level 6 drider, will-o’-wisp;
-Level 7 alghollthu master U, chuul, dark naga U; Level 8 brain
-collector U; Level 10 guardian naga U, gug, nilith, ofalth, roper U;
-Level 12 gogiteth; Level 14 grikkitog, veiled master R; Level 15
-quelaunt; Level 18 shoggoth R; Level 20 baomal
+Level 7 alghollthu master U, chuul, dark naga U; Level 8 brain
+collector U; Level 10 guardian naga U, gug, nilith, ofalth, roper U;
+Level 12 gogiteth; Level 14 grikkitog, veiled master R; Level 15
+quelaunt; Level 18 shoggoth R; Level 20 baomal
 Animal
 Level –1 bloodseeker, eagle, ﬂash beetle, giant centipede,
 giant rat, guard dog, viper; Level 0, riding pony, spider swarm;
@@ -1059,39 +1168,67 @@ giant stag beetle, great white shark, griﬀon, scorpion swarm,
 tiger, wasp swarm; Level 5 giant moray eel, giant frilled lizard;
 Level 6 ankylosaurus, cave bear, giant tarantula, smilodon;
 Level 7 elephant, quetzalcoatlus, stegosaurus; Level 8
-bulette, giant anaconda, giant octopus, hive mother U, krooth,
-megaprimatus, triceratops; Level 9 deinosuchus, megalodon U,
+bulette, giant anaconda, giant octopus, hive mother U, krooth,
+megaprimatus, triceratops; Level 9 deinosuchus, megalodon U,
 roc; Level 10 brontosaurus, mammoth, tyrannosaurus; Level 11
-deadly mantis, goliath spider; Level 12 sea serpent U; Level 13
-purple worm; Level 15 azure worm U
+deadly mantis, goliath spider; Level 12 sea serpent U; Level 13
+purple worm; Level 15 azure worm U
 Astral
 Level 12 shining child
 Beast
 Level 2 warg; Level 3 centaur, cockatrice, giant eagle, pegasus;
-Level 4 gargoyle, owlbear, poracha U; Level 5 basilisk, ether
+Level 4 gargoyle, owlbear, poracha U; Level 5 basilisk, ether
 spider, winter wolf; Level 6 hydra, lamia, manticore; Level 7
-remorhaz U; Level 8 chimera U, lamia matriarch, sphinx; Level
-12 cauthooj, shuln R; Level 15 mukradi, phoenix R; Level 17
-wendigo U; Level 18 crimson worm R, kraken U, simurgh R
+remorhaz U; Level 8 chimera U, lamia matriarch, sphinx; Level
+12 cauthooj, shuln R; Level 15 mukradi, phoenix R; Level 17
+wendigo U; Level 18 crimson worm R, kraken U, simurgh R
 Celestial
 Level 1 cassisian, lantern archon, lyrakien; Level 4 gancanagh,
 horned archon; Level 6 choral; Level 7 legion archon, lillend;
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669201
+4425358
 
-================================================================================
 PAGE 350
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669202
+4425359
+349
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Level 8 balisse; Level 10 shield archon; Level 13 ghaele;
 Level 14 astral deva
 Construct
 Level –1 animated broom; Level 0 homunculus; Level 2
 animated armor, soulbound doll; Level 3 animated statue;
-Level 7 giant animated statue; Level 8 ﬂesh golem U;
-Level 9 alchemical golem U; Level 10 clay golem U; Level 11
-stone golem U; Level 13 iron golem U; Level 18 adamantine
-golem R; Level 19 guthallath R
+Level 7 giant animated statue; Level 8 ﬂesh golem U;
+Level  9 alchemical golem U; Level 10 clay golem U; Level 11
+stone  golem U; Level 13 iron golem U; Level 18 adamantine
+golem R; Level 19 guthallath R
 Dragon
-Level 2 faerie dragon U; Level 3 river drake; Level 5 ﬂame
+Level 2 faerie dragon U; Level 3 river drake; Level 5 ﬂame
 drake; Level 6 jungle drake, wyvern, young white dragon;
 Level 7 frost drake, young black dragon, young brass dragon;
 Level 8 desert drake, young copper dragon, young green
@@ -1100,20 +1237,20 @@ bronze dragon; Level 10 adult white dragon, young red dragon,
 young silver dragon; Level 11 adult black dragon, adult brass
 dragon, young gold dragon; Level 12 adult copper dragon, adult
 green dragon; Level 13 adult blue dragon, adult bronze dragon;
-Level 14 adult red dragon, adult silver dragon, crag linnorm U;
-Level 15 adult gold dragon, ancient white dragon U; Level 16
-ancient black dragon U, ancient brass dragon U; Level 17 ancient
-copper dragon U, ancient green dragon U, ice linnorm U; Level 18
-ancient blue dragon U, ancient bronze dragon U; Level 19 ancient
-red dragon U, ancient silver dragon U; Level 20 ancient gold
-dragon U, tarn linnorm U; Level 21 tor linnorm U
+Level 14 adult red dragon, adult silver dragon, crag linnorm U;
+Level 15 adult gold dragon, ancient white dragon U; Level 16
+ancient black dragon U, ancient brass dragon U; Level 17 ancient
+copper dragon U, ancient green dragon U, ice linnorm U; Level 18
+ancient blue dragon U, ancient bronze dragon U; Level 19 ancient
+red dragon U, ancient silver dragon U; Level 20 ancient gold
+dragon U, tarn linnorm U; Level 21 tor linnorm U
 Elemental
 Level 1 air mephit, earth mephit, ﬁre mephit, water mephit;
 Level 3, brine shark, cinder rat, sod hound, zephyr hawk;
 Level 4 janni; Level 5 living landslide, living waterfall, living
-whirlwind, living wildﬁre, djinni U; Level 7 invisible stalker,
-quatoid, salamander, shaitan U, xorn; Level 9 efreeti U, ﬁrewyrm,
-marid U, stone mauler, storm lord, tidal master; Level 11
+whirlwind, living wildﬁre, djinni U; Level 7 invisible stalker,
+quatoid, salamander, shaitan U, xorn; Level 9 efreeti U, ﬁrewyrm,
+marid U, stone mauler, storm lord, tidal master; Level 11
 elemental avalanche, elemental hurricane, elemental inferno,
 elemental tsunami; Level 14 uthul; Level 16 zaramuun
 Ethereal
@@ -1121,25 +1258,25 @@ Level 5 ether spider
 Fey
 Level –1 mitﬂit, sprite; Level 0 pugwampi; Level 1 grig,
 jinkin, naiad; Level 3 dryad, unicorn; Level 4 pixie, satyr;
-Level 5 redcap; Level 6 elananx; Level 7 naiad queen U; Level 12
-gimmerling U; Level 13 dryad queen U
+Level 5 redcap; Level 6 elananx; Level 7 naiad queen U; Level 12
+gimmerling U; Level 13 dryad queen U
 Fiend
 Level 0 lemure; Level 1 cacodaemon, imp, quasit; Level 3
 hell hound; Level 4 barghest; Level 5 barbazu, dandasuka;
-Level 6 ceustodaemon, nightmare; Level 7 greater barghest U,
+Level 6 ceustodaemon, nightmare; Level 7 greater barghest U,
 succubus; Level 8 erinys; Level 9 leukodaemon, nessian
 warhound, night hag, vrock; Level 10 phistophilus, raja
-rakshasa; Level 11 greater nightmare; Level 13 glabrezu,
+rakshasa; Level  11 greater nightmare; Level 13 glabrezu,
 gelugon; Level 16 astradaemon, shemhazian; Level 17 marilith;
-Level 20, balor, pit ﬁend; Level 25 Treerazer Uq
+Level 20, balor, pit ﬁend; Level 25 Treerazer Uq
 Fungus
-Level 9 drakauthix; Level 19 terotricus R; Level 21 mu spore
+Level 9 drakauthix; Level 19 terotricus R; Level 21 mu spore
 Giant
-Level 3 ogre warrior; Level 4 ogre glutton; Level 5 cyclops U,
+Level 3 ogre warrior; Level 4 ogre glutton; Level 5 cyclops U,
 troll; Level 6 ettin; Level 7 hill giant, ogre boss; Level 8
 stone giant; Level 9 frost giant; Level 10 ﬁre giant, troll king;
-Level 11 cloud giant; Level 12 great cyclops U; Level 13 storm
-giant; Level 16 rune giant U
+Level 11 cloud giant; Level 12 great cyclops U; Level 13 storm
+giant; Level 16 rune giant U
 Humanoid
 Level –1 goblin warrior, kobold warrior; Level 0 duergar
 sharpshooter, orc brute; Level 1 boggard scout, caligni dancer,
@@ -1152,13 +1289,13 @@ warrior, dero stalker, dhampir wizard, drow rogue, duergar
 taskmaster, gnoll hunter, kobold dragon mage, lizardfolk
 stargazer, merfolk wavecaller, orc warchief, sea devil scout,
 tengu, wererat, xulgath skulker; Level 3 boggard swampseer,
-bugbear tormentor, dero strangler, doppelganger U, dream
+bugbear tormentor, dero strangler, doppelganger U, dream
 may exile, drow priestess, gnoll cultist, sea hag, tieﬂing adept,
 werewolf, xulgath leader; Level 4 caligni stalker, duskwalker
 ghost hunter, gnoll sergeant, green hag, hobgoblin archer,
-minotaur, ratfolk grenadier, sea devil brute, werebear U; Level 5
-aasimar redeemer, deep gnome rockwarden, dero magister U,
-harpy, yeti U; Level 6 annis hag, hobgoblin general, sea devil
+minotaur, ratfolk grenadier, sea devil brute, werebear U; Level 5
+aasimar redeemer, deep gnome rockwarden, dero magister U,
+harpy, yeti U; Level 6 annis hag, hobgoblin general, sea devil
 baron; Level 7 medusa
 Monitor
 Level 1 arbiter, nosoi, voidworm; Level 7 naunet; Level 8
@@ -1173,22 +1310,40 @@ Level 3 snapping ﬂytrap; Level 4 arboreal warden; Level 6
 awakened tree, shambler; Level 8 arboreal regent; Level 10
 dezullon, giant ﬂytrap; Level 15 wemmuth
 Undead
-Level –1 skeleton guard, zombie shambler; Level 1
+Level –1 skeleton guard, zombie shambler; Level  1
 ghoul, plague zombie; Level 2 ghast, skeletal champion,
 skeletal horse, zombie brute; Level 3 skeletal giant, wight;
 Level 4 ghost commoner, shadow, vampire spawn rogue;
-Level 5 poltergeist; Level 6 mummy guardian, vampire
-count, wraith, zombie hulk; Level 7 dullahan U, skeletal hulk;
-Level 9 mummy pharaoh R, vampire mastermind U; Level 10
-ghost mage, graveknight; Level 12 lich R; Level 15 demilich R;
-Level 16 lesser death R, warsworn U; Level 17 banshee U; Level
-18 skulltaker U; Level 21 Grim Reaper Uq
+Level  5 poltergeist; Level 6 mummy guardian, vampire
+count, wraith, zombie hulk; Level 7 dullahan U, skeletal hulk;
+Level 9 mummy pharaoh R, vampire mastermind U; Level 10
+ghost mage, graveknight; Level 12 lich R; Level 15 demilich R;
+Level 16 lesser death R, warsworn U; Level 17 banshee U; Level
+18 skulltaker U; Level 21 Grim Reaper Uq
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669202
+4425359
 
-================================================================================
 PAGE 351
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669203
+4425360
 Bestiary
+350
 Creature
 Level
 Category
@@ -1200,215 +1355,307 @@ Animated broom
 Animated object
 Construct
 Common
+20
 Bloodseeker
 –1
 Bloodseeker
 Animal
 Common
+42
 Eagle
 –1
 Eagle
 Animal
 Common
+141
 Flash beetle
 –1
 Beetle
 Animal
 Common
+41
 Giant centipede
 –1
 Centipede
 Animal
 Common
+61
 Giant rat
 –1
 Rat
 Animal
 Common
+276
 Goblin warrior
 –1
 Goblin
 Humanoid
 Common
+180
 Guard dog
 –1
 Dog
 Animal
 Common
+102
 Kobold warrior
 –1
 Kobold
 Humanoid
 Common
+212
 Mitﬂit
 –1
 Gremlin
 Fey
 Common
+192
 Skeleton guard
 –1
 Skeleton
 Undead
 Common
+298
 Sprite
 –1
 Sprite
 Fey
 Common
+308
 Viper
 –1
 Snake
 Animal
 Common
+302
 Zombie shambler
 –1
 Zombie
 Undead
 Common
+340
 Duergar sharpshooter
+0
 Duergar
 Humanoid
 Common
+138
+Homunculus
+0
 Homunculus
 Construct
 Common
+208
 Leaf leshy
+0
 Leshy
 Plant
 Common
+218
 Lemure
+0
 Devil
 Fiend
 Common
+86
 Orc brute
+0
 Orc
 Humanoid
 Common
+256
 Pugwampi
+0
 Gremlin
 Fey
 Common
+193
 Riding pony
+0
 Horse
 Animal
 Common
+209
 Spider swarm
+0
 Spider
 Animal
 Common
+306
 Arbiter
+1
 Aeon
 Monitor
 Common
+8
 Air mephit
+1
 Elemental, mephit
 Elemental
 Common
+150
 Ball python
+1
 Snake
 Animal
 Common
+302
 Boggard scout
+1
 Boggard
 Humanoid
 Common
+44
 Cacodaemon
+1
 Daemon
 Fiend
 Common
+70
 Caligni dancer
+1
 Caligni
 Humanoid
 Common
+50
 Cassisian
+1
 Angel
 Celestial
 Common
+16
 Catfolk pouncer
+1
 Catfolk
 Humanoid
 Common
+54
 Deep gnome scout
+1
 Deep gnome
 Humanoid
 Common
+74
 Drow ﬁghter
+1
 Drow
 Humanoid
 Common
+136
 Duergar bombardier
+1
 Duergar
 Humanoid
 Common
+138
 Earth mephit
+1
 Elemental, mephit
 Elemental
 Common
+150
 Electric eel
+1
 Eel
 Animal
 Common
+142
 Fire mephit
+1
 Elemental, mephit
 Elemental
 Common
+150
+Ghoul
+1
 Ghoul
 Undead
 Common
+169
 Giant gecko
+1
 Lizard
 Animal
 Common
+228
 Goblin commando
+1
 Goblin
 Humanoid
 Common
+180
+Goblin dog
+1
 Goblin dog
 Animal
 Common
+182
 Goblin pyro
+1
 Goblin
 Humanoid
 Common
+181
 Goblin war chanter
+1
 Goblin
 Humanoid
 Common
+181
 Gourd leshy
+1
 Leshy
 Plant
 Common
+218
 Grig
+1
 Sprite
 Fey
 Common
+308
 Hobgoblin soldier
+1
 Hobgoblin
 Humanoid
 Common
+206
 Hunting spider
+1
 Spider
 Animal
 Common
+306
+Hyena
+1
 Hyena
 Animal
 Common
+211
 Imp
+1
 Devil
 Fiend
 Common
+87
 Jinkin
+1
 Gremlin
 Fey
 Common
+193
 Kobold scout
+1
 Kobold
 Humanoid
 Common
+213
 Lantern archon
+1
 Archon
 Celestial
 Common
+26
 Creatures by Level
 The following tables present every single stat block in the
 Bestiary organized by level. Each entry also details the
@@ -1416,1379 +1663,2370 @@ creature’s category, showing under which entry it can be
 found and the general group it belongs to, its type trait,
 which is useful for summoning and some other abilities,
 along with the creature’s rarity and page number.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669203
+4425360
 
-================================================================================
 PAGE 352
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669204
+4425361
+351
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 Lizardfolk defender
+1
 Lizardfolk
 Humanoid
 Common
+230
 Lizardfolk scout
+1
 Lizardfolk
 Humanoid
 Common
+231
 Lyrakien
+1
 Azata
 Celestial
 Common
+30
 Merfolk warrior
+1
 Merfolk
 Humanoid
 Common
+235
 Naiad
+1
 Nymph
 Fey
 Common
+246
 Nosoi
+1
 Psychopomp
 Monitor
 Common
+270
 Orc warrior
+1
 Orc
 Humanoid
 Common
+257
 Plague zombie
+1
 Zombie
 Undead
 Common
+340
 Quasit
+1
 Demon
 Fiend
 Common
+76
 Rat swarm
+1
 Rat
 Animal
 Common
+276
+Reefclaw
+1
 Reefclaw
 Aberration
 Common
+279
 Riding dog
+1
 Dog
 Animal
 Common
+102
 Riding horse
+1
 Horse
 Animal
 Common
+209
 Sewer ooze
+1
+Ooze
 Ooze
 Common
+254
 Vampire bat swarm
+1
 Bat
 Animal
 Common
+39
 Velociraptor
+1
 Dinosaur
 Animal
 Common
+96
 Voidworm
+1
 Protean
 Monitor
 Common
+266
 War pony
+1
 Horse
 Animal
 Common
+209
 Water mephit
+1
 Elemental, mephit
 Elemental
 Common
+151
+Wolf
+1
 Wolf
 Animal
 Common
+334
 Xulgath warrior
+1
 Xulgath
 Humanoid
 Common
+336
 Animated armor
+2
 Animated object
 Construct
 Common
+20
+Boar
+2
 Boar
 Animal
 Common
+43
 Boggard warrior
+2
 Boggard
 Humanoid
 Common
+44
 Bugbear thug
+2
 Bugbear
 Humanoid
 Common
+47
 Caligni creeper
+2
 Caligni
 Humanoid
 Common
+50
+Crocodile
+2
 Crocodile
 Animal
 Common
+67
 Deep gnome warrior
+2
 Deep Gnome
 Humanoid
 Common
+75
 Deinonychus
+2
 Dinosaur
 Animal
 Common
+96
 Dero stalker
+2
 Dero
 Humanoid
 Common
+84
 Dhampir wizard
+2
 Dhampir
 Humanoid
 Common
+95
 Drow rogue
+2
 Drow
 Humanoid
 Common
+137
 Duergar taskmaster
+2
 Duergar
 Humanoid
 Common
+139
+Faerie dragon
+2
 Faerie dragon
 Dragon
 Uncommon
+157
 Fungus leshy
+2
 Leshy
 Plant
 Common
+219
 Ghast
+2
 Ghoul
 Undead
 Common
+169
 Giant bat
+2
 Bat
 Animal
 Common
+39
 Giant Monitor lizard
+2
 Lizard
 Animal
 Common
+228
 Giant viper
+2
 Snake
 Animal
 Common
+303
 Gnoll hunter
+2
 Gnoll
 Humanoid
 Common
+178
 Kobold dragon mage
+2
 Kobold
 Humanoid
 Common
+213
 Leopard
+2
 Cat
 Animal
 Common
+52
 Lizardfolk stargazer
+2
 Lizardfolk
 Humanoid
 Common
+231
 Merfolk wavecaller
+2
 Merfolk
 Humanoid
 Common
+235
 Orc warchief
+2
 Orc
 Humanoid
 Common
+257
 Pteranodon
+2
 Pterosaur
 Animal
 Common
+272
 Sea devil scout
+2
 Sea devil
 Humanoid
 Common
+286
+Sinspawn
+2
 Sinspawn
 Aberration
 Common
+296
 Skeletal champion
+2
 Skeleton
 Undead
 Common
+298
 Skeletal horse
+2
 Skeleton
 Undead
 Common
+299
+Slurk
+2
 Slurk
 Animal
 Common
+301
+Soulbound doll
+2
 Soulbound doll
 Construct
 Common
+304
+Tengu
+2
 Tengu
 Humanoid
 Common
+310
 War horse
+2
 Horse
 Animal
 Common
+209
+Warg
+2
 Warg
 Beast
 Common
+322
 Wererat
+2
 Werecreature
 Humanoid
 Common
+329
 Xulgath skulker
+2
 Xulgath
 Humanoid
 Common
+337
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669204
+4425361
 
-================================================================================
 PAGE 353
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669205
+4425362
 Bestiary
+352
 Zombie brute
+2
 Zombie
 Undead
 Common
+341
 Animated statue
+3
 Animated object
 Construct
 Common
+21
+Ankhrav
+3
 Ankhrav
 Animal
 Common
+22
 Boggard swampseer
+3
 Boggard
 Humanoid
 Common
+45
 Brine shark
+3
 Elemental, water
 Elemental
 Common
+152
 Bugbear tormentor
+3
 Bugbear
 Humanoid
 Common
+47
+Bunyip
+3
 Bunyip
 Animal
 Common
+49
+Centaur
+3
 Centaur
 Beast
 Common
+60
 Centipede swarm
+3
 Centipede
 Animal
 Common
+61
 Changeling exile
+3
 Changeling
 Humanoid
 Common
+62
 Cinder rat
+3
 Elemental, ﬁre
 Elemental
 Common
+148
+Cockatrice
+3
 Cockatrice
 Beast
 Common
+66
 Dero strangler
+3
 Dero
 Humanoid
 Common
+84
 Dire wolf
+3
 Wolf
 Animal
 Common
+334
+Doppelganger
+3
 Doppelganger
 Humanoid
 Uncommon
+103
 Drow priestess
+3
 Drow
 Humanoid
 Common
+137
 Dryad
+3
 Nymph
 Fey
 Common
+246
 Gelatinous cube
+3
+Ooze
 Ooze
 Common
+254
 Giant eagle
+3
 Eagle
 Beast
 Common
+141
 Giant mantis
+3
 Mantis
 Animal
 Common
+233
 Giant scorpion
+3
 Scorpion
 Animal
 Common
+285
 Giant wasp
+3
 Wasp
 Animal
 Common
+324
 Gnoll cultist
+3
 Gnoll
 Humanoid
 Common
+179
 Gorilla
+3
 Ape
 Animal
 Common
+23
 Grizzly bear
+3
 Bear
 Animal
 Common
+40
 Grothlut
+3
 Fleshwarp
 Aberration
 Common
+158
+Hell hound
+3
 Hell hound
 Fiend
 Common
+205
 Hyaenodon
+3
 Hyena
 Animal
 Common
+211
 Lion
+3
 Cat
 Animal
 Common
+52
 Ogre warrior
+3
 Ogre
 Giant
 Common
+252
+Pegasus
+3
 Pegasus
 Beast
 Common
+260
 River drake
+3
 Drake
 Dragon
 Common
+131
+Rust monster
+3
 Rust monster
 Aberration
 Common
+283
 Sea hag
+3
 Hag
 Humanoid
 Common
+200
 Skeletal giant
+3
 Skeleton
 Undead
 Common
+299
 Snapping ﬂytrap
+3
 Flytrap
 Plant
 Common
+160
 Sod hound
+3
 Elemental, earth
 Elemental
 Common
+146
 Tieﬂing adept
+3
 Planar scion
 Humanoid
 Common
+262
+Unicorn
+3
 Unicorn
 Fey
 Common
+316
+Web lurker
+3
 Web lurker
 Aberration
 Common
+325
 Werewolf
+3
 Werecreature
 Humanoid
 Common
+330
+Wight
+3
 Wight
 Undead
 Common
+332
 Xulgath leader
+3
 Xulgath
 Humanoid
 Common
+337
 Zephyr hawk
+3
 Elemental, air
 Elemental
 Common
+144
 Arboreal warden
+4
 Arboreal
 Plant
 Common
+24
+Barghest
+4
 Barghest
 Fiend
 Common
+36
 Caligni stalker
+4
 Caligni
 Humanoid
 Common
+51
 Daeodon
+4
 Boar
 Animal
 Common
+43
 Duskwalker ghost hunter
+4
 Planar scion
 Humanoid
 Common
+262
 Faceless stalker
+4
 Alghollthu
 Aberration
 Common
+13
 Gancanagh
+4
 Azata
 Celestial
 Common
+31
+Gargoyle
+4
 Gargoyle
 Beast
 Common
+161
 Ghost commoner
+4
 Ghost
 Undead
 Common
+167
 Giant stag beetle
+4
 Beetle
 Animal
 Common
+41
 Gnoll sergeant
+4
 Gnoll
 Humanoid
 Common
+179
 Great white shark
+4
 Shark
 Animal
 Common
+291
 Green hag
+4
 Hag
 Humanoid
 Common
+201
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669205
+4425362
 
-================================================================================
 PAGE 354
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669206
+4425363
+353
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
+Griﬀon
+4
 Griﬀon
 Animal
 Common
+194
 Hobgoblin archer
+4
 Hobgoblin
 Humanoid
 Common
+207
 Horned archon
+4
 Archon
 Celestial
 Common
+27
 Janni
+4
 Genie
 Elemental
 Common
+162
+Mimic
+4
 Mimic
 Aberration
 Common
+236
+Minotaur
+4
 Minotaur
 Humanoid
 Common
+237
 Ogre glutton
+4
 Ogre
 Giant
 Common
+252
+Otyugh
+4
 Otyugh
 Aberration
 Common
+258
+Owlbear
+4
 Owlbear
 Beast
 Common
+259
 Pixie
+4
 Sprite
 Fey
 Common
+310
+Poracha
+4
 Poracha
 Beast
 Uncommon
+265
 Ratfolk grenadier
+4
 Ratfolk
 Humanoid
 Common
+277
+Satyr
+4
 Satyr
 Fey
 Common
+284
 Scorpion swarm
+4
 Scorpion
 Animal
 Common
+285
 Sea devil brute
+4
 Sea devil
 Humanoid
 Common
+287
+Shadow
+4
 Shadow
 Undead
 Common
+289
 Tiger
+4
 Cat
 Animal
 Common
+52
 Vampire spawn rogue
+4
 Vampire
 Undead
 Common
+320
 Wasp swarm
+4
 Wasp
 Animal
 Common
+324
 Werebear
+4
 Werecreature
 Humanoid
 Uncommon
+330
 Aasimar redeemer
+5
 Planar scion
 Humanoid
 Common
+263
 Barbazu
+5
 Devil
 Fiend
 Common
+88
+Basilisk
+5
 Basilisk
 Beast
 Common
+38
+Cloaker
+5
 Cloaker
 Aberration
 Common
+65
+Cyclops
+5
 Cyclops
 Giant
 Uncommon
+68
 Dandasuka
+5
 Rakshasa
 Fiend
 Common
+274
 Deep gnome rockwarden
+5
 Deep gnome
 Humanoid
 Common
+75
 Dero magister
+5
 Dero
 Humanoid
 Uncommon
+85
 Djinni
+5
 Genie
 Elemental
 Uncommon
+163
+Ether spider
+5
 Ether spider
 Ethereal
 Common
+155
 Flame drake
+5
 Drake
 Dragon
 Common
+131
 Giant frilled lizard
+5
 Lizard
 Animal
 Common
+229
 Giant moray eel
+5
 Eel
 Animal
 Common
+142
+Gibbering mouther
+5
 Gibbering mouther
 Aberration
 Common
+176
+Harpy
+5
 Harpy
 Humanoid
 Common
+204
 Living landslide
+5
 Elemental, earth
 Elemental
 Common
+146
 Living waterfall
+5
 Elemental, water
 Elemental
 Common
+152
 Living whirlwind
+5
 Elemental, air
 Elemental
 Common
+144
 Living wildﬁre
+5
 Elemental, ﬁre
 Elemental
 Common
+148
 Ochre jelly
+5
+Ooze
 Ooze
 Common
+254
+Poltergeist
+5
 Poltergeist
 Undead
 Common
+264
+Redcap
+5
 Redcap
 Fey
 Common
+278
+Troll
+5
 Troll
 Giant
 Common
+314
 Winter wolf
+5
 Warg
 Beast
 Common
+322
+Yeti
+5
 Yeti
 Humanoid
 Uncommon
+338
 Awakened tree
+6
 Arboreal
 Plant
 Common
+25
 Ankylosaurus
+6
 Dinosaur
 Animal
 Common
+97
 Annis hag
+6
 Hag
 Humanoid
 Common
+201
 Cave bear
+6
 Bear
 Animal
 Common
+40
 Ceustodaemon
+6
 Daemon
 Fiend
 Common
+71
 Choral
+6
 Angel
 Celestial
 Common
+16
 Drider
+6
 Fleshwarp
 Aberration
 Common
+159
+Elananx
+6
 Elananx
 Fey
 Common
+143
+Ettin
+6
 Ettin
 Giant
 Common
+156
 Giant tarantula
+6
 Spider
 Animal
 Common
+307
 Hobgoblin general
+6
 Hobgoblin
 Humanoid
 Common
+207
+Hydra
+6
 Hydra
 Beast
 Common
+210
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669206
+4425363
 
-================================================================================
 PAGE 355
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669207
+4425364
 Bestiary
+354
 Jungle drake
+6
 Drake
 Dragon
 Common
+132
+Lamia
+6
 Lamia
 Beast
 Common
+216
+Manticore
+6
 Manticore
 Beast
 Common
+232
 Mummy guardian
+6
 Mummy
 Undead
 Common
+240
+Nightmare
+6
 Nightmare
 Fiend
 Common
+244
 Sea devil baron
+6
 Sea devil
 Humanoid
 Common
+287
+Shambler
+6
 Shambler
 Plant
 Common
+290
 Smilodon
+6
 Cat
 Animal
 Common
+53
 Vampire count
+6
 Vampire
 Undead
 Common
+320
+Will-o’-wisp
+6
 Will-o’-wisp
 Aberration
 Common
+333
+Wraith
+6
 Wraith
 Undead
 Common
+335
 Wyvern
+6
 Drake
 Dragon
 Common
+133
 Young white dragon
+6
 Dragon, chromatic
 Dragon
 Common
+113
 Zombie hulk
+6
 Zombie
 Undead
 Common
+341
 Alghollthu master
+7
 Alghollthu
 Aberration
 Uncommon
+14
 Black pudding
+7
+Ooze
 Ooze
 Common
+255
+Chuul
+7
 Chuul
 Aberration
 Common
+64
 Dark naga
+7
 Naga
 Aberration
 Uncommon
+242
+Dullahan
+7
 Dullahan
 Undead
 Uncommon
+140
+Elephant
+7
 Elephant
 Animal
 Common
+154
 Frost drake
+7
 Drake
 Dragon
 Common
+134
 Giant animated statue
+7
 Animated object
 Construct
 Common
+21
 Greater barghest
+7
 Barghest
 Fiend
 Uncommon
+36
 Hill giant
+7
+Giant
 Giant
 Common
+170
 Invisible stalker
+7
 Elemental, air
 Elemental
 Common
+144
 Legion archon
+7
 Archon
 Celestial
 Common
+28
 Lillend
+7
 Azata
 Celestial
 Common
+32
+Medusa
+7
 Medusa
 Humanoid
 Common
+234
 Naiad queen
+7
 Nymph
 Fey
 Uncommon
+248
 Naunet
+7
 Protean
 Monitor
 Common
+267
 Ogre boss
+7
 Ogre
 Giant
 Common
+253
 Quatoid
+7
 Elemental, water
 Elemental
 Common
+152
 Quetzalcoatlus
+7
 Pterosaur
 Animal
 Common
+272
+Remorhaz
+7
 Remorhaz
 Beast
 Uncommon
+280
 Salamander
+7
 Elemental, ﬁre
 Elemental
 Common
+148
 Shaitan
+7
 Genie
 Elemental
 Uncommon
+163
 Skeletal hulk
+7
 Skeleton
 Undead
 Common
+299
 Stegosaurus
+7
 Dinosaur
 Animal
 Common
+98
 Succubus
+7
 Demon
 Fiend
 Common
+77
 Xorn
+7
 Elemental, earth
 Elemental
 Common
+146
 Young black dragon
+7
 Dragon, chromatic
 Dragon
 Common
+105
 Young brass dragon
+7
 Dragon, metallic
 Dragon
 Common
+117
 Axiomite
+8
 Aeon
 Monitor
 Common
+9
 Arboreal regent
+8
 Arboreal
 Plant
 Common
+25
 Balisse
+8
 Angel
 Celestial
 Common
+18
+Brain collector
+8
 Brain collector
 Aberration
 Uncommon
+46
+Bulette
+8
 Bulette
 Animal
 Common
+48
+Chimera
+8
 Chimera
 Beast
 Uncommon
+63
 Desert drake
+8
 Drake
 Dragon
 Common
+135
 Erinys
+8
 Devil
 Fiend
 Common
+89
 Flesh golem
+8
 Golem
 Construct
 Uncommon
+184
 Giant anaconda
+8
 Snake
 Animal
 Common
+303
 Giant octopus
+8
 Octopus, giant
 Animal
 Common
+250
 Hive mother
+8
 Ankhrav
 Animal
 Uncommon
+22
+Krooth
+8
 Krooth
 Animal
 Common
+215
 Lamia matriarch
+8
 Lamia
 Beast
 Common
+217
 Megaprimatus
+8
 Ape
 Animal
 Common
+23
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669207
+4425364
 
-================================================================================
 PAGE 356
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669208
+4425365
+355
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
+Sphinx
+8
 Sphinx
 Beast
 Common
+305
 Stone giant
+8
+Giant
 Giant
 Common
+170
 Triceratops
+8
 Dinosaur
 Animal
 Common
+98
 Young copper dragon
+8
 Dragon, metallic
 Dragon
 Common
+121
 Young green dragon
+8
 Dragon, chromatic
 Dragon
 Common
+109
 Alchemical golem
+9
 Golem
 Construct
 Uncommon
+185
 Deinosuchus
+9
 Crocodile
 Animal
 Common
+67
+Dragon turtle
+9
 Dragon turtle
 Dragon
 Common
+128
+Drakauthix
+9
 Drakauthix
 Fungus
 Common
+129
 Efreeti
+9
 Genie
 Elemental
 Uncommon
+164
 Firewyrm
+9
 Elemental, ﬁre
 Elemental
 Common
+149
 Frost giant
+9
+Giant
 Giant
 Common
+171
 Leukodaemon
+9
 Daemon
 Fiend
 Common
+71
 Marid
+9
 Genie
 Elemental
 Uncommon
+165
 Megalodon
+9
 Shark
 Animal
 Uncommon
+291
 Mummy pharaoh
+9
 Mummy
 Undead
 Rare
+240
 Nessian warhound
+9
 Hell hound
 Fiend
 Common
+205
 Night hag
+9
 Hag
 Fiend
 Common
+202
 Roc
+9
 Roc
 Animal
 Common
+281
 Stone mauler
+9
 Elemental, earth
 Elemental
 Common
+147
 Storm lord
+9
 Elemental, air
 Elemental
 Common
+145
 Tidal master
+9
 Elemental, water
 Elemental
 Common
+153
 Vampire mastermind
+9
 Vampire
 Undead
 Uncommon
+321
 Vrock
+9
 Demon
 Fiend
 Common
+78
 Young blue dragon
+9
 Dragon, chromatic
 Dragon
 Common
+107
 Young bronze dragon
+9
 Dragon, metallic
 Dragon
 Common
+119
 Adult white dragon
+10
 Dragon, chromatic
 Dragon
 Common
+114
 Brontosaurus
+10
 Dinosaur
 Animal
 Common
+99
 Clay golem
+10
 Golem
 Construct
 Uncommon
+186
 Phistophilus
+10
 Devil
 Fiend
 Common
+89
+Dezullon
+10
 Dezullon
 Plant
 Common
+94
 Fire giant
+10
+Giant
 Giant
 Common
+172
 Ghost mage
+10
 Ghost
 Undead
 Common
+167
 Giant ﬂytrap
+10
 Flytrap
 Plant
 Common
+160
+Graveknight
+10
 Graveknight
 Undead
 Common
+190
 Guardian naga
+10
 Naga
 Aberration
 Uncommon
+243
 Gug
+10
 Gug
 Aberration
 Common
+198
 Mammoth
+10
 Elephant
 Animal
 Common
+154
+Nilith
+10
 Nilith
 Aberration
 Common
+245
+Ofalth
+10
 Ofalth
 Aberration
 Common
+251
 Raja rakshasa
+10
 Rakshasa
 Fiend
 Common
+275
+Roper
+10
 Roper
 Aberration
 Uncommon
+282
 Shield archon
+10
 Archon
 Celestial
 Common
+29
 Troll king
+10
 Troll
 Giant
 Common
+314
 Tyrannosaurus
+10
 Dinosaur
 Animal
 Common
+100
 Young red dragon
+10
 Dragon, chromatic
 Dragon
 Common
+112
 Young silver dragon
+10
 Dragon, metallic
 Dragon
 Common
+126
 Adult black dragon
+11
 Dragon, chromatic
 Dragon
 Common
+105
 Adult brass dragon
+11
 Dragon, metallic
 Dragon
 Common
+118
 Cloud giant
+11
+Giant
 Giant
 Common
+173
 Deadly mantis
+11
 Mantis
 Animal
 Common
+233
 Elemental avalanche
+11
 Elemental, earth
 Elemental
 Common
+147
 Elemental hurricane
+11
 Elemental, air
 Elemental
 Common
+145
 Elemental inferno
+11
 Elemental, ﬁre
 Elemental
 Common
+149
 Elemental tsunami
+11
 Elemental, water
 Elemental
 Common
+153
 Goliath spider
+11
 Spider
 Animal
 Common
+307
 Greater nightmare
+11
 Nightmare
 Fiend
 Common
+244
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669208
+4425365
 
-================================================================================
 PAGE 357
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669209
+4425366
 Bestiary
+356
 Stone golem
+11
 Golem
 Construct
 Uncommon
+187
 Young gold dragon
+11
 Dragon, metallic
 Dragon
 Common
+124
 Adult copper dragon
+12
 Dragon, metallic
 Dragon
 Common
+122
 Adult green dragon
+12
 Dragon, chromatic
 Dragon
 Common
+110
+Cauthooj
+12
 Cauthooj
 Beast
 Common
+55
+Gimmerling
+12
 Gimmerling
 Fey
 Uncommon
+177
+Gogiteth
+12
 Gogiteth
 Aberration
 Common
+183
 Great cyclops
+12
 Cyclops
 Giant
 Uncommon
+69
 Kolyarut
+12
 Aeon
 Monitor
 Common
+10
+Lich
+12
 Lich
 Undead
 Rare
+220
+Sea serpent
+12
 Sea serpent
 Animal
 Uncommon
+288
+Shuln
+12
 Shuln
 Beast
 Rare
+294
+Shining child
+12
 Shining child
 Astral
 Common
+292
 Adult blue dragon
+13
 Dragon, chromatic
 Dragon
 Common
+108
 Adult bronze dragon
+13
 Dragon, metallic
 Dragon
 Common
+120
 Dryad queen
+13
 Nymph
 Fey
 Uncommon
+249
 Ghaele
+13
 Azata
 Celestial
 Common
+33
 Glabrezu
+13
 Demon
 Fiend
 Common
+79
 Gelugon
+13
 Devil
 Fiend
 Common
+91
 Iron golem
+13
 Golem
 Construct
 Uncommon
+188
 Purple worm
+13
 Cave worm
 Beast
 Common
+56
 Storm giant
+13
+Giant
 Giant
 Common
+174
 Adult red dragon
+14
 Dragon, chromatic
 Dragon
 Common
+112
 Adult silver dragon
+14
 Dragon, metallic
 Dragon
 Common
+126
 Astral deva
+14
 Angel
 Celestial
 Common
+18
 Crag linnorm
+14
 Linnorm
 Dragon
 Uncommon
+224
+Grikkitog
+14
 Grikkitog
 Aberration
 Common
+195
 Veiled master
+14
 Alghollthu
 Aberration
 Rare
+14
+Uthul
+14
 Uthul
 Elemental
 Common
+317
 Adult gold dragon
+15
 Dragon, metallic
 Dragon
 Common
+124
 Ancient white dragon
+15
 Dragon, chromatic
 Dragon
 Uncommon
+115
 Azure worm
+15
 Cave worm
 Animal
 Uncommon
+57
 Demilich
+15
 Lich
 Undead
 Rare
+222
 Morrigna
+15
 Psychopomp
 Monitor
 Common
+270
+Mukradi
+15
 Mukradi
 Beast
 Common
+239
+Phoenix
+15
 Phoenix
 Beast
 Rare
+261
+Quelaunt
+15
 Quelaunt
 Aberration
 Common
+273
+Wemmuth
+15
 Wemmuth
 Plant
 Common
+326
 Ancient black dragon
+16
 Dragon, chromatic
 Dragon
 Uncommon
+106
 Ancient brass dragon
+16
 Dragon, metallic
 Dragon
 Uncommon
+118
 Astradaemon
+16
 Daemon
 Fiend
 Common
+72
 Lesser death
+16
 Grim Reaper
 Undead
 Rare
+197
 Rune giant
+16
+Giant
 Giant
 Uncommon
+174
 Shemhazian
+16
 Demon
 Fiend
 Common
+80
+Warsworn
+16
 Warsworn
 Undead
 Uncommon
- Zaramuun
+323
+ Zaramuun
+16
+Zaramuun
 Elemental
 Common
+339
 Ancient copper dragon
+17
 Dragon, metallic
 Dragon
 Uncommon
+122
 Ancient green dragon
+17
 Dragon, chromatic
 Dragon
 Uncommon
+110
+Banshee
+17
 Banshee
 Undead
 Uncommon
+34
 Ice linnorm
+17
 Linnorm
 Dragon
 Uncommon
+225
 Keketar
+17
 Protean
 Monitor
 Common
+268
 Marilith
+17
 Demon
 Fiend
 Common
+81
+Wendigo
+17
 Wendigo
 Beast
 Uncommon
+327
 Adamantine golem
+18
 Golem
 Construct
 Rare
+188
 Ancient blue dragon
+18
 Dragon, chromatic
 Dragon
 Uncommon
+108
 Ancient bronze dragon
+18
 Dragon, metallic
 Dragon
 Uncommon
+120
 Crimson worm
+18
 Cave worm
 Beast
 Rare
+58
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669209
+4425366
 
-================================================================================
 PAGE 358
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669210
+4425367
+357
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
+Kraken
+18
 Kraken
 Beast
 Uncommon
+214
+Shoggoth
+18
 Shoggoth
 Aberration
 Rare
+293
+Simurgh
+18
 Simurgh
 Beast
 Rare
+295
+Skulltaker
+18
 Skulltaker
 Undead
 Uncommon
+300
 Ancient red dragon
+19
 Dragon, chromatic
 Dragon
 Uncommon
+112
 Ancient silver dragon
+19
 Dragon, metallic
 Dragon
 Uncommon
+127
+Guthallath
+19
 Guthallath
 Construct
 Rare
+199
+Terotricus
+19
 Terotricus
 Fungus
 Rare
+311
 Ancient gold dragon
+20
 Dragon, metallic
 Dragon
 Uncommon
+125
 Balor
+20
 Demon
 Fiend
 Common
+82
+Baomal
+20
 Baomal
 Aberration
 Common
+35
 Pit ﬁend
+20
 Devil
 Fiend
 Common
+92
 Pleroma
+20
 Aeon
 Monitor
 Common
+10
 Tarn linnorm
+20
 Linnorm
 Dragon
 Uncommon
+226
+Grim Reaper
+21
 Grim Reaper
 Undead
 Unique
+196
+Mu spore
+21
 Mu spore
 Fungus
 Common
+238
 Tor linnorm
+21
 Linnorm
 Dragon
 Uncommon
+227
+Treerazer
+25
 Treerazer
 Fiend
 Unique
+312
 This product is compliant with the Open Game License (OGL) and is suitable for use with the Pathﬁnder
 Roleplaying Game (Second Edition).
 Product Identity: The following items are hereby identiﬁed as Product Identity, as deﬁned in the Open Game
@@ -2873,7 +4111,7 @@ only to the extent necessary to make it enforceable.
 15. COPYRIGHT NOTICE
 Open Game License v 1.0a © 2000, Wizards of the Coast, Inc.
 System Reference Document © 2000, Wizards of the Coast, Inc.; Authors: Jonathan Tweet, Monte Cook, and
-Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
+Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
 Daemon, Guardian from the Tome of Horrors Complete © 2011, Necromancer Games, Inc., published and
 distributed by Frog God Games; Author: Scott Greene, based on original material by Ian McDowall.
 Dark Creeper from the Tome of Horrors Complete © 2011, Necromancer Games, Inc., published and distributed
@@ -2891,19 +4129,19 @@ John Compton, Paris Crenshaw, Adam Daigle, Eleanor Ferron, Leo Glass, Thurston H
 Lyz Liddell, Ron Lundeen, Robert G. McCreary, Tim Nightengale, Stephen Radney-MacFarland, Alex Riggs, David N.
 Ross, Michael Sayre, Mark Seifter, Chris S. Sims, Jeﬀrey Swank, Jason Tondro, Tonya Woldridge, and Linda Zayas-Palmer.
 PAIZO INC.
-Creative Directors • James Jacobs, Robert G. McCreary, and Sarah E. Robinson
+Creative Directors • James Jacobs, Robert G. McCreary, and Sarah E. Robinson
 Director of Game Design • Jason Bulmahn
-Managing Developers • Adam Daigle and Amanda Hamon
+Managing Developers • Adam Daigle and Amanda Hamon
 Organized Play Lead Developer • John Compton
-Developers • Eleanor Ferron, Jason Keeley, Luis Loza, Ron Lundeen, Joe Pasini,
-Patrick Renie, Michael Sayre, Chris S. Sims, and Linda Zayas-Palmer
-Starﬁnder Design Lead • Owen K.C. Stephens
+Developers • Eleanor Ferron, Jason Keeley, Luis Loza, Ron Lundeen, Joe Pasini,
+Patrick Renie, Michael Sayre, Chris S. Sims, and Linda Zayas-Palmer
+Starﬁnder Design Lead • Owen K.C. Stephens
 Starﬁnder Society Developer • Thurston Hillman
 Senior Designer • Stephen Radney-MacFarland
 Designers • Logan Bonner and Mark Seifter
 Managing Editor • Judy Bauer
-Editors • James Case, Leo Glass, Lyz Liddell, Adrian Ng, Lacy Pellazar, and
-Jason Tondro
+Editors • James Case, Leo Glass, Lyz Liddell, Adrian Ng, Lacy Pellazar, and
+Jason Tondro
 Art Director • Sonja Morris
 Senior Graphic Designers • Emily Crowell and Adam Vick
 Production Artist • Tony Barnett
@@ -2920,32 +4158,66 @@ Vice President of Marketing & Licensing • Jim Butler
 Marketing Manager • Dan Tharp
 Licensing Manager • Glenn Elliott
 Public Relations Manager • Aaron Shanks
-Customer Service & Community Manager • Sara Marie
+Customer Service & Community Manager • Sara Marie
 Operations Manager • Will Chase
-Organized Play Manager • Tonya Woldridge
+Organized Play Manager • Tonya Woldridge
 Human Resources Generalist • Angi Hodgson
 Accountant • Christopher Caldwell
 Data Entry Clerk • B. Scott Keim
 Director of Technology • Raimi Kong
 Web Production Manager • Chris Lambertz
-Senior Software Developer • Gary Teter
+Senior Software Developer • Gary Teter
 Webstore Coordinator • Rick Kunz
-Customer Service Team • Katina Davis, Virginia Jordan, Samantha Phelan, and
-Diego Valdez
-Warehouse Team • Laura Wilkes Carey, Mika Hawkins, Heather Payne, Jeﬀ Strand, and
-Kevin Underwood
-Website Team • Brian Bauman, Robert Brandenburg, Whitney Chatterjee, Erik Keith,
-Josh Thornton, and Andrew White
+Customer Service Team • Katina Davis, Virginia Jordan, Samantha Phelan, and
+Diego Valdez
+Warehouse Team • Laura Wilkes Carey, Mika Hawkins, Heather Payne, Jeﬀ Strand, and
+Kevin Underwood
+Website Team • Brian Bauman, Robert Brandenburg, Whitney Chatterjee, Erik Keith,
+Josh Thornton, and Andrew White
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669210
+4425367
 
-================================================================================
 PAGE 359
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669211
+4425368
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669211
+4425368
 
-================================================================================
 PAGE 360
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669212
+4425369
 HARDCOVER $36.99
 THIS COMPREHENSIVE HARDCOVER OVERVIEW OF THE WORLD OF PATHFINDER PROVIDES EVERYTHING YOU NEED TO KNOW
 FOR A LIFETIME OF ADVENTURE IN THE AGE OF LOST OMENS. THE GOD OF HUMANITY IS DEAD AND PROPHECY IS BROKEN,
@@ -2956,11 +4228,28 @@ Second Edition
 © 2019, Paizo Inc. Paizo, Paizo Inc., the Paizo golem logo, Pathﬁ nder, and the Pathﬁ nder logo are registered trademarks of Paizo Inc.;
 the Pathﬁ nder P logo, Pathﬁ nder Adventure Path, Pathﬁ nder Roleplaying Game, and Pathﬁ nder World Guide are trademarks of Paizo Inc.
 paizo.com/pathﬁ nder
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669212
+4425369
 
-================================================================================
 PAGE 361
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669213
+4425370
 BASED ON MORE THAN 10 YEARS OF ACTIVE DEVELOPMENT AND PLAYTEST FEEDBACK FROM MORE THAN 125,000
 GAMERS, THE NEW PATHFINDER RULES ARE EASY TO LEARN AND EXCITING TO MASTER! THIS INDISPENSABLE VOLUME
 CONTAINS ALL RULES PLAYERS AND GAME MASTERS NEED TO START THEIR ADVENTURES.
@@ -2970,8 +4259,16 @@ HARDCOVER $59.99 and Deluxe Hardcover $79.99
 the Pathﬁ nder P logo, Pathﬁ nder Adventure Path, Pathﬁ nder Roleplaying Game, and Pathﬁ nder World Guide are trademarks of Paizo Inc.
 Second Edition
 paizo.com/pathﬁ nder
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669213
+4425370
 
-================================================================================
 PAGE 362
 ================================================================================
 
@@ -2986,4 +4283,3 @@ Pathﬁnder Core Rulebook is crawling with creatures to challenge characters of
 any level.
 paizo.com/pathﬁnder
 Printed in China.
-

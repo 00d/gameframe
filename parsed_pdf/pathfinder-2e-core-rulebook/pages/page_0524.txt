@@ -1,0 +1,113 @@
+POISONED LOCK
+HAZARD 1
+MECHANICAL
+TRAP
+Stealth DC 17 (trained)
+Description A spring-loaded, poisoned spine is hidden near
+the keyhole of a lock. Disabling or breaking the trap does not
+disable or break the lock.
+Disable Thievery DC 17 (trained) on the spring mechanism
+AC 15; Fort +8, Ref +4
+Hardness 6, HP 24 (BT 12); Immunities critical hits, object
+immunities, precision damage
+Spring [reaction] (attack); Trigger A creature tries to unlock or Pick the
+Lock. Effect A spine extends to attack the triggering creature.
+Melee spine +13, Damage 1 piercing plus cladis poison
+Cladis Poison (poison); Saving Throw DC 19 Fortitude; Maximum
+Duration 4 hours; Stage 1 1d6 poison damage and drained 1
+(1 hour); Stage 2 2d6 poison damage and drained 2 (1 hour);
+Stage 3 3d6 poison damage and drained 2 (1 hour)
+SLAMMING DOOR
+HAZARD 1
+MECHANICAL
+TRAP
+Stealth DC 17 (trained)
+Description Pressure-sensitive panels in the floor connect to
+a stone slab hidden in a hallway’s ceiling.
+Disable Thievery DC 15 (trained) on the floor panels before
+the slab falls
+AC 16; Fort +10, Ref +2
+Hardness 5, HP 20 (BT 10); Immunities critical hits, object
+immunities, precision damage
+Slam Shut [reaction] Trigger Pressure is placed on any floor tile. Effect
+The door falls, closing off the hallway. The stone slab deals
+3d8 bludgeoning damage to anyone beneath or adjacent to
+the slab when it drops and pushes them out of its space in a
+random direction. A creature that succeeds at a DC 17 Reflex
+save takes no damage and rolls out of the way in a random
+direction. On a critical success, they can choose the direction.
+Lifting the fallen slab requires a successful DC 25
+Athletics check. Hitting the floor panels triggers the
+trap. The slab uses the same AC and saves as the
+trap, but it has Hardness 12, HP 48 (BT 24).
+SPEAR LAUNCHER
+HAZARD 2
+MECHANICAL
+TRAP
+Stealth DC 20 (trained)
+Description A wall socket loaded with a spear
+connects to a floor tile in one 5-foot square.
+Disable Thievery DC 18 (trained) on the floor
+tile or wall socket
+AC 18; Fort +11, Ref +3
+Hardness 8, HP 32 (BT 16); Immunities critical
+hits, object immunities, precision damage
+Spear [reaction] (attack); Trigger Pressure is
+applied to the floor tile. Effect The
+trap shoots a spear, making an attack
+against the creature or object on the
+floor tile.
+Ranged spear +14, Damage 2d6+6 piercing
+ELECTRIC LATCH RUNE
+HAZARD 3
+ELECTRICITY
+EVOCATION
+MAGICAL
+TRAP
+Stealth DC 20 (trained)
+Description An invisible rune imprinted on a door latch
+releases a powerful electric discharge.
+Disable Thievery DC 20 (expert) to scratch out the rune
+without allowing electricity to flow, or dispel magic (2nd
+level; counteract DC 18) to counteract the rune
+Electrocution [reaction] (arcane, electricity, evocation); Trigger A
+creature grasps the door latch directly or with a tool. Effect
+The trap deals 3d12 electricity damage to the triggering
+creature (DC 22 basic Reflex save).
+SCYTHE BLADES
+HAZARD 4
+MECHANICAL
+TRAP
+Stealth DC 23 (trained)
+Description Two blades, each hidden in a 15-foot-long ceiling
+groove, are both connected to a trip wire.
+Disable Thievery DC 21 (trained) to disable each blade
+AC 21; Fort +12, Ref +8
+Hardness 11, HP 44 (BT 22); Immunities critical hits, object
+immunities, precision damage
+Falling Scythes [reaction] (attack); Trigger The trip wire is pulled or
+severed. Effect Both blades swing down, each one attacking
+all creatures under the ceiling grooves.
+Melee scythe +17 (deadly 1d12), Damage 2d12+4 slashing; no
+multiple attack penalty
+Reset The trap resets after 15 minutes.
+GAME MASTERING
+523
+10
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

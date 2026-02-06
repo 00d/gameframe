@@ -1,0 +1,145 @@
+but not see, what’s going on outside the stone, and you can
+cast spells while in the stone as long as they don’t require line
+of effect beyond the stone.
+Significant physical damage to the stone while you are
+inside it expels you and deals 10d6 damage to you. Passwall
+expels you without dealing damage and ends meld into stone.
+You can Dismiss this spell.
+MENDING
+SPELL 1
+TRANSMUTATION
+Traditions arcane, divine, occult, primal
+Cast 10 minutes (somatic, verbal)
+Range touch; Targets non-magical object of light Bulk or less
+You repair the target item. You restore 5 Hit Points per spell level
+to the target, potentially removing the broken condition if this
+repairs it past the item’s Broken Threshold. You can’t replace lost
+pieces or repair an object that’s been completely destroyed.
+Heightened (2nd) You can target a non-magical object of 1
+Bulk or less.
+Heightened (3rd) You can target a non-magical object of 2
+Bulk or less, or a magical object of 1 Bulk or less.
+MESSAGE
+CANTRIP 1
+AUDITORY
+CANTRIP
+ILLUSION
+LINGUISTIC
+MENTAL
+Traditions arcane, divine, occult
+Cast [one-action] verbal
+Range 120 feet; Targets 1 creature
+Duration see below
+You mouth words quietly, but instead of coming out of your
+mouth, they’re transferred directly to the ears of the target.
+While others can’t hear your words any better than if you
+normally mouthed them, the target can hear your words as
+if they were standing next to you. The target can give a brief
+response as a reaction, or as a free action on their next turn
+if they wish, but they must be able to see you and be within
+range to do so. If they respond, their response is delivered
+directly to your ear, just like the original message.
+Heightened (3rd) The spell’s range increases to 500 feet.
+METEOR SWARM
+SPELL 9
+EVOCATION
+FIRE
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 500 feet; Area 4 40-foot bursts
+Saving Throw basic Reflex
+You call down four meteors that explode in a fiery blast. Each
+meteor deals 6d10 bludgeoning damage to any creatures in
+the 10-foot burst at the center of its area of effect before
+exploding, dealing 14d6 fire damage to any creatures in
+its 40-foot burst. The meteors’ central 10-foot bursts can’t
+overlap, and a creature takes the same amount of fire
+damage no matter how many overlapping explosions it’s
+caught in. The saving throw applies to both the bludgeoning
+and the fire damage.
+Heightened (+1) The bludgeoning damage increases by 1d10,
+and the fire damage increases by 2d6.
+MIND BLANK
+SPELL 8
+UNCOMMON
+ABJURATION
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Duration until the next time you make your daily preparations
+Powerful wards hide a creature from divination magic. The
+target gains a +4 status bonus to saves against mental effects.
+Mind blank attempts to counteract any detection, revelation,
+and scrying effects as if its spell level were 1 higher than its
+actual level. On a success, the divination effect functions
+normally except that it detects nothing about the target and
+its possessions. For instance, detect magic would still detect
+other magic in the area, but not any magic on the target.
+MIND PROBE
+SPELL 5
+UNCOMMON
+DIVINATION
+LINGUISTIC
+MENTAL
+Traditions arcane, occult
+Cast 1 minute (material, somatic, verbal)
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration sustained up to 1 minute
+You cast your thoughts through a creature’s mind, sifting for
+information. You access the target’s memories and knowledge
+unless it fends you off with a Will save.
+Success The target is unaffected.
+Failure Each round of the spell’s duration, you can Sustain the
+Spell to ask a different question and attempt to uncover
+the answer. For each question, the target can attempt
+a Deception check against your spell DC; if the target
+succeeds, you don’t learn the answer, and on a critical
+success, the target gives you a false answer that you believe
+is truthful Once you’ve asked the target a given question,
+asking it again, even with a separate casting of mind probe,
+produces the same result.
+Critical Failure As failure, and the target takes a –4 circumstance
+penalty to Deception checks against your questions.
+MIND READING
+SPELL 3
+UNCOMMON
+DETECTION
+DIVINATION
+MENTAL
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration 1 round or sustained up to 1 minute
+With a cursory mental touch, you attempt to read the target’s
+mind. It must attempt a Will save. The target then becomes
+temporarily immune to your mind reading for 1 hour.
+Critical Success The target perceives vague surface thoughts
+from you when you Cast the Spell.
+Success You find out whether the target’s Intelligence modifier
+is higher than, equal to, or lower than yours.
+Failure You perceive vague surface thoughts from the target when
+you Cast the Spell, and you find out whether its Intelligence
+modifier is higher than, equal to, or lower than yours.
+Critical Failure As failure, and for the duration of the spell, you
+can Sustain the Spell to detect the target’s surface thoughts
+again. The target doesn’t receive any additional saves.
+351
+7
+SPELLS
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

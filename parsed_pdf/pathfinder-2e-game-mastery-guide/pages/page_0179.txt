@@ -1,0 +1,89 @@
+Speed fly 50 feet (alchemical, magical)
+Collision 9d10 (DC 30)
+Sluggish This vehicle must move twice its length for each
+90-degree turn it makes.
+CARRIAGE
+VEHICLE 2
+LARGE
+Price 100 gp
+Space 10 feet long, 10 feet wide, 7 feet high
+Crew 1 pilot; Passengers 2
+Piloting Check Driving Lore (DC 16) or Nature (DC 18 to DC 26,
+depending on pulling creature)
+AC 13; Fort +8
+Hardness 5, HP 40 (BT 20); Immunities critical hits, object
+immunities, precision damage
+Speed the Speed of the slowest pulling creature (pulled by 2
+Large creatures)
+Collision 2d8 (DC 16)
+CART
+VEHICLE 0
+LARGE
+Price 3 gp
+Space 10 feet long, 5 feet wide, 4 feet high
+Crew 1 pilot; Passengers 1
+Piloting Check Driving Lore (DC 14) or Nature (DC 16 to DC 24,
+depending on pulling creature)
+AC 10; Fort +6
+Hardness 5, HP 14 (BT 7); Immunities critical hits, object
+immunities, precision damage
+Speed the Speed of the pulling creature
+(pulled by 1 Large creature)
+Collision 1d10 (DC 14)
+CHARIOT, HEAVY
+VEHICLE 3
+LARGE
+Price 150 gp
+Space 10 feet long, 10 feet wide, 4 feet high
+Crew 1 pilot; Passengers 3
+Piloting Check Driving Lore (DC 18) or Nature (DC
+20 to DC 28, depending on pulling creature)
+AC 14; Fort +9
+Hardness 5, HP 40 (BT 20); Immunities critical hits, object
+immunities, precision damage
+Speed the Speed of the slowest pulling creature (pulled by 2
+Large creatures)
+Collision 2d10 (DC 18)
+CHARIOT, LIGHT
+VEHICLE 0
+LARGE
+Price 10 gp
+Space 5 feet long, 5 feet wide, 4 feet high
+Crew 1 pilot
+Piloting Check Driving Lore (DC 14) or Nature (DC 16 to DC
+24, depending on pulling creature)
+AC 10; Fort +6
+Hardness 5, HP 14 (BT 7); Immunities critical hits, object
+immunities, precision damage
+Speed the Speed of the pulling creature (pulled by 1 Large
+creature)
+Collision 1d12 (DC 14)
+GALLEY
+VEHICLE 10
+GARGANTUAN
+Price 3,000 gp
+Space 130 feet long, 20 feet wide, 25 feet high
+Crew 1 pilot, 20 rowers; Passengers 6
+Piloting Check Sailing Lore (DC 27), Diplomacy (DC 29), or
+Intimidation (DC 29)
+AC 25; Fort +19
+Hardness 15, HP 170 (BT 85); Immunities critical hits, object
+immunities, precision damage; Weaknesses 15 fire until broken
+Speed swim 30 feet (rowed, wind)
+Collision 7d10 (DC 27)
+Maneuverable With a full complement of skilled rowers,
+a rowed galley can turn swiftly, turn in place, and even
+row backwards. Each 90-degree turn made in less than a
+vehicle length costs 5 extra feet of movement. It can row
+backwards no faster than half its speed, and it can’t turn
+while rowing backwards.
+GLIDER
+VEHICLE 0
+UNCOMMON
+LARGE
+Price 15 gp
+Space 5 long, 10 feet wide, 2 feet high
+Crew 1 pilot
+Gamemastery Guide
+178
+178

@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# WYVERN
+# WYVERN
 ================================================================================
 
 
@@ -29,7 +29,7 @@ it to ﬂee or even betray its allies. Only the truly cruel can cow a
 wyvern into servitude for an extended period, as most wyverns
 are so self-interested that they go out of their way to avoid
 helping others.
-WYVERN
+WYVERN
 CREATURE 6
 NE
 LARGE
@@ -80,7 +80,17 @@ general deference to one another.
 PAGE 135
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668987
+4425144
 Bestiary
+134
 Frost Drake
 Frost drakes pose an immense danger in the frozen reaches they call home,
 where they roam far and wide to hunt for prey such as caribou, wolves, small
@@ -102,64 +112,85 @@ from deep royal blue to crisp cyan and sometimes feature sporadic patches of
 violet. Their hides are thinner than most drakes’; when a frost drake is inhaling
 in preparation to launch its signature frozen breath, the monster’s ice-blue blood
 can be seen beneath its scales.
+FROST DRAKE
+CREATURE 7
+CE
+LARGE
+COLD
+DRAGON
+Perception +14; darkvision, scent (imprecise) 30 feet, snow vision
+Languages Draconic
+Skills Acrobatics +15, Athletics +17, Intimidation +14, Stealth +15
+Str +6, Dex +2, Con +4, Int –1, Wis +3, Cha +1
+Snow Vision Snow doesn’t impair a frost drake’s vision; it ignores concealment from
+snowfall.
+AC 25; Fort +17, Ref +15, Will +14
+HP 115; Immunities cold, paralyzed, unconscious; Weaknesses ﬁre 10
+Retaliatory Strike Ǻȓ Trigger A creature within reach of the frost drake’s tail
+successfully damages the frost drake with a Strike. Eﬀect The frost drake attempts
+to Strike with its tail. If the Strike hits, it deals an additional 1d6 damage.
+Speed 20 feet, burrow 20 feet (snow only), ﬂy 50 feet, ice climb 20 feet
+Melee Ȱɵ fangs +17, Damage 2d12+8 piercing plus 1d6 cold
+Melee Ȱɵ tail +17 (reach 10 feet), Damage 2d10+8 bludgeoning
+Draconic Frenzy ʚʖ The frost drake makes
+two gangs Strikes and one tail Strike in
+any order.
+Freezing Mist Breath ʚʖ (arcane, cold,
+evocation) The frost drake spits a ball
+of liquid up to 60 feet that explodes
+into a 20-foot-burst cloud of freezing
+mist. Those in the burst take 8d6 cold
+damage (DC 25 basic Reﬂex save). The mist
+cakes all surfaces in the area with a sheet of
+slippery ice that turns the area into diﬃcult
+terrain for 2d4 rounds. It can’t use Freezing Mist
+Breath again for 1d6 rounds.
+Ice Climb A frost drake can climb on ice as though
+it had the listed climb Speed. It ignores diﬃcult terrain
+and greater diﬃcult terrain from ice and snow and doesn’t
+risk falling when crossing ice.
+Speed Surge Ȱɵ (move) The frost drake moves up to
+twice its Speed. It can do this three times per day.
+DRAKE RESOURCES
+While every adventurer knows
+that dragon hide can be crafted
+into potent armor or weapons,
+drake hide holds no such intrinsic
+value. Nonetheless, drake
+scales and horns are physically
+impressive, and to the uneducated
+buyer, might seem at ﬁrst glance
+to be legitimate. Unscrupulous
+leatherworkers have been known
+to use drake hides to craft and
+sell counterfeit dragonhide
+armor, so potential buyers
+should remain on the
+lookout for scams.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668987
+4425144
 
-================================================================================
-# WATER MEPHIT
-================================================================================
-
-Breath Weapon ʚʖ (arcane, ﬁre) The ﬁre mephit breathes ﬂames in a 15-foot cone
-that deals 2d4 ﬁre and 1d4 persistent ﬁre damage to each creature within the
-area (DC 17 basic Reﬂex save). The ﬁre mephit can’t use Breath Weapon again for
-1d4 rounds.
-Water Mephit
-Water mephits are consummate jokers who are always happy to trade a favor
-for a good laugh. Just as ﬁre mephits are the ones who cleave closest to evil
-without fully crossing over into true villainy, water mephits are the friendliest
-of the mephits and therefore the closest to good. Still, one should take care
-in making assumptions about a water mephit’s benevolence, for no one can
-reliably count on them to keep their inborn need for pranks and trickery at bay
-for long. Water mephits have blue-green skin that shimmers in light like ﬁsh
-scales. Though water mephits’ wings look more like webbed ﬁns than limbs
-capable of ﬂight, they can ﬂap their wings to ﬂy through the air as easily as any
-other mephit. Water mephits prefer to swim, when possible, and they leave the
-water only when they must.
-WATER MEPHIT
-CREATURE 1
-N
-SMALL
-AQUATIC
-ELEMENTAL
-WATER
-Perception +3; darkvision
-Languages Aquan
-Skills Athletics +6, Stealth +6
-Str +1, Dex +3, Con +1, Int –2, Wis
-+0, Cha +0
-AC 16; Fort +7, Ref +11, Will +4
-HP 20, fast healing 2 (while
-underwater); Immunities bleed,
-paralyzed, poison, sleep; Resistances
-acid 3, ﬁre 3
-Speed 20 feet, ﬂy 25 feet, swim 25 feet
-Melee Ȱɵ claw +8 (ﬁnesse), Damage 1d6+1
-slashing
-Arcane Innate Spells DC 17, attack +9; 2nd acid
-arrow
-Breath Weapon ʚʖ (acid, arcane) The water mephit
-breathes acid in a 15-foot cone that deals 2d6 acid
-damage to each creature within the area (DC 17 basic
-Reﬂex save). The water mephit can’t use Breath Weapon
-again for 1d4 rounds.
-Drench Ȱɵ (abjuration, arcane, water) The water mephit
-puts out all ﬁres in a 5-foot emanation. The mephit extinguishes all
-non‑magical ﬁres automatically and attempts to counteract magical ﬁres
-(+7 counteract modiﬁer).
-
-================================================================================
 PAGE 153
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669005
+4425162
 Bestiary
+152
 OTHER ELEMENTALS
 When energies from elemental
 planes mix, unusual elemental life
@@ -181,175 +212,199 @@ water can bring life to those in need on the Material Plane, its waves can pound
 shores and rains can ﬂood cities. Water elementals are similarly difﬁcult to predict.
 Brine Shark
 Brine sharks are deadly elementals that roam the endless oceans of the Plane of Water.
-
-================================================================================
-# WAR PONY
-================================================================================
-
-Gallop ʚʖ As riding pony.
-WAR PONY
-CREATURE 1
+BRINE SHARK
+CREATURE 3
 N
 MEDIUM
-ANIMAL
-Perception +5; low-light vision, scent (imprecise) 30 feet
-Skills Acrobatics +7, Athletics +7
-Str +4, Dex +4, Con +3, Int –4, Wis +2, Cha +0
-AC 16; Fort +8, Ref +7, Will +5
-HP 20
-Buck Ǻȓ DC 16
-Speed 35 feet
-Melee Ȱɵ hoof +7, Damage 1d4+4 bludgeoning
-Gallop ʚʖ As riding pony.
-
-================================================================================
-# WAR HORSE
-================================================================================
-
-Gallop ʚʖ As riding pony.
-WAR HORSE
-CREATURE 2
+AQUATIC
+ELEMENTAL
+WATER
+Perception +8; darkvision
+Skills Athletics +10, Stealth +11, Survival +8
+Str +3, Dex +2, Con +2, Int –4, Wis +1, Cha +0
+AC 19; Fort +9, Ref +11, Will +6
+HP 45; Immunities bleed, paralyzed, poison, sleep; Resistances ﬁre 5
+Speed 15 feet, swim 50 feet
+Melee Ȱɵ jaws +11, Damage 1d12+7 piercing plus Grab
+Deep Plunge Ȱɵ The brine shark dives straight down into the water, moving up to twice its
+swim Speed in a straight vertical line. It can use this ability while grabbing a creature.
+Living Waterfall
+Living waterfalls are humanoid-shaped columns of churning water.
+LIVING WATERFALL
+CREATURE 5
 N
 LARGE
-ANIMAL
-Perception +6; low-light vision, scent (imprecise) 30 feet
-Skills Acrobatics +7, Athletics +11
-Str +5, Dex +3, Con +4, Int –4, Wis +2, Cha –2
-AC 17; Fort +8, Ref +7, Will +6
-HP 36
-Buck Ǻȓ DC 17
-Speed 40 feet
-Melee Ȱɵ hoof +9, Damage 1d6+5 bludgeoning
-Gallop ʚʖ As riding pony.
+AQUATIC
+ELEMENTAL
+WATER
+Perception +10; darkvision
+Languages Aquan
+Skills Athletics +13, Stealth +12
+Str +4, Dex +3, Con +3, Int –2, Wis +1, Cha +0
+Water-Bound When not touching water, the
+living waterfall is slowed 1 and can’t use
+reactions.
+AC 20; Fort +14, Ref +12, Will +10
+HP 90; Immunities bleed, paralyzed,
+poison, sleep; Resistances ﬁre 5
+Vortex (aura, water) 30 feet.
+Water in the area that is in the
+same body of water as the living
+waterfall is diﬃcult terrain for
+Swimming creatures that don’t
+have the water trait.
+Speed 20 feet, swim 60 feet
+Melee Ȱɵ wave +15 (reach 10
+feet), Damage 2d8+7 bludgeoning
+plus Push or Pull 5 feet
+Drench Ȱɵ (abjuration, primal, water)
+The elemental puts out all ﬁres in a
+5-foot emanation. It extinguishes all
+non-magical ﬁres automatically and
+attempts to counteract magical ﬁres (+14
+counteract modiﬁer).
+Quatoid
+Quatoids are peculiar, mysterious elementals
+native to the Plane of Water that resemble four-
+tentacled octopuses with eerily humanoid
+faces on their mantles.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669005
+4425162
 
-================================================================================
 PAGE 211
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669063
+4425220
 Bestiary
+210
 Hydra
 Hydras are multiheaded, foul-tempered serpentine beasts with voracious appetites,
 widely feared for their regeneration abilities.
-
-================================================================================
-# WARG
-================================================================================
-
-
-Bestiary
-WARG LEGENDS
-Wargs are the subject of many
-grim tales and campﬁre stories.
-Frightening accounts of wargs
-gobbling up children whole have a
-disturbing basis in fact, for these
-ravenous creatures have jaws that
-can unhinge like those of a serpent
-to gulp down small prey while the
-victim yet lives.
-Warg
-The warg is an intelligent and malevolent wolf that dwells among goblins,
-hobgoblins, orcs, and other violent humanoids.
-Warg
-Wargs hunt in packs and surround their prey like common wolves, but their
-cunning and penchant for taunting victims makes them easy to distinguish from
-their less-intelligent cousins. But despite their intelligence, wargs have simple
-desires for food and shelter, making them easy for evil humanoids such as orcs
-and hobgoblins to recruit to protect their camps or join them in battle. Most
-wargs are amenable to this arrangement, but if food should run out, wargs are
-more than willing to integrate goblinoid ﬂesh into their diet.
-WARG
-CREATURE 2
-NE
-MEDIUM
+HYDRA
+CREATURE 6
+N
+HUGE
 BEAST
-Perception +8; darkvision, scent (imprecise) 30 feet
-Languages Common, Goblin, Orcish
-Skills Acrobatics +7, Athletics +8, Deception +6, Intimidation +6, Stealth +7, Survival +8
-Str +4, Dex +3, Con +3, Int –1, Wis +2, Cha +2
-AC 17; Fort +11, Ref +9, Will +6
-HP 36
-Avenging Bite Ǻȓ Trigger A creature within reach of the warg’s jaws attacks one of the
-warg’s allies. Eﬀect The warg makes a jaws Strike against the triggering creature.
-Speed 40 feet
-Melee Ȱɵ jaws +11, Damage 1d8+4 piercing plus Grab
-Pack Attack The warg’s Strikes deal 1d4 extra damage to creatures within
-the reach of at least two of the warg’s allies.
-Swallow Whole Ȱɵ (attack); Small, 1d6+2 bludgeoning, Rupture 9
-Winter Wolf
-Winter wolves are related to wargs, but are larger, smarter, and far
-more dangerous. They are capable of exhaling plumes of freezing
-breath and are big enough to easily serve as mounts for orcs and
-hobgoblins—provided the winter wolf is willing, of course. Like
-wargs, winter wolves hunt in packs, but unlike their smaller cousins,
-they have a notable proud streak. When they deign to serve others, they
-reserve this privilege for larger and more dangerous creatures such as
-frost giants, renegade yetis, or even white dragons.
+Perception +17; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +17, Stealth +12 (+15 in water)
+Str +7, Dex +4, Con +5, Int –3, Wis +2, Cha –1
+AC 23; all-around vision; Fort +15, Ref +12, Will +10
+HP (body) 90, hydra regeneration
+HP (head) 15, head regrowth; Immunities area damage; Weaknesses slashing 5
+Attack of Opportunity Ǻȓ
+Head Regrowth A hydra ordinarily has ﬁve heads. A creature can attempt to sever one of
+the hydra’s heads by speciﬁcally targeting it and dealing damage equal to the head’s
+Hit Points. A head that is not completely severed returns to full Hit Points at the end
+of any creature’s turn.
+A hydra can regrow a severed head using Hydra Regeneration. A creature can prevent
+this regrowth by dealing acid or ﬁre damage to the stump, cauterizing it. Single-target
+acid or ﬁre eﬀects need to be targeted at a speciﬁc stump, but eﬀects that deal splash
+damage or aﬀect areas covering the hydra’s whole space cauterize all stumps if they
+deal acid or ﬁre damage. If the attack that severs a head deals any acid or ﬁre damage,
+the stump is cauterized instantly. If all ﬁve heads are cauterized, the hydra dies.
+Hydra Regeneration The hydra has regeneration equal to 3 × the number of heads it has. If
+a hydra’s body is missing any heads and the remaining stumps have not been cauterized,
+the hydra attempts a DC 25 Fortitude save after it regains Hit Points from regeneration.
+On a success, one uncauterized stump regrows two heads; on a critical success, two
+uncauterized stumps regrow into two heads each. The hydra can never grow more
+than double the number of heads it ordinarily has. The hydra’s regeneration only fully
+deactivates if all its heads are severed and all stumps are cauterized, at which point it dies.
+Multiple Opportunities A hydra gains an extra reaction per round for each of its heads
+beyond the ﬁrst, which it can use only to make Attacks of Opportunity. It can’t use
+more than 1 reaction on the same triggering action, even if a creature leaves several
+squares within its reach, and the hydra must use a diﬀerent head for
+each Attack of Opportunity it makes. Whenever one of the
+hydra’s heads is severed, the hydra loses 1
+of its extra reactions per round.
+Speed 25 feet, swim 25 feet
+Melee Ȱɵ fangs +16 (reach 10 feet), Damage
+2d6+7 piercing
+Focused
+Assault
+ʚʖ
+The
+hydra
+attacks a single target with its heads,
+overwhelming its foe with multiple
+attacks and leaving almost nowhere to
+dodge. The hydra Strikes with its fangs.
+On a successful attack, the hydra deals damage from its
+fangs Strike to the target, plus an additional 1d6 damage
+for every head it has beyond the ﬁrst. Even on a failed
+attack, the hydra deals the damage from one fangs Strike
+to the target creature, though it still misses completely on
+a critical failure. This counts toward the hydra’s multiple
+attack penalty as a number of attacks equal to the number of
+heads the hydra has.
+Storm of Jaws ʚʖ The hydra makes a number of Strikes up to
+its number of heads, each against a diﬀerent target. These attacks
+count toward the hydra’s multiple attack penalty, but the multiple attack penalty
+doesn’t increase until after the hydra makes all its attacks.
+VARIANT HYDRAS
+Scholars of bestial lore can
+describe several hydra variations.
+Though rare, hydras with more
+than ﬁve heads live in very
+isolated areas, sometimes guarding
+incredibly powerful artifacts.
+Explorers who have visited colder
+swamps and frozen glaciers tell
+tales of hydras with blue-tinged
+scales that are immune to the
+cold and can exhale clouds of icy
+death. Similar stories describe
+ﬁery hydras that breathe gouts of
+ﬂame and swim in the molten lava
+of active volcanoes.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669063
+4425220
 
-================================================================================
-# WINTER WOLF
-================================================================================
-
-Pack Attack The warg’s Strikes deal 1d4 extra damage to creatures within
-the reach of at least two of the warg’s allies.
-Swallow Whole Ȱɵ (attack); Small, 1d6+2 bludgeoning, Rupture 9
-Winter Wolf
-Winter wolves are related to wargs, but are larger, smarter, and far
-more dangerous. They are capable of exhaling plumes of freezing
-breath and are big enough to easily serve as mounts for orcs and
-hobgoblins—provided the winter wolf is willing, of course. Like
-wargs, winter wolves hunt in packs, but unlike their smaller cousins,
-they have a notable proud streak. When they deign to serve others, they
-reserve this privilege for larger and more dangerous creatures such as
-frost giants, renegade yetis, or even white dragons.
-WINTER WOLF
-CREATURE 5
-NE
-LARGE
-BEAST
-Perception +14; darkvision, scent (imprecise) 30 feet
-Languages Common, Jotun
-Skills Acrobatics +13, Athletics +13, Deception +11, Intimidation +11, Stealth +13 (+16 in
-snow), Survival +12
-Str +6, Dex +4, Con +4, Int +2, Wis +3, Cha +2
-AC 23; Fort +13, Ref +15, Will +10
-HP 70; Immunities cold; Weaknesses ﬁre 5
-Buck Ǻȓ DC 21
-Avenging Bite Ǻȓ As warg.
-Speed 40 feet
-Melee Ȱɵ jaws +15 (cold), Damage 1d10+6 piercing plus 1d6 cold and Knockdown
-Breath Weapon ʚʖ (cold, evocation, primal); The winter wolf breathes a cloud of frost in
-a 15-foot cone that deals 5d8 cold damage (DC 23 basic Reﬂex save). The winter wolf
-can’t use Breath Weapon again for 1d4 rounds.
-Pack Attack The winter wolf’s Strikes deal 1d6 extra damage to creatures within the
-reach of at least two of the winter wolf’s allies.
-
-================================================================================
 PAGE 324
 ================================================================================
 
-ALTERNATE WARSWORNS
-While uniquely terrible, war is not
-the only tragedy that can lead to
-mass deaths. Other forms of mass
-undead, similar to warsworn, can
-sometimes arise from causes such
-as famine or disaster. Flamesworn
-rise from large crowds killed by
-ﬁre, while plagueborn rise when
-entire townships or even cities
-perish to disease.
-Warsworn
-A warsworn is an animate mass of corpses composed of dozens, sometimes
-even hundreds, of victims of battle. They are formed by deities of undeath or
-war or, rarely, spontaneously manifest from the devastation of an especially
-horrendous battle.
-
-================================================================================
-# WARSWORN
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669176
+4425333
+U-Z
+323
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ALTERNATE WARSWORNS
 While uniquely terrible, war is not
 the only tragedy that can lead to
@@ -401,7 +456,7 @@ Animated Weapons (divine, evocation); The warsworn
 assumes control of unattended weapons within
 100 feet, forcing them to levitate around it. The
 warsworn can telekinetically wield these weapons to
-make melee Strikes with a reach of 100 feet.
+make melee Strikes with a reach of 100 feet.
 Energy Drain (divine, necromancy); When a warsworn hits with a corpse wave Strike
 or damages a creature with Trample, the target must succeed at a DC 35 Fortitude save
 or become drained 2 and doomed 1. On a critical
@@ -421,12 +476,30 @@ also held under a pile of scrap
 (DC 37 to Escape).
 Trample ̂ˬ Huge or smaller, corpse
 wave, DC 37
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669176
+4425333
 
-================================================================================
 PAGE 325
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669177
+4425334
 Bestiary
+324
 SACRED STINGERS
 Wasps are upheld as sacred
 among the priesthood of the
@@ -462,11 +535,18 @@ the corpses of their victims.
 Giant Wasp
 Giant wasps are much more dangerous but less common than their smaller kin,
 and—to the relief of those who encounter them—they tend to be solitary.
-
-================================================================================
-# WASP SWARM
-================================================================================
-
+GIANT WASP
+CREATURE 3
+N
+LARGE
+ANIMAL
+Perception +8; darkvision
+Skills Acrobatics +11, Athletics +9
+Str +4, Dex +4, Con +4, Int –5, Wis +1, Cha +1
+AC 19; Fort +9, Ref +11, Will +6
+HP 45
+Speed 20 feet, ﬂy 40 feet
+Melee Ȱɵ stinger +12 (poison), Damage 1d12+4 piercing plus giant wasp venom
 Implant Eggs Ȱɵ The giant wasp lays eggs in an adjacent creature that is paralyzed or
 unconscious, exposing it to the wasp larva disease.
 Giant Wasp Venom (incapacitation, poison) Saving Throw Fortitude DC 19; Maximum
@@ -503,30 +583,40 @@ piercing damage (DC 21 basic Reﬂex save) and is exposed to wasp venom. A succe
 save negates the poison exposure.
 Wasp Venom (poison) Saving Throw Fortitude DC 21; Maximum Duration 6 rounds;
 Stage 1 1d6 poison (1 round); Stage 2 2d6 poison and clumsy 2 (2 rounds)
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669177
+4425334
 
-================================================================================
 PAGE 326
 ================================================================================
 
-WEB LURKER LAIRS
-Whether alone or in a group, web
-lurkers hunt in forests, swamps,
-or scrubby hill lands, constructing
-structures from their webs high
-up in trees or within craggy, high
-canyons, and they surround their
-territory with traps and snares
-constructed of the same webbing
-and natural material.
-Web Lurker
-Web lurkers, known also as ettercaps, are ugly monsters that not only dwell within
-the lairs of spiders and swarms, but actively cultivate and shepherd such vermin.
-
-================================================================================
-# WEB LURKER
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669178
+4425335
+U-Z
+325
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 WEB LURKER LAIRS
 Whether alone or in a group, web
 lurkers hunt in forests, swamps,
@@ -561,7 +651,8 @@ Melee Ȱɵ fangs +11 (poison), Damage 1d8+6 piercing plus web lurker venom
 Melee Ȱɵ claw +11 (agile), Damage 1d8+6 slashing
 Melee Ȱɵ web +11, Eﬀect web trap
 Web Lurker Venom (poison) Saving Throw Fortitude DC 19; Maximum Duration
-10 rounds; Stage 1 1d6 poison and ﬂat-footed (1 round); Stage 2 1d6 poison, ﬂatfooted, and slowed 1 (1 round)
+10 rounds; Stage 1 1d6 poison and ﬂat-footed (1 round); Stage 2 1d6 poison, ﬂat-
+footed, and slowed 1 (1 round)
 Web Trap A creature hit by the web lurker’s web attack is immobilized and stuck to the
 nearest surface until it succeeds at DC 20 Acrobatics check to Escape.
 Web Lurker Traps
@@ -596,61 +687,30 @@ triggering creature.
 Melee noose +13 (deadly d10), Damage 3d6 bludgeoning and the target is grabbed
 and pulled oﬀ the ground (Escape DC 22). The target takes 1d6 bludgeoning damage
 at the end of each of its turns as long as it’s caught in the noose.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669178
+4425335
 
-================================================================================
 PAGE 327
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669179
+4425336
 Bestiary
-WEMMUTH TREASURE
-Wemmuths have little interest
-in using magical items or
-accumulating treasure out of a
-sense of greed, but are smart
-enough to understand that a few
-well-placed trinkets and baubles
-work amazingly well as lures.
-Wemmuth
-Fertilized by large quantities of spilled blood, such as that found on bloodstained
-battleﬁelds or in the war-torn regions surrounding besieged cities, wemmuths
-are vile swaths of vines that draw sustenance from mortal suffering, lapping up
-blood like water. Possessing a rudimentary intelligence and an unquenchable
-thirst for blood, wemmuths lie in wait for most of their lives, growing to
-incredible size in the bloody soil of their grisly homes. Though the vines that
-comprise a wemmuth’s body are scarcely thicker than rope, a single adult
-wemmuth system consists of 6 tons of vines, enough to stretch for 6,000 feet
-if stretched from end to end in a single straight line. Wemmuths never orient
-themselves this way, however, instead preferring to wrap themselves into
-massive mounds approximately 15 feet across and equally thick. Although
-wemmuths are often spotted lazing about, the scent of blood is enough to whip
-one into a violent frenzy. The creature condenses its entire mass into a sphere
-of sharp thorns and lashing vines, resembling a hateful tumbleweed the size of
-an elephant. Wemmuths commonly dig up massive boulders or entire trees from
-the ground and incorporate them into their rolling mass, using these objects to
-bolster their defense against many forms of attack or hurling them at faraway
-foes with terrifying precision.
-Some speculate that wemmuths are a form of diabolical corruption let
-loose upon Golarion by House Thrune of Cheliax, perhaps as a
-scorched earth tactic against their rivals. Inﬂuential nobles from
-Nirmathas and Molthune both point ﬁngers at one another for
-the wemmuth’s creation, Nirmathas citing Molthune’s
-close ties to Infernal Cheliax and Molthune blaming
-the primal magic commonly employed by
-Nirmathas’s many druids and rangers. Several
-Varisian tales describe creatures closely matching
-the wemmuth’s description attempting to
-apprehend a famous folk trickster, while crusaders
-from Mendev adhere to the belief that the wemmuths
-were a blight unleashed upon Golarion by Deskari,
-former demon lord of locusts, before his defeat at the
-hands of mortal heroes.
-
-================================================================================
-# WEMMUTH
-================================================================================
-
-
-Bestiary
+326
 WEMMUTH TREASURE
 Wemmuths have little interest
 in using magical items or
@@ -718,31 +778,40 @@ Thorny Mass Whenever a creature within 10 feet attempts
 a melee attack against a wemmuth or uses Acrobatics to
 Tumble Through its space, that creature takes 1d12+10
 piercing damage.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669179
+4425336
 
-================================================================================
 PAGE 328
 ================================================================================
 
-WENDIGO WORSHIP
-Some humanoids who dwell in
-arctic regions oﬀer tribute to
-wendigos that hunt near their
-villages, treating them as gods
-or spirits of nature that must
-be appeased. They occasionally
-perform rites of cannibalism and
-place fetishes throughout the
-wilderness to mark the
-wendigo’s domain.
-Wendigo
-Wendigos are incarnations of the fears of starvation, loneliness, and fatal exposure
-to cold weather. They haunt the frozen expanses of the world.
-
-================================================================================
-# WENDIGO
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669180
+4425337
+U-Z
+327
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 WENDIGO WORSHIP
 Some humanoids who dwell in
 arctic regions oﬀer tribute to
@@ -820,12 +889,30 @@ It then becomes aﬀected by wind walk and sprints into the sky so fast that its
 away into jagged stumps. As the creature wind walks into the sky, it is replaced by a
 new wendigo over 2d6 minutes. Wish, similar magic, or a 9th-level resurrect ritual can
 return the victim to life. The new wendigo remains even if the victim is resurrected.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669180
+4425337
 
-================================================================================
 PAGE 329
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669181
+4425338
 Bestiary
+328
 BUILDING
 WERECREATURES
 The curse of the werecreature
@@ -852,7 +939,8 @@ like Change Shape, curse of the
 werecreature, and moon frenzy
 work the same.
 Werecreature
-Werecreatures are humanoids doomed to transform into animals and animalhumanoid hybrids under the light of the full moon. These shapechanging creatures
+Werecreatures are humanoids doomed to transform into animals and animal-
+humanoid hybrids under the light of the full moon. These shapechanging creatures
 are the result of an ancient primal curse that they can, in turn, transmit through
 their own bites. Their ability to lurk unseen in the wilds as well as among people,
 combined with the contagiousness of their condition, makes werecreatures a
@@ -875,28 +963,32 @@ Creating Werecreatures
 You can turn an existing, living humanoid into a werecreature by completing the
 following steps. (These changes reﬂect a werecreature in its hybrid form.)
 Increase the creature’s level by 1 and change its statistics as follows.
-• It gains the beast and werecreature traits, and its alignment is usually
+•	 It gains the beast and werecreature traits, and its alignment is usually
 adjusted to match that of its werecreature type.
-• Increase its size by one category if the animal is a larger size than the
-base humanoid.
-• Increase its AC, attack bonuses, DCs, saving throws, and skill modiﬁers by 1.
-• Increase its damage with Strikes and other offensive abilities by 1. If the
+•	 Increase its size by one category if the animal is a larger size than the
+base humanoid.
+•	 Increase its AC, attack bonuses, DCs, saving throws, and skill modiﬁers by 1.
+•	 Increase its damage with Strikes and other offensive abilities by 1. If the
 werecreature is limited in how often it can use an ability (such as a breath
 weapon), increase the damage by 2 instead.
-• Increase its HP by the amount shown on the table. This HP increase is more
+•	 Increase its HP by the amount shown on the table. This HP increase is more
 than typical in order to compensate for the creature’s weakness to silver.
-• The creature gains weakness to silver as shown on the table.
+•	 The creature gains weakness to silver as shown on the table.
 Starting Level
 HP Increase
 Weakness to Silver
 4 or lower
 +25
+5
 5–7
 +35
+7
 8–14
 +50
+10
 15+
 +75
+15
 WERECREATURE AbILITIES
 All werecreatures gain the following abilities, some of which match an ability of
 the animal the werecreature transforms into. You might also need to adjust some
@@ -909,11 +1001,40 @@ Claws The werecreature gains a claw Strike (an agile unarmed attack that deals s
 damage). If it had any agile attacks, the damage dealt by its claws should be roughly
 the same as the damage dealt by those attacks. If it had only non-agile attacks, its
 claws should deal three-quarters that damage.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669181
+4425338
 
-================================================================================
 PAGE 330
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669182
+4425339
+U-Z
+329
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 RETAINING HUMANITY
 Werecreatures are notorious for
 their murderous rampages in the
@@ -924,7 +1045,7 @@ town guard or priest could be
 a murderous werewolf without
 realizing it, for the werecreature’s
 curse leaves the aﬄicted with
-no memory of their nocturnal
+no memory of their nocturnal
 murder sprees.
 Jaws The creature gains a jaws Strike (an unarmed attack that deals piercing damage)
 that inﬂicts its curse of the werecreature. If it had any non-agile attacks, the damage
@@ -964,11 +1085,6 @@ or organized crime rings, and membership requires
 willfully submitting to the wererat’s cursed bite. Wererats look very
 similar to ratfolk when in hybrid form, apart from potential
 differences in size, but ratfolk have no love for these monsters.
-
-================================================================================
-# WERERAT
-================================================================================
-
 WERERAT
 CREATURE 2
 LE
@@ -984,7 +1100,7 @@ Skills Acrobatics +8 Athletics +6 (+8 to Climb or Swim), Deception
 Str +2, Dex +4, Con +2, Int +0, Wis +2, Cha +1
 Items hand crossbow (20 bolts), leather armor, shortsword
 Rat Empathy (divination, primal) The wererat can communicate
-with rodents.
+with rodents.
 AC 19; Fort +6, Ref +10, Will +8
 HP 45; Weaknesses silver 5
 Nimble Dodge Ǻȓ Trigger The wererat is targeted with
@@ -992,12 +1108,30 @@ a melee or ranged attack by an attacker it can see.
 Eﬀect The wererat gains a +2 circumstance bonus to
 AC against the triggering attack.
 Speed 25 feet
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669182
+4425339
 
-================================================================================
 PAGE 331
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669183
+4425340
 Bestiary
+330
 Melee Ȱɵ shortsword +10 (agile, ﬁnesse, versatile S), Damage 1d6+4 piercing
 Melee Ȱɵ claw +10 (agile, ﬁnesse), Damage 1d6+2 slashing
 Melee Ȱɵ jaws +10 (ﬁnesse), Damage 1d8+2 piercing plus curse of the wererat
@@ -1006,32 +1140,7 @@ Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) Human with ﬁ
 for 1d4+2 bludgeoning, or Small rat with Speed 30 feet, climb 10 feet.
 Curse of the Wererat (curse, necromancy, primal); Saving Throw DC 18 Fortitude
 Moon Frenzy (polymorph, primal, transmutation)
-Sneak Attack The wererat deals 1d6 extra precision damage to ﬂat-footed creatures.
-Werewolf
-The curse of the werewolf—known as lycanthropy to many—instills in its carriers the
-hungry bloodlust and predatory instincts of the wolf. Werewolves tend to dwell on the
-fringes of society or in small settlements where, in their humanoid forms, they work
-as laborers, hunters, farmers, or trappers. At night, however, these same villagers
-transform into violent killers and sadistic stalkers who prey on their neighbors.
-Werewolves are the quintessential werecreature, and the ﬁrst that comes to mind
-when most people speak of such beings.
-Although most werewolves hide their curse by adopting
-solitary lifestyles, some retain the pack mentality of true
-wolves. A small group of such werewolves typically
-forms a family-like pack, with the eldest or most
-powerful serving as the leader; new pack mates are
-hand-chosen and inculcated into the family as its
-inﬂuence grows.
-
-================================================================================
-# WEREWOLF
-================================================================================
-
-Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) Human with ﬁst +10
-for 1d4+2 bludgeoning, or Small rat with Speed 30 feet, climb 10 feet.
-Curse of the Wererat (curse, necromancy, primal); Saving Throw DC 18 Fortitude
-Moon Frenzy (polymorph, primal, transmutation)
-Sneak Attack The wererat deals 1d6 extra precision damage to ﬂat-footed creatures.
+Sneak Attack The wererat deals 1d6 extra precision damage to ﬂat-footed creatures.
 Werewolf
 The curse of the werewolf—known as lycanthropy to many—instills in its carriers the
 hungry bloodlust and predatory instincts of the wolf. Werewolves tend to dwell on the
@@ -1056,7 +1165,7 @@ HUMAN
 HUMANOID
 WERECREATURE
 Perception +9; low-light vision, scent (imprecise)
-30 feet
+30 feet
 Languages Common; wolf empathy
 Skills Acrobatics +7, Athletics +9, Survival +10
 Str +4, Dex +2, Con +2, Int –1, Wis +2, Cha +1
@@ -1095,27 +1204,40 @@ surviving, the creature can attempt
 a new saving throw against the
 curse of the werecreature. On a
 success, the creature is cured.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669183
+4425340
 
-================================================================================
 PAGE 332
 ================================================================================
 
-righteous conviction. This indignation can still manifest in violent ways, though,
-as a transformed werebear becomes temporarily blind to its alliances and has
-little control over its bestial temper. As a result, werebears are loners, rarely
-even living together as families longer than necessary. Werebears know that as
-long as they live solitary lives, they can serve as protectors and guardians in
-wilderness regions without the overwhelming fear that, when the moon is full
-and the curse takes hold, they will rage against an innocent bystander or loved
-one. As long as there is nothing around to threaten it or the natural area it
-protects (typically a forest), a werebear in its animal form is generally content
-to forage and sleep away the night.
-
-================================================================================
-# WEREBEAR
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669184
+4425341
+U-Z
+331
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 righteous conviction. This indignation can still manifest in violent ways, though,
 as a transformed werebear becomes temporarily blind to its alliances and has
 little control over its bestial temper. As a result, werebears are loners, rarely
@@ -1191,62 +1313,30 @@ similar invertebrate animals are
 particularly unsettling, though much
 rarer than werecreatures
 of vertebrate animals.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669184
+4425341
 
-================================================================================
 PAGE 333
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669185
+4425342
 Bestiary
-OTHER WIGHTS
-In addition to the wight presented
-here, many other varieties exist.
-For example, the covetous cairn
-wight—ritually created to eternally
-guard its own wealth or that of its
-master—haunts barrows, ossuaries,
-and mausoleums. Unlike other
-wights, cairn wights can channel
-their life-draining touch through
-their melee weapons.
-Wight
-Wights are undead humanoids that, much like wraiths, can drain the life from
-living creatures with but a touch. They arise as a result of necromantic rituals,
-especially violent deaths, or the sheer malevolent will of the deceased.
-As many types of wights exist as types of people from which they might be
-created. Hulking brutes, skittering sneaks, and cunning tinkers all make for
-different wights with different niches to ﬁll. Environment, too, plays a part in
-determining a wight’s special abilities and defenses. Frost wights, for instances,
-can be found in the parts of the world where exposure is a common end.
-Regardless, wights typically haunt burial grounds, catacombs, or other places
-of the dead. But their hunger is targeted toward the living—those individuals
-who remind them of the shackles of mortality and whom they feel compelled
-to “free” to the state of undeath.
-A single wight can wreak a lot of havoc if it is compelled to rise from its tomb.
-Because creatures slain by wights become wights as well, all it takes is a single
-wight and a handful of unlucky graveyard visitors to create a veritable horde
-of these undead. Thus, canny
-priests and adventurers know
-that the best solution to a
-wight problem is swift and
-total eradication. Care
-must be taken, though,
-to destroy wight spawn
-before attempting to destroy
-the parent wight, for spawn without a master
-gain the ability to create spawn of their own.
-Durable and sustained as they are by negative energy,
-wights can last in harsh environments without decaying the
-way some lesser undead do. They might dwell in high mountain
-passes, sealed passageways, or submerged in bogs or lakes for decades
-or even centuries before the passage of an unsuspecting traveler rouses
-them from their rest.
-
-================================================================================
-# WIGHT
-================================================================================
-
-
-Bestiary
+332
 OTHER WIGHTS
 In addition to the wight presented
 here, many other varieties exist.
@@ -1318,11 +1408,40 @@ that killed it. It doesn’t have Drain Life or Wight Spawn and becomes clumsy 2
 long as it is a wight spawn. If the creator of the wight spawn dies, the wight spawn
 becomes a full-ﬂedged, autonomous wight; it regains its free will, gains Drain Life and
 Wight Spawn, and is no longer clumsy.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669185
+4425342
 
-================================================================================
 PAGE 334
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669186
+4425343
+U-Z
+333
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 EYES OF THE DEAD
 The elder goddess Nhimbaloth,
 the so-called "Empty Death," is
@@ -1338,7 +1457,7 @@ eyes, and it is through these
 fear‑devouring creatures that she
 looks upon all worlds from an
 eldritch realm beyond even the
-very concept of death.
+very concept of death.
 Will-o’-Wisp
 Malevolent balls of colored light, will-o’-wisps haunt lonely marshes and forests
 where they lure unsuspecting travelers into danger. Will-o’-wisps can vary the
@@ -1357,60 +1476,8 @@ viewed closely. Will-o’-wisps have no need for mundane nourishment, and in fac
 lack the ability to consume matter of any kind; they ﬁnd all the sustenance they
 need in the terror of nearby creatures. For this reason, they like to work alongside
 undead that produce terror in their victims. Will-o’-wisps are long-lived, if not
-effectively immortal, and they have good memories. A cowed or defeated willo’-wisp can be a good source of lore and information, though acquiring such
-cooperation from such a sinister monster is no easy feat.
-Will-o’-wisps inhabit desolate swamps and forests and are generally active
-at twilight and after dark. They are therefore reluctant to lead victims into
-immediately fatal areas such as deadfalls, but instead prefer hazards where their
-victims suffer over a long time, such as pockets of stale or poisonous air, patches
-of quicksand, and dens of bigger monsters. According to will-o’-wisps, different
-types of fear have subtle differences in ﬂavor. The lurking dread in the pit of the
-stomach that gnaws at those who slowly become aware of the fact that they’re
-lost produces a much different taste than the sudden stark terror of imminent
-death in the face of a towering monster. Because of this, will-o’-wisps try to vary
-the ways in which they induce terror in their prey, to ensure they don’t tire of
-certain ﬂavors of fear.
-
-================================================================================
-# WILL-O’-WISP
-================================================================================
-
-
-EYES OF THE DEAD
-The elder goddess Nhimbaloth,
-the so-called "Empty Death," is
-said by many to be the source
-of all will‑o’‑wisps. Cultists of
-Nhimbaloth claim she has no true
-form, but is merely a presence
-that can be felt by all in danger
-of a pointless and futile death.
-These same cultists maintain that
-all will‑o’‑wisps are Nhimbaloth’s
-eyes, and it is through these
-fear‑devouring creatures that she
-looks upon all worlds from an
-eldritch realm beyond even the
-very concept of death.
-Will-o’-Wisp
-Malevolent balls of colored light, will-o’-wisps haunt lonely marshes and forests
-where they lure unsuspecting travelers into danger. Will-o’-wisps can vary the
-color and illumination they shed, and delight in mimicking bobbing lanterns
-or distant ﬁres to draw lost or disoriented travelers off of safe trails. They can
-extinguish their illumination entirely to become invisible, and they enjoy doing
-so once their victims are wholly lost and have realized that the bobbing light
-in the distance isn’t, in fact, leading them to safety. Even invisible, however, a
-will-o’-wisp rarely ventures far from its target, as it feasts upon the panic and
-dread felt by its victims.
-Beneath its glow, a will-o’-wisp’s body is a spongy ball approximately 1 foot in
-diameter and weighing less than 5 pounds. Although most will-o’-wisps are merely
-translucent, featureless orbs, gaining deﬁnition only in the shifting illumination
-they create, a few have dark mottling that makes them resemble a skull when
-viewed closely. Will-o’-wisps have no need for mundane nourishment, and in fact
-lack the ability to consume matter of any kind; they ﬁnd all the sustenance they
-need in the terror of nearby creatures. For this reason, they like to work alongside
-undead that produce terror in their victims. Will-o’-wisps are long-lived, if not
-effectively immortal, and they have good memories. A cowed or defeated willo’-wisp can be a good source of lore and information, though acquiring such
+effectively immortal, and they have good memories. A cowed or defeated will-
+o’-wisp can be a good source of lore and information, though acquiring such
 cooperation from such a sinister monster is no easy feat.
 Will-o’-wisps inhabit desolate swamps and forests and are generally active
 at twilight and after dark. They are therefore reluctant to lead victims into
@@ -1451,50 +1518,30 @@ Go Dark Ȱɵ (concentrate) The will-o’-wisp extinguishes its glow, becoming in
 It can end this eﬀect with another use of this action. If it uses its shock attack while
 invisible, the arc of electricity lets any observer determine its location, making the
 will-o’-wisp only hidden to all observers until it moves.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669186
+4425343
 
-================================================================================
 PAGE 335
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669187
+4425344
 Bestiary
-WOLF PACKS
-Wolf packs claim and defend large
-swaths of territory, which they
-regularly patrol in search of both
-prey and competitors. It takes a
-pack roughly 10 days to cover
-the entire breadth of its territory,
-which can stretch for miles in any
-direction but usually adheres to
-natural terrain. Wolves keep claim
-over their territories by marking
-trees with their scent and howling
-to keep other packs away. If these
-warnings prove insuﬃcient to
-drive oﬀ potential competitors, the
-pack attacks the intruders directly.
-Wolf
-Wolves roam forests, hills, and other wild lands, where they hunt in packs to
-beleaguer and surround their prey before going in for the kill. Like most predatory
-animals, wolves prefer to attack the weakest or most vulnerable prey they can ﬁnd.
-Wolf
-Wolves live and hunt in packs, which, contrary to popular belief, are not led by
-the strongest in the group, but typically consist of a mated pair, their pups, and
-juvenile offspring from previous mating seasons. Offspring generally leave their
-parents’ pack upon reaching maturity, at which point they seek out mates of their
-own to go form their own packs elsewhere.
-Humanoids are not traditionally viewed as prey animals by wolves, but
-extraordinary circumstances can lead these animals to attack people, especially in
-winter months and other situations where traditional prey (deer and elk, mainly)
-is scarce. Some beings, such as powerful vampires, can call upon wolves to aid
-them in combat.
-
-================================================================================
-# WOLF
-================================================================================
-
-
-Bestiary
+334
 WOLF PACKS
 Wolf packs claim and defend large
 swaths of territory, which they
@@ -1547,90 +1594,53 @@ their massive size and proportionately large hunting
 grounds and appetites. Orcs are fond of using dire
 wolves as mounts, ﬁnding their vicious tempers
 perfect for hunting and warfare.
+DIRE WOLF
+CREATURE 3
+N
+LARGE
+ANIMAL
+Perception +10; low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +8, Athletics +12, Stealth +8, Survival +10
+Str +5, Dex +3, Con +4, Int –4, Wis +3, Cha –2
+AC 18; Fort +11, Ref +8, Will +8
+HP 50
+Buck Ǻȓ DC 20
+Speed 35 feet
+Melee Ȱɵ jaws +12 (reach 10 feet), Damage 1d10+5 piercing
+plus Knockdown or Grab
+Pack Attack The dire wolf’s Strikes deal 1d6 extra damage
+to creatures within reach of at least two of the
+wolf’s allies.
+Worry Ȱɵ (attack); Requirements
+The dire wolf has a creature
+grabbed with its jaws. Eﬀect
+The dire wolf ﬁercely shakes the
+grabbed creature with its teeth, dealing
+1d10+2 damage (DC 20 basic Fortitude save).
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669187
+4425344
 
-================================================================================
-# WRAITH
-================================================================================
-
-
-DREAD WRAITHS
-Dread wraiths are much more
-powerful variants of the standard
-wraith. A dread wraith is a
-9th‑level creature that can drain
-the life from creatures via its
-mere presence. Often, a dread
-wraith commands a small group
-of normal wraiths, and in life may
-have been a bloodthirsty warlord
-or brutal general.
-Wraith
-Wraiths are malevolent undead who drain life and shun light. Their shadowy,
-incorporeal forms are dotted with burning eyes that reﬂect their hatred for the
-living, and shadowy claws are weapon enough to steal the vitality from their
-enemies. A wraith may be created by foul necromancy, but more often they are
-the result of a hermitic murderer or mutilator who even in death could not give up
-their wicked ways. Further complicating the matter is the fact that wraiths multiply
-by consuming and transforming the living into more of their foul kind—meaning a
-handful of wraiths left unchecked can easily turn into a horde of darkness.
-Wraiths weigh nothing and are unharmed by most physical attacks. They haunt
-any place where they can feed on the living, though their vulnerability to sunlight
-conﬁnes them to the shadowy places of the world—places where they can blend
-in seamlessly with their dark surroundings before silently engulﬁng their prey.
-Wraiths may form packs with others of their kind in places where death
-and mayhem are commonplace—countrysides ravaged by war, metropolitan
-underworlds run by criminal overlords, or sites of ﬁendish cultic rituals. In these
-places, the living do well to tread with sunrods and powerful clerics in tow. Ruins,
-sewers, and abandoned buildings provide sanctuary for wraiths during the day, as
-the creatures hunt exclusively at night or in dark places. Wraiths are smart enough
-to take advantage of their incorporeality in combat, so they keep to tortuous
-caverns or structures with hallways and avoid open areas.
-As they’re formed purely of anti-life from the Negative Energy Plane, wraiths
-pervade that unholy realm. Within nations and civilizations ruled by the undead,
-wraiths have places of power as assassins and spies. They’re among the ruling class in
-Geb, but have greater numbers in Ustalav, where packs of wraiths roam graveyards
-and misty trails, consuming the populations of entire villages. In other parts of
-the world, wraiths tend not to wander and limit their activity to smaller environs,
-typically just the site of their chosen haunting and its immediate surroundings.
-WRAITH
-CREATURE 6
-LE
-MEDIUM
-INCORPOREAL
-UNDEAD
-WRAITH
-Perception +14; darkvision, lifesense 60 feet
-Languages Common, Necril
-Skills Acrobatics +14, Intimidation +15, Stealth +14
-Str –5, Dex +4, Con +0, Int +2, Wis +2, Cha +5
-Lifesense (divination, divine) Wraiths sense the vital essence of living and undead
-creatures within the listed range.
-AC 24; Fort +8, Ref +14, Will +14; +1 status to all saves vs. positive
-HP 80, negative healing; Immunities death eﬀects, disease, paralyzed,
-poison, precision, unconscious; Resistances all 5 (except force, ghost
-touch, or positive; double resistance vs. non-magical)
-Sunlight Powerlessness A wraith caught in sunlight is stunned 2 and
-clumsy 2.
-Attack of Opportunity Ǻȓ
-Speed ﬂy 40 feet
-Melee Ȱɵ spectral hand +17 (ﬁnesse), Damage 2d8+5 negative plus drain life
-Drain Life (divine, necromancy) When the wraith damages a living
-creature with its spectral hand Strike, the wraith gains 5 temporary
-Hit Points and the creature must succeed at a DC 23 Fortitude save
-or become drained 1. Further damage dealt by the wraith increases
-the amount of drain by 1 on a failed save to a maximum of drained 4.
-Wraith Spawn (divine, necromancy) A living humanoid slain by a wraith’s
-spectral hand Strike rises as a wraith spawn after 1d4 rounds. This wraith
-spawn is under the command of the wraith that killed it. It doesn’t have drain life or
-wraith spawn and becomes clumsy 2 for as long as it is a wraith spawn. If the creator
-of the wraith spawn dies, the wraith spawn becomes a full-ﬂedged, autonomous
-wraith; it regains its free will, gains Wraith Spawn, and is no longer clumsy.
-
-================================================================================
 PAGE 337
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669189
+4425346
 Bestiary
+336
 XULGATH TREASURE
 Xulgaths are relatively primitive,
 using tools and weapons of stone
@@ -1643,7 +1653,7 @@ An advanced tribe of xulgaths
 might be able to craft low-level
 magical talismans, such as a
 potency crystal or a
-returning clasp.
+returning clasp.
 Xulgath
 Reptilian humanoids who live in the uppermost reaches of the Darklands, xulgaths
 (known as troglodytes to many surface-dwelling folk) often attack intruders in
@@ -1669,7 +1679,7 @@ day, paying homage and offering live sacriﬁces to terrible creatures from
 the Abyss. Occasionally, a xulgath shaman can call forth and bind a lesser
 demon to help serve the group, but a shaman who delves too deep into
 occultism might summon a more powerful ﬁend that either tears the
-xulgaths to pieces or enslaves them.
+xulgaths to pieces or enslaves them.
 Xulgath Warrior
 Xulgath warriors strike with fury and eager cruelty, always ready for
 the next ﬁght. The taking of prizes from battle—including weapons and
@@ -1677,3 +1687,38 @@ items stolen from defeated foes along with grislier trophies harvested
 from fallen victims’ ﬂesh—is a popular pursuit among these vicious
 reptiles, and those whose armor and scales are most adorned are
 awarded the greatest respect (and perhaps fear) from their kin.
+XULGATH WARRIOR
+CREATURE 1
+CE
+MEDIUM
+HUMANOID
+XULGATH
+Perception +6; darkvision
+Languages Draconic, Undercommon
+Skills Athletics +7, Stealth +5
+Str +4, Dex +2, Con +3, Int –1, Wis +1, Cha +0
+Items club, javelin (3)
+AC 16; Fort +8, Ref +7, Will +4
+HP 21
+Stench (aura, olfactory) 30 feet. A creature that enters the area
+must attempt a DC 16 Fortitude save. On a failure, the creature is
+sickened 1, and on a critical failure, the creature also takes a –5-foot
+status penalty to its Speeds for 1 round. While within the aura,
+the creature takes a –2 circumstance penalty to saves to recover
+from the sickened condition. A creature that succeeds at its save
+is temporarily immune to all xulgaths’ stenches for 1 minute.
+Speed 25 feet
+Melee Ȱɵ club +9, Damage 1d6+4 bludgeoning
+Melee Ȱɵ jaws +9, Damage 1d6+4 piercing
+Melee Ȱɵ claw +9 (agile), Damage 1d4+4 slashing
+Ranged Ȱɵ club +7 (thrown 10 feet), Damage 1d6+4 bludgeoning
+Ranged Ȱɵ javelin +7 (thrown 30 feet), Damage 1d6+4 piercing
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669189
+4425346

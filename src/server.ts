@@ -1,5 +1,4 @@
 import express from 'express';
-import { marked } from 'marked';
 import fs from 'fs';
 import path from 'path';
 
@@ -8,7 +7,6 @@ const PORT = 3300;
 
 // Resolve content roots once at startup (dist/ is one level below project root)
 const EXTRACTED_ROOT = path.resolve(__dirname, '../extracted');
-const RULES_ROOT = path.resolve(__dirname, '../rules');
 
 app.use(express.static(path.resolve(__dirname, '../public')));
 
@@ -111,12 +109,7 @@ async function getFilesAsync(
 }
 
 async function buildFileTree(): Promise<FileTreeItem[]> {
-  const tree = await getFilesAsync(EXTRACTED_ROOT, EXTRACTED_ROOT, '', '.txt');
-  const rulesChildren = await getFilesAsync(RULES_ROOT, RULES_ROOT, 'rules', '.md');
-  if (rulesChildren.length > 0) {
-    tree.push({ name: 'Rules (Curated)', type: 'directory', children: rulesChildren });
-  }
-  return tree;
+  return getFilesAsync(EXTRACTED_ROOT, EXTRACTED_ROOT, '', '.txt');
 }
 
 async function getCachedFileTree(): Promise<FileTreeItem[]> {
@@ -139,7 +132,7 @@ async function getCachedFileTree(): Promise<FileTreeItem[]> {
   return fileTreePromise;
 }
 
-/** Serve file tree: extracted/ .txt files + rules/ .md files */
+/** Serve file tree: extracted/ .txt files. */
 app.get('/api/files', async (_req, res) => {
   try {
     const tree = await getCachedFileTree();
@@ -160,18 +153,6 @@ function escapeHtml(text: string): string {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#039;');
-}
-
-/** Strip dangerous HTML from marked() output: script blocks, event handlers, javascript: URLs */
-function sanitizeHtml(html: string): string {
-  // Remove <script>...</script> blocks (case-insensitive, including attributes)
-  let result = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '');
-  // Remove on* event-handler attributes
-  result = result.replace(/\bon\w+\s*=\s*("(?:[^"\\]|\\.)*"|'(?:[^'\\]|\\.)*'|[^\s>]+)/gi, '');
-  // Strip javascript: and vbscript: URLs in href/src/action attributes
-  result = result.replace(/(href|src|action)\s*=\s*"(javascript|vbscript)\s*:/gi, '$1="');
-  result = result.replace(/(href|src|action)\s*=\s*'(javascript|vbscript)\s*:/gi, "$1='");
-  return result;
 }
 
 /** Wrap inline markup: **bold**, *italic*, `code` */
@@ -522,6 +503,14 @@ function renderTokens(tokens: Token[]): string {
   let inOrderedList = false;
   let prevBlankCount = 0;
 
+  const formatPageLabel = (pageRaw: string): string => {
+    const pageNum = parseInt(pageRaw, 10);
+    if (Number.isFinite(pageNum) && pageNum === 0) {
+      return 'Front Matter';
+    }
+    return `Page ${pageRaw}`;
+  };
+
   for (let i = 0; i < tokens.length; i++) {
     const token = tokens[i];
 
@@ -543,7 +532,7 @@ function renderTokens(tokens: Token[]): string {
     switch (token.type) {
       case 'page-marker':
         if (inStatBlockDiv) { inStatBlockDiv = false; parts.push('</div>'); }
-        parts.push(`<div id="page-${token.content}" class="page-marker">Page ${token.content}</div>`);
+        parts.push(`<div id="page-${token.content}" class="page-marker">${formatPageLabel(token.content)}</div>`);
         break;
 
       case 'header': {
@@ -679,12 +668,7 @@ function textToHtml(text: string): string {
 // Content API endpoints
 // ---------------------------------------------------------------------------
 
-/** Render markdown content safely */
-function renderMarkdown(content: string): string {
-  return sanitizeHtml(marked.parse(content) as string);
-}
-
-type ContentKind = 'txt' | 'md';
+type ContentKind = 'txt';
 type RenderCacheEntry = { mtimeMs: number; html: string };
 const renderedContentCache = new Map<string, RenderCacheEntry>();
 const PAGE_CHUNK_SIZE_DEFAULT = 12;
@@ -706,7 +690,7 @@ async function renderCached(fullPath: string, kind: ContentKind): Promise<string
   }
 
   const content = await fs.promises.readFile(fullPath, 'utf-8');
-  const html = kind === 'txt' ? textToHtml(content) : renderMarkdown(content);
+  const html = textToHtml(content);
   renderedContentCache.set(cacheKey, { mtimeMs: stat.mtimeMs, html });
   return html;
 }
@@ -715,6 +699,7 @@ function parsePagedText(content: string): { orderedPages: number[]; pageText: Ma
   const pageText = new Map<number, string>();
   const orderedPages: number[] = [];
   let currentPage: number | null = null;
+  const prePageLines: string[] = [];
 
   for (const rawLine of content.split('\n')) {
     const trimmed = rawLine.trim();
@@ -727,11 +712,22 @@ function parsePagedText(content: string): { orderedPages: number[]; pageText: Ma
       }
       continue;
     }
-    if (currentPage === null) continue;
     if (/^={10,}$/.test(trimmed)) continue;
+
+    if (currentPage === null) {
+      prePageLines.push(rawLine);
+      continue;
+    }
 
     const previous = pageText.get(currentPage) ?? '';
     pageText.set(currentPage, previous ? `${previous}\n${rawLine}` : rawLine);
+  }
+
+  // Preserve extracted text that appears before the first PAGE marker as synthetic page 0.
+  const prePageBody = prePageLines.join('\n').trim();
+  if (prePageBody) {
+    orderedPages.unshift(0);
+    pageText.set(0, prePageBody);
   }
 
   return { orderedPages, pageText };
@@ -854,10 +850,7 @@ async function collectFiles(dir: string, basePath: string, ext: string, kind: Co
 }
 
 async function buildSearchIndex(): Promise<void> {
-  const files = [
-    ...(await collectFiles(EXTRACTED_ROOT, '', '.txt', 'txt')),
-    ...(await collectFiles(RULES_ROOT, 'rules', '.md', 'md'))
-  ];
+  const files = await collectFiles(EXTRACTED_ROOT, '', '.txt', 'txt');
 
   const nextDocs: SearchDocument[] = [];
   const nextTokenMap = new Map<string, Set<number>>();
@@ -884,7 +877,7 @@ async function buildSearchIndex(): Promise<void> {
         text: trimmed,
         lower,
         lineNumber: idx + 1,
-        page: file.kind === 'txt' ? currentPage : null
+        page: currentPage ?? 0
       });
 
       for (const token of new Set(tokenizeForSearch(lower))) {
@@ -948,56 +941,15 @@ function buildSnippet(doc: SearchDocument, idx: number): SearchSnippet {
   };
 }
 
-/** Serve content - supports both .txt (extracted) and .md (curated) files */
+/** Serve content - supports extracted .txt files. */
 app.get('/api/content/:path(*)', async (req, res) => {
   const reqPath = req.params.path;
-
-  // Explicit rules/ prefix → serve from RULES_ROOT as markdown
-  if (reqPath.startsWith('rules/')) {
-    const rulesRelative = reqPath.slice('rules/'.length);
-    const mdPath = safePath(RULES_ROOT, rulesRelative);
-    if (!mdPath || !mdPath.endsWith('.md')) {
-      res.status(404).json({ error: 'File not found' });
-      return;
-    }
-    try {
-      const html = await renderCached(mdPath, 'md');
-      res.setHeader('Content-Type', 'text/html; charset=utf-8');
-      res.send(html);
-    } catch (err) {
-      const e = err as NodeJS.ErrnoException;
-      if (e.code === 'ENOENT') {
-        res.status(404).json({ error: 'File not found' });
-        return;
-      }
-      res.status(500).json({ error: 'Failed to read file' });
-    }
-    return;
-  }
 
   // Security: canonicalize path and ensure it stays within allowed roots
   const extractedPath = safePath(EXTRACTED_ROOT, reqPath);
   if (extractedPath && extractedPath.endsWith('.txt')) {
     try {
       const html = await renderCached(extractedPath, 'txt');
-      res.setHeader('Content-Type', 'text/html; charset=utf-8');
-      res.send(html);
-    } catch (err) {
-      const e = err as NodeJS.ErrnoException;
-      if (e.code === 'ENOENT') {
-        res.status(404).json({ error: 'File not found' });
-        return;
-      }
-      res.status(500).json({ error: 'Failed to read file' });
-    }
-    return;
-  }
-
-  // Legacy fallback: .txt→.md in rules directory
-  const mdPath = safePath(RULES_ROOT, reqPath.replace(/\.txt$/, '.md'));
-  if (mdPath && mdPath.endsWith('.md')) {
-    try {
-      const html = await renderCached(mdPath, 'md');
       res.setHeader('Content-Type', 'text/html; charset=utf-8');
       res.send(html);
     } catch (err) {

@@ -1,0 +1,115 @@
+indicates the weapon category for the siege weapon. The
+crew leader rolls an attack roll against the target. Any
+bonuses or penalties the crew leader is taking apply to the
+attack roll. See the sidebar above for more on how attack
+abilities work with portable siege weapons.
+BULK
+A portable siege weapon has a Bulk entry. This is
+primarily used when someone is carrying the portable
+siege weapon around. When it’s being used by a crew,
+this Bulk is distributed among them as they see fit, and
+it’s usually not worth tracking the Bulk unless they’re
+already heavily loaded. If characters try to have more
+than one of them carry the portable siege weapon when
+it’s not being used (dragging it around a dungeon, for
+example), this is cumbersome, and they’re encumbered
+due to the challenge of constantly coordinating their
+movement.
+Siege Weapon Statistics
+A siege weapon uses the following stat block format.
+An individual siege weapon might omit some of these
+sections, especially a portable siege weapon.
+SIEGE WEAPON NAME
+ITEM [LEVEL]
+RARITY
+SIZE
+MOUNTED OR PORTABLE
+OTHER TRAITS
+Price This entry lists the siege weapon’s Price; Ammunition
+If the siege weapon requires special ammunition, the
+ammunition’s name appears here, along with the Price and
+Bulk of each piece.
+Usage This entry shows whether the siege weapon is mounted
+or held. The number of hands required for a held siege
+weapon reflects how many the entire crew needs to use to
+operate the weapon; Bulk A portable siege weapon has Bulk;
+Space A mounted siege weapon has this entry to indicate
+its dimensions, not including any creatures crewing it.
+Crew The number of creatures needed to operate the siege
+weapon is listed here. If additional creatures can assist,
+there’s a second number to indicate the maximum number
+that’s practical. For instance, “4 to 8” indicates the weapon
+can’t be operated by fewer than four creatures, and that no
+more than eight creatures total can crew the weapon at a
+time; Proficiency This entry shows the proficiency required
+to use your class DC when Launching a mounted weapon
+(see the Launch action) or the proficiency used for your
+attack roll with a portable siege weapon.
+AC The siege weapon’s AC. This section appears only if the siege
+weapon can normally be attacked and is more typical of
+mounted siege weapons; Saving Throws The siege weapon’s
+saves, which typically include only Fortitude and Reflex.
+Hardness The siege weapon’s hardness; HP The siege weapon’s
+Hit Points, with its Broken Threshold in parentheses;
+Immunities The siege weapon’s immunities; Weaknesses
+The siege weapon’s weaknesses, if any; Resistances The
+siege weapon’s resistances, if any.
+Speed This is the maximum Speed you can move the mounted
+siege weapon using the Move Siege Weapon activity.
+The description of the siege weapon.
+Aim The entry for Aim shows the distance a creature can move
+the aim by taking this activity and the minimum distance
+away from the siege weapon the aim can be placed.
+Load This entry shows how many actions the Load activity
+takes and how many times this must be done to finish
+Loading the weapon.
+Launch This gives the specifics of the Launch action, including
+the traits, damage, size and shape of the area, and default DC.
+Siege Weapons
+BALLISTA
+ITEM 5
+UNCOMMON
+LARGE
+MOUNTED
+Price 320 gp; Ammunition ballista bolt (5 sp, 1 Bulk)
+Usage mounted; Space 10 feet long, 5 feet wide, 4 feet tall
+Crew 2; Proficiency martial
+AC 17; Fort +12, Ref +11
+Hardness 10; HP 40 (BT 20); Immunities object immunities
+Speed 20 feet (pulled or pushed)
+Resembling a massive crossbow mounted on a tripod, but with
+a pair of arms for torsion instead of a single prod, a ballista
+flings massive bolts. Also referred to as a scorpion, this
+weapon requires fewer crew members than the larger heavy
+ballista and can be Aimed and Loaded much more quickly.
+Aim [one-action] 35 feet, minimum distance 25 feet
+Load [two-actions] (manipulate) 2 times
+Launch [one-action] (attack, manipulate, range increment 120 feet)
+4d12 piercing, single target, DC 19 Reflex
+BATTERING RAM
+ITEM 5+
+UNCOMMON
+LARGE
+PORTABLE
+Usage portable, held in 12 hands; Bulk 20
+Crew 6; Proficiency martial
+Simple but powerful, a battering ram is a full tree stripped of
+limbs with one end clad in iron, often shaped like a ram’s head.
+Large handles are affixed to the sides so it can be hefted and
+carried by a crew.
+SIEGE WEAPONS VS. NORMAL WEAPONS
+Many of the benefits that apply to standard weapons—
+daggers, bows, battleaxes, and the like—don’t work
+on siege weapons. They’re simply too different in form
+and function. The GM might allow using them in certain
+circumstances, but this is fairly rare.
+Character abilities that affect their attacks might work
+with portable siege weapons. For example, a battering
+ram might get the benefit of a character’s bonuses that
+apply to attacks with two-handed weapons. The GM can
+determine what’s reasonable and what’s not. Because
+siege weapons require special actions to operate, a
+character can’t use their special actions with them. Sorry,
+no Attacks of Opportunity with a battering ram!
+74
+74

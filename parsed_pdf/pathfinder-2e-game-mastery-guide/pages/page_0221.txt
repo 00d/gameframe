@@ -1,0 +1,73 @@
+Gamemastery Guide
+220
+220
+HEALERS
+The world is a dangerous place. Thankfully, there are those who devote their lives
+to easing the pain and suffering of others.
+APOTHECARY
+Surrounded by bottles and bins of crushed herbs, curative minerals, and potent
+extracts, the apothecary skillfully combines materials into unguents and medicines.
+For encounters involving making medicine or alchemical contests, the apothecary
+is a 3rd-level challenge.
+APOTHECARY
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +5
+Languages Common
+Skills Crafting +5 (+8 for alchemy and medication), Medicine +10, Nature +8
+Str +0, Dex +1, Con +1, Int +3, Wis +3, Cha +1
+Items lesser acid flask (2), dagger, minor elixir of life (2), healer’s tools, leather
+apron (functions as padded armor), mortar and pestle
+Medical Wisdom The apothecary can identify the effect of any alchemical
+composition or medical ingredient using only their senses. This typically takes 1
+minute.
+AC 14; Fort +8, Ref +3, Will +5; +1 circumstance to all saves vs. poisons
+HP 9; Resistances poison 2
+Speed 25 feet
+Melee  stone pestle +4, Damage 1d6 bludgeoning
+Melee  fist +5 (agile, nonlethal), Damage 1d4 bludgeoning
+Ranged  acid flask +5 (range increment 20 feet, splash), Damage 1 acid plus
+1d6 persistent acid and 1 splash acid
+PHYSICIAN
+The art of medicine is a blend of the intellectual and the practical, concerned
+with how diseases work and how to prevent them. The physician can be found
+consulting well-thumbed tomes while meticulously examining patients to better
+understand their condition, before determining the most effective treatment. For
+medical matters, the physician is a 4th-level challenge.
+PHYSICIAN
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6 (+8 to notice ailments)
+Languages Common
+Skills Diplomacy +8, Medicine +12, Society +10
+Str –1, Dex +1, Con +1, Int +4, Wis +2, Cha +2
+Items minor elixirs of life (2), healer’s tools, medical textbook
+Bedside Manner A physician has a +2 circumstance bonus to Diplomacy checks to Make
+an Impression on or make a Request of a diseased, poisoned, or wounded creature.
+Doctor’s Hand When the physician rolls a critical failure on a check to Treat Disease, Treat
+Poison, or Treat Wounds, they get a failure instead.
+AC 13; Fort +9, Ref +3, Will +8
+HP 9
+Speed 25 feet
+Melee  fist +5 (agile, nonlethal), Damage 1d4–1 bludgeoning
+Ranged  medical textbook +5 (nonlethal, thrown 10 feet), Damage 1d4–1 bludgeoning
+SURGEON
+The surgeon specializes in the physical alteration of the body to prevent the spread
+of disease, removing necrotic and decaying flesh to help the whole to survive. Few
+MEDICAL SERVICE PRICES
+The physician and surgeon are
+masters of Medicine; the apothecary
+and plague doctor are experts.
+Plague doctors charge five times
+this rate, and surgeons 10 times.
+Identify Affliction: 1 sp.
+Treat Wounds: 2 sp.
+Treat Disease: 1 gp.
+First Aid or Treating a Poison: 1 sp.
+PHYSICIAN

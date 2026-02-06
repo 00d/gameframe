@@ -1,0 +1,81 @@
+5
+NPC Gallery
+211
+211
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+AC 20; Fort +9, Ref +12, Will +15
+HP 70
+Speed 25 feet
+Melee [one-action] shortsword +12 (agile, finesse, versatile S), Damage 1d6+5 piercing
+Melee [one-action] dagger +12 (agile, finesse, versatile S), Damage 1d4+5 piercing
+Ranged [one-action] dagger +12 (agile, thrown 10 feet, versatile S), Damage 1d4+2 piercing
+Quick Rummage [one-action] The fence always has a few items close at hand. The fence Interacts
+to draw a weapon or item that takes a single action to activate, and then Strikes with
+the weapon or Activates the Item.
+Scoundrel’s Feint When the fence successfully Feints, their target is flat-footed against
+the fence’s attacks until the end of the fence’s next turn. On a critical success, the target
+is flat-footed against all attacks until the end of the fence’s next turn.
+Sneak Attack The fence deals an extra 2d6 precision damage to flat-footed creatures.
+ASSASSIN
+Assassins commit murder, either for pay or due to their belief in a cause, such as
+a religion or a political movement. Some assassins work alone and choose their
+own victims. Others are members of assassins’ guilds, organizations that accept
+contracts to kill in return for money, favors, or both.
+ASSASSIN
+CREATURE 8
+NE
+MEDIUM
+HUMAN
+HUMANOID
+Perception +16
+Languages Common
+Skills Acrobatics +17, Athletics +13, Deception +12, Diplomacy +10, Intimidation
++10, Medicine +14, Society +12, Stealth +19, Survival +12, Thievery +15,
+Underworld Lore +14
+Str +3, Dex +5, Con +2, Int +2, Wis +2, Cha +0
+Items +1 striking composite shortbow (20 arrows), lesser darkvision elixir, giant
+centipede venom (3), invisibility potion, leather armor, +1 rapier, simple injury
+poison (8 doses, 2d4 poison damage), sleep poison (2)
+Swift Sneak The assassin can move their full Speed when Sneaking.
+AC 26; Fort +12, Ref +19, Will +14
+HP 130
+Deny Advantage The assassin isn’t flat-footed to creatures of
+8th level or lower that are hidden, undetected, flanking, or
+using surprise attack.
+Nimble Dodge  Trigger The assassin is targeted with a
+melee or ranged attack by an attacker they can see;
+Effect The assassin gains a +2 circumstance bonus
+to AC against the triggering attack.
+Speed 25 feet
+Melee [one-action] rapier +18 (deadly 1d8, disarm, finesse,
+magical), Damage 1d6+8 piercing
+Ranged [one-action] composite shortbow +20 (deadly 2d10,
+magical, propulsive, range increment 60 feet,
+reload 0), Damage 2d6+4 piercing
+Poison Weapon [one-action] (manipulate) Requirements The assassin is wielding
+a piercing or slashing weapon and has a free hand; Effect The
+assassin applies a poison to the weapon.
+Quick Draw [one-action] The assassin Interacts to draw a weapon, then Strikes with
+that weapon.
+Sneak Attack The assassin deals an extra 2d6 precision damage to flat-footed
+creatures.
+Surprise Attack On the first round of combat, creatures that haven’t acted yet are flat-
+footed to the assassin.
+PROTECTION MONEY
+Criminal organizations often find it
+easier to demand protection money
+from locals than go to the trouble
+of stealing it. “Protection” includes
+an implicit assumption that those
+who pay up are safe from those
+criminals, and some also promise
+retribution against other criminals.
+FENCE

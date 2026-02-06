@@ -1,0 +1,23 @@
+{
+  "generated_at_utc": "2026-02-06T18:30:27.086821+00:00",
+  "source_pdf": "Dungeon_Slimes_Pf2e.pdf",
+  "book_slug": "dungeon-slimes-pf2e",
+  "total_pages": 2,
+  "pages_with_text": 2,
+  "pages": [
+    {
+      "page": 1,
+      "chars": 2991,
+      "words": 534,
+      "has_text": true,
+      "sha1": "8f675807693057e87621d77d784ae8806398633b"
+    },
+    {
+      "page": 2,
+      "chars": 2931,
+      "words": 528,
+      "has_text": true,
+      "sha1": "b61293df34aa32baa75b2f7abd3eb0fda2ec5e68"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+5
+NPC Gallery
+223
+223
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+Skills Athletics +5, Farming Lore +4, Nature +4, Survival +4
+Str +3, Dex +1, Con +3, Int +0, Wis +2, Cha +0
+Items apple (4), leather armor, pitchfork
+AC 14; Fort +7, Ref +5, Will +4
+HP 20
+Speed 25 feet
+Melee  pitchfork +6 (reach 10 feet), Damage 1d6+3 piercing
+Ranged  apple +5 (agile, nonlethal, thrown 20 feet), Damage 1d4+3 bludgeoning
+Pitch Bale  Requirements The farmer’s last action was a successful pitchfork Strike;
+Effect The farmer moves the creature they hit with their pitchfork up to 5 feet, and the
+target falls prone. The target can attempt a DC 13 Reflex save to avoid falling prone, and
+avoids being moved altogether on a critical success.
+MINER
+Miners explore deep underground in search of minerals and rare
+materials, taking numerous precautions to keep themselves safe.
+MINER
+CREATURE 0
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Acrobatics +3, Athletics +6, Mining Lore +4, Survival +4
+Str +2, Dex +1, Con +3, Int +0, Wis +2, Cha +0
+Items hammer, lantern, miner’s harness (functions as leather armor), pick, piton (5)
+AC 14; Fort +7, Ref +5, Will +4
+HP 20
+Speed 25 feet
+Melee  pick +6 (fatal 1d10), Damage 1d6+2 piercing
+Piton Pin  (attack) Requirements The miner has their hammer in hand; Effect The miner
+Interacts to draw a piton, then hammers it into a creature to pin them in place, attempting
+an Athletics check against the target’s Reflex DC. On a hit, the target is immobilized until
+it removes the piton with a successful DC 10 Athletics check made as an Interact action.
+GRAVEDIGGER
+An often-overlooked group of laborers, gravediggers have a reputation for being
+as quiet and grim as their workplace. They are commonly strong and tough
+from their long hours of backbreaking labor, and they tend to have a unique
+perspective on life and death.
+GRAVEDIGGER
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Athletics +7, Graveyard Lore +4, Religion +4, Stealth +4
+Str +4, Dex +1, Con +3, Int +0, Wis +2, Cha +0
+Items bull’s-eye lantern (2 oils), gravedigger’s garb (functions as leather armor), religious
+symbol of Pharasma, shovel
+AC 15; Fort +8, Ref +4, Will +7
+HP 22; Resistances negative 2
+Speed 25 feet
+Melee  shovel +9, Damage 1d4+4 bludgeoning
+Light in the Dark  (concentrate, divine, manipulate) Requirements The gravedigger
+holds a bull’s-eye lantern in one hand and their religious symbol in the other, and the
+lantern contains oil; Effect The gravedigger recites a brief chant to ignite their lantern
+with positive energy. Each undead creature in a 15-foot line takes 3d6 positive damage
+(DC 14 basic Fortitude save). This action uses all remaining oil in the bull’s-eye lantern.
+FORCED LABOR
+Many creatures and societies still
+practice forced labor, whether
+through full enslavement or
+indebted labor to pay a society for
+their crimes. The dockhand, farmer,
+miner, and servant could also be
+forced laborers. Forced laborers
+could become allies or at least
+informants to PCs who free them.
+DOCKHAND

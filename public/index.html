@@ -611,7 +611,12 @@
     }
 
     function isPagedExtractedFile(filePath) {
-      return filePath.endsWith('.txt') && !filePath.startsWith('rules/');
+      return filePath.endsWith('.txt');
+    }
+
+    function formatPageLabel(page) {
+      if (page === null || page === undefined) return '';
+      return Number(page) === 0 ? 'Front Matter' : 'Page ' + page;
     }
 
     function clearPagedSession() {
@@ -701,7 +706,7 @@
       };
       activePagedSession = session;
 
-      const initialStart = (targetPage !== null && targetPage !== undefined) ? Math.max(1, targetPage - 2) : null;
+      const initialStart = (targetPage !== null && targetPage !== undefined) ? Math.max(0, targetPage - 2) : null;
       const initialEnd = (targetPage !== null && targetPage !== undefined) ? targetPage + 9 : null;
       await fetchPageChunk(session, initialStart, initialEnd);
       if (activePagedSession !== session || requestToken !== loadRequestToken) return;
@@ -875,9 +880,8 @@
           const pathEl = document.createElement('div');
           pathEl.className = 'text-xs';
           pathEl.style.color = '#8b949e';
-          const pageInfo = (result.bestPage !== null && result.bestPage !== undefined)
-            ? ' • Page ' + result.bestPage
-            : '';
+          const pageInfoLabel = formatPageLabel(result.bestPage);
+          const pageInfo = pageInfoLabel ? ' • ' + pageInfoLabel : '';
           pathEl.textContent = result.path + pageInfo;
           card.appendChild(pathEl);
 

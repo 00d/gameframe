@@ -1,0 +1,96 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668919
+4425076
+Bestiary
+66
+COCKATRICE TREASURE
+Cockatrice lairs sometimes include
+discarded gear from past victims
+or smooth, pretty stones disgorged
+from the creature’s craw. Gem
+workers especially prize precious
+stones that have been polished to
+perfection in a cockatrice’s crop,
+and may pay a high price for these
+so-called "cockatrice rocks." Soft
+materials suitable for nesting, such
+as cloth and leather, rarely survive
+a cockatrice’s attentions, but metal
+goods are often left in ﬁne working
+order, since cockatrices seem to
+have little interest in anything
+shiny they can’t ﬁt in their gullet.
+Cockatrice
+Ugly and aggressive, the dread cockatrice stalks garbage pits and hillside dumps in
+search of prey that it can turn to stone with its petrifying beak and subsequently
+consume piece by broken piece. Cockatrices resemble gaunt and sickly roosters
+with bat wings and serpentine tails, and they rarely grow more than 2 feet tall
+and twice as long. Their absentminded clucking gives smart prey ample warning
+of their presence, and when angered cockatrices let out a shrill crow like that
+of a rooster. Their peck releases a magical toxin that causes ﬂesh to quickly
+calcify, and any creature pecked repeatedly by an irritable cockatrice eventually
+transforms into a stone statue of itself.
+The ﬁrst cockatrice is rumored to have hatched from a rooster’s egg incubated
+on a dung hill by a toad. Whether or not the rumor is true, the cockatrice’s
+monstrous appearance certainly doesn’t contradict its strange and ﬁlthy origin
+story, and these creatures are more than capable of propagating on their own.
+Cockatrices are remarkably fecund and gather in ﬂocks of up to a dozen
+members. Each ﬂock contains only a few females. The males—which differ in
+appearance from the females by having warty wattles and gnarled combs—
+often ﬁght with each other, with lower-ranking males eventually driven away
+to ﬁnd their own lairs or compete among other ﬂocks. Most creatures who run
+afoul of a solitary cockatrice do so with one of these surly outcasts.
+Cockatrice lairs are often littered with fragments of statuary from past
+victims—although these are as likely to be remnants of frogs, lizards, and insects
+as people. Curiously, weasels and ferrets, who inﬁltrate cockatrice lairs to steal
+their eggs, are immune to the creatures’ petrifying bites. For unknown reasons,
+cockatrices are both terriﬁed of and enraged by conventional roosters, and they
+are equally likely to ﬂee or attack when confronted by one.
+Particularly brave (or foolhardy) individuals sometimes keep cockatrices as pets
+or guard animals. In their natural habitat among plains, forests, and sewers near
+humanoid settlements, cockatrices are content to live off vermin or scraps of waste,
+but their greatest pleasure is consuming warm meals of freshly petriﬁed ﬂesh.
+COCKATRICE
+CREATURE 3
+N
+SMALL
+BEAST
+Perception +8; darkvision
+Skills Acrobatics +11
+Str –2, Dex +4, Con +1, Int –3, Wis +1, Cha –1
+AC 19; Fort +8, Ref +11, Will +6
+HP 45; Immunities calciﬁcation
+Speed 20 feet, ﬂy 40 feet
+Melee Ȱɵ beak +13 (ﬁnesse, magical), Damage 1d8–2 piercing
+plus calciﬁcation
+Calciﬁcation (incapacitation, primal, transmutation)
+A peck from a cockatrice hardens the ﬂesh
+of the creature struck. The target must
+succeed at a DC 20 Fortitude save or
+become slowed 1 (or slowed 2 on a
+critical failure). Further failed saves
+against calciﬁcation increase the slowed
+condition. Once a creature’s actions
+are reduced to 0 by calciﬁcation, that
+creature becomes petriﬁed.
+Every 24 hours after it was petriﬁed,
+the victim can attempt a DC 20 Fortitude
+save to recover. On a success, it becomes ﬂesh again, but is slowed 1 for the next
+24 hours. On a critical success, the creature recovers and isn’t slowed. On a failure,
+the creature remains petriﬁed, but can try again in 24 hours. On a critical failure,
+the petriﬁcation is permanent, and the creature can’t attempt any more saves.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668919
+4425076

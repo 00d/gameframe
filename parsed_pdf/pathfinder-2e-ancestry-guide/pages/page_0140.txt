@@ -1,0 +1,219 @@
+139
+Hampering: A weapon with the hampering trait
+is designed to be shaken, cast outward, or whipped
+about to control space on
+the battlefield. You can use
+an Interact action to thrash the
+weapon in a square within the weapon’s
+reach. That square becomes difficult terrain
+until you attack with the weapon, move, or
+would otherwise stop intentionally thrashing it.
+Kobold: Kobolds craft and use these weapons.
+Modular: The weapon has multiple configurations
+that you can switch between using an Interact action.
+Typically, switching between the configurations of a
+modular weapon allows it to deal different types of
+damage (listed in the trait, such as “modular B, P, or
+S”), though it’s possible for a modular weapon’s
+description to list more complicated configurations.
+Resonant: This weapon can channel energy
+damage. You gain the Conduct Energy free action
+while wielding a resonant weapon.
+CONDUCT ENERGY [free-action]
+ENERGY
+Requirements Your last action or spell this turn had the acid,
+cold, electricity, fire, or sonic trait.
+You channel energy into your weapon. The weapon deals 1
+additional damage per weapon damage die until the start of
+your next turn. This damage type matches the trait of the
+triggering action or spell. If your triggering action or spell had
+multiple eligible traits, you select one of those traits.
+ANCESTRAL RUNES
+The following runes are popular among some of the
+ancestries found in the Inner Sea region. Soaring armor
+is common among flying ancestries like sprites, strix,
+and tengu.
+CONDUCTING
+RUNE 7
+EVOCATION
+MAGICAL
+Price 300 gp
+Usage etched onto a weapon
+A conducting weapon can channel energy through
+it. The weapon gains the resonant weapon
+trait, except that when you Conduct Energy,
+the weapon deals an additional 1d8
+damage of the selected type instead of 1
+additional damage per die; if the weapon
+already had the resonant weapon trait, it
+deals 1d8 damage plus 1 damage per die
+instead. On a critical hit, the weapon
+deals 1d8 persistent damage of the
+same type.
+SOARING
+RUNE 14
+ABJURATION
+MAGICAL
+Price 3,750 gp
+Usage etched onto armor
+A set of soaring armor helps you fly faster and protects you
+and nearby allies from falling. While wearing soaring armor,
+you gain a +10-foot item bonus to your fly Speed, if you have
+one. As normal, if your fly Speed is based on your land Speed
+and you already have an item bonus to your land Speed, these
+bonuses aren’t cumulative.
+Activate [reaction] command; Trigger You or a creature within
+60 feet of you is falling; Effect You cast feather fall on the
+triggering creature.
+TABLE 1–1: MELEE WEAPONS
+Martial Weapons
+Price
+Damage
+Bulk Hands
+Group
+Weapon Traits
+Adze
+1 gp
+1d10 S
+2
+2
+Axe
+forceful, grippli, sweep
+Adze, hand
+5 sp
+1d4 S
+L
+1
+Axe
+agile, forceful, grippli, sweep, thrown 10 ft.
+Rungu
+4 sp
+1d6 B
+L
+1
+Club
+grippli, shove, thrown 30 ft.
+Uncommon Martial Weapons
+Price
+Damage
+Bulk Hands
+Group
+Weapon Traits
+Buugeng
+4 gp
+1d4 S
+1
+1
+Sword
+agile, conrasu, sweep, twin
+Fangwire
+4 gp
+1d4 S
+L
+1
+Brawling agile, backstabber, deadly 1d8, finesse,
+
+
+
+
+
+
+grapple, kobold
+Wish blade
+5 gp
+1d6 S
+1
+1
+Sword
+disarm, geniekin, resonant, two-hand d10
+Wish knife
+2 gp
+1d4 P
+L
+1
+Knife
+agile, disarm, finesse, geniekin,
+
+
+
+
+
+
+resonant, versatile P
+Uncommon Advanced Weapons Price
+Damage
+Bulk Hands
+Group
+Weapon Traits
+Tricky pick
+10 gp
+1d6 modular
+1
+1
+Pick
+backstabber, fatal d10, kobold, modular
+
+
+
+
+
+
+(B, P, or S)
+Whip claw
+5 gp
+1d6 S
+1
+2
+Flail
+catfolk, finesse, hampering, reach
+TABLE 1–2: RANGED WEAPONS
+Uncommon Martial Weapons
+Price
+Damage
+Range Reload
+Bulk Hands Group Weapon Traits
+Thunder sling
+5 gp
+1d6 P
+50 ft.
+1
+L
+1
+Sling agile, propulsive, tengu
+Uncommon Advanced Weapons Price
+Damage
+Range Reload
+Bulk Hands Group Weapon Traits
+Taw launcher
+10 gp 1d10 modular 100 ft.
+1
+1
+2
+Bow
+deadly 1d10, modular
+
+
+
+
+
+
+
+
+(B, P, or S)
+10 wooden taws
+1 sp
+ANCESTRY
+GUIDE
+EXPANDED
+ANCESTRIES
+AND
+HERITAGES
+NEW
+ANCESTRIES
+AND
+HERITAGES
+ANCESTRAL
+GEAR
+GLOSSARY
+AND INDEX
+Wish Knife

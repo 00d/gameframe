@@ -1,0 +1,54 @@
+RUN OVER [three-actions]
+MOVE
+RECKLESS
+Requirements You are piloting a vehicle.
+You try to run over creatures with your vehicle, possibly also
+ramming one larger creature or object. If you maintain control of
+your vehicle, the vehicle moves up to twice its Speed in a straight
+line at the vehicle’s current heading. You attempt to run over
+any creatures in your path two sizes smaller than the vehicle or
+smaller, and you can attempt to ram one target creature or object
+in your path one size smaller than the vehicle or larger.
+Each creature in your path, including a rammed target, takes
+the vehicle’s collision damage (basic Reflex save at vehicle’s
+collision DC). If the rammed target is a vehicle, its pilot can
+attempt a piloting check in place of this Reflex save, with the
+same results. If the target of your ram takes damage, you and
+your vehicle each take collision damage (no save) and your
+movement ends.
+STOP [one-action]
+MANIPULATE
+Requirements You are piloting a vehicle in motion.
+You bring the vehicle to a stop.
+TAKE CONTROL [one-action]
+MANIPULATE
+Requirements You are aboard the vehicle and adjacent to
+its controls.
+You grab the reins, the wheel, or some other mechanism to
+control the vehicle. Attempt a piloting check; on a success, you
+become the vehicle’s pilot, or regain control of the vehicle if it
+was uncontrolled. Some vehicles have complicated controls that
+cause this action to become a multi-action activity.
+RECKLESS PILOTING
+Actions that have the reckless trait push the pilot and the
+vehicle beyond the normal parameters for safe operation,
+and the pilot risks losing control of the vehicle. When
+performing a reckless action, the pilot must first attempt
+an appropriate piloting check to keep control of the
+vehicle, with the following effects. Resolve this piloting
+check before resolving the action itself.
+Success The action occurs as described.
+Failure The vehicle moves its Speed in a straight line along its
+most recent heading, drifting up to 45 degrees at the GM’s
+discretion, and becomes uncontrolled.
+UNCONTROLLED VEHICLES
+Some situations can cause a pilot to lose control of their
+vehicle. Most commonly, this is due to a failed piloting
+check for a reckless action, but it can also occur if a round
+passes without a pilot using a move action to control the
+vehicle or Stopping the vehicle. A vehicle can also become
+uncontrolled if the pilot becomes unable to act during
+a move action to control the vehicle. For example, if a
+Gamemastery Guide
+176
+176

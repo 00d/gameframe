@@ -1,0 +1,126 @@
+the weapon’s normal damage but has a +0 Strength modifier.
+The weapon’s abilities that automatically trigger on a hit or
+critical hit still function, but the weapon can’t be activated or
+benefit from any of your abilities while dancing.
+Each round, when the weapon is finished using its actions,
+attempt a DC 6 flat check. On a failure, the activation ends and
+the weapon falls to the ground. You can’t activate the item
+again for 10 minutes.
+DISRUPTING
+RUNE 5+
+MAGICAL
+ NECROMANCY
+Usage etched onto a melee weapon
+A disrupting weapon pulses with positive energy, dealing an
+extra 1d6 positive damage to undead. On a critical hit, the
+undead is also enfeebled 1 until the end of your next turn.
+Type disrupting; Level 5; Price 150 gp
+Type greater disrupting; Level 14 (uncommon), Price 4,300 gp
+Increase the extra damage to 2d6. On a critical hit, instead
+of being enfeebled 1, the undead creature must attempt a
+DC 34 Fortitude save with the following effects. This is an
+incapacitation effect.
+Critical Success It’s enfeebled 1 until the end of your next turn.
+Success It’s enfeebled 2 until the end of your next turn.
+Failure It’s enfeebled 3 until the end of your next turn.
+Critical Failure It’s destroyed.
+FLAMING
+RUNE 8+
+CONJURATION
+ FIRE
+ MAGICAL
+Usage etched onto a weapon
+This weapon is empowered by flickering flame. The weapon
+deals an additional 1d6 fire damage on a successful Strike,
+plus 1d10 persistent fire damage on a critical hit.
+Type flaming; Level 8; Price 500 gp
+Type greater flaming; Level 15; Price 6,500 gp
+Increase the persistent damage on a critical hit to 2d10. Fire
+damage dealt by this weapon (including the persistent fire
+damage) ignores the target’s fire resistance.
+FROST
+RUNE 8+
+COLD
+ CONJURATION
+ MAGICAL
+Usage etched onto a weapon
+This weapon is empowered with freezing ice. It deals an
+additional 1d6 cold damage on a successful Strike. On a critical
+hit, the target is also slowed 1 until the end of your next turn
+unless it succeeds at a DC 24 Fortitude save.
+Type frost; Level 8; Price 500 gp
+Type greater frost; Level 15; Price 6,500 gp
+The save DC is 34. Cold damage dealt by this weapon ignores
+the target’s cold resistance.
+GHOST TOUCH
+RUNE 4
+MAGICAL
+ TRANSMUTATION
+Price 75 gp
+Usage etched onto a melee weapon
+The weapon can harm creatures without physical form. A
+ghost touch weapon is particularly effective against incorporeal
+creatures, which almost always have a specific weakness to
+ghost touch weapons. Incorporeal creatures can touch, hold,
+and wield ghost touch weapons (unlike most physical objects).
+GRIEVOUS
+RUNE 9
+ENCHANTMENT
+ MAGICAL
+Price 700 gp
+Usage etched onto a weapon
+When your attack roll with this weapon is a critical hit and
+gains the critical specialization effect, you gain an additional
+benefit depending on the weapon group.
+Axe You can damage a third creature, with the same restrictions.
+Bow The Athletics check to pull the missile free is DC 20.
+Brawling The target takes a –4 circumstance penalty to its save.
+Club You can knock the target up to 15 feet away.
+Dart The base persistent bleed damage increases to 2d6.
+Flail You move the target 5 feet. You can’t move it away from
+you, but you can move it in another direction of your choice.
+Hammer You can also knock the target 5 feet away from you.
+Knife The target takes a –5-foot status penalty to its Speed
+while it has the persistent bleed damage.
+Pick The extra damage from the critical specialization effect
+increases to 4 per weapon damage die.
+Polearm You can move the target up to 10 feet.
+Shield You can knock the target up to 10 feet away.
+Sling The target also takes a –10-foot status penalty to its Speed
+for 1 round if it fails the save.
+Spear The enfeebled condition lasts for 2 rounds.
+Sword The target is flat-footed until the end of your next turn.
+HOLY
+RUNE 11
+EVOCATION
+ GOOD
+ MAGICAL
+Price 1,400 gp
+Usage etched onto a weapon without an unholy rune
+Holy weapons command powerful celestial energy. A weapon
+with this rune deals an extra 1d6 good damage against evil
+targets. If you are evil, you are enfeebled 2 while carrying or
+wielding this weapon.
+Activate [reaction] command; Frequency once per day; Trigger
+You critically succeed at an attack roll against an evil creature
+with the weapon; Effect You regain HP equal to double the evil
+creature’s level. This is a good, positive, healing effect.
+Craft Requirements You are good.
+KEEN
+RUNE 13
+UNCOMMON
+ MAGICAL
+ TRANSMUTATION
+Price 3,000 gp
+Usage etched onto a piercing or slashing melee weapon
+The edges of a keen weapon are preternaturally sharp. Attacks
+with this weapon are a critical hit on a 19 on the die as long as
+that result is a success. This property has no effect on a 19 if
+the result would be a failure.
+RETURNING
+RUNE 3
+EVOCATION
+ MAGICAL
+Price 55 gp
+Core Rulebook
+584

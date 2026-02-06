@@ -1,0 +1,16 @@
+{
+  "id": "bestiary2",
+  "book_dir": "Bestiary2",
+  "book_name": "Bestiary2",
+  "display_name": "Bestiary 2",
+  "source_pdf": "PF2e_Bestiary2-cropped.pdf",
+  "paths": {
+    "extracted_dir": "/Users/nose/work/cp/0/model_b/extracted/Bestiary2",
+    "source_pdf": "/Users/nose/work/cp/0/model_b/pdf/PF2e_Bestiary2-cropped.pdf",
+    "parsed_dir": "/Users/nose/work/cp/0/model_b/parsed_pdf/pf2e-bestiary2-cropped"
+  },
+  "metrics": {
+    "missing_text_pages": 0,
+    "avg_page_jaccard": 0.7589
+  }
+}

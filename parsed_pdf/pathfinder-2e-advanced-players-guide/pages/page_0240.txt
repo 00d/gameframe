@@ -1,0 +1,159 @@
+NUDGE FATE
+CANTRIP 1
+UNCOMMON
+CANTRIP
+DIVINATION
+HEX
+WITCH
+Cast [one-action] verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration sustained up to 1 minute
+You read slightly into the future and give fate a tiny push
+to achieve the result you desire. Once during the duration,
+when the target fails an attack roll, skill check, or saving
+throw and a +1 status bonus would turn a critical failure
+into a failure, or failure into a success, you grant the target
+a +1 status bonus to the check retroactively, changing the
+outcome appropriately. The spell then ends, and the target is
+temporarily immune for 1 minute.
+If you cast nudge fate while a previous casting of this hex is
+still in effect, the previous effect ends.
+PERSONAL BLIZZARD
+FOCUS 3
+UNCOMMON
+CONJURATION
+HEX
+WITCH
+Cast [one-action] somatic
+Range 30 feet; Targets 1 creature
+Saving Throw Fortitude; Duration sustained up to 1 minute
+You summon an isolated blizzard of obscuring, scouring ice to
+follow your target. The target attempts a Fortitude save.
+Critical Success The target is unaffected.
+Success The target takes 1d6 cold damage, and the spell ends.
+Failure The target takes 1d6 cold damage and 1d6 persistent
+cold damage. (The persistent damage automatically ends
+when the spell ends.) It is concealed to other creatures, and
+other creatures are concealed to it.
+Critical Failure As failure, but both the cold damage and the
+persistent cold damage increase to 2d6.
+Heightened (+1) The cold damage and persistent cold damage
+increase by 1 (2 on a critical failure).
+PHASE FAMILIAR
+FOCUS 1
+UNCOMMON
+ABJURATION
+HEX
+WITCH
+Cast [reaction] somatic
+Trigger Your familiar would take damage.
+Range 60 feet; Targets your familiar
+You draw upon your patron’s power to momentarily shift your
+familiar from its solid, physical form into an ephemeral version
+of itself shaped of mist. Your familiar gains resistance 5 to all
+damage and is immune to precision damage. These apply only
+against the triggering damage.
+Heightened (+1) Increase the resistance by 2.
+RESTORATIVE MOMENT
+FOCUS 5
+UNCOMMON
+HEX
+NECROMANCY
+WITCH
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+You manipulate the threads of time around the target, giving
+them some of the benefits of a day’s passage. The target
+decreases the values of any doomed and drained conditions
+it has by 1 and can immediately attempt one saving throw
+against each affliction it has with a stage length of 1 day or
+less. The target is then temporarily immune for 1 day.
+SHROUD OF NIGHT
+CANTRIP 1
+UNCOMMON
+CANTRIP
+DARKNESS
+EVOCATION
+HEX
+WITCH
+Cast [one-action] somatic
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration sustained up to 1 minute
+Drawing your hand in a sweeping gesture, you shroud the
+target in a veil of night. The target’s eyes are blanketed in
+darkness. If you cast this hex on a willing ally (for instance,
+one with light blindness), the ally can choose which result it
+gets without rolling. Regardless of the outcome, the target is
+then temporarily immune for 1 minute.
+Success The target is unaffected.
+Failure The target is shrouded in murky darkness. Unless the
+target has darkvision, other creatures are concealed to it.
+STOKE THE HEART
+CANTRIP 1
+UNCOMMON
+CANTRIP
+EMOTION
+ENCHANTMENT
+HEX
+WITCH
+Cast [one-action] verbal
+Range 30 feet; Targets 1 creature
+Duration sustained up to 1 minute
+Intense fervor fills the target creature, empowering their blows.
+The target gains a +2 status bonus to damage rolls. Once this
+spell ends, the target becomes temporarily immune for 1 minute.
+Heightened (+2) The status bonus to damage increases by 1.
+VEIL OF DREAMS
+FOCUS 1
+UNCOMMON
+ENCHANTMENT
+HEX
+MENTAL
+WITCH
+Cast [one-action] somatic
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration sustained up to 1 minute
+You draw the target into a drowsy state, causing daydreams
+and sluggishness. The target must attempt a Will save.
+Critical Success The target is unaffected.
+Success The target takes a –1 status penalty to Perception,
+attack rolls, and Will saves. This penalty increases to –2 for
+Will saves against sleep effects.
+Failure As success, and any time the target uses a
+concentrate action, it must succeed at a DC 5 flat check or
+the action is disrupted.
+WILDING WORD
+CANTRIP 1
+UNCOMMON
+CANTRIP
+ENCHANTMENT
+HEX
+WITCH
+Cast [one-action] verbal
+Range 30 feet; Targets 1 animal, fungus, or plant
+Saving Throw Will; Duration sustained up to 1 minute
+With a few words, you convince a wild creature you are a
+kindred spirit, making it reluctant to harm you. The target
+must attempt a Will save. Regardless of the outcome, the
+target is then temporarily immune for 1 minute.
+Critical Success The target is unaffected.
+Success When the target attempts an attack roll or skill check
+that would harm you, it takes a –2 status penalty to its roll.
+Failure As success, but the target also becomes sickened 1
+each time it damages you.
+Critical Failure As success, but the target also becomes
+sickened 2 each time it damages you.
+Spells
+5
+239
+239
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& Index

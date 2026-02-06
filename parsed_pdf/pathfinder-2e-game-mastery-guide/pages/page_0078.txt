@@ -1,0 +1,105 @@
+SIMPLE HAZARDS
+A simple hazard uses its reaction when triggered.
+SHRIEKER
+HAZARD –1
+ENVIRONMENTAL
+FUNGUS
+Stealth DC 12
+Description This human-sized purple mushroom emits a
+piercing shriek when disturbed.
+Disable DC 18 Survival to carefully approach and cut the
+mushroom’s air sac without triggering the shrieker
+AC 12; Fort +8, Ref +2
+HP 9; Immunities critical hits, object immunities, precision damage
+Shriek [reaction] Trigger A creature or light source approaches within
+10 feet of the shrieker or the shrieker takes damage; Effect
+The shrieker emits a deafening screech that deals 1d6 sonic
+damage to creatures within 30 feet (DC 16 basic Fortitude
+save; creatures that critically fail this saving throw are
+deafened for 1 minute).
+Reset 1 minute
+SNOWFALL
+HAZARD 0
+ENVIRONMENTAL
+Stealth DC 16 (trained)
+Description Loose snow and ice have built up on a high surface,
+such as a tree branch or a rooftop. Its grip on the surface is
+tenuous, and it is likely to fall if the surface moves.
+Disable DC 19 Survival (trained) to safely dislodge the snow,
+or deal any amount of fire damage to destroy the hazard
+without triggering it
+AC 16; Fort +10, Ref +8
+HP 8; Immunities critical hits, object immunities, precision damage
+Snowdrop [reaction] Trigger A creature moves beneath where the
+snowfall is resting; Effect Ice and snow fall on the triggering
+creature, dealing 2d6+3 bludgeoning damage (DC 18 basic
+Reflex save) and soaking their clothing. Until they change
+into fresh clothing or spend at least an hour in an area of
+normal or higher temperature, they treat cold environments
+as one step colder (for example, mild cold as severe cold).
+HAMPERING WEB
+HAZARD 1
+ENVIRONMENTAL
+Stealth DC 18 (expert)
+Description Semitransparent sheets of
+webbing span the entryway, ready to
+capture small insects or hamper larger
+creatures that pass through.
+Disable DC 17 Survival (trained) to dislodge it
+AC 19; Fort +10, Ref +11
+HP 26 (BT 13); Immunities critical hits, object
+immunities, precision damage
+Ensnare [reaction] Trigger A creature that isn’t a
+spider walks into the web; Effect The web
+wraps around the triggering creature’s body,
+clinging to their limbs. The triggering creature
+must succeed at a DC 20 Reflex save or take a –10-foot
+circumstance penalty to all their Speeds until they Escape
+the web (DC 20). On a critical failure, the webbing also clings
+to the creature’s face, making them sickened 1, and they can’t
+attempt to reduce this condition until they Escape the web.
+BROWN MOLD
+HAZARD 2
+ENVIRONMENTAL
+FUNGUS
+Stealth DC 21 (trained)
+Description This unassuming fungus leeches heat out of the air.
+Disable DC 18 Survival (trained) to safely remove the mold
+Emit Cold (aura, cold); 5 feet. Brown mold deals 2d6 cold
+damage to nearby creatures.
+AC 18; Fort +11 Ref +5
+HP 30 (BT 15); Immunities critical hits, fire, object immunities,
+precision damage; Weaknesses cold 10
+Leech Warmth [reaction] Trigger Fire comes within 5 feet of the brown
+mold; Effect The brown mold expands into every square
+adjacent to its space. As it grows, it pulls more heat from
+its surroundings, dealing 2d6+6 cold damage (DC 18 basic
+Fortitude save) to creatures within 10 feet after it expands.
+Reset After expanding, the brown mold can’t grow again for 1 day.
+TREACHEROUS SCREE
+HAZARD 3
+ENVIRONMENTAL
+Stealth DC 23 (trained)
+Description The footing on this sloped ground appears to be
+stable at first glance, but the tiny rocks that cover it are
+loosely packed and prone to slipping.
+Disable DC 20 Survival (trained) to navigate a safe path
+Rockslide [reaction] Trigger A creature steps on the
+unstable ground; Effect Rocks tumble and slip
+beneath its feet. The triggering creature
+must attempt a DC 21 Reflex save as
+they tumble against the rocks, which
+deal 2d10+13 bludgeoning damage.
+2
+Tools
+77
+77
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX

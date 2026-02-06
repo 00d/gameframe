@@ -1,0 +1,125 @@
+Saving Throw DC 30 Fortitude; Onset 10 minutes; Maximum
+Duration 6 minutes; Stage 1 12d6 poison damage (1 minute);
+Stage 2 16d6 poison damage (1 minute); Stage 3 20d6 poison
+damage (1 minute)
+WYVERN POISON
+ITEM 8
+ALCHEMICAL
+ CONSUMABLE
+ INJURY
+ POISON
+Price 80 gp
+Usage held in 2 hands; Bulk L
+Activate [three-actions] Interact
+Properly harvested and preserved, the poison
+from a wyvern’s sting is effective and direct.
+Saving Throw DC 26 Fortitude; Maximum
+Duration 6 rounds; Stage 1 5d6 poison damage
+(1 round); Stage 2 6d6 poison damage (1 round);
+Stage 3 8d6 poison damage (1 round)
+Alchemical Tools
+Alchemical tools are consumable items you don’t drink.
+PHILOSOPHER’S STONE
+ITEM 20
+UNCOMMON
+ ALCHEMICAL
+ CONSUMABLE
+Price —
+Usage held in 2 hands; Bulk 2
+Activate [one-action] Interact or 1 or more days; see below
+An alchemist with the Craft Philosopher’s Stone feat can
+create a philosopher’s stone once per month by spending 1
+batch of infused reagents during their daily preparations
+using the advanced alchemy class feature. This is the only
+way to create a philosopher’s stone.
+At a glance, a philosopher’s stone appears to be an ordinary,
+sooty piece of natural rock. Breaking the rock open with a
+Force Open action (DC 35) reveals a cavity at the stone’s
+heart. The cavity is lined with a rare type of quicksilver that
+can transmute base metals into precious metals or create
+an elixir of rejuvenation (page 548).
+To use the quicksilver, you must be legendary in Crafting
+and have the Alchemical Crafting feat. You can then use the
+stone’s quicksilver for one of two effects:
+•	 You can apply the stone’s quicksilver to an
+infused true elixir of life using an Interact
+action. This turns the elixir into an infused elixir
+of rejuvenation instantaneously. This doesn’t
+require any crafting time or additional materials.
+•	 You can spend up to a month of downtime applying
+the quicksilver either to iron to create silver or to lead
+to create gold. Treat this as a 20th-level task to Earn
+Income using Crafting, except that you create 500 gp
+worth of your chosen metal per day on a success or
+750 gp worth per day on a critical success.
+SILVERSHEEN
+ITEM 2
+ALCHEMICAL
+ CONSUMABLE
+Price 6 gp
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+You can slather this silvery paste onto one melee weapon,
+one thrown weapon, or 10 pieces of ammunition. Silversheen
+spoils quickly, so once you open a vial, you must use it all
+at once, rather than saving it. For the next hour, the weapon
+or ammunition counts as silver instead of its normal precious
+material (such as cold iron) for any physical damage it deals.
+SMOKESTICK
+ITEM 1+
+ALCHEMICAL
+ CONSUMABLE
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+With a sharp twist of this item, you
+instantly create a screen of thick, opaque
+smoke in a burst centered on one corner of
+your space. All creatures within that area are
+concealed, and all other creatures are concealed to
+them. The smoke lasts for 1 minute or until dispersed by
+a strong wind.
+Type lesser; Level 1; Price 3 gp
+The radius of the burst is 5 feet.
+Type greater; Level 7; Price 53 gp
+The radius of the burst is 20 feet.
+SNAKE OIL
+ITEM 1
+ALCHEMICAL
+ CONSUMABLE
+Price 2 gp
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+You can apply snake oil onto a wound or other outward
+symptom of an affliction or condition (such as sores from a
+disease or discoloration from a poison). For the next hour, the
+symptom disappears and the wounded or afflicted creature
+doesn’t feel as if it still has the wound or affliction, though all
+effects remain. A creature can uncover the ruse by succeeding
+at a DC 17 Perception check, but only if it uses a Seek action
+to specifically examine the snake oil’s effects.
+SUNROD
+ITEM 1
+ALCHEMICAL
+ CONSUMABLE
+ LIGHT
+Price 3 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+This 1-foot-long, gold-tipped rod glows after it’s struck on a
+hard surface. For the next 6 hours, it sheds bright light in a
+20-foot radius (and dim light to the next 40 feet).
+TINDERTWIG
+ITEM 1
+ALCHEMICAL
+ CONSUMABLE
+ FIRE
+Price 2 sp
+Usage held in 1 hand; Bulk —
+Activate [one-action] Interact
+An alchemical substance applied to one end of this tiny wooden
+stick ignites when struck against a rough surface. Creating a
+flame with a tindertwig is much faster than creating a flame
+with flint and steel. You can ignite the tindertwig and touch
+it to a flammable object as part of the same Interact action.
+Core Rulebook
+554

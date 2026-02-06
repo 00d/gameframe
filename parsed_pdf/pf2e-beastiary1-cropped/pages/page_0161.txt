@@ -1,0 +1,93 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669013
+4425170
+Bestiary
+160
+FLYTRAP TREASURE
+Giant ﬂytraps have enough
+instinctual intellect to eﬀectively
+ambush prey or to move about to
+seek out better hunting grounds,
+but they don’t value treasure. Still,
+a ﬂytrap tends to accumulate a
+small wealth of discarded loot
+from those it has eaten, discarding
+these shiny baubles in the
+periphery of its root system once it
+has ﬁnished digesting its meal.
+Flytrap
+Flytraps are dangerous creatures as eager to feed on humanoids and larger prey
+as they are monstrous insects.
+Snapping Flytrap
+The snapping ﬂytrap is a ravenous, carnivorous plant that is quick to bite at any
+creature that passes by. Snapping ﬂytraps typically have two sets of tooth-edged
+leaves, each measuring 3 feet wide, at the end of 10-foot-long stalks.
+SNAPPING FLYTRAP
+CREATURE 3
+N
+LARGE
+MINDLESS
+PLANT
+Perception +7; tremorsense (imprecise) 30 feet
+Skills Athletics +11, Stealth +10 (+13 in undergrowth)
+Str +2, Dex +3, Con +5 Int –5, Wis +2, Cha –2
+AC 18; Fort +12, Ref +8, Will +7
+HP 50; Immunities mental; Weaknesses ﬁre 5; Resistances acid 5
+Quick Capture Ǻȓ Trigger A creature hits or touches the ﬂytrap. Eﬀect The ﬂytrap
+makes a leaf Strike against the triggering creature. If it hits, the creature is grabbed
+in that leaf.
+Speed 15 feet
+Melee Ȱɵ leaf +11 (reach 10 feet), Damage 1d8+2 piercing plus 1d6 acid and Improved Grab
+Focused Assault ʚʖ The ﬂytrap attacks a single target with both its leaves. The
+ﬂytrap makes one leaf Strike. On a success, the ﬂytrap deals the damage from one
+leaf Strike plus an additional 1d8 damage for every leaf beyond
+the ﬁrst. On a failure, the ﬂytrap deals the damage from
+one leaf Strike, but it can’t use Improved Grab. It deals no
+damage on a critical failure. This counts toward the ﬂytrap’s
+multiple attack penalty as a number of attacks equal to the number of
+leaves the ﬂytrap has.
+Hungry Flurry ʚʖ The ﬂytrap makes two leaf Strikes at a –2
+penalty, each against a diﬀerent target. These attacks count
+toward the ﬂytrap’s multiple attack penalty, but the multiple
+attack penalty doesn’t increase until after it makes all its attacks.
+Swallow Whole Ȱɵ (attack) Medium, 1d8+1 bludgeoning plus 1d6 acid, Rupture 5
+Giant Flytrap
+Because they blend in so well with surrounding foliage, giant ﬂytraps can use the
+element of surprise to make quick strikes against unsuspecting adventurers and
+forest travelers.
+GIANT FLYTRAP
+CREATURE 10
+N
+HUGE
+MINDLESS
+PLANT
+Perception +17; tremorsense (imprecise) 60 feet
+Skills Athletics +23, Stealth +21 (+24 in undergrowth)
+Str +7, Dex +5, Con +5, Int –5, Wis +3, Cha –2
+AC 29; Fort +21, Ref +17, Will +15
+HP 185; Immunities mental; Weaknesses ﬁre 10; Resistances acid 10
+Quick Capture Ǻȓ As snapping ﬂytrap.
+Speed 25 feet
+Melee Ȱɵ leaf +23 (reach 15 feet), Damage 2d8+7 piercing
+plus 2d6 acid and Improved Grab
+Focused Assault ʚʖ As snapping ﬂytrap, but it uses all
+four of its leaves.
+Hungry Flurry ʚʖ As snapping ﬂytrap, but it makes four leaf
+Strikes rather than two.
+Swallow Whole Ȱɵ (attack) Large, 2d8+3 bludgeoning plus 2d6
+acid, Rupture 17
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669013
+4425170

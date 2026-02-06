@@ -1,0 +1,144 @@
+You transform your flesh and organs into a bizarre amalgam
+of glistening skin, rough scales, tufts of hair, and tumorous
+protuberances. This has three effects:
+•	 You gain resistance 10 to precision damage and
+resistance 10 to extra damage from critical hits. If the
+resistance is greater than the extra damage, it reduces
+the extra damage to 0 but doesn’t reduce the attack’s
+normal damage.
+•	 You gain darkvision.
+•	 Acid oozes from your skin. Any creature that hits you
+with an unarmed attack or with a non-reach melee
+weapon takes 2d6 acid damage.
+Heightened (+2) The resistances increase by 5, and the acid
+damage increases by 1d6.
+YOU’RE MINE
+FOCUS 5
+UNCOMMON
+EMOTION
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+SORCERER
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration 1 round
+You manipulate the target’s emotions, potentially allowing
+you to control it for a brief instant. The target must attempt
+a Will save.
+Critical Success The target is unaffected.
+Success The target is stunned 1.
+Failure On the target’s next turn, it’s stunned 1 and you
+partially control it, causing it to take a single action of your
+choice. If it has actions left, it can act normally.
+Critical Failure The target is controlled for 1 round.
+Heightened (7th) On a failure, the target is controlled for 1
+round. On a critical failure, the target is controlled for up to
+1 minute; it receives a new Will save at the end of each of its
+turns, and on a success, the spell ends.
+WIZARD
+Wizards can gain the following school spells.
+AUGMENT SUMMONING
+FOCUS 1
+UNCOMMON
+CONJURATION
+WIZARD
+Cast [one-action] verbal
+Range 30 feet; Targets 1 creature you summoned
+You augment the abilities of a summoned creature. The
+target gains a +1 status bonus to all checks (this also applies
+to the creature’s DCs, including its AC) for the duration of its
+summoning, up to 1 minute.
+CALL OF THE GRAVE
+FOCUS 1
+UNCOMMON
+ARCANE
+ATTACK
+NECROMANCY
+WIZARD
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 living creature
+You fire a ray of sickening energy. Make a spell attack roll.
+Critical Success The target becomes sickened 2 and slowed 1
+as long as it’s sickened.
+Success The target becomes sickened 1.
+Failure The target is unaffected.
+CHARMING WORDS
+FOCUS 1
+UNCOMMON
+AUDITORY
+ENCHANTMENT
+INCAPACITATION
+LINGUISTIC
+MENTAL
+WIZARD
+Cast [one-action] verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration until the start of your next turn
+You whisper enchanting words to deflect your foe’s ire. The
+target must attempt a Will save.
+Critical Success The target is unaffected.
+Success The target takes a –1 circumstance penalty to attack
+rolls and damage rolls against you.
+Failure The target can’t use hostile actions against you.
+Critical Failure The target is stunned 1 and can’t use hostile
+actions against you.
+DIMENSIONAL STEPS
+FOCUS 4
+UNCOMMON
+CONJURATION
+TELEPORTATION
+WIZARD
+Cast [one-action] somatic
+Range 20 feet
+You teleport to a location up to 20 feet away within your line
+of sight.
+Heightened (+1) The distance you can teleport increases by
+5 feet.
+DIVINER’S SIGHT
+FOCUS 1
+UNCOMMON
+CONCENTRATE
+DIVINATION
+FORTUNE
+WIZARD
+Cast [one-action] verbal
+Range 30 feet; Targets 1 willing living creature
+Duration until the end of your next turn
+You glimpse into the target’s future. Roll a d20; when the target
+attempts a non-secret saving throw or skill check, it can use
+the number you rolled instead of rolling, and the spell ends.
+Alternatively, you can instead reveal the result of the die roll
+for one of the target’s secret checks during the duration, and
+the spell ends. Casting it again ends any active diviner’s sight
+you have cast, as well as any active diviner’s sight on the target.
+DREAD AURA
+FOCUS 4
+UNCOMMON
+ENCHANTMENT
+EMOTION
+FEAR
+MENTAL
+WIZARD
+Cast [two-actions] somatic, verbal
+Area 30-foot-radius emanation centered on you
+Duration sustained up to 1 minute
+You emit an aura of terror. Foes in the area are frightened 1
+and unable to reduce the condition.
+ELEMENTAL TEMPEST
+FOCUS 4
+UNCOMMON
+EVOCATION
+METAMAGIC
+WIZARD
+Cast [one-action] verbal
+Your spellcasting surrounds you in a storm of elemental energy.
+If the next action you take is to Cast a Spell from your wizard
+spell slots that’s an evocation spell dealing acid, cold, electricity,
+or fire damage, a 10-foot emanation of energy surrounds you
+as you cast the spell. Foes in the area take 1d6 damage per
+spell level of the spell you just cast of the same damage type
+the spell deals (choose one if it deals multiple types). Combine
+the damage from both elemental tempest and the other spell
+Core Rulebook
+406

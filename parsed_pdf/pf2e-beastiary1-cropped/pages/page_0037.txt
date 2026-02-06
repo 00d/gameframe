@@ -1,0 +1,93 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668889
+4425046
+Bestiary
+36
+Barghest
+Barghests are lupine ﬁends with goblinoid faces and humanoid hands. They stalk
+the Material Plane in search of souls to sate their demonic hunger. Eons ago,
+barghests dwelled in the pits of Hell and served Asmodeus, but after Lamashtu
+abducted and adopted the four most powerful of their kind to serve as pets (and in
+time, as a pantheon of hero-gods worshipped by evil goblins), barghests’ loyalties
+and philosophical nature changed signiﬁcantly. Today, while barghests retain their
+connection to goblinoids, they serve none but their own appetites.
+Barghest
+Typical barghests are ravenous gluttons of life who feed and grow on the fat of
+mortals, their bodies changing in ways none can predict as they use the ﬂesh and
+blood of their victims to achieve grisly transformations into greater barghests.
+Barghests often make use of their shapechanging abilities to rule tribes of
+goblinoids or to discreetly hunt in rural areas in the guise of unnaturally intelligent
+wolves. They do not work well together, as each barghest wants all the kills for
+itself; cannibalism is the typical result of too many barghests in one small area.
+BARGHEST
+CREATURE 4
+CE
+MEDIUM
+FIEND
+Perception +12; darkvision, scent (imprecise) 30 feet
+Languages Abyssal, Common, Goblin
+Skills Acrobatics +10, Deception +12, Diplomacy +9, Intimidation +11, Stealth +10,
+Survival +8
+Str +5, Dex +2, Con +3, Int +2, Wis +2, Cha +3
+AC 21; Fort +11, Ref +12, Will +8
+HP 50; Resistances ﬁre 5, physical 5 (except magical)
+Attack of Opportunity Ǻȓ
+Speed 25 feet
+Melee Ȱɵ jaws +13, Damage 2d8+5 piercing
+Melee Ȱɵ claw +13 (agile), Damage 2d6+5 slashing
+Divine Innate Spells DC 21; 4th blink (at will), confusion, dimension door (self
+only); 3rd levitate (at will); 1st charm
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation)
+The barghest takes on the shape of a goblinoid (a goblin, hobgoblin,
+or bugbear) or a wolf, or it transforms back into its true form. When
+the barghest is a goblinoid, it loses its jaws and claw Strikes, it
+becomes Small if it is a goblin, and its Speed changes to 20 feet.
+When the barghest is a wolf, its Speed changes to 40 feet and
+its jaws gain Knockdown. Each individual barghest has only one
+goblinoid form and one wolf form.
+Feed Once per month, a barghest can spend 1 minute to devour a
+corpse, gaining a permanent +1 status bonus to its checks and DCs.
+Each subsequent time it feeds, this bonus increases by 1. The fourth
+time a barghest feeds, it sheds its skin and mutates into a greater
+barghest, and the status bonus ends.
+Greater Barghest
+Once a barghest has eaten enough to grow into a
+greater barghest, it typically seeks a method to
+leave the Material Plane and return to the Abyss,
+there joining other ﬁends as yet another of that
+plane’s horrors. As barghests have no innate
+ability to travel the planes, though, the
+time it takes for most greater barghests
+to engineer such a return can
+usually be measured in years, if
+BARGHEST HERO-GODS
+The four barghests stolen from
+Hell’s kennels by the deity
+Lamashtu were not the originals of
+their kind, but they were then and
+remain today the most powerful.
+Now they are denizens of the
+Abyss, dwelling in their own realm
+adjacent to Lamashtu’s domain,
+and are heavily worshipped by
+goblins across multiple worlds as
+“hero-gods.” These four barghests
+include Hadregash the slaver,
+Venkelvore the torturer, Zarongel
+the dog slayer, and Zogmugot
+the scavenger.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668889
+4425046

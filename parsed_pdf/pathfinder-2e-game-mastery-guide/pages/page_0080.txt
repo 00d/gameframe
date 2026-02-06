@@ -1,0 +1,98 @@
+Success A small amount of the slime splashes onto the
+target. The target is drained 1.
+Failure The slime lands on its target. The target is drained 1,
+and this condition value increases by 1 at the end of its
+turn each round until the slime is removed. If the target
+reaches drained 4, the next time its drained value would
+increase, it dies and collapses into a slurry of nutrients.
+A slime covering a target can no longer be removed
+through Survival checks, and damage dealt to the slime is
+also dealt to the target (applying the target’s immunities,
+weaknesses, and resistances rather than those of the
+green slime).
+Critical Failure The slime completely coats its target. This
+has the same effect as a failure, except the target is
+immediately drained 2, becomes drained 4 after 1 round,
+and dies after 2 rounds.
+Reset 1 hour, as the slime feasts and then slowly creeps back
+up to the ceiling
+JEALOUS ABJURER
+HAZARD 11
+HAUNT
+Stealth DC 33 (master)
+Description A robe-clad spirit rises out of the floor, pointing an
+accusing finger.
+Disable DC 36 Arcana, Nature, Occultism, or Religion (master)
+to convince the spirit that the target’s magical knowledge is
+too great to be trifled with
+Rend Magic [reaction] (abjuration, arcane) Trigger A creature that
+is currently affected by a beneficial spell approaches
+within 30 feet of the abjurer; Effect Envying the fame and
+magical prowess of others, the jealous abjurer attempts
+to engineer a catastrophic failure in the highest-level
+beneficial spell currently affecting its target. It
+attempts a counteract check with a +26 modifier.
+If the counteract check succeeds, the spell is
+dispelled, and the creature it had been affecting
+takes 4d12+30 force damage as the spell violently
+implodes (DC 32 basic Reflex save).
+Reset 1 hour
+PLUMMETING DOOM
+HAZARD 15
+HAUNT
+Stealth DC 40 (master) to hear the echoes of a
+faraway object crashing into the ground
+Description Four vengeful spirits grab interlopers
+and toss them off the edge of a nearby
+120-foot-tall cliff.
+Disable DC 40 Athletics (trained) to push back
+so forcefully that the spirits fear being thrown
+off the cliff, or DC 40 Religion (expert) to
+temporarily seal the spirits away
+Call of the Ground [reaction] (divine, abjuration) Trigger
+A creature approaches within 15 feet of the edge
+of the cliff; Effect Each spirit attempts to throw a
+creature within 60 feet of the cliff’s edge off the cliff
+by attempting a check with a +26 modifier against the
+target’s Fortitude DC. If the haunt succeeds, the target is
+thrown over the edge of the cliff, where it then falls 120
+feet to the ground.
+Until the haunt is defeated, each creature within 60 feet
+of the cliff’s edge must attempt a DC 40 Will save each time
+they would spend an action or reaction to Arrest a Fall, Fly,
+Grab an Edge, or otherwise avoid falling; if they fail the save,
+the action is disrupted. The haunt automatically attempts
+to counteract spells that would slow a fall or mitigate the
+effects of falling, such as feather fall, with a counteract
+modifier of +32.
+Reset 1 hour
+GRASP OF THE DAMNED
+HAZARD 17
+HAUNT
+Stealth DC 43 (master)
+Description These desperate spirits are the echoes of people
+who committed great atrocities in the name of an evil god.
+Now, they are left with only the knowledge that their souls
+have been damned, and the unwavering belief that they can
+better their fate by providing powerful sacrifices for their
+fiendish masters.
+Disable DC 46 Religion (master) to inspire a deity to intervene
+and counteract the ritual
+Mark for Damnation [reaction] (death, divine, necromancy) Trigger
+Three or more sentient living creatures of 13th level or higher
+enter the haunt’s area; Effect The haunt deals 6d12+35
+negative damage to each creature in the haunt’s area, and
+each creature must attempt a DC 40 Will save.
+2
+Tools
+79
+79
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX

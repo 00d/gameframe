@@ -1,0 +1,91 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669071
+4425228
+Bestiary
+218
+ASSOCIATED MONSTERS
+Because of their relative frailty,
+leaf leshys frequently act as
+liaisons and call upon more
+powerful forest guardians when
+their domains are threatened.
+Nymphs, sprites, and other goodly
+fey may respond to the call of a
+leaf leshy, as do arboreals and
+other plant creatures.
+Leshy
+Leshys are intelligent plant creatures that guard areas of primeval wilderness or
+earthly power. Originally created by powerful fey, they manifest when a skilled
+practitioner of primal magic—typically a druid—combines a nature spirit with
+a body carefully grown from local vegetation. The rites and materials required
+to create a leshy vary depending on the type of leshy. They are typically given
+life in an area of great natural signiﬁcance, such as an arboreal’s grove, a druidic
+circle, a fairy ring, or a great natural wonder.
+Leaf Leshy
+Leaf leshys are diminutive protectors of forests clad in pine cone armor and hats
+of fruit, ﬂowers, or leaves. They enjoy mock battles but act cautiously in real ones.
+LEAF LESHY
+CREATURE 0
+N
+SMALL
+LESHY
+PLANT
+Perception +4; low-light vision
+Languages Common, Druidic, Sylvan; speak with plants (trees only)
+Skills Acrobatics +4, Nature +4, Stealth +4
+Str –1, Dex +2, Con +2, Int –2, Wis +2, Cha +1
+Items longspear
+AC 18; Fort +6, Ref +6, Will +4
+HP 15, Weaknesses ﬁre 2
+Verdant Burst (healing) When a leaf leshy dies, a burst of primal
+energy explodes from its body, restoring 1d4 Hit Points to each plant
+creature in a 30-foot emanation. This area is ﬁlled with tree saplings,
+becoming diﬃcult terrain. If the terrain is not a viable environment
+for these trees, they wither after 24 hours.
+Speed 25 feet; glide
+Melee Ȱɵ longspear +3 (reach 10 feet), Damage 1d8–1 piercing
+Ranged Ȱɵ seedpod +6 (range increment 30 feet), Damage 1d6
+bludgeoning plus deafening blow
+Primal Innate Spells DC 14; 4th speak with plants
+Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation)
+The leaf leshy transforms into a Small tree. This ability otherwise
+uses the eﬀects of tree shape.
+Deafening Blow When a leaf leshy hits with its seedpod
+Strike, the target must attempt a DC 16 Fortitude save.
+Critical Success The target is unaﬀected and temporarily
+immune for 24 hours.
+Success The target is unaﬀected.
+Failure The target is deafened for 1 round.
+Critical Failure The target is deafened for 1 minute.
+Glide Ȱɵ (move) The leshy glides gently through the air, moving
+5 feet toward the ground and up to 25 feet forward. As long
+as the leshy spends at least 1 action gliding each round, it
+remains in the air at the end of each turn. For the purpose of
+determining damage from falls, a leaf leshy always treats falls
+as if they were 20 feet shorter.
+Gourd Leshy
+Gourd leshys are guardians of ﬁelds, gardens, and
+farms. Many villages beneﬁt from the protection of a
+gourd leshy, even if they are unaware of it.
+GOURD LESHY
+CREATURE 1
+N
+SMALL
+LESHY
+PLANT
+Perception +5; low-light vision
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669071
+4425228

@@ -1,0 +1,90 @@
+CULTIST
+CREATURE 1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +4
+Languages Common
+Skills Deception +3, Intimidation +3, Cult Lore (applies to the cultist’s own cult) +8,
+Occultism +3, Society +4, Stealth +6
+Str +4, Dex +3, Con +2, Int +1, Wis –1, Cha +0
+Items dagger, cultist garb (functions as leather armor)
+AC 17; Fort +7, Ref +8, Will +4 (or +2 vs. higher-ranking members of the cult)
+HP 20
+Speed 25 feet
+Melee  dagger +7 (agile, versatile S), Damage 1d4+4 piercing
+Ranged  dagger +6 (agile, thrown 10 feet, versatile S), Damage 1d4+4 piercing
+Fanatical Frenzy  Requirements The cultist has taken damage and is neither fatigued nor
+already in a frenzy; Effect The cultist flies into a frenzy that lasts 1 minute. While frenzied,
+the cultist gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls,
+and they take a –2 status penalty to AC. The cultist can’t voluntarily stop their frenzy.
+After their frenzy, the cultist is fatigued.
+FALSE PRIEST
+Belief is perhaps the strongest force in the universe, driving many to
+great heights. Instilling a sense of belief and then using that belief against
+someone, however, is the discipline of a false priest. Combining their gifts
+of deception, a silver tongue, and an impeccable sense of timing, the false
+priest can gain influence among the powerful, entice a mark to dispose of
+all their possessions, and make a believer out of a cynic.
+FALSE PRIEST
+CREATURE 4
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +10
+Languages Common
+Skills Acrobatics +10, Athletics +8, Deception +12, Performance +12, Religion +8,
+Society +6
+Str +0, Dex +4, Con +3, Int +0, Wis +2, Cha +4
+Items alchemical tools (used as “blessed items” to fool marks), backpack, cloak, hand
+crossbow (20 bolts), collection of fake relics, wooden religious symbol, studded
+leather armor, rapier
+AC 21; Fort +11, Ref +12, Will +10
+HP 51
+Speed 25 feet
+Melee  rapier +12 (deadly 1d8, disarm, finesse), Damage 1d6+8 piercing
+Ranged  hand crossbow +12 (range increment 60 feet, reload 1), Damage 1d6+4
+piercing
+Deceiver’s Surprise On the first round of combat, if the false priest rolls Deception
+or Performance for initiative, creatures that haven’t acted yet are flat-footed to
+the false priest.
+Fickle Prophecy  (emotion, mental) The false priest convinces someone of their
+omnipotence by attempting a Deception check compared to the creature’s Will
+DC. If successful, the target gains 1d8+4 temporary Hit Points that last for 1
+hour or until the false priest removes them by rebuking the target, whichever
+occurs first.
+Sneak Attack The false priest deals an extra 1d6 precision damage to flat-footed
+creatures. This increases to 2d6 against creatures flat-footed due to the
+false priest’s Feint or deceiver’s surprise.
+The Jig Is Up  Frequency once per hour; Trigger The false priest critically fails a
+Deception or Performance check; Effect The false priest Strides.
+5
+NPC Gallery
+229
+229
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+MYSTIC RITUALS
+The following are rituals sometimes
+cast by mystic groups. Those from
+the Bestiary are available only to
+appropriate celestials and fiends
+within the organizations.
+• Abyssal pact (Bestiary 347)
+• angelic messenger (Bestiary 348)
+• call spirit (Core Rulebook 410)
+• commune (Core Rulebook 410)
+• Infernal pact (Bestiary 348)
+• legend lore (Core Rulebook 413)
+• planar ally (Core Rulebook 413)
+• planar binding (Core Rulebook 414)
+CULTIST

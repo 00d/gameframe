@@ -87,7 +87,21 @@ This counts as two attacks for its multiple attack penalty.
 PAGE 37
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868534
+4425046
 Bestiary 2
+36
+36
 VENGEFUL BEASTS
 Polar bears have been known to take
 special interest in those who have
@@ -114,94 +128,93 @@ from berries and nuts just as often as from ﬁsh and smaller mammals. They
 steal food when they ﬁnd it, including from humanoid camps. Although they are
 predators, black bears are more timid than other bears. Unless defending themselves
 or their young, black bears often avoid conﬂict or ﬁght only until they can retreat.
-
-================================================================================
-# DERGHODAEMON
-================================================================================
-
-
-Bestiary 2
-DAEMON HARBINGERS
-The four Horsemen are the most
-powerful of the daemonic demigods,
-but they are only four of many. Far
-more daemonic harbingers dwell on
-Abaddon, each a unique and powerful
-demigod in their own right that
-enjoys sweeping inﬂuence among
-daemonkind. Jacarkas the Collector
-(ruler of the slave city of Awaiting
-Consumption), Vorasha the Ophidian
-(consort to the Horseman of Famine),
-and Zelishkar the Bitter Flame
-(patron to arsonists and agent of the
-Horseman of War) are but three of
-the dozens of harbingers who rule
-realms in Abaddon.
-DERGHODAEMON
-CREATURE 12
-NE
+BLACK BEAR
+CREATURE 2
+N
 LARGE
-DAEMON
-FIEND
-Perception +24; darkvision, scent (imprecise) 60 feet
-Languages Common, Daemonic; telepathy 100 feet
-Skills Acrobatics +22, Athletics +25, Intimidation +24, Stealth +24
-Str +7, Dex +6, Con +5, Int +1, Wis +6, Cha +6
-AC 33; Fort +21, Ref +24, Will +22; +1 status to all saves vs. magic
-HP 240; Immunities confusion, death eﬀects, swarm attacks; Weaknesses good 10
+ANIMAL
+Perception +8; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +9, Survival +7
+Str +3, Dex +2, Con +3, Int –4, Wis +1, Cha –2
+AC 18; Fort +11, Ref +8, Will +5
+HP 32
 Speed 35 feet
-Melee Ȱɵ claw +25 (deadly 1d12, evil, magical, reach 10 feet), Damage 3d8+10 slashing plus
-1d6 evil
-Ranged Ȱɵ swarm spit +25 (evil, magical, range 60 feet), Damage 2d6+13 piercing plus 1d6 evil
-Divine Innate Spells DC 32; 6th blade barrier, feeblemind (×3); 5th dimension door; 4th
-dimension door (at will); 1st detect alignment (good only; at will)
-Derghodaemon’s Stare Ȱɵ (divine, emotion, enchantment, incapacitation, mental, visual) A
-non-evil target must succeed at a DC 32 Will save or become confused for 1 round, or 1
-minute on a critical failure. It is temporarily immune for 10 minutes.
-Rend Ȱɵ claw
-Savage Assault ʚʖ The derghodaemon makes up to ﬁve claw
-Strikes, each against a diﬀerent target. These attacks count
-toward the derghodaemon’s multiple attack penalty, but the
-penalty doesn’t increase until after all the attacks.
-Swarming Infestation ʚʖ The derghodaemon spews a
-large swarm, making a swarm spit Strike against up to
-two adjacent targets within range. Whether or not the
-targets are hit, each must attempt a DC 31 Reﬂex
-save (at a –2 circumstance penalty if it was actually
-hit by the swarm spit). Persistent damage caused
-by the swarming infestation ends as soon as the
-creature takes any amount of damage from
-an area eﬀect. The derghodaemon can’t use
-this ability for 1d4 rounds.
-Critical Success The swarm disperses as soon
-as it deals its swarm spit Strike damage.
-Success The swarm clings to the target
-and infests it, dealing 1d6 persistent
-piercing damage.
-Failure The swarm clings to the target
-and infests it, dealing 2d6 persistent
-piercing damage.
-Critical Failure As failure, but the hissing sounds
-caused by the infestation also cause the target to
-become confused for 1 round; this additional eﬀect
-has the auditory, emotion, and mental traits.
-THANADAEMON (DEATH DAEMON)
-Also known as the deacons of death, thanadaemons
-represent death via old age. They are among the
-most patient daemons, and prefer to bide
-their time to enact far-reaching, decadeslong plans rather than ﬁght (though they
-are still deadly foes). Like the Horseman
-of Death, they ply the waters of the River
-Styx in search of wayward souls. Rarely are
-thanadaemons seen without a trademark oar
-(which they wield as a bo staff), a tool they use to navigate the
-river’s muck-ridden channels and turbulent rapids.
+Melee Ȱɵ jaws +9, Damage 1d8+5 piercing
+Melee Ȱɵ claw +9 (agile), Damage 1d6+5 slashing plus Grab
+Mauler The black bear gains +1 circumstance bonus to damage rolls against creatures it
+has grabbed.
+POLAR BEAR
+Polar bears are known for their pale fur, with black eyes, lips,
+and toe pads. They are aggressively predatory creatures,
+stalking prey for miles on land or across the icy
+waters of frozen oceans. They are also amazing
+ambush predators, leaping from the water to
+ambush seals resting on ice ﬂoes. If they are
+desperate, polar bears hunt not only other
+animals but also humanoids.
+POLAR BEAR
+CREATURE 5
+N
+LARGE
+ANIMAL
+Perception +12; low-light vision,
+scent (imprecise) 60 feet
+Skills Athletics +14, Stealth +10 (+14 in
+icy or snowy areas), Survival +10
+Str +5, Dex +1, Con +5, Int –4, Wis +1, Cha –1
+AC 22; Fort +14, Ref +10, Will +10
+HP 73
+Speed 35 feet, swim 15 feet
+Melee Ȱɵ jaws +15, Damage 2d8+7
+piercing
+Melee Ȱɵ claw +15 (agile), Damage
+2d6+7 slashing plus Grab
+Sneak Attack The polar bear’s Strikes
+deal an additional 1d6 precision
+damage to ﬂat-footed creatures.
+Mauler The polar bear gains a +3
+circumstance bonus to damage rolls
+against creatures it has grabbed.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868534
+4425046
 
-================================================================================
 PAGE 62
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868559
+4425071
+D
+6161
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 STYX PASSAGE FEES
 Gliding with eerie ease along the
 murky River Styx, thanadaemons
@@ -215,116 +228,106 @@ details of arrangements after the fact,
 and may just as likely demand a favor
 or some esoteric good, such as a soul
 gem, instead of coin.
-
-================================================================================
-# DENIZEN OF LENG
-================================================================================
-
-
-Bestiary 2
-LENG
-Known variously as the Nightmare
-Realm or the Terror Beyond Dreams,
-the frozen Plateau of Leng looms
-physically and spiritually above the
-Dreamlands. Both a part of that
-dimension and a corruption of it, Leng
-is a realm inhabited by eldritch horrors
-and ruled by the horrors’ ancient gods.
-Denizen of Leng
-Slavers and raiders from the cold, windswept dimension of Leng, these malevolent
-humanoids range across reality in ominous black ships capable of sailing beyond
-the borders of dimensions and planes. Although most denizens of Leng seek
-slaves and plunder like any pirate, others operate as self-styled ambassadors and
-merchants, sowing discord with far-ranging plots. While the inscrutable denizens
-dress themselves in ﬂowing robes, veils, and broad turbans to appear human, their
-aberrant physiology, when glimpsed, is evident from their crown of stubby horns
-and tentacled jaws to their furry, goat-like legs.
-Above the ﬁerce captains who command the infamous black ships are an even
-higher caste of denizens of Leng. These cultists and musicians serve as high priests,
-laboring to appease the frightening gods who look down upon the Nightmare
-Realm with cold malice.
-DENIZEN OF LENG
-CREATURE 8
-CE
+THANADAEMON
+CREATURE 13
+NE
 MEDIUM
-ABERRATION
-DREAM
-Perception +17; darkvision
-Languages Aklo; tongues
-Skills Acrobatics +15, Athletics +15, Deception +19, Occultism +18,
-Sailing Lore +20, Stealth +17, Thievery +17
-Str +3, Dex +3, Con +4, Int +6, Wis +3, Cha +5
-Items +1 striking kukri, Leng ruby worth 30 gp (2)
-AC 27; Fort +16, Ref +19, Will +17
-HP 100, planar fast healing 5; Immunities cold; Resistances critical
-hits 10, precision 10
-No Breath Denizens of Leng don’t need to breathe.
-Planar Fast Healing A denizen of Leng maintains a connection to Leng
-at all times, and when away from Leng, they have fast healing 5.
-They lose this ability on Leng or in areas where planar connections
-do not function. If killed, their body dissolves into nothingness
-in 1d4 rounds, leaving behind their equipment. A slain denizen
-reforms in Leng; they can be permanently killed only when
-their planar fast healing doesn’t function.
-Speed 30 feet
-Melee Ȱɵ kukri +18 (agile, ﬁnesse, magical, trip), Damage
-2d6+6 slashing plus 1d6 persistent bleed
-Melee Ȱɵ jaws +17 (agile, ﬁnesse), Damage 2d10+6
-piercing plus debilitating bite
-Occult Innate Spells DC 27, attack +19; 4th outcast’s
-curse, phantom pain, suggestion; 3rd hypnotic
-pattern, levitate, locate, mind reading; 2nd mirror image;
-Cantrips (4th) chill touch, detect magic, mage hand,
-message, read aura; Constant (4th) tongues
-Debilitating Bite (curse, occult) A creature that takes damage
-from a denizen’s bite must succeed at a DC 27 Fortitude save
-or become clumsy 1. Each time a target fails an additional
-save against this ability, the condition value increases by 1
-(to a maximum of clumsy 4). This condition value decreases
-by 1 every 24 hours.
-Leng Ruby (enchantment, occult) Many denizens of Leng carry
-strange rubies mined from quarries in Leng. As long as a creature
-holds a Leng ruby that it willingly accepted as a gift or payment
-from a denizen of Leng, any denizen of Leng can target that
-creature with outcast’s curse, phantom pain, or mind reading at
-a range of 1 mile, and the bearer uses an outcome one
-degree of success worse than the result of its saving throw
-against outcast’s curse.
+DAEMON
+FIEND
+Perception +26; darkvision, true seeing
+Languages Common, Daemonic; telepathy 100 feet
+Skills Arcana +22, Deception +26, Intimidation +26, Religion +22, Styx Lore +24
+Str +6, Dex +6, Con +4, Int +3, Wis +5, Cha +7
+Items +1 striking bo staﬀ, soul gem (2)
+AC 34; Fort +21, Ref +23, Will +26; +1 status to all saves vs. magic
+HP 270; Immunities death eﬀects; Weaknesses good 10
+Terrifying Gaze (aura, divine, emotion, enchantment, fear, mental, visual) 30 feet. When a
+creature ends its turn in the aura, it must attempt a DC 30 Will save. If the creature fails,
+it becomes frightened 2. The creature is then temporarily immune to terrifying gaze (but
+not Focus Gaze) for 24 hours.
+Speed 25 feet; air walk
+Melee Ȱɵ bo staﬀ +28 (evil, magical, parry, reach 10 feet, trip), Damage 3d8+14 bludgeoning
+plus 1d6 negative, 1d6 evil, and draining strike
+Melee Ȱɵ claw +27 (agile, evil, ﬁnesse, magical), Damage 3d6+14
+slashing plus 1d6 evil and draining strike
+Divine Innate Spells DC 34; 7th ﬁnger of death, plane shift (at
+will; self plus skiﬀ and passengers only; Astral, Ethereal, and
+evil planes only), teleport; 6th slow, vampiric exsanguination (×2);
+5th dimension door; 4th dimension door (at will); 1st detect alignment
+(good only; at will); Constant (7th) air walk, true seeing
+Rituals DC 34; animate dead
+Draining Strike (divine, necromancy) When a thanadaemon
+damages a living creature with a melee Strike, the
+creature must succeed at a DC 33 Fortitude save or
+become drained 1. Further damage dealt by the
+thanadaemon increases the drained condition value
+by 1 on a failed save, to a maximum of drained 4.
+Focus Gaze Ȱɵ (concentrate, divine, fear, visual) The
+thanadaemon glares at a single creature they can
+see within 30 feet. The target must immediately
+attempt a DC 33 Will save against the thanadaemon’s
+terrifying gaze. If the target was already frightened,
+a failed save causes it to become ﬂeeing for 1d4
+rounds. After attempting its save, the creature is
+temporarily immune to this ability until the start of
+the thanadaemon’s next turn.
+Soul Crush ʚʖ (manipulate) Requirements The
+thanadaemon has a soul gem; Eﬀect The thanadaemon
+crushes the soul gem in one hand and gains fast healing
+15 for 1 minute.
+PURRODAEMON (WAR DAEMON)
+Few creatures embody war’s sheer amount of bloodshed
+and loss of life as deeply as the purrodaemons, deacons
+of war. These giant humanoid daemons are bedecked
+in black, unholy armor, with weapons piercing their
+ﬂesh at every opening. Far from wounds, however,
+these weapons are the purrodaemon’s arsenal. A
+purrodaemon can, with frightening swiftness
+and nauseating ease, extract a weapon from its
+own ﬂesh as though drawing a sword from a
+sheath, and their blood is so tainted with evil
+that weapons steeped in it become
+powerful tools of war.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868559
+4425071
 
-================================================================================
 PAGE 72
 ================================================================================
 
-DESTRACHAN LANGUAGE
-The Destrachan language can be
-learned by other creatures, but
-without a destrachan’s unique vocal
-organs, non-destrachans can convey
-only basic notions and concepts with
-it. In most cases, it’s better to speak
-Undercommon to a destrachan than
-attempt to use its own language.
-Destrachan
-This underground reptilian horror walks on two powerful hind legs. Its
-forelimbs are armed with sharp curving claws, and its toothy, eyeless, tubular
-head has three hypersensitive frilled ears that turn toward any sound made in
-its vicinity. This cruel monster’s true weapon, however, is an ampliﬁed version of
-the sonic cry that it uses to navigate, communicate, and hunt. It communicates
-with others of its kind through a complex series of clicks, shrieks, and whistles,
-but it is intelligent enough to understand other languages. Most destrachans
-understand at least one other language—usually Undercommon—and can often
-be reasoned with.
-An obligate carnivore, the destrachan relishes fresh meat but won’t hesitate to
-make a meal of carrion it ﬁnds in its path. When traveling in packs, the creatures
-take great delight in stalking travelers through miles of tunnels before attacking
-and subduing them, then devouring them alive.
-
-================================================================================
-# DESTRACHAN
-================================================================================
-
-
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868569
+4425081
+D
+7171
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 DESTRACHAN LANGUAGE
 The Destrachan language can be
 learned by other creatures, but
@@ -377,7 +380,7 @@ the nerves and bones of living creatures in the area,
 manifesting as waves of incapacitating pain washing
 over the victims. Each living creature in the area must
 attempt a DC 26 Fortitude save. The destrachan can’t
-use Painful Harmonics again for 1d4 rounds.
+use Painful Harmonics again for 1d4 rounds.
 Critical Success The creature is unaﬀected.
 Success The creature is sickened 1 for 1 round.
 Failure The creature is deafened for 3 rounds
@@ -392,13 +395,38 @@ target object takes 7d8 sonic damage. If the
 item is attended, its bearer can attempt a
 DC 26 basic Reﬂex save for the item. The
 destrachan can’t use Shattering Harmonics
-again for 1d4 rounds.
+again for 1d4 rounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868569
+4425081
 
-================================================================================
 PAGE 73
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868570
+4425082
 Bestiary 2
+72
+72
 THE HIERARCHY OF HELL
 Hell is a harsh plane of law with little
 use for compassion or empathy. As
@@ -430,83 +458,91 @@ arrogant and deceitful, zebubs lack the cunning and conﬁdence of most devils, 
 thus their schemes often focus on satisfying self-serving or self-destructive ambitions.
 Zebubs form from the souls of childish and craven mortals, reshaped by the archdevil
 Baalzebul in the frozen, ﬁlthy wastes of Hell’s seventh layer, Cocytus.
+ZEBUB
+CREATURE 3
+LE
+SMALL
+DEVIL
+FIEND
+Perception +12; greater darkvision
+Languages Celestial, Draconic, Infernal; telepathy 100 feet
+Skills Acrobatics +10, Arcana +7, Deception +8, Religion +9, Stealth +10
+Str +1, Dex +4, Con +1, Int +0, Wis +3, Cha +1
+AC 20: Fort +8, Ref +10, Will +8; +1 status to all saves vs. magic
+HP 30; Immunities ﬁre; Weaknesses good 5; Resistances physical 5 (except
+silver), poison 5
+Speed 15 feet, ﬂy 50 feet
+Melee Ȱɵ mandibles +12 (evil, ﬁnesse, magical), Damage 1d10+3 piercing plus 1d6
+evil and Cocytan ﬁlth
+Divine Innate Spells DC 17; 5th dimension door; 4th dimension door (at will); 2nd invisibility
+(at will, self only), summon animal (swarm creatures only); Cantrips (2nd) message
+Rituals DC 17; infernal pact
+Cocytan Filth (disease, virulent) Saving Throw DC 18 Fortitude; Onset 1d4 days;
+Stage 1 enfeebled 1 (1 day); Stage 2 enfeebled 2 (1 day); Stage 3 enfeebled 3 (1 day)
+Infernal Eye ̂ˬ (divine, divination) The zebub records everything they see,
+and though they don’t remember all observations, they can pass them along
+to another creature. The zebub replays 10 minutes of witnessed
+events to a touched willing creature, which receives the memories
+in a ﬂash of information. By remaining in contact, the zebub can
+spend additional 3-action activities to replay more information. After relaying
+their visions to another, the zebub can’t ever recall those events again.
+Sneak Attack The zebub’s Strikes deal an additional 1d6 precision damage to
+ﬂat-footed creatures.
+SARGLAGON (DROWNING DEVIL)
+Sarglagons dwell in Hell’s myriad waterways, lakes, and oceans. They serve
+as guardians of the Academy of Lies—the repository of secrets in Stygia, the
+ﬁfth layer of Hell. Sarglagons breathe water and air with equal ease, and
+can move through water, land, and even air with uncanny swiftness.
+Few ﬁends travel the waterways of the multiverse, but where a river
+crosses the planes, odds are sarglagons have traveled it to further their
+infernal machinations. The only body of water they avoid is the River Styx, as the
+ﬁends have yet to develop any defense against that waterway’s memory-sapping
+qualities. Mortal spellcasters sometimes bind sarglagons as guardians of precious
+secrets or treasures, particularly in aquatic areas. Most strangely, sarglagons
+sometimes act as unnerving caretakers to mortals who have no idea what
+they did to earn their unwanted protectors’ attention. The constant uninvited
+vigilance of these devils is often disturbing and stiﬂing to their wards.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868570
+4425082
 
-================================================================================
-# DEVOURER
-================================================================================
-
-
-Bestiary 2
-SOUL SWALLOWERS
-The fact that devourers consume
-souls makes them particularly hated
-by the church of Pharasma and
-psychopomps alike.
-Devourer
-When ﬁends and powerful evil spellcasters are lost beyond the farthest reaches
-of the multiverse, they sometimes return as horriﬁc undead called devourers that
-consume the souls of the living to fuel their arcane machinations. Their bodies are
-ruined and rebuilt, hollow and twisted, even as their minds undergo a spiritual
-transformation. They gain the ability to bind other souls to their own and drain
-their essence for magical power, yet can never be sated in their pursuit of it.
-Seething masses of distorted ghostly shapes surge within their hollow rib cages—
-manifestations of the devourers’ most recently consumed souls.
-DEVOURER
-CREATURE 11
-UNCOMMON
-NE
-LARGE
-UNDEAD
-Perception +22; darkvision
-Languages Abyssal, Celestial, Common, Infernal, Necril
-Skills Arcana +21, Deception +21, Intimidation +23, Occultism +23,
-Stealth +19
-Str +7, Dex +3, Con +5, Int +5, Wis +4, Cha +5
-AC 31; Fort +20, Ref +18, Will +24; +1 status to all saves vs. magic
-HP 175, negative healing; Immunities death eﬀects, disease, paralyzed, poison,
-spell deﬂection, unconscious
-Spell Deﬂection (abjuration, divine) A spellcaster who targets a devourer with
-a mental spell, banishment, bind soul, divine decree, divine wrath, possession,
-spirit blast, or spirit song can attempt a counteract check to free a soul the
-devourer has trapped with Devour Soul. If this counteract attempt succeeds,
-the trapped soul is released (though the creature remains dead), and the
-devourer can’t use any soul charges from that creature. Devourers are
-otherwise immune to these spells.
-Speed 30 feet, ﬂy 30 feet
-Melee Ȱɵ claw +24 (agile, reach 10 feet), Damage 2d10+13 slashing plus
-drain life
-Occult Innate Spells DC 31, see soul spells below; 6th feeblemind, true seeing;
-4th confusion, suggestion; 3rd bind undead, paralyze; 2nd death knell;
-1st harm
-Rituals DC 31; create undead
-Devour Soul ʚʖ (death, divine, necromancy) The devourer touches
-a creature within reach, dealing 8d6 negative damage (DC 31 basic
-Fortitude save). If a creature is slain by this attack, its soul becomes
-trapped within the devourer. While its soul is trapped, a creature
-can’t be resurrected except by powerful magic such as a wish spell.
-Destroying the devourer or successfully counteracting Devour Soul
-(see Spell Deﬂection above) releases the soul. The devourer can hold only one
-soul at a time. A soul has 5 soul charges per level of the originating creature
-(see Soul Spells below). The devourer can expend these charges to cast
-spells. If the soul is freed and the creature returns to life, the creature
-is drained 1 for every 5 soul charges expended. If reduced to 0 soul
-charges, the soul is consumed and can be restored to life only by
-powerful magic such as wish.
-Drain Life (divine, necromancy) When the devourer damages a living
-creature with its claw Strike, the devourer gains 10 temporary Hit Points
-and the creature must succeed at a DC 24 Fortitude save or become
-drained 1. Further damage dealt by the devourer increases the condition
-value by 1 on a failed save, to a maximum of drained 4.
-Soul Spells A devourer casts occult innate spells, but to do so it must expend
-a number of soul charges equal to the spell’s level (similar to casting a spell
-using charges from a staﬀ). It can heighten any spell to a maximum of 6th level by
-expending more charges as it Casts the Spell. When encountered, a devourer typically
-has one trapped soul with 10 soul charges.
-
-================================================================================
 PAGE 80
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868577
+4425089
+D
+79
+79
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 WIDGET WORKSHOPS
 The ﬁrst dig-widget came from the
 workshops of a dwarven thieves’
@@ -526,48 +562,7 @@ observed dig-widgets and recognized
 the complexity of the technology,
 they’ve steadfastly refused to
 adapt something with such an
-unscrupulous origin.
-Dig-Widget
-Thieves covet dig-widgets, specialized constructs built for inﬁltration. Each
-dig‑widget contains numerous simple tools, including a set of mechanical devices
-that function as thieves’ tools, two arms with drills, and two arms with corkscrews
-for attaching to and climbing surfaces. Once activated, these devices propel
-themselves forward. Though they have the full faculties typical of a construct,
-they usually follow a simple routine: avoid notice, pick any lock barring the path,
-dig past obstacles, and attack if caught. They’re rarely left unattended, as a thief
-needs to be nearby to follow after—both to steal goods and to stop the dig-widget
-from engaging in further larceny once it’s achieved its goal.
-The source of a dig-widget’s power is as much mechanical as it is magical.
-The gears and springs that provide a dig-widget mobility are an improvement
-over more primitive true clockwork creations (whose functions require constant
-winding to remain mobile), but at the cost of security, for a dig-widget’s moving
-parts can be dismantled quickly by thieves and others with the proper training.
-
-================================================================================
-# DIG-WIDGET
-================================================================================
-
-
-WIDGET WORKSHOPS
-The ﬁrst dig-widget came from the
-workshops of a dwarven thieves’
-guild called Godak’s Grifters, which
-used more advanced magical
-clockwork theories as a springboard
-for these simpler but no less eﬀective
-contraptions. With their dig-widgets,
-the Grifters plagued the authorities
-of several dwarven settlements
-over the years. Their travels spread
-dig-widget technology, and numerous
-improvements have since led to faster
-and more reliable versions. Though
-upstanding dwarven mechanics have
-observed dig-widgets and recognized
-the complexity of the technology,
-they’ve steadfastly refused to
-adapt something with such an
-unscrupulous origin.
+unscrupulous origin.
 Dig-Widget
 Thieves covet dig-widgets, specialized constructs built for inﬁltration. Each
 dig‑widget contains numerous simple tools, including a set of mechanical devices
@@ -628,12 +623,37 @@ dig-widget can be Shoved oﬀ, or it can detach itself with
 an Interact action.
 Sneak Attack A dig-widget’s Strikes deal an additional 1d6
 precision damage to ﬂat-footed creatures.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868577
+4425089
 
-================================================================================
 PAGE 81
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868578
+4425090
 Bestiary 2
+80
+80
 COMPSOGNATHUS FAMILIARS
 Appropriate familiar abilities for
 a compsognathus familiar include
@@ -667,7 +687,7 @@ is curious to a fault; most encounters that result in combat with these diminuti
 dinosaurs result not from the creatures’ hunger but from frightened defensive
 reactions when the dinosaurs’ inquisitive natures compel them to enter into
 situations (such as wagons or bedrolls) that inadvertently put them at odds with
-surprised adventurers.
+surprised adventurers.
 A compsognathus measures 3 feet long from its head to the tip of its tail and
 weighs 15 pounds. It is small enough to serve as a house pet or even as a familiar
 for a spellcaster. In cases where magical links aren’t involved, however, those
@@ -698,7 +718,7 @@ venom
 Compsognathus Venom (poison)
 Saving Throw DC 16 Fortitude;
 Maximum Duration 4 rounds; Stage 1 1d6 poison damage and enfeebled 1
-(1 round); Stage 2 1d8 poison damage and enfeebled 1 (1 round)
+(1 round); Stage 2 1d8 poison damage and enfeebled 1 (1 round)
 PACHYCEPHALOSAURUS
 Pachycephalosauruses are normally peaceful herbivorous dinosaurs, but they grow
 much more violent during their mating season, when they ﬁght one another to win
@@ -710,11 +730,46 @@ it to make battering-ram-like charges capable of inﬂicting great damage.
 Some humanoid groups have successfully trained pachycephalosauruses for use
 as mounts, but the creatures aren’t particularly well suited to the task.
 Pachycephalosauruses grow to a length of 15 feet and weigh 1,400 pounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868578
+4425090
 
-================================================================================
 PAGE 82
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868579
+4425091
+D
+8181
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 DINOSAUR ABILITIES
 While the real world fossil records
 hold a wealth of inspiration for
@@ -726,90 +781,103 @@ an unusual attack routine like
 Clobbering Charge ensures that
 dinosaurs are as interesting in
 combat as they are in appearance.
+PACHYCEPHALOSAURUS
+CREATURE 3
+N
+LARGE
+ANIMAL
+DINOSAUR
+Perception +10; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +11, Intimidation +7
+Str +4, Dex +3, Con +4, Int –4, Wis +3, Cha +0
+AC 19; Fort +12, Ref +11, Will +7
+HP 65
+Speed 35 feet
+Melee Ȱɵ skull +11 (forceful, reach 10 feet), Damage 1d10+6 bludgeoning
+Clobbering Charge ʚʖ The pachycephalosaurus Strides up to its Speed. If it ends its
+movement within melee reach of a target, it can make a skull Strike against that
+target. If the pachycephalosaurus critically hits with this Strike, the creature hit is
+stunned 1.
+Sudden Shove Ǻȓ (attack) Trigger The pachycephalosaurus damages a Medium or
+smaller foe with its skull Strike; Eﬀect The pachycephalosaurus digs in and ﬂings
+its head up, shoving its foe away. It attempts an Athletics check against the target’s
+Fortitude DC.
+Critical Success The pachycephalosaurus pushes the opponent up to 10 feet away
+from itself and knocks the target prone.
+Success The pachycephalosaurus pushes the opponent back 5 feet.
+Failure The pachycephalosaurus fails to push the opponent.
+Critical Failure As failure, but the failed attempt leaves the pachycephalosaurus
+ﬂat‑footed for 1 round.
+HADROSAURID
+Hadrosaurids are a broad grouping
+of herbivorous dinosaurs that
+share
+characteristic
+ﬂat
+snouts ﬁlled with rows
+of grinding teeth well
+suited
+for
+feeding
+on vegetation. Also
+known as “duck-billed
+dinosaurs” due to the
+unusual shape of their jaws,
+hadrosaurids
+are
+lumbering
+creatures that can rival an
+elephant for size, although they
+tend to be much less aggressive and
+are prone to ﬂight when confronted
+with danger rather than stubbornly standing
+their ground. Many species of hadrosaurids have
+uniquely shaped crests on their heads that give each
+species its own unusual proﬁle, making them easily
+recognizable even to an amateur dinosaur watcher.
+Giants and other oversized creatures have been known
+to domesticate hadrosaurids to serve as livestock. Despite
+their ability to sprint quickly, they don’t make particularly
+viable mounts due to their timid natures, but in a large group,
+a panicked gathering of hadrosaurids can wreak
+great damage with their trampling.
+A hadrosaurid can walk for short
+distances on its hind legs but prefers
+to graze and travel on all fours. The
+typical hadrosaurid is 20 to 30
+feet long and can weigh up to
+10,000 pounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868579
+4425091
 
-================================================================================
-# DOPRILLU
-================================================================================
-
-
-DOPRILLU MASKS
-A doprillu’s stylized mask isn’t a part
-of the creature itself, though doprillus
-inherently understand the mask’s
-purpose and power. When born,
-doprillus start out weak and small.
-Once one matures and gains suﬃcient
-intelligence and manual dexterity, it
-carves its personal mask. The ﬁrst
-time it dons the mask, the doprillu
-rushes out to seek a ﬁght. This mask
-is never replaced, and it might be
-marred from hundreds of battles.
-Doprillu
-The aberrations known as doprillus are hulks with banded muscles who wear ornate
-masks at all times that ﬁll their wearers with magical strength and ﬁghting spirit.
-Doprillus love to battle, especially by grappling, and are eager to start brawls. On
-neutral ground, a doprillu offers to duel the strongest-looking opponent, but when
-a doprillu’s home turf is invaded, no rules apply to the confrontation. As beﬁts the
-superheated blood that fuels them, doprillus make their homes in warm locations:
-hot jungles, sunny deserts, and underground caverns near sulfur vents.
-DOPRILLU
-CREATURE 14
-NE
-MEDIUM
-ABERRATION
-Perception +22; darkvision, see invisibility
-Languages Aklo, Common, Undercommon
-Skills Acrobatics +26, Athletics +30, Intimidation +22, Stealth +24
-Str +8, Dex +6, Con +7, Int +1, Wis +4, Cha +2
-AC 36; Fort +27, Ref +28, Will +24; +2 status to all saves vs. fear
-HP 260, regeneration 20 (deactivated by cold); Immunities enfeebled (while wearing its
-mask), slowed (while wearing its mask); Resistances ﬁre 15
-Mask of Power A doprillu’s unique wooden mask is the source of its power. A
-doprillu deprived of its mask loses its regeneration and its immunity to
-enfeebled and slowed, and it immediately becomes enfeebled 1. The
-enfeebled value increases by 1 at the start of each of the doprillu’s
-turns, to a maximum of enfeebled 4. If the mask is put back on, the
-doprillu immediately regains its abilities and loses the enfeebled
-condition. A creature can pull oﬀ the mask with a successful DC 34
-Athletics check to Force Open.
-Volcanic Veins (ﬁre) Fiery magma runs through the doprillu’s veins.
-A creature that starts its turn grabbed by the doprillu takes
-7d6 ﬁre damage.
-Deﬂect Arrow Ǻȓ Trigger The doprillu is the target
-of a physical ranged attack; Requirements The
-doprillu is aware of the attack, isn’t ﬂat-footed
-against it, and has a hand free; Eﬀect The
-doprillu gains a +4 circumstance bonus to
-its AC against the triggering attack.
-Speed 40 feet, climb 40 feet
-Melee Ȱɵ ﬁst +30 (agile, magical),
-Damage 3d8+16 plus 2d6 ﬁre and
-Improved Grab
-Occult Innate Spells DC 28; Constant
-(6th) see invisibility
-Body Strike Ȱɵ Requirements The
-doprillu has a creature grabbed;
-Eﬀect The doprillu swings the
-grabbed creature as a weapon. This
-Strike has a +30 attack modiﬁer and
-deals 3d8+16 bludgeoning damage.
-The Strike is magical and has a reach
-of 10 feet. On a hit, the grabbed creature
-takes half the damage dealt to the target.
-Whirlwind Throw ʚʖ Requirements The doprillu has a creature
-grabbed; Eﬀect The doprillu whirls the grabbed creature about,
-making a Body Strike against each creature in reach. After that
-Strike, the doprillu can hurl the grabbed creature up to 50 feet
-as a ranged Strike. This Strike has the same attack modiﬁer
-and damage as Body Strike, but has the thrown 20 feet
-weapon trait
-
-================================================================================
 PAGE 87
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868584
+4425096
 Bestiary 2
+86
+86
 BRINE DRAGON SPELLCASTERS
 Brine dragon spellcasters tend to
 cast the following spells.
@@ -891,11 +959,47 @@ philanthropy, and the strength and health of their settlement as a whole are of
 greater concern than individuals’ well-being. A notable exception to this dispassion
 rises when an outside force encroaches on their lands. In these cases, the brine
 dragon is quick to step in and aid in the defense of their community.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868584
+4425096
 
-================================================================================
 PAGE 88
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868585
+4425097
+D
+87
+87
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 REZLARABREN
 A series of underwater caverns
 on Thoska Isle in the Ironbound
@@ -912,90 +1016,99 @@ or can accumulate and display their gathered wealth in a place where they feel
 safe spreading out their treasures. Brine dragon hoards often consist of a mix of
 offerings and taxes paid by those they rule over and strange discoveries salvaged
 from sunken ships.
-
-================================================================================
-# DRAINBERRY BUSH
-================================================================================
-
-
-DRAINBERRY COLLECTIONS
-As drainberry bushes sell their berries
-to others, they collect coins and small
-curios—such as a cameo depicting a fey
-noble, a lock of golden hair knotted in
-a complex pattern, or a ring inscribed
-“To my dearest Memdaria.” Not all of
-these baubles have monetary value,
-but those that don’t certainly had
-emotional value to the original owner.
-Occasionally, drainberry bushes
-accept intangible trade goods, such as
-odes celebrating the bushes’ grandeur.
-Drainberry Bush
-Drainberry bushes are ﬂoating bushes that originate from the First World, with long,
-thorny vines and dense clusters of bright-red berries. Their hollow thorns quickly
-siphon blood, which is how these carnivorous plants feed, and they rapidly turn
-consumed blood into fresh batches of delicious berries. Drainberry bushes exude a
-faint white glow that is a result of stored positive energy.
-Drainberry bushes exhibit unusually high intelligence and have an astute sense
-of value. They typically become insulted when creatures attempt to harvest their
-berries. Creatures that attempt to converse with drainberry bushes ﬁnds the plants
-telepathically convey only short and simple phrases: most commonly, “Money
-please,” “Deal good,” “Deal no good,” “Want that,” (with a gesture toward an
-item it covets), “Thank you, customer,” and if necessary, “No refunds.” Though
-a drainberry bush considers the market value of its berries to be 25 gp, it greatly
-prefers interesting art objects as payment—even ones of signiﬁcantly lower value.
-DRAINBERRY BUSH
-CREATURE 7
-N
+YOUNG BRINE DRAGON
+CREATURE 8
+UNCOMMON
+LN
 LARGE
-PLANT
-Perception +16; lifesense 120 feet
-Languages Aklo, Common, Sylvan (can’t speak any language); telepathy 100 feet
-Skills Acrobatics +11, Athletics +17, Diplomacy +13, Nature +17, Stealth +11 (+15 to appear
-as a bush)
-Str +6, Dex +2, Con +6, Int –2, Wis +4, Cha +2
-Nature Empathy The drainberry bush can use Diplomacy to Make an Impression on
-and make very simple Requests of animals and plant creatures.
-AC 23; Fort +17, Ref +13, Will +13
-HP 135; Weaknesses ﬁre 5; Resistances negative 10
-Speed 25 feet, climb 20 feet
-Melee Ȱɵ vine +17 (reach 20 feet), Damage 2d8+10 bludgeoning plus
-Improved Grab
-Blood Berries The drainberry bush must drain blood from living
-creatures for sustenance. This causes clusters of bright red
-berries to grow among its branches. Each cluster of berries lasts
-for 1 day, and a drainberry bush typically has 1d6+3 clusters when
-encountered. When consumed, a cluster
-restores 2d8+10 Hit Points. This eﬀect has
-the healing, necromancy, and primal traits.
-A creature can pluck a cluster of berries
-with a successful unarmed Strike or
-Thievery check against the bush’s AC.
-Consume Berries Ȱɵ (healing, necromancy,
-positive, primal) The bush draws nourishment
-from one cluster of blood berries, regaining
-2d8+10 HP. That berry cluster wrinkles and dies.
-Drain Blood Ȱɵ Requirements The drainberry bush
-has at least one living creature grabbed with one of its
-vines; Eﬀect The bush’s hollow thorns siphon blood
-from creatures it has grabbed. Each creature
-must succeed at a DC 25 Fortitude save or take
-2d8+10 damage and become drained 1 (double
-damage and drained 2 on a critical failure). For
-every creature damaged this way, a cluster of
-blood berries (see above) immediately grows
-along the bush’s branches.
-Storm of Vines ʚʖ The drainberry bush makes up to
-four vine Strikes, each against a diﬀerent target. These
-attacks count toward the bush’s multiple attack penalty, but the multiple attack
-penalty doesn’t increase until after the bush makes all these attacks.
+AMPHIBIOUS
+DRAGON
+ELEMENTAL
+WATER
+Perception +16; darkvision, scent (imprecise) 60 feet
+Languages Aquan, Common, Draconic
+Skills Acrobatics +14, Athletics +18, Deception +18, Intimidation +18, Nature +16,
+Society +16, Survival +14
+Str +6, Dex +2, Con +4, Int +2, Wis +2, Cha +4
+AC 27; Fort +18, Ref +16, Will +16
+HP 142; Immunities acid, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 24
+Brine Spit Ǻȓ Trigger A creature the brine dragon observes within 30 feet uses
+a concentrate action; Eﬀect The dragon spits a glob of caustic salt water at
+the creature. The creature takes 3d6 acid damage (DC 26 basic Reﬂex save).
+On a failure, the concentrate action is disrupted.
+Speed 30 feet, ﬂy 100 feet, swim 50 feet
+Melee Ȱɵ jaws +20 (acid, reach 10 feet), Damage
+2d10+8 piercing plus 2d4 acid
+Melee Ȱɵ claw +20 (agile), Damage 2d8+8 slashing
+Melee Ȱɵ tail +18 (reach 15 feet), Damage 2d12+8 bludgeoning
+Melee Ȱɵ wing +18 (agile, reach 10 feet), Damage 1d12+8
+piercing
+Primal Innate Spells DC 26, attack +18; 2nd obscuring
+mist; 1st hydraulic push (×2)
+Breath Weapon ʚʖ (acid, evocation, primal) The dragon
+breathes a spray of acidic salt water that deals 9d6 acid damage
+in an 80-foot line (DC 26 basic Reﬂex save). They can’t use Breath
+Weapon again for 1d4 rounds.
+Draconic Frenzy ʚʖ The dragon makes two claw Strikes and one wing
+Strike in any order.
+Draconic Momentum The dragon recharges their Breath Weapon
+whenever they score a critical hit with a Strike.
+ADULT BRINE DRAGON
+CREATURE 12
+UNCOMMON
+LN
+HUGE
+AMPHIBIOUS
+DRAGON
+ELEMENTAL
+WATER
+Perception +23; darkvision, scent (imprecise) 60 feet
+Languages Aquan, Common, Draconic, Sylvan
+Skills Acrobatics +20, Athletics +25, Deception +24, Intimidation +24,
+Nature +21, Society +21, Survival +21
+Str +7, Dex +2, Con +5, Int +3, Wis +5, Cha +6
+AC 33; Fort +25, Ref +20, Will +21; +1 status to all saves vs. magic
+HP 222; Immunities acid, paralyzed, sleep
+Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 30
+Brine Spit Ǻȓ As young brine dragon, but 5d6 damage and DC 30.
+Speed 40 feet, ﬂy 120 feet, swim 60 feet
+Melee Ȱɵ jaws +26 (acid, magical, reach 15 feet), Damage 3d10+12 piercing
+plus 3d4 acid
+Melee Ȱɵ claw +26 (agile, magical, reach 10 feet), Damage 3d8+12 slashing
+Melee Ȱɵ tail +24 (magical, reach 20 feet), Damage 3d12+12 bludgeoning
+Melee Ȱɵ wing +24 (magical, reach 15 feet), Damage 1d12+12 piercing
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868585
+4425097
 
-================================================================================
 PAGE 101
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868598
+4425110
 Bestiary 2
+100
+100
 DRAKES AND DRAGONS
 Although drakes and dragons are
 related to one another, little love is
@@ -1017,116 +1130,85 @@ to shiny materials, they employ deception, teamwork, and even rudimentary traps
 to create opportunities to make off with ill-gotten gains. Shadow drakes have a
 particular fascination and admiration for umbral dragons—a notable exception
 to the norm for drakes and dragons.
-
-================================================================================
-# DRAUGR
-================================================================================
-
-
-Bestiary 2
-DRAUGR SHIPS
-When an entire ship’s crew dies
-in one calamity, they might rise
-simultaneously, bound together in
-death. Tirelessly plaguing the seas,
-these draugr crews slowly corrupt
-their vessels. The cursed ships often
-exhibit unsettling phenomena, such
-as being able to sail against the wind
-or leaving schools of dead ﬁsh in
-their wake. Sea shanties tell of draugr
-raiders approaching during the night,
-wreathed in fog pierced only by the
-green glow emanating from their eyes.
-Draugr
-Risen corpses of sailors who died at sea, draugr reek of the rot and decay of
-the briny deep. Their eyes glow with ghastly green light, and rotting seaweed,
-barnacles, and dead sea creatures cling to their bodies. Draugr can’t speak, but
-expresses their malicious emotions with gurgles, as though they were eternally
-drowning with lungs full of water. They desire little more than to attack living
-creatures, especially those who sail the sea. Even when they go upon land, draugrs
-often drag the corpses of those they strike down back to the water, populating the
-depths with even more dead.
-Draugr rise in the haunted places of the sea, where restless spirits, swells of negative
-energy, or supernatural storms deliver death. A corpse might rest at the bottom of the
-sea for some time before awakening as a draugr. Collecting detritus and organisms, a
-corpse becomes increasingly disgusting before it ﬁnally rises. Proximity to intelligent
-life can expedite this process, and an underwater explorer who happens upon a
-shipwreck might cause a body to snap to unlife as a draugr suddenly. The creatures
-don’t take intrusions lightly, especially upon their place of death.
-Though steeped in evil, draugr are susceptible to reminders of their lives as
-mariners. In particular, a well-performed sea shanty or call-and-response work
-song might cause a draugr to become lost in reverie for a moment. The creatures
-have even been witnessed moaning along, unable to sing the words but
-providing haunting accompaniment. The lull rarely lasts long, though, as the
-beauty of the song quickly becomes a reminder of the tragedy that befell the
-draugr, reafﬁrming their desire for blood and death.
-More powerful draugr with burning red eyes are called draugr
-captains. They’re 3rd-level creatures with elite adjustments
-(page 6) that can cast obscuring mist as an innate divine spell
-three times per day.
-DRAUGR
+SHADOW DRAKE
 CREATURE 2
 CE
-MEDIUM
-UNDEAD
-WATER
-Perception +7; darkvision
-Languages Common (can’t speak any language)
-Skills Athletics +10, Stealth +8
-Str +4, Dex +2, Con +3, Int –1, Wis +1, Cha +1
-Items greataxe, leather armor
-AC 17; Fort +11, Ref +6, Will +7
-HP 35; negative healing; Immunities death eﬀects, disease, paralyzed,
-poison, unconscious; Weaknesses positive 5; Resistances ﬁre 3
-The Sea’s Revenge (curse, divine, necromancy) A creature that slays a
-draugr is subjected to a mariner’s curse spell with a save DC of 17. The
-curse ends if the draugr is buried in a calm sea or after 1 week passes.
-Speed 25 feet, swim 25 feet
-Melee Ȱɵ greataxe +10 (sweep), Damage 1d12+4 slashing plus
-grotesque gift
-Melee Ȱɵ fist +10 (agile), Damage 1d4+4 slashing plus
-grotesque gift
-Grotesque Gift (olfactory) A draugr’s attacks spatter
-their targets with rancid ﬂesh and rotting seaweed.
-A creature damaged by a draugr’s Strike must
-succeed at a DC 15 Fortitude save or become
-sickened 1 (sickened 2 on a critical failure).
-Swipe ʚʖ The draugr makes a melee Strike and
-compares the attack roll result to the AC of up to two
-foes, each of whom must be within its melee reach
-and adjacent to each other. Roll damage only once and
-apply it to each creature hit. A Swipe counts as two
-attacks for the draugr’s multiple attack penalty.
+TINY
+DRAGON
+SHADOW
+Perception +6; darkvision, scent (imprecise) 30 feet
+Languages Draconic
+Skills Acrobatics +8, Stealth +8, Thievery +8
+Str +1, Dex +4, Con +1, Int –1, Wis +0, Cha +2
+Light Blindness
+Shadow Blend The shadow drake’s form shifts and blends reﬂexively with surrounding
+shadows. A shadow drake gains an additional reaction each round, but it can use this
+reaction only for Shadow Evade.
+Shadow Evade Ǻȓ Trigger A creature attacks the shadow drake while it is in an area of
+dim light; Eﬀect The shadow drake further obscures its position. The attacker must
+succeed at a DC 11 ﬂat check in order to aﬀect the shadow drake, as if the drake were
+Hidden for the triggering attack.
+AC 17; Fort +7, Ref +10, Will +6
+HP 28; Immunities paralyzed, sleep;
+Weaknesses ﬁre 5
+Speed 15 feet, ﬂy 60 feet
+Melee Ȱɵ jaws +11 (ﬁnesse),
+Damage 1d10+3 piercing
+Melee Ȱɵ tail +11 (agile,
+ﬁnesse), Damage 1d8+3
+bludgeoning
+Draconic Frenzy ʚʖ The
+shadow drake makes one
+bite Strike and two tail
+Strikes in any order.
+Shadow Breath ʚʖ (arcane,
+cold, evocation, shadow) A
+shadow drake spits a ball of black
+liquid that explodes into a cloud of
+frigid black shadow. This attack has a range
+of 40 feet and explodes in a
+5-foot-radius burst.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868598
+4425110
 
-================================================================================
 PAGE 104
 ================================================================================
 
-DWEOMERCAT FAMILIARS
-Particularly powerful spellcasters
-sometimes take young dweomercat
-cubs as familiars. Their
-independence and ﬂightiness makes
-dweomercats somewhat unreliable
-allies, though, so one is never
-sure whether their bond with a
-dweomercat will be long-lasting or a
-temporary aﬀair.
-Dweomercat
-Dweomercats are magically gifted felines from the First World, where they prey
-upon other creatures and feed upon their primal energy. They are sometimes
-encountered in areas of the Material Plane where the veil to the First World is
-thin, or in regions where magic has been irreparably warped. Dweomercats are
-famous for their ability to twist the metaphorical strings of spells cast on or near
-them, which they can transform into their own defensive magic or tap into to
-instantly teleport across the battleﬁeld.
-
-================================================================================
-# DWEOMERCAT
-================================================================================
-
-
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868601
+4425113
+D
+103
+103
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 DWEOMERCAT FAMILIARS
 Particularly powerful spellcasters
 sometimes take young dweomercat
@@ -1201,47 +1283,42 @@ Pounce Ȱɵ The dweomercat Strides and makes
 a Strike at the end of that movement. If the
 dweomercat began this action hidden, it remains
 hidden until after this ability’s Strike.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868601
+4425113
 
-================================================================================
 PAGE 105
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868602
+4425114
 Bestiary 2
+104
+104
 D’ziriak
 These strange creatures are native to the Plane of Shadows, where their colorful
 nature is in opposition to that realm’s overwhelmingly monochromatic palette.
-Averaging 7 feet in height, d’ziriaks have four arms, two legs, and a termitelike abdomen. The larger pair of arms, used for most tasks, have ﬁve‑ﬁngered
-hands with sharp, insectile claws. The smaller pair of arms are reserved for ﬁne
-manipulations and are not effective in combat.
-D’ziriaks’ otherwise dull brown carapaces are decorated with numerous
-runes glowing in bright colors. These tattoo-like runes indicate an individual’s
-role in d’ziriak society, and set them apart from their home plane’s other native
-inhabitants. The runes glow with natural bioluminescence, and d’ziriaks can make
-them ﬂare brightly for an instant, at the expense of overstressing the biochemical
-glands that create and maintain the runes for an extended time. The color and
-shape of the runes are partially natural, but can be shaped and customized
-carefully over time to ﬁt the individual’s station.
-The D’ziriak language is a mix of buzzes and chitters, and is spoken by few
-other creatures. D’ziriaks prefer to communicate with other species using telepathy
-rather than endure the sound of their language being “butchered by ﬂeshy
-throats.” D’ziriaks organize into hive cities led by a king and queen. These
-hive cities consist of impressive spires, yet these towers are only the foremost
-part of the settlement, with many more chambers reaching deep below for
-residences, workshops, and fungus farms. D’ziriak settlements are lit inside
-and out with alchemical and magical light sources, often in the shapes of
-runes. These dimly glowing towers provide travelers with landmarks, and
-perhaps promise safe havens, on the otherwise gloomy Shadow Plane.
-
-================================================================================
-# D’ZIRIAK
-================================================================================
-
-
-Bestiary 2
-D’ziriak
-These strange creatures are native to the Plane of Shadows, where their colorful
-nature is in opposition to that realm’s overwhelmingly monochromatic palette.
-Averaging 7 feet in height, d’ziriaks have four arms, two legs, and a termitelike abdomen. The larger pair of arms, used for most tasks, have ﬁve‑ﬁngered
+Averaging 7 feet in height, d’ziriaks have four arms, two legs, and a termite-
+like abdomen. The larger pair of arms, used for most tasks, have ﬁve‑ﬁngered
 hands with sharp, insectile claws. The smaller pair of arms are reserved for ﬁne
 manipulations and are not effective in combat.
 D’ziriaks’ otherwise dull brown carapaces are decorated with numerous
@@ -1308,11 +1385,48 @@ hive cities, light weavers create art,
 lighting, signage, and magic wards.
 They also use their light weaving for
 entertainment and education.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868602
+4425114
 
-================================================================================
 PAGE 106
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868603
+4425115
+E-G
+E-G
+105
+105
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 OTHER AQUATIC REPTILES
 The elasmosaurus is but one of
 many types of aquatic reptiles found
@@ -1345,115 +1459,86 @@ or even large cities to be wondrous banquets and are usually hunted down by
 coastal guards or adventurers. When a wayward
 elasmosaurus like this ﬁnds its way into a city’s
 sewer system or reservoirs, though, it can become
-the stuff of urban legends.
-
-================================================================================
-# DUST MEPHIT
-================================================================================
-
-
-Bestiary 2
-MEPHIT INTERACTIONS
-Diﬀerent types of mephits that can
-be found on the same elemental
-plane often develop friendly (or, in
-some cases, ﬁerce) rivalries with
-one another. While mephits from
-elementally opposed planes (such
-as ﬁre and water) may have strong
-opinions about the superiority of
-their own element, the fact that they
-rarely see such mephits means that
-when they do encounter them, they
-often get along better than they do
-with their close neighbors.
-Elemental, Mephit
-Mephits are small, weak creatures that serve at the whims of other elemental entities.
-The mephits presented here are less common than air mephits, earth mephits, and the
-like, as they are a blend of two different elements rather than focusing on one alone.
-DUST MEPHIT
-Whining and self-important creatures, dust mephits are known for their tendency
-to pronounce doom and gloom at every opportunity, lamenting every insigniﬁcant
-and minor difﬁculty as though it were an insurmountable obstacle and making
-themselves out to be heroes for struggling valiantly against their cruel fates. They
-tend to be thin and gaunt, with dusky brown and gray skin and wings.
-DUST MEPHIT
-CREATURE 1
-UNCOMMON
+the stuff of urban legends.
+ELASMOSAURUS
+CREATURE 7
 N
-SMALL
-AIR
-EARTH
-ELEMENTAL
-Perception +3; darkvision
-Languages Auran, Terran
-Skills Acrobatics +7, Stealth +7
-Str +1, Dex +4, Con +1, Int –2, Wis +0, Cha –1
-AC 17; Fort +6, Ref +9, Will +5
-HP 16, fast healing 2 (in dust or sand); Immunities bleed, paralyzed, poison, sleep
-Speed 20 feet, ﬂy 35 feet
-Melee Ȱɵ claw +9 (agile, ﬁnesse), Damage 1d6+1 slashing
-Arcane Innate Spells DC 17; 2nd glitterdust
-Breath Weapon ʚʖ (air, arcane, earth) The dust mephit breathes a cloud of dust in a
-15-foot cone that deals 2d6 slashing damage to each creature within the area (DC 17
-basic Reﬂex save). The dust mephit can’t use Breath Weapon again for 1d4 rounds.
-ICE MEPHIT
-Though capable of the same depths of cruelty as their ﬁre mephit kin, ice
-mephits carry theirs out in a more calculating way. Unlike most
-mephits, these pale blue mephits prefer solitude to company.
-Lacking in empathy, they are known for their callousness,
-and have a reputation for brutal honesty. They also have
-few moral qualms about acting selﬁshly
-and exploiting weakness for their own gain,
-should the chance arise.
-
-================================================================================
-# DUNESHAKER SOLIFUGID
-================================================================================
-
-Pounce Ȱɵ The giant solifugid Strides and makes a Strike at the end of that movement.
-If the giant solifugid began this action hidden, it remains hidden until after this
-ability’s Strike.
-Rend Ȱɵ claw
-DUNESHAKER SOLIFUGID
-The largest solifugids, duneshakers, are so immense that their movements make
-the terrain around them tremble. They can prey on creatures the size of mammoths
-or even larger.
-DUNESHAKER SOLIFUGID
-CREATURE 18
-N
-GARGANTUAN
+HUGE
 ANIMAL
-Perception +30; darkvision, tremorsense (imprecise) 30 feet
-Skills Acrobatics +33, Athletics +35, Stealth +33 (+37 in deserts)
-Str +9, Dex +7, Con +7, Int –5, Wis +4, Cha –4
-AC 42; Fort +31, Ref +33, Will +28
-HP 340
-Speed 50 feet, burrow 25 feet, climb 25 feet
-Melee Ȱɵ jaws +35 (reach 10 feet), Damage 4d10+17 piercing
-Melee Ȱɵ claw +35 (agile, reach 20 feet), Damage 3d10+17
-slashing
-Earth Shaker Each turn, the ﬁrst time the
-duneshaker solifugid is adjacent to
-a Large or smaller creature during
-a move action it’s using, that
-creature must succeed at a DC 39
-Reﬂex save or fall prone.
-Pounce Ȱɵ The duneshaker
-solifugid Strides and makes a
-Strike at the end of that movement. If the duneshaker solifugid began this action
-hidden, it remains hidden until after this ability’s Strike.
-Rend Ȱɵ claw
-Venom Spray ʚʖ (poison) The duneshaker solifugid spews toxic barbs at all creatures
-in a 30-foot cone. Each creature within the area takes 10d6 poison damage (DC 39
-basic Fortitude save). A creature that fails its saving throw is blinded for 1d6 rounds
-(or permanently on a critical failure). The duneshaker solifugid can’t use Venom
-Spray again for 1d4 rounds.
+Perception +16; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +17
+Str +6, Dex +4, Con +6, Int –4, Wis +5, Cha –1
+Deep Breath The elasmosaurus can hold its breath for 2 hours.
+AC 25; Fort +17, Ref +13, Will +16
+HP 125
+Long Neck An elasmosaurus’s long neck allows it to interact with the surface while
+its body remains submerged underwater. While submerged no deeper than 15 feet
+underwater, an elasmosaurus can still stick its head up to breathe. An elasmosaurus
+gains cover against attacks made against creatures who are above the water’s
+surface while it is underwater, even if its head is above the surface.
+Attack of Opportunity Ǻȓ Jaws only.
+Speed 5 feet, swim 35 feet
+Melee Ȱɵ jaws +17 (reach 15 feet), Damage 2d12+10 piercing plus Grab
+Melee Ȱɵ paddle +17, Damage 2d6+10 bludgeoning
+Drag Below Ȱɵ (attack) The elasmosaurus attempts an Athletics check against a
+grabbed foe’s Fortitude DC. If the elasmosaurus succeeds, the foe is forcibly moved
+5 feet toward the elasmosaurus’s body. If the elasmosaurus
+critically succeeds, the foe is moved 10 feet towards the
+elasmosaurus’s body.
+Thrashing Retreat ʚʖ A swimming
+elasmosaurus thrashes the area
+around it as it attempts to ﬂee.
+It makes two paddle Strikes, each
+of which must be against
+separate
+targets,
+and
+each of which takes the
+normal multiple attack penalty. It then Swims up
+to its swim Speed. This Swim does not trigger
+reactions based on movement.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868603
+4425115
 
-================================================================================
 PAGE 248
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868745
+4425257
+S-T
+S-T
+247
+247
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 SOUL GLUTTONS
 As if soul eaters weren’t frightening
 enough, there exists on Abaddon
@@ -1469,137 +1554,105 @@ wriggling out of a conjurer’s control.
 Soul Eater
 Only the most desperate or foolhardy conjurers call upon the aid of these strange
 ﬁends from the inky swamps of Abaddon.
+SOUL EATER
+CREATURE 7
+UNCOMMON
+NE
+MEDIUM
+FIEND
+Perception +15; greater darkvision
+Languages Daemonic
+Skills Abaddon Lore +12, Acrobatics +17, Intimidation +15, Stealth +17 (+19 in darkness
+or smoke)
+Str +0, Dex +6, Con +4, Int –1, Wis +4, Cha +4
+Caster Link (detection, divine, divination) A conjured soul eater forms a mental link with
+its conjurer. While both are on the same plane, the soul eater knows the location of its
+conjurer per its ﬁnd target ability. If the soul eater’s target dies before the soul eater
+can drain its soul, or if the soul eater is defeated (but not destroyed) by the target, the
+soul eater returns to its conjurer and tries to kill them.
+Find Target (detection, divine, divination) When a soul eater is
+conjured to the Material Plane to ﬁnd a speciﬁc
+creature, it gains the beneﬁts of a 5th-level
+locate spell that isn’t blocked by lead or
+running water. The conjurer must
+have seen the target and must
+speak the target’s name while
+conjuring the soul eater in
+order to grant this ability.
+AC 26; Fort +13, Ref +19, Will +15
+HP 80; Immunities critical hits,
+disease, paralyzed, poison, precision,
+sleep; Weaknesses good 10; Resistances physical 10
+Speed 25 feet, ﬂy 60 feet
+Melee Ȱɵ claw +19 (agile, ﬁnesse), Damage 2d6+3
+slashing plus 2d6 negative and mind-numbing touch
+Drain Soul ̂ˬ (death, divine, manipulate, necromancy)
+Requirements The soul eater is adjacent to a dying
+creature; Eﬀect The soul eater attempts to
+devour the dying creature’s soul. The creature
+must attempt a DC 25 Will save. A creature
+that dies as a result of Drain Soul can’t be
+restored to life except by a spell or ritual of 8th
+level or higher. If the soul eater that used Drain
+Soul on a creature is slain within 100 feet of that
+creature’s corpse and the creature has been dead no
+longer than 1 minute, the creature’s soul returns to
+its body and is restored to life, leaving the creature
+unconscious and dying 1 but no longer doomed.
+Critical Success The creature is unaﬀected.
+Success The creature becomes doomed 1, or
+increases its doomed value by 1 if it was already doomed.
+Failure As success, but doomed 2.
+Critical Failure As success, but doomed 3.
+Mind-Numbing Touch (curse, divine, necromancy) When a soul eater hits a creature with
+its claw Strike, the creature must succeed at a DC 23 Fortitude save or become stupeﬁed
+1 (stupeﬁed 2 on a critical failure). Further damage dealt by the soul eater increases
+the stupeﬁed value by 1 on a failed save, to a maximum of stupeﬁed 4. This condition
+value decreases by 1 each time the creature gets a full night’s rest. As long as the
+creature is stupeﬁed by a soul eater, rest does not decrease any doomed
+value that creature might have.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868745
+4425257
 
-================================================================================
-# DREAM SPIDER
-================================================================================
-
-
-SHIVER ADDICTS
-Talented alchemists process dream
-spider venom into an addictive drug
-called shiver (Gamemastery Guide
-121). Those who become addicted to
-shiver may be driven in desperation
-to seek out dream spiders and allow
-them to bite their ﬂesh in order
-to get their ﬁx—a tactic that often
-backﬁres awfully as the spiders feed.
-Spider
-Spiders range dramatically in size, yet all are to some extent venomous.
-DREAM SPIDER
-A dream spider’s webs have an iridescent hue and are infused with the same
-hallucinogenic compound as the creature’s toxin. Originally denizens of tropical
-jungles, dream spiders have adapted well to temperate environments, particularly
-thriving among the rooftops of cities where shady alchemists use their venom to
-produce the drug known as shiver.
-DREAM SPIDER
-CREATURE 0
-N
-SMALL
-ANIMAL
-Perception +6; darkvision, web sense
-Skills Acrobatics +5, Athletics +2, Stealth +7
-Str +0, Dex +3, Con +1, Int –5, Wis +0, Cha –4
-Web Sense The dream spider has imprecise tremorsense to detect the vibrations of
-creatures touching its web.
-AC 16; Fort +5, Ref +7, Will +4
-HP 15
-Speed 25 feet, climb 25 feet
-Melee Ȱɵ bite +7 (ﬁnesse), Damage 1d6 plus dream spider venom
-Ranged Ȱɵ web +7 (range increment 10 feet), Eﬀect web trap plus dream spider venom
-Dream Spider Venom (poison) Saving Throw DC 16 Fortitude; Maximum Duration 4 rounds;
-Stage 1 stupeﬁed 1 (1 round); Stage 2 1d6 poison damage plus stupeﬁed 1 (1 round)
-Web Trap A creature hit by the dream spider’s web attack is immobilized and stuck to the
-nearest surface until it Escapes (DC 16).
-OGRE SPIDER
-These terrifying creatures grow as large as elephants. The placement
-of their eyes above their wide mandibles evokes the grimacing visage
-of an ogre’s leer. Ogres themselves ﬁnd the appearance of ogre spider
-faces simultaneously amusing and adorable, but in most cases, ogres’
-attempts to keep these spiders as pets result in dead ogres and wellfed spiders.
-
-================================================================================
-# DREAD WRAITH
-================================================================================
-
-
-Bestiary 2
-DREAD WRAITH ORIGINS
-The most unusual dread wraiths
-are those that coalesce from an
-amalgamation of evil spirits, often
-in regions where such spirits are
-shredded from their consciousnesses
-and churned in foci of negative
-energy, such as the Negative Energy
-Plane or on the Isle of Terror.
-Wraith, Dread
-These menacing spiritual remnants of wicked warlords or bloodthirsty generals
-are towering specters of shadow and death. Like other wraiths, dread wraiths
-haunt the shadowy places of the world, but dread wraiths are more likely to travel
-greater distances to sow terror or amass inﬂuence, often sticking to dark glades or
-sinister ruins when journeying across sun-dappled lands. Dread wraiths tends to
-be arrogant and rarely form a pack with others of their kind, preferring instead
-to dominate groups of ordinary wraiths. A particularly powerful necromancer
-might compel packs of dread wraiths into service, however, while a particularly
-malevolent goal—such as to eradicate a bastion of light and life—might draw
-several dread wraiths together in a common purpose.
-DREAD WRAITH
-CREATURE 9
-LE
-LARGE
-INCORPOREAL
-UNDEAD
-WRAITH
-Perception +19; darkvision, lifesense 60 feet
-Languages Common, Necril
-Skills Acrobatics +19, Intimidation +21, Stealth +19
-Str –5, Dex +6, Con +3, Int +3, Wis +4, Cha +6
-AC 28; Fort +16, Ref +19, Will +21; +1 status to all saves vs. positive
-HP 130, negative healing; Immunities death eﬀects, disease, paralyzed, poison, precision,
-unconscious; Resistances all 10 (except force, ghost touch, or positive; double
-resistance vs. non-magical)
-Draining Presence (aura, negative) 10 feet. A creature entering the aura must succeed at
-a DC 26 Fortitude save or become drained 1. It recovers after it has been out of the
-aura for 1 minute. This drained condition value is cumulative with the drained value
-caused by drain life, but not with multiple draining presence auras. A creature
-that succeeds at its save is temporarily immune to draining presence for 24 hours.
-Sunlight Powerlessness A dread wraith caught in sunlight is stunned 2 and
-clumsy 2.
-Attack of Opportunity Ǻȓ
-Speed ﬂy 60 feet
-Melee Ȱɵ spectral hand +21 (ﬁnesse, reach 10 feet), Damage 2d10+7
-negative plus drain life
-Absorb Wraith ʚʖ The dread wraith extends its hand toward
-another wraith creature within 100 feet. The target wraith
-dissolves and streaks toward the dread wraith in a straight
-line, dealing 6d10 negative damage to each creature along the
-line (DC 28 basic Fortitude save). The dread wraith absorbs the
-essence of the target wraith, becoming quickened and gaining a
-+10-foot status bonus to its ﬂy Speed for a number of rounds
-equal to the level of the absorbed wraith. It can use its
-extra action only to Fly or Strike. An unwilling target can
-attempt a DC 28 Will save to resist being absorbed.
-Drain Life (divine, necromancy) When the dread wraith
-damages a living creature with its spectral hand
-Strike, the wraith gains 10 temporary Hit Points
-and the target must succeed at a DC 28 Fortitude
-save or become drained 1. Further damage dealt
-by the wraith increases the drained condition value
-by 1 on a failed save, to a maximum of drained 4.
-Wraith Spawn (divine, necromancy) A living humanoid
-slain by a wraith’s spectral hand Strike rises as a wraith
-spawn after 1d4 rounds. This wraith spawn is under the
-command of the dread wraith that killed it. It doesn’t have drain
-life or wraith spawn. If the creator of the wraith spawn dies,
-the wraith spawn becomes a full-ﬂedged, autonomous wraith; it
-regains its free will and gains drain life and wraith spawn.
-
-================================================================================
 PAGE 300
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868797
+4425309
+U-Z
+U-Z
+299
+299
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 THE ETHER WAR
 Xills see Material Plane creatures as
 little more than incubators, but the
@@ -1619,3 +1672,69 @@ These four-armed, warmongering monsters paralyze their victims before implanting
 them with eggs using an ovipositor normally kept retracted behind their mandibles.
 Their single-minded drive to expand and conquer is so all-encompassing that while
 they work together dutifully and without dissent, there is little else in their lives.
+XILL
+CREATURE 6
+UNCOMMON
+LE
+MEDIUM
+ABERRATION
+ETHEREAL
+Perception +15; darkvision
+Languages Aklo
+Skills Acrobatics +15, Athletics +14, Deception +12, Intimidation +14, Stealth +15, Warfare
+Lore +12
+Str +4, Dex +5, Con +3, Int +0, Wis +3, Cha +0
+Items breastplate, +1 longbow (40 arrows), scimitar (2), steel shield (Hardness 5, HP 20,
+BT 10)
+AC 24 (26 with shield raised); Fort +15, Ref +17, Will +11
+HP 100
+Attack of Opportunity Ǻȓ
+Shield Block Ǻȓ
+Speed 35 feet
+Melee Ȱɵ scimitar +16 (forceful, sweep), Damage 2d6+7 slashing
+Melee Ȱɵ bite +16, Damage 2d8+7 piercing plus xill paralysis
+Ranged Ȱɵ longbow +17 (deadly 1d10, magical, range 100 feet, reload 0, volley
+30 feet), Damage 2d8 piercing
+Occult Innate Spells DC 24; 7th plane shift (to Ethereal Plane or Material Plane
+only, self only)
+Double Slash Ȱɵ (ﬂourish) The xill makes two scimitar Strikes against a single
+target. If both hit, combine their damage for the purpose of the target’s
+resistances and weaknesses. The xill applies its multiple attack penalty
+to each strike normally.
+Implant ʚʖ (manipulate) Requirements The xill is adjacent to a
+unconscious, willing, or paralyzed creature; Eﬀect The xill
+implants xill eggs in the creature’s ﬂesh.
+Xill Eggs (disease) The sickened condition from xill eggs doesn’t
+improve on its own until the disease is cured or runs its
+course. It can be cured with a 10-minute operation that
+requires a successful DC 26 Medicine check and deals
+4d6 slashing damage to the host; Saving Throw
+DC 24 Fortitude; Maximum Duration
+24 hours; Stage 1 infested with no
+ill eﬀect (8 hours); Stage 2 sickened 1
+(8 hours); Stage 3 sickened 2 (4 hours);
+Stage 4 sickened 2 and 2d6 persistent
+bleed damage as larval xills burrow out of
+the body and immediately fade away into
+the Ethereal Plane (1 hour)
+Xill Paralysis (incapacitation, occult) A
+creature hit by the xill’s bite Strike must attempt a DC 24 Fortitude save.
+Critical Success The creature is unaﬀected and is immune to xill
+paralysis for 1 minute.
+Success The creature is slowed 1 for 1 round.
+Failure The creature is paralyzed for 1 round.
+Critical Failure The creature is paralyzed. It can
+attempt a new save at the end of each of its turns
+to recover, and the save DC decreases by 1 each round.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868797
+4425309

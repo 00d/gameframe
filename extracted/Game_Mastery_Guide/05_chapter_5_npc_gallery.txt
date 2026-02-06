@@ -86,8 +86,9 @@ Templates on page 9) that allows you
 to customize an NPC to fit any deity,
 or a deity of your own creation!
 Gamemastery Guide
+204
+204
 
-================================================================================
 PAGE 206
 ================================================================================
 
@@ -96,109 +97,254 @@ NPC
 Level
 Page
 Acolyte of Nethys
+1
+212
 Acrobat
+2
+236
 Adept
 –1
+228
 Advisor
+5
+207
 Antipaladin
+5
+247
 Apothecary
 –1 (3)*
+220
 Apprentice
 –1
+244
 Archer sentry
+2
+233
 Assassin
+8
+211
 Astronomer
+2
+241
 Bandit
+2
+208
 Barkeep
+1
+238
 Barrister
 –1 (4)*
+232
 Beast tamer
+4
+237
 Beggar
 –1
+214
 Bodyguard
+1
+226
 Bosun
+3
+243
 Bounty hunter
+4
+226
 Burglar
+4
+210
 Captain of the guard
+6
+234
 Charlatan
+3
+209
 Chronicler
+3
+216
 Commoner
 –1
+214
 Cult leader
+7
+230
 Cultist
+1
+228
 Dancer
+1
+236
 Demonologist
+7
+231
 Despot
+5
+248
 Dockhand
+0
+222
 Drunkard
+2
+239
 Executioner
+6
+235
 False priest
+4
+229
 Farmer
+0
+222
 Fence
+5
+210
 Gang leader
+7
+249
 Grave robber
+1
+208
 Gravedigger
+1
+223
 Guard
+1
+232
 Guide
+4
+216
 Guildmaster
 8 (12)*
+245
 Harbormaster
+3
+225
 Harrow reader
 –1 (3)*
+228
 Hunter
+7
+219
 Innkeeper
+1
+239
 Jailer
+3
+233
 Judge
 –1 (6)*
+224
 Librarian
 –1 (3)*
+240
 Mage for hire
+3
+226
 Mastermind
 4 (7)*
+246
 Merchant
 –1 (4)*
+244
 Miner
+0
+223
 Monster hunter
+6
+227
 Navigator
 2 (4)*
+242
 Necromancer
+5
+230
 Noble
+3
+206
 Palace guard
+4
+206
 Physician
 –1 (4)*
+220
 Pirate
+2
+242
 Plague doctor
+5
+221
 Poacher
+2
+218
 Priest of Pharasma
+6
+213
 Prisoner
+1
+215
 Prophet
+2
+212
 Reckless scientist
+6
+248
 Ruffian
+2
+209
 Saboteur
+2
+246
 Sage
+6
+241
 Servant
 –1
+222
 Server
 –1
+238
 Ship captain
+6
+243
 Smith
 3 (6)*
+245
 Spy
+6
+207
 Surgeon
 2 (6)*
+220
 Tax collector
 –1 (3)*
+224
 Teacher
 –1 (4)*
+240
 Tomb raider
+5
+217
 Torchbearer
+0
+216
 Tracker
+3
+218
 Troubadour
+3
+237
 Urchin
 –1
+215
 Warden
+6
+225
 Watch officer
+3
+234
 Zealot of Asmodeus
+4
+212
 * This NPC is a higher-level challenge in their area of
 expertise. The NPC’s level during such a challenge is listed
 in parentheses.
@@ -222,8 +368,12 @@ Lore skill for that settlement.
 Quick Transcription The NPC can attempt to copy a
 document faster than normal, provided they don’t
 alter the content. They attempt a Scribing Lore check,
-completing the task in half the time on a success (onequarter on a critical success).
+completing the task in half the time on a success (one-
+quarter on a critical success).
+5
 NPC Gallery
+205
+205
 introduction
 Gamemastery
 Basics
@@ -234,7 +384,6 @@ NPC Gallery
 GLOSSARY
 and INDEX
 
-================================================================================
 PAGE 207
 ================================================================================
 
@@ -248,6 +397,8 @@ baron/baroness, baronet/
 baronetess, tribune, lord/
 lady, knight
 Gamemastery Guide
+206
+206
 COURTIERS
 Though adventurers travel through perilous dungeons and across treacherous
 wilderness, sometimes the most dangerous place they can end up is in a noble court.
@@ -311,7 +462,6 @@ Royal Defender Ever loyal, the palace guard gains a +2 circumstance bonus to att
 when defending their liege.
 PALACE GUARD
 
-================================================================================
 PAGE 208
 ================================================================================
 
@@ -327,7 +477,10 @@ of who might be scheming.
 • Palace doctor
 • Kitchen staff
 • Court jester
+5
 NPC Gallery
+207
+207
 introduction
 Gamemastery
 Basics
@@ -400,11 +553,12 @@ then Strikes with it. The target of the Strike is flat-footed against the attack
 Sneak Attack The spy deals an extra 2d6 precision damage to flat-footed creatures.
 SPY
 
-================================================================================
 PAGE 209
 ================================================================================
 
 Gamemastery Guide
+208
+208
 CRIMINALS
 Some criminals are the desperate who have no option but to break the law to
 survive, while others choose a life of crime for thrills, forming gangs or underworld
@@ -480,11 +634,13 @@ find accommodations but lead them
 to inns with exorbitant prices.
 BANDIT
 
-================================================================================
 PAGE 210
 ================================================================================
 
+5
 NPC Gallery
+209
+209
 introduction
 Gamemastery
 Basics
@@ -568,11 +724,12 @@ mediums use cold-reading
 techniques to lull gullible marks.
 CHARLATAN
 
-================================================================================
 PAGE 211
 ================================================================================
 
 Gamemastery Guide
+210
+210
 BURGLAR
 Burglars specialize in breaking and entering to rob homes and businesses. These
 criminals focus on gaining access to secure buildings and bypassing traps and other
@@ -605,7 +762,8 @@ Ranged [one-action] composite shortbow +14 (deadly 1d10, propulsive, range
 increment 60 feet, reload 0), Damage 1d6+4 piercing
 Mobility When the burglar Strides half their Speed or less, that
 movement does not trigger reactions.
-Sneak Attack The burglar deals an extra 1d6 precision damage to flatfooted creatures.
+Sneak Attack The burglar deals an extra 1d6 precision damage to flat-
+footed creatures.
 Surprise Attack On the first round of combat, if the burglar rolls Deception
 or Stealth for initiative, creatures that haven’t acted are flat-footed to them.
 FENCE
@@ -646,11 +804,13 @@ violating privacy with divinations,
 or trespassing via teleportation.
 BURGLAR
 
-================================================================================
 PAGE 212
 ================================================================================
 
+5
 NPC Gallery
+211
+211
 introduction
 Gamemastery
 Basics
@@ -716,7 +876,8 @@ Quick Draw [one-action] The assassin Interacts to draw a weapon, then Strikes wi
 that weapon.
 Sneak Attack The assassin deals an extra 2d6 precision damage to flat-footed
 creatures.
-Surprise Attack On the first round of combat, creatures that haven’t acted yet are flatfooted to the assassin.
+Surprise Attack On the first round of combat, creatures that haven’t acted yet are flat-
+footed to the assassin.
 PROTECTION MONEY
 Criminal organizations often find it
 easier to demand protection money
@@ -728,7 +889,6 @@ criminals, and some also promise
 retribution against other criminals.
 FENCE
 
-================================================================================
 PAGE 213
 ================================================================================
 
@@ -805,9 +965,10 @@ heal spells.) If you swap harm spells
 for heal, replace Healing Hands with
 the Selective Energy cleric feat.
 Gamemastery Guide
+212
+212
 ACOLYTE
 
-================================================================================
 PAGE 214
 ================================================================================
 
@@ -885,7 +1046,10 @@ Cantrips chill touch, detect magic,
 divine lance, guidance, shield; Cleric
 Domain Spell undeath’s blessing
 (Core Rulebook 398)
+5
 NPC Gallery
+213
+213
 introduction
 Gamemastery
 Basics
@@ -897,7 +1061,6 @@ GLOSSARY
 and INDEX
 PRIEST
 
-================================================================================
 PAGE 215
 ================================================================================
 
@@ -976,9 +1139,10 @@ a critical success). This action
 has the concentrate, emotion,
 manipulate, and mental traits.
 Gamemastery Guide
+214
+214
 BEGGAR
 
-================================================================================
 PAGE 216
 ================================================================================
 
@@ -1065,7 +1229,10 @@ of fans who frequent a bard’s
 performances might throw rocks to
 distract someone trying to fight the
 bard, and so on.
+5
 NPC Gallery
+215
+215
 introduction
 Gamemastery
 Basics
@@ -1077,7 +1244,6 @@ GLOSSARY
 and INDEX
 URCHIN
 
-================================================================================
 PAGE 217
 ================================================================================
 
@@ -1152,9 +1318,10 @@ expert Athletics, Scouting Lore, and
 Survival.) A character can have this
 benefit for only one skill at a time.
 Gamemastery Guide
+216
+216
 CHRONICLER
 
-================================================================================
 PAGE 218
 ================================================================================
 
@@ -1231,7 +1398,10 @@ nations and distant worlds.
 • In faraway chasms, the
 haunted clockwork wails in a
 thousand voices.
+5
 NPC Gallery
+217
+217
 introduction
 Gamemastery
 Basics
@@ -1243,11 +1413,12 @@ GLOSSARY
 and INDEX
 GUIDE
 
-================================================================================
 PAGE 219
 ================================================================================
 
 Gamemastery Guide
+218
+218
 FORESTERS
 From the managed and cultivated forests that support villages to the tree-covered
 crown lands where only nobles and their servants are permitted to hunt, forests
@@ -1318,11 +1489,13 @@ catch and setting dogs to chase them
 through the woods.
 POACHER
 
-================================================================================
 PAGE 220
 ================================================================================
 
+5
 NPC Gallery
+219
+219
 introduction
 Gamemastery
 Basics
@@ -1419,11 +1592,12 @@ home to the Fierani rangers’ great
 nemesis, the demon Treerazer.
 HUNTER
 
-================================================================================
 PAGE 221
 ================================================================================
 
 Gamemastery Guide
+220
+220
 HEALERS
 The world is a dangerous place. Thankfully, there are those who devote their lives
 to easing the pain and suffering of others.
@@ -1495,11 +1669,13 @@ Treat Disease: 1 gp.
 First Aid or Treating a Poison: 1 sp.
 PHYSICIAN
 
-================================================================================
 PAGE 222
 ================================================================================
 
+5
 NPC Gallery
+221
+221
 introduction
 Gamemastery
 Basics
@@ -1581,11 +1757,12 @@ impose penalties on a normal healer
 attempting to remedy them.
 SURGEON
 
-================================================================================
 PAGE 223
 ================================================================================
 
 Gamemastery Guide
+222
+222
 LABORERS
 Every day, laborers perform backbreaking physical work.
 SERVANT
@@ -1660,11 +1837,13 @@ from a deck without losing all of their
 own cards and getting “burned.”
 SERVANT
 
-================================================================================
 PAGE 224
 ================================================================================
 
+5
 NPC Gallery
+223
+223
 introduction
 Gamemastery
 Basics
@@ -1746,7 +1925,6 @@ could become allies or at least
 informants to PCs who free them.
 DOCKHAND
 
-================================================================================
 PAGE 225
 ================================================================================
 
@@ -1821,9 +1999,10 @@ The harbormaster could require all
 fees in local coin, fully aware money
 changers won’t be open for days.
 Gamemastery Guide
+224
+224
 TAX COLLECTOR
 
-================================================================================
 PAGE 226
 ================================================================================
 
@@ -1900,7 +2079,10 @@ Judge: Captain of the guard (page
 Tax Collector: Captain of the guard
 (page 234), guard (page 232), jailer
 (page 233), watch officer (page 234)
+5
 NPC Gallery
+225
+225
 introduction
 Gamemastery
 Basics
@@ -1912,7 +2094,6 @@ GLOSSARY
 and INDEX
 HARBORMASTER
 
-================================================================================
 PAGE 227
 ================================================================================
 
@@ -1986,9 +2167,10 @@ value from the row corresponding
 to the NPC’s level on Table 10–9 on
 page 509 of the Core Rulebook.
 Gamemastery Guide
+226
+226
 MAGE FOR HIRE
 
-================================================================================
 PAGE 228
 ================================================================================
 
@@ -2073,7 +2255,10 @@ money: “Take time in town while
 the waterline’s high, everyone.”
 Whisperstep: Anyone who can
 move stealthily.
+5
 NPC Gallery
+227
+227
 introduction
 Gamemastery
 Basics
@@ -2085,7 +2270,6 @@ GLOSSARY
 and INDEX
 BOUNTY HUNTER
 
-================================================================================
 PAGE 229
 ================================================================================
 
@@ -2149,6 +2333,8 @@ CULTIST
 Excessively zealous, a cultist finds exalted purpose in their sect. Never questioning
 their leader, they devote themselves to achieving their most perfect spiritual form.
 Gamemastery Guide
+228
+228
 MYSTIC CADRES
 Golarion has several mystic groups.
 The Church of Razmir offers a plan
@@ -2157,12 +2343,11 @@ Order of the Palatine Eye seeks
 celestial truths said to be granted
 by an ancient angel. Knights of the
 Aeon Star search for secret lore.
-Followers of Rivethun, dwarven
+Followers of  Rivethun, dwarven
 animism, reach out to spirits to gain
 knowledge and earn favors.
 ADEPT
 
-================================================================================
 PAGE 230
 ================================================================================
 
@@ -2228,7 +2413,10 @@ creatures. This increases to 2d6 against creatures flat-footed due to the
 false priest’s Feint or deceiver’s surprise.
 The Jig Is Up  Frequency once per hour; Trigger The false priest critically fails a
 Deception or Performance check; Effect The false priest Strides.
+5
 NPC Gallery
+229
+229
 introduction
 Gamemastery
 Basics
@@ -2254,7 +2442,6 @@ within the organizations.
 • planar binding (Core Rulebook 414)
 CULTIST
 
-================================================================================
 PAGE 231
 ================================================================================
 
@@ -2330,9 +2517,10 @@ Mazomancy: A nursing babe.
 Oneiromancy: Dreams.
 Tyromancy: Coagulation of cheese.
 Gamemastery Guide
+230
+230
 CULT LEADER
 
-================================================================================
 PAGE 232
 ================================================================================
 
@@ -2405,7 +2593,10 @@ but the DCs and proficiency
 requirements might be
 reduced or waived entirely, as
 might any gp cost.
+5
 NPC Gallery
+231
+231
 introduction
 Gamemastery
 Basics
@@ -2417,11 +2608,12 @@ GLOSSARY
 and INDEX
 DEMONOLOGIST
 
-================================================================================
 PAGE 233
 ================================================================================
 
 Gamemastery Guide
+232
+232
 OFFICERS
 Larger societies rely on those with the authority and the ability to interpret and enforce
 laws. In good-aligned societies, these officials carry out their duties fairly. In neutral
@@ -2492,11 +2684,13 @@ Reinforcements typically arrive 2–3
 rounds later.
 BARRISTER
 
-================================================================================
 PAGE 234
 ================================================================================
 
+5
 NPC Gallery
+233
+233
 introduction
 Gamemastery
 Basics
@@ -2577,11 +2771,12 @@ about 5 rounds, usually in patrols of
 of 8–12 near important locations.
 JAILER
 
-================================================================================
 PAGE 235
 ================================================================================
 
 Gamemastery Guide
+234
+234
 WATCH OFFICER
 Watch officers are assigned to a certain area within a city or community. Often
 leading a small team of lower-ranking guards, they patrol those areas to maintain
@@ -2656,11 +2851,13 @@ jailbreak might just be the beginning,
 leading to additional adventure!
 WATCH OFFICER
 
-================================================================================
 PAGE 236
 ================================================================================
 
+5
 NPC Gallery
+235
+235
 introduction
 Gamemastery
 Basics
@@ -2740,11 +2937,12 @@ companions
 • Selling potions without a license
 CAPTAIN OF THE GUARD
 
-================================================================================
 PAGE 237
 ================================================================================
 
 Gamemastery Guide
+236
+236
 PERFORMERS
 Performances can serve as entertainment, expressions of beauty, or part of a
 shared culture.
@@ -2807,11 +3005,13 @@ Swinging Strike  The acrobat swings on a rope or trapeze, moving up to double
 Speed. At any point during the swing, they can make a melee Strike.
 ACROBAT
 
-================================================================================
 PAGE 238
 ================================================================================
 
+5
 NPC Gallery
+237
+237
 introduction
 Gamemastery
 Basics
@@ -2895,7 +3095,6 @@ admission, 20 gp box seats; Music
 Street Performance tips of 1–2 cp.
 TROUBADOUR
 
-================================================================================
 PAGE 239
 ================================================================================
 
@@ -2960,6 +3159,8 @@ the second result instead. Once that creature uses this ability, its effect ends
 A creature that receives the Barkeep’s Advice is temporarily immune to the
 ability for 1 month.
 Gamemastery Guide
+238
+238
 TAP LIST
 Ale: Andoren beer, Boulderhead
 bock, Cheerful Delver stout, Liquid
@@ -2973,7 +3174,6 @@ Spirits: Daggermark drip, dragon
 punch whiskey, Old Erebus, vjarik.
 BARKEEP
 
-================================================================================
 PAGE 240
 ================================================================================
 
@@ -3038,7 +3238,10 @@ a –1 penalty to AC. The drunkard can’t use concentrate actions except Seek
 and rage actions. The rage lasts for 1 minute or until the drunkard falls
 unconscious or sobers up. The drunkard can’t voluntarily stop the Drunken
 Rage. Once the rage ends, the drunkard can’t Rage again for 1 minute.
+5
 NPC Gallery
+239
+239
 introduction
 Gamemastery
 Basics
@@ -3061,7 +3264,6 @@ PC in the fight (+4 attack modifier,
 rules can be found on page 120.
 DRUNKARD
 
-================================================================================
 PAGE 241
 ================================================================================
 
@@ -3137,9 +3339,10 @@ curation and forensic investigation.
 UNCOMMON SCHOLASTIC
 DISCIPLINES
 Gamemastery Guide
+240
+240
 TEACHER
 
-================================================================================
 PAGE 242
 ================================================================================
 
@@ -3214,7 +3417,10 @@ greatest stores of arcane knowledge.
 University of Lepidstadt (Ustalav):
 School primarily focusing on alchemy,
 medicine, and scientific study.
+5
 NPC Gallery
+241
+241
 introduction
 Gamemastery
 Basics
@@ -3226,7 +3432,6 @@ GLOSSARY
 and INDEX
 ASTRONOMER
 
-================================================================================
 PAGE 243
 ================================================================================
 
@@ -3303,9 +3508,10 @@ of wind (×2); Cantrips (2nd, 1st for
 bosun) electric arc, guidance, know
 direction, light, tanglefoot
 Gamemastery Guide
+242
+242
 NAVIGATOR
 
-================================================================================
 PAGE 244
 ================================================================================
 
@@ -3382,7 +3588,10 @@ without protective rites.
 the week.
 • Tengus absorb bad luck into
 themselves to create good luck.
+5
 NPC Gallery
+243
+243
 introduction
 Gamemastery
 Basics
@@ -3394,7 +3603,6 @@ GLOSSARY
 and INDEX
 BOSUN
 
-================================================================================
 PAGE 245
 ================================================================================
 
@@ -3435,7 +3643,8 @@ and larger cities house multiple specialists—experts in one type of product.
 Merchants can be found anywhere: vendors hustling in the public square,
 shopkeepers running small storefronts, traveling salespeople in carriages or
 caravans, or wealthy tycoons running entire organizations devoted to commerce.
-For encounters involving negotiation or mercantile skill, a merchant is a 4thlevel challenge. A merchant might have an additional Lore skill about a specific
+For encounters involving negotiation or mercantile skill, a merchant is a 4th-
+level challenge. A merchant might have an additional Lore skill about a specific
 category of item (such as jewelry or magic weapons), with a total skill bonus 2
 higher than Mercantile Lore.
 MERCHANT
@@ -3470,9 +3679,10 @@ Magecrafters
 Masons and stonecutters
 Painters and sign makers
 Gamemastery Guide
+244
+244
 APPRENTICE
 
-================================================================================
 PAGE 246
 ================================================================================
 
@@ -3549,7 +3759,10 @@ Weaponsmiths
 Wandcrafters
 Weavers
 Woodcarvers and coopers
+5
 NPC Gallery
+245
+245
 introduction
 Gamemastery
 Basics
@@ -3561,7 +3774,6 @@ GLOSSARY
 and INDEX
 GUILDMASTER
 
-================================================================================
 PAGE 247
 ================================================================================
 
@@ -3635,9 +3847,10 @@ Those who take great care to avoid
 harming civilians are chaotic good;
 others are chaotic neutral.
 Gamemastery Guide
+246
+246
 MASTERMIND
 
-================================================================================
 PAGE 248
 ================================================================================
 
@@ -3712,7 +3925,10 @@ usually serve Lamashtu, Rovagug, or
 demon lords. Many antipaladins used
 to be champions of good and seek to
 destroy their former faiths.
+5
 NPC Gallery
+247
+247
 introduction
 Gamemastery
 Basics
@@ -3724,7 +3940,6 @@ GLOSSARY
 and INDEX
 ANTIPALADIN
 
-================================================================================
 PAGE 249
 ================================================================================
 
@@ -3800,9 +4015,10 @@ change, though HP changes only if
 the new maximum HP is lower than
 the scientist’s current HP.
 Gamemastery Guide
+248
+248
 RECKLESS SCIENTIST
 
-================================================================================
 PAGE 250
 ================================================================================
 
@@ -3874,7 +4090,10 @@ so that only a few members report
 directly to the boss and it’s harder
 to link crimes directly to those in
 charge if someone gets arrested.
+5
 NPC Gallery
+249
+249
 introduction
 Gamemastery
 Basics
@@ -3886,7 +4105,6 @@ GLOSSARY
 and INDEX
 GANG LEADER
 
-================================================================================
 PAGE 251
 ================================================================================
 
@@ -4002,8 +4220,9 @@ creature
 criminals 208
 cult leader (NPC) 230
 Gamemastery Guide
+250
+250
 
-================================================================================
 PAGE 252
 ================================================================================
 
@@ -4043,8 +4262,8 @@ disease (trait) An effect with this trait inflicts one or more
 diseases. A disease is typically an affliction. 118
 dockhand (NPC) 222
 downtime
- events 25
- long-term goals 22
+  events 25
+  long-term goals 22
 downtrodden 214
 Dreamlands (dimension) A dimension created and sustained
 by the collective dreams of sleeping mortals. 145
@@ -4123,6 +4342,8 @@ flowing (trait) Planes with this trait have a flow of time that is
 consistently faster or slower than that of other planes. 137
 foresters 218
 Glossary and index
+251
+251
 introduction
 Gamemastery
 Basics
@@ -4133,7 +4354,6 @@ NPC Gallery
 GLOSSARY
 and INDEX
 
-================================================================================
 PAGE 253
 ================================================================================
 
@@ -4253,8 +4473,9 @@ maps and mapping
 
 in encounter mode 13, 46
 Gamemastery Guide
+252
+252
 
-================================================================================
 PAGE 254
 ================================================================================
 
@@ -4371,6 +4592,8 @@ prevailing beliefs. 137
 Rally (action) Quickly encourage an ally to regain Stamina
 Points; used in the stamina variant rules. 201
 Glossary and index
+253
+253
 introduction
 Gamemastery
 Basics
@@ -4381,7 +4604,6 @@ NPC Gallery
 GLOSSARY
 and INDEX
 
-================================================================================
 PAGE 255
 ================================================================================
 
@@ -4498,8 +4720,9 @@ Travel (action) Progress toward moving into an adjacent hex;
 used in the hexploration subsystem. 172
 troubadour (NPC) 237
 Gamemastery Guide
+254
+254
 
-================================================================================
 PAGE 256
 ================================================================================
 
@@ -4681,6 +4904,8 @@ worldbuilding Creating a campaign setting of your own
 design. 122
 zealot of Asmodeus (NPC) 213
 Glossary and index
+255
+255
 introduction
 Gamemastery
 Basics
@@ -4691,7 +4916,6 @@ NPC Gallery
 GLOSSARY
 and INDEX
 
-================================================================================
 PAGE 257
 ================================================================================
 
@@ -4706,7 +4930,6 @@ Second Edition
 the Pathﬁ nder P logo, Pathﬁ nder Adventure Path, Pathﬁ nder Roleplaying Game, and Pathﬁ nder Lost Omens are trademarks of Paizo Inc.
 paizo.com/pathﬁ nder
 
-================================================================================
 PAGE 258
 ================================================================================
 

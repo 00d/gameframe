@@ -1,0 +1,124 @@
+Heightened (4th) The spell effect emanates from the touched
+creature, silencing all sound in or passing through a 10-
+foot radius and preventing any auditory and sonic effects
+in the affected area. While within the radius, creatures are
+subject to the same effects as the target. Depending upon
+the position of the effect, a creature might notice the lack
+of sound reaching it (blocking off the noise coming from a
+party, for example).
+SLEEP
+SPELL 1
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+SLEEP
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Area 5-foot burst
+Saving Throw Will
+Each creature in the area becomes drowsy and might fall
+asleep. A creature that falls unconscious from this spell
+doesn’t fall prone or release what it’s holding. This spell
+doesn’t prevent creatures from waking up due to a successful
+Perception check, limiting its utility in combat.
+Critical Success The creature is unaffected.
+Success The creature takes a –1 status penalty to Perception
+checks for 1 round.
+Failure The creature falls unconscious. If it’s still unconscious
+after 1 minute, it wakes up automatically.
+Critical Failure The creature falls unconscious. If it’s still
+unconscious after 1 hour, it wakes up automatically.
+Heightened (4th) The creatures fall unconscious for 1 round on
+a failure or 1 minute on a critical failure. They fall prone and
+release what they’re holding, and they can’t attempt Perception
+checks to wake up. When the duration ends, the creature is
+sleeping normally instead of automatically waking up.
+SLOW
+SPELL 3
+TRANSMUTATION
+Traditions arcane, occult, primal
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Fortitude; Duration 1 minute
+You dilate the flow of time around the target, slowing its actions.
+Critical Success The target is unaffected.
+Success The target is slowed 1 for 1 round.
+Failure The target is slowed 1 for 1 minute.
+Critical Failure The target is slowed 2 for 1 minute.
+Heightened (6th) You can target up to 10 creatures.
+SOLID FOG
+SPELL 4
+CONJURATION
+WATER
+Traditions arcane, primal
+Cast [three-actions] material, somatic, verbal
+Range 120 feet; Area 20-foot burst
+Duration 1 minute
+You conjure a bank of fog so thick it impedes movement as
+well as sight. This functions as obscuring mist (page 355),
+except that the area is also difficult terrain. You can Dismiss
+the spell.
+SOOTHE
+SPELL 1
+EMOTION
+ENCHANTMENT
+HEALING
+MENTAL
+Traditions occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 willing living creature
+Duration 1 minute
+You grace the target’s mind, boosting its mental defenses
+and healing its wounds. The target regains 1d10+4 Hit Points
+when you Cast the Spell and gains a +2 status bonus to saves
+against mental effects for the duration.
+Heightened (+1) The amount of healing increases by 1d10+4.
+SOUND BURST
+SPELL 2
+EVOCATION
+SONIC
+Traditions divine, occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Area 10-foot burst
+Saving Throw Fortitude
+A cacophonous noise blasts out, dealing 2d10 sonic damage.
+Each creature must attempt a Fortitude save.
+Critical Success The creature is unaffected.
+Success The creature takes half damage.
+Failure The creature takes full damage and is deafened for 1 round.
+Critical Failure The creature takes double damage and is
+deafened and stunned 1 for 1 minute.
+Heightened (+1) The damage increases by 1d10.
+SPEAK WITH ANIMALS
+SPELL 2
+DIVINATION
+Traditions primal
+Cast [two-actions] somatic, verbal
+Duration 10 minutes
+You can ask questions of, receive answers from, and use the
+Diplomacy skill with animals. The spell doesn’t make them more
+friendly than normal. Cunning animals are likely to be terse and
+evasive, while less intelligent ones often make inane comments.
+SPEAK WITH PLANTS
+SPELL 4
+DIVINATION
+PLANT
+Traditions primal
+Cast [two-actions] somatic, verbal
+Duration 10 minutes
+You can ask questions of and receive answers from plants, but
+the spell doesn’t make them more friendly or intelligent than
+normal. Most normal plants have a distinctive view of the world
+around them, so they don’t recognize details about creatures or
+know anything about the world beyond their immediate vicinity.
+Cunning plant monsters are likely to be terse and evasive, while
+less intelligent ones often make inane comments.
+SPECTRAL HAND
+SPELL 2
+NECROMANCY
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 120 feet
+Duration 1 minute
+Core Rulebook
+370

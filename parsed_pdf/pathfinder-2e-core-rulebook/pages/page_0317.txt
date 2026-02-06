@@ -1,0 +1,126 @@
+Spell Descriptions
+ABYSSAL PLAGUE
+SPELL 5
+ATTACK
+CHAOTIC
+DISEASE
+EVIL
+NECROMANCY
+Traditions divine, occult
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 creature
+Saving Throw Fortitude
+Your touch afflicts the target with Abyssal plague, which
+siphons fragments of their soul away to empower the Abyss.
+The effect is based on the target’s Fortitude save.
+Critical Success The target is unaffected.
+Success The target takes 2 evil damage per spell level, and
+takes a –2 status penalty to saves against Abyssal plague for
+1 day or until the target contracts it, whichever comes first.
+Failure The target is afflicted with Abyssal plague at stage 1.
+Critical Failure The target is afflicted with Abyssal plague at stage 2.
+Abyssal Plague (disease); Level 9. The target can’t recover
+from the drained condition from Abyssal plague until the
+disease is cured. Stage 1 drained 1 (1 day); Stage 2 drained
+increases by 2 (1 day).
+ACID ARROW
+SPELL 2
+ACID
+ATTACK
+EVOCATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 120 feet; Targets 1 creature or object
+You conjure an arrow of acid that continues corroding the
+target after it hits. Make a spell attack against the target.
+On a hit, you deal 3d8 acid damage plus 1d6 persistent acid
+damage. On a critical hit, double the initial damage, but not the
+persistent damage.
+Heightened (+2) The initial damage increases by 2d8, and the
+persistent acid damage increases by 1d6.
+ACID SPLASH
+CANTRIP 1
+ACID
+ATTACK
+CANTRIP
+EVOCATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature or object
+You splash a glob of acid that splatters creatures and objects
+alike. Make a spell attack. If you hit, you deal 1d6 acid damage
+plus 1 splash acid damage. On a critical success, the target also
+takes 1 persistent acid damage.
+Heightened (3rd) The initial damage increases to 1d6 + your
+spellcasting ability modifier, and the persistent damage
+increases to 2.
+Heightened (5th) The initial damage increases to 2d6 + your
+spellcasting ability modifier, the persistent damage increases
+to 3, and the splash damage increases to 2.
+Heightened (7th) The initial damage increases to 3d6 + your
+spellcasting ability modifier, the persistent damage increases
+to 4, and the splash damage increases to 3.
+Heightened (9th) The initial damage increases to 4d6 + your
+spellcasting ability modifier, the persistent damage increases
+to 5, and the splash damage increases to 4.
+AERIAL FORM
+SPELL 4
+POLYMORPH
+TRANSMUTATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Duration 1 minute
+You harness your mastery of primal forces to reshape your
+body into a Medium flying animal battle form. When you cast
+this spell, choose bat, bird, pterosaur, or wasp. You can decide
+the specific type of animal (such as an owl or eagle for bird), but
+this has no effect on the form’s Size or statistics. While in this
+form, you gain the animal trait. You can Dismiss the spell.
+You gain the following statistics and abilities regardless of
+which battle form you choose:
+•	 AC = 18 + your level. Ignore your armor’s check penalty
+and Speed reduction.
+•	 5 temporary Hit Points.
+•	 Low-light vision.
+•	 One or more unarmed melee attacks specific to the
+battle form you choose, which are the only attacks you
+can use. You’re trained with them. Your attack modifier
+is +16, and your damage bonus is +5. These attacks are
+Dexterity based (for the purpose of the clumsy condition,
+for example). If your attack modifier for Dexterity-based
+unarmed attacks is higher, you can use it instead.
+•	 Acrobatics modifier of +16, unless your own modifier
+is higher.
+You also gain specific abilities based on the form you choose:
+•	 Bat Speed 20 feet, fly Speed 30 feet; precise echolocation
+40 feet; Melee [one-action] fangs, Damage 2d8 piercing; Melee [one-action]
+wing (agile), Damage 2d6 bludgeoning.
+•	 Bird Speed 10 feet, fly Speed 50 feet; Melee [one-action] beak,
+Damage 2d8 piercing; Melee [one-action] talon (agile), Damage
+1d10 slashing.
+•	 Pterosaur Speed 10 feet, fly Speed 40 feet; imprecise
+scent 30 feet; Melee [one-action] beak, Damage 3d6 piercing.
+•	 Wasp Speed 20 feet, fly Speed 40 feet; Melee [one-action]
+stinger, Damage 1d8 piercing plus 1d6 persistent poison.
+Heightened (5th) Your battle form is Large and your fly
+Speed gains a +10-foot status bonus. You must have enough
+space to expand into or the spell is lost. You instead gain 10
+temporary HP, attack modifier +18, damage bonus +8, and
+Acrobatics +20.
+Heightened (6th) Your battle form is Huge, your fly Speed
+gains a +15-foot status bonus, and your attacks have 10-foot
+reach. You must have enough space to expand into or the spell
+is lost. You instead gain AC = 21 + your level, 15 temporary
+HP, attack modifier +21, damage bonus +4 and double damage
+dice (including persistent damage), and Acrobatics +23.
+AIR BUBBLE
+SPELL 1
+AIR
+CONJURATION
+Traditions arcane, divine, primal
+Cast [reaction] verbal; Trigger A creature within range enters an
+environment where it can’t breathe.
+Range 60 feet; Targets the triggering creature
+Duration 1 minute
+Core Rulebook
+316

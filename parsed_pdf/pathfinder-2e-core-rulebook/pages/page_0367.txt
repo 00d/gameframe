@@ -1,0 +1,121 @@
+REVIVAL
+SPELL 10
+HEALING
+NECROMANCY
+POSITIVE
+Traditions divine, primal
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets dead creatures and living creatures of
+your choice within range
+Duration sustained up to 1 minute
+A burst of healing energy soothes living creatures and
+temporarily rouses those recently slain. All living targets regain
+10d8+40 Hit Points. In addition, you return any number of dead
+targets to life temporarily, with the same effects and limitations
+as raise dead (page 362). The raised creatures have a number
+of temporary Hit Points equal to the Hit Points you gave living
+creatures, but no normal Hit Points. The raised creatures can’t
+regain Hit Points or gain temporary Hit Points in other ways, and
+once revival’s duration ends, they lose all temporary Hit Points
+and die. Revival can’t resurrect creatures killed by disintegrate
+or a death effect. It has no effect on undead.
+RIGHTEOUS MIGHT
+SPELL 6
+POLYMORPH
+TRANSMUTATION
+Traditions divine
+Cast [two-actions] somatic, verbal; Requirements You have a deity.
+Duration 1 minute
+You focus all your divine energy and transform yourself
+into a Medium battle form, similar to your normal form but
+armed with powerful divine armaments granted by your
+deity. While in this form, you gain the statistics and abilities
+listed below. You have hands in this battle form and can use
+manipulate actions. You can Dismiss the spell.
+You gain the following statistics and abilities:
+•	 AC = 20 + your level. Ignore your armor’s check
+penalty and Speed reduction.
+•	 10 temporary Hit Points.
+•	 Speed 40 feet.
+•	 Resistance 3 against physical damage.
+•	 Darkvision.
+•	 A special attack with a righteous armament version
+of your favored weapon, which is the only attack
+you can use. Your attack modifier with the special
+weapon is +21, and your damage bonus is +8 (or +6
+for a ranged attack). If your attack modifier with
+your deity’s favored weapon is higher, you can use
+it instead. You deal three of your weapon’s normal
+damage dice, or three damage dice of one size
+larger if your weapon is a simple weapon with a
+d4 or d6 damage die. The weapon has one of the
+following properties that matches your deity’s
+alignment: anarchic, axiomatic, holy, unholy. If your
+deity is true neutral, you instead deal an extra 1d6
+precision damage.
+•	 Athletics modifier of +23, unless your own modifier
+is higher.
+Heightened (8th) Your battle form is Large, and your attacks have
+10-foot reach, or 15-foot reach if your deity’s favored weapon
+has reach. You must have enough space to expand into or the
+spell is lost. You instead gain AC = 21 + your level, 15 temporary
+HP, resistance 4 against physical damage, attack modifier +28,
+damage bonus +15 (+12 for a ranged attack), and Athletics +29.
+ROPE TRICK
+SPELL 4
+UNCOMMON
+CONJURATION
+EXTRADIMENSIONAL
+Traditions arcane, occult
+Cast 10 minutes (material, somatic, verbal)
+Range touch; Targets 1 touched piece of rope from 5 to 30
+feet long
+Duration 8 hours
+You cause the target rope to rise vertically into the air. Where it
+ends, an extradimensional space opens, connected to the top of
+the rope. This space can be reached only by climbing the rope.
+The entrance to the space can’t be seen, and it can be
+pinpointed only by the presence of the rope. The rope can’t
+be removed or hidden, though it can be detached from the
+extradimensional space by pulling it with 16,000 pounds of
+weight, critically succeeding at an Athletics check against the
+spell’s DC, or destroying the rope. The space holds up to eight
+Medium creatures and their gear. A Large creature counts as
+two Medium creatures, a Huge creature counts as four Medium
+creatures, and a Gargantuan creature fills the space on its own.
+If the rope is detached or destroyed, or if a creature attempts
+to enter the space that would put it over its capacity, the space
+begins to unravel. It disappears in 1d4 rounds, depositing the
+creatures within safely on the ground below.
+SANCTIFIED GROUND
+SPELL 3
+ABJURATION
+CONSECRATION
+Traditions divine
+Cast 1 minute (material, somatic, verbal); Cost 1 vial of holy water
+Area 30-foot burst centered on you
+Duration 24 hours
+You sanctify the area, sprinkling it with holy water and warding
+it against your foes. Choose aberrations, celestials, dragons,
+fiends, monitors, or undead. All creatures in the area gain a
++1 status bonus to AC, attack rolls, damage rolls, and saving
+throws against the chosen creatures.
+SANCTUARY
+SPELL 1
+ABJURATION
+Traditions divine, occult
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 creature
+Duration 1 minute
+You ward a creature with protective energy that deters enemy
+attacks. Creatures attempting to attack the target must
+attempt a Will save each time. If the target uses a hostile
+action, the spell ends.
+Critical Success Sanctuary ends.
+Success The creature can attempt its attack and any other
+attacks against the target this turn.
+Failure The creature can’t attack the target and wastes the
+action. It can’t attempt further attacks against the target
+this turn.
+Core Rulebook
+366

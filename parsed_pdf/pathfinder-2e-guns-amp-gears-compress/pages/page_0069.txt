@@ -1,0 +1,124 @@
+Type greater chameleon suit; Level 8; Price 80 gp
+The effect lasts for 10 minutes.
+Type major chameleon suit; Level 12; Price 320 gp
+The effect lasts for 1 hour.
+CLOCKWORK GOGGLES
+ITEM 1+
+UNCOMMON
+CLOCKWORK
+CONSUMABLE
+GADGET
+Usage worn eyepiece; Bulk L
+Activate [two-actions] Interact
+This heavy set of mechanical goggles contains a variety of
+different lenses for different situations, including lenses
+that filter light at different intensities and frequencies and
+even some that capture heat and other stimuli. Clockwork
+mechanisms can swap between the lenses rapidly as needed.
+However, many of these lenses can only capture a single
+stimulus once and then are forever etched with it, making
+them unsuitable for long-term use. When activated, the
+clockwork mechanism on the goggles rapidly switches
+between the different lenses, granting you the benefits of all
+of them for a brief period of time.
+Type clockwork goggles; Level 1; Price 3 gp
+When activated, you gain low-light vision for 10 minutes.
+Type greater clockwork goggles; Level 4; Price 15 gp
+When activated, you gain low-light vision and darkvision for
+10 minutes.
+Type major clockwork goggles; Level 8; Price 80 gp
+When activated, you gain low-light vision, darkvision, and
+the effects of see invisibility for 10 minutes.
+CRYOMISTER
+ITEM 1+
+UNCOMMON
+COLD
+CONSUMABLE
+GADGET
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+When you Activate a cryomister, you can either place it in
+an adjacent square or toss it up to 20 feet away. Once you’ve
+done so, the metallic device instantly disperses a heavy mist,
+settling quickly on nearby flat surfaces and forming a sheet
+of ice. The cryomister creates a burst with a radius depending
+on the type, making the affected area difficult terrain for
+1 minute; , at the GM’s discretion, however, this duration
+might be reduced in unusually hot conditions or increased in
+unusually cold ones. If an affected square takes fire damage,
+the difficult terrain is removed. Though not designed as a
+weapon, the cryomister’s rapidly cooling mist deals cold
+splash damage depending on the type to creatures in the
+area on activation. Creatures attempting to move through
+the affected area can attempt an Acrobatics check with a
+DC depending on the type to ignore the difficult terrain and
+move at their normal Speed. Throwing the cryomister onto
+the surface of a liquid creates a floating piece of ice for the
+same duration, capable of supporting one or more creatures
+of the listed size.
+Type lesser; Level 1; Price 3 gp
+The area is a 5-foot burst, the Acrobatics DC is 17, and the
+cold splash damage is 1. The floating ice can support one
+creature up to Medium size.
+Type moderate; Level 5; Price 25 gp
+The area is a 10-foot burst, the Acrobatics DC is 21, and the
+cold splash damage is 3. The floating ice can support one
+Large creature or two Medium or smaller creatures.
+Type greater; Level 11; Price 250 gp
+The area is a 15-foot burst, the Acrobatics DC is 30, and the
+cold splash damage is 5. The floating ice can support one
+Huge creature, two Large creatures, or four Medium or
+smaller creatures.
+Type major; Level 17; Price 2,500 gp
+The area is a 20-foot burst, the Acrobatics DC is 39, and
+the cold splash damage is 8. The floating ice can support
+one Gargantuan creature, two Huge creatures, four Large
+creatures, or eight Medium or smaller creatures. The ice can’t
+support Gargantuan creatures larger than a 20-by-20-foot
+space, such as a mu spore.
+ELECTROMUSCULAR STIMULATOR
+ITEM 5
+RARE
+CONSUMABLE
+GADGET
+Price 30 gp
+Usage worn; Bulk 1
+Activate [two-actions] Interact
+This rare gadget uses Stasian technology to grant someone
+a burst of activity, though its use can be painful. The
+electromuscular stimulator must be carefully attached
+to you, requiring 1 minute to do so. You can attach an
+electromuscular stimulator to yourself. When you Activate
+an attached electromuscular stimulator, roll a Crafting check,
+using the Crafting modifier of the creature who attached the
+stimulator to you, with a DC equal to the standard DC for
+your level. The effects of the activation depend on the result
+of the Crafting check.
+Critical Success You gain the quickened condition for 1
+minute and can use the extra action each round only to
+Stride or Strike.
+Success As critical success, but you also take 3 persistent
+electrical damage.
+Failure You gain the quickened condition for 2 rounds and
+can use the extra action each round only to Stride or
+Strike. You take 3 persistent electrical damage.
+Critical Failure You take 2d6 electrical damage and 3
+persistent electrical damage.
+ETHERIC ESSENCE DISRUPTOR
+ITEM 3+
+UNCOMMON
+CONSUMABLE
+GADGET
+Usage held in 1 hand; Bulk 1
+Activate [two-actions] Interact
+An etheric essence disruptor emits bursts of discordant
+ethereal energy through a process based upon Stasian
+etheric-spirit singers, though without the need for a Stasian
+coil. Etheric essence disruptors attempt to break down the
+workings of a spell that manipulates spiritual essence. Upon
+activation, attempt to counteract an active divine or occult
+spell within the listed range, with the listed counteract
+modifier and counteract level.
+Type lesser; Level 3; Price 60 gp
+68
+68

@@ -1,0 +1,121 @@
+6d10+6 slashing; Ranged [one-action] waters of Lamashtu
+(range 120 feet), Damage 6d6+3 poison.
+•	 Nethys Speed 70 feet, air walk; Ranged [one-action] raw magic
+(range 120 feet; versatile cold, electricity, or fire),
+Damage 6d6 force.
+•	 Norgorber Speed 70 feet, air walk, ignore difficult
+terrain and greater difficult terrain; Melee [one-action]
+shortsword (agile, finesse, versatile S, reach 15 feet),
+Damage 6d6+6 piercing; Ranged [one-action] blackfinger toss
+(range 120 feet), Damage 6d6+3 poison.
+•	 Pharasma Speed 70 feet, air walk; Melee [one-action] dagger
+(agile, finesse, reach 15 feet, thrown 40 feet), Damage
+6d6+6 slashing; Ranged [one-action] spiral blast (range 120
+feet, damages only undead), Damage 6d8+3 positive.
+•	 Rovagug Speed 50 feet, burrow Speed 30 feet, immune
+to immobilized; Melee [one-action] jaws (reach 15 feet), Damage
+6d12+6 piercing; Melee [one-action] leg (agile, versatile P, reach
+15 feet), Damage 6d8+6 bludgeoning.
+•	 Sarenrae Speed 30 feet, fly Speed 70 feet; Melee [one-action]
+scimitar (forceful, nonlethal, reach 15 feet), Damage
+6d6+6 slashing; Ranged [one-action] everflame (nonlethal,
+range 120 feet), Damage 6d6+3 fire.
+•	 Shelyn Speed 70 feet, air walk, ignore difficult terrain
+and greater difficult terrain; Melee [one-action] glaive (deadly
+d8, nonlethal, reach 20 feet), Damage 6d8+6 slashing;
+Ranged [one-action] melody of inner beauty, (nonlethal, range
+120 feet), Damage 6d6+3 sonic.
+•	 Torag Speed 50 feet, burrow Speed 30 feet, immune to
+immobilized; shield (15 Hardness, can’t be damaged);
+Melee [one-action] warhammer (bull rush, reach 15 feet),
+Damage 6d8+6 bludgeoning.
+•	 Urgathoa Speed 70 feet, air walk; Melee [one-action] scythe (deadly
+d10, trip, reach 15 feet), Damage 6d10+6 slashing; Ranged
+[one-action] pallid plague (range 120 feet), Damage 6d6+3 negative.
+•	 Zon-Kuthon Speed 70 feet, air walk, ignore difficult
+terrain and greater difficult terrain; Melee [one-action] spiked
+chain (disarm, trip, reach 15 feet), Damage 6d8+6
+slashing; Ranged [one-action] midnight pain (mental, nonlethal,
+range 120 feet), Damage 6d6+3 mental.
+BALEFUL POLYMORPH
+SPELL 6
+INCAPACITATION
+POLYMORPH
+TRANSMUTATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Fortitude; Duration varies
+You transform the target creature into a harmless animal
+appropriate to the area, with effects based on its Fortitude save.
+Critical Success The target is unaffected.
+Success The target’s body gains minor features of the harmless
+animal. Its insides churn as they partially transform, causing
+it to be sickened 1. When it recovers from the sickened
+condition, its features revert to normal.
+Failure The target transforms for 1 minute but keeps its mind. If
+it spends all its actions on its turn concentrating on its original
+form, it can attempt a Will save to end the effect immediately.
+Critical Failure The target is transformed into the chosen
+harmless animal, body and mind, for an unlimited duration.
+BANE
+SPELL 1
+ENCHANTMENT
+MENTAL
+Traditions divine, occult
+Cast [two-actions] somatic, verbal
+Area 5-foot emanation; Targets enemies in the area
+Saving Throw Will; Duration 1 minute
+You fill the minds of your enemies with doubt. Targets that
+fail their Will saves take a –1 status penalty to attack rolls as
+long as they are in the area. Once per turn, starting the turn
+after you cast bane, you can use a single action, which has
+the concentrate trait, to increase the emanation’s radius by 5
+feet and force enemies in the area that weren’t yet affected
+to attempt another saving throw. Bane can counteract bless.
+BANISHMENT
+SPELL 5
+ABJURATION
+INCAPACITATION
+Traditions arcane, divine, occult, primal
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature that isn’t on its home plane
+Saving Throw Will
+You send the target back to its home plane. The target must
+attempt a Will save. You can spend an extra action while Casting
+this Spell and add a material component to give the creature a
+–2 circumstance penalty to its save. The component must be a
+specially gathered object that is anathema to the creature, and
+not from a spell component pouch. This spell fails if you aren’t
+on your home plane when you cast it.
+Critical Success The target resists being banished and you are
+stunned 1.
+Success The target resists being banished.
+Failure The target is banished.
+Critical Failure The target is banished and can’t return by any
+means to the plane it’s banished from for 1 week.
+Heightened (9th) You can target up to 10 creatures. The extra
+material component affects targets to which it is anathema.
+BARKSKIN
+SPELL 2
+ABJURATION
+PLANT
+Traditions primal
+Cast [two-actions] somatic, verbal
+Range touch; Targets 1 willing creature
+Duration 10 minutes
+The target’s skin becomes covered in bark. The target gains
+resistance 2 to bludgeoning and piercing damage and weakness
+3 to fire. After the target takes fire damage, it can Dismiss the
+spell as a free action triggered by taking the damage; doing so
+doesn’t reduce the fire damage the target was dealt.
+Heightened (+2) The resistances increase by 2, and the
+weakness increases by 3.
+BIND SOUL
+SPELL 9
+UNCOMMON
+EVIL
+NECROMANCY
+Traditions divine, occult
+Core Rulebook
+320

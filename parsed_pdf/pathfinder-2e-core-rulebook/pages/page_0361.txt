@@ -1,0 +1,169 @@
+You create a seven-layered sphere to protect an area. This
+multicolored sphere functions like a prismatic wall but is shaped
+in a 10-foot burst centered on a corner of your space. You must
+form the sphere in an unbroken open space so its edges don’t
+pass through any creatures or objects, or the spell is lost.
+PRISMATIC SPRAY
+SPELL 7
+EVOCATION
+LIGHT
+Traditions arcane, occult
+Cast [two‑actions] somatic, verbal
+Area 30-foot cone
+A spray of rainbow light beams cascades from your open
+hand. Each creature in the area must roll 1d8 on the table
+below to see which beam affects it, then attempt a saving
+throw of the indicated type. The table notes any additional
+traits that apply to each type of ray. If a creature is struck by
+multiple beams, it uses the same d20 result for all its saving
+throws. For all rays, a successful saving throw negates the
+effect for that creature.
+1d8
+Color
+Save
+Effect (Traits)
+1
+Red
+Reflex
+50 fire damage (fire)
+2
+Orange	 Reflex
+60 acid damage (acid)
+3
+Yellow
+Reflex
+70 electricity damage
+
+
+
+(electricity)
+4
+Green
+Fortitude	 30 poison damage and
+
+
+
+enfeebled 1 for 1 minute
+
+
+
+(poison)
+5
+Blue
+Fortitude	 Affected as if by flesh to stone
+6
+Indigo
+Will
+Confused, as the warp mind
+
+
+
+spell (mental)
+7
+Violet
+Will
+Slowed 1 for 1 minute; if
+
+
+
+a critical failure, sent to
+
+
+
+another plane, as plane shift
+
+
+
+(teleportation)
+8
+Potent	 —
+Affected by two beams—roll
+
+beam
+
+twice, rerolling any duplicates
+
+
+or results of 8
+PRISMATIC WALL
+SPELL 8
+ABJURATION
+LIGHT
+Traditions arcane, occult
+Cast [three‑actions] material, somatic, verbal
+Range 120 feet
+Duration 1 hour
+You create an opaque wall of shimmering, multicolored light.
+The wall is straight and vertical, stretching 60 feet long and 30
+feet high. You must form the wall in an unbroken open space
+so its edges don’t pass through any creatures or objects, or the
+spell is lost. You can pass through the wall and ignore its effects.
+The wall sheds bright light out to 20 feet on each side (and
+dim light to the next 20 feet). Creatures other than you that
+come into the wall’s light must attempt a Will save; they’re
+dazzled for 1 round on a success, blinded for 1 round on a
+failure, and blinded for 1 minute on a critical failure. They are
+then temporarily immune to the blinding effect for 1 hour.
+A prismatic wall has seven different layers, each a different
+color. Red, orange, yellow, and green have the effect of a
+5th-level chromatic wall (page 323) spell of that color, and
+the others have the effect of a 7th-level chromatic wall spell
+of that color. A creature that tries to pass through the wall
+must attempt a saving throw against each component wall.
+The effects take place simultaneously, so a creature turned
+to stone by the blue wall is still treated as a creature for the
+indigo and violet walls.
+The wall as a whole is immune to counteracting effects of
+the wall’s level or lower; each color must be counteracted by
+its specific spell, as described in chromatic wall. This must be
+done in order (red, orange, yellow, green, blue, indigo, then
+violet). A given color can’t be affected until the previous color
+is counteracted. Counteracting a color wall removes that
+color’s effect from the wall, and counteracting them all ends
+prismatic wall. You can Dismiss the spell.
+PRIVATE SANCTUM
+SPELL 4
+UNCOMMON
+ABJURATION
+Traditions arcane, occult
+Cast 10 minutes (material, somatic, verbal)
+Range touch; Area 100-foot burst
+Duration 24 hours
+From outside, the area looks like a bank of impenetrable black
+fog. Sensory stimuli (such as sounds, smells, and light) don’t
+pass from inside the area to outside the area. Scrying spells
+can’t perceive any stimuli from the area, and mind-reading
+effects don’t work in the area.
+PRODUCE FLAME
+CANTRIP 1
+ATTACK
+CANTRIP
+EVOCATION
+FIRE
+Traditions arcane, primal
+Cast [two‑actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+A small ball of flame appears in the palm of your hand, and
+you lash out with it either in melee or at range. Make a
+spell attack roll against your target’s AC. This is normally a
+ranged attack, but you can also make a melee attack against
+a creature in your unarmed reach. On a success, you deal
+1d4 fire damage plus your spellcasting ability modifier. On
+a critical success, the target takes double damage and 1d4
+persistent fire damage.
+Heightened (+1) Increase the damage by 1d4 and the persistent
+damage on a critical hit by 1d4.
+PROJECT IMAGE
+SPELL 7
+ILLUSION
+MENTAL
+Traditions arcane, occult
+Cast [two‑actions] somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You project an illusory image of yourself. You must stay within
+range of the image, and if at any point you can’t see the image,
+the spell ends. Whenever you Cast a Spell other than one
+whose area is an emanation, you can cause the spell effect
+Core Rulebook
+360

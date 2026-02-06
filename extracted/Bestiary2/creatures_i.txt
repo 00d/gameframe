@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# INVIDIAK
+# INVIDIAK
 ================================================================================
 
 
@@ -21,7 +21,7 @@ INVIDIAK (SHADOW DEMON)
 For most demons, possessing a creature requires a ritual, magic item, or condition,
 but for invidiaks, who lack a body, possession is akin to donning a suit of clothing.
 Known also as shadow demons, invidiaks are formed from envious mortal souls.
-INVIDIAK
+INVIDIAK
 CREATURE 7
 CE
 MEDIUM
@@ -82,7 +82,21 @@ who prefer the tang of undead ﬂesh.
 PAGE 67
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868564
+4425076
 Bestiary 2
+66
+66
 NABASU GROWTH
 A nabasu stores their stolen deaths
 until they ﬁnally become satiated.
@@ -91,64 +105,107 @@ death from at least 100 mortals, but
 the exact timing is left to the GM. The
 demon then travels to the Abyss and
 transforms into a vrolikai.
+NABASU
+CREATURE 8
+CE
+MEDIUM
+DEMON
+FIEND
+Perception +17; darkvision
+Languages Abyssal, Celestial, Draconic; telepathy 100 feet
+Skills Acrobatics +18, Arcana +16, Religion +16, Stealth +18, Survival +17
+Str +6, Dex +4, Con +6, Int +2 Wis +3, Cha +4
+AC 27; Fort +19, Ref +16, Will +16; +1 to all saves vs. magic
+HP 165; Weaknesses cold iron 5, good 5
+Death-Stealing Gaze (aura, divine, necromancy, visual) 30 feet. When a non-demon ends its
+turn in the aura, it must attempt a DC 23 Fortitude save. If it fails, it becomes drained 1.
+Starvation Vulnerability A nabasu denied food suﬀers painful backlash as their demonic
+nature feeds on their own corrupted spirituality. If a nabasu’s Consume Death is disrupted
+(such as by a ﬁghter using Disruptive Stance) or a creature resists the eﬀect with a
+critical success, the nabasu takes 4d6 mental damage.
+Speed 25 feet, ﬂy 50 feet
+Melee Ȱɵ jaws +20 (evil, magical), Damage 2d12+9 piercing plus
+1d6 evil
+Melee Ȱɵ claw +20 (agile, evil, magical), Damage 2d8+9
+slashing plus 1d6 evil
+Divine Innate Spells DC 26; 5th dimension door; 4th
+dimension door (at will), grim tendrils, paralyze,
+vampiric touch
+Rituals DC 26; Abyssal pact
+Consume Death Ȱɵ (concentrate, divine, necromancy,
+visual) The nabasu focuses their death-stealing
+gaze upon a single target they can see within
+30 feet. The target must immediately attempt a
+Fortitude save against death-stealing gaze.
+Critical Success The creature is unaﬀected and
+the nabasu suﬀers starvation vulnerability.
+Success The creature is unaﬀected.
+Failure The creature is aﬀected by death-
+stealing gaze and becomes drained 1. If
+the creature was already drained 1 by the
+death-stealing gaze before attempting
+the save, a failed save increases the
+value of the drained condition by 1, to a
+maximum of drained 4. The nabasu gains
+10 temporary Hit Points, and the drained
+creature is temporarily immune until the
+start of the nabasu’s next turn.
+Critical Failure As failure, but the creature
+increases the amount of drain by 2.
+Stolen Death A creature that dies while suﬀering
+drain from a nabasu’s death-stealing gaze rises as
+a ghoul (Pathﬁnder Bestiary 168) the next midnight.
+HEZROU (TOAD DEMON)
+Hezrous dwell in the vast and endless Abyssal swamps,
+mires, and waterways and are equally at home on land
+and in the water. A hezrou’s presence has an obvious effect
+on nearby ﬂora and water, causing plant life to twist and knot
+and infusing water with a foul odor and brackish taste—signs much
+easier to spot on the Material Plane than in the Abyss. Long
+exposure to this corruption can cause vile transformations
+and hideous mutations, and entire miserable communities
+of corrupted creatures sometimes rise in swamplands where
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868564
+4425076
 
-================================================================================
-# IGUANODON
-================================================================================
-
-Sprint ʚʖ Frequency once per minute; Eﬀect The hadrosaurid Strides twice. It has a
-+20-foot circumstance bonus to its Speed during these Strides.
-Trample ̂ˬ Large or smaller, foot, DC 21
-IGUANODON
-Iguanodons are large, herbivorous dinosaurs that inhabit swamps and forests
-where they browse on the abundant vegetation. The iguanodon is capable of
-moving on two feet or on four, quickly switching from one stance to the other
-depending on whether it needs to move through dense foliage or to reach
-delectable morsels hanging up in the canopy.
-Although iguanodons are herbivores, they are notoriously quick to anger.
-Their thumb spikes make their claws particularly devastating weapons. A
-well‑placed blow from one of these claws can turn a hungry predator into a
-cowering beast with one swift strike. Iguanodons are 30 feet long and weigh
-6,000 pounds.
-IGUANODON
-CREATURE 6
-N
-HUGE
-ANIMAL
-DINOSAUR
-Perception +14; low-light vision, scent (imprecise) 30 feet
-Skills Athletics +15
-Str +7, Dex +4, Con +4, Int –4,
-Wis +4, Cha +0
-AC 24; Fort +16, Ref +12,
-Will +14
-HP 95
-Speed 25 feet
-Melee Ȱɵ thumb spike +17
-(deadly d10, reach 10 feet),
-Damage 2d8+9 piercing
-Melee Ȱɵ tail +15 (reach 15 feet), Damage 2d10+9
-bludgeoning
-Gouging Lunge ʚʖ The iguanodon makes a thumb spike
-Strike at an adjacent foe and then Strides up to 15 feet,
-dragging its thumb spike across the foe to gouge out a brutal
-wound. If this Strike hits, it deals an extra 1d8 points of slashing
-damage and the following Stride does not trigger reactions from the
-creature struck. This thumb spike Strike counts as two attacks when
-calculating the iguanodon’s multiple attack penalty.
-SPINOSAURUS
-The spinosaurus is more than just one of the largest carnivorous
-dinosaurs—it’s also one of the most unusual in appearance,
-with a large, sail-like ﬁn running along its spine. Often
-quite colorful, this sail allows the spinosaurus to
-attract mates, aids in swimming, and makes it
-appear to be even larger than it actually is.
-A swimming spinosaurus can also use the
-
-================================================================================
 PAGE 84
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868581
+4425093
+D
+83
+83
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 MAGICAL DINOSAURS
 In a fantasy setting, magical eﬀects
 or supernatural inﬂuences can
@@ -160,7 +217,7 @@ beast simply by giving a dinosaur the
 magical attack of another creature of
 an equal level, such as a spinosaurus
 gaining an acidic breath weapon akin
-to that of an adult black dragon.
+to that of an adult black dragon.
 sail as part of a unique means of staggering prey by slapping the water with it to
 make a crushing wave.
 The spinosaurus is equally at home in water as it is on land, and its long, toothy
@@ -183,155 +240,203 @@ A spinosaurus can
 measure up to 60 feet
 in length and weighs
 25,000 pounds.
-
-================================================================================
-# ICE MEPHIT
-================================================================================
-
-Breath Weapon ʚʖ (air, arcane, earth) The dust mephit breathes a cloud of dust in a
-15-foot cone that deals 2d6 slashing damage to each creature within the area (DC 17
-basic Reﬂex save). The dust mephit can’t use Breath Weapon again for 1d4 rounds.
-ICE MEPHIT
-Though capable of the same depths of cruelty as their ﬁre mephit kin, ice
-mephits carry theirs out in a more calculating way. Unlike most
-mephits, these pale blue mephits prefer solitude to company.
-Lacking in empathy, they are known for their callousness,
-and have a reputation for brutal honesty. They also have
-few moral qualms about acting selﬁshly
-and exploiting weakness for their own gain,
-should the chance arise.
-ICE MEPHIT
-CREATURE 1
-UNCOMMON
+SPINOSAURUS
+CREATURE 11
 N
-SMALL
-AIR
-ELEMENTAL
-WATER
-Perception +3; darkvision
-Languages Aquan, Auran
-Skills Acrobatics +7, Intimidation +5
-Str +0, Dex +4, Con +0, Int –2, Wis +0, Cha +2
-AC 17; Fort +5, Ref +9, Will +3
-HP 18, fast healing 2 (while touching ice or
-snow); Immunities bleed, cold, paralyzed,
-poison, sleep; Weaknesses ﬁre 3
-Speed 20 feet, ﬂy 25 feet
-Melee Ȱɵ claw +9 (agile, ﬁnesse), Damage 1d4
-slashing and 1d4 cold
-Arcane Innate Spells DC 17, attack +9; Cantrips (1st)
-chill touch, ray of frost
-Breath Weapon ʚʖ (arcane, cold) The ice mephit
-breathes shards of ice in a 15-foot cone that deals 1d6 cold
-damage and 1d6 piercing damage to each creature within the
-area (DC 17 basic Reflex save). The ice mephit can’t use Breath Weapon
-again for 1d4 rounds.
+GARGANTUAN
+ANIMAL
+DINOSAUR
+Perception +21; low-light vision, scent (imprecise)
+30 feet
+Skills Acrobatics +19, Athletics +23 (+25 to Swim)
+Str +8, Dex +4,
+Con +6, Int –4,
+Wis +2, Cha +1
+Deep Breath A
+spinosaurus can
+hold its breath for
+2 hours.
+AC 30; Fort +23, Ref +21, Will +19
+HP 200
+Speed 40 feet, swim 30 feet
+Melee Ȱɵ bite +23 (deadly d12, reach 20 feet), Damage 2d12+14 piercing plus Grab
+Melee Ȱɵ claw +23 (agile, reach 15 feet), Damage 2d8+14 slashing
+Rip and Tear Ȱɵ Requirements The spinosaurus has a creature grabbed in its
+jaws; Eﬀect The spinosaurus reaches up and slashes with its claws at the
+creature it has grabbed, dealing 4d8 slashing damage (DC 30 basic Reﬂex
+save) and 1d6 persistent bleed damage.
+Staggering Sail ʚʖ (incapacitation) Requirements The spinosaurus is
+swimming on the surface of water; Eﬀect With a powerful lunge to the
+side, the spinosaurus uses its sail to slap the surface of the water, creating
+a crushing wave of water that deals 6d6 bludgeoning damage in a 30‑foot
+cone. Each creature in the water in the area must attempt a DC 30 Reﬂex save.
+Critical Success The creature is unaﬀected.
+Success The creature takes half damage.
+Failure The creature takes full damage and is slowed 1 until the
+end of its next turn.
+Critical Failure The creature takes double damage and
+is stunned 3.
+Swallow Whole Ȱɵ (attack) Medium, 2d12+12
+bludgeoning, Rupture 19
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868581
+4425093
 
-================================================================================
 PAGE 114
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868611
+4425123
+E-G
+E-G
+113
+113
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 OOZE MEPHIT
 Slick in every sense of the word, ooze mephits are unapologetic sycophants,
 shamelessly ﬂattering anyone they may be able to con a favor out of, although
 their lack of intelligence and subtlety means that only the most vain or trusting
-targets fail to see through their honeyed words. Lacking proper bones, these ochercolored mephits have bodies consisting primarily of ooze and muck. They smell
+targets fail to see through their honeyed words. Lacking proper bones, these ocher-
+colored mephits have bodies consisting primarily of ooze and muck. They smell
 disgusting, and their touch leaves stains that are almost impossible to get out.
-
-================================================================================
-# ICICLE SNAKE
-================================================================================
-
-
-Bestiary 2
-FLAME AND FATHOM MEET
-Though ﬁre and water classically
-oppose one another, in the right
-mixture they can become a dangerous
-combination. Water elementals heated
-to a scalding temperature through
-natural factors such as underwater
-volcanoes might deal 1d6 persistent
-ﬁre damage with their Strikes, while
-ﬁre elementals infused with moisture
-might exude clouds of obscuring or
-even blinding steam.
-Elemental, Water
-Water elementals that become infused with cold or mist have increased mobility
-in regions outside of bodies of water.
-ICICLE SNAKE
-Translucent and capable of hanging suspended and near motionless, icicle snakes
-sense the heat of living creatures as a threat and attempt to use their camouﬂage
-and chilling bite against foes.
-ICICLE SNAKE
-CREATURE 2
+OOZE MEPHIT
+CREATURE 1
+UNCOMMON
 N
 SMALL
-COLD
-ELEMENTAL
-WATER
-Perception +7; darkvision
-Skills Athletics +7, Stealth +7
-Str +1, Dex +3, Con +2, Int –4, Wis +1, Cha +0
-AC 18; Fort +8, Ref +9, Will +5
-HP 35; Immunities bleed, cold, paralyzed, poison, sleep; Weaknesses ﬁre 5
-Speed 25 feet, climb 20 feet
-Melee Ȱɵ jaws +9 (ﬁnesse), Damage 1d6+1 piercing plus 1d6 persistent cold
-Icicle Ȱɵ (concentrate) Until the next time it acts, the icicle snake appears
-to be an unassuming icicle. It has an automatic result of 27 on Deception
-checks and DCs to pass as an icicle.
-MIST STALKER
-The tentacled mist stalker shrouds itself in a cloak of mist through
-which its single, never-blinking eye can see with clarity, allowing it an
-advantage when stalking its prey.
-
-================================================================================
-# ICEWYRM 
-================================================================================
-
-no tunnels or signs of its passing.
-ICEWYRM
-Resembling wingless, serpentine dragons formed of jagged
-ice and shot through with veins of nearly frozen water, these
-elementals dwell within icebergs and enjoy striking out at
-passing ships or creatures. They’re especially common in frigid
-stretches of ocean in the Plane of Water, where icebergs cluster
-together into enormous islands of ice.
-ICEWYRM 
-CREATURE 10
-N
-HUGE
 AMPHIBIOUS
-COLD
+EARTH
 ELEMENTAL
 WATER
-Perception +19; darkvision
-Languages Aquan
-Skills Athletics +21
-Str +7, Dex +7, Con +5, Int –1, Wis +5, Cha +3
-AC 30; Fort +20, Ref +21, Will +17
-HP 185; Immunities bleed, cold, paralyzed, poison, sleep;
-Weaknesses ﬁre 10
-Explosion (cold) When the icewyrm dies, it explodes, dealing
-8d6 cold damage to each creature in a 10-foot emanation
-(DC 27 basic Reﬂex save).
-Speed 25 feet, ice burrow 20 feet, swim 60 feet
-Melee Ȱɵ jaws +23 (reach 15 feet), Damage 2d12+13 piercing
-Melee Ȱɵ tail +23 (agile, reach 15 feet), Damage 2d6+13 slashing
-plus 1d6 persistent cold
-Ranged Ȱɵ ice shard +23 (range increment 60 feet), Damage
-1d6+13 piercing plus 1d6 persistent cold
-Breath Weapon ʚʖ (cold, evocation, primal) The icewyrm breathes
-a 60-foot line of freezing shards of razor-sharp ice, dealing 3d12 cold
-damage and 3d12 piercing damage to every creature in the line (DC 29 basic
-Reﬂex save). The icewyrm can’t use Breath Weapon again for 1d4 rounds.
-Ice Burrow As blizzardborn.
+Perception +3; darkvision
+Languages Aquan, Terran
+Skills Athletics +6, Diplomacy +7
+Str +3, Dex +1, Con +2, Int –2, Wis +0, Cha +2
+AC 14; Fort +7, Ref +4, Will +3
+HP 24, fast healing 2 (while touching mud or slime); Immunities bleed, paralyzed,
+poison, sleep
+Speed 20 feet, ﬂy 20 feet
+Melee Ȱɵ ﬁst +8, Damage 1d6+3 bludgeoning
+Arcane Innate Spells DC 17; 1st grease
+Breath Weapon ʚʖ (arcane, poison) The ooze mephit spits toxic slime in a 15-foot cone
+that deals 2d6 poison damage to each creature within the area (DC 17 basic Reﬂex
+save). The ooze mephit can’t use Breath Weapon again for 1d4 rounds.
+STEAM MEPHIT
+These brash and arrogant creatures are among the more energetic mephits. They
+are quick to nominate themselves the leaders of any group, barking out orders in
+shrill, high-pitched voices and insisting on having everything done their way. Even
+when they aren’t bossing others around, the constant hiss of steam escaping from
+their pores ensures that there is never a quiet moment.
+STEAM MEPHIT
+CREATURE 1
+UNCOMMON
+N
+SMALL
+ELEMENTAL
+FIRE
+WATER
+Perception +3; darkvision, steam vision
+Languages Aquan, Ignan
+Skills Acrobatics +7, Intimidation +6
+Str +1, Dex +2, Con +4, Int –2, Wis +0, Cha +0
+Steam Vision The steam mephit ignores the concealed
+condition from mist and steam.
+AC 16; Fort +9, Ref +7, Will +5
+HP 19, fast healing 2 (in boiling
+water or steam); Immunities
+bleed, ﬁre, paralyzed, poison, sleep;
+Weaknesses cold 3
+Speed 20 feet, ﬂy 25 feet, swim 25 feet
+Melee Ȱɵ claw +7 (agile, ﬁnesse), Damage 1d6+1
+slashing
+Arcane Innate Spells DC 17; 2nd obscuring mist
+Boiling Rain ʚʖ (arcane, conjuration, ﬁre, water) Frequency
+once per day; Eﬀect The steam mephit calls down a rain
+boiling water that surrounds them in a 10-foot emanation.
+Creatures in the area take 2d8 ﬁre damage (DC 17 basic Reﬂex save),
+and small unattended ﬂames (such as torches) are extinguished.
+Breath Weapon ʚʖ (arcane, ﬁre) The steam mephit spits a cloud of
+steam in a 15-foot cone that deals 2d6 ﬁre damage to each creature
+within the area (DC 17 basic Reﬂex save). The steam mephit can’t use
+Breath Weapon again for 1d4 rounds.
+MEPHIT NAMES
+Perhaps because they’re so often
+compelled into service by mortal
+conjurers and more powerful
+elementals, mephits tend to adopt long
+names peppered with self-proclaimed
+titles and imagined or exaggerated
+accomplishments to alleviate their
+feelings of inadequacy. Some examples
+of mephit names follow.
+•	 Anothoraxia, Lurker in Dark Places,
+the Tragic Hero, One Against All
+•	 Silothiscil the Embittered, Rimelord
+of the Eternal Chill, Lord of Icicles
+•	 Oglophax, Prince of Pungency, the
+Viscous One, the Forever Stain
+•	 Zarnozath the Magniﬁcent, First
+of His Name, Boiler of Kettles, the
+Teapot Terror
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868611
+4425123
 
-================================================================================
 PAGE 117
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868614
+4425126
 Bestiary 2
+116
+116
 ROGUE ELEPHANTS
 Elephants of all species are, by
 nature, social creatures who form
@@ -350,89 +455,104 @@ Primeval variants of the elephant dwell in remote regions of the world.
 ANANCUS
 The anancus is an ancient species of elephant with unusually long tusks and a
 trunk shorter than its more modern cousins.
-
-================================================================================
-# IRNAKURSE
-================================================================================
-
-
-Bestiary 2
-IRNAKURSE MOCKERIES
-When drow capture a particularly
-hated surface elf, or one with a large
-following, they inﬂict even greater pain
-upon them during the ﬂeshwarping
-process than most other victims. The
-resulting irnakurse are known as
-“mockeries,” and always have elite
-adjustments. Rather than using them,
-drow keep them close at hand as living
-“art” akin to a pet or trophy.
-Fleshwarp
-Horrid abominations reshaped by vile alchemical magic, the two ﬂeshwarps
-presented here were created by drow, who transform captured elves or xulgaths
-into twisted monstrosities that can then be loosed to cause havoc and terror.
-IRNAKURSE
-Irnakurse are surface elves who drow have subjected to particularly cruel and
-humiliating ﬂeshwarping practices, as drow take special delight in the torment
-of their surface-dwelling kin. The process of crafting an irnakurse involves
-twisting an unfortunate elf into a deformed mass of misplaced limbs, loose ﬂesh,
-and bony protrusions—parts that should be internal are often left on full display
-to the world. Irnakurse are subject to mental conditioning that causes them to
-hate their prior forms, and these creatures prefer to attack surface elves over all
-other targets.
-IRNAKURSE
+ANANCUS
+CREATURE 8
+N
+HUGE
+ANIMAL
+Perception +16; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +19, Survival +16
+Str +7, Dex +0, Con +5, Int –4, Wis +2, Cha –2
+AC 25; Fort +19, Ref +14, Will +16
+HP 170
+Speed 40 feet
+Melee Ȱɵ tusk +19 (reach 15 feet), Damage 2d12+11 piercing
+Melee Ȱɵ foot +17 (reach 10 feet), Damage 2d10+9 bludgeoning
+Critical Success The target is unaﬀected.
+Success The target takes half damage.
+Failure The target takes full damage and is knocked prone.
+Critical Failure The target takes double damage, is knocked
+prone, and is pushed 5 feet away from the anancus.
+Trample ̂ˬ Large or smaller, foot, DC 25
+Tusk Sweep ʚʖ The anancus sweeps its long tusks
+back and forth, dealing 4d6
+bludgeoning damage to all
+creatures in a 15-foot cone,
+who must make a DC 27
+basic Reﬂex save.
+MASTODON
+Not to be confused with the
+larger
+mammoth,
+mastodons
+are primeval elephants who dwell
+predominantly in temperate forests.
+There, they travel in close-knit social groups
+and feed on the forest vegetation.
+MASTODON
 CREATURE 9
-CE
-LARGE
-ABERRATION
-Perception +18; darkvision
-Languages Abyssal, Elven, Undercommon (can’t speak
-any language)
-Skills Athletics +20, Acrobatics +20, Stealth +20
-Str +5, Dex +5, Con +3, Int –2, Wis +3, Cha +4
-AC 28; Fort +20, Ref +18, Will +16
-HP 152
-Attack of Opportunity Ǻȓ
-Speed 15 feet
-Melee Ȱɵ jaws +20 (reach 10 feet), Damage
-2d12+11 piercing
-Melee Ȱɵ tentacle +20 (agile, reach 20
-feet), Damage 2d8+11 slashing plus
-mind lash
-Mind Lash (emotion, enchantment,
-mental, occult) A non-evil creature
-hit by an irnakurse’s tentacle is
-overwhelmed with corrupted images
-of a ruined life and must succeed at a
-DC 28 Will save or be stunned
-2 (or stunned 4 on a critical
-failure). After attempting
-this save, a creature is
-temporarily immune to Mind
-Lash for 24 hours.
-Rend Ȱɵ tentacle
-Soul Scream
-ʚʖ
-(auditory,
-concentrate, emotion, enchantment,
-mental, occult) Frequency once per day;
-Eﬀect The irnakurse unleashes an alien
-shriek of nightmarish horror and
-pain. All non-evil creatures within a
-10-foot emanation must attempt a
-DC 28 Will save. The irnakurse can
-Sustain Soul Scream for up to 6
-rounds; each time it does, it repeats
-the eﬀect.
-Critical Success The creature is unaﬀected,
-and is temporarily immune to Soul Scream for 24 hours.
-Success The creature is stupeﬁed 1 for 1 round.
+N
+HUGE
+ANIMAL
+Perception +17; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +21, Survival +17
+Str +8, Dex +0, Con +5, Int –4, Wis +2, Cha –2
+AC 26; Fort +20, Ref +13, Will +17
+HP 175
+Speed 45 feet
+Melee Ȱɵ tusk +21 (reach 15 feet), Damage 3d8+12 piercing
+Melee Ȱɵ trunk +21 (reach 15 feet), Eﬀect grabbing trunk
+Melee Ȱɵ foot +21 (reach 10 feet), Damage 2d10+12 bludgeoning
+Dual Tusks Ȱɵ The mastodon makes two tusk Strikes, each against a different
+creature. This counts as one attack for the mastodon’s multiple attack
+penalty, and the penalty doesn’t increase until after both
+attacks.
+Grabbing Trunk A Medium or smaller creature hit by the
+mastodon’s trunk is grabbed. If the mastodon moves, it can
+bring the grabbed creature along with it.
+Trample ̂ˬ Large or smaller, foot, DC 27
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868614
+4425126
 
-================================================================================
 PAGE 120
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868617
+4425129
+E-G
+E-G
+119
+119
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ZEVGAVIZEB’S FAVORED
 The demonic patron of many
 xulgaths, Zevgavizeb, spends most
@@ -457,63 +577,83 @@ In transforming xulgaths, drow ﬂeshwarpers sought not to create a new type of
 creature but to recapture a form of xulgath predecessor believed entirely vanished
 from Golarion. Ghonhatines are the result—hulking reptilian beasts who prefer to
 crawl on all fours and tear at their foes with bestial fury.
+GHONHATINE
+CREATURE 10
+CE
+LARGE
+ABERRATION
+Perception +19; darkvision, scent (imprecise) 30 feet
+Languages Undercommon
+Skills Athletics +21, Intimidation +19, Stealth +19
+Str +7, Dex +3, Con +6, Int –2, Wis +5, Cha +3
+AC 30; Fort +22, Ref +17, Will +19
+HP 175; Immunities disease; Resistances acid 10
+Stench (aura, olfactory) 30 feet. A creature entering the aura or starting
+its turn in the aura must succeed at a DC 26 Fortitude save or
+become sickened 1 (plus slowed 1 for as long as it’s sickened on
+a critical failure). While within the aura, aﬀected creatures take a
+–2 circumstance penalty to saves against disease and to recover
+from the sickened condition. A creature that succeeds at
+its save is temporarily immune for 1  minute.
+Speed 35 feet
+Melee Ȱɵ jaws +23 (reach 10 feet), Damage
+2d12+10 piercing plus 1d6 persistent acid
+Melee Ȱɵ claw +23 (agile, reach 10 feet),
+Damage 2d10+10 slashing
+Ranged Ȱɵ vomit +19 (acid, range
+increment 20 feet), Damage 5d6 acid
+plus ﬂeshgout
+Feed Ȱɵ (manipulate) Requirement The
+ghonhatine is adjacent to the corpse of
+a creature that died within the last hour;
+Eﬀect The ghonhatine devours a chunk of
+the corpse. For 1 minute, the ghonhatine
+gains fast healing 5 and a +2 status bonus
+to damage rolls. It can gain these beneﬁts
+from any given corpse only once.
+Fleshgout (disease) A ghonhatine’s vomit
+carries an awful disease that, over time,
+can cause a suﬀering creature’s ﬂesh to
+develop painful boils that eventually
+slough away, leaving gaping wounds;
+Saving Throw DC 28 Fortitude; Stage 1
+carrier with no ill eﬀect (1d4 hours); Stage
+2 enfeebled 1 and drained 1 (1 day); Stage
+3 enfeebled 2 and drained 2 (1 day); Stage 4
+enfeebled 2 and drained 3 (1 day); Stage 5
+drained 4, enfeebled 2, and unconscious (1
+day); Stage 6 dead
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868617
+4425129
 
-================================================================================
-# ICE GOLEM
-================================================================================
-
-Filth Fever (disease) The sickened and unconscious conditions from ﬁlth fever can’t
-end or be reduced until the disease is cured; Saving Throw DC 19 Fortitude; Stage 1
-carrier with no ill eﬀect (1d4 hours); Stage 2 sickened 1 (1 day); Stage 3 sickened 1
-and slowed 1 as long as it remains sickened (1 day); Stage 4 unconscious (1 day);
-Stage 5 dead
-ICE GOLEM
-Ice golems are either carved from massive blocks of ice, or pieced together from
-individual components that are then fused together through heat and refreezing.
-In most cases, the resulting shape is little more than a crude approximation of a
-humanoid form, but given the right talent, an ice golem could be an exquisitely
-carved statue of a mythical creature, famous persona, or even a deity.
-While ice golems most frequently serve as guardians in freezing climates,
-the magic that holds an ice golem together keeps it from melting in warmer
-temperatures. This, combined with the fact that ice golems lie on the lower
-end of the scale as far as cost and difﬁculty to create, gives these constructs
-unusual features that puts them in great demand. The rich and powerful
-in hot, arid regions often commission ice golems not only as guardians
-for their estates and vaults, but for comfort—the presence of an ice golem
-standing quietly sentinel in the corner of a room can help to keep the
-chamber at a comfortable temperature. The truly decadent use ice
-golems as servants to keep drinks cold.
-ICE GOLEM
-CREATURE 5
-UNCOMMON
-N
-MEDIUM
-COLD
-CONSTRUCT
-GOLEM
-MINDLESS
-Perception +9; darkvision
-Skills Athletics +15
-Str +5, Dex +0, Con +4, Int –5, Wis +0, Cha –5
-AC 21; Fort +15, Ref +11, Will +9
-HP 80; Immunities bleed, cold, death eﬀects, disease, doomed,
-drained, electricity, fatigued, healing, magic (see Golem
-Antimagic below), mental, necromancy, nonlethal attacks,
-paralyzed, poison, sickened, unconscious; Resistances physical
-5 (except adamantine and bludgeoning)
-Golem Antimagic harmed by ﬁre (4d6, 1d10 from areas or persistent
-damage); healed by cold (area 1d6 HP); slowed by water
-Icy Demise (arcane, cold, evocation) When an ice golem
-is destroyed, its body explodes in a blast of frigid air
-and razor-sharp ice, dealing 2d6 slashing damage
-and 2d6 cold damage to creatures in a 20-foot
-emanation, with a DC 19 basic Reﬂex save.
-
-================================================================================
 PAGE 131
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868628
+4425140
 Bestiary 2
+130
+130
 WOOD GOLEM COMPONENTS
 Unless they are badly damaged by
 magical ﬁre, the rare woods and
@@ -532,7 +672,7 @@ Vulnerable to Endure Elements An ice golem can be targeted with endure elements
 even if it’s not willing. If it is targeted, for 1 round it can’t use Breath Weapon or
 beneﬁt from creeping cold, and its ﬁst attack doesn’t deal cold damage.
 Speed 25 feet
-Melee Ȱɵ ﬁst +15 (magical, versatile P), Damage 2d6+7 bludgeoning plus 1d6 cold
+Melee Ȱɵ ﬁst +15 (magical, versatile P), Damage 2d6+7 bludgeoning plus 1d6 cold
 Breath Weapon ʚʖ (arcane, cold, evocation) The ice golem exhales a blast of freezing
 mist that deals 6d6 cold damage in a 30-foot cone (DC 22 basic Reﬂex save). It can’t
 use Breath Weapon again for 1d4 rounds.
@@ -551,138 +691,78 @@ see wood golems as an affront or an abomination, akin to the horror humanoids
 often feel when facing a carrion or ﬂesh golem. As a result, it is rare to see such
 creatures serving as guardians for fey or druidic holy sites, despite the thematic
 match between the wood golem’s appearance and such locations.
-
-================================================================================
-# INTELLECT DEVOURER
-================================================================================
-
-
-SENSATION SEEKERS
-Intellect devourers steal bodies to
-experience the physical sensations
-denied their nearly invulnerable
-natural forms. Each new body
-brings the opportunity to explore
-new vistas of taste, touch, and pain.
-Intellect devourers occupying a
-body fear little but discovery, and
-even that simply puts a temporary
-end to their games. Harm to the
-host is just another sensation to
-experience, and replacement bodies
-are easy to ﬁnd.
-Intellect Devourer
-Intellect devourers serve as advance scouts and inﬁltrators for the powerful
-force of alien beings called the Dominion of the Black. These monsters roam the
-Darklands, from which they mount secret invasions of the world above. When
-an intellect devourer inﬁltrates a society, its ﬁrst priority is to acquire a body. It
-might ﬁrst seek out a graveyard for a fresh corpse, as this is easier than ﬁghting
-and killing someone. When the aberration compresses itself into the host’s brain
-cavity, its real body goes dull to sensation as it connects to the nervous system of
-its host. If found out, an intellect devourer might quickly inhabit a new body to
-make its escape, preferably something inconspicuous such as a domestic animal.
-INTELLECT DEVOURER
-CREATURE 8
+WOOD GOLEM
+CREATURE 6
 UNCOMMON
-CE
-SMALL
-ABERRATION
-Perception +16, darkvision, lifesense 60 feet
-Languages Aklo, Common, Undercommon (can’t speak any languages); telepathy 100 feet
-Skills Athletics +14, Deception +20, Diplomacy +16, Occultism +17, Society +17, Stealth +18
-Str +2, Dex +4, Con +4, Int +5, Wis +4, Cha +6
-AC 26, Fort +14, Ref +16, Will +18
-HP 130; Immunities blinded, controlled, emotion, possession
-Speed 35 feet
-Melee Ȱɵ talon +18 (agile, ﬁnesse), Damage 2d10+5 slashing
-Occult Innate Spells DC 27; 4th confusion, globe of invulnerability; 3rd soothe (×3); 2nd
-gentle repose, invisibility (at will, self only), paranoia (at will); Cantrips (4th) daze,
-detect magic, read aura
-Body Thief ̂ˬ (manipulate, necromancy, occult, possession) The intellect devourer
-reduces in size and burrows into the brain of a creature dead for no longer than 1 day.
-At the start of the intellect devourer’s next turn, the body revives at its maximum Hit
-Points, controlled by the devourer. The intellect devourer is conscious and can sense
-everything the possessed body could. Any eﬀect that ends the possession kills the host
-body with the same eﬀects as Exit Body. The intellect devourer can’t use any of the host
-creature’s spells with Body Thief but can use its own spells. The host body slowly decays
-while inhabited by the intellect devourer, becoming uninhabitable after
-7 days unless preserved with gentle repose or a similar eﬀect.
-Exit Body Ȱɵ (move) Requirements The intellect devourer is
-controlling a body with Body Thief; Eﬀect The intellect
-devourer leaves its host body, which dies instantly
-and is no longer a suitable host for any Body
-Thief ability. The intellect devourer appears
-at full size in an adjacent space.
-Ravage ̂ˬ The intellect devourer makes
-two talon Strikes against a paralyzed,
-restrained, or unconscious creature,
-using the same attack modiﬁer as its
-highest attack modiﬁer. These Strikes
-gain the death trait. If Ravage kills the
-target, the intellect devourer may use Body
-Thief against it as a free action.
-Stolen Identity While an intellect devourer
-uses Body Thief, it gains the ability to
-understand and speak all languages
-known by the host, as well as knowledge
-of the host body’s abilities, identity, role
-in society, and personality. However,
-it does not gain the
-speciﬁc memories
-or knowledge of
-the host body.
+N
+MEDIUM
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +12; darkvision
+Skills Athletics +17
+Str +5, Dex +4, Con +3, Int –5, Wis +0, Cha –5
+AC 23; Fort +15, Ref +16, Will +12
+HP 95; Immunities bleed, death eﬀects,
+disease, doomed, drained, fatigued, healing,
+magic (see Golem Antimagic below), mental,
+necromancy, nonlethal attacks, paralyzed,
+poison, sickened, unconscious; Resistances
+physical 5 (except adamantine)
+Golem Antimagic harmed by ﬁre (4d8, 2d6 from
+areas or persistent damage); healed by plant
+(area 2d6 HP); slowed by earth
+Vulnerable to Shape Wood A wood golem targeted by
+shape wood takes 2d8 damage per spell level, with
+a basic Fortitude save against the caster’s spell
+DC. On a critical failure, the golem is also
+immobilized for 1d4 rounds.
+Splinter Ǻȓ (arcane, transmutation) Trigger
+The wood golem takes physical damage;
+Eﬀect A jagged, sizable splinter of
+wood lances out at the golem’s
+attacker. The golem makes a
+splinter Strike against an
+adjacent creature without
+triggering reactions.
+Speed 25 feet
+Melee
+Ȱɵ
+fist
++17
+(magical), Damage 2d8+8
+bludgeoning
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868628
+4425140
 
-================================================================================
 PAGE 149
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868646
+4425158
 Bestiary 2
-IRLGAUNT RELIGION
-A small number of irlgaunts actively
-worship Rovagug, whom they believe
-to be the progenitor of their species.
-Instead of living solitary lives,
-these chaotic evil irlgaunts form
-cabals that inhabit deep ﬁssures,
-transforming them into grisly
-temples by decorating them with
-the corpses of their sacriﬁces. They
-also decorate their own bodies by
-carving prayers into their chitin and
-painting themselves with crude and
-disturbing images. Some claim these
-runes grant them divine powers of
-protection and the ability to summon
-Rovagug’s otherworldly kin.
-Irlgaunt
-Irlgaunts resemble titanic spiders or crabs, but with cephalopod-like tendrils
-erupting from the tips of their chitin-armored legs. Their jagged gray shells allow
-them to blend into the rocky walls of the high mountain passes and deep ravines
-that serve as their hunting grounds. Despite their size, they move with incredible
-alacrity, bounding across chasms and skittering up sheer mountain cliffs without
-pause. Though they are formidable in melee, irlgaunts have an even more powerful
-ranged attack. These creatures can pelt their opponents by forcefully regurgitating
-gastroliths—melon-sized clusters of rocks enveloped in coagulated digestive
-enzymes strong enough to break down ﬂesh and bone. Gastroliths are fragile and
-explode on contact, spraying the area with shards of rock and caustic acid.
-While one might easily mistake an irlgaunt for a simple brutish beast, they have
-a keen intelligence and use devious hunting strategies. They set traps for travelers
-and are fond of using gems and magical items taken from previous victims as bait.
-They have been known to start rockslides or otherwise block passages to reroute
-explorers into their clutches. They also use their gastroliths to direct the movements
-of their prey, forcing victims into dead ends at the edge of chasms or cliffs.
-For the most part, irlgaunts live solitary lives, likely because ﬁnding enough food
-to sustain a community tends to be difﬁcult. However, they still maintain a sense
-of extended, regional community, actively gathering when organizing for war or to
-discuss other issues that affect their species or shared territories. They have been
-known to occasionally ally with giants, but these truces are usually nebulous.
-
-================================================================================
-# IRLGAUNT
-================================================================================
-
-
-Bestiary 2
+148
+148
 IRLGAUNT RELIGION
 A small number of irlgaunts actively
 worship Rovagug, whom they believe
@@ -747,7 +827,8 @@ Primal Innate Spells DC 31; 6th stone tell;
 (at will)
 Regurgitate Gastrolith ʚʖ (acid,
 evocation, primal) The irlgaunt
-violently regurgitates a melonsized clot of brittle stone
+violently regurgitates a melon-
+sized clot of brittle stone
 supernaturally infused with
 digestive
 enzymes.
@@ -764,41 +845,48 @@ damage to creatures
 in a 20-foot burst (DC 33 basic Reﬂex
 save). The irlgaunt can’t Regurgitate Gastroliths for 1d4 rounds.
 Stone Step The irlgaunt ignores diﬃcult terrain composed of rocks and stone.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868646
+4425158
 
-================================================================================
 PAGE 150
 ================================================================================
 
-EXILES FROM BEYOND
-These disgusting parasites originally
-manifested in the First World, but
-the fey denizens of that realm found
-them too awful to endure and exiled
-them to the Material Plane. Over
-time, the isqulugs sloughed oﬀ their
-fey features for new, more powerful
-bodies of their own. Reports of
-stranger variants ﬂourishing in areas
-such as demon-deﬁled Tanglebriar
-and remote fungi-ridden vaults in Orv,
-however, suggest their foothold on
-Golarion has become more established
-than previously thought.
-Isqulug
-The isqulug’s appearance, though unsettling, might be its least awful aspect.
-The creature resembles a bipedal amphibian with tentacles instead of arms and
-a head composed of an undulant mass of what appear to be shifting, slimy
-transparent eggs ﬁlled with writhing larvae. In truth, these larvae constitute
-the mind and consciousness of the isqulug—its “body” is little more than an
-organic suit manufactured from the ﬂesh of those it has consumed, analogous to
-the complex web of a spider or the hive of a colony of bees, but fully capable of
-movement and violence.
-
-================================================================================
-# ISQULUG
-================================================================================
-
-
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868647
+4425159
+H-K
+H-K
+149
+149
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 EXILES FROM BEYOND
 These disgusting parasites originally
 manifested in the First World, but
@@ -850,7 +938,7 @@ Expel Infestation ʚʖ The isqulug expels larvae
 from the hivemind in its head in a 30-foot
 cone. Creatures in this area take 6d10
 piercing damage as the swarm feeds on their
-ﬂesh (DC 30 basic Reﬂex save). Any creature
+ﬂesh (DC 30 basic Reﬂex save). Any creature
 that takes damage is exposed to isqulugia.
 The isqulug becomes stupeﬁed 1 for 1d4 rounds,
 during which it can’t Expel Infestation.
@@ -858,7 +946,7 @@ Isqulugia (disease, incapacitation, primal, transmutation,
 virulent) Isqulugia’s sickened, slowed, and paralyzed
 conditions can’t be removed until this aﬄiction is removed;
 Saving Throw DC 30 Fortitude; Stage 1 sickened 1 (1 hour);
-Stage 2 fatigued and sickened 2 (1 day); Stage 3 fatigued
+Stage 2 fatigued and sickened 2 (1 day); Stage 3 fatigued
 and slowed 1 (1 day); Stage 4 paralyzed (1 day); Stage 5
 the creature dies, and its body violently transforms into a
 new isqulug. Wish, similar magic, or a 9th-level resurrect
@@ -876,12 +964,37 @@ diﬃcult
 terrain that’s caused
 by typical features
 of swamps.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868647
+4425159
 
-================================================================================
 PAGE 151
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868648
+4425160
 Bestiary 2
+150
+150
 JABBERWOCK TREASURE
 Jabberwocks have no interest
 in treasure for its own sake, but
@@ -942,16 +1055,53 @@ belief claim that the jabberwocks seen today
 are but pale imitations of this proto-jabberwock,
 and they speculate that only the combined efforts of
 several Eldest would be sufﬁcient to create such a
-creature again.
+creature again.
 VARIANT JABBERWOCKS
 The Eldest have sometimes altered certain aspects of the
 jabberwocks they create. Some of the more notorious or
 legendary variant jabberwocks include the following.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868648
+4425160
 
-================================================================================
 PAGE 152
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868649
+4425161
+H-K
+H-K
+151
+151
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 JABBERWOCKS AND DRAGONS
 Although jabberwocks may fear
 vorpal weapons and are ﬁlled with
@@ -977,69 +1127,88 @@ Slithy Jabberwock: Wreaking destruction beneath the waves, these sinuous and
 slimy jabberwocks are amphibious, have a swim Speed of 80 feet instead of the
 normal ﬂy Speed, and do not have a wing Strike. A slithy jabberwock’s whifﬂing
 aura is activated whenever it swims, makes a tail Strike, or Burbles.
-
-================================================================================
-# ICE YAI
-================================================================================
-
-2nd darkness, invisibility (at will, self only)
-Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) The onidoshi takes on
-the appearance of an ogre. This doesn’t change their Speed or Strike attack and damage.
-ICE YAI
-Ice yai combine the brutality of frost giants with the grace of martial artists. More
-than any other oni, ice yai delight not in the pleasures of the ﬂesh, but in ﬂesh
-itself—rather than indulging in oft-destructive mortal vices like drink or lust, ice
-yai pursue physical perfection, reveling in the process of turning their bodies into
-powerful ﬁghting machines.
-ICE YAI
-CREATURE 13
+JABBERWOCK
+CREATURE 23
+RARE
 CE
-LARGE
-COLD
-FIEND
-GIANT
-HUMANOID
-ONI
-Perception +26; greater darkvision
-Languages Common, Jotun
-Skills Acrobatics +24, Arcana +23, Athletics +25, Deception +27,
-Intimidation +27, Nature +24, Stealth +26
-Str +8, Dex +5, Con +5, Int +4, Wis +5, Cha +8
-AC 34; Fort +21, Ref +25, Will +23; +1 status on all saves vs. magic
-HP 230, regeneration 15 (deactivated by acid or ﬁre); Immunities
-cold; Weaknesses ﬁre 15
-Attack of Opportunity Ǻȓ
-Icy Deﬂection Ǻȓ Trigger The ice yai is targeted by a ranged Strike
-or spell attack roll that doesn’t have the ﬁre trait; Eﬀect The ice
-yai creates a reﬂective blockade of ice, gaining a +4 circumstance
-bonus to AC against the triggering attack roll. If the attack misses,
-the ice yai redirects the attack to another creature within 20 feet
-of the yai. The attacker rerolls the attack roll against the new target.
-Speed 40 feet, ﬂy 40 feet
-Melee Ȱɵ ﬁst +27 (agile, evil, magical, reach 10 feet), Damage 2d8+16
-bludgeoning plus 2d6 cold and frozen strike
-Ranged Ȱɵ ice missile +25 (cold, evil, magical, range increment 60 feet),
-Damage 2d10+12 cold and frozen strike
-Primal Innate Spells DC 33; 7th cone of cold, wall of ice; 6th cone of
-cold (×3); 4th charm (×3), darkness, gaseous form, solid fog; 2nd
-invisibility (at will, self only)
-Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation)
-As onidoshi, but into a frost giant.
-Double Punch Ȱɵ Frequency once per round; Eﬀect The ice
-yai makes two ﬁst Strikes.
-Frozen Strike On a critical hit with a ﬁst Strike or a hit
-with an ice missile Strike, the target creature must
-attempt a DC 33 Fortitude save.
-Critical Success The creature is unaﬀected.
-Success The creature is slowed 1 for 1 round.
-Failure The creature is slowed 2 for 1 round.
-Critical Failure The creature is slowed 3 for 1 round.
+HUGE
+DRAGON
+TANE
+Perception +40; darkvision, scent 120 feet, true seeing
+Languages Aklo, Common, Draconic, Gnomish, Sylvan
+Skills Acrobatics +40, Athletics +44, Intimidation +41, Nature +38, Survival +40
+Str +11, Dex +7, Con +10, Int +4, Wis +9, Cha +8
+Planar Acclimation The jabberwock always treats the plane it is currently located on as
+its home plane.
+AC 49; Fort +39, Ref +37, Will +40
+HP 500, regeneration 25 (deactivated by vorpal weapons); Immunities paralyzed, sleep;
+Weaknesses vorpal weapons 20, vorpal fear; Resistances ﬁre 20
+Frightful Presence (aura, emotion, fear, mental) 100 feet, DC 43
+Vorpal Fear A jabberwock damaged by a vorpal weapon becomes frightened 2 (or
+frightened 4 on a critical hit).
+Claws That Catch Ǻȓ Trigger A creature within the jabberwock’s reach uses a
+manipulate action or a move action, leaves a square during a move action, makes a
+ranged attack, or uses a concentrate action; Effect The jabberwock makes a claw
+Strike against the triggering creature. If the Strike hits, the jabberwock disrupts
+the triggering action.
+Speed 35 feet, ﬂy 60 feet
+Melee Ȱɵ jaws +42 (deadly 2d12, magical, reach 15 feet), Damage 4d12+19 piercing
+Melee Ȱɵ claw +42 (agile, magical, reach 15 feet), Damage 4d8+19 slashing plus Improved
+Grab
+Melee Ȱɵ tail +42 (magical, reach 15 feet), Damage 4d10+19 bludgeoning plus Improved
+Knockdown
+Melee Ȱɵ wing +40 (magical, agile, reach 15 feet), Damage 4d8+19 bludgeoning
+Ranged Ȱɵ eyes of ﬂame +42 (ﬁre, magical, range increment 60 feet), Damage 10d6 ﬁre
+plus 4d6 persistent ﬁre
+Primal Innate Spells DC 43; Constant (10th) true seeing
+Burble ʚʖ The jabberwock creates a blast of strange noises and shouted nonsense
+in the various languages it knows (and invariably some languages it doesn’t know),
+creating one of two eﬀects. The jabberwock can’t Burble again for 1d4 rounds.
+•	 Confusion (aura, emotion, enchantment, mental, primal) 60 feet. Each creature in the
+emanation must succeed at a DC 46 Will save or become confused for 1d4 rounds.
+•	 Sonic Beam (evocation, primal, sonic) The jabberwock focuses its Burbling into a
+60-foot line of sonic energy that deals 24d6 sonic damage to creatures in the area
+(DC 46 basic Reﬂex save).
+Jaws That Bite If the jabberwock makes a jaws attack and rolls a natural 19 on the d20
+roll, the attack is a critical hit. This has no eﬀect if the 19 would be a failure.
+Whiﬄing Ǻȓ (aura) Trigger The jabberwock Flies or makes a wing Strike; Eﬀect The
+jabberwock’s wings whiﬄe, creating severe winds within a 30-foot emanation. These
+winds move outward from the jabberwock, and they persist until the start of the
+jabberwock’s next turn. During this time, ﬂight of any kind in the emanation requires a
+successful DC 43 Acrobatics check to Maneuver in Flight, and creatures ﬂying toward
+the jabberwock are moving through greater diﬃcult terrain. Creatures on the ground
+in the emanation must succeed at a DC 43 Athletics check to approach the jabberwock.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868649
+4425161
 
-================================================================================
 PAGE 191
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868688
+4425200
 Bestiary 2
+190
+190
 OTHER ONI
 Diﬀerent oni exist for nearly every
 humanoid ancestry. Kuwa oni mask
@@ -1058,89 +1227,104 @@ in battle to conquer and control others, ﬁre yai also love the thrill of war, 
 for the sheer joy of it. Presenting a ﬁre yai with a true challenge in combat can
 potentially earn their mercy and an offer to join and serve at their side. Fire yai’s
 third eyes shoot forth burning missiles of ﬁre.
-
-================================================================================
-# IFRIT PYROCHEMIST
-================================================================================
-
-
-Bestiary 2
-GENIEKIN PARENTAGE
-Planar scions from the elemental
-planes are known as geniekin because
-they are overwhelmingly born from
-couplings between mortals and
-genies: ifrits are born of efreet, oreads
-of shaitans, sulis of jann, sylphs of
-djinn, and undines of marids. Despite
-this distinguished ancestry, geniekin
-do not display most of their parents’
-exceptional talents, such as their
-ability to grant wishes.
-Planar Scion, Geniekin
-Geniekin are mortals whose ancestry has become entangled with that of genies,
-causing them to exhibit elemental powers drawn from the Elemental Planes. Though
-the geniekin found here are all of human descent and have example alignments,
-geniekin and other planar scions can descend from other ancestries and have any
-alignment. More information on genies can be found on page 162 of the Bestiary.
-IFRIT
-Ifrits’ blood blazes with elemental ﬁre. Most ifrits are second-class citizens who
-serve under the iron heel of the efreeti and their Dominion of Flame, but those
-born outside the efreet hierarchy or who choose to ﬂee it live
-lives of passion in search of fame, glory, and power.
-Ifrits are fond of ﬁre, but this doesn’t mean they all
-embrace ﬁre’s destructive nature. Those who seek
-more productive roles in a society ﬁnd inspiration in
-the way ﬂames ﬂit and dance, and they pride themselves
-in their skills as acrobats or dancers. The church of
-Sarenrae particularly welcomes ifrit ﬁre dancers, both in
-appreciation of their skill and to help ensure these ifrits
-have a safe place apart from their more violent kin.
-But by and large, ifrits are drawn to professions and
-callings that allow them to wallow in the glories of ﬁre.
-Ifrit pyrochemists apply this calling to alchemical
-teachings, seeing purity in every single bomb thrown
-or conﬂagration lit.
-IFRIT PYROCHEMIST
-CREATURE 1
-LE
-MEDIUM
-HUMAN
+FIRE YAI
+CREATURE 14
+NE
+LARGE
+FIEND
+FIRE
+GIANT
 HUMANOID
-IFRIT
-Perception +3
-Languages Common, Ignan
-Skills Acrobatics +6, Crafting +6, Intimidation +4,
-Nature +3, Survival +3, Thievery +6
-Str +0, Dex +3, Con +2, Int +3, Wis +0, Cha +1
-Items alchemist’s tools, dagger, ﬂint and steel, formula book,
-studded leather
-Infused Items An ifrit pyrochemist carries the following
-infused items, which last for 24 hours or until the next time
-the pyrochemist makes their daily preparations: lesser
-alchemist’s ﬁre (5), lesser elixir of life (2), lesser smokestick.
-AC 18; Fort +5, Ref +6, Will +3
-HP 18; Resistances ﬁre 1
-Speed 25 feet
-Melee Ȱɵ dagger +8 (agile, ﬁnesse, thrown 10 feet, versatile S),
-Damage 1d4 piercing
-Ranged Ȱɵ lesser alchemist’s ﬁre +8 (range increment 30 feet), Damage 1d8
-ﬁre plus 1 persistent ﬁre damage and 1 ﬁre splash damage
-Primal Innate Spells DC 16, attack +8; Cantrips (1st) produce ﬂame
-Quick Bomber Ȱɵ The ifrit pyrochemist draws an alchemical bomb with an Interact
-action and throws it as a ranged Strike.
-OREAD
-Elemental earth laces through the bones of oreads, who appear similar to stone
-statues of their mortal ancestry, with delicate crystals in place of hair, fur, or
-scales. Oreads are stoic and slow to plan but are of steadfast resolve and
-unwavering in their convictions.
-The typical oread cherishes quiet seclusion. Yet as they age, many
-oreads ﬁnd themselves inexplicably drawn to some far-ﬂung location
+ONI
+Perception +26; greater darkvision
+Languages Common, Jotun
+Skills Acrobatics +23, Arcana +23, Athletics +27, Crafting +25, Deception +27,
+Intimidation +27, Nature +25
+Str +8, Dex +6, Con +6, Int +4, Wis +6, Cha +8
+Items +1 resilient breastplate, +2 striking katana
+AC 36; Fort +28, Ref +26, Will +24; +1 status on all saves vs. magic
+HP 250, regeneration 15 (deactivated by acid or cold); Immunities ﬁre; Weaknesses
+cold 15
+Attack of Opportunity Ǻȓ
+Speed 40 feet, ﬂy 40 feet
+Melee Ȱɵ katana +30 (deadly 1d8, magical, reach 10 feet, two-hand
+d10, versatile P), Damage 2d6+16 slashing plus 2d6 ﬁre
+Melee Ȱɵ ﬁst +28 (agile, evil, magical, reach 10 feet), Damage
+2d6+16 bludgeoning plus 2d6 ﬁre and 2d6 persistent ﬁre
+Ranged Ȱɵ ﬁre missile +26 (evil, ﬁre, magical, range
+increment 60 feet), Damage 2d10+16 ﬁre plus 2d6
+persistent ﬁre
+Primal Innate Spells DC 34; 7th ﬁreball, ﬁery body,
+ﬂame strike, wall of ﬁre; 6th ﬁreball (×3); 4th
+charm (×3), darkness, gaseous form; 2nd
+invisibility (at will, self only)
+Change Shape Ȱɵ (concentrate, polymorph,
+primal, transmutation) As onidoshi,
+but into a ﬁre giant.
+Impaling Push ʚʖ The ﬁre yai attempts
+a katana Strike. If it hits, the ﬁre yai attempts an Athletics check
+against the target creature’s Fortitude DC.
+Critical Success The ﬁre yai Strides or Flies up to half its Speed in
+any direction. The struck creature takes 4d6 persistent
+bleed damage and is pushed along with the yai an equal
+distance. The creature is grabbed until the yai’s next
+turn or until the yai makes a katana Strike.
+Success As critical success, but the creature
+takes 2d6 persistent bleed damage.
+Failure The struck creature is pushed back 5 feet.
+Critical Failure The struck creature is unaﬀected.
+Smoke Form ʚʖ (concentrate, primal, transmutation)
+The ﬁre yai transforms into a cloud of smoke and then
+Flies up to its ﬂy speed. This movement does not trigger
+reactions, and the ﬁre yai can move through spaces occupied
+by other creatures. The ﬁre yai returns to its physical form
+after this move, and must end the movement in a space in which
+it can ﬁt. All creatures in spaces through which the ﬁre yai moves
+with Smoke Form must succeed at a DC 34 Fortitude save or
+become sickened 3. The ﬁre yai cannot use Smoke Form
+for 1d4 rounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868688
+4425200
 
-================================================================================
 PAGE 202
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868699
+4425211
+O-R
+O-R
+201
+201
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 EXTRAPLANAR HUMANOIDS
 An important distinction exists
 between planar scions and extraplanar
@@ -1166,93 +1350,86 @@ Many oreads ﬁnd that the role of a guard suits their personality well, for in
 such a role they can feel as if they are helping to promote order but also ﬁnd time
 to stand vigil as lone sentinels over a speciﬁc portion of a fortiﬁcation or a remote
 location on a wilderness trail.
+OREAD GUARD
+CREATURE 1
+LN
+MEDIUM
+HUMAN
+HUMANOID
+OREAD
+Perception +7
+Languages Common, Terran
+Skills Athletics +7, Crafting +3, Medicine +5, Society +3, Survival +5
+Str +4, Dex +1, Con +2, Int +0, Wis +2, Cha +0
+Items bastard sword, full plate, light hammer, steel shield (Hardness 5, HP 20, BT 10)
+AC 19 (21 with shield raised); Fort +7, Ref +6, Will +5
+HP 20
+Attack of Opportunity Ǻȓ
+Shield Block Ǻȓ
+Speed 20 feet
+Melee Ȱɵ bastard sword +9 (two-hand d12), Damage 1d8+4
+slashing
+Ranged Ȱɵ light hammer +6 (agile, thrown 20 feet), Damage
+1d6+4 bludgeoning
+Power Attack ʚʖ Frequency once per round; Eﬀect The
+guard makes a melee Strike. This counts as two attacks
+when calculating the guard’s multiple attack penalty. If this
+Strike hits, the guard deals an extra die of weapon damage.
+SULI
+Because their genie forebears are native to the Material
+Plane, sulis (scions of mortals and jann) are by and large
+the most common geniekin on the Material Plane. They are
+often artisans and peace brokers, compelled to try and bring
+harmony and balance in a world wrought with discord.
+Sulis have a natural charm that often eludes other
+geniekin, but tend to layer on a level of boastful
+pride or even arrogance as a personal quirk or
+humorous facade. Few non-sulis realize that
+bragging is not simply the symptom of a puffed-
+up ego for sulis, but instead is a cultural institution
+easily comparable to human poetry. Sulis’ boasts not
+only glorify themselves, but also secure their
+companions’ and families’ accomplishments
+in history, with the ultimate goal of
+spinning stories that will be retold for
+generations. This is especially true
+for sulis who have lived with other
+geniekin and have been seen as lesser for not having a
+strong connection to an Elemental Plane.
+Suli dune dancers are but one way these geniekin seek
+to integrate with other humanoid societies. They work
+to hone their skills at boasting to an extent that their
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868699
+4425211
 
-================================================================================
-# IMENTESH
-================================================================================
-
-
-MOUTHPIECES OF CHAOS
-While rarely found on the Material
-Plane, imenteshes frequent interplanar
-hubs of culture and commerce.
-Imenteshes act as diplomats on
-behalf of any chorus they claim
-allegiance to. They can oﬀer safe
-travel through the Maelstrom or even
-act as guides through the Maelstrom’s
-ever‑shifting Borderlands.
-to cast the mock spell before it is lost, and the creature touched can cast the
-spell normally.
-Failure As critical success, but the azuretzi must cast the mock spell before the end
-of its next turn or it is lost, and the creature touched can cast the spell normally.
-Critical Failure Mocking Touch has no eﬀect.
-IMENTESH
-The loquacious proteans known as imenteshes serve as missionaries, spies, and
-heralds of chaos to further the protean goal of reality’s dissolution. Imenteshes
-are cunning, curiously diplomatic, and profoundly whimsical. They travel
-beyond the Maelstrom for their work, frequently adopting extravagant
-personal attire and decorations that often border upon the garish, all to curry
-favor with less chaotic beings.
-IMENTESH
-CREATURE 10
-CN
-LARGE
-MONITOR
-PROTEAN
-Perception +19; darkvision, entropy sense (imprecise) 60 feet
-Languages Abyssal, Celestial, Protean; tongues
-Skills Acrobatics +17, Athletics +19, Deception +21,
-Diplomacy +19, Performance +21, Stealth +21,
-Thievery +17
-Str +7, Dex +5, Con +5, Int +7, Wis +3, Cha +5
-Entropy Sense (divination, divine, prediction) As akizendri.
-AC 30; Fort +21, Ref +19, Will +17; +1 status to all saves vs. magic
-HP 175, fast healing 5; Weaknesses lawful 10; Resistances precision 10, protean
-anatomy 15
-Protean Anatomy (divine, transmutation) As akizendri.
-Speed 25 feet, ﬂy 25 feet, swim 25 feet; freedom of movement
-Melee Ȱɵ jaws +23 (chaotic, magical, reach 10 feet), Damage 2d10+11 piercing
-plus 1d6 chaotic and warpwave strike
-Melee Ȱɵ claw +23 (agile, chaotic, magical, reach 10 feet), Damage 2d6+11
-slashing plus 1d6 chaotic
-Melee Ȱɵ tail +23 (chaotic, magical, reach 15 feet), Damage 2d10+11
-bludgeoning plus 1d6 chaotic and Grab
-Divine Innate Spells DC 29; 5th dimension door, dispel magic, divine
-wrath (chaotic), sending; 4th creation, dimension door (at
-will), shatter; 3rd haste, mending, shrink item, slow;
-1st detect alignment (at will; lawful only); Constant
-(5th) tongues; (4th) freedom of movement
-Change Shape
-Ȱɵ
-(concentrate,
-divine,
-polymorph, transmutation) The imentesh
-takes the appearance of any Large or
-smaller creature. This doesn’t change
-its Speed or its attack and
-damage
-bonuses
-with
-its
-Strikes, but might change the
-damage type its Strikes deal.
-Constrict Ȱɵ 1d10+11 bludgeoning,
-DC 29
-Inﬂict Warpwave Ȱɵ (divine, transmutation)
-An imentesh inﬂicts a warpwave on a creature within 100 feet (page 204; (DC 29
-Fortitude save to resist).
-Sneak Attack An imentesh’s Strikes deal an additional 2d6 precision damage to
-ﬂat‑footed targets.
-Warpwave Strike (divine, transmutation) Any creature struck and
-damaged by an imentesh’s jaws Strike must succeed at a DC 29
-Fortitude save or be subject to a warpwave (page 204).
-
-================================================================================
 PAGE 209
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868706
+4425218
 Bestiary 2
+208
+208
 PSYCHOPOMP TRAITORS
 Some psychopomps view their task
 of sorting souls as ultimately hollow
@@ -1283,95 +1460,176 @@ business while remaining watchful for danger. Though cunning when snifﬁng out
 threats to the Boneyard or to their psychopomp handlers, they’re among the least
 intelligent of the psychopomps and rarely speak except to utter growling threats.
 The wise listen when an esobok makes a threat, as it won’t do so twice.
+ESOBOK
+CREATURE 3
+N
+MEDIUM
+MONITOR
+PSYCHOPOMP
+Perception +12; darkvision, lifesense 60 feet, scent (imprecise) 60 feet
+Languages Abyssal, Celestial, Infernal, Requian
+Skills Acrobatics +8, Athletics +10, Intimidation +9, Religion +4, Stealth +8, Survival +10
+Str +3, Dex +3, Con +4, Int –3, Wis +3, Cha +2
+AC 18; Fort +11, Ref +8, Will +8
+HP 55; Immunities death eﬀects, disease; Resistances negative 5, poison 5
+Speed 30 feet
+Melee Ȱɵ jaws +12 (magical), Damage 1d10+3 piercing plus Grab
+and spirit touch
+Melee Ȱɵ claw +12 (agile, magical), Damage 1d6+3 slashing
+plus spirit touch
+Divine Innate Spells DC 17; 2nd invisibility (×3; self only)
+Pounce Ȱɵ The esobok Strides and then makes a
+Strike. If it began this action hidden, it remains
+hidden until after the Strike.
+Spirit Touch
+An
+esobok’s
+Strikes aﬀect incorporeal
+creatures
+with
+the
+eﬀects of a ghost touch
+property rune and deal
+1d6 negative damage to
+living creatures and 1d6 positive damage to undead.
+Wrench Spirit Ȱɵ (attack, divine, incapacitation, necromancy) Requirement
+A creature is grabbed by the esobok’s jaws; Eﬀect The esobok releases
+the target from the Grab but wrenches its spirit free as it does so. The creature
+must attempt a DC 20 Will save. Creatures without souls (such as most constructs)
+and creatures whose bodies and souls are one (such as most celestials, ﬁends, and
+monitors) that roll a failure or critical failure on the save get a success instead.
+Critical Success The creature is unaﬀected.
+Success The target is stunned 1.
+Failure The esobok wrenches the target’s soul from its body
+into its jaws. Mindless undead creatures of level 2 or lower are
+destroyed, other undead creatures are stunned for 1 round, and all
+other creatures are paralyzed. At the end of each of its turns, a creature
+paralyzed by this eﬀect can attempt a new save to end the eﬀect. The
+paralysis ends automatically if the esobok attempts a jaws Strike or speaks.
+Critical Failure As failure, but as long as a creature is stunned or paralyzed, it is
+also stupeﬁed 2.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868706
+4425218
 
-================================================================================
-# INTERLOCUTOR
-================================================================================
-
-
-Bestiary 2
-VELSTRACS ON GOLARION
-Velstracs are most often
-encountered in the shadowy realm
-of Nidal, where the state worship
-of Zon-Kuthon is rigidly enforced.
-Indeed, many velstracs are created
-from the souls of Joyful Things,
-devotees of Zon-Kuthon who have
-had their limbs amputated to focus
-their minds on the veneration of
-pain, sacriﬁce, and torment.
-INTERLOCUTOR
-CREATURE 12
-LE
-LARGE
-FIEND
-VELSTRAC
-Perception +24; greater darkvision, painsight
-Languages Common, Infernal, Shadowtongue
-Skills Athletics +25, Crafting +22 (+24 sculpting ﬂesh), Intimidation +25, Medicine +26,
-Religion +22, Stealth +19, Torture Lore +20
-Str +7, Dex +3, Con +5, Int +2, Wis +6, Cha +5
-Painsight (divination, divine) As augur.
-AC 33; Fort +23, Ref +21, Will +26; +1 status to all saves vs. magic
-HP 215, regeneration 20 (deactivated by good or silver); Immunities cold; Weaknesses
-good 15, silver 15
-Glimpse of Stolen Flesh (aura, divine, enchantment, fear, mental, visual) 30 feet. When a
-creature ends its turn in the aura, it sees pieces of its own body amid the interlocutor’s
-form. The creature must succeed at a DC 29 Will save or become stunned 1.
-Attack of Opportunity Ǻȓ
-Speed 40 feet
-Melee Ȱɵ claw +25 (deadly 2d10, evil, magical, reach 10 feet), Damage 3d10+13 slashing
-plus 2d6 persistent bleed
-Divine Innate Spells DC 33; 7th plane shift (self only, to the Material Plane or Shadow
-Plane only); 5th breath of life; 4th heal (×2), restoration (×2); Cantrips (6th) stabilize
-Focus Gaze Ȱɵ (concentrate, divine,
-enchantment, fear, mental, visual)
-The
-interlocutor
-stares at a creature
-they can see within
-30 feet. The creature must
-immediately attempt a Will save
-against
-glimpse
-of stolen ﬂesh. In
-addition, if the creature
-was already stunned, on a failed
-save, it feels its internal organs twist
-and writhe, and is clumsy 2 for 1
-minute. After attempting this
-save, the creature is then
-temporarily
-immune
-until the start of the
-interlocutor’s next turn.
-Surgical Rend Ȱɵ This functions as the Rend
-ability, dealing claw damage. In addition, if
-the target is a living creature with organs and
-muscle, the interlocutor opens a precise wound.
-Until the creature is restored to its maximum Hit
-Points, thus closing the wound, Strikes against the
-creature deal 1d6 extra precision damage.
-EREMITE
-Eremites roam the planes to seek out ideal portions of
-other creatures, such as a hero’s sword-arm or an angel’s
-pinions. Eremites capture these specimens to clinically
-test their true limits, then harvest specimens
-and add them to their own bodies. An
-eremite might attach tongues to their
-hand as extra ﬁngers or a ﬁst to
-the back of their neck in a horrid
-“improvement.” Eremites average
-7 feet tall and weigh approximately 200 pounds.
-
-================================================================================
 PAGE 286
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868783
+4425295
+U-Z
+U-Z
+285
+285
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 OTHER VELSTRACS
 There are as many diﬀerent velstracs
 as there are ways to inﬂict pain.
 Other velstracs range in power from
 the relatively weak lampadariuses to
 the powerful phylacators.
+EREMITE
+CREATURE 20
+LE
+MEDIUM
+FIEND
+VELSTRAC
+Perception +34; greater darkvision, painsight, true seeing
+Languages Common, Infernal, Shadowtongue; telepathy 100 feet
+Skills Athletics +35, Deception +38, Diplomacy +36, Intimidation +40, Medicine +36,
+Religion +34, Stealth +36, Torture Lore +36
+Str +9, Dex +6, Con +7, Int +6, Wis +6, Cha +10
+Painsight (divination, divine) As augur.
+AC 45; Fort +37, Ref +32, Will +34; +1 status to all saves vs. magic
+HP 375, regeneration 25 (deactivated by good or silver); Immunities
+cold, fear, nonlethal; Weaknesses good 20, silver 20
+Ignore Pain An eremite’s actions can’t be disrupted due to damage or
+Strikes (such as Attack of Opportunity).
+Paralytic Perfection (aura, divine, enchantment, fear, incapacitation,
+mental, visual) 30 feet. When a creature ends its turn in the aura, it feels
+compelled to oﬀer pieces of its own ﬂesh to the eremite. The creature
+must succeed at a DC 40 Will save or become paralyzed for 1 round.
+Speed 30 feet, ﬂy 50 feet
+Melee Ȱɵ jaws +39 (evil, magical), Damage 4d8+19 piercing plus 2d6 persistent
+bleed and exquisite pain
+Melee Ȱɵ claw +39 (agile, evil, magical), Damage 3d6+19 slashing plus 2d6
+persistent bleed, exquisite pain, and Improved Grab
+Divine Innate Spells DC 42; 9th bind soul, blade barrier, harm (×2), heal (×2), shadow
+blast, shadow walk (at will); 7th dimension door (at will), dimensional lock, plane shift
+(to Material Plane or Shadow Plane only), shadow siphon (at will), warp mind; Cantrips
+(9th) stabilize; Constant (9th) true seeing
+Rituals DC 42; imprisonment
+Evisceration Ȱɵ (attack) Requirements The eremite has a
+creature grabbed; Eﬀect The eremite excises ﬂesh or
+bone from a creature it has grabbed. The target takes
+6d10 persistent bleed damage.
+Exquisite Pain An eremite’s knowledge of pressure
+points and pain centers is unsurpassed. A creature
+hit by an eremite’s melee Strikes must succeed
+at a DC 40 Fortitude save or be stunned 2
+(stunned 4 on a critical failure). A creature
+that critically succeeds is temporarily
+immune for 24 hours.
+Focus
+Gaze
+Ȱɵ
+(concentrate,
+divine,
+enchantment, fear, mental, visual) The eremite
+stares at a creature they can see within 30
+feet. The creature must immediately attempt
+a Will save against paralytic perfection.
+In addition, if the creature was already
+paralyzed, on a failed save, its unnatural
+longing causes it to become doomed 1.
+After attempting this save, the creature is
+then temporarily immune until the start of
+the eremite’s next turn.
+Graft Flesh Ȱɵ Requirement The eremite holds a piece of ﬂesh they collected
+via Evisceration; Eﬀect The eremite attaches the stolen ﬂesh to
+themself. They either regain 100 Hit Points; reduce the
+value of their clumsy, drained, enfeebled, or stupeﬁed
+condition by 3; or reduce the stage of any aﬄiction
+aﬀecting them by 3.
+Shadow Traveler (divine, divination) When an eremite uses plane shift or shadow walk,
+they arrive at exactly their intended destination.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868783
+4425295

@@ -1,0 +1,95 @@
+BOUNTY HUNTER
+CREATURE 4
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +14
+Languages Common
+Skills Athletics +9, Deception +10, Diplomacy +8, Intimidation +8, Stealth +12, Survival +10
+Str +3 Dex, +4, Con +1, Int +0, Wis +4, Cha +1
+Items crossbow (10 bolts), falchion, simple manacles, studded leather
+AC 21; Fort +9, Ref +12, Will +12
+HP 60
+Speed 25 feet
+Melee  falchion +13 (forceful, sweep), Damage 1d10+6 slashing
+Ranged  crossbow +14 (range increment 120 feet, reload 1), Damage 1d10+5 piercing
+Hunt Prey  (concentrate) The bounty hunter designates a single creature they can
+see and hear, or one they’re Tracking, as their prey. The bounty hunter gains a +2
+circumstance bonus to Perception checks to Seek the prey and to Survival checks to
+Track the prey. This effect lasts until the bounty hunter uses Hunt Prey again.
+Running Reload  The bounty hunter Stride, Steps, or Sneaks, and then Interacts to
+reload.
+Precision Edge The first time the bounty hunter hits their hunted prey in a round, they
+deal an additional 1d8 precision damage.
+MONSTER HUNTER
+Some mercenaries eschew the complications of politics, oaths of service, and
+fealty and just get paid to hunt monsters. It’s a straightforward form of mercenary
+service, often dangerous in the extreme, but one that can yield glory and fame.
+MONSTER HUNTER
+CREATURE 6
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +13
+Languages Common
+Skills Athletics +15, Monster Lore +13, Stealth +13, Survival +11
+Str +4, Dex +3, Con +3, Int +1, Wis +1, Cha +1
+Items composite longbow (20 arrows), +1 greataxe, hide armor
+AC 23; Fort +15, Ref +11, Will +13
+HP 108
+Attack of Opportunity 
+Speed 20 feet
+Melee  greataxe +15 (magical, sweep), Damage
+1d12+8 slashing
+Ranged  composite longbow +14 (deadly d10, propulsive,
+range increment 100 feet, reload 0, volley 30 feet), Damage
+1d8+6 piercing
+Rage  (concentrate, emotion, mental) Requirements The
+monster hunter isn’t fatigued or raging; Effect The monster
+hunter gains 9 temporary Hit Points that last until the rage
+ends. While raging, they deal 8 additional damage with
+melee attacks, gain a +10-foot status bonus to their
+Speed, and take a –1 penalty to AC. The monster hunter
+can’t use concentrate actions except Seek and rage
+actions. The rage lasts for 1 minute, until there are
+no enemies the monster hunter can perceive, or
+until the monster hunter falls unconscious. Once
+the rage ends, the monster hunter can’t Rage
+again for 1 minute.
+Sudden Charge  The monster hunter
+Strides twice and makes a melee Strike.
+MERCENARY BANTER
+Here’s some parlance commonly
+used by mercenaries.
+Crackster: Someone adept at
+breaking locks or safes.
+Diving: Theft or smuggling below
+ground, often through tunnels.
+Foxing: To play at being asleep,
+usually for an ambush.
+Medic: A healer.
+Ram: A hard-hitting warrior.
+Slinger: A spellcaster.
+Sway of Coin: Swearing allegiance to
+whoever pays the most.
+Waterline: A mercenary troupe’s
+money: “Take time in town while
+the waterline’s high, everyone.”
+Whisperstep: Anyone who can
+move stealthily.
+5
+NPC Gallery
+227
+227
+introduction
+Gamemastery
+Basics
+Tools
+Subsystems
+Variant Rules
+NPC Gallery
+GLOSSARY
+and INDEX
+BOUNTY HUNTER

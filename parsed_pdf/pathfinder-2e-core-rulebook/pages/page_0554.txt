@@ -1,0 +1,163 @@
+MINDFOG MIST
+ITEM 15
+ALCHEMICAL
+ CONSUMABLE
+ INHALED
+ POISON
+Price 1,000 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+Mindfog mist can be used to undermine spellcasters, as its
+effect on a victim’s mental faculties are swift and powerful.
+Saving Throw DC 35 Fortitude; Onset 1 round; Maximum
+Duration 6 rounds; Stage 1 stupefied 2 (1 round); Stage 2
+confused and stupefied 3 (1 round); Stage 3 confused and
+stupefied 4 (1 round)
+NETTLEWEED RESIDUE
+ITEM 8
+ALCHEMICAL
+ CONSUMABLE
+ CONTACT
+ POISON
+Price 75 gp
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+Concentrated sap of stinging weeds makes an effective toxin.
+Saving Throw DC 27 Fortitude; Onset 1 minute; Maximum
+Duration 6 minutes; Stage 1 8d6 poison damage (1 minute);
+Stage 2 10d6 poison damage (1 minute); Stage 3 13d6 poison
+damage (1 minute)
+NIGHTMARE VAPOR
+ITEM 16
+ALCHEMICAL
+ CONSUMABLE
+ INHALED
+ POISON
+Price 1,400 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+Purportedly sourced from any number of outlandish locales,
+nightmare vapor is most often created by boiling the sweat
+collected from humanoids caught in the throes of terrible
+nightmares.
+Saving Throw DC 36 Fortitude; Onset 1 round; Maximum
+Duration 6 rounds; Stage 1 confused (1 round); Stage 2
+confused and flat-footed (1 round); Stage 3 confused, flat-
+footed, and stupefied 2 (1 round)
+PURPLE WORM VENOM
+ITEM 13
+ALCHEMICAL
+ CONSUMABLE
+ INJURY
+ POISON
+Price 500 gp
+Usage held in 2 hands; Bulk L
+Activate [three-actions] Interact
+Venom from enormous purple worms leaves a victim weakened.
+Saving Throw DC 32 Fortitude; Maximum Duration 6
+rounds; Stage 1 5d6 poison damage and enfeebled 2 (1 round);
+Stage 2 6d6 poison damage and enfeebled 2 (1 round); Stage 3
+8d6 poison and enfeebled 2 (1 round)
+SHADOW ESSENCE
+ITEM 10
+ALCHEMICAL
+ CONSUMABLE
+ INJURY
+ NEGATIVE
+ POISON
+Price 160 gp
+Usage held in 2 hands; Bulk L
+Activate [three-actions] Interact
+Distilled from the Plane of Shadow, this oily substance
+imposes tenebrous effects. The enfeebled condition from
+shadow essence lasts for 24 hours.
+Saving Throw DC 29 Fortitude; Maximum Duration 6
+rounds; Stage 1 3d6 negative damage and 2d6 poison damage
+(1 round); Stage 2 3d6 negative damage, 2d6 poison damage,
+and enfeebled 1 (1 round); Stage 3 3d6 negative damage, 2d6
+poison damage, and enfeebled 2 (1 round)
+SLUMBER WINE
+ITEM 12
+ALCHEMICAL
+ CONSUMABLE
+ INGESTED
+ POISON
+SLEEP
+Price 325 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+Slumber wine sees its greatest use in games of intrigue,
+where an absence can be more devastating than injury.
+Characters unconscious from slumber wine can’t wake up by
+any means while the poison lasts, don’t need to eat or drink
+while unconscious in this way, and appear to be recently dead
+unless an examiner succeeds at a DC 40 Medicine check.
+Saving Throw DC 32 Fortitude; Onset 1 hour; Maximum
+Duration 7 days; Stage 1 unconscious (1 day); Stage 2
+unconscious (2 days); Stage 3 unconscious (3 days).
+SPIDER ROOT
+ITEM 9
+ALCHEMICAL
+ CONSUMABLE
+ CONTACT
+ POISON
+Price 110 gp
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+A paste made by mashing the fine, threadlike roots of a certain
+creeper vine, spider root renders a victim clumsy and maladroit.
+Saving Throw DC 28 Fortitude; Onset 1 minute; Maximum
+Duration 6 minutes; Stage 1 8d6 poison damage and clumsy
+1 (1 minute); Stage 2 9d6 poison damage and clumsy  2
+(1 minute); Stage 3 10d6 poison damage and clumsy  3
+(1 minute)
+TEARS OF DEATH
+ITEM 20
+ALCHEMICAL
+ CONSUMABLE
+ CONTACT
+ POISON
+ VIRULENT
+Price 12,000 gp
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+Tears of death are among the most powerful of alchemical
+poisons, distilled from extracts of five other deadly poisons in
+just the right ratios.
+Saving Throw DC 46 Fortitude; Onset 1 minute; Maximum
+Duration 10 minutes; Stage 1 18d6 poison damage and
+paralyzed (1 round); Stage 2 25d6 poison damage and
+paralyzed (1 minute); Stage 3 30d6 poison damage and
+paralyzed (1 minute)
+WOLFSBANE
+ITEM 10
+ALCHEMICAL
+ CONSUMABLE
+ INGESTED
+ POISON
+Price 155 gp
+Usage held in 1 hand; Bulk L
+Activate [one-action] Interact
+Wolfsbane appears in folklore for its link to werecreatures.
+If you are afflicted with lycanthropy and survive stage 3 of
+wolfsbane, you’re immediately cured of the lycanthropy.
+553
+11
+Crafting & Treasure
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

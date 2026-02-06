@@ -83,55 +83,17 @@ hour and enfeebled 2 (1 day)
 PAGE 253
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669105
+4425262
 Bestiary
-OGRE TREASURE
-Ogre warrens are hideous abattoirs
-strewn with severed limbs,
-oﬀal, and dubious stews. Ogres
-sometimes keep shiny baubles,
-like jewelry, and they appreciate
-intimidating weapons and armor,
-especially those that are large
-enough for them to use.
-Ogre
-Ogres embody brutish, amoral violence and cruelty. Standing 10 feet tall and
-densely muscled, ogres are as strong as they are cruel. Ogres are sadists that
-enjoy remorseless murder, torture, degradation, and mutilation in all of its
-forms. Although they prefer to vent their violent urges on smaller humanoids—
-the smaller and more beautiful, the better—ogres promise a horrifying fate for
-anyone unlucky enough to fall within their meaty grasp. But for all their creativity
-in developing methods of violence, ogres often remain too dim-witted to realize
-that their playthings lack an ogre’s robust fortitude and high pain tolerance, so
-most captives die far sooner than the ogres might prefer. Such a fate is perhaps
-preferable however, as those who survive too long as ogres’ playthings suffer
-lasting mental scars from the horrifying abuse. A captive able to keep their wits
-can sometimes trick the brutes by promising treasure, meatier captives, or other
-crude amusements, taking advantage of an ogre’s limited intellect to engineer
-opportunities to escape.
-Ogres are social creatures only in the most debased sense. They gather together
-in groups called families, though members are not always related by blood. Ogres
-practice incest regularly, believing that it makes for stronger familial bonds, and
-most ogres are misshapen or mutated from generations of inbreeding. The most
-powerful ogre in any family is the “boss”—usually the family’s patriarch or
-matriarch—while other ogres in the family learn to obey or risk being
-brutalized by the boss’s loyal kin. Ogres lair in caves, crumbling ruins,
-or dilapidated shacks close enough to humanoid settlements or animal
-trails to make raiding easy. These lairs are ﬁlthy and frequently
-contain all-too-recognizable evidence of their depravity.
-Ogre Warrior
-The simplest of ogres are slabs of muscle with hatefully beady
-eyes, misshapen visages, and malformed bodies. Always eager
-for mayhem and murder, ogre warriors are quick to turn on
-their kin when there’s a shortage of smaller folk to torment,
-so those who lead ogres do their best to keep them constantly
-distracted with new opportunities for raids and ruin.
-
-================================================================================
-# OGRE WARRIOR
-================================================================================
-
-
-Bestiary
+252
 OGRE TREASURE
 Ogre warrens are hideous abattoirs
 strewn with severed limbs,
@@ -199,32 +161,40 @@ gluttons being tricked into eating razor‑edged shields or barrels
 ﬁlled with poisoned meat are common, but such tales are of
 little consolation to those who have been gobbled down whole
 by these ravenous giants. In addition to their sadistic table
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669105
+4425262
 
-================================================================================
 PAGE 254
 ================================================================================
 
-OGRE HOOKS
-Ogres are known for using
-immense, curved picks called ogre
-hooks. These uncommon weapons
-cost 1 gp, deal 1d10 piercing
-damage, have 2 Bulk, and require
-two hands to use. Ogre hooks are
-in the pick weapon group. Ogre
-hooks have the deadly 1d10 and
-trip weapon traits.
-manners, ogre gluttons have a disturbing knack for coming up with violent
-“games” that are little more than drawn-out torments, yet those who somehow
-manage to beat a glutton at the rules of its own game can often enrage and frustrate
-the ogre enough that the resulting tantrum is more than enough distraction to
-afford a last-ditch escape from doom.
-
-================================================================================
-# OGRE GLUTTON
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669106
+4425263
+O-R
+253
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 OGRE HOOKS
 Ogres are known for using
 immense, curved picks called ogre
@@ -254,30 +224,9 @@ Items leather armor, greataxe
 AC 18; Fort +14, Ref +7, Will +6
 HP 70
 Speed 30 feet
-Melee Ȱɵ greataxe +14 (reach 10 feet, sweep), Damage
-1d12+8 slashing
+Melee Ȱɵ greataxe +14 (reach 10 feet, sweep), Damage
+1d12+8 slashing
 Melee Ȱɵ jaws +14, Damage 1d8+8 piercing plus Grab and
-glutton’s feast
-Glutton’s Feast If the ogre glutton damages a living creature
-with their jaws Strike, they gain 1d4 temporary Hit Points
-for 1 minute.
-Glutton’s Rush ʚʖ The ogre glutton Strides twice and makes a
-jaws Strike. If they damage a living creature with this Strike, the
-temporary Hit Points they receive from glutton’s feast is increased
-to 2d4.
-Swallow Whole Ȱɵ (attack) Small, 2d4+4 bludgeoning, Rupture 14
-Ogre Boss
-In ogre society, might makes more than right—it makes the rules. The
-strongest or most violent ogre in a family (in most cases, this is the same
-ogre) is invariably that family’s boss. Quick to hook fallen foes on their
-weapons, even other ogres fear the repercussions of displeasing an ogre
-boss. When an ogre boss barks out commands, the other members of the
-family move quickly to obey.
-
-================================================================================
-# OGRE BOSS
-================================================================================
-
 glutton’s feast
 Glutton’s Feast If the ogre glutton damages a living creature
 with their jaws Strike, they gain 1d4 temporary Hit Points
@@ -309,8 +258,8 @@ AC 25; Fort +17, Ref +12, Will +15
 HP 130
 Attack of Opportunity Ǻȓ
 Speed 25 feet
-Melee Ȱɵ ogre hook +19 (deadly 1d10, reach 10 feet, trip), Damage 1d10+11 piercing
-Ranged Ȱɵ javelin +12 (thrown 30 feet), Damage 1d6+11 piercing
+Melee Ȱɵ ogre hook +19 (deadly 1d10, reach 10 feet, trip), Damage 1d10+11 piercing
+Ranged Ȱɵ javelin +12 (thrown 30 feet), Damage 1d6+11 piercing
 Bellowing Command Ȱɵ (auditory, fear, linguistic) The ogre boss issues a command
 to hasten their fellows. Each ogre ally who hears and understands this
 command becomes quickened until the end of that ally’s next turn,
@@ -318,12 +267,30 @@ but can use the extra action only to Step or Stride.
 Sweeping Hook Ǻȓ Trigger The ogre boss successfully Trips a
 creature using an ogre hook. Eﬀect The ogre boss makes an ogre
 hook Strike against the creature they tripped.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669106
+4425263
 
-================================================================================
 PAGE 255
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669107
+4425264
 Bestiary
+254
 OOZING ACID
 Many oozes have acidic attacks
 that can quickly degrade ﬂesh,
@@ -340,80 +307,94 @@ While not necessarily evil, some grow to enormous sizes and have insatiable appe
 Sewer Ooze
 These amorphous masses of sewage and other detritus make their way through
 ﬁlthy culverts beneath cities large and small.
-
-================================================================================
-# OCHRE JELLY
-================================================================================
-
-
-OTHER OOZES
-Many varieties of these nearly
-mindless predators exist in the
-world. Some are mere variants,
-with diﬀerent colored puddings,
-jellies, and oozes with little to
-diﬀerentiate them from those
-presented here other than
-their habitat. Others are more
-specialized, or even dangerously
-intelligent. The shoggoth
-(page 297) is one such example,
-but another variety of deadly and
-powerful ooze is the thankfully
-rare blight, a creature composed of
-protoplasm and eyes that curses
-entire regions with its presence.
-ancient cultures would entomb bodies in stone sarcophaguses with ochre jellies to
-allow the ooze to break down the ﬂesh and clean and polish the bones.
-OCHRE JELLY
-CREATURE 5
+SEWER OOZE
+CREATURE 1
+N
+MEDIUM
+MINDLESS
+OOZE
+Perception +3; motion sense 60 feet, no vision
+Skills Stealth +1 (+4 in sewers)
+Str +2, Dex –5, Con +4, Int –5, Wis +0, Cha –5
+Motion Sense A sewer ooze can sense nearby motion through vibration and air movement.
+AC 8; Fort +9, Ref +1, Will +3
+HP 40; Immunities acid, critical hits, mental, precision, unconscious, visual
+Speed 10 feet
+Melee Ȱɵ pseudopod +9; Damage 1d6+1 bludgeoning plus 1d4 acid
+Filth Wave Ȱɵ Frequency once per minute; Eﬀect The sewer ooze unleashes a wave of ﬁlth,
+covering all creatures within a 20-foot emanation. Each creature in the area must succeed
+at a DC 17 Reﬂex save or take 1d4 acid damage and take a –10-foot penalty to its Speeds for
+1 minute (on a critical failure, the creature also falls prone). A creature can spend an Interact
+action to clean someone oﬀ, decreasing the Speed penalty by 5 feet with each action.
+Gelatinous Cube
+Found underground or in dungeons, these quivering cubes of slime continuously scour
+their domain for food. The acid in their bodies is weak enough that many gelatinous
+cubes still contain the gear of their victims, as they’re unable to break them down.
+GELATINOUS CUBE
+CREATURE 3
 N
 LARGE
 MINDLESS
 OOZE
-Perception +7; motion sense 60 feet, no vision
-Skills Athletics +13
-Str +4, Dex –5, Con +6, Int –5, Wis +0, Cha –5
+Perception +5; motion sense 60 feet, no vision
+Skills Athletics +11 (+13 to Shove)
+Str +4, Dex –5, Con +5, Int –5, Wis +0, Cha –5
 Motion Sense As sewer ooze.
-AC 12; Fort +15, Ref +4, Will +7
-HP 150; Immunities acid, critical hits, electricity, mental, piercing, precision, slashing,
-unconscious, visual
-Split Whenever an ochre jelly is hit by an attack or eﬀect that would deal slashing,
-piercing, or electricity damage and the ochre jelly has at least 10 HP, the jelly splits
-into two identical jellies with half the original’s HP. One jelly is in the same space as
-the original, and the other appears in an adjacent unoccupied space. If no adjacent
-space is unoccupied, it automatically pushes creatures and objects out of the way to
-ﬁll a space (the GM decides if an object or creature is too big or sturdy to push).
-Speed 15 feet, climb 10 feet
-Melee Ȱɵ pseudopod +15, Damage 1d8+7 bludgeoning plus 2d4 acid and Grab
-Constrict Ȱɵ 1d8+3 bludgeoning plus 1d4 acid, DC 23
-Ochre Acid An ochre jelly’s acid damages only ﬂesh—not bone, stone, wood, or
-other materials.
-Black Pudding
-Most often found below ground, these oozes scour caves for objects to dissolve
-with their corrosive secretions. This caustic acid is particularly dangerous to
-creatures that attack a pudding, as it can quickly damage and destroy gear.
+Transparent A gelatinous cube is so clear that it’s diﬃcult to spot. A
+successful DC 23 Perception check is required to notice a stationary cube,
+and a creature must be Searching to attempt this check. A creature that
+walks into the cube is automatically Engulfed (this usually causes the GM
+to call for initiative).
+AC 10 Fort +12, Ref +0, Will +5
+HP 90; Immunities acid, critical hits, mental, precision, unconscious, visual;
+Resistances electricity 5
+Speed 15 feet
+Melee Ȱɵ cube face +11, Damage 1d6 acid plus paralysis
+Engulf ʚʖ DC 19, 2d6 acid, Escape DC 19, Rupture 7. A creature Engulfed by
+the gelatinous cube must also attempt a saving throw against paralysis.
+Paralysis (incapacitation) A creature Engulfed by the cube or hit by
+its attack is paralyzed unless it succeeds at a DC 20 Fortitude save. A
+victim can attempt a new save to recover at the end of each of its turns.
+Weak Acid A gelatinous cube’s acid damages only organic material—not
+metal, stone, or other inorganic substances.
+Ochre Jelly
+Ochre jellies are animate masses of protoplasm with a sickly combination
+of yellow, orange, and brown hues. Their acidic bodies dissolve ﬂesh but
+leave other materials, including a victim’s gear and bones, intact. Some
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669107
+4425264
 
-================================================================================
-# ORC BRUTE
-================================================================================
-
-ORC BRUTE
-CREATURE 0
-CE
-MEDIUM
-HUMANOID
-ORC
-Perception +5; darkvision
-Languages Orc
-Skills Athletics +5, Intimidation +2
-Str +3, Dex +2, Con +3, Int –1, Wis +1, Cha +0
-Items shoddy breastplate, javelin (3), orc knuckle dagger (2)
-
-================================================================================
 PAGE 258
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669110
+4425267
+O-R
+257
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 GODS OF WAR
 Orcs worship violent deities
 that support their murderous
@@ -428,15 +409,6 @@ Speed 25 feet
 Melee Ȱɵ orc knuckle dagger +7 (agile, disarm), Damage 1d6+3 piercing
 Melee Ȱɵ ﬁst +7 (agile, nonlethal), Damage 1d4+3 bludgeoning
 Ranged Ȱɵ javelin +4 (thrown 30 feet), Damage 1d6+3 piercing
-Orc Warrior
-The typical orc warrior is a violent combatant familiar to many
-adventurers. Orc warriors ﬁght for their clan, for riches, and—
-perhaps most of all—for personal glory.
-
-================================================================================
-# ORC WARRIOR
-================================================================================
-
 Orc Warrior
 The typical orc warrior is a violent combatant familiar to many
 adventurers. Orc warriors ﬁght for their clan, for riches, and—
@@ -467,14 +439,6 @@ Ranged Ȱɵ javelin +5 (thrown 30 feet), Damage 1d6+4 piercing
 Orc Warchief
 When orcs raid, the strongest is chosen as the leader, backed
 up by brothers, sisters, and other immediate family.
-
-================================================================================
-# ORC WARCHIEF
-================================================================================
-
-Orc Warchief
-When orcs raid, the strongest is chosen as the leader, backed
-up by brothers, sisters, and other immediate family.
 ORC WARCHIEF
 CREATURE 2
 CE
@@ -493,52 +457,36 @@ Ferocity Ǻȓ
 Speed 25 feet
 Melee Ȱɵ greatclub +10 (backswing, shove), Damage 1d10+4
 bludgeoning
-Melee Ȱɵ ﬁst +10 (agile, nonlethal), Damage 1d4+4 bludgeoning
+Melee Ȱɵ ﬁst +10 (agile, nonlethal), Damage 1d4+4 bludgeoning
 Ranged Ȱɵ javelin +8 (thrown 30 feet), Damage 1d6+4 piercing
 Battle Cry Ȱɵ (auditory, concentrate, emotion, mental) Bellowing
 mightily, the warchief gives themself and all orc allies within 60 feet
 a +1 status bonus to attack and damage rolls until the start of the orc
 warchief’s next turn.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669110
+4425267
 
-================================================================================
 PAGE 259
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669111
+4425268
 Bestiary
-OTYUGH “PETS”
-Otyughs happily wallow in and
-consume the garbage of other
-creatures, making them an
-eﬃcient (and ecological) disposal
-system for those bold enough
-to try such a tack. The problem,
-though, as such otyugh keepers
-soon realize, is supplying enough
-refuse to keep the nigh-insatiable
-otyugh from wandering oﬀ from
-its miasmic kennel.
-Otyugh
-Lords of sewers, ditches, and landﬁlls, otyughs are ﬁlthy monstrosities that stomp
-about on three massive legs in search of tasty garbage and refuse. Using two barbed
-tentacles to grasp and tear, guided by a third with a proliferation of eyes at the end,
-the otyugh has perfectly adapted to life in its cramped, disgusting environment,
-where it uses its appendages to see into tight spaces and grasp hidden prey.
-Most assume that otyughs originally evolved in swamps and moved into
-sewers as civilization encroached on their natural habitats. True or not, they are
-now one of the larger predators in those dank environs. Otyughs are territorial,
-but they have been known to form loose collectives, even giving each other
-important-sounding titles like “king of offal” and “duchess of slime” to indicate
-their rank and station in their sludgy underworld beneath the streets.
-Those who run across an otyugh might be surprised to hear it speak, shouting
-at intruders to leave its putrid home or demanding tribute in the form of trash or
-other prizes of dubious nature.
-
-================================================================================
-# OTYUGH
-================================================================================
-
-
-Bestiary
+258
 OTYUGH “PETS”
 Otyughs happily wallow in and
 consume the garbage of other
@@ -612,51 +560,40 @@ ill eﬀect (1d4 hours); Stage 2 sickened 1 (1 day);
 Stage 3 sickened 1 and slowed 1 as long as it
 remains sickened (1 day); Stage 4 unconscious
 (1 day); Stage 5 dead
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669111
+4425268
 
-================================================================================
 PAGE 260
 ================================================================================
 
-VARIANT OWLBEARS
-Snowy owlbears trade their
-terrifying screech for amazing
-stealth and the learned ability to
-erupt from the snow to take prey
-by surprise. Although incredibly
-rare, some owlbears have retained
-a limited form of ﬂight, allowing
-them to glide almost 20 feet for
-every foot of height descended.
-Terrifyingly, these gliding
-owlbears are entirely silent while
-descending on their prey.
-Owlbear
-With the body of a powerful brown bear and the keen senses of an owl, the
-owlbear is a dangerous territorial predator, fearlessly attacking any creature that
-strays into its domain. Those who run afoul of an owlbear hear its terrifying
-screech only seconds before the massive creature is upon them, ripping them apart
-with deadly talons and a powerful beak.
-Although their origin is lost to time, owlbears are assumed to be the result
-of a magical experiment to make a more cunning predator. According to the
-legend, the wizard was too successful and ended up being the ﬁrst victim of
-the beast. Today, owlbears can be found around the world, with a variety of
-features. While the most common subspecies looks like a brown bear with the
-features of a great horned owl, owlbears from the frozen north might resemble
-polar bears mixed with snowy owls, and in temperate rain forests they might
-resemble black bears with the heads of barn owls.
-Most owlbears live solitary lives, gathering only to mate and raise cubs, which
-are hatched from eggs. An owlbear’s territory usually extends to around 5 miles
-from its lair, with clear signs of its habitat appearing with 1 mile (clawed up
-trees, gigantic feathers, and shredded carcasses). The lair of an owlbear
-rarely holds anything of value, but some adventurers have found
-trinkets, coins, and even jewelry in the massive pellets of undigested
-bones these monsters leave behind.
-
-================================================================================
-# OWLBEAR
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669112
+4425269
+O-R
+259
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 VARIANT OWLBEARS
 Snowy owlbears trade their
 terrifying screech for amazing
@@ -729,12 +666,30 @@ The owlbear makes a Bloodcurdling Screech and Strides
 twice. All creatures within 80 feet of the owlbear at
 any point during this movement are subjected to the
 effects of Bloodcurdling Screech.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669112
+4425269
 
-================================================================================
 PAGE 261
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669113
+4425270
 Bestiary
+260
 CORRUPTED PEGASI
 When a foul inﬂuence from the
 ﬁendish planes, a necromantic
@@ -758,7 +713,7 @@ offering gifts appropriate to a creature of such majesty. Prospective riders who
 seek the mount for a worthy cause or virtuous quest have a much easier time
 coaxing a pegasus into granting its favor. Regardless, a pegasus never accepts
 a bit or saddle, for reasons both practical (a standard horse saddle
-interferes with its wings) and purely egotistical.
+interferes with its wings) and purely egotistical.
 In the wild, pegasi live in small herds and establish
 territories on remote mountains where they
 are relatively safe
@@ -775,3 +730,32 @@ Some pegasi carry in them the blood of a mighty and heroic ancestor. These
 champions of pegasus-kind dedicate their long lives to the pursuit of justice.
 They possess powerful supernatural abilities to aid them in this ﬁght, such as
 resistance to ﬁre and poison, immunity to petriﬁcation, and holy hoof attacks.
+PEGASUS
+CREATURE 3
+NG
+LARGE
+BEAST
+Perception +12; darkvision, scent (imprecise) 30 feet
+Languages Common (can’t speak any language)
+Skills Acrobatics +11, Athletics +10
+Str +3, Dex +4, Con +2, Int +0, Wis +2, Cha +3
+AC 19; Fort +9, Ref +11, Will +7
+HP 55
+Buck Ǻȓ DC 19
+Speed 40 feet, ﬂy 80 feet
+Melee Ȱɵ hoof +10, Damage 1d8+5 bludgeoning
+Melee Ȱɵ wing +10 (agile), Damage 1d6+5 bludgeoning
+Assisted Mount Ȱɵ Requirement The pegasus is Flying without a rider. Eﬀect The
+pegasus Flies. At any point during the movement, it can allow a willing adjacent
+creature to Mount it. That creature must use a reaction to do so.
+Gallop ʚʖ The pegasus uses 2 move actions, each of which can be either Stride or
+Fly. It gains a +20-foot circumstance bonus to its Speeds during a Gallop.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669113
+4425270

@@ -1,0 +1,112 @@
+1ST LEVEL
+COUNTERSPELL [reaction]
+FEAT 1
+ABJURATION
+SORCERER
+Trigger A creature casts a spell that you have in your repertoire.
+Requirements You have an unexpended spell slot you could
+use to cast the triggering spell.
+When a foe Casts a Spell you know and you can see its
+manifestations, you can use your own magic to disrupt it.
+You expend one of your spell slots to counter the triggering
+creature’s casting of a spell that you have in your repertoire.
+You lose your spell slot as if you had cast the triggering spell.
+You then attempt to counteract the triggering spell (page 458).
+Special This feat has the trait corresponding to the tradition
+of spells you cast (arcane, divine, natural, or occult).
+DANGEROUS SORCERY
+FEAT 1
+SORCERER
+Your legacy grants you great destructive power. When you
+Cast a Spell from your spell slots, if the spell deals damage and
+doesn’t have a duration, you gain a status bonus to that spell’s
+damage equal to the spell’s level.
+FAMILIAR
+FEAT 1
+SORCERER
+An animal serves you and assists your spellcasting. You gain a
+familiar (rules for familiars are found on page 217).
+REACH SPELL [one-action]
+FEAT 1
+CONCENTRATE
+METAMAGIC
+SORCERER
+You can extend the range of your spells. If the next action you
+use is to Cast a Spell that has a range, increase that spell’s range
+by 30 feet. As is standard for increasing spell ranges, if the spell
+normally has a range of touch, you extend its range to 30 feet.
+WIDEN SPELL [one-action]
+FEAT 1
+MANIPULATE
+METAMAGIC
+SORCERER
+You manipulate the energy of your spell, causing it to affect a
+wider area. If the next action you use is to Cast a Spell that has
+an area of a burst, cone, or line and does not have a duration,
+increase the area of that spell. Add 5 feet to the radius of a
+burst that normally has a radius of at least 10 feet (a burst
+with a smaller radius is not affected). Add 5 feet to the length
+of a cone or line that is normally 15 feet long or smaller, and
+add 10 feet to the length of a larger cone or line.
+2ND LEVEL
+CANTRIP EXPANSION
+FEAT 2
+SORCERER
+You better understand the basic power of your bloodline. Add
+two additional cantrips from your spell list to your repertoire.
+ENHANCED FAMILIAR
+FEAT 2
+SORCERER
+Prerequisites a familiar
+KEY TERMS
+You’ll see the following key terms in many sorcerer abilities.
+Metamagic: Actions with the metamagic trait tweak
+the properties of your spells. These actions usually come
+from metamagic feats. You must use a metamagic action
+directly before Casting the Spell you want to alter. If you
+use any action (including free actions and reactions) other
+than Cast a Spell directly after, you waste the benefits of
+the metamagic action. Any additional effects added by a
+metamagic action are part of the spell’s effect, not of the
+metamagic action itself.
+Blood Magic Spiteful curses punish your foes. The first creature
+that deals damage to you before the end of your next turn takes 2
+mental damage per spell level and must attempt a basic Will save.
+Imperial
+One of your ancestors was a mortal who mastered magic.
+Such magical blood can remain latent for generations,
+but in you it manifested in full.
+Spell List arcane (page 307)
+Bloodline Skills Arcana, Society
+Granted Spells cantrip: detect magic; 1st: magic missile; 2nd:
+dispel magic; 3rd: haste; 4th: dimension door; 5th: prying
+eye; 6th: disintegrate; 7th: prismatic spray; 8th: maze; 9th:
+prismatic sphere
+Bloodline Spells initial: ancestral memories; advanced: extend
+spell; greater: arcane countermeasure
+Blood Magic A surge of ancestral memories grants you or one
+target a +1 status bonus to skill checks for 1 round.
+Undead
+The touch of undeath runs through your blood. Your
+family tree might contain powerful undead, like a
+vampire, or perhaps you died and returned a bit different.
+Spell List divine (page 309)
+Bloodline Skills Intimidation, Religion
+Granted Spells cantrip: chill touch; 1st: harm; 2nd: false life; 3rd:
+bind undead; 4th: talking corpse; 5th: cloudkill; 6th: vampiric
+exsanguination; 7th: finger of death; 8th: horrid wilting; 9th:
+wail of the banshee
+Bloodline Spells initial: touch of undeath; advanced: drain life;
+greater: grasping grave
+Blood Magic Necromantic energy flows through you or one
+target. Either you gain temporary Hit Points equal to the
+spell’s level for 1 round, or a target takes 1 negative damage
+per spell level (if the spell already deals initial negative
+damage, combine this with the spell’s initial damage before
+determining weaknesses and resistances).
+Sorcerer Feats
+At every level at which you gain a sorcerer feat, you can
+select one of the following feats. You must satisfy any
+prerequisites before taking the feat.
+Core Rulebook
+198

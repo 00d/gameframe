@@ -1,0 +1,129 @@
+ATTACK OF OPPORTUNITY [reaction]
+FEAT 6
+SWASHBUCKLER
+Trigger A creature within your reach uses a manipulate action
+or a move action, makes a ranged attack, or leaves a square
+during a move action it’s using.
+You swat a foe that leaves an opening. Make a melee Strike
+against the triggering creature. If your attack is a critical hit and
+the trigger was a manipulate action, you disrupt that action.
+This Strike doesn’t count toward your multiple attack penalty,
+and your multiple attack penalty doesn’t apply to this Strike.
+COMBINATION FINISHER
+FEAT 6
+SWASHBUCKLER
+You combine a series of attacks with a powerful finishing blow.
+Your finishers’ Strikes have a lower multiple attack penalty: –4
+(or –3 with an agile weapon) if it’s the second attack on your turn,
+or –8 (or –6 with an agile weapon) if it’s the third or subsequent
+attack on your turn, instead of –5 and –10, respectively.
+PRECISE FINISHER
+FEAT 6
+SWASHBUCKLER
+Prerequisites Confident Finisher
+Even when your foe avoids your Confident Finisher, you can
+still hit a vital spot. On a failure with Confident Finisher, you
+apply your full precise strike damage instead of half.
+VEXING TUMBLE [one-action]
+FEAT 6
+SWASHBUCKLER
+You tumble around your foes, expertly avoiding their
+reactions. Stride up to half your Speed and roll an Acrobatics
+check. Compare the result to the Reflex DC of each foe
+whose reach you began in or enter during the movement,
+in sequence.
+Critical Success This movement doesn’t trigger reactions from
+the foe, the foe is flat-footed to you until the end of your turn,
+and you gain panache.
+Success This movement doesn’t trigger reactions from the foe,
+and you gain panache.
+Critical Failure Your movement immediately stops when you
+enter the creature’s reach; if you began in the creature’s
+reach, you don’t move.
+8TH LEVEL
+BLEEDING FINISHER [one-action]
+FEAT 8
+FINISHER
+SWASHBUCKLER
+Your blow inflicts profuse bleeding. Make a slashing or
+piercing Strike with a weapon or unarmed attack that allows
+you to add your precise strike damage. If you hit, the target
+also takes persistent bleed damage equal to your precise
+strike finisher damage.
+DUAL FINISHER [one-action]
+FEAT 8
+FINISHER
+SWASHBUCKLER
+Requirements You wield two melee weapons, one in each hand.
+You split your attacks. Make two melee Strikes, one with each
+required weapon, each against a different foe. If the second
+Strike is made with a non-agile weapon, it takes a –2 penalty.
+Increase your multiple attack penalty only after attempting
+both Strikes.
+NIMBLE ROLL
+FEAT 8
+SWASHBUCKLER
+Prerequisites Nimble Dodge
+You can use Nimble Dodge before attempting a Reflex save,
+in addition to its original trigger. If you do, the circumstance
+bonus applies to your Reflex save against the triggering effect.
+When you use Nimble Dodge and the triggering attack
+fails or critically fails, or when you succeed or critically
+succeed at the saving throw, you can also Stride up to 10
+feet as part of the reaction. If you do, the reaction gains
+the move trait. You can use Nimble Roll while Flying or
+Swimming instead of Striding if you have the corresponding
+movement type.
+STUNNING FINISHER [one-action]
+FEAT 8
+FINISHER
+SWASHBUCKLER
+You attempt a dizzying blow. Make a melee Strike. If you
+hit, your foe must attempt a Fortitude save against your
+class DC with the following results; the save has the
+incapacitation trait.
+Critical Success The target is unaffected.
+Success The target can’t use reactions until its next turn.
+Failure The target is stunned 1.
+Critical Failure The target is stunned 3.
+VIVACIOUS BRAVADO [one-action]
+FEAT 8
+SWASHBUCKLER
+Requirements You gained panache this turn.
+Your ego swells, granting you a temporary reprieve from
+your pain. You gain temporary Hit Points equal to your level
+plus your Charisma modifier that last until the start of your
+next turn.
+10TH LEVEL
+BUCKLER DANCE [one-action]
+FEAT 10
+STANCE
+SWASHBUCKLER
+Requirements You are wielding a buckler.
+You spin your buckler defensively toward every attack. While
+you are in this stance, you constantly have your buckler
+raised as if you’d used Raise a Shield, as long as you meet that
+action’s requirements.
+DERRING-DO
+FEAT 10
+FORTUNE
+SWASHBUCKLER
+When you compound panache with even more derring-do,
+it somehow tends to work out. When you already have
+panache, you can roll twice and use the higher result on
+checks to which the circumstance bonus for having panache
+applies (Tumble Through and any skill actions listed in your
+swashbuckler’s style).
+Classes
+2
+9191
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Archetypes
+Feats
+Spells
+items
+glossary
+& index

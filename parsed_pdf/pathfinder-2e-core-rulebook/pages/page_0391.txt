@@ -1,0 +1,137 @@
+When a creature enters the area for the first time, it must
+attempt a Will saving throw. If a creature leaves and reenters,
+it uses the results of its original save.
+Critical Success The creature is unaffected and temporarily
+immune for 1 hour.
+Success The creature is fascinated with you for its next action,
+then is temporarily immune for 1 hour.
+Failure The creature is fascinated with you.
+Critical Failure The creature is fascinated with you, and its
+attitude toward you improves by one step.
+Heightened (+1) Increase the size of the emanation by 15 feet.
+CHARMING TOUCH
+FOCUS 1
+UNCOMMON
+CLERIC
+EMOTION
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+Domain passion
+Cast [one-action] somatic
+Range touch; Targets 1 humanoid creature that could find you
+attractive
+Saving Throw Will; Duration 10 minutes
+You infuse your target with attraction, causing it to act
+friendlier toward you. The target attempts a Will save. It gains
+a +4 circumstance bonus to this save if you or your allies
+recently threatened or were hostile to it.
+Critical Success The target is unaffected and aware you tried
+to charm it.
+Success The target is unaffected but thinks your spell was
+something harmless instead of charming touch, unless it
+identifies the spell (usually with Identify Magic).
+Failure The target’s attitude becomes friendly toward you. If it
+was friendly, it becomes helpful. It can’t use hostile actions
+against you.
+Critical Failure The target is helpful and can’t use hostile
+actions against you.
+You can Dismiss the spell. If you use hostile actions against the
+target, the spell ends. After the spell ends, the target doesn’t
+necessarily realize it was charmed unless its friendship with
+you or the actions you convinced it to take clash with its
+expectations, which could potentially allow you to convince
+the target to continue being your friend via mundane means.
+Heightened (4th) You can target any type of creature, not just
+humanoids, as long as it could find you attractive.
+CLOAK OF SHADOW
+FOCUS 1
+UNCOMMON
+CLERIC
+DARKNESS
+EVOCATION
+SHADOW
+Domain darkness
+Cast [one-action] somatic
+Range touch; Targets 1 willing creature
+Duration 1 minute
+You drape the target in a mantle of swirling shadows that
+make it harder to see. The cloak reduces bright light within
+a 20-foot emanation to dim light. This is a form of magical
+darkness and can therefore overcome non-magical light or
+attempt to counteract magical light as described on page 458.
+The target can use concealed condition gained from the
+shadows to Hide, though observant creatures can still follow
+the moving aura of shadow, making it difficult for the target
+to become completely undetected. The target can use an
+Interact action to remove the cloak and leave it behind as a
+decoy, where it remains, reducing light for the rest of the spell’s
+duration. If anyone picks up the cloak after it’s been removed
+by the original target, the cloak evaporates and the spell ends.
+COMMANDING LASH
+FOCUS 4
+UNCOMMON
+CLERIC
+ENCHANTMENT
+INCAPACITATION
+MENTAL
+Domain tyranny
+Cast [one-action] verbal
+Requirements Your most recent action dealt damage to a
+target.
+Range 100 feet; Targets A creature you dealt damage to on
+your most recent action.
+Saving Throw Will; Duration until the end of the target’s next turn
+With the threat of more pain, you compel a creature you’ve
+recently harmed. You issue a command to the target, with the
+effects of the spell command.
+COMPETITIVE EDGE
+FOCUS 4
+UNCOMMON
+CLERIC
+EMOTION
+ENCHANTMENT
+MENTAL
+Domain ambition
+Cast [one-action] verbal
+Duration sustained up to 1 minute
+Your competitiveness drives you to prove yourself against
+the opposition. You gain a +1 status bonus to attack rolls and
+skill checks. If an enemy within 20 feet critically succeeds at
+an attack roll or skill check, your status bonus increases to
++3 attack rolls or that specific skill check (whichever the foe
+critically succeeded at) for 1 round.
+Heightened (7th) Increase the base bonus to +2 and the
+increased bonus after an enemy critically succeeds to +4.
+CRY OF DESTRUCTION
+FOCUS 1
+UNCOMMON
+CLERIC
+EVOCATION
+SONIC
+Domain destruction
+Cast [two-actions] somatic, verbal
+Area 15-foot cone
+Saving Throw basic Fortitude
+Your voice booms, smashing what’s in front of you. Each creature
+and unattended object in the area takes 1d8 sonic damage. If
+you already dealt damage to an enemy this turn with a Strike or
+spell, increase the damage dice from this spell to d12s.
+Heightened (+1) The damage increases by 1d8.
+DARKENED EYES
+FOCUS 4
+UNCOMMON
+CLERIC
+DARKNESS
+TRANSMUTATION
+Domain darkness
+Cast [two-actions] somatic, verbal
+Range 60 feet; Targets 1 creature
+Saving Throw Fortitude; Duration varies
+You infuse a creature’s vision with darkness. After attempting
+its save, the target becomes temporarily immune for 24 hours.
+Critical Success The target is unaffected.
+Success The target’s darkvision or low-light vision is suppressed
+for 1 round.
+Core Rulebook
+390

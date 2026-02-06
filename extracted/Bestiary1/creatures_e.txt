@@ -87,7 +87,17 @@ desires. If a target is desirable enough, a phistophilus can offer contracts for
 PAGE 91
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668943
+4425100
 Bestiary
+90
 INFERNAL CONTRACTS
 The infernal contracts created by
 contract devils are not the only
@@ -107,173 +117,186 @@ law and evil, and therefore ultimately to Hell anyway. Contract devils are tall
 creatures with skin tones that range from bronze to crimson and large curving
 horns extending from their bodies, over which they often drape favored or
 important contracts.
-
-================================================================================
-# ELECTRIC EEL
-================================================================================
-
-
-Bestiary
-Eel
-Although these long, narrow ﬁsh share similarities in appearance, eels are a
-diverse group of creatures.
-Electric Eel
-Usually found in freshwater rivers and lakes, an electric eel is not particularly
-aggressive, but its ability to stun predators and prey alike can be dangerous to
-larger creatures searching for their next meals.
-ELECTRIC EEL
-CREATURE 1
-N
-SMALL
-ANIMAL
-AQUATIC
-Perception +4; low-light vision
-Skills Athletics +6, Stealth +7
-Str +1, Dex +2, Con +2, Int –5, Wis +1, Cha –1
-AC 16; Fort +7, Ref +7, Will +4
-HP 18; Resistances electricity 7
-Speed 5 feet, swim 30 feet
-Melee Ȱɵ jaws +6, Damage 1d6+3 piercing
-Melee Ȱɵ tail +6 (agile), Damage 1d4+1 bludgeoning plus 1d4 electricity and stunning shock
-Stunning Shock (incapacitation) A creature critically hit by the electric eel’s tail must
-attempt a DC 17 Fortitude save.
-Critical Success The creature is unaﬀected.
-Success The creature is stunned 1.
-Failure The creature is stunned 2.
-Critical Failure The creature is stunned 3.
-Giant Moray Eel
-Giant moray eels dwell in warm, tropical waters and build
-lairs in narrow, twisting caves made of coral. Their size,
-speed, and powerful bite make them dangerous to
-divers and ﬁshermen. Giant moray eels have rubbery
-hides that secrete a layer of mucus, making them
-difﬁcult to harm with some weapons.
-
-================================================================================
-# ELANANX
-================================================================================
-
-
-Elananx
-These strange, fey felines resemble large, broad bobcats from a distance, but a closer
-view reveals something amiss. Their forms ripple and billow with heat, and their
-eyes glow from within as if they contain tiny, ﬂickering ﬂames. The pungent scent
-of rotting leaves smoldering in a bonﬁre clings to their fur. Yet those who have the
-chance to watch elananxes hunt or attack prey witness the greatest indication that
-these creatures are something more than mere predators, for they act with cruel and
-savvy instincts, reveling in the pain they inﬂict.
-Elananxes typically hunt alone, but sometimes these cunning and malicious
-hunters of the First World roam in packs called “billows” to take down large prey.
-Like many house cats, elananxes are not content to merely track and devour prey,
-but prefer to toy with their victims, drawing joy and excitement from the fear and
-pain of those they capture. To this end, elananxes rarely use their cinder dispersal
-ability to evade their targets, instead opting to foil their quarry just before the end
-of the hunt—though, as selﬁsh creatures who wish to live to hunt again, elananxes
-often reserve one use of this ability, just in case.
-Because of their clever and malicious ways, elananxes are favored as hunting
-companions by redcaps (page 278), who go out of their way to befriend or make
-deals with these creatures. Redcaps also ﬁnd great sport in hunts where competing
-elananxes chase a single creature. Although they’re large enough to serve as mounts
-for redcaps, elananxes despise being ridden and resist such attempts—little is as sure
-to cause a supposedly friendly elananx to turn on its redcap ally than a foolhardy
-attempt to treat the fey cat as a horse!
-Elananxes have a strange afﬁnity to forest ﬁres. Because they are immune to
-the damage caused by ﬂickering ﬂames, they enjoy capering and caterwauling
-through the smoky, burning ruins of forest infernos. Some have even been known
-to use their burning bites to deliberately light undergrowth on ﬁre, simply so they
-might experience the beauty of the ﬂames combined with the inevitable pain such
-disasters inﬂict on other creatures.
-ELANANX
-CREATURE 6
-NE
+PHISTOPHILUS
+CREATURE 10
+LE
 MEDIUM
-FEY
-FIRE
-Perception +14; darkvision
-Languages Sylvan (can’t speak any language)
-Skills Acrobatics +14, Athletics +14, Survival +14 (+17 to Track)
-Str +4, Dex +4, Con +2, Int –3, Wis+2, Cha –2
-AC 24; Fort +12, Ref +16, Will +12
-HP 95; Immunities ﬁre; Weaknesses cold iron 5
-Cinder Dispersal Ǻȓ (ﬁre, primal, transmutation); Frequency
-once per day. Trigger The elananx takes damage from
-a hostile source. Eﬀect The elananx disperses into a
-cloud of smoke and cinders, ﬁlling its space and a 20foot emanation. While in this form, the elananx can’t
-be attacked or targeted, and it doesn’t take up space.
-Anything inside this cloud is concealed, and any creature
-ending its turn there takes 2d6 ﬁre damage. At the start of
-its turn, the elananx returns to its normal form in any square
-the cloud covered. If the elananx Strikes a creature using its
-ﬁrst action after returning to its normal form, the target is ﬂatfooted and the Strike deals an extra 1d6 ﬁre damage.
-Speed 30 feet
-Melee Ȱɵ jaws +16 (magical), Damage 2d6+8 piercing and 1d6 ﬁre
-Melee Ȱɵ claw +16 (agile), Damage 2d6+8 slashing
-Pack Attack The elananx’s Strikes deal an extra 1d6 damage to creatures
-within the reach of at least two of its allies.
-Pounce Ȱɵ The elananx Strides and makes a Strike at the end of that movement. If
-the elananx began this action hidden, it remains hidden until after the attack.
-ELANANX LOCATIONS
-Although many elananxes dwell
-in the strange realm of the First
-World, some are also natives of the
-Material Plane. Elananxes prefer
-to dwell in regions where there
-are ample intelligent creatures
-to chase, hunt, and eat, and they
-favor woodlands and hills as their
-primary hunting grounds.
+DEVIL
+FIEND
+Perception +21; greater darkvision
+Languages Abyssal, Aklo, Celestial, Common, Draconic, Infernal, Undercommon;
+telepathy 100 feet, tongues
+Skills Arcana +19, Deception +23, Diplomacy +21, Intimidation +21, Legal Lore +25,
+Religion +19, Society +19, Stealth +18
+Str +3, Dex +4, Con +4, Int +7, Wis +5, Cha +5
+AC 30; Fort +18, Ref +18, Will +23; +1 status to all saves vs. magic
+HP 150; Immunities ﬁre, ward contract; Weaknesses good 10; Resistances physical
+10 (except silver), poison 10
+Ward Contract A signed contract carried by a living contract devil (including
+draped over its horns) is immune to damage from all creatures other than
+that contract devil. A contract devil is immune to mental eﬀects that would
+make it destroy, nullify, or alter a contract.
+Speed 25 feet
+Melee Ȱɵ binding contract +23 (agile, disarm, evil, magical, reach 10 feet, trip),
+Damage 3d6+11 slashing plus 1d6 evil, Grab, and infernal wound
+Melee Ȱɵ horn +21 (magical), Damage 3d10+11 piercing and
+infernal wound
+Divine Innate Spells DC 31; 10th scrying (at will, see infernal
+investment) 7th plane shift; 5th dimension door, ﬁreball,
+illusory scene, lightning bolt, locate (at will), mind probe,
+sending (at will); 4th dimension door (at will), private
+sanctum, silence; 3rd mind reading (at will); Cantrips
+(7th) detect magic; Constant (5th) tongues
+Rituals DC 31; infernal pact
+Draft Contract ̂ˬ (conjuration, divine, manipulate)
+The contract devil produces an infernal contract for
+a single living mortal. This contract can grant a wide
+range of abilities and eﬀects, akin to the power of a
+wish spell but fulﬁlled to the letter by the contract
+devil. To receive any of those beneﬁts, the mortal must
+willingly sign its true name to the contract. At that
+point, the mortal’s soul is bound to the contract devil
+and Hell.
+	 While the contract is in eﬀect, the victim can’t be
+restored to life except by wish or similar magic. If
+the mortal is restored to life by those means, the
+contract devil knows which mortal came to life and
+can locate the creature or creatures who restored
+the mortal to life for 1 year, gaining the eﬀects of a
+locate spell with unlimited range. Avoiding the terms
+of an infernal contract is diﬃcult and often dangerous.
+Infernal Investment A contract devil can cast a 10th-level innate scrying spell
+at will, but only to target a creature with which it has a contract. The target
+automatically critically fails its save.
+Infernal Wound (divine, necromancy) As barbazu, but the
+persistent bleed damage is 3d6, and the counteract DC to
+use healing magic is 29.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668943
+4425100
 
-================================================================================
 PAGE 145
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668997
+4425154
 Bestiary
+144
 Elemental, Air
 Hailing from the Plane of Air, these beings appear in a variety of sizes and shapes.
 Zephyr Hawk
 Zephyr hawks drift among the currents of the Plane of Air in great ﬂocks.
-
-================================================================================
-# ELEMENTAL HURRICANE
-================================================================================
-
-Swiftness The storm lord’s movement doesn’t trigger reactions.
-Elemental Hurricane
-Elemental hurricanes embody the ferocity of violent windstorms.
-ELEMENTAL HURRICANE
-CREATURE 11
+ZEPHYR HAWK
+CREATURE 3
 N
-HUGE
+SMALL
 AIR
 ELEMENTAL
-Perception +20; darkvision
+Perception +7; darkvision
+Skills Acrobatics +13, Stealth +11
+Str +2, Dex +4, Con +1, Int –4, Wis +0, Cha +0
+AC 21; Fort +6, Ref +13, Will +7
+HP 36; Immunities bleed, paralyzed, poison, sleep
+Speed ﬂy 50 feet
+Melee Ȱɵ wing +11 (agile, ﬁnesse), Damage 1d8+4 slashing
+Circling Attack ʚʖ The zephyr hawk Flies up to half its Speed, makes two wing
+Strikes, then Flies up to half its Speed again to return to its original location. The
+second half of this movement doesn’t trigger reactions. Both attacks count toward
+the zephyr hawk’s multiple attack penalty, but the penalty doesn’t increase until
+after it makes both attacks.
+Living Whirlwind
+A living whirlwind resembles a roughly humanoid-shaped dust devil.
+LIVING WHIRLWIND
+CREATURE 5
+N
+MEDIUM
+AIR
+ELEMENTAL
+Perception +10; darkvision
 Languages Auran
-Skills Acrobatics +24, Stealth +22
-Str +6, Dex +7, Con +4, Int +0, Wis +3, Cha +0
-AC 32; Fort +19, Ref +24, Will +18
-HP 140; Immunities bleed, paralyzed, poison, sleep
-High Winds (air, aura) 40 feet. As storm lord.
-Disperse Ǻȓ As living whirlwind, but the elemental hurricane reforms within 100 feet.
-Speed ﬂy 100 feet; swiftness
-Melee Ȱɵ gust +24 (ﬁnesse, reach 20 feet), Damage 2d10+12 bludgeoning plus Push
-10 feet
-Ranged Ȱɵ lightning lash +24 (range increment 75 feet), Damage 2d12+6 electricity
-Breath Weapon ʚʖ (air) The elemental breathes a 30-foot cone of air. Creatures in
-the cone must succeed at a DC 29 Fortitude save or be knocked away from the
-elemental. A creature knocked into a solid object stops moving and takes 10d6
-bludgeoning damage. The elemental hurricane can’t use Breath Weapon again for
-1d4 rounds.
-Critical Success The creature is unaﬀected.
-Success The creature is Pushed 20 feet.
-Failure The creature is Pushed 40 feet.
-Critical Failure The creature is Pushed 40 feet and knocked prone.
-Swiftness The elemental’s movement doesn’t trigger reactions.
+Skills Acrobatics +16, Stealth +14
+Str +3, Dex +5, Con +2, Int –2, Wis +1, Cha +0
+AC 24; Fort +9, Ref +16, Will +10
+HP 50; Immunities bleed, paralyzed, poison, sleep
+Disperse Ǻȓ Trigger The living whirlwind takes damage from a hostile action.
+Eﬀect The living whirlwind disperses. Until the end of the current turn, it can’t
+be attacked or targeted, doesn’t take up space, and any auras or emanations it has are
+suppressed. At the end of the turn, the living whirlwind reforms in any space in
+which it can ﬁt within 25 feet of where it dispersed and any auras or emanations it
+has are restored as long as their duration didn’t run out while it was dispersed.
+Speed ﬂy 50 feet; swiftness
+Melee Ȱɵ gust +14 (ﬁnesse, reach 10 feet), Damage 2d6+7 bludgeoning plus Push
+5 feet
+Swiftness The living whirlwind’s movement doesn’t trigger reactions.
+Invisible Stalker
+Invisible stalkers have a poor opinion of mortals due to the
+unsavory nature of the violent tasks summoners usually call
+them to the Material Plane to perform.
+INVISIBLE STALKER
+CREATURE 7
+N
+MEDIUM
+AIR
+ELEMENTAL
+Perception +16; darkvision
+Languages Auran
+Skills Acrobatics +16, Stealth +18, Survival +15
+(+19 to Track)
+Str +3, Dex +6, Con +3, Int –2, Wis +2, Cha +0
+AC 26; Fort +14, Ref +18, Will +11
+HP 70; Immunities bleed, paralyzed, poison, sleep
+ELEMENTAL BEINGS
+The Elemental Planes—primordial
+realms deﬁned by aspects of air,
+earth, ﬁre, or water—are home to
+a diverse group of beings known
+as elementals. Spellcasters on
+the Material Plane call upon
+elementals for aid, though these
+enigmatic creatures can also
+travel to the world of mortals via
+interplanar gateways and rifts.
+The elementals on these pages
+exemplify the creatures of the
+Elemental Planes, but this list is by
+no means exhaustive.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668997
+4425154
 
-================================================================================
 PAGE 147
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668999
+4425156
 Bestiary
+146
 ELEMENTAL LORDS
 The most powerful elementals are
 demigods known as elemental
@@ -290,42 +313,91 @@ Earth elementals make excellent bodyguards for adventuresome spelunkers and are
 ideal protectors of important subterranean locations such as vaults and treasuries.
 Sod Hound
 Sod hounds are mossy extraplanar canines formed of packed dirt and pebbles.
-
-================================================================================
-# ELEMENTAL AVALANCHE
-================================================================================
-
-Earth Glide As sod hound.
-Elemental Avalanche
-Stubborn and ponderous, elemental avalanches are massive beings of living rock
-and dirt.
-ELEMENTAL AVALANCHE
-CREATURE 11
+SOD HOUND
+CREATURE 3
 N
-HUGE
+SMALL
 EARTH
 ELEMENTAL
-Perception +20; darkvision, tremorsense (imprecise) 90 feet
+Perception +9; crystal sense (imprecise) 60 feet, darkvision
+Skills Athletics +11, Survival +9 (+11 to Track)
+Str +4, Dex –1, Con +3, Int –4, Wis +2, Cha –1
+Crystal Sense A sod hound can sense crystals or gems within 60 feet as if using the
+scent ability.
+AC 19; Fort +12, Ref +6, Will +7
+HP 44; Immunities bleed, paralyzed, poison, sleep
+Speed 30 feet, burrow 20 feet; earth glide
+Melee Ȱɵ jaws +11, Damage 1d10+6 piercing plus Knockdown
+Earth Glide The sod hound can Burrow through any earthen
+matter, including rock. When it does so, the sod hound moves at
+its full burrow Speed, leaving no tunnels or signs of its passing.
+Living Landslide
+Living landslides resemble humanoids made of earth
+and gravel.
+LIVING LANDSLIDE
+CREATURE 5
+N
+MEDIUM
+EARTH
+ELEMENTAL
+Perception +12; darkvision, tremorsense (imprecise) 60 feet
 Languages Terran
-Skills Athletics +24, Stealth +14
-Str +7, Dex –1, Con +8, Int +0, Wis +3, Cha –1
-Earthbound When not touching solid ground, the elemental avalanche is slowed 1, can’t
-use reactions, and can’t Trample.
-AC 32; Fort +26, Ref +17, Will +21
-HP 215; Immunities bleed, paralyzed, poison, sleep
-Spike Stones (aura, earth, primal, transmutation) 10 feet. As stone mauler, but 2d8 piercing.
-Crumble Ǻȓ As living landslide.
+Skills Athletics +14, Stealth +8
+Str +5, Dex –1, Con +4, Int –2, Wis +1, Cha –1
+Earthbound When not touching solid ground, the living landslide is
+slowed 1 and can’t use reactions.
+AC 21; Fort +15, Ref +8, Will +10
+HP 90; Immunities bleed, paralyzed, poison, sleep
+Crumble Ǻȓ Trigger The living landslide takes damage from a hostile
+source while atop rock or earth. Eﬀect The living landslide crumbles into
+the ground, Burrowing down 10 feet. This Burrowing does not trigger
+reactions. The living landslide can’t Crumble again for 1d4 rounds.
 Speed 25 feet, burrow 25 feet; earth glide
-Melee Ȱɵ ﬁst +24 (reach 20 feet), Damage 2d12+11 bludgeoning
-Ranged Ȱɵ rock +24 (brutal, range increment 80 feet), Damage 2d12+7 bludgeoning
+Melee Ȱɵ ﬁst +16 (reach 10 feet), Damage 2d8+8 bludgeoning
 Earth Glide As sod hound.
-Trample ̂ˬ Large or smaller, ﬁst, DC 30
+Xorn
+These squat, rotund elementals have three legs, three arms,
+three eyes, and one massive maw, which they ﬁll with the gems
+and metals they ﬁnd so delicious.
+XORN
+CREATURE 7
+N
+MEDIUM
+EARTH
+ELEMENTAL
+Perception
++15;
+darkvision,
+tremorsense
+(imprecise) 60 feet
+Languages Common, Terran
+Skills Athletics +17, Geology Lore +15,
+Stealth +11, Survival +15
+Str +6, Dex +0, Con +5, Int +0, Wis +2, Cha +0
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668999
+4425156
 
-================================================================================
 PAGE 149
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669001
+4425158
 Bestiary
+148
 ELEMENTAL VORTEXES
 Where the boundary between
 planes wears thin, elementals
@@ -340,50 +412,88 @@ Fire elementals are destructive manifestations of the scorching Plane of Fire.
 Cinder Rat
 These oversized rodents are made of smoldering charcoal and elemental ﬁre, and
 noxious fumes continually bellow from their ﬂaming ﬂesh.
-
-================================================================================
-# ELEMENTAL INFERNO
-================================================================================
-
-Breath Weapon ʚʖ (evocation, ﬁre, primal) The ﬁrewyrm breathes a 30-foot cone of
-ﬁre dealing 7d6 ﬁre and 2d8 persistent ﬁre damage to every creature within the cone
-(DC 28 basic Reﬂex save). The ﬁrewyrm can’t use Breath Weapon again for 1d4 rounds.
-Elemental Inferno
-Walking conﬂagrations of unimaginably hot ﬁre, elemental infernos are harbingers
-of destruction and heedless chaos.
-ELEMENTAL INFERNO
-CREATURE 11
+CINDER RAT
+CREATURE 3
 N
-HUGE
+SMALL
 ELEMENTAL
 FIRE
-Perception +20; darkvision, smoke vision
+Perception +9; darkvision, smoke vision
+Skills Acrobatics +10, Stealth +10, Survival +9
+Str +2, Dex +3, Con +2, Int –4, Wis +2, Cha +0
+Smoke Vision The cinder rat ignores the concealed condition from smoke.
+AC 18; Fort +9, Ref +12, Will +6
+HP 45; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 5
+Fetid Fumes (aura, ﬁre) 5 feet. A creature that enters the aura or begins its turn there
+must succeed at a DC 22 Fortitude save or become sickened 1. Everything within
+the aura, including the cinder rat, is concealed by smoke.
+Speed 40 feet
+Melee Ȱɵ jaws +10 (ﬁnesse), Damage 1d8+4 ﬁre plus 1d4 persistent ﬁre
+Living Wildfire
+Living wildﬁres appear as humanoids made of living ﬁre.
+LIVING WILDFIRE
+CREATURE 5
+N
+MEDIUM
+ELEMENTAL
+FIRE
+Perception +10; darkvision, smoke vision
 Languages Ignan
-Skills Acrobatics +21
-Str +6, Dex +6, Con +5, Int +0, Wis +3, Cha +0
-Smoke Vision The elemental inferno ignores the concealed condition from smoke.
-AC 31; Fort +21, Ref +23, Will +19
-HP 210, explosion; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 15
-Explosion (ﬁre) As living wildﬁre, but 7d6 ﬁre damage and DC 30.
-Intense Heat (aura, ﬁre) 10 feet, 7d6 ﬁre, DC 28 basic Reﬂex.
-Speed 70 feet
-Melee Ȱɵ tendril +24 (reach 15 feet), Damage 2d10+12 ﬁre plus 3d8 persistent ﬁre
-Ranged Ȱɵ ﬁre mote +24 (range increment 60 feet), Damage 2d10+6 ﬁre
-Blue Flames When the elemental inferno scores a critical hit, its body surges with blue
-ﬂames, increasing the damage of its intense heat and Inferno Leap by 3d6 until the start
-of its next turn.
-Inferno Leap ʚʖ (ﬁre) The elemental inferno jumps horizontally and vertically with a
-maximum height and distance each equal to its Speed. Its intense heat is suppressed
-until the end of the jump. At any point during the jump, ﬂames explode from the
-elemental in a 30-foot emanation, dealing 12d6 ﬁre damage to each creature within
-the area (DC 30 basic Reﬂex save). The elemental inferno can’t Inferno Leap again for
-1d4 rounds.
+Skills Acrobatics +13
+Str +3, Dex +4, Con +2, Int –2, Wis +3, Cha +0
+Smoke Vision The living wildﬁre ignores the concealed condition from smoke.
+AC 22; Fort +11, Ref +15, Will +10
+HP 80, explosion; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 5
+Explosion (ﬁre) When the living wildﬁre dies, it explodes, dealing 3d6 ﬁre damage
+to each creature in a 10-foot emanation (DC 19 basic Reﬂex save).
+Speed 50 feet
+Melee Ȱɵ tendril +15 (agile, ﬁnesse, reach 10 feet), Damage 2d6+6 ﬁre plus
+2d4 persistent ﬁre
+Ranged Ȱɵ ﬁre mote +15 (range increment 60 feet), Damage 2d6+3 ﬁre
+Salamander
+Salamanders have serpentine lower torsos, but humanoid upper bodies
+with toothy reptilian snouts. Their afﬁnity for cruelty and violence puts
+them in close alliance with the demons of the Abyss.
+SALAMANDER
+CREATURE 7
+CE
+MEDIUM
+ELEMENTAL
+FIRE
+Perception +15; darkvision
+Languages Common, Ignan
+Skills Acrobatics +12, Athletics +17, Crafting +15 (+17 for blacksmithing),
+Deception +12, Intimidation +14, Society +13
+Str +4, Dex +3, Con +4, Int +2, Wis +2, Cha +1
+Items +1 ranseur
+AC 26; Fort +15, Ref +16, Will +13
+HP 125; Immunities bleed, ﬁre, paralyzed, poison, sleep; Weaknesses cold 10
+Attack of Opportunity Ǻȓ
+Speed 20 feet
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669001
+4425158
 
-================================================================================
 PAGE 151
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669003
+4425160
 Bestiary
+150
 CONJURING MEPHITS
 Mephits are a favorite target for
 low-level spellcasters to summon,
@@ -405,11 +515,21 @@ Air mephits are capricious and ﬂighty relative to their kin; they are as likel
 ﬂy blindly into battle as they are to whine in terror at a loud noise. They are pale
 blue in coloration and have thin wings that trail small puffs of vapor as they ﬂy
 through the skies.
-
-================================================================================
-# EARTH MEPHIT
-================================================================================
-
+AIR MEPHIT
+CREATURE 1
+N
+SMALL
+AIR
+ELEMENTAL
+Perception +3; darkvision
+Languages Auran
+Skills Acrobatics +7, Stealth +7
+Str +1, Dex +4, Con +0, Int –2, Wis +0, Cha +0
+AC 16; Fort +3, Ref +19, Will +7
+HP 12, fast healing 2 (in open air); Immunities bleed, paralyzed, poison, sleep
+Speed 20 feet, ﬂy 40 feet
+Melee Ȱɵ claw +9 (agile, ﬁnesse), Damage 1d6+1 slashing
+Arcane Innate Spells DC 17; 2nd blur; 1st gust of wind
 Breath Weapon ʚʖ (air, arcane) The air mephit breathes sand and grit in a 15-foot cone
 that deals 2d6 slashing damage to each creature within the area (DC 17 basic Reﬂex
 save). The air mephit can’t use Breath Weapon again for 1d4 rounds.
@@ -445,11 +565,40 @@ alignment of all mephits. They have bright-orange skin, and wisps of ﬂame ﬂi
 along their wings as they ﬂap through the air. The rivalry between ﬁre and water
 mephits is notorious, and these creatures loathe working together for any amount
 of time.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669003
+4425160
 
-================================================================================
 PAGE 152
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669004
+4425161
+E-G
+151
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 OTHER MEPHITS
 The four mephits presented here
 are but the most common of
@@ -467,46 +616,97 @@ foul-smelling acid), salt mephits
 environs and nearby creatures),
 and steam mephits (which can call
 down tiny squalls of boiling rain).
-
-================================================================================
-# ELEMENTAL TSUNAMI
-================================================================================
-
-Drench Ȱɵ (abjuration, primal, water) As living waterfall, but a 10-foot emanation and a
-+20 counteract modiﬁer.
-Elemental Tsunami
-Elemental tsunamis are huge and destructive.
-ELEMENTAL TSUNAMI
-CREATURE 11
+FIRE MEPHIT
+CREATURE 1
 N
-HUGE
+SMALL
+ELEMENTAL
+FIRE
+Perception +3; darkvision, smoke vision
+Languages Ignan
+Skills Acrobatics +7, Deception +7
+Str +0, Dex +4, Con +0, Int –2, Wis +0, Cha +2
+Smoke Vision The ﬁre mephit ignores the concealed condition from smoke.
+AC 17; Fort +3, Ref +9, Will +7
+HP 16, fast healing 2 (while touching ﬁre); Immunities bleed, ﬁre, paralyzed, poison,
+sleep; Weaknesses cold 3
+Speed 20 feet, ﬂy 25 feet
+Melee Ȱɵ jaws +9 (ﬁnesse), Damage 1d6 piercing and 1d4 ﬁre
+Arcane Innate Spells DC 15; Cantrips (1st) daze, light
+Breath Weapon ʚʖ (arcane, ﬁre) The ﬁre mephit breathes ﬂames in a 15-foot cone
+that deals 2d4 ﬁre and 1d4 persistent ﬁre damage to each creature within the
+area (DC 17 basic Reﬂex save). The ﬁre mephit can’t use Breath Weapon again for
+1d4 rounds.
+Water Mephit
+Water mephits are consummate jokers who are always happy to trade a favor
+for a good laugh. Just as ﬁre mephits are the ones who cleave closest to evil
+without fully crossing over into true villainy, water mephits are the friendliest
+of the mephits and therefore the closest to good. Still, one should take care
+in making assumptions about a water mephit’s benevolence, for no one can
+reliably count on them to keep their inborn need for pranks and trickery at bay
+for long. Water mephits have blue-green skin that shimmers in light like ﬁsh
+scales. Though water mephits’ wings look more like webbed ﬁns than limbs
+capable of ﬂight, they can ﬂap their wings to ﬂy through the air as easily as any
+other mephit. Water mephits prefer to swim, when possible, and they leave the
+water only when they must.
+WATER MEPHIT
+CREATURE 1
+N
+SMALL
 AQUATIC
 ELEMENTAL
 WATER
-Perception +22; darkvision
+Perception +3; darkvision
 Languages Aquan
-Skills Athletics +23, Stealth +23
-Str +6, Dex +6, Con +6, Int +0, Wis +3, Cha +0
-Water-Bound As living waterfall.
-AC 31; Fort +21, Ref +22, Will +19
-HP 195; Immunities bleed, paralyzed, poison, sleep; Resistances ﬁre 10
-Vortex (aura, water) 50 feet. As living waterfall.
-Speed 35 feet, swim 100 feet
-Melee wave +24 Ȱɵ (reach 20 feet), Damage 2d12+12 bludgeoning plus Push or Pull 10 feet
-Drench Ȱɵ (abjuration, primal, water) As living waterfall, but a 20-foot emanation and a
-+20 counteract modiﬁer.
-Surge ʚʖ The elemental tsunami quickly expands its space to ﬁll the area of its vortex.
-Creatures within the vortex’s emanation take 5d12+6 bludgeoning damage (DC 31 basic
-Fortitude save). A creature that fails this save is Pushed 20 feet. The elemental tsunami
-then retracts to its former space. The elemental tsunami can’t Surge again for 1d4 rounds.
+Skills Athletics +6, Stealth +6
+Str +1, Dex +3, Con +1, Int –2, Wis
++0, Cha +0
+AC 16; Fort +7, Ref +11, Will +4
+HP 20, fast healing 2 (while
+underwater); Immunities  bleed,
+paralyzed, poison, sleep; Resistances
+acid 3, ﬁre 3
+Speed 20 feet, ﬂy 25 feet, swim 25 feet
+Melee Ȱɵ claw +8 (ﬁnesse), Damage 1d6+1
+slashing
+Arcane Innate Spells DC 17, attack +9; 2nd acid
+arrow
+Breath Weapon ʚʖ (acid, arcane) The water mephit
+breathes acid in a 15-foot cone that deals 2d6 acid
+damage to each creature within the area (DC 17 basic
+Reﬂex save). The water mephit can’t use Breath Weapon
+again for 1d4 rounds.
+Drench Ȱɵ (abjuration, arcane, water) The water mephit
+puts out all ﬁres in a 5-foot emanation. The mephit extinguishes all
+non‑magical ﬁres automatically and attempts to counteract magical ﬁres
+(+7 counteract modiﬁer).
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669004
+4425161
 
-================================================================================
 PAGE 155
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669007
+4425164
 Bestiary
+154
 ELEPHANT RESOURCES
-Elephant tusks are a highly soughtafter treasure, the ivory from a
+Elephant tusks are a highly sought-
+after treasure, the ivory from a
 single tusk potentially fetching
 hundreds of gold coins. Those
 who value the elephant’s majestic
@@ -523,33 +723,7 @@ Those who live near elephants have learned to be wary of angering the beasts,
 but even with precautions in place, elephants sometimes still rampage. There
 is little an individual person can do when even a single elephant becomes
 enraged. Furthermore, a herd of angry or frightened elephants can easily
-destroy an entire village.
-
-================================================================================
-# ELEPHANT
-================================================================================
-
-
-Bestiary
-ELEPHANT RESOURCES
-Elephant tusks are a highly soughtafter treasure, the ivory from a
-single tusk potentially fetching
-hundreds of gold coins. Those
-who value the elephant’s majestic
-presence are impassioned defenders
-of the creatures, making the
-hunt for ivory dangerous.
-Elephant
-Immediately recognizable by their long, prehensile trunks and impressive tusks,
-elephants have different characteristics depending on where they are found.
-Elephants are used as beasts of burden in many regions, but they are extremely
-clever and must be handled with great care.
-Elephant
-Those who live near elephants have learned to be wary of angering the beasts,
-but even with precautions in place, elephants sometimes still rampage. There
-is little an individual person can do when even a single elephant becomes
-enraged. Furthermore, a herd of angry or frightened elephants can easily
-destroy an entire village.
+destroy an entire village.
 ELEPHANT
 CREATURE 7
 N
@@ -575,139 +749,53 @@ and crushing their enemies while using their larger tusks
 to greater effect. Humanoids dwelling in harsh,
 frost‑bound lands rely on the mammoth’s strength
 to help them survive.
-
-================================================================================
-# ETHER SPIDER
-================================================================================
-
-
-ETHER SPIDER FOES
-The Ethereal Plane is a sparsely
-populated realm in comparison
-to most, used more for traveling
-than dwelling. Yet the deep mists
-here conceal denizens such as
-monstrous parasitic beings that
-use humanoids as incubators for
-eggs and ﬁends born from the
-raw fears of mortal life, and ether
-spiders are ever vigilant against
-those foes’ machinations.
-Ether Spider
-Ether spiders are deadly predators from the Ethereal Plane resembling giant
-arachnids. Rather than building webs of silk, ether spiders shape the raw
-essence of the Ethereal Plane, weaving it in complex patterns that drift through
-the misty void. From these ethereal nests, whole families of ether spiders can
-scout the adjacent Material Plane, watching for easy prey in dark or remote
-corners of the land of mortals. Once an ether spider has spotted a meal, it
-anchors its nest and waits on the Ethereal Plane for its prey to draw near. As
-soon as its victim is within reach, the ether spider shifts to the Material Plane,
-clamps its fangs onto its prey, then shifts back to the Ethereal Plane to wait as
-its venom works through the creature’s system. Ether spiders move between
-the planes with ease, making them extremely dangerous to those who cannot
-see or attack ethereal enemies.
-Ether spiders are not mindless or evil—they are simply hungry. If a prospective
-meal can sate an ether spider’s incredible appetite through other means, they
-might be able to bargain for their life. Ether spiders are especially interested in
-items, information, or allies who can help them against their enemies.
-As many as half a dozen ether spiders might dwell in the same ether web.
-Although ether spiders enjoy one another’s company, they don’t form the same
-bonds as most humanoids, and they are more likely to feast on the
-corpse of a fallen sibling than save one from certain doom.
-Ether spiders dwell in vast nests adrift in the Ghost World,
-where they are more likely to let down their guard. Travelers who
-ﬁnd a ﬂoating ether spider commune should have an easier time of
-making peaceful contact to trade with or even befriend these strange
-arachnids. The nests drift on metaphysical currents and are rarely
-seen in the same vicinity twice. Sometimes a point of interest on the
-neighboring Material Plane compels them to tether their nest to an area,
-creating a semipermanent home, and those who learn its location can
-return to it repeatedly.
-ETHER SPIDER
-CREATURE 5
+MAMMOTH
+CREATURE 10
 N
-LARGE
-BEAST
-ETHEREAL
-Perception +12; darkvision
-Languages Aklo
-Skills Athletics +12, Stealth +15
-Str +5, Dex +4, Con +3, Int –2, Wis +1, Cha +7
-AC 21; Fort +12, Ref +15, Will +10
-HP 75
-Speed 40 feet, climb 20 feet
-Melee Ȱɵ fangs +15 (magical), Damage 1d10+7 piercing plus ether spider venom and Grab
-Ranged Ȱɵ web +14 (magical, range increment 30 feet); Eﬀect ethereal web trap
-Ether Spider Venom (poison); Saving Throw DC 22 Fortitude; Maximum Duration
-6 rounds; Stage 1 1d6 poison damage and clumsy 1 (1 round); Stage 2 2d6 poison
-damage, clumsy 2 and slowed 1 (1 round); Stage 3 3d6 poison damage, clumsy 3 and
-slowed 2 (1 round)
-Ethereal Step Ȱɵ The ether spider shifts to either the Ethereal Plane or the Material
-Plane. The ether spider can remain on the Ethereal Plane indeﬁnitely without ill
-eﬀect. While there, it can see clearly onto the Material Plane with a range of 60
-feet. On its ﬁrst round in an encounter, the ether spider can use this ability once as
-a free action.
-Ethereal Web Trap A creature hit by the ether spider’s web attack is immobilized and
-stuck to the nearest surface (Escape DC 22).
-Web Burst ʚʖ Frequency once per day; Eﬀect The ether spider ﬂings a gout of stored
-webs in a 30-foot cone. These webs can pass between the Material Plane and the
-Ethereal Plane. Each creature in the area is immobilized, as ethereal web trap, unless
-it succeeds at a DC 22 Reﬂex save.
+HUGE
+ANIMAL
+Perception +18; low-light vision, scent (imprecise) 30 feet
+Skills Athletics +22, Survival +19
+Str +8, Dex +1, Con +5, Int –4, Wis +1, Cha –2
+AC 29; Fort +21, Ref +15, Will +18; +2 status to all saves vs. cold
+HP 190
+Cold Adaptation The mammoth reduces the eﬀects it suﬀers
+from cold environments by one step.
+Speed 45 feet
+Melee Ȱɵ tusk +22 (reach 15 feet), Damage 3d8+12 piercing
+Melee Ȱɵ trunk +22 (reach 15 feet), Eﬀect grabbing trunk
+Melee Ȱɵ foot +22 (reach 10 feet), Damage 2d10+12
+bludgeoning
+Dual Tusks Ȱɵ The mammoth makes two tusk Strikes,
+each against a diﬀerent creature. This counts as one
+attack for the mammoth’s multiple attack penalty, and
+the penalty doesn’t increase until after both attacks.
+Grabbing Trunk As elephant.
+Trample ̂ˬ Large or smaller, foot, DC 28
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669007
+4425164
 
-================================================================================
 PAGE 157
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669009
+4425166
 Bestiary
-LOSING A HEAD
-An ettin who loses one of its heads
-is a sorry sight indeed. Rather than
-clean and cauterize the stump, an
-ettin will typically leave as much
-of its decapitated head attached as
-possible, even possibly attempting
-to sew a completely severed head
-back on or keep it in a knapsack
-strung around its shoulder.
-Ettin
-Two heads aren’t always better than one. The slovenly, violent giants known as
-ettins are proof enough of that.
-The origin of these two-headed brutes is unknown, but few who encounter
-ettins ponder their beginnings for long. Rather, the ﬁrst priority for most creatures
-during such a confrontation is escape, which is not easy to accomplish given the
-ettins’ notorious vigilance. In this way, two heads are better than one—ettins
-regularly ﬁnd employ in the ranks of giant or orc armies as sentries and guards.
-The beneﬁts of an ettin security detail are obvious: because it has a shared
-stomach, an ettin requires only the same amount of food as one typical ogre,
-yet its two sets of eyes make it twice as observant. An ettin never complains for
-lack of company, either. The ettin’s two heads are uniquely content to squabble
-and converse between themselves, and though they bicker incessantly, most
-couldn’t dream of life without the other. Much like some twins, an ettin has
-two individual minds who nonetheless consider the other as much a part of
-their life as their own self.
-Ettins do not resemble a single giant heritage so much as an amalgamation
-of several. Their tusks are thought to stem from orc ancestry, though their size
-and dimness suggest hill giant blood. Though they tower over goblins
-and hobgoblins, ettins are more than at home among tribes of these
-creatures and enjoy their comfortable stations as camp lookouts
-or troop rearguards. Their exposure to a wide variety of
-goblinoids and giants is evident in their language; ettins
-speak a pidgin tongue of Goblin, Jotun, and Orcish,
-and their diction is mostly good enough to get across
-the general meaning of their short sentences and
-bumbled sayings—although most interlocutors
-simply nod their heads while conversing
-with an ettin anyway. The monsters are
-notoriously short tempered and, despite their
-heightened visual perception, short sighted in
-matters of keeping their allies alive.
-
-================================================================================
-# ETTIN
-================================================================================
-
-
-Bestiary
+156
 LOSING A HEAD
 An ettin who loses one of its heads
 is a sorry sight indeed. Rather than
@@ -778,11 +866,40 @@ Attack of Opportunity Ǻȓ
 Speed 35 feet
 Melee Ȱɵ ﬂail +16 (disarm, reach 10 feet, sweep, trip), Damage 2d6+10 bludgeoning
 Melee Ȱɵ ﬁst +16 (agile, reach 10 feet), Damage 1d6+10 bludgeoning
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669009
+4425166
 
-================================================================================
 PAGE 158
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669010
+4425167
+E-G
+157
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 FAERIE DRAGON
 TREASURE
 Faerie dragon hide can be made
@@ -835,63 +952,62 @@ become. Those who would seek to torment or vex
 a faerie dragon would do well to consider this, as
 it’s often difﬁcult to tell how powerful one of these
 tiny dragons truly is at a simple glance!
-
-================================================================================
-# EFREETI
-================================================================================
-
-Plane only); 5th veil (self only), wall of stone; 4th shape stone (at will); 2nd glitterdust
-(×2); Constant (4th) detect magic
-Earth Glide The shaitan can Burrow through dirt and stone at its full burrow Speed,
-leaving no tunnels or signs of its passing.
-Shove into Stone (arcane, earth, transmutation) When the shaitan
-Pushes a creature into a stone barrier, the target must succeed at a
-DC 22 Reﬂex save or become merged with the barrier (as meld with
-stone). The victim can attempt to Escape (DC 28).
-Efreeti
-The efreet are hateful and merciless genies from the Plane
-of Fire, where they build metropolises and massive trade
-centers that draw extraplanar travelers from across the
-multiverse. They are cruel slavers, vengeful warmongers,
-and sinister wish-masters; there are many tales of
-mortals who made pacts with efreet only to have
-their words twisted to suit a genie’s capricious and
-malevolent whims.
-Efreet do not readily treat with other genies;
-they share an eternal feud with the djinn, disdain
-marids, regard jann as weaklings unworthy of
-the genie title, and only occasionally tolerate
-alliances with shaitans. At 12 feet tall and
-weighing 2,000 pounds, efreet are formidable
-opponents and cow their chosen victims with
-a glance.
-EFREETI
-CREATURE 9
+FAERIE DRAGON
+CREATURE 2
 UNCOMMON
-LE
-LARGE
-ELEMENTAL
-FIRE
-GENIE
-Perception +17; darkvision, detect magic
-Languages Common, Ignan
-Skills Arcana +14, Athletics +22, Crafting +14, Deception +19,
-Diplomacy +17, Intimidation +19, Society +14
-Str +5, Dex +3, Con +4, Int +1, Wis +2, Cha +4
-Items breastplate, +1 striking scimitar
-AC 28; Fort +18, Ref +17, Will +20
-HP 175; Immunities ﬁre; Weaknesses cold 10
-Speed 25 feet, ﬂy 35 feet
-Melee Ȱɵ scimitar +21 (ﬁre, forceful +2, magical, reach 10
-feet, sweep), Damage 2d6+11 slashing plus 2d6 ﬁre
-Melee Ȱɵ ﬁst +20 (agile, magical, reach 10 feet), Damage 1d4+11
-bludgeoning plus 2d6 ﬁre
-Arcane Innate Spells DC 29, attack +19; 7th plane shift (at will; to Astral Plane,
+CG
+TINY
+DRAGON
+Perception +16; darkvision
+Languages Common, Draconic, Sylvan; telepathy 100 feet
+Skills Acrobatics +8, Deception +8, Diplomacy +8, Nature +4, Stealth +10
+Str –2, Dex +4, Con +0, Int +2, Wis +0, Cha +2
+AC 18; Fort +5, Ref +12, Will +11
+HP 30; Immunities paralyzed, sleep
+Speed 15 feet, ﬂy 40 feet, swim 20 feet
+Melee Ȱɵ jaws +10 (magical, ﬁnesse), Damage 1d4 piercing
+Arcane Innate Spells DC 21; 4th invisibility (self only)
+Arcane Spontaneous Spells DC 18, attack +10; 1st (4 slots) grease, illusory object,
+sleep; Cantrips (1st) dancing lights, ghost sound, prestidigitation, tanglefoot,
+telekinetic projectile
+Breath Weapon ʚʖ (arcane, evocation, poison) The dragon breathes euphoric gas in
+a 10-foot cone. Each creature in the area must succeed at a DC 18 Fortitude save or
+become stupeﬁed 2 and slowed 1 for 1d4 rounds; on a critical failure, the duration is 1
+minute. The faerie dragon can’t use Breath Weapon again for 1d4 rounds.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669010
+4425167
 
-================================================================================
 PAGE 166
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669018
+4425175
+E-G
+165
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 SHAITAN PASHAS
 Shaitan pashas fulﬁll wishes as
 eﬃciently as possible. A wish
@@ -923,3 +1039,53 @@ latter consider marids ﬂighty and annoying, associating only long enough to
 close trade deals. Marid society has strict rules of hospitality, and many marid
 cities have a magically sealed foreign quarter where marid shahzadas conduct
 business with air-breathers.
+MARID
+CREATURE 9
+UNCOMMON
+CN
+LARGE
+ELEMENTAL
+GENIE
+WATER
+Perception +18; darkvision, detect alignment, detect magic,
+wavesense (imprecise) 60 feet
+Languages Aquan, Common
+Skills Athletics +20 (+24 to swim), Crafting +16,
+Diplomacy +19, Nature +18, Performance +16,
+Society +14, Stealth +18
+Str +5, Dex +5, Con +4, Int +1, Wis +3,
+Cha +3
+Items +1 striking trident
+AC 28; Fort +18, Ref +21, Will +17
+HP 145; Resistances ﬁre 10
+Vortex (aura, water) 40 feet. Water in the aura that is also in the same body
+of water as the marid is diﬃcult terrain for Swimming creatures. Creatures
+with the water trait are immune.
+Speed 20 feet, swim 40 feet
+Melee Ȱɵ trident +21 (magical, reach 10 feet), Damage 2d8+11 piercing
+Melee Ȱɵ ﬁst +20 (agile, magical, nonlethal, reach 10 feet), Damage 1d4+11
+bludgeoning
+Ranged Ȱɵ trident +21 (magical, thrown 20 feet), Damage 2d8+11 piercing
+Arcane Innate Spells DC 28; 7th plane shift (at will; to Astral Plane, Elemental
+Planes, or Material Plane only) 5th control water (at will), hallucinatory terrain;
+4th hydraulic push (at will), hydraulic torrent, solid fog; 2nd blur (at will), illusory
+object; Constant (5th) detect magic; (1st) detect alignment (evil or good only)
+Change Shape Ȱɵ (arcane, concentrate, polymorph, transmutation) The marid can
+take on the appearance of any water elemental or humanoid. This ability
+doesn’t change the marid’s Speed or its attack and damage bonuses with
+its Strikes.
+Rush of Water ʚʖ (arcane, evocation, water) The marid releases a jet of water
+in a 60-foot line, dealing 9d6 bludgeoning damage (DC 28 basic Reflex save).
+A creature that fails its save is also pushed 10 feet (20 feet on a critical failure).
+The marid can’t use Rush of Water again for 1d4 rounds.
+Skewer Ȱɵ The marid makes a trident Strike, dealing an extra 2d6
+persistent bleed damage on a hit (4d6 on a critical hit).
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669018
+4425175

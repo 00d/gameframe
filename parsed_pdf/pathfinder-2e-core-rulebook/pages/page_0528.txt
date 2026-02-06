@@ -1,0 +1,108 @@
+that was submerged up to its neck is pulled under and has to
+hold its breath to avoid suffocation (page 478).
+A creature in the quicksand can attempt a DC 20 Athletics
+check to Swim to either raise itself by one step if it’s submerged
+to its neck or worse, or to move 5 feet if it’s submerged only
+up to its waist. On a critical failure, the creature is pulled down
+one step. A creature that Swims out of the quicksand escapes
+the hazard and is prone in a space adjacent to the quicksand
+patch. Other creatures can Aid the creature, typically by using
+a rope or similar aid, or attempt to pull the creature out with
+their own DC 20 Athletics check, with the same results as if
+the creature attempted the check.
+Reset The hazard still submerges anyone who walks in, but
+the surface doesn’t become hidden again until it settles over
+the course of 24 hours.
+SPINNING BLADE PILLAR 
+HAZARD 4
+COMPLEX
+MECHANICAL
+TRAP
+Stealth +11 (trained) or DC 26 (expert) to notice the control panel
+Description A metal pole with three razor-sharp spinning
+blades is hidden in the floor, connected to trigger plates in up
+to eight floor tiles and a hidden control panel within 30 feet.
+Disable Thievery DC 21 (trained) twice on the pillar, or Thievery
+DC 19 (expert) once on the control panel deactivates the
+whole trap. Breaking the control panel prevents anyone
+from disabling the trap using the control panel and prevents
+the trap from deactivating automatically (see Reset below).
+AC 21; Fort +10, Ref +12
+Pillar Hardness 12, Pillar HP 48 (BT 24); Panel Hardness
+5, Panel HP 20 (BT 10); Immunities critical hits, object
+immunities, precision damage
+Rising Pillar [reaction] (attack); Trigger A creature steps on one of
+the trapped floor tiles. Effect The trap pops up in a grid
+intersection and makes a spinning blade attack against
+one adjacent creature (if any), then rolls initiative.
+Routine (3 actions) The trap uses its first action
+to make a spinning blade Strike against each
+adjacent creature, its second action to move
+straight in a random direction (roll 1d4 to
+determine the direction), and its third action
+to make a spinning blade Strike against
+each adjacent creature. This trap doesn’t
+take a multiple attack penalty.
+Speed 10 feet
+Melee [one-action] spinning blade +12, Damage
+2d10+5 slashing
+Reset The trap deactivates and resets
+after 1 minute.
+WHEEL OF MISERY 
+HAZARD 6
+COMPLEX
+MAGICAL
+MECHANICAL
+TRAP
+Stealth +16 (expert) to detect the
+magical sensor; noticing the wheel
+has a DC of 0
+Description An ornate wheel set into a
+wall—divided into six segments with colored
+runes on each—is controlled by a magical sensor that detects
+any creature within 100 feet in front of it.
+Disable Thievery DC 26 (expert) on the wheel to stop it from
+spinning, Thievery DC 22 (master) to erase each rune, or
+dispel magic (4th level; counteract DC 22) to counteract
+each rune
+AC 24; Fort +15, Ref +13
+Hardness 14, HP 56 (BT 28); Immunities critical hits, object
+immunities, precision damage
+Wheel Spin [reaction] Trigger A creature enters the sensor’s detection
+area. Effect The wheel begins to spin and rolls initiative.
+Routine (2 actions) On its initiative, the trap uses its first action
+to spin, then stops. Roll 1d6 to determine which segment is
+topmost when the wheel stops spinning. The wheel uses its
+second action to replicate the spell listed for that segment
+(3rd level, DC 24, spell attack roll +14). This spell’s target is
+centered on or otherwise includes the nearest creature in the
+area. This increases the spell’s range to 100 feet if necessary.
+Any spell cast by this trap is arcane.
+1	 sleep
+2	 paralyze
+3	 lightning bolt (100-foot line)
+4	 blindness
+5	 acid arrow
+6	 ray of enfeeblement
+Reset The trap deactivates and resets if 1 minute passes
+without any creature moving within range of its sensor.
+GAME MASTERING
+527
+10
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

@@ -94,7 +94,17 @@ creature can roll an attack roll or saving throw twice and use the higher result
 PAGE 89
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668941
+4425098
 Bestiary
+88
 FIENDISH RELATIONS
 Devils view daemonsʼ constant
 hunt for souls as a short-sighted
@@ -107,7 +117,7 @@ Indeed, most devils are more
 than willing to take advantage
 of daemons and demons as they
 can to further their
-own machinations.
+own machinations.
 Barbazu (Bearded Devil)
 Barbazus, known also as bearded devils or infantry devils, are murderous ﬁends
 who satiate their lust for annihilation by serving as the foot soldiers of Hell’s
@@ -121,50 +131,90 @@ Barbazus can be found savagely indulging the whims of evil infernal lords
 from all layers of Hell, rejoicing as they
 disseminate murder, misery, and anguish
 as they see ﬁt.
-
-================================================================================
-# INVISIBLE STALKER
-================================================================================
-
-5 feet
-Swiftness The living whirlwind’s movement doesn’t trigger reactions.
-Invisible Stalker
-Invisible stalkers have a poor opinion of mortals due to the
-unsavory nature of the violent tasks summoners usually call
-them to the Material Plane to perform.
-INVISIBLE STALKER
-CREATURE 7
-N
+BARBAZU
+CREATURE 5
+LE
 MEDIUM
-AIR
-ELEMENTAL
-Perception +16; darkvision
-Languages Auran
-Skills Acrobatics +16, Stealth +18, Survival +15
-(+19 to Track)
-Str +3, Dex +6, Con +3, Int –2, Wis +2, Cha +0
-AC 26; Fort +14, Ref +18, Will +11
-HP 70; Immunities bleed, paralyzed, poison, sleep
-ELEMENTAL BEINGS
-The Elemental Planes—primordial
-realms deﬁned by aspects of air,
-earth, ﬁre, or water—are home to
-a diverse group of beings known
-as elementals. Spellcasters on
-the Material Plane call upon
-elementals for aid, though these
-enigmatic creatures can also
-travel to the world of mortals via
-interplanar gateways and rifts.
-The elementals on these pages
-exemplify the creatures of the
-Elemental Planes, but this list is by
-no means exhaustive.
+DEVIL
+FIEND
+Perception +13; greater darkvision
+Languages Celestial, Common, Draconic,
+Infernal; telepathy 100 feet
+Skills
+Acrobatics
++11,
+Athletics
++13, Intimidation +10, Religion +11,
+Stealth +11
+Str +4, Dex +2, Con +4, Int –2, Wis +2,
+Cha +1
+Items glaive
+AC 22; Fort +15, Ref +11, Will +11; +1 status to all
+saves vs. magic
+HP 60; Immunities ﬁre; Weaknesses good 5; Resistances
+physical 5 (except silver), poison 10
+Attack of Opportunity Ǻȓ
+Speed 35 feet
+Melee Ȱɵ glaive +15 (deadly 1d8, evil, forceful, magical, reach 10
+feet), Damage 1d8+7 slashing plus 2d6 evil and infernal wound
+Melee Ȱɵ claw +15 (agile, evil, magical), Damage 2d6+7 slashing
+plus 1d6 evil
+Melee Ȱɵ beard +15 (magical), Damage 1d6+7 piercing plus
+Avernal fever
+Divine Innate Spells DC 19; 5th dimension door; 4th dimension door (at will)
+Rituals DC 19; infernal pact
+Avernal Fever (disease); Saving Throw DC 23 Fortitude; Stage 1 carrier with
+no ill eﬀect (1 day); Stage 2 enfeebled 1 (1 day); Stage 3 enfeebled 2 (1 day)
+Infernal Wound (divine, necromancy) A bearded devil’s glaive Strike also deals 1d6
+persistent bleed damage that resists attempts to heal it. The ﬂat check to stop the
+bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or
+an ally successfully assists with the recovery.
+The DC to Administer First Aid to a creature with an infernal
+wound is increased by 5. A spellcaster or item attempting to
+use healing magic on a creature suﬀering from an infernal
+wound must succeed at a DC 21 counteract check or the
+magic fails to heal the creature.
+Reposition Ȳ˓ Trigger The devil hits a creature with a glaive
+Strike. Eﬀect The devil moves the creature 5 feet in any
+direction. The destination square must be within reach of the
+devil’s glaive. This movement doesn’t trigger reactions.
+Wriggling Beard Ȱɵ Frequency once per round. Eﬀect The barbazu makes a beard
+Strike. This Strike ignores their multiple attack penalty and doesn’t count toward
+that penalty.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668941
+4425098
 
-================================================================================
 PAGE 146
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668998
+4425155
+E-G
+145
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 PRIMAL ELEMENTALS
 The most well known of all
 elementals are the primal
@@ -192,83 +242,90 @@ creatures.
 Swift Tracker The invisible stalker moves at full Speed while Tracking.
 Storm Lord
 Storm lords wage battles to claim important territory within the Plane of Air.
-
-================================================================================
-# IRON GOLEM
-================================================================================
-
-
-Bestiary
-IRON GOLEMS
-An iron golem can be melted down
-for scrap or traded to ﬁre giants
-for repurposing into armor for a
-Large creature.
-its movement. A creature can attempt to bar the way by succeeding at a DC 34
-Fortitude save. On a critical success, the resisting creature takes no damage;
-otherwise it is damaged as if hit by the golem’s ﬁst.
-Slowing Pulse Ȱɵ (arcane, concentrate, transmutation) Each creature in a 10-foot
-emanation must succeed at a DC 30 Fortitude save or be slowed 1 for 1 minute. The
-golem can’t use Slowing Pulse again for 1d4 rounds.
-Iron Golem
-Traditionally crafted into the forms of giant suits of armor or powerful animals,
-iron golems are products of exquisite artistry and skill. Their articulated joints
-and sturdy armored bodies require great care and mathematical precision to craft,
-and regular cleaning and oiling ensure they don’t rust over the ages. With proper
-care, iron golems can remain in good shape for thousands of years, being
-passed down for generations, as long as they aren’t destroyed by meddlesome
-adventurers. In addition to their incredible strength, iron golems possess a
-potent toxic breath weapon that is often more than enough to dispatch entire
-groups of opponents.
-IRON GOLEM
-CREATURE 13
-UNCOMMON
+STORM LORD
+CREATURE 9
 N
 LARGE
-CONSTRUCT
-GOLEM
-MINDLESS
-Perception +21; darkvision
-Skills Athletics +30
-Str +8, Dex –1, Con +4, Int –5, Wis +0, Cha –5
-AC 34; Fort +26, Ref +21, Will +22
-HP 190; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued, ﬁre,
-healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed,
-poison, sickened, unconscious; Resistances physical 15 (except adamantine)
-Golem Antimagic harmed by acid (6d10, 2d8 from areas and persistent
-damage); healed by ﬁre (area 2d8 HP); slowed by electricity
-Vulnerable to Neutralize Poison Casting neutralize poison on the golem
-deactivates its Breath Weapon for 1 minute.
-Vulnerable to Rust Magical rusting eﬀects, like a rust monster’s
-antennae, aﬀect the iron golem normally.
-Speed 20 feet
-Melee Ȱɵ ﬁst +28 (magical, reach 10 feet), Damage 3d10+12 bludgeoning
-Breath Weapon ʚʖ (arcane, necromancy, poison) The iron golem
-exhales poisonous gas in a 10-foot radius centered on the corner of one
-of the iron golem’s squares. The gas persists for 1 round. Any creature in
-the area (or that later enters the area) is exposed to the iron golem’s poison.
-The golem can’t use its Breath Weapon again for 1d4 rounds.
-Inexorable March Ȱɵ The iron golem Strides up to its Speed, pushing back each
-creature whose space it moves into and damaging them if they try to stop its
-movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude
-save. On a critical success, the resisting creature takes no damage; otherwise, it is
-damaged as if hit by the golem’s ﬁst.
-Iron Golem Poison (poison); Any drained value from this poison is reduced by
-1 every hour. Saving Throw DC 33 Fortitude; Maximum Duration 4 rounds;
-Stage 1 2d6 poison and drained 1 (1 round); Stage 2 4d6 poison and drained 2
-(1 round); Stage 3 8d6 poison and drained 3 (1 round).
-Adamantine Golem
-Crafted from a nigh-indestructible metal of great rarity,
-adamantine golems can’t be destroyed except by the most
-powerful foes. Crafting an adamantine golem requires a quantity
-of adamantine so massive that collecting it usually requires
-mounting a mining expedition to a distant planet, the Plane
-of Earth, or an Outer Plane.
+AIR
+ELEMENTAL
+Perception +18; darkvision
+Languages Auran
+Skills Acrobatics +20, Stealth +18
+Str +4, Dex +7, Con +4, Int –1, Wis +3, Cha +0
+AC 30; Fort +15, Ref +20, Will +16
+HP 120; Immunities bleed, paralyzed, poison, sleep
+High Winds (air, aura) 20 feet. Air within the emanation is diﬃcult terrain for Flying
+creatures that do not have the air trait.
+Disperse Ǻȓ As living whirlwind, but the storm lord reforms within 50 feet.
+Speed ﬂy 75 feet; swiftness
+Melee Ȱɵ gust +20 (ﬁnesse, reach 15 feet), Damage 2d12+10 bludgeoning plus Push
+5 feet
+Ranged Ȱɵ lightning lash +20 (range increment 50 feet), Damage 2d12+4 electricity
+Swiftness The storm lord’s movement doesn’t trigger reactions.
+Elemental Hurricane
+Elemental hurricanes embody the ferocity of violent windstorms.
+ELEMENTAL HURRICANE
+CREATURE 11
+N
+HUGE
+AIR
+ELEMENTAL
+Perception +20; darkvision
+Languages Auran
+Skills Acrobatics +24, Stealth +22
+Str +6, Dex +7, Con +4, Int +0, Wis +3, Cha +0
+AC 32; Fort +19, Ref +24, Will +18
+HP 140; Immunities bleed, paralyzed, poison, sleep
+High Winds (air, aura) 40 feet. As storm lord.
+Disperse Ǻȓ As living whirlwind, but the elemental hurricane reforms within 100 feet.
+Speed ﬂy 100 feet; swiftness
+Melee Ȱɵ gust +24 (ﬁnesse, reach 20 feet), Damage 2d10+12 bludgeoning plus Push
+10 feet
+Ranged Ȱɵ lightning lash +24 (range increment 75 feet), Damage 2d12+6 electricity
+Breath Weapon ʚʖ (air) The elemental breathes a 30-foot cone of air. Creatures in
+the cone must succeed at a DC 29 Fortitude save or be knocked away from the
+elemental. A creature knocked into a solid object stops moving and takes 10d6
+bludgeoning damage. The elemental hurricane can’t use Breath Weapon again for
+1d4 rounds.
+Critical Success The creature is unaﬀected.
+Success The creature is Pushed 20 feet.
+Failure The creature is Pushed 40 feet.
+Critical Failure The creature is Pushed 40 feet and knocked prone.
+Swiftness The elemental’s movement doesn’t trigger reactions.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668998
+4425155
 
-================================================================================
 PAGE 190
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669042
+4425199
+E-G
+189
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ADAMANTINE GOLEMS
 The incredible amount of
 adamantine necessary to create
@@ -278,77 +335,96 @@ treasuries. The powerful heart
 of an adamantine golem can be
 turned into a legendary forge for
 blacksmithing.
+ADAMANTINE GOLEM
+CREATURE 18
+RARE
+N
+HUGE
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +26; darkvision
+Skills Athletics +38
+Str +9, Dex –1, Con +9, Int –5, Wis +0, Cha –5
+AC 42; Fort +33, Ref +27, Will +29
+HP 255, repair mode; Immunities bleed, death eﬀects, disease, doomed, drained,
+fatigued, ﬁre, healing, magic (see below), mental, necromancy, nonlethal attacks,
+paralyzed, poison, sickened, unconscious; Resistances physical 20 (except vorpal
+adamantine)
+Golem Antimagic harmed by acid (9d10, 2d10 from areas or persistent damage);
+healed by ﬁre (area 2d10 HP); slowed by electricity
+Repair Mode When the adamantine golem is at 0 HP, it isn’t destroyed. Instead,
+it enters repair mode, during which it is slowed 1, can’t take reactions, and can
+take only the Self-Repair action. Once it has more than 30 HP, it can use any type
+of action and can use reactions, though it remains slowed 1 and can’t take any
+reactions until the start of its next turn. If a critical hit with an adamantine vorpal
+weapon reduces the golem to 0 HP, or if such a weapon hits it while it’s already at
+0 HP, then the golem is destroyed.
+Vulnerable to Dispelling The golem can be targeted by disjunction and dispel magic.
+If targeted by such a spell of 9th level or higher, the golem has its resistance to
+physical damage lowered to 15 and is slowed 1 (or slowed 2 if in repair mode) for
+1d4 rounds. During this time, if the golem is reduced to 0 HP while
+already in repair mode, it is destroyed.
+Speed 30 feet
+Melee Ȱɵ fist +35 (deadly 3d12, magical, reach 15 feet),
+Damage 3d10+17 bludgeoning plus destructive
+strike
+Destructive Strike On a critical hit, the adamantine
+golem’s fist Strike breaks the target’s armor,
+if any, in addition to dealing damage to the
+target. If the target has a shield raised,
+the golem breaks the shield instead.
+Inexorable March Ȱɵ The adamantine
+golem Strides up to its Speed,
+pushing back each creature
+whose space it moves into and
+damaging them if they try to
+stop its movement. A creature can
+try to bar the way by attempting a DC 45
+Fortitude save.
+Critical Success The creature takes no damage
+and its armor takes no damage.
+Success The golem halts its movement and
+cannot enter the creature’s square.
+Failure The resisting creature is damaged
+and its armor takes damage as if hit by
+the adamantine golem’s ﬁst.
+Self-Repair
+Ȱɵ
+(manipulate)
+The
+golem repairs itself, regaining 30
+Hit Points.
+Vent Ȱɵ (fire) The golem vents a 30-
+foot cone of superheated steam from
+its internal forge. This deals 15d6 fire
+damage to all creatures in the cone (DC
+40 basic Reflex). The golem can't use Vent
+again for 1d6 rounds.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669042
+4425199
 
-================================================================================
-# ICE LINNORM
-================================================================================
-
-
-DEATH CURSES
-The death curses of the linnorms
-are often the subjects of tragic
-sagas, and those who would think
-themselves vanquishing heroes
-for slaying a linnorm often meet
-their dooms soon thereafter,
-succumbing to these curses well
-after the death of the linnorm
-responsible for bestowing it.
-Ice Linnorm
-The ice linnorm dwells amid glacial crevasses, atop wind-blasted mountain peaks,
-or within glittering caverns carved from the hearts of the mightiest of icebergs.
-ICE LINNORM
-CREATURE 17
-UNCOMMON
-CE
-GARGANTUAN
-COLD
-DRAGON
-Perception +29; darkvision, scent (imprecise) 60 feet, true seeing
-Languages Aklo, Draconic, Sylvan
-Skills Acrobatics +28, Athletics +32
-Str +9, Dex +5, Con +7, Int –3, Wis +6, Cha +7
-AC 41; Fort +32, Ref +28, Will +27; +1 status to all saves vs. magic
-HP 330, regeneration 10 (deactivated by cold iron); Immunities cold, curse, paralyzed,
-sleep; Weaknesses cold iron 15, ﬁre 10
-Curse of Frost (cold, curse, primal) When a creature slays an ice linnorm, it must
-succeed at a DC 40 Will save or permanently gain weakness to cold 15.
-Attack of Opportunity Ǻȓ Tail only.
-Speed 35 feet, ﬂy 100 feet, swim 40 feet; freedom of movement
-Melee Ȱɵ jaws +34 (reach 25 feet, magical), Damage 3d12+17 piercing plus ice linnorm venom
-Melee Ȱɵ claw +34 (reach 20 feet, agile, magical), Damage 3d8+17 slashing
-Melee Ȱɵ tail +34 (reach 25 feet, agile, magical), Damage 3d6+17
-bludgeoning plus Improved Grab
-Primal Innate Spells DC 38; Constant (8th) freedom of
-movement; (7th) true seeing
-Breath Weapon ʚʖ (cold, evocation, primal) The ice linnorm
-spews out a blast of freezing, viscous ooze in a 60-foot
-cone that deals 15d6 cold damage to creatures within the
-area (DC 38 basic Reﬂex save). The freezing ooze clings
-to those struck and hardens into thick sheets of ice. A
-creature that fails the saving throw is immobilized by
-the ice until it succeeds at a check to Escape or it or
-an ally Forces Open the ice (DC 34 for either case). At
-the start of its turn, a creature still immobilized by the
-ice takes 4d6 cold damage. Another creature can free a
-frozen target by dealing a total of 20 ﬁre damage to the
-frozen target. Left unattended, the ice crumbles away in
-1 minute on its own. Creatures with the ﬁre trait can't be
-frozen in place by this breath weapon. Flying creatures fall if
-frozen, and swimming creatures that are frozen rise toward
-the surface of the water at a speed of 60 feet per round. An
-ice linnorm can’t use Breath Weapon again for 1d4 rounds.
-Constrict Ȱɵ 2d6+18 bludgeoning, DC 38
-Ice Linnorm Venom (cold, injury, poison) Saving Throw DC 38
-Fortitude; Maximum Duration 10 rounds; Stage 1 5d6 cold
-damage and drained 1; Stage 2 7d6 cold damage and
-drained 2.
-
-================================================================================
 PAGE 227
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669079
+4425236
 Bestiary
+226
 OTHER LINNORMS
 Linnorms exist in a variety of
 forms beyond the four detailed
@@ -360,3 +436,71 @@ regions of the Material Plane.
 Tarn Linnorm
 Although more powerful linnorms exist, the multi-headed tarn linnorm can wreak
 an awe-inspiring amount of devastation.
+TARN LINNORM
+CREATURE 20
+UNCOMMON
+CE
+GARGANTUAN
+ACID
+AMPHIBIOUS
+DRAGON
+Perception +35; darkvision, scent (imprecise) 60 feet, true seeing
+Languages Aklo, Draconic, Sylvan
+Skills Acrobatics +32, Athletics +38, Stealth +34
+Str +10, Dex +6, Con +8, Int –1, Wis +7, Cha +8
+AC 46; all-around vision; Fort +36, Ref +32, Will +31; +1 status to all saves vs. magic
+HP 400, regeneration 15 (deactivated by cold iron); Immunities acid, curse, paralyzed,
+sleep; Weaknesses cold iron 15
+Curse of Death (curse, death, primal) When a creature slays a tarn linnorm, it must
+succeed at a DC 46 Will save or it can no longer recover Hit Points via any means,
+such as healing spells, the Medicine skill, or natural healing from rest.
+Attack of Opportunity Ǻȓ Tail only.
+Speed 35 feet, ﬂy 100 feet, swim 80 feet; freedom of movement
+Melee Ȱɵ jaws +38 (reach 30 feet, magical), Damage 4d12+18 piercing plus tarn
+linnorm venom
+Melee Ȱɵ claw +38 (reach 30 feet, agile, magical), Damage 4d8+18 slashing
+Melee Ȱɵ tail +38 (reach 30 feet, agile, magical), Damage 4d6+18 bludgeoning plus
+Improved Grab
+Primal Innate Spells DC 42; Constant (9th) freedom of
+movement; (8th) true seeing
+Breath Weapon ʚʖ (acid, evocation, poison, primal) The
+tarn linnorm can expel either a 120-foot line or a 60-foot
+cone of acid dealing 20d6 acid damage to creatures
+within the area (DC 44 basic Reﬂex save). The acid
+creates toxic fumes. At the beginning of the linnorm’s
+next turn, those who failed the breath weapon’s
+Reﬂex save must succeed at a DC 42 Fortitude save
+or gain sickened 4 from the poisonous fumes. A
+tarn linnorm can’t use Breath Weapon or Overwhelming
+Breath again for 1d4 rounds.
+Constrict Ȱɵ 3d6+18 bludgeoning, DC 44
+Double Bite Ȱɵ The tarn linnorm Strides and then makes a
+jaws Strike with each of its heads, each against a different
+target. These attacks count toward the tarn linnorm’s
+multiple attack penalty, and the multiple attack penalty
+doesn’t increase until after the tarn linnorm makes all of
+these attacks.
+Overwhelming Breath ̂ˬ A tarn
+linnorm uses its Breath Weapon
+twice. A creature attempts only
+one save and can take damage
+only once. The tarn linnorm
+can’t use Breath Weapon or
+Overwhelming Breath again for
+2d4 rounds.
+Tarn Linnorm Venom (acid, injury,
+poison) Saving Throw DC 44
+Fortitude; Maximum Duration 10
+rounds; Stage 1 7d6 acid damage
+and drained 1; Stage 2
+11d6 acid damage and
+drained 2.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669079
+4425236

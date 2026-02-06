@@ -1,0 +1,88 @@
+Core Rulebook
+618
+Conditions are persistent. Whenever you’re affected by
+a condition, its effects last until the condition’s stated
+duration ends, the condition is removed, or terms dictated
+in the condition itself cause it to end.
+Condition Values
+Some conditions have a numerical value, called a
+condition value, indicated by a numeral following the
+condition. This value conveys the severity of a condition,
+and such conditions often give you a bonus or penalty
+equal to their value. These values can often be reduced by
+skills, spells, or simply waiting. If a condition value is ever
+reduced to 0, the condition ends.
+Overriding Conditions
+Some conditions override others. This is always specified
+in the entry for the overriding condition. When this
+happens, all effects of the overridden condition are
+suppressed until the overriding condition ends. The
+overridden condition’s duration continues to elapse, and
+it might run out while suppressed.
+List of Conditions
+Blinded
+You can’t see. All normal terrain is difficult terrain to you.
+You can’t detect anything using vision. You automatically
+critically fail Perception checks that require you to be
+able to see, and if vision is your only precise sense, you
+take a –4 status penalty to Perception checks. You are
+immune to visual effects. Blinded overrides dazzled.
+Broken
+Broken is a condition that affects objects. An object is
+broken when damage has reduced its Hit Points below
+its Broken Threshold. A broken object can’t be used for
+its normal function, nor does it grant bonuses—with the
+exception of armor. Broken armor still grants its item bonus
+to AC, but it also imparts a status penalty to AC depending
+on its category: –1 for broken light armor, –2 for broken
+medium armor, or –3 for broken heavy armor.
+A broken item still imposes penalties and limitations
+normally incurred by carrying, holding, or wearing  it.
+For example, broken armor would still impose its Dexterity
+modifier cap, check penalty, and so forth.
+If an effect makes an item broken automatically and the
+item has more HP than its Broken Threshold, that effect
+also reduces the item’s current HP to the Broken Threshold.
+Clumsy
+Your movements become clumsy and inexact. Clumsy
+always includes a value. You take a status penalty equal
+to the condition value to Dexterity-based checks and
+DCs, including AC, Reflex saves, ranged attack rolls, and
+skill checks using Acrobatics, Stealth, and Thievery.
+Concealed
+While you are concealed from a creature, such as in a thick
+fog, you are difficult for that creature to see. You can still
+be observed, but you’re tougher to target. A creature that
+you’re concealed from must succeed at a DC 5 flat check
+when targeting you with an attack, spell, or other effect.
+Area effects aren’t subject to this flat check. If the check
+fails, the attack, spell, or effect doesn’t affect you.
+Confused
+You don’t have your wits about you, and you attack
+wildly. You are flat-footed, you don’t treat anyone as your
+ally (though they might still treat you as theirs), and you
+can’t Delay, Ready, or use reactions.
+You use all your actions to Strike or cast offensive
+cantrips, though the GM can have you use other actions
+to facilitate attack, such as draw a weapon, move so that a
+target is in reach, and so forth. Your targets are determined
+randomly by the GM. If you have no other viable targets,
+you target yourself, automatically hitting but not scoring a
+critical hit. If it’s impossible for you to attack or cast spells,
+you babble incoherently, wasting your actions.
+Each time you take damage from an attack or spell,
+you can attempt a DC 11 flat check to recover from your
+confusion and end the condition.
+Controlled
+Someone else is making your decisions for you, usually
+because you’re being commanded or magically dominated.
+The controller dictates how you act and can make you
+use any of your actions, including attacks, reactions, or
+even Delay. The controller usually does not have to spend
+their own actions when controlling you.
+Conditions Appendix
+While adventuring, characters (and sometimes their belongings) are affected by abilities and
+effects that apply conditions. For example, a spell or magic item might turn you invisible or
+cause you to be gripped by fear. Conditions change your state of being in some way, and they
+represent everything from the attitude other creatures have toward you and how they interact
+with you to what happens when a creature drains your blood or life essence.

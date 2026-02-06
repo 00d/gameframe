@@ -1,0 +1,75 @@
+SAMPLE ROGUE
+SCOUT’S WARNING [free-action]
+FEAT 4
+ROGUE
+Trigger You are about to roll a Perception or Survival check
+for initiative.
+You visually or audibly warn your allies of danger, granting
+them each a +1 circumstance bonus to their initiative rolls.
+Depending on whether you use gestures or call out, this action
+gains either the visual or auditory trait, respectively.
+6TH LEVEL
+GANG UP
+FEAT 6
+ROGUE
+You and your allies harry an opponent in concert. Any enemy is
+flat-footed against your melee attacks due to flanking as long as
+the enemy is within both your reach and your ally’s. Your allies
+must still flank an enemy for it to be flat-footed to them.
+LIGHT STEP
+FEAT 6
+ROGUE
+You aren’t bothered by tricky footing. When you Stride or Step,
+you can ignore difficult terrain.
+SKIRMISH STRIKE [one-action]
+FEAT 6
+FLOURISH
+ROGUE
+Your feet and weapon move in tandem. Either Step and then
+Strike, or Strike and then Step.
+TWIST THE KNIFE [one-action]
+FEAT 6
+ROGUE
+Requirements Your last action was a melee Strike that dealt
+sneak attack damage to a flat-footed target.
+After stabbing your opponent in a weak spot, you tear the
+wound open. You deal persistent bleed damage to the target
+equal to your number of sneak attack damage dice.
+8TH LEVEL
+BLIND-FIGHT
+FEAT 8
+ROGUE
+Prerequisites master in Perception
+Your battle instincts make you more aware of concealed and
+invisible opponents. You don’t need to succeed at a flat check to
+target concealed creatures. You’re not flat-footed to creatures
+that are hidden from you (unless you’re flat-footed to them for
+reasons other than the hidden condition), and you need only a
+successful DC 5 flat check to target a hidden creature.
+While you’re adjacent to an undetected creature of your
+level or lower, it is instead only hidden from you.
+DELAY TRAP [reaction]
+FEAT 8
+ROGUE
+Trigger A trap within your reach is triggered.
+You can jam the workings of a trap to delay its effects. Attempt
+a Thievery check to Disable a Device on the trap; the DC to do
+so is increased by 5, and the effects are as follows.
+THIEF
+Furtive and swift, you pick locks, find secret doors
+and traps, and collect all the best loot.
+ABILITY SCORES
+Prioritize Dexterity. Constitution improves your health and
+Wisdom helps you notice traps.
+SKILLS
+Acrobatics, Arcana, Athletics, Crafting, Deception,
+Diplomacy, Society, Stealth, Thievery
+ROGUE’S RACKET
+Thief
+STARTING FEAT
+Nimble Dodge
+HIGHER-LEVEL FEATS
+Quick Draw (2nd), Skirmish Strike (6th), Sneak Savant (10th),
+Spring from the Shadows (12th), Implausible Infiltration (18th)
+Core Rulebook
+186

@@ -1,0 +1,132 @@
+BARD
+Bards can gain the following composition spells. This
+section also includes their composition cantrips.
+ALLEGRO
+CANTRIP 7
+UNCOMMON
+BARD
+CANTRIP
+COMPOSITION EMOTION ENCHANTMENT MENTAL
+Cast [one-action] verbal
+Range 30 feet; Targets 1 ally
+Duration 1 round
+You perform rapidly, speeding up your ally. The ally becomes
+quickened and can use the additional action to Strike, Stride,
+or Step.
+COUNTER PERFORMANCE
+FOCUS 1
+UNCOMMON
+BARD
+COMPOSITION
+ENCHANTMENT
+FORTUNE
+MENTAL
+Cast [reaction] somatic or verbal
+Trigger You or an ally within 60 feet rolls a saving throw
+against an auditory or visual effect.
+Area 60-foot emanation
+Your performance protects you and your allies. Roll a
+Performance check for a type you know: an auditory
+performance if the trigger was auditory, or a visual one for
+a visual trigger. You and allies in the area can use the better
+result between your Performance check and the saving throw.
+DIRGE OF DOOM
+CANTRIP 3
+UNCOMMON
+BARD
+CANTRIP
+COMPOSITION
+EMOTION ENCHANTMENT
+FEAR
+MENTAL
+Cast [one-action] verbal
+Area 30-foot emanation
+Duration 1 round
+Foes within the area are frightened 1. They can’t reduce their
+frightened value below 1 while they remain in the area.
+FATAL ARIA
+FOCUS 10
+UNCOMMON
+BARD
+COMPOSITION
+DEATH
+EMOTION ENCHANTMENT MENTAL
+Cast [one-action] verbal
+Range 30 feet; Targets 1 creature
+You perform music so perfect that the target may die of joy
+or sorrow. Once targeted, the creature becomes temporarily
+immune for 1 minute. The effect of the spell depends on the
+target’s level and current Hit Points.
+16th or Lower The target dies instantly.
+17th If the target has 50 Hit Points or fewer, it dies instantly;
+otherwise, it drops to 0 Hit Points and becomes dying 1.
+18th or Higher The target takes 50 damage. If this brings it to
+0 Hit Points, it dies instantly.
+HOUSE OF IMAGINARY WALLS
+CANTRIP 5
+UNCOMMON
+BARD
+CANTRIP
+COMPOSITION
+ILLUSION
+VISUAL
+Cast [one-action] somatic
+Range touch
+Duration 1 round
+You mime creating an invisible 10-foot-by-10-foot stretch of
+wall adjacent to you and within your reach. The wall is solid
+to those creatures that don’t disbelieve it, even incorporeal
+creatures. You and your allies can voluntarily believe the wall
+exists to continue to treat it as solid, for instance to climb
+onto it. A creature that disbelieves the illusion is temporarily
+immune to your house of imaginary walls for 1 minute. The
+wall doesn’t block creatures that didn’t see your visual
+performance, nor does it block objects. The wall has AC 10,
+Hardness equal to double the spell’s level, and HP equal to
+quadruple the spell’s level.
+INSPIRE COMPETENCE
+CANTRIP 1
+UNCOMMON
+BARD
+CANTRIP
+COMPOSITION EMOTION ENCHANTMENT MENTAL
+Cast [one-action] verbal
+Range 60 feet; Targets 1 ally
+Duration 1 round
+Your encouragement inspires your ally to succeed at a task.
+This counts as having taken sufficient preparatory actions to
+Aid your ally on a skill check of your choice, regardless of the
+circumstances. When you later use the Aid reaction, you can
+roll Performance instead of the normal skill check, and if you
+roll a failure, you get a success instead. If you are legendary in
+Performance, you automatically critically succeed.
+The GM might rule that you can’t use this ability if the act
+of encouraging your ally would interfere with the skill check
+(such as a check to Sneak quietly or maintain a disguise).
+INSPIRE COURAGE
+CANTRIP 1
+UNCOMMON
+BARD
+CANTRIP
+COMPOSITION EMOTION ENCHANTMENT MENTAL
+Cast [one-action] verbal
+Area 60-foot emanation
+Duration 1 round
+You inspire your allies with words or tunes of encouragement.
+You and all allies in the area gain a +1 status bonus to attack
+rolls, damage rolls, and saves against fear effects.
+INSPIRE DEFENSE
+CANTRIP 2
+UNCOMMON
+BARD
+CANTRIP
+COMPOSITION EMOTION ENCHANTMENT MENTAL
+Cast [one-action] verbal
+Area 60-foot emanation
+Duration 1 round
+Focus Spells
+Some classes gain special spells that they cast using Focus Points instead of spell slots.
+These focus spells are listed below, organized by class. The full rules for casting focus
+spells appear on page 300.
+Core Rulebook
+386

@@ -1,0 +1,120 @@
+Success The target is sickened 1.
+Failure The target is afflicted with goblin pox at stage 1.
+Critical Failure The target is afflicted with goblin pox at stage 2.
+Goblin Pox (disease); Level 1. Goblins and goblin dogs are
+immune. Stage 1 sickened 1 (1 round); Stage 2 sickened 1
+and slowed 1 (1 round); Stage 3 sickened 1 and the creature
+can’t reduce its sickened value below 1 (1 day)
+GREASE
+SPELL 1
+CONJURATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 30 feet; Area 4 contiguous 5-foot squares or
+Targets 1 object of 1 Bulk or less
+Duration 1 minute
+You conjure grease, with effects based on choosing area or target.
+•	 Area All solid ground in the area is covered with
+grease. Each creature standing on the greasy surface
+must succeed at a Reflex save or an Acrobatics check
+against your spell DC or fall prone. Creatures using
+an action to move onto the greasy surface during the
+spell’s duration must attempt either a Reflex save or an
+Acrobatics check to Balance. A creature that Steps or
+Crawls doesn’t have to attempt a check or save.
+•	 Target If you cast the spell on an unattended object,
+anyone trying to pick up the object must succeed
+at an Acrobatics check or Reflex save against your
+spell DC to do so. If you target an attended object,
+the creature that has the object must attempt an
+Acrobatics check or Reflex save. On a failure, the
+holder or wielder takes a –2 circumstance penalty to
+all checks that involve using the object; on a critical
+failure, the holder or wielder releases the item. The
+object lands in an adjacent square of the GM’s choice.
+If you cast this spell on a worn object, the wearer
+gains a +2 circumstance bonus to Fortitude saves
+against attempts to grapple them.
+GRIM TENDRILS
+SPELL 1
+NECROMANCY
+NEGATIVE
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Area 30-foot line
+Saving Throw Fortitude
+Tendrils of darkness curl out from your fingertips and
+race through the air. You deal 2d4 negative damage and 1
+persistent bleed damage to living creatures in the line. Each
+living creature in the line must attempt a Fortitude save.
+Critical Success The creature is unaffected.
+Success The creature takes half the negative damage and no
+persistent bleed damage.
+Failure The creature takes full damage.
+Critical Failure The creature takes double negative damage
+and double persistent bleed damage.
+Heightened (+1) The negative damage increases by 2d4, and
+the persistent bleed damage increases by 1.
+GUIDANCE
+CANTRIP 1
+CANTRIP
+DIVINATION
+Traditions divine, occult, primal
+Cast [one-action] verbal
+Range 30 feet; Targets 1 creature
+Duration until the start of your next turn
+You ask for divine guidance, granting the target a +1 status
+bonus to one attack roll, Perception check, saving throw, or
+skill check the target attempts before the duration ends. The
+target chooses which roll to use the bonus on before rolling.
+If the target uses the bonus, the spell ends. Either way, the
+target is then temporarily immune for 1 hour.
+GUST OF WIND
+SPELL 1
+AIR
+EVOCATION
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Area 60-foot line
+Duration until the start of your next turn
+A violent wind issues forth from your palm, blowing from the
+point where you are when you cast the spell to the line’s opposite
+end. The wind extinguishes small non-magical fires, disperses
+fog and mist, blows objects of light Bulk or less around, and
+pushes larger objects. Large or smaller creatures in the area
+must attempt a Fortitude save. Large or smaller creatures that
+later move into the gust must attempt the save on entering.
+Critical Success The creature is unaffected.
+Success The creature can’t move against the wind.
+Failure The creature is knocked prone. If it was flying, it
+suffers the effects of critical failure instead.
+Critical Failure The creature is pushed 30 feet in the wind’s
+direction, knocked prone, and takes 2d6 bludgeoning damage.
+HALLUCINATION
+SPELL 5
+ILLUSION
+INCAPACITATION
+MENTAL
+Traditions arcane, occult
+Cast [two-actions] material, somatic
+Range 30 feet; Targets 1 creature
+Duration 1 hour
+The target consistently detects one thing as another, can’t
+detect something that’s there, or detects something that’s not
+there, though it doesn’t alter their beliefs. You choose which
+of these effects applies, and you determine the specifics of the
+hallucination. For example, you could make the target see all elves
+as humans, be unable to detect the presence of their brother, see
+their beloved pocket watch on their person even when it isn’t, or
+see a tower in the center of town.
+The target can attempt an initial Will save, with effects below.
+They also receive a Will save to disbelieve the hallucination every
+time they Seek or directly interact with the hallucination. For
+example, the target could attempt to disbelieve the hallucination
+each time they interacted with an elf, bumped into their brother
+accidentally, tried to check their pocket watch, or studied
+the tower. The target can attempt to disbelieve with a large
+circumstance bonus in situations determined by the GM, such as
+if the target attempted to climb the nonexistent tower.
+Core Rulebook
+342

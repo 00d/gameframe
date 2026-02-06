@@ -1,0 +1,118 @@
+Success The target babbles incoherently and is stunned 1.
+Failure The target is confused for 1 minute. It can attempt a
+new save at the end of each of its turns to end the confusion.
+Critical Failure The target is confused for 1 minute, with no
+save to end early.
+Heightened (8th) You can target up to 10 creatures.
+CONTINGENCY
+SPELL 7
+ABJURATION
+Traditions arcane
+Cast 10 minutes (material, somatic, verbal)
+Duration 24 hours
+You prepare a spell that will trigger later. While casting
+contingency, you also cast another spell of 4th level or lower
+with a casting time of no more than 3 actions. This companion
+spell must be one that can affect you. You must make any
+decisions for the spell when you cast contingency, such as
+choosing a damage type for resist energy. During the casting,
+choose a trigger under which the spell will be cast, using the
+same restrictions as for the trigger of a Ready action. Once
+contingency is cast, you can cause the companion spell to
+come into effect as a reaction with that trigger. It affects
+only you, even if it would affect more creatures. If you define
+complicated conditions, as determined by the GM, the trigger
+might fail. If you cast contingency again, the newer casting
+supersedes the older.
+Heightened (8th) You can choose a spell of 5th level or lower.
+Heightened (9th) You can choose a spell of 6th level or lower.
+Heightened (10th) You can choose a spell of 7th level or lower.
+CONTINUAL FLAME
+SPELL 2
+EVOCATION
+LIGHT
+Traditions arcane, divine, occult, primal
+Cast [three-actions] material, somatic, verbal; Cost 6 gp of ruby dust
+Range touch; Targets 1 object
+Duration unlimited
+A magical flame springs up from the object, as bright as a torch.
+It doesn’t need oxygen, react to water, or generate heat.
+Heightened (+1) The cost increases as follows: 16 gp for 3rd
+level; 30 gp for 4th, 60 gp for 5th, 120 gp for 6th,; 270 gp for
+7th, 540 gp for 8th, 1,350 gp for 9th, and 3,350 gp for 10th.
+CONTROL WATER
+SPELL 5
+EVOCATION
+WATER
+Traditions arcane, primal
+Cast [two-actions] somatic, verbal
+Range 500 feet; Area 50 feet long by 50 feet wide
+By imposing your will upon the water, you can raise or
+lower the level of water in the chosen area by 10 feet. Water
+creatures in the area are subjected to the effects of slow.
+CREATE FOOD
+SPELL 2
+CONJURATION
+Traditions arcane, divine, primal
+Cast 1 hour (somatic, verbal)
+Range 30 feet
+You create enough food to feed six Medium creatures for a
+day. This food is bland and unappealing, but it is nourishing.
+After 1 day, if no one has eaten the food, it decays and
+becomes inedible. Most Small creatures eat one-quarter as
+much as a Medium creature (one-sixteenth as much for most
+Tiny creatures), and most Large creatures eat 10 times as
+much (100 times as much for Huge creatures and so on).
+Heightened (4th) You can feed 12 Medium creatures.
+Heightened (6th) You can feed 50 Medium creatures.
+Heightened (8th) You can feed 200 Medium creatures.
+CREATE WATER
+SPELL 1
+CONJURATION
+WATER
+Traditions arcane, divine, primal
+Cast [two-actions] somatic, verbal
+Range 0 feet
+As you cup your hands, water begins to flow forth from them.
+You create 2 gallons of water. If no one drinks it, it evaporates
+after 1 day.
+CREATION
+SPELL 4
+CONJURATION
+Traditions arcane, primal
+Cast 1 minute (material, somatic, verbal)
+Range 0 feet
+Duration 1 hour
+You conjure a temporary object from eldritch energy. It must
+be of vegetable matter (such as wood or paper) and 5 cubic
+feet or smaller. It can’t rely on intricate artistry or complex
+moving parts, never fulfills a cost or the like, and can’t be made
+of precious materials or materials with a rarity of uncommon
+or higher. It is obviously temporarily conjured, and thus can’t
+be sold or passed off as a genuine item.
+Heightened (5th) The item is metal and can include common
+minerals, like feldspar or quartz.
+CRISIS OF FAITH
+SPELL 3
+ENCHANTMENT
+MENTAL
+Traditions divine
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature
+Saving Throw Will
+You assault the target’s faith, riddling the creature with
+doubt and mental turmoil that deal 6d6 mental damage, or
+6d8 mental damage if it can cast divine spells. The effects are
+determined by its Will save.
+Critical Success The target is unaffected.
+Success The target takes half damage.
+Failure The target takes full damage; if the target can cast
+divine spells, it’s stupefied 1 for 1 round.
+Critical Failure The target takes double damage, is stupefied 1
+for 1 round, and can’t cast divine spells for 1 round.
+To many deities, casting this spell on a follower of your own
+deity without significant cause is anathema.
+Heightened (+1) The damage increases by 2d6 (or by 2d8 if
+the target is a divine spellcaster).
+Core Rulebook
+326

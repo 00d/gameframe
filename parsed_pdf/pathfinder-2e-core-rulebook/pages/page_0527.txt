@@ -1,0 +1,117 @@
+trap unerringly targets the true perpetrator or perpetrators
+at any distance—even across planes. Effect The triggering
+creature and up to five coconspirators instantly revert to
+infants, losing all memories, class abilities, and other skills
+acquired during their lives (DC 44 Fortitude negates).
+Reversing this effect is nearly impossible, requiring
+powerful magic such as wish.
+ARMAGEDDON ORB
+HAZARD 23
+RARE
+MAGICAL
+TRAP
+Stealth DC 10 or detect magic
+Description A roiling red orb, forged from a drop of the god
+Rovagug’s blood, rains fire from the sky when a specified
+condition is met.
+Disable Thievery DC 48 (legendary) to imbue thieves’ tools
+with aspects representing Asmodeus and Sarenrae and use
+them to drain away the orb’s power over 10 minutes; the
+character attempting this check takes 5 fire damage each
+round until the orb is depleted
+Burn It All [reaction] (death, divine, evocation, fire); Trigger A special
+condition set by the trap’s creator occurs; this is typically
+the event of their death. Effect Fire rains from the sky in a
+100-mile radius, dealing 10d6 fire damage to creatures and
+objects in the area. Each creature or object can attempt a DC
+46 basic Reflex save. Any creature reduced to 0 Hit Points
+by this damage dies instantly. This is not enough damage to
+completely burn away a forest or level an entire mountain
+or city, but it typically kills most creatures in the area.
+Complex Hazards
+Complex hazards function similarly to monsters during
+encounters, as they roll initiative and have actions of their
+own, though these are usually automated in a routine.
+SUMMONING RUNE 
+HAZARD 1
+COMPLEX
+MAGICAL
+TRAP
+Stealth +7 (trained)
+Description A cloud of invisible magical sensors in a 10-foot
+radius surrounds an invisible wall or floor rune the size of the
+creature to be summoned.
+Disable Acrobatics DC 15 to approach without triggering the
+trap followed by Thievery DC 17 (trained) to erase the rune, or
+dispel magic (1st level; counteract DC 15) to counteract the rune
+Summon Monster [reaction] (arcane, conjuration, summon; Trigger
+A creature enters the cloud of magical sensors. Effect
+This trap summons a specific level 1 creature, determined
+when the trap is created. The creature rolls initiative and
+remains for 2d6 rounds, after which the spell ends and
+the creature disappears. The creature also disappears if
+someone disables the trap before the duration expires. The
+summoned creature can use 3 actions each round and can
+use reactions, unlike most summoned creatures.
+Reset The trap resets each day at dawn.
+DROWNING PIT
+HAZARD 3
+COMPLEX
+MECHANICAL
+TRAP
+Stealth +10 (trained); DC 22 (expert) to notice the water
+spouts once the pit opens
+Description A trapdoor covers a 10-foot-square pit that’s 30
+feet deep and has 5 feet of water at the bottom. Four water
+spouts in the walls connect to hidden water tanks. Each water
+spout extends out of a different wall, 6 inches from the top
+of the pit.
+Disable Thievery DC 18 (trained) to seal each water spout,
+Thievery DC 22 (trained) to open the trapdoor, or Athletics
+DC 22 to Force Open the trapdoor
+AC 19; Fort +8, Ref +5
+Trapdoor Hardness 15, Trapdoor HP 60 (BT 30); Spout
+Hardness 8, Spout HP 32 (BT 16); Immunities critical hits,
+object immunities, precision damage
+Pitfall [reaction] Trigger A creature walks onto the trapdoor. Effect
+The triggering creature falls in and takes damage from the
+fall, reduced by 5 feet for falling into the water (typically 12
+bludgeoning damage). A creature can Grab an Edge to avoid
+falling (page 472). The trapdoor then slams shut, and the
+hazard rolls initiative.
+Routine (4 actions) The trap loses 1 action each turn for each
+disabled water spout. On each of the trap’s actions, a spout
+pours water, increasing the depth of the water by 5 feet.
+Once the pit is full of water, the pit stops using actions, but
+creatures in the pit begin drowning (page 478).
+Reset The trap can be reset if the door is manually reengaged
+and the water tanks refilled; it can be reset without draining
+the pit, but doing so renders it less effective.
+QUICKSAND
+HAZARD 3
+COMPLEX
+ENVIRONMENTAL
+Stealth +12 (trained) (or –10 and no minimum proficiency if the
+surface is disturbed)
+Description A 15-foot-wide patch of water and sand attempts
+to submerge creatures that step onto it.
+Disable Survival DC 18 (trained) to disturb the surface
+Submerge [free-action] Trigger A Huge or smaller creature walks onto
+the quicksand. Effect The triggering creature sinks into the
+quicksand up to its waist. The quicksand rolls initiative if it
+hasn’t already.
+Routine (1 action) On its initiative, the quicksand pulls down
+each creature within it. A creature that was submerged up to
+its waist becomes submerged up to its neck, and a creature
+UPGRADED SUMMONING RUNES
+You can make a summoning rune of nearly any level. It
+summons a creature of a level equal to the trap’s level.
+Use Table 10–5: DCs by Level on page 503 to determine
+the Thievery DC and spell DC, using the trap’s level and
+applying a hard adjustment (+2). The Stealth modifier for
+the trap is equal to this number – 10. Stronger summoning
+runes usually require expert proficiency or better in
+Perception to find, and they might require a higher
+proficiency rank in Thievery to disable.
+Core Rulebook
+526

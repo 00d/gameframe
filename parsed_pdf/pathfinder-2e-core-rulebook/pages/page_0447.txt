@@ -1,0 +1,111 @@
+usually results in a critical success and natural 1 usually
+results in a critical failure. However, if you were going up
+against a very high DC, you might get only a success with
+a natural 20, or even a failure if 20 plus your total modifier
+is 10 or more below the DC. Likewise, if your modifier for
+a statistic is so high that adding it to a 1 from your d20 roll
+exceeds the DC by 10 or more, you can succeed even if you
+roll a natural 1! If a feat, magic item, spell, or other effect
+does not list a critical success or critical failure, treat is as
+an ordinary success or failure instead.
+Some other abilities can change the degree of success for
+rolls you get. When resolving the effect of an ability that
+changes your degree of success, always apply the adjustment
+from a natural 20 or natural 1 before anything else.
+Specific Checks
+While most checks follow these basic rules, it’s useful to
+know about a few specific types of checks, how they’re
+used, and how they differ from one another.
+Attack Rolls
+When you use a Strike action or any other attack action,
+you attempt a check called an attack roll. Attack rolls take
+a variety of forms and are often highly variable based on
+the weapon you are using for the attack, but there are three
+main types: melee attack rolls, ranged attack rolls, and spell
+attack rolls. Spell attack rolls work a little bit differently, so
+they are explained separately on the next page.
+Melee attack rolls use Strength as their ability modifier by
+default. If you’re using a weapon or attack with the finesse
+trait, then you can use your Dexterity modifier instead.
+Melee attack roll result = d20 roll + Strength
+modifier (or optionally Dexterity modifier for
+a finesse weapon) + proficiency bonus + other
+bonuses + penalties
+Ranged attack rolls use Dexterity as their ability modifier.
+Ranged attack roll result = d20 roll + Dexterity
+modifier + proficiency bonus + other bonuses +
+penalties
+When attacking with a weapon, whether melee or ranged,
+you add your proficiency bonus for the weapon you’re using.
+Your class determines your proficiency rank for various
+weapons. Sometimes, you’ll have different proficiency ranks
+for different weapons. For instance, at 5th level, a fighter
+gains the weapon mastery class feature, which grants master
+proficiency with the simple and martial weapons of one
+weapon group, expert proficiency with advanced weapons
+of that group and other simple and martial weapons, and
+trained proficiency in all other advanced weapons.
+The bonuses you might apply to attack rolls can come
+from a variety of sources. Circumstance bonuses can come
+from the aid of an ally or a beneficial situation. Status
+bonuses are typically granted by spells and other magical
+aids. The item bonus to attack rolls comes from magic
+weapons—notably, a weapon’s potency rune (page 580).
+Penalties to attack rolls come from situations and effects
+as well. Circumstance penalties come from risky tactics
+or detrimental circumstances, status penalties come from
+spells and magic working against you, and item penalties
+occur when you use a shoddy item (page 273). When
+making attack rolls, two main types of untyped penalties
+are likely to apply. The first is the multiple attack penalty,
+and the second is the range penalty. The first applies
+anytime you make more than one attack action during the
+course of your turn, and the other applies only with ranged
+or thrown weapons. Both are described below.
+Multiple Attack Penalty
+The more attacks you make beyond your first in a single
+turn, the less accurate you become, represented by the
+multiple attack penalty. The second time you use an
+attack action during your turn, you take a –5 penalty to
+your attack roll. The third time you attack, and on any
+subsequent attacks, you take a –10 penalty to your attack
+roll. Every check that has the attack trait counts toward
+your multiple attack penalty, including Strikes, spell attack
+rolls, certain skill actions like Shove, and many others.
+Some weapons and abilities reduce multiple attack
+penalties, such as agile weapons, which reduce these
+penalties to –4 on the second attack or –8 on further attacks.
+	Attack
+Multiple Attack Penalty
+Agile
+	First
+None
+None
+	Second
+–5
+–4
+	Third or subsequent
+–10
+–8
+Always calculate your multiple attack penalty for the
+weapon you’re using on that attack. For example, let’s say
+you’re wielding a longsword in one hand and a shortsword
+(which has the agile trait) in your other hand, and you are
+going to make three Strikes with these weapons during the
+course of your turn. The first Strike you make during your
+turn has no penalty, no matter what weapon you are using.
+The second Strike will take either a –5 penalty if you use
+the longsword or a –4 penalty if you use the shortsword.
+Just like the second attack, the penalty for your third attack
+is based on which weapon you’re using for that particular
+Strike. It would be a –10 penalty with the longsword and
+a –8 penalty with the shortsword, no matter what weapon
+you used for your previous Strikes.
+The multiple attack penalty applies only during your
+turn, so you don’t have to keep track of it if you can
+perform an Attack of Opportunity or a similar reaction
+that lets you make a Strike on someone else’s turn.
+Range Penalty
+Ranged and thrown weapons each have a listed range
+Core Rulebook
+446

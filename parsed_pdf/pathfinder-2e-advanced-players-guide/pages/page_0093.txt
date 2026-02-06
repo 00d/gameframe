@@ -1,0 +1,80 @@
+DUELING DANCE [one-action]
+FEAT 10
+STANCE
+SWASHBUCKLER
+Prerequisites Dueling Parry
+Requirements You are wielding only a single one-handed melee
+weapon and have your other hand or hands free.
+Using your free hand as pivot and balance, you both attack and
+defend with your weapon. While you are in this stance, you
+constantly have the benefits of Dueling Parry.
+REFLEXIVE RIPOSTE
+FEAT 10
+SWASHBUCKLER
+Prerequisites Opportune Riposte
+You can riposte almost without a thought. At the start of each of
+your turns when you regain your actions, you gain an additional
+reaction that can be used only to perform an Opportune Riposte.
+TARGETING FINISHER [one-action]
+FEAT 10
+FINISHER
+SWASHBUCKLER
+Your attack harms and hinders your foe. Choose a particular
+part of your foe from the list below and Strike. If you hit and
+damage the target, apply the effect corresponding to the chosen
+part. This hindrance lasts until the end of your next turn. On a
+critical hit, you also apply a lesser effect lasting for 1 minute.
+• Arm (or another limb used for attacks, such as a tentacle)
+The target is enfeebled 2. On a critical hit, it is also
+enfeebled 1 for 1 minute.
+• Head The target is stupefied 2. On a critical hit, it is also
+stupefied 1 for 1 minute.
+• Legs The target takes a –10-foot status penalty to its
+Speeds. On a critical hit, it also takes a –5-foot status
+penalty to its Speeds for 1 minute.
+12TH LEVEL
+CHEAT DEATH [reaction]
+FEAT 12
+SWASHBUCKLER
+Trigger You take damage that would reduce you to 0 Hit Points.
+Somehow you always escape the reaper by a hair’s breadth.
+You avoid being knocked out or killed and remain at 1 Hit Point,
+but you become doomed 1 (or increase your doomed value by
+1 if you were already doomed). You can’t reduce or ignore the
+doomed condition from Cheating Death. The doomed condition
+from Cheating Death lasts for 10 minutes, though this doesn’t
+affect the duration of any other doomed condition you have.
+MOBILE FINISHER [one-action]
+FEAT 12
+FINISHER
+SWASHBUCKLER
+You attack in motion. Stride and then Strike. You can use Mobile
+Finisher while Burrowing, Climbing, Flying, or Swimming instead
+of Striding if you have the corresponding movement type.
+14TH LEVEL
+FLAMBOYANT LEAP [two-actions]
+FEAT 14
+SWASHBUCKLER
+Prerequisites master in Athletics, Flamboyant Athlete
+Requirements You are capable of using a finisher.
+FENCER
+You befuddle your foes with deft movements,
+feints, and traps, leading them into your cunning
+counterattacks.
+ABILITY SCORES
+Prioritize Dexterity for accuracy, as well as Charisma for
+Deception.
+SKILLS
+Acrobatics, Deception, Diplomacy, Society, Stealth,
+Thievery
+SWASHBUCKLER’S STYLE
+Fencer
+STARTING FEAT
+Goading Feint
+HIGHER-LEVEL FEATS
+Tumble Behind (2nd), Attack of Opportunity (6th),
+Reflexive Riposte (10th), Felicitous Riposte (16th)
+SAMPLE SWASHBUCKLER
+Advanced Player's Guide
+92
+92

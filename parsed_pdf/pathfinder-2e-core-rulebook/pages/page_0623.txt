@@ -1,0 +1,106 @@
+Core Rulebook
+622
+Quickened
+You gain 1 additional action at the start of your turn each
+round. Many effects that make you quickened specify the
+types of actions you can use with this additional action.
+If you become quickened from multiple sources, you can
+use the extra action you’ve been granted for any single
+action allowed by any of the effects that made you
+quickened. Because quickened has its effect at the start
+of your turn, you don’t immediately gain actions if you
+become quickened during your turn.
+Restrained
+You’re tied up and can barely move, or a creature has
+you pinned. You have the flat-footed and immobilized
+conditions, and you can’t use any actions with the attack
+or manipulate traits except to attempt to Escape or Force
+Open your bonds. Restrained overrides grabbed.
+Sickened
+You feel ill. Sickened always includes a value. You take
+a status penalty equal to this value on all your checks
+and DCs. You can’t willingly ingest anything—including
+elixirs and potions—while sickened.
+You can spend a single action retching in an attempt to
+recover, which lets you immediately attempt a Fortitude
+save against the DC of the effect that made you sickened.
+On a success, you reduce your sickened value by 1 (or by
+2 on a critical success).
+Slowed
+You have fewer actions. Slowed always includes a value.
+When you regain your actions at the start of your turn,
+reduce the number of actions you regain by your slowed
+value. Because slowed has its effect at the start of your
+turn, you don’t immediately lose actions if you become
+slowed during your turn.
+Stunned
+You’ve become senseless. You can’t act while stunned.
+Stunned usually includes a value, which indicates how
+many total actions you lose, possibly over multiple turns,
+from being stunned. Each time you regain actions (such
+as at the start of your turn), reduce the number you regain
+by your stunned value, then reduce your stunned value
+by the number of actions you lost. For example, if you
+were stunned 4, you would lose all 3 of your actions on
+your turn, reducing you to stunned 1; on your next turn,
+you would lose 1 more action, and then be able to use
+your remaining 2 actions normally. Stunned might also
+have a duration instead of a value, such as “stunned for
+1 minute.” In this case, you lose all your actions for the
+listed duration.
+Stunned overrides slowed. If the duration of your
+stunned condition ends while you are slowed, you count
+the actions lost to the stunned condition toward those lost
+to being slowed. So, if you were stunned 1 and slowed 2
+at the beginning of your turn, you would lose 1 action
+from stunned, and then lose only 1 additional action by
+being slowed, so you would still have 1 action remaining
+to use that turn.
+Stupefied
+Your thoughts and instincts are clouded. Stupefied always
+includes a value. You take a status penalty equal to this
+value on Intelligence-, Wisdom-, and Charisma-based
+checks and DCs, including Will saving throws, spell
+attack rolls, spell DCs, and skill checks that use these
+ability scores. Any time you attempt to Cast a Spell while
+stupefied, the spell is disrupted unless you succeed at a
+flat check with a DC equal to 5 + your stupefied value.
+Unconscious
+You’re sleeping, or you’ve been knocked out. You can’t
+act. You take a –4 status penalty to AC, Perception, and
+Reflex saves, and you have the blinded and flat-footed
+conditions. When you gain this condition, you fall prone
+and drop items you are wielding or holding unless the
+effect states otherwise or the GM determines you’re in a
+position in which you wouldn’t.
+If you’re unconscious because you’re dying, you can’t
+wake up while you have 0 Hit Points. If you are restored
+to 1 Hit Point or more via healing, you lose the dying and
+unconscious conditions and can act normally on your
+next turn.
+If you are unconscious and at 0 Hit Points, but not
+dying, you naturally return to 1 Hit Point and awaken
+after sufficient time passes. The GM determines how long
+you remain unconscious, from a minimum of 10 minutes
+GAINING AND LOSING ACTIONS
+Quickened, slowed, and stunned are the primary ways
+you can gain or lose actions on a turn. The rules for
+how this works appear on page 462. In brief, these
+conditions alter how many actions you regain at the
+start of your turn; thus, gaining the condition in the
+middle of your turn doesn’t adjust your number of
+actions on that turn. If you have conflicting conditions
+that affect your number of actions, you choose which
+actions you lose. For instance, the action gained from
+haste lets you only Stride or Strike, so if you need to
+lose one action because you’re also slowed, you might
+decide to lose the action from haste, letting you keep
+your other actions that can be used more flexibly.
+Some conditions prevent you from taking a certain
+subset of actions, typically reactions. Other conditions
+simply say you can’t act. When you can’t act, you’re
+unable to take any actions at all. Unlike slowed or
+stunned, these don’t change the number of actions you
+regain; they just prevent you from using them. That
+means if you are somehow cured of paralysis on your
+turn, you can act immediately.

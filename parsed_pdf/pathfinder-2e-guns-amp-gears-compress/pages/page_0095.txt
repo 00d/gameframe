@@ -1,0 +1,121 @@
+STEAM CART
+VEHICLE 2
+RARE
+LARGE
+Price 120 gp
+A steam cart looks like a cart with an alchemical cauldron
+that produces steam to power the cart’s movement through
+a simple engine.
+Space 10 feet long, 5 feet wide, 4 feet high
+Crew 1 pilot; Passengers 1
+Piloting Check Driving Lore (DC 16) or Crafting (DC 18)
+AC 12; Fort +8
+Hardness 5; HP 30 (BT 15); Immunities object immunities
+Speed 25 feet (alchemical)
+Collision 2d8 (DC 16)
+Steam Cloud Whenever the steam cart takes collision
+damage, its engine expels a dense cloud of steam in
+a 5-foot emanation. The steam cart and all creatures in
+the steam become concealed, and creatures outside the
+steam become concealed to creatures within it. The steam
+dissipates in 1 round.
+CLOCKWORK WAGON
+VEHICLE 3
+UNCOMMON
+LARGE
+Price 160 gp
+A clockwork wagon is a slow, bulky wagon with cogs and
+gears running all along its interior and exterior, allowing it
+to pull about twice as much cargo as an ordinary wagon.
+However, it has less passenger space than an ordinary cart.
+Space 10 feet long, 10 feet wide, 7 feet high
+Crew 1 pilot; Passengers 2
+Piloting Check Driving Lore (DC 18) or Crafting (DC 20)
+AC 14; Fort +9
+Hardness 5; HP 48 (BT 24); Immunities object immunities
+Speed 20 feet (clockwork)
+Collision 3d6 (DC 16)
+Hauler This vehicle is designed to transport heavy cargo over
+long distances. It can hold 400 Bulk of cargo.
+Sluggish This vehicle must move twice its length for each
+90-degree turn it makes.
+Wind-Up 1 hour of wind-up, 8 hours of operational time, DC
+18, standby
+SAND DIVER
+VEHICLE 3
+UNCOMMON
+LARGE
+Price 155 gp
+A sand diver is a vaguely scorpion-shaped vehicle that uses
+alchemical reactions to propel itself. The tail-like structure
+acts as a heat sink and releases alchemical fumes behind the
+diver as it burrows. Instead of pincers, it has two burrowing
+mechanisms in front that allow it to dig through sand.
+Space 15 feet long, 6 feet wide, 6 feet high
+Crew 1 pilot; Passengers 2
+Piloting Check Driving Lore (DC 18) or Crafting (DC 20)
+AC 14; Fort +9
+Hardness 5; HP 42 (BT 21); Immunities object immunities
+Speed 20 feet, burrow 10 feet (alchemical)
+Collision 2d10 (DC 18)
+Shard Trail A sand diver can only burrow through sand,
+using the heat and flame from its alchemical core to slowly
+dig its way through. The alchemical fumes left behind
+become trapped belowground as it Burrows, temporarily
+catalyzing fragments of sand into a glass‑like byproduct.
+Creatures that Burrow through a space this vehicle has
+Burrowed through within the last 24 hours take 1d12
+piercing damage from the shards (DC 17 basic Fortitude
+save). A creature that continues Burrowing through
+a stretch of the same space the sand diver recently
+Burrowed through must continue to attempt this save
+the first time each round that it Burrows through the
+shards.
+Sluggish This vehicle must move twice its length for each
+90-degree turn it makes.
+STEAM TROLLEY
+VEHICLE 4
+RARE
+LARGE
+Price 250 gp
+A steam trolley is essentially a much bigger steam cart, with
+a heavier-duty alchemical cauldron and furnace feeding into
+a larger steam engine.
+Space 15 feet long, 10 feet wide, 8 feet high
+Crew 1 pilot, 1 crew; Passengers 6
+Piloting Check Driving Lore (DC 19) or Crafting (DC 21)
+AC 15; Fort +11
+Hardness 5; HP 50 (BT 25); Immunities object immunities
+Speed 25 feet (alchemical)
+Collision 3d8 (DC 19)
+ARMORED CARRIAGE
+VEHICLE 5
+UNCOMMON
+LARGE
+Price 400 gp
+Slow but steady, an armored carriage combines clockwork
+with a protective hull for a safe and comfortable ride.
+Space 10 feet long, 10 feet wide, 10 feet high
+Crew 1 pilot; Passengers 3
+Piloting Check Driving Lore (DC 20) or Crafting (DC 22)
+AC 19; Fort +12
+Hardness 5; HP 70 (BT 35); Immunities object immunities
+Speed 25 feet (clockwork)
+Collision 3d10 (DC 20)
+Weapon Mount This vehicle has one rear weapon mount
+that can be equipped with a ranged weapon. At purchase,
+this weapon mount is empty. Installing or uninstalling a
+weapon into this mount requires 10 minutes, a successful
+DC 20 Crafting check, as well as an appropriate weapon
+to install.
+Wind-Up 10 minutes of wind-up, 1 hour of operational time,
+DC 20, standby
+FIREFLY
+VEHICLE 5
+UNCOMMON
+LARGE
+Price 450 gp
+A firefly blends magic and technology, using electricity
+magic and magnetism to hover just above the ground.
+94
+94

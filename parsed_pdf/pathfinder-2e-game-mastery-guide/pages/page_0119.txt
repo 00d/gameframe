@@ -1,0 +1,119 @@
+DISEASES
+Exposure to disease can be a hazard, such as when PCs come
+into contact with a plague-ridden corpse; such hazards
+grant XP as a simple hazard of the disease’s level. When
+a disease gives a sickened condition that can’t be reduced
+until it runs its course, that typically means the disease has
+symptoms such as a difficulty swallowing, loss of appetite,
+or nausea that make eating and drinking difficult but not
+impossible. Despite the condition’s prohibition on eating
+or drinking, a creature can slowly and carefully eat and
+drink as long as they aren’t in an encounter.
+BOG ROT
+DISEASE 0
+DISEASE
+Sometimes called bog foot, bog rot is caused by having
+waterlogged feet for an extended period of time. In addition to
+the usual cures for an affliction, bog rot can be cured through
+amputation of the affected appendages.
+Saving Throw DC 13 Fortitude; Onset 1 day; Stage 1 clumsy
+1 (1 day); Stage 2 clumsy 1 and a –5‑foot status penalty
+to Speed (1 day); Stage 3 clumsy 2 and a –10‑foot status
+penalty to Speed (1 day)
+SCARLET FEVER
+DISEASE 1
+DISEASE
+The relatively simple sore throat caused by this disease leads
+many victims to initially dismiss it as a mild illness, but scarlet
+fever can be deadly if left untreated. You can’t reduce your
+sickened condition while affected with scarlet fever.
+Saving Throw DC 13 Fortitude; Onset 2 days; Stage 1 sickened
+1 (1 day); Stage 2 sickened 2 (1 day); Stage 3 sickened 3 and
+can’t speak (1 day); Stage 4 death
+TETANUS
+DISEASE 1
+DISEASE
+An infection introduced through open wounds, tetanus can
+produce stiffness, muscle spasms strong enough to break
+bones, and ultimately death.
+Saving Throw DC 14 Fortitude; Onset 10 days; Stage 1 clumsy
+1 (1 week); Stage 2 clumsy 2 and can’t speak (1 day); Stage 3
+paralyzed with spasms (1 day); Stage 4 death
+TUBERCULOSIS
+DISEASE 1
+DISEASE
+An extended respiratory disease, tuberculosis can pose
+particular challenges to spellcasters and some performers due
+to the intense coughing fits it produces.
+Saving Throw DC 15 Fortitude; Onset 1 week; Stage 1 carrier
+with no effects (1 week); Stage 2 coughing requires you to
+succeed at a DC 5 flat check to Cast a Spell with a verbal
+component or Activate an Item with a command component
+(1 week); Stage 3 fatigued, can’t recover from the fatigued
+condition, and coughing requires a successful DC 15 flat
+check to Cast a Spell with a verbal component or Activate
+an Item with a command component (1 week); Stage 4
+unconscious (1 week); Stage 5 death
+MALARIA
+DISEASE 2
+DISEASE
+A pernicious disease spread by bloodsucking insects, malaria
+sometimes enters long periods of dormancy. If you succumb
+to malaria, you may continue to be periodically affected by the
+disease, even if you’re cured. You can’t reduce your sickened
+condition while affected with malaria.
+ Saving Throw DC 16 Fortitude; Onset 10 days; Stage 1
+sickened 1 (1 day); Stage 2 sickened 2 (1 day); Stage 3
+sickened 2, and disease recurs every 1d4 months even if
+cured (1 day); Stage 4 unconscious (1 day); Stage 5 death
+BUBONIC PLAGUE
+DISEASE 3
+DISEASE
+This widespread illness can sweep through entire communities,
+leaving few unaffected. The first indication of the disease is
+a telltale swelling of glands. In some cases, the disease can
+move into your lungs (pneumonic plague) or blood (septicemic
+plague), which is even more fatal. If you have bubonic plague,
+you can’t remove the fatigued condition while affected.
+Saving Throw DC 17 Fortitude; Onset 1 day; Stage 1 fatigued
+(1 day); Stage 2 enfeebled 2 and fatigued (1 day); Stage 3
+enfeebled 3, fatigued, and take 1d6 persistent bleed damage
+every 1d20 minutes (1 day)
+SCARLET LEPROSY
+DISEASE 4
+DISEASE
+VIRULENT
+Scarlet leprosy is widely feared for its devastating effects,
+crushing bones and organs while making recovery nearly
+impossible. Damage taken from scarlet leprosy can’t be healed
+until the disease is cured.
+Saving Throw DC 19 Fortitude; Onset 1 day; Stage 1 2d6
+bludgeoning damage (1 day); Stage 2 2d6 bludgeoning
+damage, and whenever you gain the wounded condition,
+increase the condition value by 1 (1 day); Stage 3 4d6
+bludgeoning damage and can’t heal any Hit Point damage
+(1 day)
+BONECHILL
+DISEASE 5
+DISEASE
+NECROMANCY
+PRIMAL
+If you are wounded and exposed to persistent cold, you might
+contract bonechill.
+Saving Throw DC 20 Fortitude; Onset 1 day; Stage 1 clumsy 1
+(1 day); Stage 2 clumsy 2 and can’t heal cold damage until
+this disease is cured (1 day); Stage 3 clumsy 3 and all cold
+temperature effects are one step more severe for the victim
+(Core Rulebook 517) (1 day); Stage 4 paralyzed and all cold
+temperature effects are one step more severe for the victim
+(1 day)
+CHOKING DEATH
+DISEASE 6
+DISEASE
+This disease is capable of wiping out nations or even entire
+continents. A few pockets of the disease still remain in Iobaria,
+keeping that region’s population sparse.
+Saving Throw DC 22 Fortitude; Onset 1 day; Stage 1 hoarse
+Gamemastery Guide
+118
+118

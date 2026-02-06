@@ -1,0 +1,167 @@
+Varying Statistics
+Table 11–3 indicates the item level and Price of a
+scroll, both of which are based on the level of the spell
+contained on the scroll. Any costs to Cast the Spell are
+added to the scroll’s Price when the scroll is crafted, so
+a scroll containing a spell with a Cost entry will have a
+higher Price than what appears on the table. The scroll’s
+rarity matches the spell’s rarity.
+The traits for a scroll vary based on the spell it contains.
+A scroll always has the consumable, magical, and scroll
+traits, plus the traits of the spell stored on it.
+TABLE 11–3: SCROLL STATISTICS
+
+Spell Level
+Item Level
+Scroll Price
+
+1
+1
+4 gp
+
+2
+3
+12 gp
+
+3
+5
+30 gp
+
+4
+7
+70 gp
+
+5
+9
+150 gp
+
+6
+11
+300 gp
+
+7
+13
+600 gp
+
+8
+15
+1,300 gp
+
+9
+17
+3,000 gp
+
+10
+19
+8,000 gp
+Crafting a Scroll
+The process to Craft a scroll is much like that to Craft any
+other magic item. When you begin the crafting process,
+choose a spell to put into the
+scroll. You have to either Cast
+that Spell during the crafting
+process, or someone else must
+do so in your presence. Casting
+that Spell doesn’t produce its normal
+effects; instead, the magic is trapped
+inside the scroll. The casting must come
+from a spellcaster expending a spell slot.
+You can’t Craft a scroll from a spell
+produced from another magic item, for
+example. The caster has to provide any
+cost of the spell.
+Like other consumables, scrolls can be crafted
+in batches of four. All scrolls of one batch must
+contain the same spell at the same level, and you
+must provide one casting for each scroll crafted.
+Sample Scrolls
+A wide variety of spells can appear on scrolls. The
+following specific scrolls are just examples.
+SCROLL OF GLITTERDUST
+ITEM 3
+CONSUMABLE
+ EVOCATION
+ MAGICAL
+ SCROLL
+Price 12 gp
+Usage held in 1 hand; Bulk L
+Activate [two-actions] Cast a Spell
+This scroll can be used to cast glitterdust as a 2nd-level spell.
+Craft Requirements Supply one casting of glitterdust.
+SCROLL OF ILLUSORY DISGUISE
+ITEM 1
+CONSUMABLE
+ ILLUSION
+ MAGICAL
+ SCROLL
+Price 3 gp
+Usage held in 1 hand; Bulk L
+Activate [two-actions] Cast a Spell
+This scroll can cast illusory disguise as a 1st-level spell.
+Craft Requirements Supply one casting of illusory disguise.
+Talismans
+An item with the talisman trait is a magical charm, gem,
+stone, or other small object affixed to armor, a shield, or
+a weapon (called the affixed item). Each talisman holds a
+sliver of combat knowledge or magical energy that can be
+unleashed for a momentary boost of power or enhanced
+ability. Many talismans can be activated as a free action
+when you use a particular action or activity. A talisman is
+a consumable item and has the talisman trait.
+You must be wielding or wearing an item to activate a
+talisman attached to it. Once activated, a talisman burns
+out permanently, usually crumbling into a fine dust.
+Affixing a Talisman
+Each talisman’s stat block indicates the type of item it
+can be affixed to. Affixing or removing requires using
+the Affix a Talisman activity. A single talisman can be
+affixed to only one item at a time, and an
+item can have only one talisman affixed to
+it at a time.
+AFFIX A TALISMAN
+EXPLORATION
+ MANIPULATE
+Requirements You must use a repair kit (page
+291).
+You spend 10 minutes affixing a talisman to an
+item, placing the item on a stable surface and
+using the repair kit with both hands. You can
+also use this activity to remove a talisman. If
+more than one talisman is affixed to an item,
+the talismans are suppressed; none of them
+can be activated.
+Talismans
+These are but a few of the talismans available.
+BLOODSEEKER BEAK
+ITEM 4
+CONSUMABLE
+ MAGICAL
+ NECROMANCY
+ TALISMAN
+Price 20 gp
+Usage affixed to a weapon; Bulk —
+Activate [free-action] envision; Trigger You hit a flat-footed creature
+with the affixed weapon.
+This long, hollow proboscis is harvested from the notorious
+bloodseeker beast and drips a trickle of blood. When you
+activate the beak, you deal an extra 1d4 precision damage
+565
+11
+Crafting & Treasure
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

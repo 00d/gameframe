@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# MEGAPRIMATUS
+# MEGAPRIMATUS
 ================================================================================
 
 Frightening Display ʚʖ (auditory, emotion, fear, mental) The
@@ -20,7 +20,7 @@ quick to confront any perceived intrusions into its
 domain. With a height of 40 feet, it towers over even
 most giants, and is used to being the top-tier predator
 in the region.
-MEGAPRIMATUS
+MEGAPRIMATUS
 CREATURE 8
 N
 GARGANTUAN
@@ -55,9 +55,20 @@ roughly akin to an elite gorilla.
 PAGE 25
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668877
+4425034
 Bestiary
+24
 Arboreal
-Arboreals are guardians of the forest and representatives of the trees. As longlived as the woods they watch over, arboreals consider themselves parents and
+Arboreals are guardians of the forest and representatives of the trees. As long-
+lived as the woods they watch over, arboreals consider themselves parents and
 shepherds of trees rather than their gardeners. Consequently, while arboreals
 tend to be slow and methodical, they are terrifyingly swift when forced to ﬁght
 in defense of the woods. Though they rarely seek out the companionship of
@@ -86,71 +97,66 @@ wardens do not pretend to understand to other
 creatures’ motives—like most forces of the natural
 world, they are ambivalent about mortal affairs that do
 not involve their forest.
-
-================================================================================
-# MARILITH
-================================================================================
-
-(×3); 4th clairvoyance (×3), dimension door (at will); 2nd invisibility (at will);
-Constant (7th) ﬂy, true seeing
-Divine Rituals DC 36; Abyssal pact
-Enfeebling Bite (divine, necromancy) If the
-shemhazian’s jaws Strike damages a creature, the
-target is enfeebled 3. The target can attempt a DC
-37 Fortitude save to reduce this to
-enfeebled 1 (or be unaﬀected on a
-critical success).
-Focused Gaze Ȱɵ (concentrate, divine,
-enchantment, incapacitation, visual)
-The shemhazian focuses their gaze
-on a non-evil creature they can see
-within 30 feet. If that creature isn’t
-already slowed by the shemhazian’s
-paralyzing gaze, it must attempt a save
-against the shemhazian’s paralyzing gaze. If that
-creature is slowed, it must succeed at a DC 35
-Fortitude save or be paralyzed for 1 round. A
-shemhazian can’t use this ability against the
-same creature more than once per round.
-Rend Ȱɵ claw
-Marilith (Pride Demon)
-Mariliths are the generals of the Abyss, formed from the souls of proud evil
-mortals, often warlords and despots. They appear as tall and powerfully built
-humans from the waist up with snake tails and six arms. Because of Lamashtu’s
-prominence over other demonic deities, most pride demons encountered by
-mortals take female form, but they can be of any gender.
-Mariliths are among the greatest tacticians in the Abyss, and they have an
-almost supernatural knack for understanding the ripples of chaos and the
-unpredictable nature of demonic life. Their ability to command armies rises as
-much from their commanding presence as it does their ability to read into the
-potential results of any possible act and a sufﬁcient understanding of the ﬂow of
-entropy to allow them to predict likely outcomes.
-MARILITH
-CREATURE 17
-CE
+ARBOREAL WARDEN
+ CREATURE 4
+NG
 LARGE
-DEMON
-FIEND
-Perception +30; darkvision, true seeing
-Languages Abyssal, Celestial, Draconic; telepathy 100 feet
-Skills Acrobatics +33, Deception +30, Diplomacy +30, Intimidation +32,
-Religion +29, Stealth +29, Warfare Lore +31
-Str +8, Dex +6, Con +6, Int +4, Wis +4, Cha +7
-Items longsword (6)
-AC 40; Fort +31, Ref +29, Will +27; +1 status to all saves vs. magic
-HP 380; Weaknesses cold iron 15, good 15
-Commander’s Aura (aura, divine, enchantment) 100 feet. Commanded
-or allied evil creatures in the aura of lower level than the marilith
-gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves,
-and skill checks.
-Failure Vulnerability A marilith’s pride feeds their strength, so the sting of
-failure wounds them. If the marilith uses a damaging spell or makes a Strike on
+PLANT
+Perception +11; low-light vision
+Languages Arboreal, Common, Sylvan
+Skills Athletics +13, Stealth +9 (+14 in forests)
+Str +5, Dex +1, Con +3, Int +1, Wis +3, Cha +1
+Items large bark shield (Hardness  3, Hit Points 20,
+BT 10), stone longsword
+AC 20 (22 with shield raised); Fort +13, Ref +9,
+Will +11
+HP 75; Weaknesses axe vulnerability, ﬁre 10;
+Resistances bludgeoning 5, piercing 5
+Axe Vulnerability An arboreal warden takes 5 additional
+damage from axes.
+Attack of Opportunity Ǻȓ
+Shield Block Ǻȓ
+Speed 25 feet
+Melee Ȱɵ stone longsword +13 (reach 10 feet),
+Damage 1d8+10 bludgeoning
+Melee Ȱɵ shield bash +13, Damage 1d6+10
+bludgeoning
+Shield Push ʚʖ The arboreal warden Strides
+and then makes a shield bash Strike. If the
+attack hits, the target is pushed 10 feet.
+FELLED ARBOREALS
+Arboreals have a great respect for
+dead members of their species. Their
+elaborate burial rituals involve laying
+the fallen arboreal down in a mossy
+bed in the center of a grove of
+saplings. The decomposing arboreal
+nourishes the saplings, ensuring the
+growth of a new generation of trees.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668877
+4425034
 
-================================================================================
 PAGE 83
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668935
+4425092
 Bestiary
+82
 their turn but doesn’t deal any damage that turn, they take 3d6+10 mental damage at the
 end of their turn and their commander’s aura deactivates until the end of their next turn.
 Attack of Opportunity Ǻȓ A marilith gains 5 extra reactions per round that they can use
@@ -221,11 +227,40 @@ fecundity of demonic life is
 perhaps the greatest—and most
 threatening—aspect of these
 dangerous ﬁends.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668935
+4425092
 
-================================================================================
 PAGE 84
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668936
+4425093
+D
+83
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 OTHER DEMONS
 The Abyss may be the largest of
 the Outer Planes, and mortals
@@ -253,50 +288,96 @@ demon lord. These balor lords are each unique creatures of 21st to 25th level in
 power who rule their own realm in the Abyss. In time, a balor lord can further
 develop into a unique creature with wildly different powers, even ascending to the
 role of a true demon lord.
+BALOR
+CREATURE 20
+CE
+LARGE
+DEMON
+FIEND
+Perception +36; darkvision, true seeing
+Languages Abyssal, Celestial, Draconic; telepathy 100 feet
+Skills Acrobatics +35, Athletics +37, Deception +36, Diplomacy +32, Intimidation +38,
+Religion +32, Society +32, Stealth +33
+Str +9, Dex +7, Con +9, Int +6, Wis +6, Cha +8
+Items longsword
+AC 45; Fort +39, Ref +35, Will +34; +1 status to all saves vs. magic
+HP 480; Immunities ﬁre; Weaknesses cold 20, cold iron 20, good 20
+Aura of Flame (aura, divine, evocation, ﬁre) 20 feet. A foe that starts its turn in the
+aura takes 3d6+10 ﬁre damage, or 6d6+20 ﬁre damage if the balor has grabbed or
+restrained it. A creature that hits a balor with an unarmed Strike takes 3d6+10 ﬁre
+damage, and weapons that hit a balor take 3d6+10 ﬁre damage.
+Attack of Opportunity Ǻȓ The balor can use Attack of Opportunity when a creature within
+their reach uses a concentrate action, in addition to its normal trigger. They can disrupt
+triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit.
+Death Throes (death, divine, evocation, ﬁre) When a balor dies, their body explodes in
+a 100-foot aura of intense demonic ﬂame. All creatures and objects in range take
+16d10 ﬁre damage (DC 45 basic Reﬂex save). Because the ﬂame is infused with
+Abyssal energy, creatures in the area apply only half their usual ﬁre resistance.
+Creatures with immunity to ﬁre use an outcome one degree of success better than
+what they rolled, instead of gaining the usual beneﬁt of immunity. The bodies of
+creatures reduced to 0 Hit Points by a balor’s death throes are completely incinerated
+into ﬁne ash.
+Speed 35 feet, ﬂy 70 feet
+Melee Ȱɵ vorpal cold iron silver longsword +40 (evil, magical, reach 10 feet, versatile P),
+Damage 4d8+17 slashing plus 1d6 evil
+Melee Ȱɵ cold iron silver ﬂame whip +40 (disarm, evil, ﬁre, magical, reach 20 feet, trip),
+Damage 4d6+17 ﬁre plus 1d6 evil, Improved Grab, and whip reposition
+Divine Innate Spells DC 44; 10th dimension door, divine decree (×2); 8th dispel magic (at
+will); 6th dominate (at will); 5th dimension door (at will); Cantrips (10th) telekinetic
+projectile; Constant (6th) true seeing
+Divine Rituals DC 44; Abyssal pact
+Dimensional Dervish A balor can cast their 5th-level innate dimension door with only a
+single action.
+Dispelling Strike Ȳ˓ Frequency once per round. Trigger The balor hits a creature, object,
+or spell eﬀect with a weapon Strike. Eﬀect The balor casts an innate dispel magic on
+the target of the triggering Strike.
+Infuse Weapons (divine, evocation) Any weapon a balor wields becomes a +3 major
+striking vorpal weapon made of cold iron and silver while the demon holds it. A
+weapon that isn’t eligible for the vorpal rune doesn’t gain its eﬀects. The balor can
+change its evil damage to chaotic whenever it attacks. The demon can conjure a whip
+made of ﬂames with an Interact action. This whip gains the same beneﬁts as other
+weapons the balor wields.
+Lifedrinker Ȳ˓ (divine, healing, necromancy) Trigger The balor kills a living creature that
+is at least 15th level. Eﬀect The balor drinks the triggering creature’s life force and
+regains 10d8+80 Hit Points.
+Whip Reposition When a balor grabs a creature with a whip Strike, they can move the
+creature to any space in the whip’s reach. The balor can move without ending the grab
+as long as the creature remains within the whip’s reach, and the balor can move the
+creature to any other space in the whip’s reach with an Interact action.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19668936
+4425093
 
-================================================================================
-# MAMMOTH
-================================================================================
-
-Grabbing Trunk A Medium or smaller creature hit by the elephant’s
-trunk is grabbed. If the elephant moves, it can bring the grabbed
-creature along with it.
-Trample ̂ˬ Large or smaller, foot, DC 24
-Mammoth
-Found mostly in colder climates, mammoths are accustomed to
-dealing with desperate and dangerous predators, trampling
-and crushing their enemies while using their larger tusks
-to greater effect. Humanoids dwelling in harsh,
-frost‑bound lands rely on the mammoth’s strength
-to help them survive.
-MAMMOTH
-CREATURE 10
-N
-HUGE
-ANIMAL
-Perception +18; low-light vision, scent (imprecise) 30 feet
-Skills Athletics +22, Survival +19
-Str +8, Dex +1, Con +5, Int –4, Wis +1, Cha –2
-AC 29; Fort +21, Ref +15, Will +18; +2 status to all saves vs. cold
-HP 190
-Cold Adaptation The mammoth reduces the eﬀects it suﬀers
-from cold environments by one step.
-Speed 45 feet
-Melee Ȱɵ tusk +22 (reach 15 feet), Damage 3d8+12 piercing
-Melee Ȱɵ trunk +22 (reach 15 feet), Eﬀect grabbing trunk
-Melee Ȱɵ foot +22 (reach 10 feet), Damage 2d10+12
-bludgeoning
-Dual Tusks Ȱɵ The mammoth makes two tusk Strikes,
-each against a diﬀerent creature. This counts as one
-attack for the mammoth’s multiple attack penalty, and
-the penalty doesn’t increase until after both attacks.
-Grabbing Trunk As elephant.
-Trample ̂ˬ Large or smaller, foot, DC 28
-
-================================================================================
 PAGE 156
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669008
+4425165
+E-G
+155
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ETHER SPIDER FOES
 The Ethereal Plane is a sparsely
 populated realm in comparison
@@ -339,90 +420,60 @@ seen in the same vicinity twice. Sometimes a point of interest on the
 neighboring Material Plane compels them to tether their nest to an area,
 creating a semipermanent home, and those who learn its location can
 return to it repeatedly.
-
-================================================================================
-# MARID
-================================================================================
-
-
-SHAITAN PASHAS
-Shaitan pashas fulﬁll wishes as
-eﬃciently as possible. A wish
-granted might create a temporary
-reality—a wish for a pet dragon
-might ﬁnd the dragon lasts only
-a day before it vanishes or dies.
-Shaitan pashas add the following
-to their innate spells: 8th
-earthquake; 6th ﬂesh to stone,
-stoneskin (at will; self only).
-Elemental Planes, or Material Plane only) 5th illusory object; 4th gaseous form,
-invisibility (×2); Cantrips (5th) produce ﬂame; Constant (5th) detect magic
-Burning Grasp (ﬁre) When the efreeti grabs a creature, that creature takes 2d6 ﬁre
-damage, and takes 2d6 ﬁre damage at the end of each of its turns as long as it
-remains grabbed.
-Change Size ʚʖ (arcane, concentrate, polymorph, transmutation); as janni (DC 29).
-Combat Grab Ȱɵ Requirements The efreeti has one hand free. Eﬀect The efreeti makes
-a melee Strike while keeping one hand free. If the Strike hits, the target is grabbed in
-the efreeti’s free hand.
-Marid
-Marids are capricious but powerful genies from the Plane of Water; among
-geniekind, they are rivaled in power only by the ﬁery efreet. Marids embody
-the strength of the ocean’s waves and currents, but they also have a gentler side,
-loving performance and art such as dancing, music, and storytelling.
-Marids regard efreet with hostility but rarely encounter them in their native
-environment. They get along with djinn, jann, and shaitans, although the
-latter consider marids ﬂighty and annoying, associating only long enough to
-close trade deals. Marid society has strict rules of hospitality, and many marid
-cities have a magically sealed foreign quarter where marid shahzadas conduct
-business with air-breathers.
-MARID
-CREATURE 9
-UNCOMMON
-CN
+ETHER SPIDER
+CREATURE 5
+N
 LARGE
-ELEMENTAL
-GENIE
-WATER
-Perception +18; darkvision, detect alignment, detect magic,
-wavesense (imprecise) 60 feet
-Languages Aquan, Common
-Skills Athletics +20 (+24 to swim), Crafting +16,
-Diplomacy +19, Nature +18, Performance +16,
-Society +14, Stealth +18
-Str +5, Dex +5, Con +4, Int +1, Wis +3,
-Cha +3
-Items +1 striking trident
-AC 28; Fort +18, Ref +21, Will +17
-HP 145; Resistances ﬁre 10
-Vortex (aura, water) 40 feet. Water in the aura that is also in the same body
-of water as the marid is diﬃcult terrain for Swimming creatures. Creatures
-with the water trait are immune.
-Speed 20 feet, swim 40 feet
-Melee Ȱɵ trident +21 (magical, reach 10 feet), Damage 2d8+11 piercing
-Melee Ȱɵ ﬁst +20 (agile, magical, nonlethal, reach 10 feet), Damage 1d4+11
-bludgeoning
-Ranged Ȱɵ trident +21 (magical, thrown 20 feet), Damage 2d8+11 piercing
-Arcane Innate Spells DC 28; 7th plane shift (at will; to Astral Plane, Elemental
-Planes, or Material Plane only) 5th control water (at will), hallucinatory terrain;
-4th hydraulic push (at will), hydraulic torrent, solid fog; 2nd blur (at will), illusory
-object; Constant (5th) detect magic; (1st) detect alignment (evil or good only)
-Change Shape Ȱɵ (arcane, concentrate, polymorph, transmutation) The marid can
-take on the appearance of any water elemental or humanoid. This ability
-doesn’t change the marid’s Speed or its attack and damage bonuses with
-its Strikes.
-Rush of Water ʚʖ (arcane, evocation, water) The marid releases a jet of water
-in a 60-foot line, dealing 9d6 bludgeoning damage (DC 28 basic Reflex save).
-A creature that fails its save is also pushed 10 feet (20 feet on a critical failure).
-The marid can’t use Rush of Water again for 1d4 rounds.
-Skewer Ȱɵ The marid makes a trident Strike, dealing an extra 2d6
-persistent bleed damage on a hit (4d6 on a critical hit).
+BEAST
+ETHEREAL
+Perception +12; darkvision
+Languages Aklo
+Skills Athletics +12, Stealth +15
+Str +5, Dex +4, Con +3, Int –2, Wis +1, Cha +7
+AC 21; Fort +12, Ref +15, Will +10
+HP 75
+Speed 40 feet, climb 20 feet
+Melee Ȱɵ fangs +15 (magical), Damage 1d10+7 piercing plus ether spider venom and Grab
+Ranged Ȱɵ web +14 (magical, range increment 30 feet); Eﬀect ethereal web trap
+Ether Spider Venom (poison); Saving Throw DC 22 Fortitude; Maximum Duration
+6 rounds; Stage 1 1d6 poison damage and clumsy 1 (1 round); Stage 2 2d6 poison
+damage, clumsy 2 and slowed 1 (1 round); Stage 3 3d6 poison damage, clumsy 3 and
+slowed 2 (1 round)
+Ethereal Step Ȱɵ The ether spider shifts to either the Ethereal Plane or the Material
+Plane. The ether spider can remain on the Ethereal Plane indeﬁnitely without ill
+eﬀect. While there, it can see clearly onto the Material Plane with a range of 60
+feet. On its ﬁrst round in an encounter, the ether spider can use this ability once as
+a free action.
+Ethereal Web Trap A creature hit by the ether spider’s web attack is immobilized and
+stuck to the nearest surface (Escape DC 22).
+Web Burst ʚʖ Frequency once per day; Eﬀect The ether spider ﬂings a gout of stored
+webs in a 30-foot cone. These webs can pass between the Material Plane and the
+Ethereal Plane. Each creature in the area is immobilized, as ethereal web trap, unless
+it succeeds at a DC 22 Reﬂex save.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669008
+4425165
 
-================================================================================
 PAGE 167
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669019
+4425176
 Bestiary
+166
 CUSTOM GHOSTS
 Ghosts work best in adventures
 when used sparingly. As they are
@@ -447,11 +498,11 @@ Creating a Ghost
 While it’s best to create custom ghosts to ﬁll an adventure’s speciﬁc needs, you
 can also use the following guidelines to turn existing living creatures into ghosts.
 First, increase the creature’s level by 2 and change its statistics as follows.
-• Increase AC, saves, Perception, DCs, and skill modiﬁers by 2. Increase
+•	 Increase AC, saves, Perception, DCs, and skill modiﬁers by 2. Increase
 the most appropriate melee attack modiﬁer by 4 to become ghostly hand
 (described below), and other attack modiﬁers by 2.
-• A ghost has a Strength modiﬁer of –5 and a Constitution modiﬁer of +0.
-• Do not modify the ghost’s Hit Points due to its new level.
+•	 A ghost has a Strength modiﬁer of –5 and a Constitution modiﬁer of +0.
+•	 Do not modify the ghost’s Hit Points due to its new level.
 GHOST ABILITIES
 A ghost gains the incorporeal, spirit, and undead traits. Many become evil. If the
 base creature has any abilities or traits that come from it being a living, corporeal
@@ -488,20 +539,50 @@ Frightful Moan ʚʖ (auditory, divine, emotion, enchantment, fear, mental) The g
 laments its fate, forcing each living creature within 30 feet to attempt a Will save.
 On a failure, a creature becomes frightened 2 (or frightened 3 on a critical failure).
 On a success, a creature is temporarily immune to this ghost’s frightful moan for
-1 minute.
+1 minute.
 Inhabit Object Ȱɵ The ghost possesses an object of size Large or smaller within 20 feet,
 making it an animated object (pages 20–21). This animated object’s level can be no
 higher than the ghost’s level – 2. If the target object is being held by a creature, the
 bearer can attempt a Will save to prevent the possession. This possession ends when
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669019
+4425176
 
-================================================================================
 PAGE 168
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669020
+4425177
+E-G
+167
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 BUILDING GHOSTS
 Note that the ghost mage is built
 from the ground up, rather than by
-applying the ghost rules to a onceliving creature, so its numbers
+applying the ghost rules to a once-
+living creature, so its numbers
 don’t exactly match the values
 listed above. This is usually the
 better way to go if you have the
@@ -518,95 +599,94 @@ small objects and debris ﬂy about in a 30-foot emanation. Creatures in this ar
 Ghost commoner
 The ghost commoner is an ordinary person who believes they died unjustly,
 usually due to foul play or betrayal.
-
-================================================================================
-# MANTICORE
-================================================================================
-
-
-Bestiary
-MANTICORE TREASURE
-A manticore enjoys taking plunder
-from the corpses of its prey as
-trophies that ﬂatter its vanity and
-testify to its strength. It has little
-interest in money, but sometimes
-accepts gold and jewels as tribute.
-Manticore
-The manticore is a monstrous amalgamation of lion, dragon, and human with a
-penchant for feasting on human ﬂesh. Its distinctive tail is festooned with large
-quills like those of a porcupine, which the manticore ﬂings at prey by whipping
-its tail like a sling. These deadly spikes give the manticore the power to slaughter
-even well-armed warriors from the safety of the sky.
-Although the anthropomorphic face of the manticore suggests a keen intellect,
-most creatures of its kind are simple-minded killers. They can be clever liars,
-however, and their voices have a strangely musical sound that has lured many
-unwitting travelers into an ambush. A manticore discovered by uneducated
-humanoids (especially those who are both lawful and evil) can sometimes become
-the center of adoration and even worship; a manticore in this situation swiftly
-gives in to its laziness and allows its acolytes to bring it tribute in the form of
-food and treasure, feasting upon its own followers when offerings become scarce.
-Stronger humanoids who encounter a manticore can cow it through intimidation
-and violence, sometimes even forcing it into service as a mount. As long as the
-manticore is well fed with human ﬂesh and its master leads it to victory, a manticore
-mount can prove surprisingly loyal.
-MANTICORE
-CREATURE 6
-LE
-LARGE
-BEAST
-Perception +14; darkvision, scent (imprecise) 30 feet
+GHOST COMMONER
+CREATURE 4
+CE
+MEDIUM
+GHOST
+INCORPOREAL
+SPIRIT
+UNDEAD
+Perception +10; darkvision
 Languages Common
-Skills Acrobatics +10, Athletics +15, Intimidation +11,
-Survival +12
-Str +5, Dex +2, Con +4, Int –2, Wis +2, Cha –1
-AC 23; Fort +16, Ref +12, Will +12
-HP 90
-Speed 25 feet, ﬂy 40 feet
-Melee Ȱɵ jaws +17, Damage 2d8+8 piercing
-Melee Ȱɵ claw +17 (agile), Damage
-2d6+8 slashing
-Ranged Ȱɵ
-spike
-+14
-(range
-increment 40 feet), Damage 1d10+5
-piercing
-Spike Volley Ȱɵ The manticore
-ﬂings up to two spikes from its
-tail, targeting either two diﬀerent
-creatures or a single creature. If
-the manticore targets two diﬀerent
-creatures, these creatures must be
-within 20 feet of one another, and
-the manticore makes a separate
-Strike against each; this counts as
-only one Strike for the manticore’s
-multiple attack penalty, and the
-penalty doesn’t increase until after
-both attacks. If the manticore ﬁres
-both spikes at the same creature, it
-makes a single Strike. If the attack hits, it
-deals the damage of a single spike, but the target
-is pinned in place, rendering it immobilized. A
-creature that succeeds at a DC 23 Athletics
-check (attempted as a single action) can
-pull the spike free.
-A manticore can hurl no more than 12
-spikes in 24 hours.
-MANTICORE LOCATIONS
-Manticores prefer lonely places
-in the wilderness far from
-humanoids, but they adapt
-easily to nearly any terrain.
-Manticores have been spotted in
-jungles, forests, deserts, and
-mountains.
+Skills Dwelling Lore +10 (applies to the place the ghost is bound to), Stealth +12
+Str –5, Dex +3, Con +0, Int +0, Wis +2, Cha +2
+Site Bound
+AC 20; Fort +8, Ref +11, Will +8
+HP 30, negative healing, rejuvenation; Immunities death
+eﬀects, disease, paralyzed, poison, precision, unconscious;
+Resistances all damage 5 (except force, ghost touch, or positive;
+double resistance vs. non-magical)
+Rejuvenation (divine, necromancy) Setting right the injustice that led to
+the commonerʼs death allows it to move on to the afterlife.
+Speed ﬂy 25 feet
+Melee Ȱɵ ghostly hand +13 (agile, ﬁnesse, magical), Damage 2d6+2 negative
+Frightful Moan Ȱɵ (auditory, divine, emotion, enchantment, fear, mental) DC 21
+Ghost Mage
+A wizard who died with a major project left undone might become a ghost
+mage, constantly seeking to ﬁnish its task in undeath.
+GHOST MAGE
+CREATURE 10
+CE
+MEDIUM
+GHOST
+INCORPOREAL
+SPIRIT
+UNDEAD
+Perception +17; darkvision
+Languages Common, Draconic
+Skills Arcana +22, Intimidation +22, Stealth +21
+Str –5, Dex +3, Con +0, Int +6, Wis +3, Cha +6
+Site Bound
+AC 27; Fort +16, Ref +19, Will +22
+HP 135, negative healing, rejuvenation; Immunities death
+eﬀects, disease, paralyzed, poison, precision, unconscious;
+Resistances all damage 10 (except force, ghost touch, or
+positive; double resistance vs. non-magical)
+Rejuvenation (divine, necromancy) Completing the ghost
+mage’s project allows it to move on to the afterlife.
+Speed ﬂy 25 feet
+Melee Ȱɵ ghostly hand +21 (agile, ﬁnesse, magical), Damage 2d8+12 negative
+Arcane Innate Spells DC 29, attack +23; 5th cone of cold, hallucination; 4th phantasmal
+killer, suggestion; 3rd blindness, dispel magic, nondetection; 2nd telekinetic maneuver
+(×2); 1st ray of enfeeblement (×2); Cantrips (5th) detect magic, ghost sound, mage
+hand, prestidigitation, read magic
+Frightful Moan Ȱɵ (auditory, divine, emotion, enchantment, fear, mental) DC 29
+Telekinetic Assault ʚʖ (divine, evocation) 6d6 bludgeoning, DC 29
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669020
+4425177
 
-================================================================================
 PAGE 234
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669086
+4425243
+L-N
+233
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 SACRED INSECTS
 Deadly mantises are sacrosanct to
 followers of Achaekek, the Mantis
@@ -628,120 +708,93 @@ forelegs and a bone-breaking bite.
 Giant Mantis
 These massive cousins of normal praying mantises stand taller than an average
 human. They stalk through dense forests, striking at meals from the trees.
+GIANT MANTIS
+CREATURE 3
+N
+LARGE
+ANIMAL
+Perception +9; darkvision
+Skills Acrobatics +8, Athletics +12, Stealth +12
+Str +5, Dex +3, Con +3, Int –5, Wis +2, Cha +0
+AC 20; Fort +10, Ref +12, Will +7
+HP 40
+Speed 25 feet, climb 25 feet, ﬂy 20 feet
+Melee Ȱɵ leg +12 (agile, reach 10 feet), Damage 1d10+5 piercing plus Grab
+Melee Ȱɵ mandibles + 12, Damage 1d12+5 piercing
+Deadly Mandibles Ǻȓ Trigger The giant mantis Grabs a creature with its leg. Eﬀect The mantis
+pulls the creature adjacent to it, then makes a mandibles Strike against the creature.
+Lunging Strike ʚʖ The giant mantis lunges forward, making a leg Strike with an
+extended reach of 20 feet.
+Sudden Strike On the ﬁrst round of combat, creatures that haven’t acted are ﬂat-footed
+to the giant mantis.
+Deadly Mantis
+These gigantic mantids make their homes within deep jungles and
+prehistoric forests where they hunt and devour
+equally massive prey.
+DEADLY MANTIS
+CREATURE 11
+N
+GARGANTUAN
+ANIMAL
+Perception +20; darkvision
+Skills Acrobatics +18, Athletics +25, Stealth +22
+Str +8, Dex +3, Con +5, Int –5, Wis +3, Cha –2
+AC 31; Fort +24, Ref +20, Will +18
+HP 220
+Speed 50 feet, climb 50 feet
+Melee Ȱɵ mandibles +25 (reach 10 feet),
+Damage 2d12+14 piercing
+Melee Ȱɵ leg +24 (agile, reach 20 feet), Damage
+2d10+14 piercing plus Grab
+Fling Ȱɵ The deadly mantis ﬂings a grabbed creature into the air, up to 30 feet overhead
+and up to 30 feet away from the mantis (the creature takes damage from the fall as
+normal). If the ﬂung creature lands on another creature, the creature it lands on takes
+the same amount of bludgeoning damage. The creature being landed on
+can attempt a DC 31 basic Reﬂex save.
+Leaping Grab ʚʖ The mantis Leaps up to 40 feet vertically and 20 feet
+horizontally. At any point during the jump, it can make a leg Strike.
+If it hits, it automatically Grabs the target, bringing the creature
+along until the end of the jump.
+Rending Mandibles Ȱɵ The mantis makes a mandibles Strike
+against a creature it has grabbed. If that Strike hits and
+the creature is wearing armor with Hardness 12 or
+lower, the armor is broken. This Strike doesn’t
+further damage armor that’s already broken.
+Sudden Strike As giant mantis.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669086
+4425243
 
-================================================================================
-# MEDUSA
-================================================================================
-
-
-Bestiary
-MEDUSA INFILTRATORS
-Rumors persist of disguised
-medusas acting as prominent
-members of criminal organizations
-such as the Sczarni in Riddleport and
-the Aspis Consortium in Port Peril,
-and their kind is known to thrive
-in metropolises including Absalom
-and Katapesh. Because they are so
-widespread, medusas resembling
-humans of every major ethnicity can
-be found in Avistan and Garund.
-Medusa
-Monstrous humanoids that resemble humans with snakes instead of hair,
-medusas are best known for their petrifying gazes that—if lingered upon—can
-permanently transform mortals to stone. Medusas are shrewd and manipulative
-adversaries who collect and covet secrets, and who use threats and guile to
-exploit the fears of weaker creatures. A medusa may seek out powerful magic
-items, use divination magic to discover secret knowledge and unlock forbidden
-power, or inﬁltrate a society to beguile inﬂuential politicians. Their ability to
-worm their way into powerful organizations makes them natural leaders of
-criminal outﬁts and thieves’ guilds, and their interest in magical phenomena
-leads some to pursue careers as oracles who offer to help adventurers ﬁnd what
-they seek—for a price. Of course, if wit and deception proves insufﬁcient, a
-medusa can always simply turn rivals into ornate stone decorations with little
-more than a glare.
-Exceptionally agile and surprisingly hardy, a medusa rarely backs down from
-a conﬂict even when cornered. Many adventurers who thought themselves
-readied to resist the effects of a medusa’s gaze have nevertheless fallen to a
-medusa, as these creatures are also often deadly archers able to riddle their
-foes with venom-coated arrows from a distance. Still, a medusa may
-barter for their life if no alternatives remain, and the secrets carried
-by these powerful villains often make it more than worth sparing the
-monster’s life.
-MEDUSA
-CREATURE 7
-LE
-MEDIUM
-HUMANOID
-Perception +16; darkvision
-Languages Common
-Skills Deception +16, Diplomacy +14, Stealth +16
-Str +2, Dex +5, Con +4, Int +2, Wis +1, Cha +2
-Items +1 composite shortbow (60 arrows), shortsword
-AC 25, all-around vision; Fort +15, Ref +16, Will +14
-HP 105
-Petrifying Gaze (arcane, aura, transmutation, visual) 30 feet. When a creature
-ends its turn in the aura, it must attempt a DC 25 Fortitude save. If the
-creature fails, it becomes slowed 1 for 1 minute. The medusa can
-deactivate or activate this aura by using a single action, which
-has the concentrate trait.
-Biting Snakes Ǻȓ Trigger A creature ends its turn
-adjacent to the medusa. Eﬀect The medusa makes
-a snake fangs Strike against the creature.
-Speed 25 feet
-Melee Ȱɵ shortsword +18 (agile, ﬁnesse, versatile S), Damage 1d6+8 piercing plus
-serpent venom
-Melee Ȱɵ snake fangs +16 (agile, ﬁnesse), Damage 1d4+8 piercing plus
-serpent venom
-Ranged Ȱɵ composite shortbow +19 (deadly 1d10, magical, propulsive, range
-increment 60 feet, reload 0), Damage 1d6+7 piercing plus serpent venom
-Focus Gaze Ȱɵ (arcane, concentrate, incapacitation, transmutation,
-visual) The medusa ﬁxes their glare at a creature they can see within
-30 feet. The target must immediately attempt a Fortitude save against
-the medusa's petrifying gaze. If the creature was already slowed by
-petrifying gaze before attempting its save, a failed save causes it to be
-petriﬁed permanently. After attempting its save, the creature is then
-temporarily immune until the start of the medusa's next turn.
-Serpent Venom (poison); Saving Throw DC 25 Fortitude; Maximum
-Duration 6 rounds; Stage 1 1d6 poison damage and enfeebled 1 (1
-round); Stage 2 2d6 poison damage and enfeebled 2 (1 round)
-
-================================================================================
 PAGE 236
 ================================================================================
 
-MERFOLK’S SECRET
-Some sailors claim that merfolk
-face a grave threat—a dark
-and sinister power capable of
-rendering even the most beautiful
-merfolk into a degenerate and
-mutated wretch. Such stories
-often end with claims that the
-merfolk, proud and noble as they
-seem, are unwitting puppets to
-some unknown entity lurking
-in the deepest depths of the
-seas. Merfolk themselves are
-characteristically tight-lipped
-about such claims.
-Merfolk
-Elegant, mysterious, and graceful; all this and more can be said of the merfolk.
-These enigmatic people resemble humanoids with delicate features from the waist
-up but with the ﬁns and tail of a massive ﬁsh from the waist down. Found in
-nearly all of Golarion’s oceans, merfolk are as varied in appearance as humans,
-their skin ranging from pale to umber and all shades in between, while their
-gleaming scales shimmer with the majesty of the sea.
-Merfolk Warrior
-Merfolk warriors form the bulk of the militias of their vast underwater realms
-and meet potential aggressors head-on with uncompromising force.
-
-================================================================================
-# MERFOLK WARRIOR
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669088
+4425245
+L-N
+235
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 MERFOLK’S SECRET
 Some sailors claim that merfolk
 face a grave threat—a dark
@@ -792,19 +845,6 @@ during their movement.
 Merfolk Wavecaller
 Merfolk wavecallers use their primal power to call forth allies and defend their
 people with deadly magic.
-
-================================================================================
-# MERFOLK WAVECALLER
-================================================================================
-
-1d8+2 piercing
-Aquatic Dash ʚʖ The merfolk warrior swims and attacks
-in one of two patterns. They either Swim twice and Strike
-one opponent at the end of their movement, or Swim once and Strike at any point
-during their movement.
-Merfolk Wavecaller
-Merfolk wavecallers use their primal power to call forth allies and defend their
-people with deadly magic.
 MERFOLK WAVECALLER
 CREATURE 2
 N
@@ -820,7 +860,7 @@ Items dagger
 AC 17; Fort +7, Ref +6, Will +10
 HP 30
 Speed 5 feet, swim 30 feet
-Melee Ȱɵ dagger +9 (agile, versatile S), Damage 1d4+3 piercing
+Melee Ȱɵ dagger +9 (agile, versatile S), Damage 1d4+3 piercing
 Ranged Ȱɵ dagger +9 (agile, thrown 10 feet, versatile S),
 Damage 1d4+3 piercing
 Primal Prepared Spells DC 18, attack +10; 1st charm, heal,
@@ -833,45 +873,30 @@ commands the tides to crush their foe’s throat, rooting the target in place an
 forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude save or
 become immobilized for 1 round and immediately lose 1d4 actions' worth of air (or twice
 that on a critical failure).
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669088
+4425245
 
-================================================================================
 PAGE 237
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669089
+4425246
 Bestiary
-CREATIVE MIMICS
-The older the mimic, the more
-creative its guise, but within
-practical limits. For example, a
-mimic can appear as a neatly
-organized bookshelf with a single
-book out of place, a dried-up
-cistern with something glittering
-at its center, or an inconspicuous
-wooden door with a conveniently
-placed peephole.
-Mimic
-Thought to be the result of a failed experiment meant to animate objects or a
-sinister alghollthu creation, mimics are clever monsters that can take the form
-of common manufactured objects. Mimics are ambush predators and voracious
-eaters, surprising their prey through their uncanny ability to mimic the form
-of common furniture and miscellany. They remain disguised until unsuspecting
-adventurers happen by, then they lash out in ambush.
-Mimics possess complex alien minds, and while often cruel and self-serving,
-they also enjoy conversation with their prey from time to time. For unknown
-reasons, they are especially interested in humanoids. Mimics have a strong dislike
-for others of their kind and tend to live alone. A mimic can remain in its alternate
-form for an extremely long period of time, sometimes remaining disguised in a
-dungeon chamber for decades. Regardless of how long
-it waits, the mimic remains vigilant and alert, ready to
-strike at any moment.
-
-================================================================================
-# MIMIC
-================================================================================
-
-
-Bestiary
+236
 CREATIVE MIMICS
 The older the mimic, the more
 creative its guise, but within
@@ -937,7 +962,7 @@ Eﬀect The triggering creature is automatically stuck by the
 mimic’s adhesive (it receives no save). The mimic then makes
 a pseudopod Strike against any creature adjacent to the mimic.
 Object Lesson can’t be used again until the mimic escapes and
-takes on a new disguise.
+takes on a new disguise.
 Speed 10 feet
 Melee Ȱɵ pseudopod +14, Damage 2d8+4 bludgeoning plus adhesive
 Mimic Object Ȱɵ (concentrate, polymorph) The mimic assumes
@@ -945,47 +970,40 @@ the shape of any Medium object. This doesn’t change the mimic’s
 texture or overall size but can alter its coloration and visual
 appearance. It has an automatic result of 28 on Deception checks
 and DCs to pass as the object that it's mimicking.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669089
+4425246
 
-================================================================================
 PAGE 238
 ================================================================================
 
-VARIANT MINOTAURS
-Most minotaurs are a simple
-blend of muscular humanoid and
-raging bull, but unusual variants
-and unique minotaurs may have
-diﬀerent physical features and
-abilities. Great-horned minotaurs
-can impale foes if they critically
-succeed on a charge, but they do
-not have the Hunted Fear ability.
-Shaggy minotaurs are covered
-in thick hair form head to toe,
-allowing them to live in freezing
-environments with ease and giving
-them resistance to cold damage,
-but their hooves are broad and
-heavy, making it impossible for
-them to charge.
-Minotaur
-Minotaurs are master hunters that dwell in cunning labyrinths or tangles of
-underground caverns meant to disorient and demoralize prey. These monstrous
-tormentors delight in the hunt, in the terror caused by closing in on prey, and in
-the very moment when the hunted realizes that they have lost the game. Only then
-will the minotaur charge in for the kill, cutting foes down with powerful strikes
-or impaling them on its sharp horns.
-Minotaurs are known to dwell in mazes, but they can also be found hiding in
-old ruins and other forgotten corners of the world. In any case, they are solitary
-creatures, only rarely sharing territory with others of their kind or even more
-powerful beings that have cowed them into service. Everyone else is little more
-than prey to be hunted.
-
-================================================================================
-# MINOTAUR
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669090
+4425247
+L-N
+237
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 VARIANT MINOTAURS
 Most minotaurs are a simple
 blend of muscular humanoid and
@@ -1041,7 +1059,7 @@ Strikes against any two foes who are adjacent to each other and within
 the minotaur’s reach. The multiple attack penalty does not increase
 until after both attacks are resolved.
 Hunted Fear Ȱɵ The minotaur snorts and clomps as it hunts its prey,
-inspiring terror. The minotaur makes an Intimidation check to
+inspiring  terror. The minotaur makes an Intimidation check to
 Demoralize all living creatures within 60 feet that can hear
 the minotaur but not see it. Roll once and apply the result
 to all creatures. If the targets are in a maze or similarly
@@ -1054,42 +1072,30 @@ trait. Each target is temporarily immune for 1 minute.
 Powerful Charge ʚʖ The minotaur Strides twice, then
 makes a horn Strike. If it moved at least 20 feet from its
 starting position, the Strike’s damage is increased to 2d8+10.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669090
+4425247
 
-================================================================================
 PAGE 239
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669091
+4425248
 Bestiary
-UNDERGROUND MOONS
-Mu spores dwell in vast caverns,
-their pallid underbellies glowing
-softly to give the eerie impression
-of a strangely shaped “moon”
-adrift near the darkened ceiling
-so far above. Caverns can be
-faintly lit by this illumination—an
-unnerving sight for any traveler
-not expecting light in such a
-lightless realm.
-Mu Spore
-A mu spore is a thankfully rare fungoid monstrosity of vast power and strange
-intellect. Even the smallest mu spores are never less than a hundred feet long from
-tentacle tip to tentacle tip, yet despite this vast bulk, they are capable of ﬂying
-with an uncommon grace, venting jets of foul-smelling spores to guide their ﬂight.
-Many societies tell tales of vast mu spores appearing over cities at the dawn of
-apocalyptic events, but they’re more than just ravenous eaters of nations. Mu spores
-often possess rare or esoteric knowledge, and if peaceful contact can be made, this
-lore can be quite valuable. Their spores can also be used to craft certain foul drugs
-or deadly alchemical poisons, but harvesting these ingredients is dangerous, as the
-spores are not viable for long once they’ve been shed, forcing alchemists seeking to
-harvest them to operate in perilously close proximity to the abominations.
-
-================================================================================
-# MU SPORE
-================================================================================
-
-
-Bestiary
+238
 UNDERGROUND MOONS
 Mu spores dwell in vast caverns,
 their pallid underbellies glowing
@@ -1161,35 +1167,40 @@ piercing damage if its jaws Strike is a failure
 (but not on a critical failure).
 Swallow Whole Ȱɵ (attack) Gargantuan,
 20d6+9 acid, Rupture 37
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669091
+4425248
 
-================================================================================
 PAGE 240
 ================================================================================
 
-FROM A GODʼS
-NIGHTMARES
-The ﬁrst mukradis are rumored
-to have spawned in the fevered
-nightmares of a sleeping demigod
-from a dimension beyond dreams,
-who perished as the ﬁrst mukradis
-hollowed out its unconscious mind
-and used its ﬂesh to transition into
-the mortal realm. This legend is
-likely nothing more than fancy, but
-it certainly speaks to the deadly
-nature of these immense monsters.
-Mukradi
-Fearsome centipede-like creatures, mukradis are three-headed predators with a
-devastating array of breath weapons. A Darklands version of the mukradi is rumored
-to exist. It’s said these variant mukradis have black scales, and all of their heads spew
-a black, acidic goo that animates before being reabsorbed by the mukradis.
-
-================================================================================
-# MUKRADI
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669092
+4425249
+L-N
+239
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 FROM A GODʼS
 NIGHTMARES
 The ﬁrst mukradis are rumored
@@ -1231,16 +1242,16 @@ Speed 60 feet, burrow 60 feet, climb 60 feet
 Melee Ȱɵ acid maw +32 (magical, reach 20 feet), Damage 2d12+17 piercing plus 3d6 acid
 Melee Ȱɵ ﬂame maw +32 (magical, reach 20 feet), Damage 2d12+17 piercing plus 3d6 ﬁre
 Melee Ȱɵ shock maw +32 (magical, reach 20 feet), Damage 2d12+17 piercing plus
-3d6 electricity
+3d6 electricity
 Melee Ȱɵ leg +32 (agile, magical, reach 15 feet), Damage 2d10+17 piercing
 Melee Ȱɵ tail lash +32 (magical, reach 30 feet), Damage 3d10+17 slashing plus Knockdown
 Breath Weapon ʚʖ (evocation, primal) The mukradi breathes a blast of energy from
 one of its three heads; each creature in the area must attempt a DC 36 basic
 Reﬂex save. The mukradi can’t use Breath Weapon again for 1d4 rounds.
-• Acid Maw (acid) 10-foot-wide, 60-foot line of acid dealing 16d6
+•	 Acid Maw (acid) 10-foot-wide, 60-foot line of acid dealing 16d6
 acid damage.
-• Flame Maw (ﬁre) 60-foot cone of ﬁre dealing 16d6 ﬁre damage.
-• Shock Maw (electricity) 120-foot line of electricity dealing
+•	 Flame Maw (ﬁre) 60-foot cone of ﬁre dealing 16d6 ﬁre damage.
+•	 Shock Maw (electricity) 120-foot line of electricity dealing
 16d6 electricity damage.
 Pull Apart ʚʖ The mukradi makes two Strikes with diﬀerent
 maws against the same target. If both hit, the target takes
@@ -1266,55 +1277,30 @@ doesn’t increase until after all
 the attacks are made.
 Trample ̂ˬ Huge or
 smaller, leg, DC 36
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669092
+4425249
 
-================================================================================
 PAGE 241
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669093
+4425250
 Bestiary
-ASSOCIATED MONSTERS
-A mummy guardian might serve
-alongside a mummy pharaoh or
-with zombies, skeletons, animated
-objects, or any other undead or
-constructs that might be found in
-their tomb lairs.
-Mummy
-While many cultures practice mummiﬁcation of the dead for benign reasons,
-undead mummies are created through foul rituals, typically to provide eternally
-vigilant guardians.
-Mummy Guardian
-The majority of mummies were created by cruel and selﬁsh masters to serve as
-guardians to protect their tombs from intruders. The traditional method of creating
-a mummy guardian is a laborious and sadistic process that begins well before the
-poor soul to be transformed is dead, during which the victim is ritualistically
-starved of nourishing food and instead fed strange spices, preservative agents,
-and toxins intended to quicken the desiccation of the ﬂesh. The victim remains
-immobile but painfully aware during the ﬁnal stages, where its now-useless entrails
-are extracted before it’s shrouded in funerary wrappings and entombed within a
-necromantically ensorcelled sarcophagus to await intrusions in
-the potentially distant future. While it’s certainly possible
-to use other methods to create a mummy guardian from
-an already-deceased body, those who seek to create these
-foul undead as their guardians in the afterlife often feel
-that such methods result in inferior undead—the pain and
-agony of death by mummiﬁcation being an essential step in
-the process.
-Regardless of the method of their creation, mummy guardians are
-more than just physical shells of ﬂesh and bone—they retain fragmented,
-distorted versions of their minds, with only enough memories of their
-living personality remaining to fuel their undead anger and jealousy of
-those who yet live. This burning rage only intensiﬁes over the centuries of
-waiting within a crypt for the chance to actually act, and thus when most mummy
-guardians are awoken by tomb robbers or adventurers, they stop at nothing in
-pursuit of glorious slaughter.
-
-================================================================================
-# MUMMY GUARDIAN
-================================================================================
-
-
-Bestiary
+240
 ASSOCIATED MONSTERS
 A mummy guardian might serve
 alongside a mummy pharaoh or
@@ -1380,44 +1366,47 @@ eﬀect (1 minute); Stage 2 4d6 negative damage and stupeﬁed 1 (1 day)
 Mummy Pharaoh
 While mummy guardians are undead crafted from the corpses of
 sacriﬁced—usually unwilling victims—and retain only fragments of their
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669093
+4425250
 
-================================================================================
 PAGE 242
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669094
+4425251
+L-N
+241
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 ASSOCIATED MONSTERS
 A mummy pharaoh often
 commands lesser undead,
 typically mummy guardians and
 whatever other nearby creatures
 of its old kingdom it can bully
-into subservience.
-memories, a mummy pharaoh is the result of a deliberate embrace of undeath by
-a sadistic and cruel ruler. The transformation from life to undeath is no less awful
-and painful, but as the transition is an intentional bid to escape death by a powerful
-personality who fully embraces the blasphemous repercussions of the choice, the
-mummy pharaoh retains its memories and personality intact. Although in most
-cases a mummy pharaoh is formed from a particularly depraved ruler instructing
-their priests to perform complex rituals that grant the ruler eternal unlife, a ruler
-who was ﬁlled with incredible anger in life might spontaneously arise from death as
-a mummy pharaoh without undergoing this ritual. Depending on the nature of the
-ruler, a mummy pharaoh might have spellcasting or other class features instead of its
-Attack of Opportunity and disruptive abilities—the exact nature of the abilities the
-ruler had in life can signiﬁcantly change or strengthen the mummy pharaoh presented
-here (which represents the least powerful variety of this deadly undead foe).
-
-================================================================================
-# MUMMY PHARAOH
-================================================================================
-
-
-ASSOCIATED MONSTERS
-A mummy pharaoh often
-commands lesser undead,
-typically mummy guardians and
-whatever other nearby creatures
-of its old kingdom it can bully
-into subservience.
+into subservience.
 memories, a mummy pharaoh is the result of a deliberate embrace of undeath by
 a sadistic and cruel ruler. The transformation from life to undeath is no less awful
 and painful, but as the transition is an intentional bid to escape death by a powerful
@@ -1463,7 +1452,7 @@ trigger. It can disrupt triggering concentrate actions, and it disrupts actions 
 any hit, not just a critical hit.
 Speed 20 feet
 Melee Ȱɵ ﬁst +20 (agile), Damage 1d10+11 bludgeoning plus insidious
-mummy rot
+mummy rot
 Melee Ȱɵ longspear +21 (magical, reach 10 feet), Damage 2d8+11 piercing
 plus insidious mummy rot
 Channel Rot (divine, necromancy) The mummy pharaoh can deliver insidious
@@ -1478,16 +1467,34 @@ Sandstorm Wrath ʚʖ (concentrate, divine, evocation, ﬁre) The mummy
 pharaoh exhales a 60-foot cone of superheated sand that deals
 5d6 ﬁre and 5d6 slashing damage (DC 28 basic Reﬂex save).
 The mummy pharaoh can’t use Sandstorm Wrath again for
-1d4 rounds.
+1d4 rounds.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669094
+4425251
 
-================================================================================
 PAGE 243
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669095
+4425252
 Bestiary
+242
 NAGAS AND OTHERS
 Dark nagas might rule over goblins
-(page 180), orcs (page 256),
+(page 180), orcs (page 256),
 xulgaths (page 336), or decadent
 folk, especially corrupt aristocrats.
 Guardian nagas might be found
@@ -1515,7 +1522,7 @@ Dark nagas are wicked, jealous creatures that crave power and wealth. Indeed,
 the dark naga sees such ideals as spiritual expressions of an essential truth: if
 one can take something, that something is theirs to have. The dark naga sees
 other creatures as lessers worthy only of subjugation or as rivals who must
-be eliminated.
+be eliminated.
 Dark nagas dwell in remote places other creatures have forsaken,
 searching abandoned ruins for wealth and potent magic items. Those
 unlucky trespassers into a dark naga’s lair typically ﬁnd themselves as
@@ -1527,89 +1534,56 @@ subjects. Subtler dark nagas, especially those who crave ﬁner
 luxuries, dwell in or under the wealthy settlements and use their
 wiles to garner a decadent following, forming something
 akin to a cult with the naga as the jewelry-bedecked object
-of worship.
+of worship.
+DARK NAGA
+CREATURE 7
+UNCOMMON
+LE
+LARGE
+ABERRATION
+Perception +15; mind reading 30 feet, darkvision
+Languages Aklo, Common
+Skills Acrobatics +17, Arcana +16, Athletics +13, Deception +16,
+Intimidation +16, Stealth +19
+Str +2, Dex +6, Con +4, Int +3, Wis +2, Cha +3
+AC 27; Fort +15, Ref +17, Will +15; guarded thoughts
+HP 115
+Guarded Thoughts (abjuration, occult) Dark nagas are immune to
+any form of mind reading.
+Speed 30 feet
+Melee Ȱɵ fangs +19 (agile, ﬁnesse), Damage 2d8+5 piercing plus
+dark naga venom
+Arcane Spontaneous Spells DC 26, attack +18; 4th (3 slots) blink,
+wall of ﬁre; 3rd (4 slots) dispel magic, haste, lightning bolt; 2nd
+(4 slots) illusory creature, invisibility, magic missile; 1st (4 slots)
+feather fall, illusory object, longstrider; Cantrips (4th) daze,
+detect magic, mage hand, read aura, shield
+Occult Innate Spells DC 25; Constant (3rd) mind reading
+Dark Naga Venom (incapacitation, poison) Saving Throw
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669095
+4425252
 
-================================================================================
-# MORRIGNA
-================================================================================
-
-
-OTHER PSYCHOPOMPS
-Nosois and morrignas are far
-from the only of their kind. Many
-others, like the skeletal vanths or
-the draconic yamarajes, also aid in
-the stewardship of the dead.
-wear masks reminiscent of webs, as they consider patient and watchful spiders
-to be their spiritual kin.
-MORRIGNA
-CREATURE 15
-N
-MEDIUM
-MONITOR
-PSYCHOPOMP
-Perception +28; darkvision, lifesense 60 feet
-Languages Abyssal, Celestial, Infernal, Necril, Requian; speak with
-animals, tongues
-Skills Athletics +27, Boneyard Lore +28, Diplomacy +27, Intimidation
-+29, Religion +29, Society +24, Stealth +27
-Str +8, Dex +4, Con +4, Int +3, Wis +6, Cha +4
-Lifesense (divination, divine) As nosoi.
-Items +2 striking bo staﬀ
-AC 38; Fort +25, Ref +27, Will +29; +1 status to all saves vs. magic
-HP 240, regeneration 20 (deactivated by acid or ﬁre); Immunities
-death eﬀects, disease; Resistances negative 15, poison 15
-Wrappings Lash Ǻȓ Trigger A creature within reach of the morrigna’s
-web wrappings uses an action to Strike or attempt a skill check.
-Eﬀect The morrigna makes a web wrappings Strike against the
-triggering creature. If the strike is a critical hit, the triggering
-action is disrupted.
-Speed 30 feet, climb 30 feet (spider climb)
-Melee Ȱɵ bo staﬀ +31 (magical, parry, reach 10 feet, trip),
-Damage 2d8+14 bludgeoning plus spirit touch
-Melee Ȱɵ web wrappings +29 (magical, reach 10 feet),
-Damage 3d12+14 bludgeoning plus Grab and
-spirit touch
-Divine Spontaneous Spells DC 35, attack +30;
-6th (4 slots) field of life, heal, spirit blast; 5th
-(4 slots) death ward, dispel magic, sending; 4th
-(4 slots) freedom of movement, read omens,
-spell immunity; 3rd (4 slots) blindness, crisis
-of faith, dream message; 2nd (4 slots) calm
-emotions, see invisibility, silence; 1st (4
-slots) bane, bless, ray of enfeeblement;
-Cantrips (8th) chill touch, detect magic,
-disrupt undead, read aura, stabilize
-Divine Innate Spells DC 37; 4th talking corpse;
-Constant (5th) tongues, (2nd) speak with
-animals, spider climb
-Divine Rituals DC 37; call spirit
-Change
-Shape
-Ȱɵ
-(concentrate,
-divine,
-polymorph, transmutation) A morrigna can take the appearance of
-any Small or Medium animal or humanoid. This doesn’t change their
-Speed or their attack and damage modiﬁers with their Strikes, but it
-might change the damage type their Strikes deal. Unless they choose
-to manifest their web wrappings in their new form, they cannot make
-web wrappings Strikes.
-Spider Minions ̂ˬ (conjuration, divine) The morrigna summons a giant
-tarantula (page 307) or spider swarm (page 306). These spiders have
-the summoned trait and remain for 10 minutes or until reduced to 0 Hit
-Points, whichever comes ﬁrst. The morrigna does not need to Sustain
-the Spell to direct these summoned creatures, and the morrigna can
-have any number of summoned spiders in existence at once. The
-morrigna can see through the eyes of any of their
-summoned spiders at any time.
-Spirit Touch As nosoi, but 4d6.
-
-================================================================================
 PAGE 273
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669125
+4425282
 Bestiary
+272
 ON PRIMEVAL WINGS
 Although not true dinosaurs,
 pterosaurs are often found in
@@ -1623,60 +1597,88 @@ Pterosaurs are primitive ﬂying creatures. While many are smaller than a human,
 the two presented below are quite a bit larger. Each of these creatures could
 pose a serious threat to a person.
 These ﬂying reptiles can be found in a wide selection of regions, but they tend
-to soar above warm or temperate climates.
+to soar above warm or temperate climates.
 Pteranodon
 Pteranodons are quick and agile reptiles with 20-foot wingspans that enable them
 to hover on wind currents for hours. These creatures have long beaks and equally
 long crests that protrude from the backs of their heads.
-
-================================================================================
-# MEGALODON
-================================================================================
-
-Breach ʚʖ The shark Swims up to its swim Speed, then Leaps vertically out of the
-water up to 25 feet high, making a Strike against a creature at any point during
-the jump (this lets it attack a creature within 30 feet of the water’s surface). After
-the Strike, the shark splashes back down into the water.
-Savage Ȱɵ Requirement The shark hit with a jaws Strike on its most recent action
-this turn. Eﬀect The creature the shark hit takes 1d12 slashing damage.
-Straﬁng Chomp Ȱɵ The shark Swims up to half its swim Speed, makes a
-jaws Strike, and then Swims up to half its Speed further. The Strike
-deals half damage.
-Megalodon
-Prehistoric sharks of incredible size, strength, and ferocity,
-megalodons scour waters deep and shallow to sate their
-considerable hunger. The presence of a megalodon undeniably affects
-the local aquatic ecosystem.
-MEGALODON
-CREATURE 9
-UNCOMMON
+PTERANODON
+CREATURE 2
 N
-GARGANTUAN
+LARGE
 ANIMAL
-AQUATIC
-Perception +20; blood scent, scent (imprecise) 100 feet
-Skills Athletics +21, Stealth +19, Survival +16
-Str +8, Dex +2, Con +5, Int –4, Wis +3, Cha –2
-Blood Scent As great white shark.
-AC 27; Fort +21, Ref +16, Will +17
-HP 180
-Speed swim 80 feet
-Melee Ȱɵ jaws +22 (reach 10 feet), Damage 2d12+10
-piercing plus Improved Grab
-Melee Ȱɵ tail +22 (agile, reach 15 feet), Damage
-2d8+10 piercing plus Push 15 feet
-Breach Ȱɵ (attack, move) As great white
-shark, but the megalodon’s reach allows
-it to attack a creature up to 35 feet above the surface of the water
-(or 40 feet with its tail).
-Savage Ȱɵ As great white shark, but 2d12 slashing damage.
-Swallow Whole Ȱɵ (attack) Huge, 2d8+5 bludgeoning, Rupture 20
+Perception +8; low-light vision, scent (imprecise) 30 feet
+Skills Acrobatics +10, Athletics +7
+Str +3, Dex +4, Con +1, Int –4, Wis +2, Cha –1
+AC 18; Fort +7, Ref +10, Will +6
+HP 35
+Speed 10 feet, ﬂy 40 feet
+Melee Ȱɵ beak +10, Damage 1d10+3 piercing
+Swoop ʚʖ The pteranodon Flies up to its Speed and makes one beak Strike
+at any point during that movement.
+Quetzalcoatlus
+Quetzalcoatlus are the largest ﬂying members of the
+pterosaur family and are often mistaken for dragons due
+to their immense size and 40-foot wingspans.
+Quetzalcoatlus are carnivorous, feeding on a variety
+of reptiles, mammals, large ﬁsh, amphibians, and other
+invertebrates. They are not inherently aggressive
+creatures and are happy to scavenge for food, but
+when presented with live prey they readily attack
+almost any creature smaller than themselves.
+QUETZALCOATLUS
+CREATURE 7
+N
+HUGE
+ANIMAL
+Perception
++15;
+low-light
+vision,
+scent
+(imprecise) 30 feet
+Skills Acrobatics +14, Athletics +17
+Str +6, Dex +4, Con +3, Int –4, Wis +2, Cha –1
+AC 25; Fort +16, Ref +17, Will +12
+HP 110
+Speed 15 feet, ﬂy 50 feet
+Melee Ȱɵ beak +17 (deadly 1d10, reach 10
+feet), Damage 2d10+10 piercing plus 1d8
+persistent bleed
+Melee Ȱɵ talon +17, Damage 2d8+10
+piercing plus Grab
+Snatch A quetzalcoatlus can move at half
+Speed while it has a single creature grabbed
+or restrained. Both its talons are occupied
+while it does this.
+Swoop ʚʖ The quetzacoaltus
+Flies up to its Speed and
+makes one beak or talon
+Strike at any point during that movement.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669125
+4425282
 
-================================================================================
 PAGE 293
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669145
+4425302
 Bestiary
+292
 ANCIENT GUARDIANS
 The practice of conjuring and
 binding shining children to
@@ -1719,3 +1721,40 @@ and the burning injustice of their births.
 Shining children confuse most other creatures with
 their refusal to use individual names in favor of alternating
 between referring to each other singularly and collectively.
+SHINING CHILD
+CREATURE 12
+CE
+MEDIUM
+ASTRAL
+Perception +23; darkvision
+Languages Aklo; telepathy 120 feet
+Skills Arcana +18, Deception +23, Diplomacy +21, Intimidation +21, Occultism +18
+Str +2, Dex +5, Con +6, Int +2, Wis +5, Cha +7
+Radiance Dependence The shining child is ﬂat-footed while in areas of darkness.
+AC 33; Fort +22, Ref +19, Will +19
+HP 215; Immunities blinded, dazzled, ﬁre
+Blinding Aura (arcane, aura, incapacitation, light) 60 feet. The shining child
+sheds bright light. Any creature that starts its turn in the aura must succeed at
+a Fortitude DC 29 save. If it fails, it is blinded for 1 minute, and if it critically fails,
+it’s permanently blinded. A creature that succeeds at its save is temporarily immune
+to this eﬀect for 24 hours.
+Overwhelming Light Ǻȓ (light) Trigger The shining child enters an area of magical
+darkness or begins its turn in an area of magical darkness. Eﬀect The shining child
+attempts to counteract the magical darkness (as a 7th-level spell).
+Speed 30 feet, ﬂy 50 feet
+Melee Ȱɵ ﬁst +25 (agile, ﬁnesse, magical), Damage 3d4+5 bludgeoning plus 4d6 ﬁre and
+2d4 persistent ﬁre
+Melee Ȱɵ ﬁre ray +25 (arcane, evocation, magical, range 100 feet), Damage 3d10+3 ﬁre,
+plus 2d10 positive damage if the target is undead
+Occult Innate Spells DC 33; 7th spell turning, sunburst; 6th dispel magic, vibrant pattern,
+wall of force; 5th dimension door, false vision, hallucinatory terrain; 4th dimension
+door (at will; self only); 2nd illusory object (at will); Cantrips (6th) light
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669145
+4425302

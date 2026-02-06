@@ -1,0 +1,129 @@
+Bard
+Bards can gain the following composition spells. This
+section also includes their composition cantrips.
+HYMN OF HEALING
+FOCUS 1
+UNCOMMON
+BARD
+COMPOSITION
+HEALING
+NECROMANCY
+POSITIVE
+Cast [two-actions] verbal
+Range 30 feet; Targets you or 1 ally
+Duration sustained up to 4 rounds
+Your divine singing mends wounds and provides a temporary
+respite from harm. The target gains fast healing 2. When you
+Cast the Spell and each time you Sustain the Spell, the target
+gains 2 temporary Hit Points, which last for 1 round.
+Heightened (+1) The fast healing and temporary Hit Points
+each increase by 2.
+ODE TO OUROBOROS
+FOCUS 5
+UNCOMMON
+BARD
+COMPOSITION
+NECROMANCY
+Cast [reaction] verbal; Trigger A creature’s dying condition would
+reach the value at which they would die.
+Range 60 feet; Targets the triggering creature
+Your ode temporarily staves off death. The target’s dying
+condition remains 1 below the value at which it dies. This
+doesn’t help prevent death from effects that kill the target
+without increasing its dying condition, such as disintegrate
+and death effects.
+PIED PIPING
+FOCUS 10
+UNCOMMON BARD COMPOSITION ENCHANTMENT INCAPACITATION MENTAL SONIC
+Cast [two-actions] verbal
+Area 5-foot emanation
+Saving Throw Will; Duration 1 minute
+Your performance enraptures those who hear it, compelling
+them to follow you about in admiration. Each creature within
+the emanation must attempt a Will save when you Cast the
+Spell or the first time they enter the area, after which they
+become temporarily immune for 1 day. Once per turn, you
+can spend a single action, which has the concentrate trait,
+to increase the emanation’s radius by 5 feet. You can Dismiss
+the spell.
+Critical Success The creature is unaffected.
+Success The creature is fascinated with you.
+Failure The creature uses all its actions to move toward you
+and compliment your performance. This effect ends if a
+hostile action is used against the affected creature.
+Critical Failure The target gains the minion trait and is
+controlled by you. This effect ends if a hostile action is used
+against the affected creature, or if you direct the creature to
+use any action that causes it harm.
+SONG OF MARCHING
+CANTRIP 3
+UNCOMMON
+BARD
+CANTRIP
+COMPOSITION
+ENCHANTMENT
+MENTAL
+Cast [one-action] verbal
+Area 60-foot emanation
+Duration sustained up to 1 hour
+You maintain a brisk performance that keeps allies on the
+move. You and your allies in the area can Hustle for the spell’s
+duration, even though you are also Sustaining the Spell. You
+and your allies then become temporarily immune for 1 day.
+Heightened (6th) You can Sustain the Spell for up to 2 hours.
+Heightened (9th) You can Sustain the Spell for up to 4 hours.
+SONG OF STRENGTH
+CANTRIP 1
+UNCOMMON BARD CANTRIP
+COMPOSITION
+EMOTION
+ENCHANTMENT
+MENTAL
+Cast [one-action] verbal
+Area 60-foot emanation
+Duration 1 round
+You bolster your allies’ physical strength with a hearty
+exhortation. You and your allies gain a +1 status bonus to
+Athletics checks and to their DCs against Athletics skill actions
+such as Disarm, Shove, and Trip.
+Special If you have the inspire heroics composition spell, you
+can use that composition to improve the bonus granted by song
+of strength in the same way as inspire courage or inspire defense.
+SYMPHONY OF THE UNFETTERED HEART
+FOCUS 5
+UNCOMMON
+ABJURATION
+BARD
+COMPOSITION
+Cast [two-actions] verbal, somatic
+Range 30 feet; Targets you or 1 ally
+Your symphony lifts listeners from their worldly concerns.
+Attempt a Performance check to counteract one of the
+following conditions affecting the target: grabbed, immobilized,
+paralyzed, restrained, slowed, or stunned. If you fail, you can’t
+target that effect on the target for 1 day. Use the condition’s
+source to determine the counteract DC (for example, the Escape
+DC for grabbed).
+Heightened (9th) You can target up to four creatures.
+Champion
+LITANY OF DEPRAVITY
+FOCUS 7
+UNCOMMON
+CHAMPION
+EVIL
+EVOCATION
+LITANY
+Cast [one-action] verbal
+Range 30 feet; Targets 1 good creature
+Duration 1 round
+Your litany calls into question the morals your foe claims to
+hold dear. The target gains weakness 7 to evil, then becomes
+temporarily immune to all your litanies for 1 minute.
+Heightened (+1) The weakness increases by 1.
+FOCUS SPELLS
+A focus spell is unique to a class and reflects its individual role and style. This section introduces
+focus spells for the oracle and witch and presents several new options for some Core Rulebook
+classes. The full rules for casting focus spells appear on page 300 of the Core Rulebook.
+Advanced Player's Guide
+228
+228

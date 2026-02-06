@@ -1,0 +1,139 @@
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+21551760
+21551760
+21551760
+35 55
+435755
+435755
+The Echo opens with his Spindle’s Web ability, which
+he uses as often as he can. He prefers to attack at middle
+range with his rope dart, using his Astral Thread Control
+to attack vulnerable pairs of PCs. Once he has fewer than
+half his Hit Points, he relocates frequently; as the call of the
+void doesn’t target him, he often moves across the red ropes
+or teleports to other islands to gain a tactical advantage
+against the PCs and ensure the island he’s on still has mental
+essence if he needs to heal himself. He knows his existence
+will unravel as soon as he surrenders the crumpled folio
+page to the PCs, and so fights until destroyed.
+K.H.W.’S ECHO
+CREATURE 14
+UNIQUE
+LN
+MEDIUM
+HUMAN
+HUMANOID
+Perception +30
+Languages Common, Tien
+Skills Acrobatics +28, Arcana +25, Athletics +25, Esoteric Lore
++30, Nature +25, Occultism +25, Religion +25
+Str +4, Dex +5, Con +4, Int +5, Wis +5, Cha +8
+AC 36; Fort +23, Ref +24, Will +28
+HP 280; destabilized form
+Destabilized Form When the Echo has fewer than 140 Hit
+Points, his form destabilizes, large chunks disintegrating
+from his face, limbs, and torso. White moths constantly
+stream from the missing spaces, creating a 10-foot emanation
+that deals 6d6 mental damage with a DC 34 basic Will save.
+As long as the aura persists, he can dissolve into moths and
+re-form at another location within 15 feet as a free action
+at the beginning of each of his turns; this has the occult,
+conjuration, and teleportation traits.
+Attack of Opportunity [reaction] The Echo has reach 15 for the purpose
+of determining when Attack of Opportunity triggers and
+when making Attacks of Opportunity.
+Speed 25 feet
+Melee [one-action] rope dart +29 (disarm, finesse, magical, sweep,
+tethered, trip), Damage 4d4+13 piercing plus 2d6 mental
+Ranged [one-action] rope dart +29 (disarm, finesse, magical, sweep,
+tethered, thrown 80 feet, trip), Damage 4d4+13 piercing plus
+2d6 mental
+Astral Spindle Implement The Echo carries a drop spindle
+that constantly spins red astral thread, which is both his
+thaumaturgic implement and weapon. If his rope dart is
+lost or broken, he can re-form it with an Interact action. If
+he critically succeeds at a rope dart Strike, overwhelming
+thoughts and figments flow down the thread into the target’s
+mind. The target becomes confused for 1 round.
+Astral Thread Control [one-action] Frequency once per round;
+Requirements The Echo’s previous action was a successful
+thrown rope dart Strike; Effect The Echo flicks his wrist and
+makes a follow-up thrown rope dart Strike at a different
+target within 30 feet of the first target, using the same
+multiple attack penalty as his previous Strike. Regardless of
+whether his attack hits, he then retrieves the weapon.
+Contingency Oathday-Nine-Rova [free-action] Frequency once per day;
+Trigger The Echo’s turn begins and he’s stunned, slowed,
+confused, controlled, immobilized, grabbed, paralyzed,
+restrained, or otherwise can’t act; Effect The Echo has set
+up numerous contingencies in the event he’s compromised.
+Talismans on his body shatter, counteracting the triggering
+effect. The Echo can use this free action even if he can’t act.
+Reconstitute from Thought
+[one-action]
+(necromancy,
+healing)
+Requirements The Echo is standing on one of the eight large
+islands of the map, and the island hasn’t darkened; Effect The
+Echo throws his rope dart into the island and uses it to absorb
+mental essence from the mindscape, repairing himself. He
+regains 45 Hit Points and the island turns a desaturated gray
+for 1 day, preventing future absorption and disabling the call
+of the void hazard on that island (see below).
+Spindle’s Web [two-actions] The Echo’s spindle revolves faster and faster
+until it’s a blur, lashing red threads in every direction. The
+threads deal 7d6 slashing damage and 7d6 mental damage
+to all creatures in a 30-foot emanation, with a DC 34 basic
+Reflex save. If a creature fails its save, the threads awaken
+the mindscape anchor within it, affecting it differently based
+on which anchor that creature used to gain access to the
+center of the mindscape. (If there is a PC who didn’t absorb a
+mindscape anchor, for instance because there are more than
+four PCs in the party, then use the anchor of the PC closest to
+them.) The Echo then can’t use Spindle’s Web for 1d4 rounds.
+•	 Lantern The lantern outlines the creature with searing
+faerie fire that deals 2d6 persistent fire damage.
+•	 Mirror The mirror reflects the creature to another location,
+teleporting them to a clear space within 25 feet of their
+current location.
+•	 Chalice The chalice drains life force, granting the Echo
+temporary HP equal to half the damage dealt.
+•	 Tome The tome floods the creature’s mind with information;
+the target is slowed 1 for 1 round.
+Hazard: A manifestation of K.H.W.’s curiosity, now
+turned to malevolent ends, lures those who approach the
+void below the islands ceaselessly into its depths.
+CALL OF THE VOID
+HAZARD 12
+UNIQUE
+COMPLEX
+ENVIRONMENTAL
+MAGICAL
+Stealth DC 25 (expert) to notice a slight tugging feeling
+Description A supernatural compulsion to leap into the
+unknown exerts itself on anyone who approaches the ledge.
+Disable DC 34 Occultism or DC 36 Arcana to expel the magical
+compulsion from the current island and from any of the red
+ropes directly attached to it, darkening the rope in color. The
+Echo also automatically disables the hazard from any island
+he’s standing on, and any of the red ropes directly attached to
+it, when he Reconstitutes from Thought on that island.
+Leap into the Unknown [reaction] (enchantment, mental); Trigger A
+creature enters a square adjacent to the ledge of an island
+or steps onto one of the red ropes; Effect The call of the
+void tugs at the mind of intruders, compelling them to leap off
+the ledge. The creature must succeed at a DC 34 Will save or
+DC 32 Acrobatics check to Balance or else drop off the ledge.
+If the creature falls off, it drops 100 feet, loops through the
+closed space of the mindscape, and lands in the square it fell
+214
+214
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+paizo.com #36961784, Kevin Athey <drizztdn@gmail.com>, Sep 4, 2022
+21551760
+21551760
+21551760
+35 55
+435755
+435755

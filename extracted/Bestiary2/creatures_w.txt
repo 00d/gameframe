@@ -3,7 +3,7 @@
 
 
 ================================================================================
-# WOOD GIANT
+# WOOD GIANT
 ================================================================================
 
 
@@ -38,7 +38,7 @@ creatures and remain on good terms with them, wood giants see most
 fey as far too ﬂighty to take part in any long-term plans.
 An average wood giant stands 14 feet tall and weighs 1,200
 pounds.
-WOOD GIANT
+WOOD GIANT
 CREATURE 6
 CG
 LARGE
@@ -80,6 +80,32 @@ Throw Rock Ȱɵ
 PAGE 126
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868623
+4425135
+E-G
+E-G
+125
+125
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 GAFFS
 Many marsh giants ﬁght with
 oversized gaﬀs—lengths of wood
@@ -116,75 +142,88 @@ any other residents of the area.
 Barely topping 11 feet tall and 1,000 pounds, marsh giants are small
 for giants but make up for their relatively diminutive stature with
 their zealotry.
-
-================================================================================
-# WOOD GOLEM
-================================================================================
-
-Breath Weapon ʚʖ (arcane, cold, evocation) The ice golem exhales a blast of freezing
-mist that deals 6d6 cold damage in a 30-foot cone (DC 22 basic Reﬂex save). It can’t
-use Breath Weapon again for 1d4 rounds.
-Creeping Cold (arcane, cold, evocation) When the ice golem gets a critical hit with a ﬁst
-Strike, the target also takes 2d6 persistent cold damage and is slowed 1 for 1 round.
-WOOD GOLEM
-Wood golems are often given vaguely humanoid shapes, almost as if cobbled
-together from scraps of ﬁrewood and discarded burls. It’s less common for
-wood golems to have artistic embellishments such as engraved patterns, or to
-be carved in the shapes of different types of creatures to meet the tastes of their
-owners. While wealthy patrons have been known to commission wood golems
-to be painstakingly carved to resemble themselves or their ancestors, to serve
-dual purposes of protection and ego bolstering, most wood golem crafters don’t
-bother. Druids and creatures who protect woodlands, such as arboreals, typically
-see wood golems as an affront or an abomination, akin to the horror humanoids
-often feel when facing a carrion or ﬂesh golem. As a result, it is rare to see such
-creatures serving as guardians for fey or druidic holy sites, despite the thematic
-match between the wood golem’s appearance and such locations.
-WOOD GOLEM
-CREATURE 6
-UNCOMMON
-N
-MEDIUM
-CONSTRUCT
-GOLEM
-MINDLESS
-Perception +12; darkvision
-Skills Athletics +17
-Str +5, Dex +4, Con +3, Int –5, Wis +0, Cha –5
-AC 23; Fort +15, Ref +16, Will +12
-HP 95; Immunities bleed, death eﬀects,
-disease, doomed, drained, fatigued, healing,
-magic (see Golem Antimagic below), mental,
-necromancy, nonlethal attacks, paralyzed,
-poison, sickened, unconscious; Resistances
-physical 5 (except adamantine)
-Golem Antimagic harmed by ﬁre (4d8, 2d6 from
-areas or persistent damage); healed by plant
-(area 2d6 HP); slowed by earth
-Vulnerable to Shape Wood A wood golem targeted by
-shape wood takes 2d8 damage per spell level, with
-a basic Fortitude save against the caster’s spell
-DC. On a critical failure, the golem is also
-immobilized for 1d4 rounds.
-Splinter Ǻȓ (arcane, transmutation) Trigger
-The wood golem takes physical damage;
-Eﬀect A jagged, sizable splinter of
-wood lances out at the golem’s
-attacker. The golem makes a
-splinter Strike against an
-adjacent creature without
-triggering reactions.
-Speed 25 feet
-Melee
-Ȱɵ
-fist
-+17
-(magical), Damage 2d8+8
+MARSH GIANT
+CREATURE 8
+CE
+LARGE
+AMPHIBIOUS
+GIANT
+HUMANOID
+Perception +16; low-light vision
+Languages Aklo, Common, Jotun
+Skills Athletics +18, Intimidation +15, Religion +17
+Str +6, Dex +3, Con +4, Int +0, Wis +3, Cha +1
+Items +1 striking gaﬀ, sack with 5 rocks
+AC 27; Fort +18, Ref +13, Will +17
+HP 150
+Catch Rock Ǻȓ
+Speed 35 feet, swim 20 feet
+Melee Ȱɵ gaﬀ +20 (magical, reach 10 feet, trip, versatile P),
+Damage 2d6+14 bludgeoning
+Melee Ȱɵ ﬁst +20 (agile, reach 10 feet), Damage 2d6+14
 bludgeoning
+Ranged Ȱɵ rock +20 (brutal, range increment 120 feet),
+Damage 2d6+14 bludgeoning
+Occult Innate Spells DC 23; 5th mariner’s curse; 2nd
+augury, obscuring mist
+Hook Shake Ȱɵ Requirements A creature adjacent to the
+marsh giant is prone in water at least 1 foot deep; Eﬀect The
+marsh giant uses its gaﬀ to shake the creature back and forth and
+hold it underwater. The giant attempts an Athletics check against the
+target’s Fortitude DC.
+Critical Success The target takes 6d6+14 piercing damage and
+loses 5 rounds’ worth of air if they were holding their breath.
+Success The target takes 3d6+14 piercing damage and loses 3
+rounds’ worth of air if they were holding their breath.
+Failure The target is unaﬀected.
+Critical Failure As failure, but the giant drops its gaﬀ as well.
+Throw Rock Ȱɵ
+Twist the Hook ʚʖ The marsh giant makes a melee Strike
+with its gaﬀ. If it hits, it twists and yanks the gaﬀ to
+create an awful wound, dealing 3d6 persistent bleed
+damage to the creature.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868623
+4425135
 
-================================================================================
 PAGE 132
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868629
+4425141
+E-G
+E-G
+131
+131
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 GLASS GOLEM COMPONENTS
 The destruction of a glass golem
 often leaves nothing behind but a
@@ -209,88 +248,82 @@ that bleed profusely.
 Of all the various types of golems, the glass golem is the one most akin to a
 work of art. Just as powerful aristocrats might use an ice golem for temperature
 regulation or a wood golem as an ego-boosting statue, a glass golem’s colorful
-glass construction can elevate the beauty of any chamber by its mere presence.
+glass construction can elevate the beauty of any chamber by its mere presence.
+GLASS GOLEM
+CREATURE 8
+UNCOMMON
+N
+LARGE
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +14; darkvision
+Skills Acrobatics +16, Athletics +19, Stealth +14
+Str +5, Dex +4, Con +5, Int –5, Wis +0, Cha –5
+AC 26; Fort +17, Ref +16, Will +14
+HP 135; Immunities bleed, death eﬀects, disease, doomed, drained, fatigued,
+healing, magic (see Golem Antimagic below), mental, necromancy,
+nonlethal attacks, paralyzed, poison, sickened, unconscious;
+Resistances physical 10 (except adamantine or bludgeoning)
+Golem Antimagic harmed by sonic (6d6, 2d6 from areas or
+persistent damage); healed by ﬁre (area 2d6 HP); slowed
+by cold
+Vulnerable to Shatter A glass golem is aﬀected by
+the shatter spell as though the golem were an
+unattended object.
+Spell Reﬂection Ǻȓ (abjuration, arcane) Trigger
+The glass golem is targeted by a spell; Eﬀect
+The glass golem positions its magical, reﬂective
+surfaces to turn the spell back on the caster. It
+tries to counteract the spell by attempting an
+Acrobatics check for its counteract check. If it
+successfully counteract the spell, the eﬀect is
+turned back on the caster.
+Speed 25 feet
+Melee Ȱɵ bladed limb +20 (agile, magical,
+versatile P), Damage 2d6+8 slashing plus
+1d6 bleed
+Dazzling Brilliance ʚʖ (evocation, light, visual) The glass golem creates waves of
+scintillating luminosity that cast bright light in a 60-foot emanation (and dim
+light for the next 60 feet). The light lasts until the start of the glass golem’s
+next turn, after which the glass golem can’t use Dazzling Brilliance for 1d4 rounds. A
+creature within the bright light or that enters the bright light must attempt a DC 23
+Will save.
+Success The creature is unaﬀected.
+Failure The creature is dazzled for 1 round.
+Critical Failure The creature is blinded for 1 round and then dazzled for an additional
+4 rounds.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868629
+4425141
 
-================================================================================
-# WATER YAI
-================================================================================
-
-
-ONI DAIMYO
-Oni daimyo are quasi-deities with
-isolated mortal domains. The most
-powerful is Inma, the Empress of the
-World, but Akuma the Horned King,
-Murona the Dark Mother, and Nataka
-the Red King are also worshipped.
-WATER YAI
-Among the most powerful yai are those who emulate the form of storm giants.
-Rather than lord over their giant-kin like most oni, though, water yai prefer to
-lurk alone in the world’s oceans (or, much more rarely, large and remote freshwater lakes). When a water yai must interact with mortals beneath the waves, they
-prefer to do so while disguised as a storm giant. Water yai pursue the acquisition
-of material wealth and riches above all other interests, garbing themselves in
-richly colored, magically waterproofed kimonos and adorning their monstrous
-faces with all manner of jewelry. These yai can infuse their kimonos with eerie
-magical properties, and in combat, they can also ﬁre bolts of electricity from their
-third eye.
-WATER YAI
-CREATURE 17
-CE
-HUGE
-FIEND
-GIANT
-HUMANOID
-ONI
-WATER
-Perception +32; greater darkvision
-Languages Common, Jotun
-Skills Acrobatics +30, Arcana +29, Athletics +33, Deception
-+32, Intimidation +32, Nature +29, Performance +33
-Str +9, Dex +6, Con +6, Int +5, Wis +9, Cha +6
-Items +2 greater striking longspear
-AC 40; Fort +27, Ref +29, Will +34; +1 status on all saves vs.
-magical
-HP 295, regeneration 15 (deactivated by acid and ﬁre); Immunities
-electricity
-Attack of Opportunity Ǻȓ
-Shocking Douse Ǻȓ Trigger A creature within 100 feet casts a ﬁre
-spell; Eﬀect The water yai ﬂourishes their kimono and attempts a
-Performance check to counteract the spell before it comes into eﬀect. If
-the yai counters the spell, the triggering creature takes 9d6 electricity
-damage from electriﬁed water that sprays from the kimono (DC 35
-basic Reﬂex save).
-Speed 40 feet, ﬂy 40 feet, swim 50 feet; water walk
-Melee Ȱɵ longspear +35 (evil, magical, reach 20 feet), Damage 3d8+15
-piercing plus 2d6 electricity
-Melee Ȱɵ kimono +33 (electricity, evil, magical, reach 15 feet), Damage
-3d12+12 electricity plus Enveloping Kimono
-Melee Ȱɵ ﬁst +33 (agile, evil, magical, reach 15 feet), Damage 3d8+15
-bludgeoning plus 2d6 electricity
-Ranged Ȱɵ electric missile +30 (electricity, evil, magical, range increment
-60 feet), Damage 3d12+12 electricity plus ﬂat-footed for 1 round
-Primal Innate Spells DC 38; 9th chain lightning, horrid wilting; 8th hydraulic
-torrent; 5th control water (at will); 4th charm (×3), darkness; 2nd invisibility
-(at will, self only); Constant (9th) water walk
-Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) As onidoshi,
-but into a storm giant. The yai can also turn into a puddle of water, with the
-eﬀects of gaseous form except they retain their land Speed, double their swim
-Speed, and can’t ﬂy.
-Enveloping Kimono Ȱɵ (electricity, manipulate, primal, transmutation, water)
-Requirements The water yai’s last action was a successful kimono Strike;
-Eﬀect The water yai extends a portion of their kimono to attempt to envelop
-a creature within 15 feet. The water yai must attempt a Performance check
-against the creature’s Reﬂex DC.
-Critical Success The creature takes 20d6 electricity damage and is grabbed
-until the end of its next turn.
-Success As critical success, but only 10d6 electricity damage.
-Failure The target takes 5d6 electricity damage but is not grabbed.
-Critical Failure The target is unaﬀected.
-
-================================================================================
 PAGE 193
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868690
+4425202
 Bestiary 2
+192
+192
 AMOEBAS LARGE AND SMALL
 Giant amoebas and amoeba swarms
 are usually found near each other,
@@ -311,94 +344,92 @@ AMOEBA SWARM
 An amoeba swarm consists of thousands of individual single-celled organisms
 held together by acrid-smelling slime. As ravenous as they are mindless, amoeba
 swarms use no tactics.
-
-================================================================================
-# WATER ORM
-================================================================================
-
-
-LOCAL ORMS
-People who live by the lakes
-inhabited by legendary water
-orms have a tendency to give local
-lake monsters names that sound
-somewhat homey or even adorable.
-As a result, such creatures are often
-regarded as local mascots or goodluck charms—particularly in lakeside
-settlements that depend on ﬁshing
-as a signiﬁcant income source.
-Water Orm
-Legendary creatures lurking in remote lakes, water orms always ﬁnd their way
-into the tavern tales of lakeside communities. To some travelers, every lake of
-respectable size seems to be surrounded by towns full of ﬁshers claiming to have
-spotted a water orm. These elusive creatures inhabit lakes mainly in cool and
-gloomy regions. Some claim that water orms are an offshoot of sea serpents and
-linnorms, but no credible link between these creatures has been found.
-Water orms have many features that sea serpents do not, such as the ability
-to understand the rudiments of language. Their natural inclination to avoid
-contact and remain hidden often remains at odds with their equally compelling
-curiosity about those they might spy upon the shores of their lakes. Water orm
-sightings usually occur when they can’t help but to rise up to the surface to take
-a peek at someone (or something) particularly unusual on the beach or ﬂoating
-on the water’s surface.
-These creatures are extremely long-lived and can go for decades, or even
-centuries, with very little to eat. This allows water orms to subsist in lakes
-without surfacing for many years, even in bodies of fresh water
-without ample food sources. Water orms might lie in a silty
-lake bed for years, their elusiveness only contributing to
-their mythical reputation. When a pet or child goes
-missing near a lake, rumors might hold that the
-local water orm is responsible, leading to
-folk tales that caution residents against
-venturing out alone near the water.
-While
-most
-water
-orms
-are
-described as serpentine or long-necked
-reptiles, others look similar to bizarrely
-elongated seals or whales, impossibly large sea
-horses, or long-necked creatures with paddles resembling those of elasmosauruses.
-WATER ORM
-CREATURE 10
-RARE
+AMOEBA SWARM
+CREATURE 1
 N
-HUGE
-AQUATIC
-BEAST
-WATER
-Perception +21; darkvision
-Languages Aquan (can’t speak any language)
-Skills Athletics +22, Stealth +23
-Str +8, Dex +5, Con +5, Int –3, Wis +5, Cha +0
-Slow Metabolism A water orm can go for 10 years without
-feeding. Beyond this limit, the water orm’s hunger causes it to
-become slowed 1, but doesn’t otherwise impact its lifespan. A
-water orm that’s slowed as a result of starvation can remove
-this condition by using Swallow Whole to gulp down a meal.
-Undetectable (abjuration, primal) A water orm automatically tries to
-counteract any detection, revelation, or scrying divination attempted against it,
-using its Stealth modiﬁer for the counteract check.
-AC 30; Fort +21, Ref +19, Will +17
-HP 170; Resistances cold 10, ﬁre 10
-Speed 20 feet, swim 50 feet
-Melee Ȱɵ jaws +24 (reach 15 feet), Damage 2d10+11 piercing plus Grab
-Melee Ȱɵ tail +24 (agile, reach 15 feet), Damage 2d6+11 bludgeoning
-Swallow Whole Ȱɵ (attack) Large, 2d8+8 bludgeoning, Rupture 22
-Water Travel ̂ˬ (primal, transmutation, water) A water orm can dissolve into water,
-appearing only as a long, dark, serpentine stretch of water. While in this form, a water
-orm’s swim Speed increases to 600 feet, it automatically succeeds at Athletics checks
-to swim, and it gains a +4 circumstance bonus to Stealth checks in water. A water
-orm can remain in this form for 8 hours, but it can’t enter salt water when using this
-ability. A water orm can return to its normal form using a single action which has the
-concentrate trait.
+LARGE
+AMPHIBIOUS
+MINDLESS
+OOZE
+SWARM
+Perception +3; motion sense 60 feet, no vision
+Skills Stealth +1 (+3 in water)
+Str +0, Dex –2, Con +3, Int –5, Wis +0, Cha –5
+Motion Sense An amoeba swarm can sense nearby creatures through vibration and air
+or water movement.
+AC 9; Fort +8, Ref +1, Will +3
+HP 35; Immunities acid, critical hits, mental, precision, unconscious, visual; Weaknesses
+area 3, ﬁre 3, splash damage 3; Resistances slashing 4, piercing 4
+Speed 5 feet, climb 5 feet, swim 10 feet
+Swarming Slither Ȱɵ The amoeba swarm slithers over each creature in its space, dealing
+1d6 acid damage (DC 14 basic Reﬂex save). A creature that critically fails is sickened 1.
+Weak Acid An amoeba’s acid damages only organic material—not metal, stone, or other
+inorganic substances.
+GIANT AMOEBA
+These blobs of nearly transparent protoplasm are identical in form and behavior
+to the microscopic creatures from which they have evolved, except their
+outlandish size makes them all the more dangerous. Unlike slimes, puddings, and
+other deadly oozes, giant amoebas have an outer membrane that contains their
+internal structures, making them more susceptible to slashing weapons than their
+amorphous kin. However, this membrane is also extremely ﬂexible and permeable,
+allowing them to surround prey and absorb it, suffocating and slowly digesting it
+in the amoeba’s acidic ﬂuids.
+GIANT AMOEBA
+CREATURE 1
+N
+SMALL
+AMPHIBIOUS
+MINDLESS
+OOZE
+Perception +4; motion sense 60 feet, no vision
+Skills Athletics +6, Stealth +3
+Str +3, Dex –2, Con +2, Int –5, Wis +0, Cha –5
+Motion Sense As amoeba swarm.
+AC 8; Fort +7, Ref +3, Will +5
+HP 45; Immunities acid, critical hits,
+mental, precision, unconscious, visual;
+Weaknesses slashing 5
+Speed 10 feet, climb 10 feet, swim 10 feet
+Melee Ȱɵ  pseudopod +8, Damage 1d6 acid
+plus Grab
+Constrict Ȱɵ 1d4 bludgeoning plus 1d4 acid,
+DC 17
+Envelop ̂ˬ Requirements The giant
+amoeba begins its turn with a target its
+size or smaller grabbed; Eﬀect The giant
+amoeba maintains the Grab and extends
+pseudopods to surround the creature and pull it inside
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868690
+4425202
 
-================================================================================
 PAGE 291
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868788
+4425300
 Bestiary 2
+290
+290
 CREATING WERECREATURES
 Werecreatures are complex monsters
 capable of shifting between three
@@ -459,11 +490,6 @@ content to roam and explore lands far from home. Their other
 habits also vary widely from individual to individual, right down
 to diet: some wereboars might feast on human ﬂesh, while others are
 mostly vegetarian.
-
-================================================================================
-# WEREBOAR
-================================================================================
-
 WEREBOAR
 CREATURE 2
 CN
@@ -473,11 +499,48 @@ HUMAN
 HUMANOID
 WERECREATURE
 Perception +8; low-light vision, scent (imprecise) 30 feet
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868788
+4425300
 
-================================================================================
 PAGE 292
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868789
+4425301
+U-Z
+U-Z
+291
+291
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 LYCANTHROPY
 Many scholars refer to the curse of
 the werecreature as “lycanthropy,”
@@ -521,27 +584,8 @@ ambush prey, weretigers are adaptable to an extreme range of
 environments. However, weretigers living in densely populated
 cities (potentially as courtesans, assassins, or guild leaders)
 often struggle to suppress their killer instincts, becoming
-overwhelmed by the urge to hunt. They prefer to wear looseﬁtting clothing and rely on their claws and jaws in a ﬁght.
-
-================================================================================
-# WERETIGER
-================================================================================
-
-Boar Charge ʚʖ The wereboar Strides twice and then makes a melee Strike. As long as
-they moved at least 20 feet, they gain a +2 circumstance bonus to their attack roll.
-Change Shape Ȱɵ (concentrate, polymorph, primal, transmutation) Human with ﬁst +10
-for 1d4+2 bludgeoning, or boar with Speed 40 feet and tusk for 2d6+4 piercing.
-Curse of the Wereboar (curse, necromancy, primal); Saving Throw DC 18 Fortitude
-Moon Frenzy (polymorph, primal, transmutation)
-WERETIGER
-These ferocious werecreatures stalk prey with the cunning and skill of a true
-apex predator. Weretigers typically view all life as a potential meal.
-Powerful nocturnal hunters with excellent senses that help them
-ambush prey, weretigers are adaptable to an extreme range of
-environments. However, weretigers living in densely populated
-cities (potentially as courtesans, assassins, or guild leaders)
-often struggle to suppress their killer instincts, becoming
-overwhelmed by the urge to hunt. They prefer to wear looseﬁtting clothing and rely on their claws and jaws in a ﬁght.
+overwhelmed by the urge to hunt. They prefer to wear loose-
+ﬁtting clothing and rely on their claws and jaws in a ﬁght.
 WERETIGER
 CREATURE 4
 NE
@@ -574,12 +618,37 @@ the end of that movement. If the weretiger began
 this action hidden, they remain hidden
 until after this ability’s Strike.
 Rend Ȱɵ claw
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868789
+4425301
 
-================================================================================
 PAGE 293
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868790
+4425302
 Bestiary 2
+292
+292
 CAIRN WIGHT DIRGES
 Unlike a typical wight, cairn wights
 have an unusual aﬃnity for music.
@@ -606,126 +675,86 @@ As guardians of material possessions, cairn wights are supernaturally bound to
 the armaments they wore during the ritual used to create them. They can spread
 their necromantic powers into the weapons they wield. A slash from a cairn
 wight’s sword channels life from the victim into the wight.
-
-================================================================================
-# WITCHFIRE
-================================================================================
-
-
-WISPS AND FIRE
-Witchﬁres have the ability to summon
-will-o’-wisps, but a number of these
-aberrations usually linger nearby of
-their own accord. The fear-inducing
-witchﬂame aura manifested by
-witchﬁres provides will-o’-wisps their
-favored sustenance.
-Witchfire
-Manifesting as a sinuous form wreathed in sickly green ﬂames, this incorporeal
-undead forms when a powerful hag or witch dies in agony or rage. The body at the
-center of the ﬂames usually resembles the witch’s idealized self-image, regardless
-of their age and appearance at the time of their death.
-A witchﬁre often resides in a bog or swamp, which slowly blackens and decays
-around them. These regions are often plagued by will-o’-wisps, which seem to
-have an uncanny relationship with the resident witchﬁre. A witchﬁre might visit
-villages on the edge of their home terrain to lure away villagers, but always
-attack victims within earshot to make sure that other villagers hear the screams.
-A witchﬁre might also ally with other hags or witches and even join their covens,
-but a witchﬁre is incapable of forming covens entirely on their own.
-WITCHFIRE
-CREATURE 9
+CAIRN WIGHT
+CREATURE 4
 UNCOMMON
-CE
+LE
 MEDIUM
-INCORPOREAL
-SPIRIT
 UNDEAD
-Perception +18; darkvision
-Languages Aklo, Common, Necril
-Skills Acrobatics +17, Deception +19, Intimidation +21, Occultism +18, Stealth +19
-Str –5, Dex +6, Con +0, Int +3, Wis +3, Cha +6
-Coven The witchﬁre adds nightmare, phantasmal killer, phantasmal calamity,
-and summon entity to their coven’s spells. A coven can contain one or
-more witchﬁres, but it must also include at least one living creature
-capable of forming a coven; three witchﬁres cannot form a coven.
-AC 28; Fort +15, Ref +21, Will +18
-HP 125, negative healing; Immunities death eﬀects, disease, ﬁre,
-paralyzed, poison, precision, unconscious; Resistances all 10
-(except force, ghost touch, or positive; double resistance vs.
-non‑magical)
-Opportune Witchﬂame Ǻȓ Trigger A creature makes a melee
-Strike against or touches the witchﬁre; Eﬀect The
-witchﬁre makes a witchﬂame caress Strike against the
-triggering creature.
-Speed ﬂy 40 feet
-Melee Ȱɵ witchﬂame caress +21 (agile, evil, ﬁnesse,
-magical), Damage 3d6 ﬁre plus 3d6 negative
-and witchﬂame
-Ranged Ȱɵ witchﬂame bolt +21 (evil, magical, range 100
-feet), Damage 2d6 ﬁre plus 2d6 negative and witchﬂame
-Occult Innate Spells DC 28; 6th summon entity (will-o’-wisp only); 5th
-crushing despair; 4th invisibility, phantasmal killer; 3rd phantom pain;
-2nd illusory disguise (at will); Cantrips (5th) dancing lights, ghost sound
-Witchﬂame (curse, ﬁre, necromancy, occult) Any creature that takes negative
-damage from a witchﬁre’s Strike must attempt a DC 26 Will save.
-Critical Success The creature is unaﬀected and is temporarily immune to
-witchﬂame for 1 hour.
-Success The creature appears to catch ﬁre with sickly green ﬂames. These
-ﬂames deal no damage on their own, but as long as the ﬂames burn, the
-creature can’t be concealed (invisible creatures are concealed rather than
-being undetected) and gains weakness 5 to ﬁre for 1 round.
-Failure As success, but the eﬀect is permanent until removed.
-Critical Failure As failure, but the creature gains weakness 10 to ﬁre.
-Witchﬂame Kindling ʚʖ (ﬁre, necromancy, occult) Requirements A creature within
-30 feet of the witchﬁre burns with witchﬂame; Eﬀect The witchﬁre’s eyes and
-mouth glow brightly, and the witchﬂame on the target creature momentarily
-burns much hotter, dealing 5d6 ﬁre damage and 5d6 negative damage to that
-creature (DC 28 basic Fortitude save). The witchﬁre can’t use Witchﬂame
-Kindling for 1d4 rounds.
+WIGHT
+Perception +11; darkvision
+Languages Common, Necril
+Skills Athletics +12, Intimidation +11, Religion +9, Stealth +12
+Str +4, Dex +2, Con +4, Int +1, Wis +3, Cha +3
+Items longsword, studded leather armor
+AC 20; Fort +12, Ref +10,
+Will +11
+HP
+67;
+negative
+healing;
+Immunities death eﬀects, disease,
+paralyze, poison, unconscious
+Final Spite Ǻȓ Trigger The cairn wight is
+reduced to 0 Hit Points; Eﬀect The cairn wight
+makes a Strike before being destroyed. It doesn’t
+gain any temporary HP from drain life on this Strike.
+Speed 25 feet
+Melee Ȱɵ longsword +14 (versatile P), Damage 1d8+7 slashing plus
+drain life
+Melee Ȱɵ claw +14 (agile), Damage 1d6+7 slashing plus drain life
+Cairn Wight Spawn (divine, necromancy) A living humanoid slain by a cairn
+wight’s weapon or claw Strike rises as a spawned wight after 1d4 rounds.
+This spawned wight is under the command of the cairn wight that killed it.
+It doesn’t have drain life or cairn wight spawn and is clumsy 2 for as long as it is
+a spawned wight. If its creator dies, the spawned wight becomes a full-ﬂedged,
+autonomous cairn wight; it regains its free will, gains drain life and cairn wight
+spawn, and is no longer clumsy.
+Drain Life (divine, necromancy) When the cairn wight damages a living creature with
+a melee Strike, using an unarmed attack or its bound weapon, the cairn wight gains
+5 temporary Hit Points and the creature must succeed at a DC 18 Fortitude save or
+become drained 1. Further damage dealt by the cairn wraith increases the drained
+condition value by 1 on a failed save, to a maximum of drained 4.
+Funereal Dirge ʚʖ (auditory, divine, emotion, fear, mental, necromancy) The cairn
+wight chants a low, haunting melody. Living creatures within 50 feet must
+attempt a DC 21 Will save. The cairn wight can’t chant a new Funereal Dirge
+for 1d4 rounds.
+Critical Success The creature is unaﬀected.
+Success The creature is frightened 1.
+Failure The creature is frightened 2.
+Critical Failure The creature is frightened 2 and takes a –2 status
+penalty to saving throws against drain life.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868790
+4425302
 
-================================================================================
 PAGE 295
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868792
+4425304
 Bestiary 2
-ALIEN ALLIES
-High-ranking or wealthy witchwyrds
-rarely travel the planes alone,
-employing bodyguards to accompany
-them and leading entourages
-composed of various strange beings
-they’ve met during their travels.
-Witchwyrd
-Witchwyrds conceal most of their faces, leaving only their eyes unmasked. Their
-inscrutability is a boon to one of their most signiﬁcant interests—mercantilism—
-and many haughty witchwyrds openly revel in the befuddlement inspired by
-their mysterious guises and mannerisms. Witchwyrds have a keen eye for new
-opportunities and markets, and a witchwyrd almost always knows when someone
-is trying to pull one over on them.
-These four-armed humanoid creatures have hairless blue-gray skin, are typically
-6-1/2 feet tall, and weigh 300 pounds. Their hands have three evenly sized and
-spaced digits in a tripod-like arrangement. When not trying to blend in with the
-local community, witchwyrds favor outlandish, loose-ﬁtting clothes in bright reds or
-yellows and a signature conical hat. They tend to prefer the driest, warmest regions
-of the lands they visit—perhaps an indicator of their mysterious home world. This,
-however, is the only indicator; witchwyrds are notoriously close-mouthed about
-details of this distant world, and with good reason: most witchwyrds on
-Golarion have never visited their ancestral home. To these witchwyrds, the
-notion of a home planet is a constant thorn in their side, and when asked,
-many choose to ignore the question altogether. Others are so agitated by these
-queries that they respond with impatience or even violence. Some scholars
-have theorized a connection between
-witchwyrds and several other four-armed
-creatures, but like with questions of their
-place of origin, witchwyrds have little to
-say about the topic.
-
-================================================================================
-# WITCHWYRD
-================================================================================
-
-
-Bestiary 2
+294
+294
 ALIEN ALLIES
 High-ranking or wealthy witchwyrds
 rarely travel the planes alone,
@@ -793,37 +822,48 @@ missile per action spent (dealing 1d4+1 force damage each). They can’t
 spend more actions on this ability than they have free hands. If they
 use a hand that has Absorbed Force, that hand hurls two missiles instead of one,
 expending the held energy.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868792
+4425304
 
-================================================================================
 PAGE 296
 ================================================================================
 
-TERRITORIAL BEASTS
-Wolverines are territorial animals
-and ﬁercely defend their kills,
-even from larger predators or
-when they’re outnumbered. They
-claim wide swaths of forests or
-frozen tundra as their territory,
-marking it with a pungent odor that
-serves as a warning to those who
-recognize the smell. Wolverines
-have voracious appetites and tend to
-aggressively devour their food with
-reckless abandon.
-Wolverine
-Few creatures in the natural world can compare in ferocity to an angry wolverine.
-WOLVERINE
-Wolverines resemble small bears, to which they are related. Stocky and muscular
-with long claws, wolverines are about 3 feet in length and weigh approximately 40
-pounds. They have a thick fur coat that protects them from the cold temperatures
-of the forests and frozen tundras where they reside.
-
-================================================================================
-# WOLVERINE
-================================================================================
-
-
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868793
+4425305
+U-Z
+U-Z
+295
+295
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 TERRITORIAL BEASTS
 Wolverines are territorial animals
 and ﬁercely defend their kills,
@@ -865,7 +905,7 @@ rage that lasts either for 1 minute, until there are no enemies it can perceive,
 it falls unconscious, whichever comes ﬁrst. While raging, the wolverine has AC 17,
 its jaws Strike deals 1d8+7 damage, and its claw Strike deals 1d6+7 damage. While
 raging, the wolverine can’t use actions that have the concentrate trait, except for Seek.
-After it’s stopped raging, a wolverine can’t use Wolverine Rage again for 1 minute.
+After it’s stopped raging, a wolverine can’t use Wolverine Rage again for 1 minute.
 GIANT WOLVERINE
 Giant wolverines grow to the approximate size of
 horses and claim even more expansive territories
@@ -873,100 +913,60 @@ than their more diminutive wolverine cousins.
 While a smaller wolverine will defend its prey
 from armed humanoids, a giant wolverine is
 unafraid to stalk and kill such creatures.
+GIANT WOLVERINE
+CREATURE 4
+N
+LARGE
+ANIMAL
+Perception +9; low-light vision, scent (imprecise)
+30 feet
+Skills Athletics +12, Stealth +11
+Str +6, Dex +3, Con +3, Int –4, Wis +3, Cha +0
+AC 21; Fort +13, Ref +11, Will +9
+HP 65
+Speed 25 feet, climb 10 feet
+Melee Ȱɵ jaws +12, Damage 2d6+8 piercing plus Grab
+Melee Ȱɵ claw +12 (agile), Damage 2d4+8 slashing
+Gnaw Ȱɵ Requirements The wolverine has a creature grabbed from
+its jaws Strike; Eﬀect The wolverine chews violently on the
+creature, dealing 2d6 piercing damage (DC 21 basic Fortitude
+save). A creature that fails its save also takes 2d6 persistent
+bleed damage.
+Pounce Ȱɵ As wolverine.
+Rend Ȱɵ claw
+Wolverine Rage Ȱɵ As wolverine, except AC 20, jaws 2d6+11,
+and claws 2d4+11.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868793
+4425305
 
-================================================================================
-# WORM THAT WALKS CULTIST
-================================================================================
-
-
-WORMS REDEEMED
-In rare situations, once a spellcaster
-rises as a worm that walks it might
-recant its evil ways, given the right
-inﬂuence and enough time. Many
-of these worms that walk seek selfdestruction, not out of abhorrence at
-their new form but at the realization
-of the evils they wrought while alive.
-Others, though, take advantage of
-their second chance and use their
-new life to help undo the ruin and
-horror they might have aﬄicted upon
-the world in their prior existence.
-eﬀect performed on the area reduces the DC of this ﬂat check by 2, to a minimum of
-DC 5. If any of these ﬂat checks succeed, none of the worms escape, and the worm
-that walks is destroyed permanently. At the GM’s discretion, clever means of trapping
-or otherwise detaining the vermin may extend the time allowed to ﬁnish oﬀ the worm
-that walks.
-Tendril Regardless of the creature’s former anatomy, it gains a tendril melee Strike with
-reach that deals persistent piercing damage as it leaves biting worms on the target. If
-it had any agile attacks, the damage dealt by its tendril should be roughly the same as
-the damage dealt by those attacks. If it had only non-agile attacks, its tendril should
-deal three-quarters of that damage.
-Squirming Embrace Ȱɵ The worm that walks Strides, ending its movement sharing a
-space with a creature, and deals piercing damage to the creature equal to 1d8 plus an
-additional 1d8 for every 3 levels the worm that walks has. The creature can attempt a
-basic Reﬂex save with a DC of the worm that walks’s spell DC – 2.
-Swarm Shape Ȱɵ (concentrate) The worm that walks collapses into a shapeless swarm
-of worms. It drops all held, worn, and carried items. While
-discorporated, the worm that walks can’t use attack actions
-and can’t cast spells, but it can move through areas small
-enough for its individual worms to ﬁt without having
-to Squeeze. It can use the same action to coalesce back
-into its normal form.
-WORM THAT WALKS
-This worm that walks was a cultist of the Great Old One
-Hastur in its prior life. It continues its conspiracies and
-strives to further its evil plots in its new life.
-WORM THAT WALKS CULTIST
-CREATURE 14
-UNCOMMON
-CE
-MEDIUM
-ABERRATION
-SWARM
-Perception +25, darkvision, tremorsense (imprecise) 30 feet
-Languages Aklo, Common
-Skills Acrobatics +24, Deception +28, Intimidation +26,
-Occultism +27, Society +23, Stealth +28
-Str +5, Dex +8, Con +5, Int +5, Wis +4, Cha +8
-AC 36, all-around vision; Fort +23, Ref +28, Will +26
-HP 200, fast healing 10; Immunities disease, paralyzed,
-poison,
-precision,
-swarm
-mind,
-unconscious;
-Weaknesses area damage 10, splash damage 10;
-Resistances physical 10
-Discorporate
-Speed 30 feet
-Melee Ȱɵ tendril +29 (reach 10 feet), Damage 4d8+14
-persistent piercing damage
-Occult Spontaneous Spells DC 34, attack +26; 7th (3 slots)
-phantasmal killer, visions of danger, warp mind; 6th (4
-slots) dispel magic, dominate, paranoia, summon entity;
-5th (4 slots) black tentacles, mind probe, phantom
-pain, subconscious suggestion; 4th (4 slots)
-dimension door, modify memory, suggestion,
-veil; 3rd (4 slots) dream message, haste,
-hypercognition,
-slow;
-2nd
-(4
-slots)
-comprehend language,
-illusory creature,
-mirror image, undetectable alignment; 1st (4 slots) charm, illusory
-disguise, mindlink, ray of enfeeblement; Cantrips (7th) daze,
-detect magic, light, mage hand, shield
-Squirming Embrace Ȱɵ 5d8 piercing, DC 32
-Swarm Shape Ȱɵ
-
-================================================================================
 PAGE 299
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868796
+4425308
 Bestiary 2
+298
+298
 DREAD WRAITH ORIGINS
 The most unusual dread wraiths
 are those that coalesce from an
@@ -987,3 +987,65 @@ to dominate groups of ordinary wraiths. A particularly powerful necromancer
 might compel packs of dread wraiths into service, however, while a particularly
 malevolent goal—such as to eradicate a bastion of light and life—might draw
 several dread wraiths together in a common purpose.
+DREAD WRAITH
+CREATURE 9
+LE
+LARGE
+INCORPOREAL
+UNDEAD
+WRAITH
+Perception +19; darkvision, lifesense 60 feet
+Languages Common, Necril
+Skills Acrobatics +19, Intimidation +21, Stealth +19
+Str –5, Dex +6, Con +3, Int +3, Wis +4, Cha +6
+AC 28; Fort +16, Ref +19, Will +21; +1 status to all saves vs. positive
+HP 130, negative healing; Immunities death eﬀects, disease, paralyzed, poison, precision,
+unconscious; Resistances all 10 (except force, ghost touch, or positive; double
+resistance vs. non-magical)
+Draining Presence (aura, negative) 10 feet. A creature entering the aura must succeed at
+a DC 26 Fortitude save or become drained 1. It recovers after it has been out of the
+aura for 1 minute. This drained condition value is cumulative with the drained value
+caused by drain life, but not with multiple draining presence auras. A creature
+that succeeds at its save is temporarily immune to draining presence for 24 hours.
+Sunlight Powerlessness A dread wraith caught in sunlight is stunned 2 and
+clumsy 2.
+Attack of Opportunity Ǻȓ
+Speed ﬂy 60 feet
+Melee Ȱɵ spectral hand +21 (ﬁnesse, reach 10 feet), Damage 2d10+7
+negative plus drain life
+Absorb Wraith ʚʖ The dread wraith extends its hand toward
+another wraith creature within 100 feet. The target wraith
+dissolves and streaks toward the dread wraith in a straight
+line, dealing 6d10 negative damage to each creature along the
+line (DC 28 basic Fortitude save). The dread wraith absorbs the
+essence of the target wraith, becoming quickened and gaining a
++10-foot status bonus to its ﬂy Speed for a number of rounds
+equal to the level of the absorbed wraith. It can use its
+extra action only to Fly or Strike. An unwilling target can
+attempt a DC 28 Will save to resist being absorbed.
+Drain Life (divine, necromancy) When the dread wraith
+damages a living creature with its spectral hand
+Strike, the wraith gains 10 temporary Hit Points
+and the target must succeed at a DC 28 Fortitude
+save or become drained 1. Further damage dealt
+by the wraith increases the drained condition value
+by 1 on a failed save, to a maximum of drained 4.
+Wraith Spawn (divine, necromancy) A living humanoid
+slain by a wraith’s spectral hand Strike rises as a wraith
+spawn after 1d4 rounds. This wraith spawn is under the
+command of the dread wraith that killed it. It doesn’t have drain
+life or wraith spawn. If the creator of the wraith spawn dies,
+the wraith spawn becomes a full-ﬂedged, autonomous wraith; it
+regains its free will and gains drain life and wraith spawn.
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868796
+4425308

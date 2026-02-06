@@ -1,0 +1,132 @@
+Failure The target immediately follows your suggestion. The
+spell has a duration of 1 minute, or until the target has
+completed a finite suggestion or the suggestion becomes
+self-destructive or has other obvious negative effects.
+Critical Failure As failure, but the base duration is 1 hour.
+Heightened (8th) You can target up to 10 creatures.
+SUMMON ANIMAL
+SPELL 1
+CONJURATION
+Traditions arcane, primal
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You conjure an animal to fight for you. You summon a common
+creature that has the animal trait and whose level is –1.
+Heightening the spell increases the maximum level of creature
+you can summon.
+Heightened (2nd) Level 1.
+Heightened (3rd) Level 2.
+Heightened (4th) Level 3.
+Heightened (5th) Level 5.
+Heightened (6th) Level 7.
+Heightened (7th) Level 9.
+Heightened (8th) Level 11.
+Heightened (9th) Level 13.
+Heightened (10th) Level 15.
+SUMMON CELESTIAL
+SPELL 5
+CONJURATION
+Traditions divine
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You conjure a celestial to fight on your behalf. This works like
+summon animal, except you summon a common creature that has
+the celestial trait and whose level is 5 or lower. You can’t summon
+a creature unless its alignment is one of your deity’s preferred
+alignments (or, if you don’t have a deity, is within one step of your
+alignment). At the GM’s discretion, some deities might restrict
+specific types of celestials, even if their alignments match.
+Heightened As summon animal.
+SUMMON CONSTRUCT
+SPELL 1
+CONJURATION
+Traditions arcane
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You conjure a construct to fight for you. This works like
+summon animal, except you summon a common creature that
+has the construct trait and whose level is –1.
+Heightened As summon animal.
+SUMMON DRAGON
+SPELL 5
+CONJURATION
+Traditions arcane
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You conjure a dragon to fight for you. This works like summon
+animal, except you summon a common creature that has the
+dragon trait and whose level is 5 or lower.
+Heightened As summon animal.
+SUMMON ELEMENTAL
+SPELL 2
+CONJURATION
+Traditions arcane, primal
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You conjure an elemental to fight for you. This works like
+summon animal, except you summon a common creature that
+has the elemental trait and whose level is 1 or lower.
+Heightened As summon animal.
+SUMMON ENTITY
+SPELL 5
+CONJURATION
+Traditions occult
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You conjure an aberration to fight for you. This works like
+summon animal, except you summon a common creature that
+has the aberration trait and whose level is 5 or lower.
+Heightened As summon animal.
+SUMMON FEY
+SPELL 1
+CONJURATION
+Traditions occult, primal
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You conjure a fey to fight for you. This works like summon
+animal, except you summon a common creature that has the
+fey trait and whose level is –1.
+Heightened As summon animal.
+SUMMON FIEND
+SPELL 5
+CONJURATION
+Traditions divine
+Cast [three-actions] material, somatic, verbal
+Range 30 feet
+Duration sustained up to 1 minute
+You conjure a fiend to fight on your behalf. This works like
+summon animal, except you summon a common creature that
+has the fiend trait and whose level is 5 or lower. You can’t
+summon a creature unless its alignment is one of your deity’s
+preferred alignments (or, if you don’t have a deity, is within
+one step of your alignment). At the GM’s discretion, some
+deities might restrict specific types of fiends, even if their
+alignments match.
+Heightened As summon animal.
+375
+7
+SPELLS
+Introduction
+Ancestries &
+Backgrounds
+Classes
+Skills
+Feats
+Equipment
+Spells
+The Age of
+Lost OMENS
+Playing the
+Game
+Game
+mastering
+Crafting
+& Treasure
+Appendix

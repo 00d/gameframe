@@ -1,0 +1,76 @@
+TRADESPEOPLE
+Every settlement needs tradespeople to create new products, facilitate commerce,
+and keep the infrastructure from crumbling. Larger cities often have entire guilds
+dedicated to the creation of specific goods, managing worker conditions, and
+working with local governments.
+APPRENTICE
+Ambitious apprentices can be found in all cities. These individuals are generally
+younger and seek the approval of their masters as they learn their craft. Many yearn
+to exemplify the artistry behind their craft, one day becoming masters themselves.
+Depicted below is an apprentice cartographer.
+APPRENTICE
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +2
+Languages Common
+Skills Athletics +3, Crafting +5, Geography Lore +5
+Str +1, Dex +2, Con +1, Int +3, Wis +0, Cha +0
+Items artisan’s tools, assorted maps, rugged clothes with tool belt (functions as
+padded armor)
+AC 15; Fort +5, Ref +6, Will +2
+HP 8
+Speed 25 feet
+Melee  dagger +3 (agile, versatile S), Damage 1d4+1 piercing
+Ranged  dagger +4 (agile, thrown 10 feet, versatile S), Damage 1d4+1 piercing
+Apprentice’s Ambition [free-action] Frequency once per day; Requirements A direct superior
+is supervising the apprentice; Effect The apprentice gains a +2 circumstance bonus
+to attack rolls, damage rolls, saving throws, and skill checks until the end of their
+next turn.
+MERCHANT
+Small settlements can typically support one or two generalist merchants,
+and larger cities house multiple specialists—experts in one type of product.
+Merchants can be found anywhere: vendors hustling in the public square,
+shopkeepers running small storefronts, traveling salespeople in carriages or
+caravans, or wealthy tycoons running entire organizations devoted to commerce.
+For encounters involving negotiation or mercantile skill, a merchant is a 4th-
+level challenge. A merchant might have an additional Lore skill about a specific
+category of item (such as jewelry or magic weapons), with a total skill bonus 2
+higher than Mercantile Lore.
+MERCHANT
+CREATURE –1
+N
+MEDIUM
+HUMAN
+HUMANOID
+Perception +6
+Languages Common
+Skills Deception +10, Diplomacy +12, Mercantile Lore +10, Performance +8, Society +8
+Str +2, Dex +0, Con –1, Int +2, Wis +2, Cha +4
+Items crossbow (10 bolts), padded armor
+Appraising Eye The merchant can use Mercantile Lore to Recall Knowledge about items,
+including determining their value. They can also attempt to Identify Magic using
+Mercantile Lore and can do so without first knowing whether the item is magical.
+AC 13; Fort +1, Ref +2, Will +10
+HP 7
+Speed 25 feet
+Melee  fist +4 (agile, nonlethal, unarmed), Damage 1d4+2 bludgeoning
+Ranged  crossbow +4 (range increment 120 feet, reload 1), Damage 1d8 piercing
+COMMON ARTISAN GUILDS
+Cartographers
+Cobblers
+Cooks and bakers
+Glassblowers
+Herbalists
+Jewelers and gem cutters
+Leatherworkers
+Locksmiths
+Magecrafters
+Masons and stonecutters
+Painters and sign makers
+Gamemastery Guide
+244
+244
+APPRENTICE

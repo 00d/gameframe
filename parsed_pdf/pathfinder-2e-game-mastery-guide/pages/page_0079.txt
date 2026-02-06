@@ -1,0 +1,115 @@
+Critical Success The creature takes no damage.
+Success The creature takes half damage and falls prone
+in its space.
+Failure The creature takes full damage, falls prone in its
+space, and tumbles down to the bottom of the slope.
+Critical Failure As failure, but double damage.
+TITANIC FLYTRAP
+HAZARD 4
+ENVIRONMENTAL
+Stealth DC 25 (trained)
+Description On the surface, a titanic flytrap appears to be
+a patch of the more common flytrap plant, but beneath
+murky waters it hides a far larger set of jaws, reaching 10
+feet across and reinforced with woody branches and lined
+with paralytic hairs.
+Disable DC 22 Survival (trained) to mislead the flytrap’s sense
+of weight and pressure
+AC 21; Fort +15, Ref +8
+HP 56 (BT 28); Immunities mental; Resistances acid 20, fire 10
+Snap Shut [reaction] Trigger A Small or Medium creature moves into
+a square that is within reach of the flytrap’s hidden jaws;
+Effect The flytrap’s jaws snap shut, making a jaws Strike
+against the triggering creature.
+Melee [one-action] jaws +17, Effect devour
+Devour The target is trapped by the flytrap’s jaws, gaining the
+grabbed condition until it Escapes (DC 21). Additionally, it
+is exposed to the titanic flytrap toxin from the hundreds of
+tiny hairs that line the inside of its leaves. If the flytrap’s
+jaws Strike was a critical success, the target takes a –2
+circumstance penalty to its saving throws against this
+poison. At the end of each of target’s turns that it remains
+grabbed, the target takes 3d6 acid damage.
+Titanic Flytrap Toxin (contact, poison) Saving Throw DC 21
+Fortitude; Maximum Duration 4 rounds; Stage 1 2d6 poison
+damage and stunned 1 (1 round); Stage 2 3d6 poison damage
+and stunned 2 (1 round); Stage 3 4d6 poison damage and
+paralyzed (1 round)
+Reset 1 hour (or longer, after a large meal)
+SPECTRAL REFLECTION
+HAZARD 5
+HAUNT
+Stealth DC 26 (expert)
+Description The reflection in the mirror subtly twists and distorts,
+its expression taking on an unnerving sneer of malice.
+Disable DC 23 Religion (trained) to exorcise the spirit, or DC 23
+Thievery (trained) to quickly cover the mirror
+AC 19; Fort +15, Ref +10
+Hardness 13, HP 50 (BT 25); Immunities critical hits, object
+immunities, precision damage
+Spectral Impale [reaction] Trigger A living creature approaches
+within 15 feet of the mirror, and the mirror is lit with dim
+or brighter light; Effect Shadowy barbs impale the body
+of the reflected creature as the haunt makes a shadow
+barbs Strike.
+Melee [one-action] shadow barbs +19, Damage 4d8+9 negative plus
+sap vitality
+Sap Vitality A creature hit by the reflection’s shadow barbs
+must attempt a DC 22 Fortitude save as the haunt tries
+to draw a portion of its vital essence into the mirror. The
+target is drained 1 on a failed saving throw, or drained 2 on
+a critical failure.
+Reset The haunt re-forms after 1 minute, manifesting in any
+mirror within its infused area (see Special below).
+Special Spectral reflections often infuse entire buildings,
+manifesting in any sufficiently large mirror. The example
+Hit Points and Hardness given represent a typical mirror
+reinforced by the haunt; at your discretion, the haunt might
+appear in reflective surfaces that are harder to destroy.
+Defeating a manifestation through damage destroys the
+surface, preventing the haunt from using it again. If this
+haunt appears in an area with many mirrors, consider giving
+PCs double or even triple the XP for a typical simple hazard.
+GHOSTLY CHOIR
+HAZARD 6
+HAUNT
+Stealth DC 20 (expert)
+Description A choir of lost souls rises out of the floor, singing
+an eerie chant that terrifies its listeners and buffets their
+bodies with walls of sound.
+Disable DC 28 Performance (trained) to disrupt the song’s
+resonance with another tune or DC 28 Religion (trained) to
+ritually silence the spirits
+Profane Chant [reaction] (auditory, emotion, enchantment, fear,
+mental, occult) Trigger A creature moves within 10 feet of
+the section of floor from which the choir can arise; Effect
+The choir rises, and its song deals 4d8+18 mental damage to
+non-evil creatures within 30 feet of the souls’ spectral forms.
+Affected creatures must each attempt a DC 24 Will save.
+Critical Success The creature is unaffected.
+Success The creature takes half damage and becomes
+frightened 1.
+Failure The creature takes full damage and becomes
+frightened 2.
+Critical Failure The creature takes double damage. It also
+becomes frightened 3 and fleeing for 1 round.
+GREEN SLIME
+HAZARD 9
+ENVIRONMENTAL
+Stealth DC 30 (expert)
+Description A caustic green film clings to the ceiling above,
+watching for prey to pass beneath it.
+Disable DC 33 Survival (expert) to carefully peel the slime off
+the ceiling without touching it
+AC 20; Fort +25 Ref +15
+HP 200 (BT 100); Immunities critical hits, object immunities,
+precision damage; Weaknesses cold 20, fire 20
+Dissolving Ambush [reaction] Trigger A creature walks beneath the
+slime; Effect The green slime drops on top of the creature,
+attempting to dissolve it into a nutritious slurry. The target
+must attempt a DC 28 Reflex save.
+Critical Success The target leaps out of the way, and it
+is unaffected.
+Gamemastery Guide
+78
+78

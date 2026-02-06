@@ -67,29 +67,27 @@ at least 20 feet, it deals an additional
 PAGE 318
 ================================================================================
 
-OUTCASTS OF AIR
-Uthuls are thought to be an
-outcast group of beings that once
-dwelled on the Plane of Air. It is
-unclear whether their fury was
-the reason for their expulsion
-from that plane or if they grew
-implacable after being banished.
-Uthuls do not speak of their
-history to anyone and simply
-redouble their unending rage on
-any who dare to ask.
-Uthul
-An uthul most often appears to be a dark, swirling cloud ﬁlled with ﬂying debris
-and streaked with sudden ﬂashes of lightning. Although they are clearly elemental
-in nature, uthuls are nearly always found on the Material Plane, where they hide
-among natural cloud formations, especially thunderstorms.
-
-================================================================================
-# UTHUL
-================================================================================
-
-
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669170
+4425327
+U-Z
+317
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 OUTCASTS OF AIR
 Uthuls are thought to be an
 outcast group of beings that once
@@ -162,12 +160,30 @@ a random direction, then falls unless it can ﬂy
 or otherwise remain aloft. After returning to
 its normal form, the uthul must wait 1 minute
 before it can use Whirlwind Form again.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669170
+4425327
 
-================================================================================
 PAGE 319
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669171
+4425328
 Bestiary
+318
 BUILDING VAMPIRES
 Because vampires can inﬂict their
 nature upon any creature whose
@@ -198,13 +214,13 @@ Vampires are undead creatures that feed on the blood of the living.
 Creating a Vampire
 You can turn an existing living creature into a vampire using the following steps.
 Increase the creature’s level by 1 and change its statistics as follows.
-• It gains the undead and vampire traits, and usually becomes evil.
-• Increase AC, attack bonuses, DCs, saving throws, and skill modiﬁers by 1.
-• Increase damage with Strikes and other offensive abilities by 1. If an ability
+•	 It gains the undead and vampire traits, and usually becomes evil.
+•	 Increase AC, attack bonuses, DCs, saving throws, and skill modiﬁers by 1.
+•	 Increase damage with Strikes and other offensive abilities by 1. If an ability
 can be used only a small number of times (such as a dragon’s breath weapon),
 increase the damage by 2 instead.
-• Reduce HP by the amount listed on the table.
-• The vampire gains fast healing and resistance to physical damage (except
+•	 Reduce HP by the amount listed on the table.
+•	 The vampire gains fast healing and resistance to physical damage (except
 silver) as indicated in the table. These abilities are the reason the vampire
 has less HP.
 Starting Level
@@ -212,12 +228,16 @@ HP Decrease
 Fast Healing/Resistance
 3–4
 –20
+5
 5–7
 –30
+7
 8–14
 –40
+10
 15+
 –60
+15
 BASIC VAMPIRE AbILITIES
 All vampires gain the following abilities. If the base creature has any abilities that
 speciﬁcally come from it being a living creature, it loses them. It also loses any
@@ -229,14 +249,14 @@ Coﬃn Restoration (divine, necromancy, negative) Unlike other undead, a vampire
 destroyed at 0 HP. Instead, it falls unconscious. If its body rests in its coﬃn for 1 hour,
 the vampire gains 1 HP, after which its fast healing begins to function normally.
 Vampire Weaknesses All vampires possess the following weaknesses.
-• Compulsions Vampires are creatures of strange and unknowable compulsions. A
+•	 Compulsions Vampires are creatures of strange and unknowable compulsions. A
 typical vampire can’t voluntarily cross running water unless it is transported while it
 hides within its coﬃn, nor can it enter a private dwelling unless invited in by someone
 with the authority to do so. At your discretion, vampires might have diﬀerent
 compulsions—a pirate vampire might not be able to set foot on solid ground without
 being invited, for example. The vampire can still be forced to do these things and
 might be able to overcome its compulsion just as it does its revulsion (see below).
-• Revulsion A vampire can’t voluntarily come within 10 feet of brandished garlic or a
+•	 Revulsion A vampire can’t voluntarily come within 10 feet of brandished garlic or a
 brandished religious symbol of a non-evil deity. To brandish garlic or a religious symbol,
 a creature must Interact to do so for 1 round (similar to Raising a Shield). If the vampire
 involuntarily comes within 10 feet of an object of its revulsion, it gains the ﬂeeing
@@ -244,19 +264,48 @@ condition, running from the object of its revulsion until it ends an action beyo
 After 1 round of being exposed to the subject of its revulsion, a vampire can attempt
 a DC 25 Will save as a single action, which has the concentrate trait. On a success, it
 overcomes its revulsions for 1d6 rounds (or 1 hour on a critical success).
-• Stake A wooden stake driven through a vampire’s heart drops the vampire to 0
+•	 Stake A wooden stake driven through a vampire’s heart drops the vampire to 0
 HP and prevents it from healing above 0 HP, even in its coﬃn. Staking a vampire
 requires three actions and works only if the vampire is unconscious. If the stake is
 removed, the vampire can heal above 0 HP again, and if it’s in its coﬃn the 1-hour
 rest period begins once the stake is removed. If the vampire’s head is severed and
 anointed with holy water while the stake is in place, the vampire is destroyed.
-• Sunlight If exposed to direct sunlight, a vampire immediately becomes slowed 1. The
+•	 Sunlight If exposed to direct sunlight, a vampire immediately becomes slowed 1. The
 slowed value increases by 1 each time the vampire ends its turn in sunlight. If the
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669171
+4425328
 
-================================================================================
 PAGE 320
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669172
+4425329
+U-Z
+319
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 VAMPIRES AND DHAMPIR
 The most common and traditional
 vampires, as presented here, are
@@ -321,7 +370,7 @@ Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation) The vampire
 transforms into one of its animal forms or back into its normal form. Most vampires
 can turn into a bat, but some can turn into a diﬀerent creature, such as a rat or a wolf.
 Use the options in the aerial form and animal form spells as guidelines.
-• Bat The vampire changes into a bat swarm or giant bat (page 39). It gains
+•	 Bat The vampire changes into a bat swarm or giant bat (page 39). It gains
 echolocation 40 feet, a land Speed of 20 feet and a ﬂy Speed of 30 feet, and a fangs
 Strike with the same attack bonus as its highest melee attack. These fangs deal the
 same amount of damage as the vampire’s claws, but deal piercing damage rather
@@ -333,12 +382,30 @@ give telepathic orders to these creatures as long as they are within 100 feet, b
 can’t communicate back.
 Dominate ʚʖ (divine, enchantment, incapacitation, mental, visual) The vampire
 can cast dominate at will as a divine innate spell. Casting it requires staring into
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669172
+4425329
 
-================================================================================
 PAGE 321
 ================================================================================
 
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669173
+4425330
 Bestiary
+320
 SPAWN LOCATIONS
 Vampire spawn live wherever their
 masters demand. When free of any
@@ -357,3 +424,62 @@ vapor, as the gaseous form spell, or back to its normal form. The vampire loses 
 healing while in gaseous form. The vampire can remain in this form indeﬁnitely.
 Vampire Spawn
 Vampires use their spawn for inﬁltration and reconnaissance.
+VAMPIRE SPAWN ROGUE
+CREATURE 4
+CE
+MEDIUM
+UNDEAD
+VAMPIRE
+Perception +12; darkvision
+Languages Common, plus one regional language
+Skills Acrobatics +11, Athletics +9, Intimidation +8, Society +5, Stealth +12
+Str +3, Dex +5, Con +1, Int –1, Wis +3, Cha +2
+AC 22; Fort +9, Ref +13, Will +11
+HP 40, coﬃn restoration, fast healing 5, negative healing; Immunities death eﬀects,
+disease, paralyze, poison, sleep; Weaknesses vampire weaknesses; Resistances
+physical 5 (except silver)
+Speed 25 feet, climb 25 feet
+Melee Ȱɵ claw +14 (agile), Damage 1d8+6 slashing plus Grab
+Drink Blood Ȱɵ (divine, necromancy) When Drinking Blood, the spawn regains 5 HP.
+Sneak Attack The vampire spawn deals 1d6 extra precision damage to
+ﬂat-footed creatures.
+Vampire Count
+Vampire counts rule their demesnes through a mix of fear and cruelty.
+VAMPIRE COUNT
+CREATURE 6
+CE
+MEDIUM
+UNDEAD
+VAMPIRE
+Perception +17; darkvision
+Languages Common, Necril, plus one regional language
+Skills Acrobatics +13, Athletics +15, Deception +14, Diplomacy +14, Intimidation +16,
+Society +14, Stealth +13
+Str +5, Dex +3, Con +2, Int +2, Wis +4, Cha +4
+Items leather armor, +1 rapier
+Children of the Night (divine, enchantment, mental)
+AC 24; Fort +11, Ref +14, Will +17
+HP 65, coﬃn restoration, fast healing 7, negative healing; Immunities
+death eﬀects, disease, paralyze, poison, sleep; Weaknesses vampire
+weaknesses; Resistances physical 7 (except magical silver)
+Mist Escape Ȳ˓
+Speed 25 feet, climb 25 feet
+Melee Ȱɵ rapier +17 (deadly 1d8, disarm +1), Damage 1d6+11 piercing
+Melee Ȱɵ claw +17 (agile), Damage 1d8+8 slashing plus Grab
+Change Shape Ȱɵ (concentrate, divine, polymorph, transmutation)
+Giant bat with fangs +15 for 1d8+9 piercing.
+Create Spawn (divine, downtime, necromancy)
+Dominate ʚʖ (divine, enchantment, incapacitation,
+mental, visual) DC 22
+Drink Blood Ȱɵ (divine, necromancy) When Drinking
+Blood, the vampire regains 10 HP.
+Turn to Mist Ȱɵ (concentrate, divine, transmutation)
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669173
+4425330

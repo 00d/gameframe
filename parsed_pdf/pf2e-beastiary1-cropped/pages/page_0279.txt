@@ -1,0 +1,97 @@
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669131
+4425288
+Bestiary
+278
+REDCAP TREASURE
+A redcap’s boots and cap are of
+little value to other creatures, but
+it carries a scythe and various
+valuable trophies from its kills.
+Redcap
+Redcaps are sadistic and capricious fey who thrill in bloodletting and murder.
+While they are most famous for appearing as wizened, bearded men, redcap
+women are no less fearsome or cruel. Redcaps are ultimately craven bullies,
+cowed by anything more powerful than themselves, a trait that leads them to fear
+and despise the symbols of good deities. Many fairy tales explain how the redcaps
+draw power from dipping the hats for which they are named in fresh blood. Just as
+iconic to these cruel little fey are their iron-clad boots, and the clanging sound of
+their metal soles clanking on stone ﬂoors is both discordant and disconcerting—
+especially to those who recognize the sound for what it is. Redcaps typically stand
+only 3 feet tall, with hunched frames, pointed ears, crooked teeth, and long, white,
+tangled hair.
+REDCAP
+CREATURE 5
+CE
+SMALL
+FEY
+Perception +12; low-light vision
+Languages Common, Sylvan
+Skills Acrobatics +13, Athletics +15, Deception +11, Intimidation +13, Nature +10,
+Stealth +13
+Str +4, Dex +4, Con +2, Int +1, Wis +1, Cha +2
+Items iron boots, red cap, scythe
+Red Cap (necromancy, primal) A redcap’s woolen hat is dyed with the blood of its victims.
+If the redcap loses its cap, it no longer beneﬁts from fast healing and takes a –4 status
+penalty to its damage rolls. It can create a new cap in 10 minutes, but that cap doesn’t
+grant its powers until the redcap has turned it red with Blood Soak. A cap has
+no beneﬁt for creatures other than the redcap who made it.
+AC 21; Fort +11, Ref +15, Will +10
+HP 60, fast healing 10; Weaknesses cold iron 5, divine revulsion
+Divine Revulsion (emotion, fear, mental) If a redcap sees a creature
+brandish a religious symbol of a good deity (which requires an
+interact action by that creature) or use one to cast a divine
+spell, the redcap must attempt a DC 19 Will save. It then
+becomes temporarily immune to all brandished religious
+symbols for 10 minutes.
+Critical Success The redcap is unaﬀected.
+Success The redcap is frightened 2.
+Failure The redcap gains the ﬂeeing condition for 1 round and
+is frightened 4.
+Speed 50 feet
+Melee Ȱɵ scythe +15 (deadly 1d10, trip),
+Damage 1d10+10 slashing
+Melee Ȱɵ boot +13 (agile, versatile B),
+Damage 1d6+8 piercing
+Blood Soak Ȱɵ (manipulate) The redcap dips its
+cap in the blood of a slain foe. The foe must have
+died in the last minute, and the redcap must have
+helped kill it. The redcap gains a +4 status bonus
+to damage rolls for 1 minute.
+Deadly Cleave Ǻȓ Trigger The redcap reduces a creature to 0 Hit
+Points with a scythe Strike. Eﬀect The redcap makes another
+scythe Strike against a diﬀerent creature, using the same multiple
+attack penalty as the scythe Strike that triggered this reaction.
+This counts toward its multiple attack penalty.
+Stomp Ȱɵ The redcap Strides up to half its Speed and makes
+a boot Strike at any point during that movement. If the boot
+Strike hits a prone creature, it deals an extra 2d6 persistent
+bleed damage.
+REDCAP LOCATIONS
+Unlike some fey, redcaps don’t
+embody a particular natural
+feature or environment, so they
+can be found almost anywhere.
+They tend to prefer areas that
+allow them to hide or at least
+get behind cover with their
+quick movement, such as
+forests, mountains,
+and underground
+tunnels and
+caverns.
+p
+,
+g
+ggyj ggyj
+g
+,
+,
+19669131
+4425288

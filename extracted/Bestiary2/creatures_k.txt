@@ -92,33 +92,32 @@ modiﬁers with its Strikes.
 PAGE 156
 ================================================================================
 
-KORRED DANCES
-Despite their insular nature, korreds
-love to dance. On certain auspicious
-dates, korreds hold great festivals
-of music and dance in ancient stone
-circles deep within forest glades.
-A few non-korred fey sometimes
-receive invitations to these dances,
-but any non-fey who interrupts the
-dance is berated at best or attacked
-at worst.
-Korred
-Korreds are reclusive fey in the form of small, hirsute individuals with long,
-animated manes of hair. While korreds have a natural afﬁnity and admiration for
-stones and boulders, they prefer to dwell aboveground in areas of rocky forest or
-wooded hills rather than in caves. Korreds are a private people who don’t take
-kindly to intruders, and they invariably work to drive off or kill any non-fey who
-stumble into their territory. Staunchly proud of their hair, korreds choose their
-minimal attire so as to allow their body hair to ﬂow freely, often wearing only a
-belt with a pouch for throwing rocks and trimming shears—though this belt and
-pouch are rarely visible under their wild manes.
-
-================================================================================
-# KORRED
-================================================================================
-
-
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868653
+4425165
+H-K
+H-K
+155
+155
+Introduction
+A-C
+D
+E-G
+H-K
+L-N
+O-R
+S-T
+U-Z
+Appendix
 KORRED DANCES
 Despite their insular nature, korreds
 love to dance. On certain auspicious
@@ -153,12 +152,12 @@ Str +4, Dex +3, Con +2, Int +1, Wis +2, Cha +5
 Items club, pouch with 5 rocks
 AC 21; Fort +10, Ref +13, Will +10; +1 status to all saves vs. magic
 HP 65; Weaknesses cold iron 5
-Animated Hair (aura, primal, transmutation) 5 feet.
+Animated Hair (aura, primal, transmutation) 5 feet.
 The korred’s long, animated hair reaches out
 and interferes with creatures in the area. The
 korred can select which targets are aﬀected by their
 animated hair. An aﬀected creature that ends its turn in the
-emanation must succeed at a DC 18 Reﬂex save or become clumsy 1
+emanation must succeed at a DC 18 Reﬂex save or become clumsy 1
 (clumsy 2 on a critical failure) as long as it remains in the aura.
 Speed 25 feet
 Melee Ȱɵ club +14, Damage 2d6+7 bludgeoning
@@ -190,12 +189,37 @@ They can exit from the original stone, if they prefer. They can’t carry extrad
 spaces with them when they Stone Stride; if the korred attempts to do so, Stone
 Stride fails.
 Throw Rock Ȱɵ
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868653
+4425165
 
-================================================================================
 PAGE 157
 ================================================================================
 
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868654
+4425166
 Bestiary 2
+156
+156
 LEECH SPECIES
 The spotted hooktooth leech is
 often found in areas frequented
@@ -214,10 +238,74 @@ of feeding on victims from inside.
 Leech
 Though valued by apothecaries and ﬁeld medics as methods to reduce swelling
 or drain blood, leeches are despised by most who encounter them, regardless
-of the setting.
+of the setting.
 GIANT LEECH
 Capable of growing to lengths of nearly 5 feet, giant leeches have circular maws
 ﬁlled with hook-like teeth. They prefer to dwell in stagnant or slow-moving
 shallow water or in damp, moist undergrowth. Horses and larger animals are
 their favorite prey, but they won’t balk at a chance to latch onto a human- or
 halﬂing-sized meal.
+GIANT LEECH
+CREATURE 2
+N
+MEDIUM
+AMPHIBIOUS
+ANIMAL
+Perception +5; tremorsense 30 feet
+Skills Athletics +8, Stealth +7
+Str +4, Dex +1, Con +3, Int –5, Wis +1, Cha –5
+AC 17; Fort +9, Ref +7, Will +5
+HP 32; Weaknesses salt 5
+Speed 5 feet, swim 20 feet
+Melee Ȱɵ mouth +10, Damage 1d4+6 piercing plus Grab
+Blood Drain Ȱɵ Requirements The giant leech has a creature grabbed or restrained;
+Eﬀect The giant leech drains blood from the creature it has grabbed. This
+deals 2d4 damage. A creature that has its blood drained by a giant leech
+is drained 1 until it receives any kind or amount of healing.
+BROOD LEECH SWARM
+Most smaller species of leeches do not tend to swarm, but
+brood leeches are prone to gathering in seething, undulant
+mats of squirming gluttony. When they gather in sufﬁcient
+numbers to swarm, they eschew the stealth of a lone leech’s
+feeding methods in favor of swift and merciless feeding.
+In these situations, their mild venom can affect much
+larger creatures than their usual prey.
+BROOD LEECH SWARM
+CREATURE 4
+N
+LARGE
+AMPHIBIOUS
+ANIMAL
+SWARM
+Perception +9; tremorsense 30 feet
+Skills Athletics +8, Stealth +11
+Str +0, Dex +3, Con +4, Int –5, Wis +1, Cha –5
+AC 19; Fort +12, Ref +11, Will +9
+HP 40; Immunities precision, swarm mind;
+Weaknesses area damage 5, salt 5, splash
+damage 5; Resistances bludgeoning 2,
+piercing 5, slashing 5
+Speed 5 feet, swim 20 feet
+Blood Draining Bites Ȱɵ Each enemy in
+the swarm’s space takes 2d6 bleed
+damage and is exposed to brood leech
+swarm venom.
+Brood Leech Swarm Venom (poison) Saving
+Throw DC 21 Fortitude; Maximum Duration
+6 rounds; Stage 1 clumsy 1, sickened 1,
+and –5-foot status penalty to Speed (1
+round); Stage 2 clumsy 1, sickened
+1, and –10-foot status penalty
+to Speed (1 round)
+i
+W
+l Wi di
+<Wi
+ji
+j dh
+d@
+il
+> F b 23 2023
+paizo.com, Wexel Winding <Wiggyjiggyjedhead@gmail.com>, Feb 23, 2023
+24868654
+4425166
